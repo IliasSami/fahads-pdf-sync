@@ -1,0 +1,9 @@
+{
+  "name": "Bible Study Slide Library",
+  "short_name": "Bible Slides",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f4ee",
+  "theme_color": "#1d3a6e",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
