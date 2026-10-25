@@ -1,0 +1,156 @@
+{
+ "id": "genesis-1-1-part-1/59",
+ "kinds": [
+  "letters"
+ ],
+ "title": "Vav (ו): hook, nail, upright man, “and” — number 6",
+ "summary": "The Hebrew letter vav (ו) in three type styles, named vav (V, O, W, U) with value 6 and the meaning Hook, Nail, Upright Man; its ancient pictograph (a hook or Y-shaped nail) is shown twice, the second time labelled vav, And.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ו ו ו"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "vav"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "V,O,W,U"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "6"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Hook, Nail, Upright Man"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "vav"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "And"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ו",
+   "translit": "vav",
+   "gloss": "and; hook, nail",
+   "strongs": "H2053"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "vav",
+   "other": "ו"
+  },
+  {
+   "en": "Hook, Nail, Upright Man",
+   "other": "ו"
+  },
+  {
+   "en": "And",
+   "other": "ו"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "Hook, Nail, Upright Man; also “And” (V, O, W, U; hook pictograph)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 6,
+   "note": "value of vav (ו)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Small ancient Hebrew pictograph of vav: a black Y-shaped hook or peg on a stem over a black underline.",
+   "subjects": [
+    "vav",
+    "hook",
+    "nail",
+    "tent peg",
+    "paleo-Hebrew",
+    "pictograph"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.53,
+    0.37,
+    0.59,
+    0.5
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Large ancient Hebrew pictograph of vav: a thick black Y-shaped hook on a stem over a green underline, beside the words “vav” and “And”.",
+   "subjects": [
+    "vav",
+    "hook",
+    "nail",
+    "Y-shape",
+    "paleo-Hebrew",
+    "pictograph"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.23,
+    0.68,
+    0.3,
+    0.88
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "nail",
+   "hook"
+  ],
+  "themes": [
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "vav",
+  "waw",
+  "vau",
+  "Hebrew letter vav",
+  "hook",
+  "nail",
+  "upright man",
+  "and",
+  "number 6",
+  "pictograph",
+  "paleo-Hebrew",
+  "letter meanings",
+  "connector"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

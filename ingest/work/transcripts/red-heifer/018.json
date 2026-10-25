@@ -1,0 +1,187 @@
+{
+ "id": "red-heifer/18",
+ "kinds": [
+  "word-study",
+  "list"
+ ],
+ "title": "Tumah (טמאה), impurity — seven ways to become impure",
+ "summary": "Word study of tumah (Hebrew טמאה, impurity) with a numbered list of seven causes of ritual impurity: touching a dead body, being in a house with a dead body, certain dead animals (Leviticus 11), certain bodily fluids, giving birth (7/33 days for a boy, 14/66 for a girl), contact with a source of tumah, and leprosy (Leviticus 13-14).",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "tumah"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "טמאה"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Impurity"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Contact with a dead body—tumat met"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "2 Present in a house containing a dead body—tumat ohel"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "3 Contact with certain dead animals—Leviticus 11"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "4 Contact with certain bodily fluids—niddah, zav/zavah"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "5 Giving birth to a child—7/33 days boy, 14/66 girl"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "6 Contact with a primary source of tumah or object that has tumah"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "7 Contracting Leprosy—tzaraath Leviticus 13–14."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Leviticus 11",
+   "osis": [
+    "Lev.11.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Leviticus 13–14",
+   "osis": [
+    "Lev.13.1",
+    "Lev.14.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "טמאה",
+   "translit": "tumah",
+   "gloss": "impurity, uncleanness",
+   "strongs": "H2932",
+   "gematria": null
+  },
+  {
+   "lang": "other",
+   "word": "tumat met",
+   "translit": "tumat met",
+   "gloss": "impurity from a corpse",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "other",
+   "word": "tumat ohel",
+   "translit": "tumat ohel",
+   "gloss": "impurity from being in a tent/house with a corpse",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "other",
+   "word": "niddah",
+   "translit": "niddah",
+   "gloss": "menstrual impurity",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "other",
+   "word": "zav/zavah",
+   "translit": "zav/zavah",
+   "gloss": "man/woman with an abnormal bodily discharge",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "other",
+   "word": "tzaraath",
+   "translit": "tzaraath",
+   "gloss": "leprosy (skin disease)",
+   "strongs": null,
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "days of impurity after birth of a boy (first period)"
+  },
+  {
+   "value": 33,
+   "note": "further days after birth of a boy"
+  },
+  {
+   "value": 14,
+   "note": "days of impurity after birth of a girl (first period)"
+  },
+  {
+   "value": 66,
+   "note": "further days after birth of a girl"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "dead body",
+   "leprosy"
+  ],
+  "themes": [
+   "clean and unclean",
+   "death",
+   "purification",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "tumah",
+  "tumat met",
+  "tumat ohel",
+  "impurity",
+  "uncleanness",
+  "unclean",
+  "dead body",
+  "touching the dead",
+  "niddah",
+  "zav",
+  "zavah",
+  "childbirth impurity",
+  "leprosy",
+  "tzaraath",
+  "Leviticus 11",
+  "Leviticus 13",
+  "Leviticus 14",
+  "causes of impurity"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

@@ -1,0 +1,24 @@
+{
+  "id": "abel/116",
+  "kinds": ["verse"],
+  "title": "Genesis 4:14 — “this day” (היום) underlined",
+  "summary": "Genesis 4:14 in English and Hebrew with “this day” underlined in the English and the matching Hebrew word היום (“the day”) underlined.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:14", "osis": "Gen.4.14"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:יד"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.14", "text": "14 Surely You have driven me out this day from the face of the ground; and from your face I shall be hidden; and I shall be a fugitive and a vagabond on the earth, and it will happen that anyone who finds me will kill me.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.14", "text": "14 הן גרשת אתי היום מעל פני האדמה ומפניך אסתר והייתי נע ונד בארץ והיה כל מצאי יהרגני׃"}
+  ],
+  "refs": [{"shown": "Genesis 4:14 / בראשית ד:יד", "osis": ["Gen.4.14"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "היום", "translit": "hayom", "gloss": "the day (this day)", "strongs": "H3117"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain"], "places": [], "events": ["Cain's punishment"], "things": ["ground"], "themes": ["judgment", "exile", "wandering", "death"], "groups": []},
+  "keywords": ["this day", "hayom", "driven me out this day", "from thy face shall I be hid", "fugitive and a vagabond", "Cain's fear", "Cain's punishment", "Cain and Abel", "Genesis 4", "Genesis 4:14"],
+  "uncertain": [],
+  "confidence": 0.95
+}

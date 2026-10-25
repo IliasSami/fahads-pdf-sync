@@ -1,0 +1,139 @@
+{
+ "id": "noah-part-2/69",
+ "kinds": [
+  "verse",
+  "comparison"
+ ],
+ "title": "3rd dove finds rest; the Spirit indwells believers at Pentecost",
+ "summary": "Pairs Genesis 8:12 (the third dove does not return and finds a resting place) with Acts 2:1-4 (the Spirit comes at Pentecost and rests on each believer). The slide concludes: Spirit of God indwells believers / finds rest.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:12",
+   "osis": "Gen.8.12"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "3rd DOVE"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:יב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.12",
+   "text": "12 …but this time it did not return to him."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "3rd DOVE: Finds Resting Place"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Acts 2:1-4",
+   "osis": [
+    "Acts.2.1",
+    "Acts.2.2",
+    "Acts.2.3",
+    "Acts.2.4"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Acts 2:1-4"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": [
+    "Acts.2.1",
+    "Acts.2.2",
+    "Acts.2.3",
+    "Acts.2.4"
+   ],
+   "text": "1 When the day of Pentecost had come, they were all together in one place. 2 And suddenly there came from heaven a noise like a violent rushing wind, and it filled the whole house where they were sitting. 3 And there appeared to them tongues as of fire distributing themselves, and they rested on each one of them. 4 And they were all filled with the Holy Spirit and began to speak with other tongues, as the Spirit was giving them utterance."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Spirit OF GOD: Indwells Believers/Finds Rest"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:12 / בראשית ח:יב",
+   "osis": [
+    "Gen.8.12"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Acts 2:1-4",
+   "osis": [
+    "Acts.2.1",
+    "Acts.2.2",
+    "Acts.2.3",
+    "Acts.2.4"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "row of seven Stars of David between the two passages (decorative divider)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Holy Spirit",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "Pentecost",
+   "the Flood"
+  ],
+  "things": [
+   "dove",
+   "tongues of fire"
+  ],
+  "themes": [
+   "rest",
+   "typology",
+   "Holy Spirit"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "third dove",
+  "dove finds rest",
+  "Pentecost",
+  "Acts 2",
+  "Holy Spirit indwells believers",
+  "tongues of fire",
+  "rushing wind",
+  "speaking in tongues",
+  "filled with the Holy Spirit",
+  "Genesis 8:12",
+  "Spirit rested on each one",
+  "day of Pentecost"
+ ],
+ "uncertain": [
+  "Both headers over the Acts passage read 'Acts 2:1-4' (no Greek form shown)"
+ ],
+ "confidence": 0.95
+}

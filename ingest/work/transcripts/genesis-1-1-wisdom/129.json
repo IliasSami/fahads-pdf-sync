@@ -1,0 +1,216 @@
+{
+ "id": "genesis-1-1-wisdom/129",
+ "kinds": [
+  "verse",
+  "gematria",
+  "word-study"
+ ],
+ "title": "Genesis 3:6 — Man + (and he ate) = LORD God (112), first step",
+ "summary": "Genesis 3:6 (“She also gave to her husband with her, and he ate”) in English and Hebrew, with the equation started: Man (adam, 45) plus the English words “and he ate” equals LORD God (yahweh elohim, 112). The Hebrew for “and he ate” and its number are not yet shown.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:6",
+   "osis": "Gen.3.6"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:ו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.3.6",
+   "text": "6 …She also gave to her husband with her, and he ate."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.3.6",
+   "text": "6 …ותתן גם לאישה עמה ויאכל׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Man"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "adam"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אדם"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "40 4 1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "45"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "+"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "and he ate"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "="
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "LORD God"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh elohim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "יהוה אלהים"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 6 5 10 40 10 5 30 1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "112"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:6 / בראשית ג:ו",
+   "osis": [
+    "Gen.3.6"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "man",
+   "strongs": "H120",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     4,
+     1
+    ],
+    "total": 45
+   }
+  },
+  {
+   "lang": "he",
+   "word": "יהוה אלהים",
+   "translit": "yahweh elohim",
+   "gloss": "LORD God",
+   "strongs": "H3068",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     6,
+     5,
+     10,
+     40,
+     10,
+     5,
+     30,
+     1
+    ],
+    "total": 112
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Man",
+   "other": "אדם"
+  },
+  {
+   "en": "adam",
+   "other": "אדם"
+  },
+  {
+   "en": "LORD God",
+   "other": "יהוה אלהים"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 45,
+   "note": "gematria of אדם (adam, man)"
+  },
+  {
+   "value": 112,
+   "note": "gematria of יהוה אלהים (yahweh elohim, LORD God)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam",
+   "Eve"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "sin",
+   "names of God",
+   "wisdom"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 3:6",
+  "Genesis 3",
+  "and he ate",
+  "she gave to her husband",
+  "Adam ate the fruit",
+  "man plus and he ate",
+  "LORD God",
+  "yahweh elohim",
+  "gematria 112",
+  "gematria 45",
+  "the fall",
+  "forbidden fruit"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

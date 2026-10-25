@@ -1,0 +1,186 @@
+{
+ "id": "gods-garden-in-eden/33",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Hidden letters in Genesis 2:18-19: aloe, tamarisk, oak",
+ "summary": "Three Hebrew excerpts from Genesis 2:18-19, each with a few large coloured letters that spell a tree word with a number beside it: Aloe אהלים (+6), Tamarisk אשל (+2) and Oak אלון (+17). Highlighted letters are א, ה, ל, י, ם in the aloe lines; א, ש, ל in the tamarisk lines; and א, ל, ו, נ in the oak lines.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Aloe"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אהלים"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "+6"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.18",
+   "text": "18 ויאמר יהוה אלהים לא־טוב היות האדם לבדו אעשה־לו עזר כנגדו׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Tamarisk"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אשל"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "+2"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.18",
+   "text": "18 ויאמר יהוה אלהים לא־טוב היות האדם לבדו אעשה־לו עזר כנגדו׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Oak"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אלון"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "+17"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.19",
+   "text": "19 ויצר יהוה אלהים מן־האדמה כל־חית השדה ואת כל־עוף השמים ויבא אל־האדם לראות מה־יקרא־לו וכל אשר יקרא־לו האדם נפש חיה הוא שמו׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:18-19 (Hebrew text)",
+   "osis": [
+    "Gen.2.18",
+    "Gen.2.19"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אהלים",
+   "translit": "ahalim",
+   "gloss": "aloe",
+   "strongs": "H174",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אשל",
+   "translit": "eshel",
+   "gloss": "tamarisk",
+   "strongs": "H815",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלון",
+   "translit": "allon",
+   "gloss": "oak",
+   "strongs": "H437",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Aloe",
+   "other": "אהלים"
+  },
+  {
+   "en": "Tamarisk",
+   "other": "אשל"
+  },
+  {
+   "en": "Oak",
+   "other": "אלון"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 6,
+   "note": "+6, number shown beside אהלים (aloe)"
+  },
+  {
+   "value": 2,
+   "note": "+2, number shown beside אשל (tamarisk)"
+  },
+  {
+   "value": 17,
+   "note": "+17, number shown beside אלון (oak)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "aloe",
+   "tamarisk",
+   "oak",
+   "beasts of the field",
+   "birds of the air"
+  ],
+  "themes": [
+   "Bible codes",
+   "creation",
+   "marriage"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "hidden letters",
+  "Bible code",
+  "ELS",
+  "aloe in Hebrew",
+  "ahalim",
+  "tamarisk in Hebrew",
+  "eshel",
+  "oak in Hebrew",
+  "allon",
+  "trees of Eden",
+  "Genesis 2:18",
+  "Genesis 2:19",
+  "not good that man should be alone",
+  "help meet",
+  "Adam named the animals",
+  "living creature",
+  "skip number"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

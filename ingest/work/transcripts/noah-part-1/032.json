@@ -1,0 +1,136 @@
+{
+ "id": "noah-part-1/32",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 6:8 and the Law of First Usage: chen (חן) = Grace",
+ "summary": "Genesis 6:8 in English and Hebrew (with a small 5 after Noah / ונח, and a row of five Stars of David) followed by the heading “Law of 1st Usage” and the word chen (חן) = Grace, with colour matching between the verse and the word.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:8",
+   "osis": "Gen.6.8"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.8",
+   "text": "8 And Noah⁵ found FAVOR in the eyes of the LORD."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.6.8",
+   "text": "ונח⁵ מצא חן בעיני יהוה׃"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Law of 1st Usage"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "chen"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חן"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Grace"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:8 / בראשית ו:ח",
+   "osis": [
+    "Gen.6.8"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חן",
+   "translit": "chen",
+   "gloss": "favor, grace",
+   "strongs": "H2580"
+  },
+  {
+   "lang": "he",
+   "word": "ונח",
+   "translit": "v'noach",
+   "gloss": "and Noah",
+   "strongs": "H5146"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Noah",
+   "other": "ונח"
+  },
+  {
+   "en": "FAVOR",
+   "other": "חן"
+  },
+  {
+   "en": "Grace",
+   "other": "חן"
+  },
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 5,
+   "note": "small superscript 5 after Noah / ונח"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [],
+  "themes": [
+   "grace",
+   "law of first mention"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Law of First Usage",
+  "law of first mention",
+  "first usage",
+  "chen",
+  "grace",
+  "favor",
+  "Noah found grace",
+  "Genesis 6:8",
+  "first time grace appears in the Bible",
+  "חן",
+  "Noah"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

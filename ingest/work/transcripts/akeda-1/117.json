@@ -1,0 +1,78 @@
+{
+ "id": "akeda-1/117",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 22:13 — The ram caught in the thicket",
+ "summary": "Genesis 22:13 in English with the Hebrew reference header: Abraham sees a ram caught in the thicket by its horns and offers it as a burnt offering in the place of his son. Abraham, thicket and son are colour-highlighted.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22:13",
+   "osis": "Gen.22.13"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב:יג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.13",
+   "text": "13 Then Abraham raised his eyes and looked, and behold, behind him a ram caught in the thicket by his horns; and Abraham went and took the ram and offered him up for a burnt offering in the place of his son."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:13 / בראשית כב:יג",
+   "osis": [
+    "Gen.22.13"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Abraham",
+   "Isaac"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "ram",
+   "thicket",
+   "horns",
+   "burnt offering"
+  ],
+  "themes": [
+   "sacrifice",
+   "substitution",
+   "burnt offering"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "ram caught in the thicket",
+  "Genesis 22:13",
+  "Akedah",
+  "substitute sacrifice",
+  "in the place of his son",
+  "burnt offering",
+  "horns",
+  "ram in the bush",
+  "Abraham offers the ram",
+  "Binding of Isaac",
+  "substitution"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

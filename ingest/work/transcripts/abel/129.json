@@ -1,0 +1,21 @@
+{
+  "id": "abel/129",
+  "kinds": ["verse"],
+  "title": "Exodus 33:19 — I will proclaim My name, the LORD",
+  "summary": "Exodus 33:19 in English: the LORD says He will cause all His goodness to pass before Moses, proclaim His name, the LORD, and have mercy and compassion on whom He will. The reference header also appears in Hebrew; the word LORD is colour-highlighted.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Exodus 33:19", "osis": "Exod.33.19"},
+    {"lang": "he", "role": "reference", "text": "שמות לג:יט", "osis": "Exod.33.19"},
+    {"lang": "en", "role": "verse", "text": "19 “I will cause all My goodness to pass before you,” the LORD replied, “and I will proclaim My name—the LORD—in your presence. I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”", "osis": "Exod.33.19"}
+  ],
+  "refs": [{"shown": "Exodus 33:19 / שמות לג:יט", "osis": ["Exod.33.19"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Moses"], "places": [], "events": [], "things": [], "themes": ["names of God", "grace", "mercy"], "groups": []},
+  "keywords": ["Exodus 33", "I will proclaim the name of the LORD", "goodness", "mercy", "compassion", "I will be gracious", "name of God", "YHWH", "Moses", "glory", "pass before you"],
+  "uncertain": [],
+  "confidence": 0.96
+}

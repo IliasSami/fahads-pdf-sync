@@ -1,0 +1,187 @@
+{
+  "id": "abel/73",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:7 — yatab (to be good) alongside tov (good)",
+  "summary": "Genesis 4:7 with the Hebrew word tov (טוב, good) and below it yatab (יטיב, to be good), the verb behind “do well”; the letters are colour-matched to the highlighted letters in תיטיב.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:7",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:ז",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "7 If you do well, will you not be accepted?",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "And if you do not do well, sin lies at the door.",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "And its desire is for you, but you should rule over it.”",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "7 הלוא אם תיטיב שאת",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ואם לא תיטיב לפתח חטאת רבץ",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ואליך תשוקתו ואתה תמשל בו׃",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "tov"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "טוב"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Good"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "yatab"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "יטיב"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "To be Good"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:7 / בראשית ד:ז",
+      "osis": [
+        "Gen.4.7"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "טוב",
+      "translit": "tov",
+      "gloss": "good",
+      "strongs": "H2896"
+    },
+    {
+      "lang": "he",
+      "word": "יטיב",
+      "translit": "yatab",
+      "gloss": "to be good",
+      "strongs": "H3190"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "t (tov)",
+      "other": "ט"
+    },
+    {
+      "en": "o (tov)",
+      "other": "ו"
+    },
+    {
+      "en": "v (tov)",
+      "other": "ב"
+    },
+    {
+      "en": "y (yatab)",
+      "other": "י"
+    },
+    {
+      "en": "t (yatab)",
+      "other": "ט"
+    },
+    {
+      "en": "b (yatab)",
+      "other": "ב"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Cain",
+      "God"
+    ],
+    "places": [],
+    "events": [
+      "Cain and Abel's offerings"
+    ],
+    "things": [
+      "door"
+    ],
+    "themes": [
+      "sin",
+      "obedience",
+      "temptation"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "if you do well",
+    "if thou doest well",
+    "shalt thou not be accepted",
+    "sin lieth at the door",
+    "sin lies at the door",
+    "sin crouching at the door",
+    "its desire is for you",
+    "rule over it",
+    "master sin",
+    "Genesis 4:7",
+    "Cain and Abel",
+    "Genesis 4",
+    "yatab",
+    "yatav",
+    "to be good",
+    "do well",
+    "tov",
+    "good",
+    "Hebrew verb to be good"
+  ],
+  "uncertain": [
+    "The yatab/יטיב row shows letters yod, tet, yod, bet; the transliteration letters are coloured partly to match."
+  ],
+  "confidence": 0.92
+}

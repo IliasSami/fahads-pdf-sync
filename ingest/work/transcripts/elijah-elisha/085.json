@@ -1,0 +1,102 @@
+{
+ "id": "elijah-elisha/85",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 Kings 18:41-43 — Elijah on Carmel sends his servant to look toward the sea",
+ "summary": "The text of 1 Kings 18:41-43: Elijah tells Ahab to go eat and drink because a heavy shower is coming, then goes to the top of Carmel and crouches with his face between his knees, and sends his servant to look toward the sea seven times; the servant reports there is nothing. The name Elijah and the el in Carmel are coloured.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 18:41-43",
+   "osis": [
+    "1Kgs.18.41",
+    "1Kgs.18.42",
+    "1Kgs.18.43"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א יח:מא-מג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "41 Now Elijah said to Ahab, “Go up, eat and drink; for there is the sound of the roar of a heavy shower.”",
+   "osis": "1Kgs.18.41"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "42 So Ahab went up to eat and drink. But Elijah went up to the top of Carmel; and he crouched down on the earth and put his face between his knees.",
+   "osis": "1Kgs.18.42"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "43 He said to his servant, “Go up now, look toward the sea.” So he went up and looked and said, “There is nothing.” And he said, “Go back” seven times.",
+   "osis": "1Kgs.18.43"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 18:41-43 / מלכים א יח:מא-מג",
+   "osis": [
+    "1Kgs.18.41",
+    "1Kgs.18.42",
+    "1Kgs.18.43"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "Elijah sends his servant back seven times to look toward the sea"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah",
+   "Ahab"
+  ],
+  "places": [
+   "Mount Carmel"
+  ],
+  "events": [
+   "end of the drought",
+   "contest on Mount Carmel"
+  ],
+  "things": [
+   "sea",
+   "rain"
+  ],
+  "themes": [
+   "prayer",
+   "faith",
+   "prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "sound of abundance of rain",
+  "roar of a heavy shower",
+  "Elijah on top of Carmel",
+  "face between his knees",
+  "look toward the sea",
+  "go again seven times",
+  "there is nothing",
+  "Elijah prays for rain",
+  "end of drought",
+  "1 Kings 18",
+  "Elijah's servant"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

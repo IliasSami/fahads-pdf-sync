@@ -1,0 +1,183 @@
+{
+ "id": "akeda-2/97",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Beer-lahai-roi means 'Well of the Living One Who Sees Me'",
+ "summary": "Genesis 24:62 in English with the word-by-word breakdown of beer-lahai-roi (beer = Well, l'chai = Living One, roee = See, Vision) and the final translation 'Well of the Living One Who Sees Me', with 'Well' in blue and 'Living One' in green.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 24",
+   "osis": "Gen.24.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כד",
+   "osis": "Gen.24.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "62 Now Isaac had come from going to Beer-lahai-roi; for he was living in the Negev.",
+   "osis": "Gen.24.62"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "beer-lahai-roi"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "beer"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "באר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Well"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "l’chai"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "לחי"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Living One"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "roee"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ראי"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "See, Vision"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Well of the Living One Who Sees Me"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 24 / בראשית כד",
+   "osis": [
+    "Gen.24.62"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "באר",
+   "translit": "beer",
+   "gloss": "well",
+   "strongs": "H875"
+  },
+  {
+   "lang": "he",
+   "word": "לחי",
+   "translit": "l'chai",
+   "gloss": "Living One",
+   "strongs": "H2416"
+  },
+  {
+   "lang": "he",
+   "word": "ראי",
+   "translit": "roee",
+   "gloss": "see, vision",
+   "strongs": "H7210"
+  },
+  {
+   "lang": "en",
+   "word": "Beer-lahai-roi",
+   "translit": "beer-lahai-roi",
+   "gloss": "Well of the Living One Who Sees Me",
+   "strongs": "H883"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "beer",
+   "other": "באר"
+  },
+  {
+   "en": "Well",
+   "other": "באר"
+  },
+  {
+   "en": "l’chai",
+   "other": "לחי"
+  },
+  {
+   "en": "Living One",
+   "other": "לחי"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Isaac",
+   "God"
+  ],
+  "places": [
+   "Beer-lahai-roi",
+   "Negev"
+  ],
+  "events": [],
+  "things": [
+   "well"
+  ],
+  "themes": [
+   "names of God",
+   "life",
+   "water"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Beer-lahai-roi",
+  "Beer Lahai Roi",
+  "Well of the Living One Who Sees Me",
+  "well of the Living One",
+  "beer means well",
+  "chai living",
+  "l'chai",
+  "roee",
+  "God who sees",
+  "El Roi",
+  "Lahai-roi",
+  "Isaac in the Negev",
+  "Genesis 24",
+  "Genesis 24:62",
+  "Genesis 16:14"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

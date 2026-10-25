@@ -1,0 +1,135 @@
+{
+ "id": "noah-part-2/67",
+ "kinds": [
+  "verse",
+  "comparison"
+ ],
+ "title": "2nd dove lands on a branch; the Spirit lands on Jesus at his baptism",
+ "summary": "Pairs Genesis 8:11 (the second dove returns with an olive leaf: lands on branch / branch broken) with Matthew 3:16-17 (the Spirit of God descends as a dove and lights on Jesus, the Branch). The slide concludes: Spirit of God lands on BRANCH / yeshua, broken.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:11",
+   "osis": "Gen.8.11"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "2nd DOVE"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.11",
+   "text": "11 When the dove returned to him in the evening, there in its beak was a freshly plucked olive leaf!"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "2nd DOVE : Lands on Branch / Branch Broken"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Matthew 3:16-17",
+   "osis": [
+    "Matt.3.16",
+    "Matt.3.17"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Μαθθαῖον 3:16-17"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": [
+    "Matt.3.16",
+    "Matt.3.17"
+   ],
+   "text": "16 After being baptized, yeshua came up immediately from the water; and behold, the heavens were opened, and he saw the Spirit of God descending as a dove and lighting on Him, 17 and behold, a voice out of the heavens said, “This is My beloved Son, in whom I am well-pleased.”"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "SPIRIT OF GOD: Lands on BRANCH/yeshua Broken"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:11 / בראשית ח:יא",
+   "osis": [
+    "Gen.8.11"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Matthew 3:16-17 / Μαθθαῖον 3:16-17",
+   "osis": [
+    "Matt.3.16",
+    "Matt.3.17"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "row of seven Stars of David between the two passages (decorative divider)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus",
+   "God",
+   "Holy Spirit",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "Baptism of Jesus",
+   "the Flood"
+  ],
+  "things": [
+   "dove",
+   "olive leaf",
+   "branch"
+  ],
+  "themes": [
+   "typology",
+   "messianic prophecy",
+   "sacrifice"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "second dove",
+  "dove lands on branch",
+  "branch broken",
+  "Spirit descending as a dove",
+  "baptism of Jesus",
+  "Yeshua baptized",
+  "This is my beloved Son",
+  "well pleased",
+  "olive leaf",
+  "Genesis 8:11",
+  "Matthew 3:16",
+  "Matthew 3:17",
+  "Branch",
+  "heavens opened"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

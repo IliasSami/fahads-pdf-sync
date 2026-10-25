@@ -1,0 +1,195 @@
+{
+ "id": "genesis-1-1-part-1/31",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:1: bara (ברא) contains ab, ruach, ben — Father, Spirit, Son",
+ "summary": "Genesis 1:1 in English and Hebrew with the word bara (ברא, created) in colour. The letters of bara are tied to three Hebrew words in matching colours: ab (אב, Father), ruach (רוח, Spirit) and ben (בן, Son).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "1 In beginning God created the heavens and the earth."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ברא"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אב"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "רוח"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בן"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ab"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ruach"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ben"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Father"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Spirit"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Son"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אב",
+   "translit": "ab",
+   "gloss": "Father",
+   "strongs": "H1"
+  },
+  {
+   "lang": "he",
+   "word": "רוח",
+   "translit": "ruach",
+   "gloss": "Spirit",
+   "strongs": "H7307"
+  },
+  {
+   "lang": "he",
+   "word": "בן",
+   "translit": "ben",
+   "gloss": "Son",
+   "strongs": "H1121"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Father",
+   "other": "אב"
+  },
+  {
+   "en": "ab",
+   "other": "אב"
+  },
+  {
+   "en": "Spirit",
+   "other": "רוח"
+  },
+  {
+   "en": "ruach",
+   "other": "רוח"
+  },
+  {
+   "en": "Son",
+   "other": "בן"
+  },
+  {
+   "en": "ben",
+   "other": "בן"
+  },
+  {
+   "en": "God",
+   "other": "ברא"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus",
+   "Holy Spirit"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "heavens",
+   "earth"
+  ],
+  "themes": [
+   "creation",
+   "Trinity",
+   "names of God",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "bara",
+  "created",
+  "ab",
+  "ruach",
+  "ben",
+  "Father Son and Holy Spirit",
+  "Trinity",
+  "Godhead",
+  "Father Spirit Son",
+  "in the beginning God created",
+  "hidden Trinity in Genesis 1:1",
+  "bereshit"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

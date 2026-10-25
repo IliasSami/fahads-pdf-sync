@@ -1,0 +1,22 @@
+{
+  "id": "fall-of-man/5",
+  "kinds": ["verse"],
+  "title": "Genesis 3:4-5 — “You surely will not die… you will be like God”",
+  "summary": "Genesis 3:4-5 in English: the serpent tells the woman she will not die, and that eating will open her eyes so she will be like God, knowing good and evil. The words “good” and “evil” are enlarged for emphasis.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 3:4-5", "osis": ["Gen.3.4", "Gen.3.5"]},
+    {"lang": "he", "role": "reference", "text": "בראשית ג:ד-ה", "osis": ["Gen.3.4", "Gen.3.5"]},
+    {"lang": "en", "role": "verse", "text": "4 The serpent said to the woman, “You surely will not die!", "osis": "Gen.3.4"},
+    {"lang": "en", "role": "verse", "text": "5 “For God knows that in the day you eat from it your eyes will be opened, and you will be like God, knowing good and evil.”", "osis": "Gen.3.5"}
+  ],
+  "refs": [{"shown": "Genesis 3:4-5 / בראשית ג:ד-ה", "osis": ["Gen.3.4", "Gen.3.5"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Eve"], "places": ["Garden of Eden"], "events": ["Fall of Man"], "things": ["serpent"], "themes": ["temptation", "deception", "death", "knowledge of good and evil"], "groups": []},
+  "keywords": ["ye shall not surely die", "you will not die", "the serpent's lie", "first lie", "your eyes shall be opened", "ye shall be as gods", "like God", "knowing good and evil", "deception", "temptation", "Genesis 3", "Genesis 3:5"],
+  "uncertain": [],
+  "confidence": 0.95
+}

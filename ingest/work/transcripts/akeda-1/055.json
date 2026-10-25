@@ -1,0 +1,29 @@
+{
+  "id": "akeda-1/55",
+  "kinds": ["verse"],
+  "title": "Genesis 22:3-4 — On the third day Abraham saw the place from a distance",
+  "summary": "Genesis 22:3-4 under the heading “The Akedah”: Abraham sets out with two young men and Isaac, and on the third day he raises his eyes and sees the place from a distance. The word “third” is enlarged in gold.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22", "osis": ["Gen.22.3", "Gen.22.4"]},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב"},
+    {"lang": "en", "role": "heading", "text": "The Akedah"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.3", "text": "3 So Abraham rose early in the morning and saddled his donkey, and took two of his young men with him and Isaac his son; and he split wood for the burnt offering, and arose and went to the place of which God had told him."},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.4", "text": "4 On the third day Abraham raised his eyes and saw the place from a distance."}
+  ],
+  "refs": [{"shown": "Genesis 22 / בראשית כב (verses 3-4)", "osis": ["Gen.22.3", "Gen.22.4"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "העקדה", "translit": "ha-akedah", "gloss": "the binding (of Isaac)", "strongs": "H6123"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {"value": 2, "note": "two young men taken along (highlighted in green)"},
+    {"value": 3, "note": "“third day” — word enlarged in gold"}
+  ],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac", "God"], "places": ["Mount Moriah"], "events": ["Binding of Isaac (Akedah)"], "things": ["donkey", "wood", "burnt offering"], "themes": ["obedience", "faith", "sacrifice", "third day", "resurrection"], "groups": ["young men (servants)"]},
+  "keywords": ["Genesis 22", "Akedah", "Akeda", "binding of Isaac", "third day", "on the third day", "Abraham lifted up his eyes", "saw the place afar off", "two young men", "rose up early in the morning", "saddled his ass", "wood for the burnt offering"],
+  "uncertain": [],
+  "confidence": 0.95
+}

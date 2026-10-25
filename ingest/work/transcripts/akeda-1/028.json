@@ -1,0 +1,68 @@
+{
+ "id": "akeda-1/28",
+ "kinds": [
+  "text",
+  "comparison"
+ ],
+ "title": "Believer, Agnostic and Atheist: Adonai / I dunno? / I deny!",
+ "summary": "Three responses to God side by side: the Believer says 'Adonai!' (purple), the Agnostic says 'I dunno?' (grey), and the Atheist says 'I deny!' (black).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Believer Says: Adonai!"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Agnostic Says: I dunno?"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Atheist Says: I deny!"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדני",
+   "translit": "adonai",
+   "gloss": "Lord",
+   "strongs": "H136"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "faith"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Adonai",
+  "Lord",
+  "believer",
+  "agnostic",
+  "atheist",
+  "I deny",
+  "I dunno",
+  "unbelief",
+  "atheism",
+  "agnosticism",
+  "believer vs agnostic vs atheist"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

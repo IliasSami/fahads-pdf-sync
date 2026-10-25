@@ -1,0 +1,194 @@
+{
+ "id": "genesis-1-1-part-2/38",
+ "kinds": [
+  "list",
+  "verse"
+ ],
+ "title": "In Genesis 1, God commanded 3 + 7 times",
+ "summary": "Lists ten commands of God in Genesis 1, numbered I to X, from \"Be light\" (1:3) to \"Let Us make man in Our image\" (1:26). The title says God commanded 3 + 7 times; the words Us and Our in the last item are highlighted.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "In Genesis 1, God Commanded 3 + 7 Times"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "I (Let there) Be light. (1:3)",
+   "osis": "Gen.1.3"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "II Let there be an expanse in the midst of the waters, and let it separate the waters from the waters. (1:6)",
+   "osis": "Gen.1.6"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "III Let the waters below the heavens be gathered into one place, and let the dry land appear. (1:9)",
+   "osis": "Gen.1.9"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "IV Let the earth sprout vegetation, plants yielding seed, and fruit trees on the earth bearing fruit after their kind with seed in them. (1:11)",
+   "osis": "Gen.1.11"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "V Let there be lights in the expanse of the heavens to separate the day from the night, and let them be for signs and for seasons and for days and years; and let them be for lights in the expanse of the heavens to give light on the earth. (1:14)",
+   "osis": "Gen.1.14"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "VI Let the waters teem with swarms of living creatures, and (1:20)",
+   "osis": "Gen.1.20"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "VII Let birds fly above the earth in the open expanse of the heavens. (1:20)",
+   "osis": "Gen.1.20"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "VIII Be fruitful and multiply, and fill the waters in the seas, and let birds multiply on the earth. (1:22)",
+   "osis": "Gen.1.22"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "IX Let the earth bring forth living creatures after their kind: cattle and creeping things and beasts of the earth after their kind. (1:24)",
+   "osis": "Gen.1.24"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "X Let Us make man in Our image, according to Our likeness… (1:26)",
+   "osis": "Gen.1.26"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "(1:3)",
+   "osis": [
+    "Gen.1.3"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "(1:6)",
+   "osis": [
+    "Gen.1.6"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "(1:9)",
+   "osis": [
+    "Gen.1.9"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "(1:11)",
+   "osis": [
+    "Gen.1.11"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "(1:14)",
+   "osis": [
+    "Gen.1.14"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "(1:20)",
+   "osis": [
+    "Gen.1.20"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "(1:22)",
+   "osis": [
+    "Gen.1.22"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "(1:24)",
+   "osis": [
+    "Gen.1.24"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "(1:26)",
+   "osis": [
+    "Gen.1.26"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 10,
+   "note": "ten commands of God in Genesis 1 (3 + 7)"
+  },
+  {
+   "value": 3,
+   "note": "3 + 7 in the title"
+  },
+  {
+   "value": 7,
+   "note": "3 + 7 in the title"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "number seven",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "let there be light",
+  "God commanded",
+  "ten commands in Genesis 1",
+  "let there be",
+  "let Us make man in Our image",
+  "Us and Our",
+  "plural God",
+  "be fruitful and multiply",
+  "Genesis 1",
+  "creation commands",
+  "3 + 7",
+  "God said"
+ ],
+ "uncertain": [
+  "Item V text is split across the two columns (continues at the top of the right column) and is joined here"
+ ],
+ "confidence": 0.95
+}

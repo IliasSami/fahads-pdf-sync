@@ -1,0 +1,118 @@
+{
+ "id": "elijah-elisha/31",
+ "kinds": [
+  "word-study",
+  "letters"
+ ],
+ "title": "Elijah: אליהו (eliyahu) and its five Hebrew letters",
+ "summary": "Opening of a word study on the name Elijah, shown in English, in Hebrew (אליהו) and as the transliteration eliyahu, with the five Hebrew letters named underneath: vav, he, yod, lamed, alef. The rest of the slide is blank.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Elijah"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "אליהו"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "eliyahu"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "vav he yod lamed alef"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אליהו",
+   "translit": "eliyahu",
+   "gloss": "Elijah",
+   "strongs": "H452"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Elijah",
+   "other": "אליהו"
+  },
+  {
+   "en": "eliyahu",
+   "other": "אליהו"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": ""
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Elijah",
+  "Eliyahu",
+  "Eliyahu Hanavi",
+  "Elijah in Hebrew",
+  "אליהו",
+  "name of Elijah",
+  "Hebrew spelling of Elijah",
+  "vav he yod lamed alef",
+  "aleph lamed yod he vav",
+  "prophet Elijah",
+  "Hebrew letters",
+  "Elijah and Elisha"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

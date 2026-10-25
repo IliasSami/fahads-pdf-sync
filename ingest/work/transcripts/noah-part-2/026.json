@@ -1,0 +1,76 @@
+{
+ "id": "noah-part-2/26",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 7:12 — the rain fell forty days and forty nights",
+ "summary": "Genesis 7:12 in English: the rain fell upon the earth for forty days and forty nights.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 7:12",
+   "osis": "Gen.7.12"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ז:יב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.12",
+   "text": "12 The rain fell upon the earth for forty days and forty nights."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 7:12 / בראשית ז:יב",
+   "osis": [
+    "Gen.7.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 40,
+   "note": "days and nights the rain fell"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "rain"
+  ],
+  "themes": [
+   "judgment"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 7:12",
+  "Genesis 7",
+  "forty days and forty nights",
+  "40 days",
+  "rain",
+  "the Flood",
+  "Noah's flood",
+  "the rain fell upon the earth",
+  "flood begins",
+  "deluge"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

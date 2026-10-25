@@ -1,0 +1,102 @@
+{
+  "id": "akeda-1/101",
+  "kinds": [
+    "verse"
+  ],
+  "title": "John 8:54-56 — Your father Abraham rejoiced to see My day",
+  "summary": "John 8:54-56: Jesus says His glory comes from His Father, of whom they say 'He is our God', that they have not come to know Him but Jesus does, and that Abraham rejoiced to see His day, saw it and was glad. Jesus and His words (I, My, Me, Myself) are in red; 'Father', 'He', 'Him', 'His' (God) and Abraham are in blue.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "John 8:54-56",
+      "osis": [
+        "John.8.54",
+        "John.8.55",
+        "John.8.56"
+      ]
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "Ἰωάνης 8:54-56",
+      "osis": [
+        "John.8.54",
+        "John.8.55",
+        "John.8.56"
+      ]
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.54",
+      "text": "54 Jesus answered, “If I glorify Myself, My glory is nothing; it is My Father who glorifies Me, of whom you say, ‘He is our God’;"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.55",
+      "text": "55 and you have not come to know Him, but I know Him; and if I say that I do not know Him, I will be a liar like you, but I do know Him and keep His word."
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.56",
+      "text": "56 “Your father Abraham rejoiced to see My day, and he saw it and was glad.”"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "John 8:54-56 / Ἰωάνης 8:54-56",
+      "osis": [
+        "John.8.54",
+        "John.8.55",
+        "John.8.56"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Jesus",
+      "God",
+      "Abraham"
+    ],
+    "places": [],
+    "events": [],
+    "things": [],
+    "themes": [
+      "glory",
+      "faith",
+      "fatherhood",
+      "prophecy",
+      "typology"
+    ],
+    "groups": [
+      "Jews"
+    ]
+  },
+  "keywords": [
+    "John 8:54",
+    "John 8:55",
+    "John 8:56",
+    "John 8",
+    "Abraham rejoiced to see my day",
+    "he saw it and was glad",
+    "it is my Father that honoureth me",
+    "if I honour myself my honour is nothing",
+    "ye have not known him but I know him",
+    "I shall be a liar like unto you",
+    "Abraham saw Jesus' day",
+    "my Father glorifies me",
+    "Akedah",
+    "Akeda"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

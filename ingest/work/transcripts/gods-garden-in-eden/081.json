@@ -1,0 +1,190 @@
+{
+ "id": "gods-garden-in-eden/81",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Deuteronomy 6:4 (the Shema) — yahweh, our God, yahweh = echad (one)",
+ "summary": "Deuteronomy 6:4 in English and Hebrew, with a word-by-word line (Hear, Israel, yahweh, our GOD, yahweh, One) and arrows from 'yahweh / our GOD / yahweh' pointing to אחד (echad), One.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Deuteronomy 6:4",
+   "osis": "Deut.6.4"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "דברים ו:ד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "4 Hear, O Israel: The LORD our God is one LORD:",
+   "osis": "Deut.6.4"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "שמע ישראל יהוה אלהינו יהוה ׀ אחד׃",
+   "osis": "Deut.6.4"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Hear"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Israel"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "our GOD"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "One"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "our GOD"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אחד"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "One"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "echad"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Deuteronomy 6:4 / דברים ו:ד",
+   "osis": [
+    "Deut.6.4"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שמע",
+   "translit": "shema",
+   "gloss": "hear",
+   "strongs": "H8085"
+  },
+  {
+   "lang": "he",
+   "word": "ישראל",
+   "translit": "Yisrael",
+   "gloss": "Israel",
+   "strongs": "H3478"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the LORD",
+   "strongs": "H3068"
+  },
+  {
+   "lang": "he",
+   "word": "אלהינו",
+   "translit": "Eloheinu",
+   "gloss": "our God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "אחד",
+   "translit": "echad",
+   "gloss": "one",
+   "strongs": "H259"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "yahweh",
+   "other": "יהוה"
+  },
+  {
+   "en": "One",
+   "other": "אחד"
+  },
+  {
+   "en": "echad",
+   "other": "אחד"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "unity",
+   "Torah"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Deuteronomy 6:4",
+  "Shema",
+  "Shema Yisrael",
+  "Hear O Israel",
+  "the LORD our God is one LORD",
+  "yahweh",
+  "echad",
+  "one",
+  "oneness of God",
+  "Trinity",
+  "Godhead",
+  "אחד",
+  "Deuteronomy 6"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,112 @@
+{
+ "id": "noah-part-1/30",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Esther 2:15 and Daniel 1:9 — favor, 5th mention of Esther and Daniel",
+ "summary": "Two verses about favor, each headed by a “5th Mention” label: Esther 2:15 (Esther⁴ then Esther⁵ found favor in the eyes of all who saw her) and Daniel 1:9 (Daniel⁵ granted favor and compassion by God). “found favor” and “favor” are in larger type.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Esther 2:15",
+   "osis": "Esth.2.15"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "5th Mention of Esther"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Esth.2.15",
+   "text": "15 Now when the turn of Esther⁴, the daughter of Abihail the uncle of Mordecai who had taken her as his daughter, came to go in to the king, she did not request anything except what Hegai, the king's eunuch who was in charge of the women, advised. And Esther⁵ found favor in the eyes of all who saw her."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Daniel 1:9",
+   "osis": "Dan.1.9"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "5th Mention of Daniel"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Dan.1.9",
+   "text": "9 Now God granted Daniel⁵ favor and compassion in the sight of the commander of the officials,"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Esther 2:15",
+   "osis": [
+    "Esth.2.15"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Daniel 1:9",
+   "osis": [
+    "Dan.1.9"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 4,
+   "note": "superscript 4 after Esther (4th mention) in Esther 2:15"
+  },
+  {
+   "value": 5,
+   "note": "5th mention of Esther (superscript 5 after Esther in Esther 2:15)"
+  },
+  {
+   "value": 5,
+   "note": "5th mention of Daniel (superscript 5 after Daniel in Daniel 1:9)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Esther",
+   "Mordecai",
+   "Abihail",
+   "Hegai",
+   "Daniel",
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "grace"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Esther 2:15",
+  "Daniel 1:9",
+  "5th mention of Esther",
+  "5th mention of Daniel",
+  "found favor",
+  "favor and compassion",
+  "favor in the eyes of all",
+  "Hegai the eunuch",
+  "Mordecai",
+  "God granted Daniel favor",
+  "grace",
+  "fifth mention",
+  "number 5 and grace"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

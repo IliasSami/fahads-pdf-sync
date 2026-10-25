@@ -1,0 +1,138 @@
+{
+ "id": "noah-part-2/78",
+ "kinds": [
+  "gematria",
+  "word-study"
+ ],
+ "title": "Jesus in Greek (Ιησους) adds up to 888",
+ "summary": "The name Jesus written in Greek capitals and small letters, Ι η σ ο υ ς, with each letter's number value beneath (10, 8, 200, 70, 400, 200) and the total 888 in red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Jesus"
+  },
+  {
+   "lang": "el",
+   "role": "heading",
+   "text": "Ι η σ ο υ ς"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "10 8 200 70 400 200"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "→ 888"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "el",
+   "word": "Ιησους",
+   "translit": "Iesous",
+   "gloss": "Jesus",
+   "strongs": "G2424",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     10,
+     8,
+     200,
+     70,
+     400,
+     200
+    ],
+    "total": 888
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Jesus",
+   "other": "Ιησους"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "el",
+   "letter": "iota",
+   "char": "Ι",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "el",
+   "letter": "eta",
+   "char": "η",
+   "value": 8,
+   "meaning": ""
+  },
+  {
+   "lang": "el",
+   "letter": "sigma",
+   "char": "σ",
+   "value": 200,
+   "meaning": ""
+  },
+  {
+   "lang": "el",
+   "letter": "omicron",
+   "char": "ο",
+   "value": 70,
+   "meaning": ""
+  },
+  {
+   "lang": "el",
+   "letter": "upsilon",
+   "char": "υ",
+   "value": 400,
+   "meaning": ""
+  },
+  {
+   "lang": "el",
+   "letter": "final sigma",
+   "char": "ς",
+   "value": 200,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 888,
+   "note": "Greek gematria (isopsephy) of Ιησους, Jesus"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "888",
+  "Jesus 888",
+  "number of Jesus",
+  "Greek gematria",
+  "isopsephy",
+  "Iesous",
+  "Ιησους",
+  "name of Jesus in Greek",
+  "Greek letter values",
+  "Yeshua",
+  "Greek numerology",
+  "eight eights"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

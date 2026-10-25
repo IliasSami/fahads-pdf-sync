@@ -1,0 +1,95 @@
+{
+ "id": "noah-part-2/120",
+ "kinds": [
+  "title",
+  "verse"
+ ],
+ "title": "The Tenth Man: 2 Peter 2:5, Noah a preacher of righteousness",
+ "summary": "Slide titled \"The Tenth Man\" showing 2 Peter 2:5 (English and Greek header) in a modern translation: God did not spare the ancient world when He brought the flood on its ungodly people, but protected Noah, a preacher of righteousness, and seven others. A joking note says \"NIV—Nearly Inspired Version\".",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Tenth Man"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "2 Peter 2:5",
+   "osis": "2Pet.2.5"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "2 Πέτρος 2:5"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "5 if He did not spare the ancient world when He brought the flood on its ungodly people, but protected Noah, a preacher of righteousness, and seven others;",
+   "osis": "2Pet.2.5"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "NIV—Nearly Inspired Version"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "2 Peter 2:5 / 2 Πέτρος 2:5",
+   "osis": [
+    "2Pet.2.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 10,
+   "note": "Noah as \"The Tenth Man\" (slide title)"
+  },
+  {
+   "value": 7,
+   "note": "\"and seven others\" saved with Noah"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [],
+  "themes": [
+   "judgment",
+   "righteousness",
+   "faith"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "The Tenth Man",
+  "tenth man",
+  "Noah tenth generation",
+  "2 Peter 2:5",
+  "preacher of righteousness",
+  "Noah and seven others",
+  "eight people saved",
+  "ancient world",
+  "ungodly",
+  "NIV",
+  "Nearly Inspired Version",
+  "New International Version",
+  "flood"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

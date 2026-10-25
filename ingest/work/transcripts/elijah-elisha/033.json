@@ -1,0 +1,240 @@
+{
+ "id": "elijah-elisha/33",
+ "kinds": [
+  "word-study",
+  "list"
+ ],
+ "title": "Five times Elijah is missing a vav (2 Kings 1 and Malachi 4:5)",
+ "summary": "Shows that in five places the name Elijah is spelled אליה, missing the final vav (ו) of the usual אליהו; the blank where the vav belongs is marked with an orange underline. The five verses are listed: 2 Kings 1:3, 1:4, 1:8, 1:12 and Malachi 4:5.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "5 Times אליהו Elijah is missing a vav ו"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "eliyahu"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אליה_"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Elijah"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "vav he yod lamed alef"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "2 Kings 1:3",
+   "osis": "2Kgs.1.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים ב א:ג"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "2 Kings 1:4",
+   "osis": "2Kgs.1.4"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים ב א:ד"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "2 Kings 1:8",
+   "osis": "2Kgs.1.8"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים ב א:ח"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "2 Kings 1:12",
+   "osis": "2Kgs.1.12"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים ב א:יב"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Malachi 4:5",
+   "osis": "Mal.4.5"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלאכי ד:ה"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "2 Kings 1:3 / מלכים ב א:ג",
+   "osis": [
+    "2Kgs.1.3"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "2 Kings 1:4 / מלכים ב א:ד",
+   "osis": [
+    "2Kgs.1.4"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "2 Kings 1:8 / מלכים ב א:ח",
+   "osis": [
+    "2Kgs.1.8"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "2 Kings 1:12 / מלכים ב א:יב",
+   "osis": [
+    "2Kgs.1.12"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Malachi 4:5 / מלאכי ד:ה",
+   "osis": [
+    "Mal.4.5"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אליהו",
+   "translit": "eliyahu",
+   "gloss": "Elijah (full spelling, with vav)",
+   "strongs": "H452"
+  },
+  {
+   "lang": "he",
+   "word": "אליה",
+   "translit": "eliyah",
+   "gloss": "Elijah (short spelling, missing the vav)",
+   "strongs": "H452"
+  },
+  {
+   "lang": "he",
+   "word": "ו",
+   "translit": "vav",
+   "gloss": "the missing letter vav",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Elijah",
+   "other": "אליהו"
+  },
+  {
+   "en": "eliyahu",
+   "other": "אליה"
+  },
+  {
+   "en": "vav",
+   "other": "ו"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "the missing letter"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 5,
+   "note": "times the name Elijah is spelled without a vav"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Elijah missing vav",
+  "missing letter",
+  "Elijah spelling",
+  "אליה",
+  "short spelling of Elijah",
+  "5 times",
+  "2 Kings 1:3",
+  "2 Kings 1:4",
+  "2 Kings 1:8",
+  "2 Kings 1:12",
+  "Malachi 4:5",
+  "vav",
+  "Elijah returns",
+  "Hebrew spelling variation"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

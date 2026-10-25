@@ -1,0 +1,89 @@
+{
+ "id": "akeda-2/35",
+ "kinds": [
+  "list"
+ ],
+ "title": "Rabbinical Judaism replaced blood sacrifices with: seven repentance steps",
+ "summary": "List of what rabbinical Judaism put in place of blood sacrifices; this slide shows seven steps, adding understanding the magnitude of the sin and refraining from lesser sins.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Rabbinical Judaism Replaced Blood Sacrifices with:"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Regret/Acknowledge the sin;"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Forsake the sin"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Worry about the future consequences of the sin;"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Act and speak with humility;"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Act in a way opposite to that of the sin"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Understanding the magnitude of the sin;"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Refrain from lesser sins"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "sacrifice",
+   "blood",
+   "atonement",
+   "repentance",
+   "sin"
+  ],
+  "groups": [
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "rabbinical Judaism",
+  "blood sacrifices",
+  "replaced sacrifices",
+  "repentance",
+  "teshuva",
+  "regret",
+  "acknowledge the sin",
+  "forsake the sin",
+  "humility",
+  "opposite of the sin",
+  "magnitude of the sin",
+  "lesser sins",
+  "atonement without sacrifice"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

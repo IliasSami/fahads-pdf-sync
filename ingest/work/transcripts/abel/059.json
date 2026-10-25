@@ -1,0 +1,135 @@
+{
+  "kinds": [
+    "verse"
+  ],
+  "title": "Genesis 4:4 — Abel brings the firstborn of his flock; the LORD has regard for Abel",
+  "summary": "Genesis 4:4 in English and Hebrew: Abel also brought an offering from the firstborn of his flock and their fat portions, and the LORD had regard for Abel and his offering. In the LORD, the letters L and R, and the yod and vav of יהוה, are coloured to match.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:4",
+      "osis": "Gen.4.4"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:ד",
+      "osis": "Gen.4.4"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "4 And Abel, he also brought an offering,",
+      "osis": "Gen.4.4"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "from the firstborn of his flock and from their fat portions.",
+      "osis": "Gen.4.4"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "And the LORD had regard for Abel and his offering;",
+      "osis": "Gen.4.4"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "4 והבל הביא גם הוא",
+      "osis": "Gen.4.4"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "מבכרות צאנו ומחלבהן",
+      "osis": "Gen.4.4"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "וישע יהוה אל הבל ואל מנחתו׃",
+      "osis": "Gen.4.4"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:4 / בראשית ד:ד",
+      "osis": [
+        "Gen.4.4"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "יהוה",
+      "translit": "yahweh",
+      "gloss": "the LORD (God's personal name)",
+      "strongs": "H3068"
+    },
+    {
+      "lang": "he",
+      "word": "וישע",
+      "translit": "vayisha",
+      "gloss": "and he had regard / looked with favour",
+      "strongs": "H8159"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "L (LORD)",
+      "other": "י"
+    },
+    {
+      "en": "R (LORD)",
+      "other": "ו"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "God",
+      "Abel"
+    ],
+    "places": [],
+    "events": [
+      "Cain and Abel's offerings"
+    ],
+    "things": [
+      "flock",
+      "fat portions",
+      "offering"
+    ],
+    "themes": [
+      "sacrifice",
+      "offering",
+      "firstborn",
+      "names of God"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Abel's offering",
+    "firstlings of his flock",
+    "firstborn of the flock",
+    "fat thereof",
+    "fat portions",
+    "the LORD had respect unto Abel",
+    "respect for Abel",
+    "accepted sacrifice",
+    "Genesis 4:4",
+    "Cain and Abel",
+    "yahweh",
+    "Genesis 4",
+    "regard"
+  ],
+  "uncertain": [],
+  "confidence": 0.95,
+  "id": "abel/59"
+}

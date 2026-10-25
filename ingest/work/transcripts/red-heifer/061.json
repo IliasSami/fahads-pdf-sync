@@ -1,0 +1,151 @@
+{
+ "id": "red-heifer/61",
+ "kinds": [
+  "picture",
+  "comparison",
+  "letters"
+ ],
+ "title": "Cross with YHWH letters beside Passover doorway, both marked with blood",
+ "summary": "Two drawings side by side with no sentences: on the left a tan wooden cross with the four Hebrew letters י ה ו ה running down its upright beam and red blood smears at the top, both arm ends and the base; on the right a Passover door frame with blood on the lintel, both doorposts and the threshold. The slide visually links the blood on the cross with the blood on the doorposts.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the name of God (the four letters on the cross)",
+   "strongs": "H3068",
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "first letter of YHWH, drawn in maroon at the top of the cross"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "second letter of YHWH, drawn in black across the cross beam"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "third letter of YHWH, drawn in orange on the upright beam"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "fourth letter of YHWH, drawn in black near the base of the cross"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "drawing",
+   "description": "Simple flat drawing of a tan wooden cross with scribbled red blood marks at the top, at the ends of both arms and on the lower upright beam. The Hebrew letters yod (maroon), he (black), vav (orange) and he (black) are laid down the upright beam, spelling YHWH.",
+   "subjects": [
+    "cross",
+    "wooden cross",
+    "blood on the cross",
+    "crucifixion",
+    "YHWH",
+    "Hebrew letters",
+    "red blood"
+   ],
+   "text_in_picture": "י ה ו ה",
+   "credit": null,
+   "box": [
+    0.14,
+    0.11,
+    0.4,
+    0.9
+   ]
+  },
+  {
+   "type": "drawing",
+   "description": "Simple flat drawing of a golden-brown wooden door frame with a darker brown door swung open, an orange doorknob, and scribbled red blood smears on the lintel, on both doorposts and on the ground at the threshold.",
+   "subjects": [
+    "door",
+    "doorposts",
+    "lintel",
+    "blood on doorposts",
+    "Passover",
+    "threshold",
+    "red blood"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.58,
+    0.27,
+    0.88,
+    0.94
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Jesus",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Passover",
+   "Crucifixion"
+  ],
+  "things": [
+   "cross",
+   "door",
+   "doorposts",
+   "lintel",
+   "blood"
+  ],
+  "themes": [
+   "blood",
+   "names of God",
+   "typology",
+   "redemption",
+   "sacrifice",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "cross and Passover door",
+  "blood on the cross",
+  "blood on the doorposts",
+  "YHWH on the cross",
+  "yod he vav he",
+  "Tetragrammaton",
+  "name of God on cross",
+  "Passover and crucifixion",
+  "cross drawing",
+  "door drawing",
+  "Exodus 12",
+  "typology",
+  "red heifer hyssop"
+ ],
+ "uncertain": [
+  "The slide has no words explaining the pairing; the summary only describes what is drawn.",
+  "The red scribbles on the cross and door are read as blood smears."
+ ],
+ "confidence": 0.9
+}

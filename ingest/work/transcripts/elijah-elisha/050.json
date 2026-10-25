@@ -1,0 +1,26 @@
+{
+  "id": "elijah-elisha/50",
+  "kinds": ["verse"],
+  "title": "1 Kings 17:8-11 — Elijah sent to the widow of Zarephath",
+  "summary": "The text of 1 Kings 17:8-11: God sends Elijah to Zarephath in Sidon, saying “I have commanded a widow there to provide for you”; Elijah meets the widow gathering sticks at the city gate and asks her for water and a piece of bread. “I have commanded” and “bread” are highlighted in colour.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "1 Kings 17:8-11", "osis": ["1Kgs.17.8", "1Kgs.17.9", "1Kgs.17.10", "1Kgs.17.11"]},
+    {"lang": "he", "role": "reference", "text": "מלכים א יז:ח-יא", "osis": ["1Kgs.17.8", "1Kgs.17.9", "1Kgs.17.10", "1Kgs.17.11"]},
+    {"lang": "en", "role": "verse", "text": "8 Then the word of the LORD came to him, saying,", "osis": "1Kgs.17.8"},
+    {"lang": "en", "role": "verse", "text": "9 “Arise, go to Zarephath, which belongs to Sidon, and stay there; behold, I have commanded a widow there to provide for you.”", "osis": "1Kgs.17.9"},
+    {"lang": "en", "role": "verse", "text": "10 So he arose and went to Zarephath, and when he came to the gate of the city, behold, a widow was there gathering sticks; and he called to her and said, “Please get me a little water in a jar, that I may drink.”", "osis": "1Kgs.17.10"},
+    {"lang": "en", "role": "verse", "text": "11 As she was going to get it, he called to her and said, “Please bring me a piece of bread in your hand.”", "osis": "1Kgs.17.11"}
+  ],
+  "refs": [
+    {"shown": "1 Kings 17:8-11 / מלכים א יז:ח-יא", "osis": ["1Kgs.17.8", "1Kgs.17.9", "1Kgs.17.10", "1Kgs.17.11"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Elijah", "widow of Zarephath", "God"], "places": ["Zarephath", "Sidon"], "events": ["three-year drought"], "things": ["bread", "water", "jar", "sticks"], "themes": ["God's provision", "word of God", "obedience"], "groups": []},
+  "keywords": ["Elijah", "widow of Zarephath", "Zarephath", "Sarepta", "Sidon", "Zidon", "I have commanded a widow", "gathering sticks", "water in a jar", "piece of bread", "1 Kings 17"],
+  "uncertain": [],
+  "confidence": 0.96
+}

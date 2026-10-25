@@ -1,0 +1,95 @@
+{
+ "id": "akeda-2/104",
+ "kinds": [
+  "verse"
+ ],
+ "title": "John 1:20 and 1:27 — not the Christ; not worthy to untie His sandal",
+ "summary": "Adds John 1:27 beneath John 1:20: John the Baptist says the One who comes after him is so great that he is not worthy to untie the thong of His sandal. \"Christ\" and \"He\" are in red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 1:20",
+   "osis": "John.1.20"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 1:20"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.20",
+   "text": "20 And he confessed and did not deny, but confessed, “I am not the Christ.”"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 1:27",
+   "osis": "John.1.27"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 1:27"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.27",
+   "text": "27 “It is He who comes after me, the thong of whose sandal I am not worthy to untie.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 1:20 / Ἰωάνης 1:20",
+   "osis": [
+    "John.1.20"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "John 1:27 / Ἰωάνης 1:27",
+   "osis": [
+    "John.1.27"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "John the Baptist",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "sandal"
+  ],
+  "themes": [
+   "messianic prophecy",
+   "humility"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 1:27",
+  "John 1:20",
+  "not worthy to untie sandal",
+  "thong of whose sandal",
+  "latchet of his shoes",
+  "John the Baptist",
+  "He who comes after me",
+  "I am not the Christ",
+  "Gospel of John",
+  "witness of John"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

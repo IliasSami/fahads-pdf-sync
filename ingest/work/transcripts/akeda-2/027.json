@@ -1,0 +1,154 @@
+{
+ "id": "akeda-2/27",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "Shabbat = tav + bet + shin: Return to the Covenant",
+ "summary": "Spells shabbat (שבת) from its letters tav (Covenant) and shav/bet-shin (Return), concluding that every 7th day we are to shabbat: Return to The Covenant.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "s h a b b a t"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת ב ש"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tav"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shin"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "s h a v"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Covenant"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Return"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Every 7th day we are to shabbat:"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Return to The Covenant."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שבת",
+   "translit": "shabbat",
+   "gloss": "Sabbath",
+   "strongs": "H7676"
+  },
+  {
+   "lang": "he",
+   "word": "שב",
+   "translit": "shav",
+   "gloss": "return",
+   "strongs": "H7725"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Covenant",
+   "other": "ת"
+  },
+  {
+   "en": "Return",
+   "other": "שב"
+  },
+  {
+   "en": "shabbat",
+   "other": "שבת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "covenant"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "house (with shin spells shav, return)"
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "(with bet spells shav, return)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "every 7th day (Sabbath)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "Sabbath"
+  ],
+  "themes": [
+   "Sabbath",
+   "covenant",
+   "Hebrew letter meanings",
+   "repentance"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "shabbat",
+  "Sabbath",
+  "shabbos",
+  "return to the covenant",
+  "seventh day",
+  "tav",
+  "bet",
+  "shin",
+  "shav",
+  "return",
+  "covenant",
+  "letter meanings",
+  "Sabbath meaning"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,91 @@
+{
+ "id": "genesis-1-1-part-1/92",
+ "kinds": [
+  "diagram",
+  "picture"
+ ],
+ "title": "Genesis 1:1 stars: ten black hexagons around three coloured stars of David",
+ "summary": "Under the reference Genesis 1:1, a snowflake-like shape combines ten black hexagon-shaped clusters of small stars with three overlapping six-pointed stars in blue, gold and red - the same shapes used in the previous slides for the odd and even words.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A snowflake-shaped arrangement of tiny stars: ten black hexagon clusters surround and overlap three larger six-pointed stars coloured blue (upper left), gold (right) and red (lower left).",
+   "subjects": [
+    "Star of David",
+    "hexagons",
+    "blue gold red stars",
+    "snowflake pattern",
+    "dot pattern",
+    "hexagram"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.3,
+    0.23,
+    0.71,
+    0.94
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "Star of David"
+  ],
+  "themes": [
+   "gematria",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "stars of David",
+  "hexagons",
+  "three stars",
+  "ten hexagons",
+  "1690",
+  "1011",
+  "2701",
+  "3 x 337",
+  "10 x 169",
+  "star pattern",
+  "combined diagram",
+  "blue gold red"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

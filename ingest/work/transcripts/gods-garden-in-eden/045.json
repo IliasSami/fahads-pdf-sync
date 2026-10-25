@@ -1,0 +1,87 @@
+{
+ "id": "gods-garden-in-eden/45",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Numbers 11:7-9 — the manna looked like bdellium",
+ "summary": "Numbers 11:7-9 in English with its Hebrew reference: the manna was like coriander seed and looked like bdellium; the people gathered it, ground or beat it, boiled it and made cakes tasting like cakes baked with oil; it fell with the dew on the camp at night.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 11:7-9",
+   "osis": [
+    "Num.11.7",
+    "Num.11.8",
+    "Num.11.9"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יא:ז-ט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": [
+    "Num.11.7",
+    "Num.11.8",
+    "Num.11.9"
+   ],
+   "text": "7 Now the manna was like coriander seed, and its appearance like that of bdellium. 8 The people would go about and gather it and grind it between two millstones or beat it in the mortar, and boil it in the pot and make cakes with it; and its taste was as the taste of cakes baked with oil. 9 When the dew fell on the camp at night, the manna would fall with it."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 11:7-9 / במדבר יא:ז-ט",
+   "osis": [
+    "Num.11.7",
+    "Num.11.8",
+    "Num.11.9"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "manna",
+   "coriander seed",
+   "bdellium",
+   "millstones",
+   "mortar",
+   "cakes baked with oil",
+   "dew"
+  ],
+  "themes": [],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "manna",
+  "manna like coriander seed",
+  "appearance like bdellium",
+  "colour of bdellium",
+  "grind between millstones",
+  "beat in the mortar",
+  "cakes baked with oil",
+  "taste of fresh oil",
+  "dew fell on the camp",
+  "manna fell with the dew",
+  "Numbers 11:7",
+  "Numbers 11",
+  "wilderness food",
+  "bread from heaven"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

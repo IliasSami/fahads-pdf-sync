@@ -1,0 +1,132 @@
+{
+ "id": "genesis-1-1-part-1/84",
+ "kinds": [
+  "diagram",
+  "picture"
+ ],
+ "title": "Star of David (mogen david): 13 objects needed to form it",
+ "summary": "A slide stating that 13 objects are needed to form a mogen david (Star of David), with 13 small blue Stars of David arranged in rows of 1, 4, 3, 4 and 1 to make the six-pointed star shape.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Number of objects needed to form a"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "mogen david"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מגן דוד"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Star of David"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "13"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "מגן",
+   "translit": "mogen",
+   "gloss": "shield (as in mogen david, Star of David)",
+   "strongs": "H4043"
+  },
+  {
+   "lang": "he",
+   "word": "דוד",
+   "translit": "david",
+   "gloss": "David",
+   "strongs": "H1732"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "mogen",
+   "other": "מגן"
+  },
+  {
+   "en": "david",
+   "other": "דוד"
+  },
+  {
+   "en": "Star of",
+   "other": "מגן"
+  },
+  {
+   "en": "David",
+   "other": "דוד"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 13,
+   "note": "number of objects needed to form a mogen david (Star of David)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "Thirteen small light-blue Stars of David arranged in a larger six-pointed star pattern: one star at the top, a row of four, a row of three in the middle, another row of four, and one star at the bottom.",
+   "subjects": [
+    "Star of David",
+    "magen David",
+    "hexagram",
+    "six-pointed star",
+    "13 stars",
+    "dot pattern"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.4,
+    0.49,
+    0.62,
+    0.93
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "David"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "Star of David"
+  ],
+  "themes": [
+   "biblical numbers"
+  ],
+  "groups": [
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "Star of David",
+  "mogen david",
+  "magen david",
+  "מגן דוד",
+  "13",
+  "thirteen",
+  "hexagram",
+  "six-pointed star",
+  "number of objects",
+  "star number",
+  "Jewish star",
+  "Bible numbers"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

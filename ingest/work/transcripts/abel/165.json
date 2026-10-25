@@ -1,0 +1,73 @@
+{
+  "id": "abel/165",
+  "kinds": [
+    "verse"
+  ],
+  "title": "Genesis 4:10 — your brother's blood cries out to Me from the ground",
+  "summary": "Genesis 4:10 in English with a Hebrew reference header: God asks Cain \"What have you done?\" and says the voice of his brother's blood cries out from the ground. The word blood is highlighted in red.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:10",
+      "osis": "Gen.4.10"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:י",
+      "osis": "Gen.4.10"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "10 And He said, “What have you done? The voice of your brother’s blood cries out to Me from the ground.",
+      "osis": "Gen.4.10"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:10 / בראשית ד:י",
+      "osis": [
+        "Gen.4.10"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "God",
+      "Cain",
+      "Abel"
+    ],
+    "places": [],
+    "events": [
+      "Murder of Abel"
+    ],
+    "things": [
+      "ground"
+    ],
+    "themes": [
+      "blood",
+      "murder",
+      "judgment"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Genesis 4",
+    "Genesis 4:10",
+    "What have you done",
+    "voice of your brother's blood",
+    "blood cries out from the ground",
+    "Abel's blood",
+    "God speaks to Cain"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

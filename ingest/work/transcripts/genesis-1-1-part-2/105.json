@@ -1,0 +1,128 @@
+{
+ "id": "genesis-1-1-part-2/105",
+ "kinds": [
+  "diagram"
+ ],
+ "title": "Pythagorean Theorem worked example: sides 3 and 7 give c = √58",
+ "summary": "Shows a right triangle with sides a = 3 and b = 7 and works the Pythagorean theorem a² + b² = c² step by step: c² = 9 + 49 = 58, so c = √58.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Pythagorean Theorem"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "a² + b² = c²"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "3"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "a"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "c"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "b"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "7"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "c² = 3² + 7²"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "c² = 9 + 49"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "c² = 58"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "c = √58"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "length of side a"
+  },
+  {
+   "value": 7,
+   "note": "length of side b"
+  },
+  {
+   "value": 58,
+   "note": "c squared (9 + 49); c is the square root of 58"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "Black line drawing of a right triangle with the right angle at the bottom left marked by a small square. The vertical side is labelled a, the horizontal base is labelled b and the sloping hypotenuse is labelled c; blue numbers 3 and 7 sit beside sides a and b.",
+   "subjects": [
+    "right triangle",
+    "Pythagorean theorem",
+    "hypotenuse",
+    "geometry",
+    "math diagram"
+   ],
+   "text_in_picture": "a b c",
+   "credit": null,
+   "box": [
+    0.09,
+    0.36,
+    0.62,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "mathematics"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Pythagorean theorem",
+  "a squared plus b squared equals c squared",
+  "right triangle",
+  "3 and 7 triangle",
+  "hypotenuse",
+  "square root of 58",
+  "58",
+  "geometry",
+  "math",
+  "diagram of a triangle"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

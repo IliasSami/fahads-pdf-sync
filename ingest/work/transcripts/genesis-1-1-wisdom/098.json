@@ -1,0 +1,54 @@
+{
+ "id": "genesis-1-1-wisdom/98",
+ "kinds": [
+  "gematria"
+ ],
+ "title": "73 x 37",
+ "summary": "Nearly blank slide showing only the multiplication 73 x 37 at the top, with the 7s in red, the 3s in gold and the x in purple.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "73 x 37"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 73,
+   "note": "first number in the product 73 x 37"
+  },
+  {
+   "value": 37,
+   "note": "second number in the product 73 x 37"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "73 x 37",
+  "73 times 37",
+  "seventy-three times thirty-seven",
+  "73",
+  "37",
+  "2701",
+  "multiplication",
+  "gematria numbers",
+  "Genesis 1:1 numbers",
+  "factors"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

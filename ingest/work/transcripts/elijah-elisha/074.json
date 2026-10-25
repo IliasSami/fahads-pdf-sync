@@ -1,0 +1,108 @@
+{
+ "id": "elijah-elisha/74",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 Kings 18:17-19 — Ahab meets Elijah; gather Israel at Mount Carmel",
+ "summary": "The text of 1 Kings 18:17-19: Ahab calls Elijah the troubler of Israel, Elijah answers that Ahab and his father's house forsook the LORD's commandments and followed the Baals, and tells him to gather Israel and the 450 prophets of Baal and 400 prophets of the Asherah to Mount Carmel. The letters el in Israel and Carmel and the names Elijah and LORD are coloured.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 18:17-19",
+   "osis": [
+    "1Kgs.18.17",
+    "1Kgs.18.18",
+    "1Kgs.18.19"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א יח:יז-יט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "17 When Ahab saw Elijah, Ahab said to him, “Is this you, you troubler of Israel?”",
+   "osis": "1Kgs.18.17"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "18 He said, “I have not troubled Israel, but you and your father’s house have, because you have forsaken the commandments of the LORD and you have followed the Baals.",
+   "osis": "1Kgs.18.18"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "19 “Now then send and gather to me all Israel at Mount Carmel, together with 450 prophets of Baal and 400 prophets of the Asherah, who eat at Jezebel’s table.”",
+   "osis": "1Kgs.18.19"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 18:17-19 / מלכים א יח:יז-יט",
+   "osis": [
+    "1Kgs.18.17",
+    "1Kgs.18.18",
+    "1Kgs.18.19"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 450,
+   "note": "prophets of Baal"
+  },
+  {
+   "value": 400,
+   "note": "prophets of the Asherah"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Ahab",
+   "Elijah",
+   "Jezebel",
+   "God"
+  ],
+  "places": [
+   "Mount Carmel"
+  ],
+  "events": [
+   "contest on Mount Carmel"
+  ],
+  "things": [],
+  "themes": [
+   "idolatry",
+   "obedience",
+   "prophecy"
+  ],
+  "groups": [
+   "Israel",
+   "prophets of Baal",
+   "prophets of Asherah"
+  ]
+ },
+ "keywords": [
+  "troubler of Israel",
+  "Ahab and Elijah",
+  "Mount Carmel",
+  "450 prophets of Baal",
+  "400 prophets of the Asherah",
+  "Jezebel's table",
+  "forsaken the commandments",
+  "followed the Baals",
+  "1 Kings 18",
+  "Elijah confronts Ahab",
+  "Baal worship"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

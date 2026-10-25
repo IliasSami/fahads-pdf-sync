@@ -1,0 +1,97 @@
+{
+ "id": "noah-part-2/62",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Genesis 8:8-9 — the 1st dove hovers but finds no rest",
+ "summary": "Genesis 8:8-9: Noah sends out the first dove, which finds nowhere to perch because of the water and returns to him in the ark. The slide concludes that the 1st dove hovers but finds no rest.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:8-9",
+   "osis": [
+    "Gen.8.8",
+    "Gen.8.9"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "1st DOVE"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:ח-ט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.8",
+   "text": "8 Then he sent out a dove to see if the water had receded from the surface of the ground."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.9",
+   "text": "9 But the dove could find nowhere to perch because there was water over all the surface of the earth; so it returned to Noah in the ark. He reached out his hand and took the dove and brought it back to himself in the ark."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "1st DOVE : Hovers, but No Rest"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:8-9 / בראשית ח:ח-ט",
+   "osis": [
+    "Gen.8.8",
+    "Gen.8.9"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "dove",
+   "ark"
+  ],
+  "themes": [
+   "rest",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "first dove",
+  "1st dove",
+  "dove sent out",
+  "no rest",
+  "hovers",
+  "nowhere to perch",
+  "Noah's ark",
+  "ark",
+  "the Flood",
+  "waters receded",
+  "Genesis 8",
+  "dove returned to the ark",
+  "Noah took the dove"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

@@ -1,0 +1,247 @@
+{
+ "id": "genesis-1-1-part-2/130",
+ "kinds": [
+  "verse",
+  "gematria",
+  "word-study"
+ ],
+ "title": "John 1:1 in Greek with letter values: sum of letters 3627",
+ "summary": "John 1:1 in English and Greek, line by line, with the Greek number value (isopsephy) written under each Greek letter, colour-linking 'In/ΕΝ', 'Word/Λόγος' and 'God/Θεός', and a total labelled 'Sum of Letters: 3627'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 1:1",
+   "osis": "John.1.1"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΙΩΑΝΝΗΝ 1:1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "In (the) beginning was the Word"
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "ΕΝ ΑΡΧΗ ήν ο Λόγος,"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 50  1 100 600 8 10  8 50  70  30 70 3 70 200"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "and the Word was with – God"
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "και ο Λόγος ην προς τον Θεόν,"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "20 1 10  70  30 70 3 70 200  8 50  80 100 70 200 300 70 50  9 5 70 50"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "and God was the Word"
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "και Θεός ήν ο Λόγος."
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "20 1 10  9 5 70 200  8 50  70  30 70 3 70 200"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Sum of Letters: 3627"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 1:1 / ΙΩΑΝΝΗΝ 1:1",
+   "osis": [
+    "John.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "el",
+   "word": "Λόγος",
+   "translit": "logos",
+   "gloss": "Word",
+   "strongs": "G3056",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     30,
+     70,
+     3,
+     70,
+     200
+    ],
+    "total": 373
+   }
+  },
+  {
+   "lang": "el",
+   "word": "Θεός",
+   "translit": "theos",
+   "gloss": "God",
+   "strongs": "G2316",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     9,
+     5,
+     70,
+     200
+    ],
+    "total": 284
+   }
+  },
+  {
+   "lang": "el",
+   "word": "Θεόν",
+   "translit": "theon",
+   "gloss": "God (accusative form)",
+   "strongs": "G2316",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     9,
+     5,
+     70,
+     50
+    ],
+    "total": 134
+   }
+  },
+  {
+   "lang": "el",
+   "word": "ΑΡΧΗ",
+   "translit": "arche",
+   "gloss": "beginning",
+   "strongs": "G746",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     1,
+     100,
+     600,
+     8,
+     10
+    ],
+    "total": 719
+   }
+  },
+  {
+   "lang": "el",
+   "word": "ΕΝ",
+   "translit": "en",
+   "gloss": "in",
+   "strongs": "G1722",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     5,
+     50
+    ],
+    "total": 55
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In",
+   "other": "ΕΝ"
+  },
+  {
+   "en": "Word",
+   "other": "Λόγος"
+  },
+  {
+   "en": "God",
+   "other": "Θεόν"
+  },
+  {
+   "en": "God",
+   "other": "Θεός"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3627,
+   "note": "sum of all the Greek letter values in John 1:1, as given on the slide"
+  },
+  {
+   "value": 373,
+   "note": "value of Λόγος (Word)"
+  },
+  {
+   "value": 284,
+   "note": "value of Θεός (God)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Logos",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 1:1",
+  "In the beginning was the Word",
+  "Logos",
+  "Word",
+  "Greek gematria",
+  "isopsephy",
+  "sum of letters",
+  "3627",
+  "Theos",
+  "the Word was God",
+  "Gospel of John",
+  "Greek letter values",
+  "373",
+  "284"
+ ],
+ "uncertain": [
+  "ΑΡΧΗ is shown with values 1 100 600 8 10 (five numbers for four letters; the extra 10 is as printed, probably the iota subscript).",
+  "The values shown on the slide have not been checked against the stated total of 3627 beyond transcription (they do add to 3627)."
+ ],
+ "confidence": 0.93
+}

@@ -1,0 +1,67 @@
+{
+ "id": "red-heifer/20",
+ "kinds": [
+  "text"
+ ],
+ "title": "Questions: how do you become tumah, and how do you become taharah?",
+ "summary": "A text-only slide posing two questions: what is it you do to become tumah (impure), and how do you become taharah (pure)?",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "What is it you do to become tumah?"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "How do you become taharah?"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "טמאה",
+   "translit": "tumah",
+   "gloss": "impurity",
+   "strongs": "H2932",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "טהרה",
+   "translit": "taharah",
+   "gloss": "purity",
+   "strongs": "H2893",
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "clean and unclean",
+   "purification"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "tumah",
+  "taharah",
+  "how to become pure",
+  "how to become impure",
+  "ritual purity",
+  "ritual impurity",
+  "purification",
+  "question slide",
+  "become clean"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

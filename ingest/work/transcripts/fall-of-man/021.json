@@ -1,0 +1,98 @@
+{
+ "id": "fall-of-man/21",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 3:10-12 — “I was afraid because I was naked”; the man blames the woman",
+ "summary": "Genesis 3:10-12 in English: the man says he hid because he was afraid and naked; God asks who told him he was naked and whether he ate from the tree he was commanded not to eat from; the man blames the woman God gave him. The word “tree” is highlighted in brown.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:10-12",
+   "osis": [
+    "Gen.3.10",
+    "Gen.3.11",
+    "Gen.3.12"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:י־יב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "10 He said, “I heard the sound of You in the garden, and I was afraid because I was naked; so I hid myself.”",
+   "osis": "Gen.3.10"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "11 And He said, “Who told you that you were naked? Have you eaten from the tree of which I commanded you not to eat?”",
+   "osis": "Gen.3.11"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "12 The man said, “The woman whom You gave to be with me, she gave me from the tree, and I ate.”",
+   "osis": "Gen.3.12"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:10-12 / בראשית ג:י־יב",
+   "osis": [
+    "Gen.3.10",
+    "Gen.3.11",
+    "Gen.3.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam",
+   "Eve"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [
+   "tree of the knowledge of good and evil"
+  ],
+  "themes": [
+   "sin",
+   "disobedience",
+   "blame",
+   "shame",
+   "fear"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "I was afraid because I was naked",
+  "who told thee that thou wast naked",
+  "hast thou eaten of the tree",
+  "the woman whom thou gavest to be with me",
+  "blaming the woman",
+  "Adam blames Eve",
+  "forbidden fruit",
+  "Genesis 3:10",
+  "Genesis 3:11",
+  "Genesis 3:12",
+  "Fall of Man"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

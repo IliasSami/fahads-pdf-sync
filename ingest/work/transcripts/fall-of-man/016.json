@@ -1,0 +1,138 @@
+{
+ "id": "fall-of-man/16",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Exodus 4:22 — “My son, My firstborn is Israel”",
+ "summary": "Exodus 4:22 in English and Hebrew: the LORD tells Moses to say to Pharaoh that Israel is His son, His firstborn. Matching letters and words are colour-coded across the English and the Hebrew (the LORD / יהוה, My son / בני, Israel / ישראל).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 4:22",
+   "osis": "Exod.4.22"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות ד:כב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "22 “Then you shall say to Pharaoh, ‘Thus says the LORD, “My son, My firstborn is Israel.”",
+   "osis": "Exod.4.22"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "22 ואמרת אל־פרעה כה אמר יהוה בני בכרי ישראל׃",
+   "osis": "Exod.4.22"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 4:22 / שמות ד:כב",
+   "osis": [
+    "Exod.4.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the LORD",
+   "strongs": "H3068",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "בני",
+   "translit": "b'ni",
+   "gloss": "my son",
+   "strongs": "H1121",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "בכרי",
+   "translit": "b'khori",
+   "gloss": "my firstborn",
+   "strongs": "H1060",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ישראל",
+   "translit": "Yisrael",
+   "gloss": "Israel",
+   "strongs": "H3478",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  },
+  {
+   "en": "My son",
+   "other": "בני"
+  },
+  {
+   "en": "firstborn",
+   "other": "בכרי"
+  },
+  {
+   "en": "Israel",
+   "other": "ישראל"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Moses",
+   "Pharaoh"
+  ],
+  "places": [
+   "Egypt"
+  ],
+  "events": [
+   "Exodus"
+  ],
+  "things": [],
+  "themes": [
+   "firstborn",
+   "sonship",
+   "names of God",
+   "redemption"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Israel is my son",
+  "my firstborn",
+  "Israel firstborn son",
+  "Exodus 4:22",
+  "say to Pharaoh",
+  "thus saith the LORD",
+  "YHWH",
+  "yahweh",
+  "bni bekhori Yisrael",
+  "firstborn son of God",
+  "colour-coded Hebrew"
+ ],
+ "uncertain": [
+  "Colour matching is by letter (e.g. the final yod of בכרי and the yod of ישראל share a dark red-brown); only whole-word pairings are listed in color_links.",
+  "In the English, LORD (not Israel) is multicoloured by letter; the first word of the English quote “Then you shall say” is in black."
+ ],
+ "confidence": 0.93
+}

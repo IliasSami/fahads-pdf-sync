@@ -1,0 +1,112 @@
+{
+  "id": "abel/178",
+  "kinds": [
+    "verse"
+  ],
+  "title": "Hebrews 11:4 and Revelation 1:4-5 — Abel commended; Jesus the faithful witness",
+  "summary": "Hebrews 11:4 (Abel commended as righteous by faith and still speaking though dead) shown above Revelation 1:4-5 (grace and peace from Him who is and was and is to come, the seven Spirits, and Jesus Christ, the faithful witness and firstborn from the dead).",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Hebrews 11:4",
+      "osis": "Heb.11.4"
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "ΕΒΡΑΙΟΥΣ 11:4"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Heb.11.4",
+      "text": "4 …By faith he [Abel] was commended as righteous when God gave approval to his gifts. And by faith he still speaks, even though he is dead."
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Revelation 1:4-5",
+      "osis": [
+        "Rev.1.4",
+        "Rev.1.5"
+      ]
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "Ἀποκάλυψις 1:4-5"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Rev.1.4",
+      "text": "4 John, To the seven churches in the province of Asia: Grace and peace to you from Him who is and was and is to come, and from the seven Spirits before His throne,"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Rev.1.5",
+      "text": "5 and from Jesus Christ, the faithful witness, the firstborn from the dead, and the ruler of the kings of the earth."
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Hebrews 11:4 / ΕΒΡΑΙΟΥΣ 11:4",
+      "osis": [
+        "Heb.11.4"
+      ],
+      "role": "quoted"
+    },
+    {
+      "shown": "Revelation 1:4-5 / Ἀποκάλυψις 1:4-5",
+      "osis": [
+        "Rev.1.4",
+        "Rev.1.5"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Abel",
+      "God",
+      "Jesus"
+    ],
+    "places": [
+      "Asia"
+    ],
+    "events": [],
+    "things": [],
+    "themes": [
+      "faith",
+      "righteousness",
+      "firstborn",
+      "resurrection"
+    ],
+    "groups": [
+      "seven churches",
+      "kings"
+    ]
+  },
+  "keywords": [
+    "Hebrews 11:4",
+    "Revelation 1:4-5",
+    "commended as righteous",
+    "he still speaks",
+    "faithful witness",
+    "firstborn from the dead",
+    "ruler of the kings of the earth",
+    "seven Spirits",
+    "seven churches",
+    "God gave approval to his gifts",
+    "grace and peace"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

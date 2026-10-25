@@ -1,0 +1,35 @@
+{
+  "id": "akeda-1/46",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 22:2 in Hebrew — yechid (יחיד), the only one",
+  "summary": "Genesis 22:2 in English and Hebrew, with son, only son, Isaac and Moriah colour-matched to the Hebrew. The word for “only son” is highlighted: yechid (יחיד), “only one.”",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22:2", "osis": "Gen.22.2"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב:ב"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.2", "text": "2 He said, “Take now your son, your only son, whom you love, Isaac, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I will tell you.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.22.2", "text": "2 ויאמר קח־נא את־בנך את־יחידך אשר־אהבת את־יצחק ולך־לך אל־ארץ המריה והעלהו שם לעלה על אחד ההרים אשר אמר אליך׃"},
+    {"lang": "translit", "role": "label", "text": "yechid"},
+    {"lang": "he", "role": "label", "text": "יחיד"},
+    {"lang": "en", "role": "label", "text": "Only one"}
+  ],
+  "refs": [{"shown": "Genesis 22:2 / בראשית כב:ב", "osis": ["Gen.22.2"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "יחיד", "translit": "yechid", "gloss": "only one, only son", "strongs": "H3173"},
+    {"lang": "he", "word": "בנך", "translit": "binkha", "gloss": "your son", "strongs": "H1121"},
+    {"lang": "he", "word": "המריה", "translit": "ha-Moriyah", "gloss": "Moriah", "strongs": "H4179"}
+  ],
+  "color_links": [
+    {"en": "son", "other": "בנך"},
+    {"en": "only son", "other": "יחידך"},
+    {"en": "Isaac", "other": "יצחק"},
+    {"en": "Moriah", "other": "המריה"},
+    {"en": "yechid", "other": "יחיד"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham", "Isaac"], "places": ["Moriah"], "events": ["Binding of Isaac (Akedah)"], "things": ["burnt offering"], "themes": ["only son", "sacrifice", "father and son", "typology"], "groups": []},
+  "keywords": ["yechid", "yachid", "only son", "only one", "only begotten", "thine only son Isaac", "Genesis 22", "land of Moriah", "burnt offering", "Akedah", "binding of Isaac", "unique son"],
+  "uncertain": [],
+  "confidence": 0.95
+}

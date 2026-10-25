@@ -1,0 +1,113 @@
+{
+ "id": "genesis-1-1-wisdom/35",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Psalm 49:3 — tebunot, \"understanding\" (תבונות)",
+ "summary": "Psalm 49:3 in English and Hebrew with \"understanding\" and תבונות highlighted in a coloured-shadow style; below, a large word line: tebunot, תבונות, Understanding.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 49:3",
+   "osis": "Ps.49.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים מט:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tebunot"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תבונות"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Understanding"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 49:3 / תהילים מט:ג",
+   "osis": [
+    "Ps.49.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תבונות",
+   "translit": "tebunot",
+   "gloss": "understanding",
+   "strongs": "H8394"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "understanding",
+   "other": "תבונות"
+  },
+  {
+   "en": "Understanding",
+   "other": "תבונות"
+  },
+  {
+   "en": "tebunot",
+   "other": "תבונות"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "mouth",
+   "heart"
+  ],
+  "themes": [
+   "understanding",
+   "wisdom",
+   "meditation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "tebunot",
+  "tevunot",
+  "tevunah",
+  "tebunah",
+  "understanding",
+  "Hebrew word for understanding",
+  "תבונות",
+  "Psalm 49:3",
+  "Psalm 49",
+  "meditation of my heart shall be understanding"
+ ],
+ "uncertain": [],
+ "confidence": 0.94
+}

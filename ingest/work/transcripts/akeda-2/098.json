@@ -1,0 +1,98 @@
+{
+ "id": "akeda-2/98",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 24:62-64: Isaac meditating in the field sees the camels; Rebekah dismounts",
+ "summary": "Genesis 24:62-64 in English: Isaac had come from Beer-lahai-roi and was living in the Negev; he went out to meditate in the field toward evening and saw camels coming; Rebekah lifted up her eyes and, seeing Isaac, dismounted from the camel. 'Isaac', 'he' and 'his' are red and 'camels'/'camel' are underlined.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 24",
+   "osis": "Gen.24.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כד",
+   "osis": "Gen.24.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "62 Now Isaac had come from going to Beer-lahai-roi; for he was living in the Negev.",
+   "osis": "Gen.24.62"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "63 Isaac went out to meditate in the field toward evening; and he lifted up his eyes and looked, and behold, camels were coming.",
+   "osis": "Gen.24.63"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "64 Rebekah lifted up her eyes, and when she saw Isaac she dismounted from the camel.",
+   "osis": "Gen.24.64"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 24 / בראשית כד",
+   "osis": [
+    "Gen.24.62",
+    "Gen.24.63",
+    "Gen.24.64"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Isaac",
+   "Rebekah"
+  ],
+  "places": [
+   "Beer-lahai-roi",
+   "Negev"
+  ],
+  "events": [
+   "Finding a bride for Isaac",
+   "Isaac meets Rebekah"
+  ],
+  "things": [
+   "camels",
+   "field"
+  ],
+  "themes": [
+   "meditation",
+   "marriage",
+   "prayer"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Isaac meets Rebekah",
+  "Isaac meditate in the field",
+  "eventide",
+  "toward evening",
+  "lifted up his eyes",
+  "camels were coming",
+  "Rebekah dismounted from the camel",
+  "Rebecca lighted off the camel",
+  "Beer-lahai-roi",
+  "Negev",
+  "south country",
+  "Genesis 24",
+  "Genesis 24:63",
+  "Genesis 24:64"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,39 @@
+{
+ "id": "genesis-1-1-wisdom/111",
+ "kinds": [
+  "end"
+ ],
+ "title": "The End",
+ "summary": "Closing slide with the words “The End” in large black letters on a plain white background.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The End"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "The End",
+  "end of presentation",
+  "final slide",
+  "closing slide",
+  "Genesis 1:1 wisdom and understanding",
+  "conclusion"
+ ],
+ "uncertain": [],
+ "confidence": 0.99
+}

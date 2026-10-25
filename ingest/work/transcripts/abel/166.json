@@ -1,0 +1,108 @@
+{
+  "id": "abel/166",
+  "kinds": [
+    "verse",
+    "comparison"
+  ],
+  "title": "Genesis 4:10 and Hebrews 12:24 — Abel's blood and the blood that speaks better things",
+  "summary": "Genesis 4:10 (the voice of Abel's blood cries out from the ground) above Hebrews 12:24, which says Jesus, mediator of a new covenant, and the sprinkling of blood speak better things than that of Abel. Jesus, blood and Abel are colour-highlighted.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:10",
+      "osis": "Gen.4.10"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:י",
+      "osis": "Gen.4.10"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "10 And He said, “What have you done? The voice of your brother’s blood cries out to Me from the ground.",
+      "osis": "Gen.4.10"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Hebrews 12:24",
+      "osis": "Heb.12.24"
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "ΕΒΡΑΙΟΥΣ 12:24",
+      "osis": "Heb.12.24"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "24 and to Jesus the mediator of a new covenant, and to the sprinkling of blood, speaking better things than that of Abel.",
+      "osis": "Heb.12.24"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:10 / בראשית ד:י",
+      "osis": [
+        "Gen.4.10"
+      ],
+      "role": "quoted"
+    },
+    {
+      "shown": "Hebrews 12:24 / ΕΒΡΑΙΟΥΣ 12:24",
+      "osis": [
+        "Heb.12.24"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "God",
+      "Cain",
+      "Abel",
+      "Jesus"
+    ],
+    "places": [],
+    "events": [
+      "Murder of Abel"
+    ],
+    "things": [
+      "ground"
+    ],
+    "themes": [
+      "blood",
+      "covenant",
+      "typology",
+      "Abel as a type of Christ",
+      "atonement"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Genesis 4",
+    "Genesis 4:10",
+    "What have you done",
+    "voice of your brother's blood",
+    "blood cries out from the ground",
+    "Abel's blood",
+    "God speaks to Cain",
+    "Hebrews 12",
+    "Hebrews 12:24",
+    "mediator of a new covenant",
+    "sprinkling of blood",
+    "speaking better things than that of Abel",
+    "blood of Jesus"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

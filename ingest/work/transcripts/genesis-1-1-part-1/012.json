@@ -1,0 +1,131 @@
+{
+ "id": "genesis-1-1-part-1/12",
+ "kinds": [
+  "letters",
+  "picture"
+ ],
+ "title": "Resh: head (200)",
+ "summary": "Close-up study of the letter resh in khaki-gold: three styles of the modern letter, its name, sound R, value 200, ancient head pictograph and meaning \"Head\", with a row showing the pictograph turning into a reversed form and then into the Latin letters R and r.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ר ר ר"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "resh"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "R"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "200"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Head"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "R r"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [
+  {
+   "en": "resh",
+   "other": "ר"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "Head (head pictograph; becomes the Latin letters R and r)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 200,
+   "note": "gematria value of resh"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Small ancient (paleo-Hebrew) pictograph of a human head in profile, drawn above a grey underline, shown between the number 200 and the word \"Head\".",
+   "subjects": [
+    "head",
+    "resh pictograph",
+    "paleo-Hebrew",
+    "ancient Hebrew letters"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.56,
+    0.38,
+    0.64,
+    0.56
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Evolution of the letter resh: the ancient head pictograph on a grey line, an arrow to a mirrored (reversed) head form, then arrows to a large khaki capital R and lower-case r.",
+   "subjects": [
+    "head",
+    "resh to R",
+    "letter evolution",
+    "alphabet history",
+    "pictograph"
+   ],
+   "text_in_picture": "R r",
+   "credit": null,
+   "box": [
+    0.09,
+    0.68,
+    0.9,
+    0.93
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "head"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "resh",
+  "rosh",
+  "head",
+  "letter R",
+  "resh pictograph",
+  "ancient Hebrew",
+  "paleo-Hebrew",
+  "Hebrew letter meanings",
+  "gematria 200",
+  "twentieth letter of the Hebrew alphabet",
+  "letter evolution"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

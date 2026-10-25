@@ -1,0 +1,131 @@
+{
+ "id": "red-heifer/93",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "A third temple is prophesied — Revelation 11:1 and 2 Thessalonians 2:3-4",
+ "summary": "Revelation 11:1 (measure the temple of God) with the line 'A third temple is prophesied', followed by 2 Thessalonians 2:3-4: the falling away and the man of sin, the son of perdition, who exalts himself above all that is called God and sits as God in the temple of God. The words 'temple' and 'God' are colour-highlighted.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Revelation 11:1-2",
+   "osis": [
+    "Rev.11.1",
+    "Rev.11.2"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἀποκάλυψις 11:1-2"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Rev.11.1",
+   "text": "1 Then I was given a measuring rod like a staff and was told, “Go and measure the temple of God and the altar, and count the number of worshipers there."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "A third temple is prophesied"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "2 Thessalonians 2:3-4",
+   "osis": [
+    "2Thess.2.3",
+    "2Thess.2.4"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΘΕΣΣΑΛΟΝΙΚΕΙΣ B 2:3-4"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "2Thess.2.3",
+   "text": "3 Let no one deceive you by any means; for that Day will not come unless the falling away comes first, and the man of sin is revealed, the son of perdition,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "2Thess.2.4",
+   "text": "4 who opposes and exalts himself above all that is called God or that is worshiped, so that he sits as God in the temple of God, showing himself that he is God."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Revelation 11:1-2 / Ἀποκάλυψις 11:1-2",
+   "osis": [
+    "Rev.11.1"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Revelation 11:1-2 / Ἀποκάλυψις 11:1-2",
+   "osis": [
+    "Rev.11.2"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "2 Thessalonians 2:3-4 / ΘΕΣΣΑΛΟΝΙΚΕΙΣ B 2:3-4",
+   "osis": [
+    "2Thess.2.3",
+    "2Thess.2.4"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Second Coming"
+  ],
+  "things": [
+   "temple",
+   "altar",
+   "measuring rod"
+  ],
+  "themes": [
+   "temple",
+   "prophecy",
+   "sin",
+   "judgment"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "third temple",
+  "third temple prophesied",
+  "Revelation 11:1",
+  "2 Thessalonians 2",
+  "2 Thessalonians 2:3",
+  "2 Thessalonians 2:4",
+  "man of sin",
+  "son of perdition",
+  "falling away",
+  "sits in the temple of God",
+  "antichrist",
+  "the Day of the Lord",
+  "end times",
+  "temple of God",
+  "measure the temple"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

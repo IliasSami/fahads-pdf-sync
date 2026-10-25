@@ -1,0 +1,181 @@
+{
+ "id": "akeda-2/139",
+ "kinds": [
+  "code-grid",
+  "word-study"
+ ],
+ "title": "Akedah letter grid: two crossing diagonals meet at the ש — “The Name”",
+ "summary": "Same Akedah letter grid and “hashem — The Name” diagram, now with two red ellipses crossing in an X over the circled ש: one from ם down to a ה in the divine name, the other from מ down to the opposite ה.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22:15-16",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב:יה-יו"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hashem"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ ם"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "The Name"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:15-16 / בראשית כב:יה-יו",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "השם",
+   "translit": "hashem",
+   "gloss": "the Name",
+   "strongs": "H8034"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "yahweh (the Name)",
+   "strongs": "H3068"
+  }
+ ],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "letter at the centre where the two diagonals cross"
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "start of the second circled diagonal"
+  },
+  {
+   "lang": "he",
+   "letter": "final mem",
+   "char": "ם",
+   "value": 40,
+   "meaning": "start of the first circled diagonal"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "grid",
+   "description": "A block of black Hebrew letters (Genesis 22:15-16 in rows) with one row boxed in green; two red ellipses cross in an X over the blue ש in the boxed row, joining the blue ם and מ above to the ה letters of the divine name below.",
+   "subjects": [
+    "Hebrew letter grid",
+    "Bible code",
+    "Genesis 22",
+    "Akedah",
+    "word search",
+    "X pattern",
+    "crossing diagonals",
+    "red ellipses"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.02,
+    0.14,
+    0.56,
+    0.98
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "Right-hand diagram in blue, black, red and orange: the title “hashem”, letters ם and מ, a green box holding ש, and the four letters י ה ו ה underlined in red and orange, with two blue arrows pointing at the first and last letters and the caption “The Name”.",
+   "subjects": [
+    "hashem",
+    "the Name",
+    "divine name",
+    "Hebrew letters",
+    "arrows",
+    "yahweh"
+   ],
+   "text_in_picture": "hashem; The Name",
+   "credit": null,
+   "box": [
+    0.63,
+    0.2,
+    0.97,
+    0.83
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [],
+  "themes": [
+   "Bible codes",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "hashem",
+  "HaShem",
+  "the Name",
+  "Bible code",
+  "Hebrew letter grid",
+  "Akedah",
+  "Akeda",
+  "Genesis 22:16",
+  "yahweh",
+  "divine name",
+  "crossing diagonals",
+  "X pattern",
+  "hidden letters",
+  "equidistant letter sequence"
+ ],
+ "uncertain": [
+  "The slide does not spell out what the crossing diagonals form; they appear to read ה-ש-ם (hashem) and מ-ש-ה",
+  "Grid contents were not transcribed cell by cell"
+ ],
+ "confidence": 0.9
+}

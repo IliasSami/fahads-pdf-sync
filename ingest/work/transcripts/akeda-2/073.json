@@ -1,0 +1,142 @@
+{
+ "id": "akeda-2/73",
+ "kinds": [
+  "letters",
+  "table"
+ ],
+ "title": "The Hebrew alef-bet: alef, bet, gimel with ancient letters, meanings, values",
+ "summary": "First three rows of a Hebrew alef-bet chart (with final forms): alef (strength, God, value 1), bet (tent, house, value 2) and gimel (camel, value 3), each shown in modern Hebrew, in its ancient picture-form and with its meaning and gematria value.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Hebrew alef-bet"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "with (Final Forms)"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Modern | Ancient | Meaning | Gematria"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "1. א alef A | (ancient glyph) | Strength, God | 1"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "2. ב bet B | (ancient glyph) | Tent, House | 2"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "3. ג gimel G | (ancient glyph) | Camel | 3"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "bet",
+   "other": "ב"
+  },
+  {
+   "en": "gimel",
+   "other": "ג"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "Strength, God"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "Tent, House"
+  },
+  {
+   "lang": "he",
+   "letter": "gimel",
+   "char": "ג",
+   "value": 3,
+   "meaning": "Camel"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Column of three ancient (paleo-Hebrew) letter shapes, each sitting on a short coloured bar matching its modern letter: a rounded animal-head shape on a blue bar (alef), a boxy house-like shape on a red bar (bet), and a check-mark-like shape on a gold bar (gimel).",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictographs",
+    "ancient Hebrew letters",
+    "alef",
+    "bet",
+    "gimel"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.41,
+    0.44,
+    0.49,
+    0.88
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "camel",
+   "tent",
+   "house"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Hebrew alphabet",
+  "alef-bet",
+  "aleph bet",
+  "alef",
+  "aleph",
+  "bet",
+  "beth",
+  "gimel",
+  "ancient Hebrew letters",
+  "paleo-Hebrew",
+  "letter meanings",
+  "gematria values",
+  "final forms",
+  "strength God",
+  "tent house",
+  "camel"
+ ],
+ "uncertain": [
+  "Only rows 1-3 of the alef-bet chart are visible on this slide."
+ ],
+ "confidence": 0.95
+}

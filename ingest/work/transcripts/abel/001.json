@@ -1,0 +1,30 @@
+{
+  "id": "abel/1",
+  "kinds": ["title", "picture"],
+  "title": "Title: Abel and Cain (הבל and קין)",
+  "summary": "Opening title slide: the presenter, in front of a world map, shrugs with raised hands under the names Abel (with a halo) and Cain (with a devil's pitchfork), each shown in English and Hebrew.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Abel"},
+    {"lang": "en", "role": "heading", "text": "Cain"},
+    {"lang": "he", "role": "heading", "text": "הבל"},
+    {"lang": "he", "role": "heading", "text": "קין"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "הבל", "translit": "hevel", "gloss": "Abel", "strongs": "H1893"},
+    {"lang": "he", "word": "קין", "translit": "qayin", "gloss": "Cain", "strongs": "H7014"}
+  ],
+  "color_links": [
+    {"en": "Abel", "other": "הבל"},
+    {"en": "Cain", "other": "קין"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [
+    {"type": "video-still", "description": "Video still of the presenter, a grey-haired man with glasses and a white Hard Rock Cafe T-shirt, sitting on a couch in front of a large world wall map and shrugging with both hands raised. Overlaid titles: 'Abel' in blue with a gold halo over the A and 'Cain' in green with a red devil's pitchfork, with the Hebrew names below.", "subjects": ["presenter", "world map", "title slide", "halo", "pitchfork", "Abel", "Cain"], "text_in_picture": "Abel · Cain · הבל · קין · Hard Rock Cafe", "credit": null, "box": [0.0, 0.0, 1.0, 1.0]}
+  ],
+  "entities": {"people": ["Abel", "Cain"], "places": [], "events": [], "things": [], "themes": ["good and evil"], "groups": []},
+  "keywords": ["Abel", "Cain", "Hevel", "Kayin", "Cain and Abel", "brothers", "title slide", "video", "presenter", "world map", "halo", "devil pitchfork", "Genesis 4"],
+  "uncertain": [],
+  "confidence": 0.93
+}

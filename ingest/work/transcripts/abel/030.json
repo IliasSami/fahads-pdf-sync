@@ -1,0 +1,137 @@
+{
+  "id": "abel/30",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:1 — “a man” = איש (ish)",
+  "summary": "Genesis 4:1 with \"I have obtained\" / קניתי (double underline) and now \"a man\" / איש (single underline) marked, in both English and Hebrew.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:1",
+      "osis": "Gen.4.1"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:א"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "1 And the man knew Eve [chava] his wife, and she conceived and gave birth to Cain, and she said, “I have obtained a man with the help of the LORD.”",
+      "osis": "Gen.4.1"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "1 והאדם ידע את חוה אשתו ותהר ותלד את קין ותאמר קניתי איש את יהוה׃",
+      "osis": "Gen.4.1"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:1 / בראשית ד:א",
+      "osis": [
+        "Gen.4.1"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "קניתי",
+      "translit": "qaniti",
+      "gloss": "I have obtained (acquired)",
+      "strongs": "H7069"
+    },
+    {
+      "lang": "he",
+      "word": "איש",
+      "translit": "ish",
+      "gloss": "man",
+      "strongs": "H376"
+    },
+    {
+      "lang": "he",
+      "word": "אמר",
+      "translit": "amar",
+      "gloss": "say / said",
+      "strongs": "H559"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "and",
+      "other": "ו"
+    },
+    {
+      "en": "she",
+      "other": "ת"
+    },
+    {
+      "en": "said",
+      "other": "אמר"
+    },
+    {
+      "en": "I have obtained",
+      "other": "קניתי"
+    },
+    {
+      "en": "a man",
+      "other": "איש"
+    },
+    {
+      "en": "L (LORD)",
+      "other": "י"
+    },
+    {
+      "en": "R (LORD)",
+      "other": "ו"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Eve",
+      "Cain",
+      "Adam",
+      "God"
+    ],
+    "places": [],
+    "events": [
+      "Cain and Abel's birth"
+    ],
+    "things": [],
+    "themes": [
+      "firstborn",
+      "marriage"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Genesis 4:1",
+    "Adam knew Eve",
+    "Eve conceived",
+    "birth of Cain",
+    "I have gotten a man from the LORD",
+    "I have obtained a man",
+    "Cain",
+    "Eve",
+    "chava",
+    "first son",
+    "qaniti",
+    "I have obtained",
+    "ish",
+    "a man",
+    "איש",
+    "קניתי"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

@@ -1,0 +1,43 @@
+{
+  "id": "abel/114",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:13 — “My iniquity” (avoni, עוני): the yod means “my”",
+  "summary": "Genesis 4:13 with the iniquity word study extended: avon (עון, “Iniquity”) plus avoni (עוני, “My Iniquity”), where the final yod (י, in red-brown) is matched to the English word “My.”",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:13", "osis": "Gen.4.13"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:יג"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.13", "text": "13 And Cain said to the LORD, “My iniquity is greater than I can bear!"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.13", "text": "13 ויאמר קין אל יהוה גדול עוני מנשא׃"},
+    {"lang": "translit", "role": "label", "text": "avon"},
+    {"lang": "he", "role": "label", "text": "עון"},
+    {"lang": "en", "role": "label", "text": "Iniquity"},
+    {"lang": "translit", "role": "label", "text": "avoni"},
+    {"lang": "he", "role": "label", "text": "עוני"},
+    {"lang": "en", "role": "label", "text": "My Iniquity"}
+  ],
+  "refs": [{"shown": "Genesis 4:13 / בראשית ד:יג", "osis": ["Gen.4.13"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "עון", "translit": "avon", "gloss": "iniquity", "strongs": "H5771"},
+    {"lang": "he", "word": "עוני", "translit": "avoni", "gloss": "my iniquity", "strongs": "H5771"}
+  ],
+  "color_links": [
+    {"en": "iniquity", "other": "עון"},
+    {"en": "Iniquity", "other": "עון"},
+    {"en": "avon", "other": "עון"},
+    {"en": "My", "other": "י"},
+    {"en": "i (avoni)", "other": "י"},
+    {"en": "My Iniquity", "other": "עוני"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "ayin", "char": "ע", "value": 70, "meaning": ""},
+    {"lang": "he", "letter": "vav", "char": "ו", "value": 6, "meaning": ""},
+    {"lang": "he", "letter": "nun", "char": "נ", "value": 50, "meaning": ""},
+    {"lang": "he", "letter": "yod", "char": "י", "value": 10, "meaning": "“my” (pronoun ending)"}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain"], "places": [], "events": ["Cain's punishment"], "things": [], "themes": ["sin", "judgment", "iniquity", "names of God"], "groups": []},
+  "keywords": ["iniquity", "my iniquity", "avon", "avoni", "yod means my", "possessive ending", "my iniquity is greater than I can bear", "Hebrew word for iniquity", "Cain and Abel", "Genesis 4", "Genesis 4:13"],
+  "uncertain": ["The LORD in English and יהוה in Hebrew have individually coloured letters (decorative: red L/yod, orange R/vav), meaning not explained on this slide."],
+  "confidence": 0.93
+}

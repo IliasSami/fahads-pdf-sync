@@ -1,0 +1,37 @@
+{
+  "id": "akeda-1/5",
+  "kinds": ["word-study", "letters"],
+  "title": "Hidden in the name Abram (אברם): ab (אב) = Father",
+  "summary": "The name Abram is spelled out letter by letter (א ב ר ם) with matching colours, and its first two letters are bracketed to show ab (אב), the Hebrew word for “Father.”",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Abram"},
+    {"lang": "he", "role": "heading", "text": "א ב ר ם"},
+    {"lang": "translit", "role": "label", "text": "ab"},
+    {"lang": "he", "role": "label", "text": "א ב"},
+    {"lang": "en", "role": "label", "text": "Father"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "אברם", "translit": "Abram", "gloss": "Abram (exalted father)", "strongs": "H87"},
+    {"lang": "he", "word": "אב", "translit": "ab", "gloss": "father", "strongs": "H1"}
+  ],
+  "color_links": [
+    {"en": "A", "other": "א"},
+    {"en": "b", "other": "ב"},
+    {"en": "ra", "other": "ר"},
+    {"en": "m", "other": "ם"},
+    {"en": "Father", "other": "אב"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": ""},
+    {"lang": "he", "letter": "bet", "char": "ב", "value": 2, "meaning": ""},
+    {"lang": "he", "letter": "resh", "char": "ר", "value": 200, "meaning": ""},
+    {"lang": "he", "letter": "mem (final)", "char": "ם", "value": 40, "meaning": ""}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham"], "places": [], "events": [], "things": [], "themes": ["meaning of names", "Hebrew letter meanings"], "groups": []},
+  "keywords": ["Abram", "Abraham", "meaning of Abram", "ab", "av", "abba", "father", "Hebrew name meaning", "Hebrew letters", "hidden meaning in names"],
+  "uncertain": [],
+  "confidence": 0.94
+}

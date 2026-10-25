@@ -1,0 +1,164 @@
+{
+ "id": "noah-part-1/52",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 6:14 — the ark's 'rooms' are nests (qenim); John 14:2",
+ "summary": "Genesis 6:14 in English and Hebrew with 'rooms' matched to the Hebrew קנים (qenim), which the slide glosses as 'nests', and the word ark marked in red; followed by John 14:2 (In my Father's house are many mansions).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:14",
+   "osis": "Gen.6.14"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.14",
+   "text": "14 “Make for yourself an ark of gopher wood; you shall make the ark with rooms, and shall cover it inside and out with pitch."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.6.14",
+   "text": "14 עשה לך תבת עצי־גפר קנים תעשה את־התבה וכפרת אתה מבית ומחוץ בכפר"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "qenim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "קנים"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "nests"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 14:2",
+   "osis": "John.14.2"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 14:2"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.14.2",
+   "text": "2 In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:14 / בראשית ו:יד",
+   "osis": [
+    "Gen.6.14"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "John 14:2 / Ἰωάνης 14:2",
+   "osis": [
+    "John.14.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "קנים",
+   "translit": "qenim",
+   "gloss": "nests (translated 'rooms' in Genesis 6:14)",
+   "strongs": "H7064",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "תבה",
+   "translit": "tebah",
+   "gloss": "ark",
+   "strongs": "H8392",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "rooms",
+   "other": "קנים"
+  },
+  {
+   "en": "nests",
+   "other": "קנים"
+  },
+  {
+   "en": "qenim",
+   "other": "קנים"
+  },
+  {
+   "en": "ark",
+   "other": "תבה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "gopher wood",
+   "pitch",
+   "nests",
+   "rooms"
+  ],
+  "themes": [
+   "temple",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "qenim",
+  "nests",
+  "rooms",
+  "ark rooms",
+  "Genesis 6:14",
+  "John 14:2",
+  "in my Father's house",
+  "many mansions",
+  "prepare a place",
+  "gopher wood",
+  "pitch",
+  "tebah",
+  "Noah's ark",
+  "kinnim"
+ ],
+ "uncertain": [
+  "Hebrew line uses a mark between את and התבה and between עצי and גפר that looks like a maqaf; transcribed as maqaf. No sof pasuq shown at the end of the Hebrew."
+ ],
+ "confidence": 0.94
+}

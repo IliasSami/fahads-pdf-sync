@@ -1,0 +1,290 @@
+{
+ "id": "gods-garden-in-eden/40",
+ "kinds": [
+  "list"
+ ],
+ "title": "The first 7 'Good' things in the Bible (Genesis 1)",
+ "summary": "A list of the first seven times God calls something good in Genesis 1, by creation day: Day 1 light; Day 3 land and seas; Day 3 vegetation; Day 4 sun, moon and stars; Day 5 fish and birds; Day 6 animals; and Day 6 everything, which is 'Very Good'. Each has its verse reference in English and Hebrew and a check mark.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The 1st 7 Good Things in the Bible"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:5",
+   "osis": "Gen.1.5"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:ה"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Day 1 Light ✔ Good"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:10",
+   "osis": "Gen.1.10"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:י"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Day 3 Land, Seas ✔ Good"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:12",
+   "osis": "Gen.1.12"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:יב"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Day 3 Vegetation ✔ Good"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:18",
+   "osis": "Gen.1.18"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:יח"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Day 4 [sun icon] [moon icon] [star icon]s ✔ Good"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:21",
+   "osis": "Gen.1.21"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:כא"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Day 5 Fish, Birds ✔ Good"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:25",
+   "osis": "Gen.1.25"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:כה"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Day 6 Animals ✔ Good"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:31",
+   "osis": "Gen.1.31"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:לא"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Day 6 Everything ✔ Very Good"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:5 / בראשית א:ה",
+   "osis": [
+    "Gen.1.5"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 1:10 / בראשית א:י",
+   "osis": [
+    "Gen.1.10"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 1:12 / בראשית א:יב",
+   "osis": [
+    "Gen.1.12"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 1:18 / בראשית א:יח",
+   "osis": [
+    "Gen.1.18"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 1:21 / בראשית א:כא",
+   "osis": [
+    "Gen.1.21"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 1:25 / בראשית א:כה",
+   "osis": [
+    "Gen.1.25"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 1:31 / בראשית א:לא",
+   "osis": [
+    "Gen.1.31"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "the first 7 'good' statements in the Bible (Genesis 1)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "icon",
+   "description": "Small yellow sun symbol on a blue square, standing in for the word 'sun' on Day 4.",
+   "subjects": [
+    "sun",
+    "icon",
+    "Day 4",
+    "fourth day"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.665,
+    0.245,
+    0.695,
+    0.31
+   ]
+  },
+  {
+   "type": "icon",
+   "description": "Small yellow crescent moon on a black square, standing in for the word 'moon' on Day 4.",
+   "subjects": [
+    "moon",
+    "crescent moon",
+    "icon",
+    "Day 4"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.705,
+    0.245,
+    0.732,
+    0.31
+   ]
+  },
+  {
+   "type": "icon",
+   "description": "Small yellow star on a dark-blue square followed by the letter s, standing in for the word 'stars' on Day 4.",
+   "subjects": [
+    "star",
+    "stars",
+    "icon",
+    "Day 4"
+   ],
+   "text_in_picture": "s",
+   "credit": null,
+   "box": [
+    0.743,
+    0.245,
+    0.781,
+    0.31
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "light",
+   "land",
+   "seas",
+   "vegetation",
+   "sun",
+   "moon",
+   "stars",
+   "fish",
+   "birds",
+   "animals"
+  ],
+  "themes": [
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "seven good things",
+  "7 good things in the Bible",
+  "it was good",
+  "God saw that it was good",
+  "very good",
+  "tov",
+  "tov me'od",
+  "six days of creation",
+  "Day 1 light",
+  "Day 3 land and seas",
+  "Day 3 vegetation",
+  "Day 4 sun moon stars",
+  "Day 5 fish and birds",
+  "Day 6 animals",
+  "Genesis 1:31",
+  "Genesis 1"
+ ],
+ "uncertain": [
+  "Slide cites Genesis 1:5 for Day 1 'Light — Good'; transcribed as shown."
+ ],
+ "confidence": 0.93
+}

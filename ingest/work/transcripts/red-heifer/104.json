@@ -1,0 +1,92 @@
+{
+ "id": "red-heifer/104",
+ "kinds": [
+  "quote",
+  "text"
+ ],
+ "title": "Red Heifer Update, March 2022 — Temple Institute statement",
+ "summary": "Quoted text from templeinstitute.org (March 2022): the Temple Institute has expanded its efforts to raise a red heifer in Israel whose ashes would give the highest level of biblical purity, allowing kohanim and ordinary Jews to enter the inner Temple courtyards and Sanctuary on the Temple Mount, a prerequisite for renewing the Divine service. Details are withheld for operational reasons, and the efforts are international in scope.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "RED HEIFER UPDATE, MARCH 2022!"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "From templeinstitute.org"
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "text": "Over the past six months the Temple Institute has greatly expanded its efforts to raise a red heifer in Israel whose ashes can be used to achieve the highest level of biblical purity which will enable kohanim and ordinary Jews to enter into the areas on the Temple Mount where the inner Temple courtyards and the Temple Sanctuary are located, a prerequisite for the renewal of the Divine service in the Holy Temple."
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "text": "More details cannot currently be disclosed for operational reasons. Suffice it to say that the current efforts are international in scope. We hope to be able to share more information in the near future as progress is made."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "other",
+   "word": "kohanim",
+   "translit": "kohanim",
+   "gloss": "priests",
+   "strongs": "H3548"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2022,
+   "note": "March 2022 date of the Temple Institute update"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Israel",
+   "Temple Mount"
+  ],
+  "events": [],
+  "things": [
+   "red heifer",
+   "ashes",
+   "Temple courtyards",
+   "Temple Sanctuary"
+  ],
+  "themes": [
+   "purification",
+   "temple",
+   "priesthood"
+  ],
+  "groups": [
+   "Temple Institute",
+   "kohanim",
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "Red Heifer Update",
+  "March 2022",
+  "Temple Institute",
+  "templeinstitute.org",
+  "raise a red heifer",
+  "ashes of the red heifer",
+  "highest level of biblical purity",
+  "kohanim",
+  "Temple Mount",
+  "inner courtyards",
+  "Temple Sanctuary",
+  "Divine service",
+  "Holy Temple",
+  "Numbers 19"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

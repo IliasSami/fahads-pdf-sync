@@ -1,0 +1,98 @@
+{
+ "id": "genesis-1-1-wisdom/113",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 3:5 — “you will be like God, knowing good and evil”",
+ "summary": "Genesis 3:5 in English and Hebrew, with the word God (G blue, o red, d gold) and Hebrew אלהים (Elohim) colour-matched letter by letter, both in “God knows” and in “like God”.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:5",
+   "osis": "Gen.3.5"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:ה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.3.5",
+   "text": "5 For God knows that in the day you eat of it your eyes will be opened, and you will be like God, knowing good and evil.”"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.3.5",
+   "text": "5 כי ידע אלהים כי ביום אכלכם ממנו ונפקחו עיניכם והייתם כאלהים ידעי טוב ורע׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:5 / בראשית ג:ה",
+   "osis": [
+    "Gen.3.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "God",
+   "other": "כאלהים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [],
+  "themes": [
+   "wisdom",
+   "names of God",
+   "sin"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 3:5",
+  "Genesis 3",
+  "ye shall be as gods",
+  "knowing good and evil",
+  "your eyes shall be opened",
+  "elohim",
+  "God",
+  "eat of it",
+  "forbidden fruit",
+  "Fall of Man",
+  "temptation",
+  "serpent",
+  "Hebrew verse"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

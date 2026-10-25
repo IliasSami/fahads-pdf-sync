@@ -1,0 +1,160 @@
+{
+ "id": "genesis-1-1-part-2/122",
+ "kinds": [
+  "gematria"
+ ],
+ "title": "26 squared plus 45 squared = 2701, Genesis 1:1",
+ "summary": "Shows Yahweh = 26 and Yahweh = 45, then squares each number (26² + 45² = 676 + 2025) to get 2701, and sets that total beside Genesis 1:1 (בראשית א:א).",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 26"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "45 ="
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "26² + 45²"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 676 + 2025"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "2701"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the name of God (YHWH, LORD)",
+   "strongs": "H3068",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 26
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "y",
+   "other": "י"
+  },
+  {
+   "en": "w",
+   "other": "ו"
+  },
+  {
+   "en": "ah / eh",
+   "other": "ה"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 26,
+   "note": "yahweh (יהוה)"
+  },
+  {
+   "value": 45,
+   "note": "yahweh (as shown on previous slides)"
+  },
+  {
+   "value": 676,
+   "note": "26 squared"
+  },
+  {
+   "value": 2025,
+   "note": "45 squared"
+  },
+  {
+   "value": 2701,
+   "note": "676 + 2025, shown beside Genesis 1:1"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "names of God",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "2701",
+  "Genesis 1:1 gematria",
+  "26 squared",
+  "45 squared",
+  "676",
+  "2025",
+  "Yahweh 26 and 45",
+  "sum of squares",
+  "in the beginning",
+  "בראשית",
+  "Genesis 1:1 number",
+  "tetragrammaton",
+  "Bible math"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

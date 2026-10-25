@@ -1,0 +1,88 @@
+{
+ "id": "red-heifer/73",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Numbers 19:9-10 — ashes gathered by a clean man, stored outside the camp",
+ "summary": "Numbers 19:9-10 in English: a clean man gathers the heifer's ashes and stores them in a clean place outside the camp for the water of purification, and the gatherer washes his clothes and is unclean until evening. Key words (clean, ashes, heifer, water, unclean) are colour-coded; the 'el' in Israel is highlighted in two colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:9-10",
+   "osis": [
+    "Num.19.9",
+    "Num.19.10"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:ט-י"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.9",
+   "text": "9 ‘Then a man who is clean shall gather up the ashes of the heifer, and store them outside the camp in a clean place; and they shall be kept for the congregation of the children of Israel for the water of purification; it is for purifying from sin."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.10",
+   "text": "10 ‘The one who gathers the ashes of the heifer shall wash his clothes and be unclean until evening; and it shall be a perpetual statute to the sons of Israel and to the alien who sojourns among them."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19:9-10 / במדבר יט:ט-י",
+   "osis": [
+    "Num.19.9",
+    "Num.19.10"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "ashes",
+   "water of purification",
+   "camp"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "sin",
+   "Torah"
+  ],
+  "groups": [
+   "Israel",
+   "sojourners"
+  ]
+ },
+ "keywords": [
+  "Numbers 19",
+  "ashes of the heifer",
+  "red heifer ashes",
+  "water of separation",
+  "water of purification",
+  "clean place outside the camp",
+  "unclean until evening",
+  "wash his clothes",
+  "perpetual statute",
+  "statute for ever",
+  "purification for sin",
+  "stranger that sojourneth"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

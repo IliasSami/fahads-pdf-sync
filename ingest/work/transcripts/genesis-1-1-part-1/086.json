@@ -1,0 +1,130 @@
+{
+ "id": "genesis-1-1-part-1/86",
+ "kinds": [
+  "diagram",
+  "word-study"
+ ],
+ "title": "Star of David (mogen david) built from 73 small stars",
+ "summary": "A large six-pointed Star of David is formed from 73 small gold Stars of David. The caption reads \"Number of objects needed to form a mogen david / מגן דוד / Star of David\", with the number 73 shown above the figure.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Number of objects needed to form a"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "mogen david"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מגן דוד"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Star of David"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "73"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "מגן דוד",
+   "translit": "mogen david",
+   "gloss": "Star of David (shield of David)",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "דוד",
+   "translit": "david",
+   "gloss": "David",
+   "strongs": "H1732"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "mogen",
+   "other": "מגן"
+  },
+  {
+   "en": "Star of",
+   "other": "מגן"
+  },
+  {
+   "en": "david",
+   "other": "דוד"
+  },
+  {
+   "en": "David",
+   "other": "דוד"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 73,
+   "note": "number of small stars needed to form the Star of David shown"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A large six-pointed Star of David (hexagram) made up of 73 tiny gold Star of David symbols arranged in evenly spaced rows: rows of 1, 2, 3, then 10, 9, 8, 7, 8, 9, 10, then 3, 2, 1.",
+   "subjects": [
+    "Star of David",
+    "hexagram",
+    "six-pointed star",
+    "magen david",
+    "dot pattern",
+    "gold stars"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.36,
+    0.37,
+    0.65,
+    0.94
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "David"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "Star of David"
+  ],
+  "themes": [
+   "numerical patterns"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Star of David",
+  "mogen david",
+  "magen david",
+  "shield of David",
+  "מגן דוד",
+  "hexagram",
+  "six-pointed star",
+  "73",
+  "73 stars",
+  "number of objects",
+  "star pattern",
+  "gematria of Genesis 1:1"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

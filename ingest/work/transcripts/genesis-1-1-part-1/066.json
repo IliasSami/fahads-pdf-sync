@@ -1,0 +1,72 @@
+{
+ "id": "genesis-1-1-part-1/66",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 1:26: 'Let Us make man in Our image according to Our likeness'",
+ "summary": "Genesis 1:26 in English: 'Then God said, \"Let Us make man in Our image according to Our likeness'. The words Us, Our and Our are underlined, 'image' is in blue and 'likeness' in purple, and God is in several colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:26",
+   "osis": "Gen.1.26"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:כו",
+   "osis": "Gen.1.26"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "Then God said, \"Let Us make man in Our image according to Our likeness",
+   "osis": "Gen.1.26"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:26 / בראשית א:כו",
+   "osis": [
+    "Gen.1.26"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "image of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:26",
+  "Let Us make man",
+  "in Our image",
+  "after Our likeness",
+  "image and likeness",
+  "image of God",
+  "creation of man",
+  "plural Us Our",
+  "God said",
+  "man made in God's image"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

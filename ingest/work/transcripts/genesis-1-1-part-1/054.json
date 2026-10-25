@@ -1,0 +1,178 @@
+{
+ "id": "genesis-1-1-part-1/54",
+ "kinds": [
+  "letters",
+  "comparison"
+ ],
+ "title": "The first and last letters: alef-tav (את) and Alpha-Omega",
+ "summary": "Shows that alef (א, light blue) and tav (ת, dark red) are the First and Last Hebrew letters, spelling את, beside the First and Last Greek letters Alpha and Omega (“Alpha A καὶ τὸ Ω Omega”). The whole Hebrew alphabet is written out with alef and tav highlighted; a small copy of the same content with arrows pointing at את runs across the top.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "The First and Last Hebrew letters:"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "את"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "Alpha"
+  },
+  {
+   "lang": "el",
+   "role": "label",
+   "text": "Α καὶ τὸ Ω"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "Omega"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אבגדהוזחטיכלמנסעפצקרשת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "The First and Last Greek letters"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The First and Last Hebrew letters:"
+  },
+  {
+   "lang": "he",
+   "role": "body",
+   "text": "אבגדהוזחטיכלמנסעפצקרשת"
+  },
+  {
+   "lang": "translit",
+   "role": "body",
+   "text": "Alpha"
+  },
+  {
+   "lang": "el",
+   "role": "body",
+   "text": "Α καὶ τὸ Ω"
+  },
+  {
+   "lang": "translit",
+   "role": "body",
+   "text": "Omega"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The First and Last Greek letters"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "alef tav",
+   "gloss": "first and last Hebrew letters (alef-tav)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "el",
+   "word": "Α",
+   "translit": "alpha",
+   "gloss": "first Greek letter",
+   "strongs": null
+  },
+  {
+   "lang": "el",
+   "word": "Ω",
+   "translit": "omega",
+   "gloss": "last Greek letter",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "First",
+   "other": "א"
+  },
+  {
+   "en": "Last",
+   "other": "ת"
+  },
+  {
+   "en": "Alpha",
+   "other": "Α"
+  },
+  {
+   "en": "Omega",
+   "other": "Ω"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "first letter of the Hebrew alphabet"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last letter of the Hebrew alphabet"
+  },
+  {
+   "lang": "el",
+   "letter": "alpha",
+   "char": "Α",
+   "value": 1,
+   "meaning": "first letter of the Greek alphabet"
+  },
+  {
+   "lang": "el",
+   "letter": "omega",
+   "char": "Ω",
+   "value": 800,
+   "meaning": "last letter of the Greek alphabet"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "alef tav",
+  "aleph tav",
+  "first and last letters",
+  "Hebrew alphabet",
+  "alef-bet",
+  "Alpha and Omega",
+  "Alpha Omega",
+  "Greek alphabet",
+  "beginning and the end",
+  "Revelation 22:13",
+  "Revelation 1:8",
+  "את",
+  "first and last"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

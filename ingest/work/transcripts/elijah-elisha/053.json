@@ -1,0 +1,26 @@
+{
+  "id": "elijah-elisha/53",
+  "kinds": ["verse"],
+  "title": "1 Kings 17:12-14 — Flour and oil will not run out (miracle #2)",
+  "summary": "The text of 1 Kings 17:12-14 (the widow's last flour and oil, and Elijah's request for a bread cake first), with God's promise that the bowl of flour and jar of oil will not run out until rain returns underlined in red and marked as miracle #2.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "1 Kings 17:12-14", "osis": ["1Kgs.17.12", "1Kgs.17.13", "1Kgs.17.14"]},
+    {"lang": "he", "role": "reference", "text": "מלכים א יז:יב-יד", "osis": ["1Kgs.17.12", "1Kgs.17.13", "1Kgs.17.14"]},
+    {"lang": "en", "role": "verse", "text": "12 But she said, “As the LORD your God lives, I have no bread, only a handful of flour in the bowl and a little oil in the jar; and behold, I am gathering a few sticks that I may go in and prepare for me and my son, that we may eat it and die.”", "osis": "1Kgs.17.12"},
+    {"lang": "en", "role": "verse", "text": "13 Then Elijah said to her, “Do not fear; go, do as you have said, but make me a little bread cake from it first and bring it out to me, and afterward you may make one for yourself and for your son.", "osis": "1Kgs.17.13"},
+    {"lang": "en", "role": "verse", "text": "14 “For thus says the LORD God of Israel, ‘The bowl of flour shall not be exhausted, nor shall the jar of oil be empty, until the day that the LORD sends rain on the face of the earth.’”", "osis": "1Kgs.17.14"},
+    {"lang": "en", "role": "label", "text": "#2"}
+  ],
+  "refs": [
+    {"shown": "1 Kings 17:12-14 / מלכים א יז:יב-יד", "osis": ["1Kgs.17.12", "1Kgs.17.13", "1Kgs.17.14"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [{"value": 2, "note": "Elijah's miracle #2: the widow's flour and oil multiplied"}],
+  "pictures": [],
+  "entities": {"people": ["Elijah", "widow of Zarephath", "God"], "places": ["Zarephath", "Israel"], "events": ["three-year drought"], "things": ["flour", "oil", "bowl", "jar", "bread cake"], "themes": ["miracles", "God's provision", "faith"], "groups": []},
+  "keywords": ["second miracle of Elijah", "widow's oil multiplied", "barrel of meal shall not waste", "cruse of oil shall not fail", "flour and oil", "widow of Zarephath", "until the LORD sends rain", "Elijah", "1 Kings 17", "miracle #2"],
+  "uncertain": [],
+  "confidence": 0.96
+}

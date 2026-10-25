@@ -1,0 +1,25 @@
+{
+  "id": "akeda-2/87",
+  "kinds": ["verse"],
+  "title": "Genesis 24:31-33: Laban welcomes the servant, who will not eat until he speaks",
+  "summary": "Genesis 24:31-33 in English: Laban invites the 'blessed of the LORD' inside, cares for the camels and gives water to wash feet, but the servant refuses to eat until he has told his business. Words referring to the servant are highlighted in gold and 'camels' is underlined.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 24", "osis": "Gen.24.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית כד", "osis": "Gen.24.1"},
+    {"lang": "en", "role": "verse", "text": "31 And he said, “Come in, blessed of the LORD! Why do you stand outside since I have prepared the house, and a place for the camels?”", "osis": "Gen.24.31"},
+    {"lang": "en", "role": "verse", "text": "32 So the man entered the house. Then Laban unloaded the camels, and he gave straw and feed to the camels, and water to wash his feet and the feet of the men who were with him.", "osis": "Gen.24.32"},
+    {"lang": "en", "role": "verse", "text": "33 But when food was set before him to eat, he said, “I will not eat until I have told my business.” And he said, “Speak on.”", "osis": "Gen.24.33"}
+  ],
+  "refs": [
+    {"shown": "Genesis 24 / בראשית כד", "osis": ["Gen.24.31", "Gen.24.32", "Gen.24.33"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Laban", "Eliezer", "God"], "places": [], "events": ["Finding a bride for Isaac"], "things": ["camels", "straw", "feed", "water"], "themes": ["hospitality", "foot washing", "faithfulness"], "groups": []},
+  "keywords": ["Laban", "Abraham's servant", "blessed of the LORD", "come in", "washing feet", "unloaded the camels", "will not eat until I have told my errand", "hospitality", "bride for Isaac", "Genesis 24"],
+  "uncertain": [],
+  "confidence": 0.95
+}

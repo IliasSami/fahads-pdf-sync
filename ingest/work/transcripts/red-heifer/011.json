@@ -1,0 +1,105 @@
+{
+ "id": "red-heifer/11",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Numbers 16:23-26 — get away from the tents of Korah, Dathan and Abiram",
+ "summary": "Numbers 16:23-26: the LORD tells Moses to tell the congregation to get away from the tents of Korah, Dathan and Abiram and touch nothing of theirs, lest they be consumed in all their sins. Verses 23, 24 and 26 are shown (25 is skipped).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 16:23-26",
+   "osis": [
+    "Num.16.23",
+    "Num.16.24",
+    "Num.16.25",
+    "Num.16.26"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יו:כג-כו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.16.23",
+   "text": "23 So the LORD spoke to Moses, saying,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.16.24",
+   "text": "24 “Speak to the congregation, saying, ‘Get away from the tents of Korah, Dathan, and Abiram.’ ”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.16.26",
+   "text": "26 And he spoke to the congregation, saying, “Depart now from the tents of these wicked men! Touch nothing of theirs, lest you be consumed in all their sins.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 16:23-26 / במדבר יו:כג-כו",
+   "osis": [
+    "Num.16.23",
+    "Num.16.24",
+    "Num.16.25",
+    "Num.16.26"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Moses",
+   "Korah",
+   "Dathan",
+   "Abiram"
+  ],
+  "places": [],
+  "events": [
+   "Rebellion of Korah"
+  ],
+  "things": [
+   "tents"
+  ],
+  "themes": [
+   "separation",
+   "sin",
+   "judgment",
+   "clean and unclean",
+   "holiness"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Numbers 16:23-26",
+  "Numbers 16",
+  "Korah's rebellion",
+  "Korah Dathan and Abiram",
+  "get away from the tents",
+  "touch nothing of theirs",
+  "lest you be consumed",
+  "wicked men",
+  "depart now",
+  "separation from sin",
+  "congregation"
+ ],
+ "uncertain": [
+  "Hebrew chapter number is written יו (as the slide shows) rather than the usual טז for 16.",
+  "Verse 25 is not shown although the reference header says 23-26."
+ ],
+ "confidence": 0.95
+}

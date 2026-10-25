@@ -1,0 +1,168 @@
+{
+ "id": "genesis-1-1-part-2/22",
+ "kinds": [
+  "verse",
+  "letters"
+ ],
+ "title": "Genesis 1:1-5 with the letters of torah highlighted in the Hebrew",
+ "summary": "Genesis 1:1-5 in English and letter-spaced Hebrew under the heading torah (ת ו ר ה) in colour. One Hebrew letter is enlarged, coloured and underlined in each of four verses: ת in בראשית (v1), ו in תהום (v2), ר in וירא (v4) and ה in אלהים (v5), which in order spell torah. The word God is coloured in English.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1",
+   "osis": [
+    "Gen.1.1",
+    "Gen.1.2",
+    "Gen.1.3",
+    "Gen.1.4",
+    "Gen.1.5"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ת ו ר ה"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "1 In beginning God created the heavens and the earth."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.2",
+   "text": "2 The earth was formless and void, and darkness was over the surface of the deep, and the Spirit of God was moving over the surface of the waters."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.2",
+   "text": "והארץ היתה תהו ובהו וחשך על פני תהום ורוח אלהים מרחפת על פני המים׃"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.3",
+   "text": "3 And God said, Let there be light: and there was light."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.3",
+   "text": "ויאמר אלהים יהי אור ויהי אור׃"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.4",
+   "text": "4 God saw that the light was good; and God separated the light from the darkness."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.4",
+   "text": "וירא אלהים את האור כי טוב ויבדל אלהים בין האור ובין החשך׃"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.5",
+   "text": "5 And God called the light Day, and the darkness he called night. And the evening and the morning were the first day."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.5",
+   "text": "ויקרא אלהים לאור יום ולחשך קרא לילה ויהי ערב ויהי בקר יום אחד׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1 / בראשית א",
+   "osis": [
+    "Gen.1.1",
+    "Gen.1.2",
+    "Gen.1.3",
+    "Gen.1.4",
+    "Gen.1.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תורה",
+   "translit": "torah",
+   "gloss": "instruction, law",
+   "strongs": "H8451"
+  },
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning (Hebrew name of Genesis)",
+   "strongs": "H7225"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Holy Spirit"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "Torah",
+   "light",
+   "heavens",
+   "earth",
+   "waters"
+  ],
+  "themes": [
+   "creation",
+   "Torah",
+   "light and darkness",
+   "Bible codes"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1",
+  "Genesis 1:1-5",
+  "In the beginning God created",
+  "creation",
+  "let there be light",
+  "God called the light Day",
+  "evening and morning first day",
+  "torah letters hidden in Genesis",
+  "Torah code",
+  "tav vav resh hey",
+  "highlighted letters spell torah",
+  "formless and void"
+ ],
+ "uncertain": [
+  "Hebrew text is letter-spaced; the yod in בראשית and אלהים and השמים looks like a small apostrophe but is transcribed as yod."
+ ],
+ "confidence": 0.93
+}

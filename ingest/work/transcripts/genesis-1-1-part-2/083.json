@@ -1,0 +1,186 @@
+{
+ "id": "genesis-1-1-part-2/83",
+ "kinds": [
+  "gematria",
+  "word-study",
+  "diagram"
+ ],
+ "title": "Elohim letter values 40-10-5-30-1: sums 55, 45 and 36 are triangular numbers",
+ "summary": "The word elohim (אלהים) spelled out with the value of each letter (1, 30, 5, 10, 40). Brackets mark three overlapping groups of three letters adding to 55, 45 and 36, each drawn below as a triangle of that many red, blue or gold symbols.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "elohim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ם י ה ל א"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "40   10   5   30   1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "|____55____|"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "|_____45____|"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "|____36____|"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "55"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "45"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "36"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     10,
+     5,
+     30,
+     1
+    ],
+    "total": 86
+   }
+  }
+ ],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "final mem",
+   "char": "ם",
+   "value": 40,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 55,
+   "note": "sum of the letters ם י ה (40 + 10 + 5) in elohim; a triangular number"
+  },
+  {
+   "value": 45,
+   "note": "sum of the letters י ה ל (10 + 5 + 30) in elohim; a triangular number"
+  },
+  {
+   "value": 36,
+   "note": "sum of the letters ה ל א (5 + 30 + 1) in elohim; a triangular number"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "Three triangles of small triangle symbols side by side: a blue one labelled 55 (10 rows), a red one labelled 45 (9 rows) and a gold one labelled 36 (8 rows).",
+   "subjects": [
+    "triangular numbers",
+    "triangle",
+    "55",
+    "45",
+    "36",
+    "blue red gold triangles"
+   ],
+   "text_in_picture": "55 45 36",
+   "credit": null,
+   "box": [
+    0.17,
+    0.68,
+    0.8,
+    0.97
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "triangle"
+  ],
+  "themes": [
+   "names of God",
+   "gematria",
+   "triangular numbers",
+   "perfect number"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "elohim",
+  "elohim gematria",
+  "אלהים",
+  "God",
+  "letter values",
+  "55 45 36",
+  "triangular numbers",
+  "40 10 5 30 1",
+  "name of God",
+  "elohim 86",
+  "perfect triangles"
+ ],
+ "uncertain": [
+  "The slide does not show the total 86 for elohim; the total in words[].gematria is the sum of the letter values shown."
+ ],
+ "confidence": 0.95
+}

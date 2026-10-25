@@ -1,0 +1,179 @@
+{
+ "id": "gods-garden-in-eden/37",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 2:9 — the tree of life and the tree of the knowledge of good and evil",
+ "summary": "Genesis 2:9 in English with the two trees highlighted. Below, the Hebrew word עץ (tree) has arrows pointing to the two trees: החיים (the life) and הדעת טוב ורע (the knowledge of good and evil), with matching colours in English and Hebrew.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:9",
+   "osis": "Gen.2.9"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:ט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.9",
+   "text": "9 Out of the ground the LORD God caused to grow every tree that is pleasing to the sight and good for food; the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil."
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ates"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "עץ"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "tree"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "החיים"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "הדעת טוב ורע"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "life"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "evil good knowledge"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:9 / בראשית ב:ט",
+   "osis": [
+    "Gen.2.9"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "עץ",
+   "translit": "ets",
+   "gloss": "tree",
+   "strongs": "H6086",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "החיים",
+   "translit": "ha-chayyim",
+   "gloss": "the life",
+   "strongs": "H2416",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הדעת",
+   "translit": "ha-da'at",
+   "gloss": "the knowledge",
+   "strongs": "H1847",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "טוב",
+   "translit": "tov",
+   "gloss": "good",
+   "strongs": "H2896",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ורע",
+   "translit": "va-ra",
+   "gloss": "and evil",
+   "strongs": "H7451",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "tree",
+   "other": "עץ"
+  },
+  {
+   "en": "life",
+   "other": "החיים"
+  },
+  {
+   "en": "knowledge",
+   "other": "הדעת"
+  },
+  {
+   "en": "good",
+   "other": "טוב"
+  },
+  {
+   "en": "evil",
+   "other": "ורע"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [],
+  "things": [
+   "tree of life",
+   "tree of the knowledge of good and evil",
+   "garden"
+  ],
+  "themes": [
+   "good and evil",
+   "life"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "tree of life",
+  "tree of knowledge",
+  "tree of the knowledge of good and evil",
+  "Genesis 2:9",
+  "Genesis 2",
+  "Garden of Eden",
+  "Eden",
+  "ets",
+  "etz",
+  "etz hachayim",
+  "Hebrew word for tree",
+  "pleasing to the sight",
+  "good for food",
+  "knowledge of good and evil",
+  "in the midst of the garden"
+ ],
+ "uncertain": [
+  "The word 'ates' printed in brown beside the Hebrew עץ is transcribed as shown; it may be a typo or play on the transliteration 'ets'."
+ ],
+ "confidence": 0.93
+}

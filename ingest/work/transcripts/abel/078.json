@@ -1,0 +1,200 @@
+{
+  "id": "abel/78",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:7 — “his desire … rule over him”: 3rd person masculine singular",
+  "summary": "Genesis 4:7 now reads “his desire is for you, but you should rule over him”. The Hebrew endings תו and בו are traced by arrows to “his desire” and “over him”, and on to the label “3rd Person Masculine Singular” (Masculine in blue).",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:7",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:ז",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "7 If you do well, will you not be accepted?",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "And if you do not do well, sin lies at the door.",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "And his desire is for you, but you should rule over him.”",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "7 הלוא אם תיטיב שאת",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ואם לא תיטיב לפתח חטאת רבץ",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ואליך תשוקתו ואתה תמשל בו׃",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "over him"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "his desire"
+    },
+    {
+      "lang": "en",
+      "role": "note",
+      "text": "⇙ ⇙ ⇘"
+    },
+    {
+      "lang": "en",
+      "role": "note",
+      "text": "⇘ ⇙"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "3rd Person Masculine Singular"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:7 / בראשית ד:ז",
+      "osis": [
+        "Gen.4.7"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "חטאה",
+      "translit": "chattah",
+      "gloss": "sin",
+      "strongs": "H2403"
+    },
+    {
+      "lang": "he",
+      "word": "חטאת",
+      "translit": "chattat",
+      "gloss": "sin (as in the verse)",
+      "strongs": "H2403"
+    },
+    {
+      "lang": "he",
+      "word": "תשוקתו",
+      "translit": "teshuqato",
+      "gloss": "his/its desire",
+      "strongs": "H8669"
+    },
+    {
+      "lang": "he",
+      "word": "בו",
+      "translit": "bo",
+      "gloss": "over him / over it",
+      "strongs": null
+    }
+  ],
+  "color_links": [
+    {
+      "en": "sin",
+      "other": "חטאת"
+    },
+    {
+      "en": "chattah",
+      "other": "חטאה"
+    },
+    {
+      "en": "Sin",
+      "other": "חטאה"
+    },
+    {
+      "en": "desire",
+      "other": "תשוק"
+    },
+    {
+      "en": "his",
+      "other": "תו"
+    },
+    {
+      "en": "over him",
+      "other": "בו"
+    },
+    {
+      "en": "him",
+      "other": "בו"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Cain",
+      "God"
+    ],
+    "places": [],
+    "events": [
+      "Cain and Abel's offerings"
+    ],
+    "things": [
+      "door"
+    ],
+    "themes": [
+      "sin",
+      "obedience",
+      "temptation"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "if you do well",
+    "shalt thou not be accepted",
+    "sin lieth at the door",
+    "sin lies at the door",
+    "its desire is for you",
+    "unto thee shall be his desire",
+    "thou shalt rule over him",
+    "rule over it",
+    "Genesis 4:7",
+    "Cain and Abel",
+    "Genesis 4",
+    "his desire",
+    "rule over him",
+    "3rd person masculine singular",
+    "masculine pronoun",
+    "Hebrew grammar",
+    "he or it",
+    "desire",
+    "him"
+  ],
+  "uncertain": [
+    "The English is changed from “its … it” (earlier slides) to “his … him”."
+  ],
+  "confidence": 0.93
+}

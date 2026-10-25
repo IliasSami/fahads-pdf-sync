@@ -1,0 +1,270 @@
+{
+ "id": "genesis-1-1-part-2/31",
+ "kinds": [
+  "word-study",
+  "diagram",
+  "list"
+ ],
+ "title": "Genesis 1:1 words matched to Time, Space, Force, Action and Matter",
+ "summary": "Genesis 1:1 in English, transliteration and Hebrew, each word colour-coded. Below the words are five headings in matching colours: Time (Past, Present, Future), Action, Force, Space (Length, Width, Depth) and Matter (Solid, Liquid, Gas). At the bottom, the Hebrew words ואת and את are repeated with coloured arrows pointing to their individual letters.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Bereshit 1:1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "In beginning | created | God | (et) | the skywaters | and (et) | the land"
+  },
+  {
+   "lang": "translit",
+   "role": "table",
+   "text": "bereshit | bara | elohim | et | hashamayim | ve’et | ha’aretz"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "ב ר א ש י ת ב ר א א ל ה י ם א ת ה ש מ י ם ו א ת ה א ר ץ"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Time"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Past"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Present"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Future"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Action"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Force"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Space"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Length"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Width"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Depth"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Matter"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Solid"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Liquid"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Gas"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ואת"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "את"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / Bereshit 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(untranslated object marker)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the skywaters (the heavens)",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve’et",
+   "gloss": "and (et)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha’aretz",
+   "gloss": "the land (the earth)",
+   "strongs": "H776"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "(et)",
+   "other": "את"
+  },
+  {
+   "en": "the skywaters",
+   "other": "השמים"
+  },
+  {
+   "en": "and (et)",
+   "other": "ואת"
+  },
+  {
+   "en": "the land",
+   "other": "הארץ"
+  },
+  {
+   "en": "bereshit",
+   "other": "בראשית"
+  },
+  {
+   "en": "bara",
+   "other": "ברא"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  },
+  {
+   "en": "hashamayim",
+   "other": "השמים"
+  },
+  {
+   "en": "ha’aretz",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "Hebrew word study"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "Bereshit",
+  "time space matter",
+  "matter space time force action",
+  "solid liquid gas",
+  "length width depth",
+  "past present future",
+  "creation in Genesis 1:1",
+  "the skywaters",
+  "et",
+  "ve'et",
+  "aleph tav",
+  "colour-coded Hebrew words",
+  "science in Genesis 1"
+ ],
+ "uncertain": [],
+ "confidence": 0.9
+}

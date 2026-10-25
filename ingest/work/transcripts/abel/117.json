@@ -1,0 +1,35 @@
+{
+  "id": "abel/117",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:14 — “day” (yom, יום)",
+  "summary": "Genesis 4:14 in English and Hebrew with “day” underlined and the letters יום inside היום coloured and underlined, plus a word study: yom (יום) means “Day,” with its letters yod (red-brown), vav (orange) and mem (light blue).",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:14", "osis": "Gen.4.14"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:יד"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.14", "text": "14 Surely You have driven me out this day from the face of the ground; and from your face I shall be hidden; and I shall be a fugitive and a vagabond on the earth, and it will happen that anyone who finds me will kill me.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.14", "text": "14 הן גרשת אתי היום מעל פני האדמה ומפניך אסתר והייתי נע ונד בארץ והיה כל מצאי יהרגני׃"},
+    {"lang": "translit", "role": "label", "text": "yom"},
+    {"lang": "he", "role": "label", "text": "יום"},
+    {"lang": "en", "role": "label", "text": "Day"}
+  ],
+  "refs": [{"shown": "Genesis 4:14 / בראשית ד:יד", "osis": ["Gen.4.14"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "יום", "translit": "yom", "gloss": "day", "strongs": "H3117"}
+  ],
+  "color_links": [
+    {"en": "y (yom)", "other": "י"},
+    {"en": "o (yom)", "other": "ו"},
+    {"en": "m (yom)", "other": "ם"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "yod", "char": "י", "value": 10, "meaning": ""},
+    {"lang": "he", "letter": "vav", "char": "ו", "value": 6, "meaning": ""},
+    {"lang": "he", "letter": "mem (final)", "char": "ם", "value": 40, "meaning": ""}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain"], "places": [], "events": ["Cain's punishment"], "things": ["ground"], "themes": ["judgment", "exile", "wandering", "death"], "groups": []},
+  "keywords": ["day", "yom", "this day", "Hebrew word for day", "driven me out this day", "from thy face shall I be hid", "fugitive and a vagabond", "Cain's punishment", "Cain and Abel", "Genesis 4", "Genesis 4:14"],
+  "uncertain": [],
+  "confidence": 0.94
+}

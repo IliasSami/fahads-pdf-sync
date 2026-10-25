@@ -1,0 +1,107 @@
+{
+ "id": "akeda-2/24",
+ "kinds": [
+  "word-study",
+  "letters"
+ ],
+ "title": "Shav (שב) means Return — spelled shin and bet",
+ "summary": "A word-study slide under a blue Star of David: the transliteration 'shav' (with 'av' in red), the Hebrew שב (the bet in red, the shin in black) and the meaning 'Return'. Beneath the Hebrew the two letters are named: bet (red) and shin (black).",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shav"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שב"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Return"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shin"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שב",
+   "translit": "shav",
+   "gloss": "return",
+   "strongs": "H7725"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "bet",
+   "other": "ב"
+  },
+  {
+   "en": "shin",
+   "other": "ש"
+  },
+  {
+   "en": "av",
+   "other": "ב"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "first letter of שב (shav, return); shown in black"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "second letter of שב (shav, return); shown in red"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "return"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "shav",
+  "shuv",
+  "teshuvah",
+  "return",
+  "שב",
+  "shin bet",
+  "Hebrew word for return",
+  "bet",
+  "beth",
+  "shin",
+  "Hebrew letters",
+  "vayashav"
+ ],
+ "uncertain": [
+  "Link between the red 'av' in the transliteration and the red bet is inferred from matching colour"
+ ],
+ "confidence": 0.94
+}

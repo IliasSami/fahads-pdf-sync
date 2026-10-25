@@ -1,0 +1,149 @@
+{
+ "id": "genesis-1-1-part-1/62",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:1 in Hebrew: 'the land' and 'the heavens' with את",
+ "summary": "Shows the Hebrew of Genesis 1:1 with the first three words (in the beginning God created) greyed out and the rest colour-coded, with English underneath: the land, and, the heavens, and the Hebrew word את (et) shown beside each.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "the land"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "את"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "and"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "the heavens"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "את"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the land / the earth",
+   "strongs": "H776",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "untranslated word marking the object (shown in red and blue)",
+   "strongs": "H853",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve'et",
+   "gloss": "and (et)",
+   "strongs": "H853",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "the heavens",
+   "other": "השמים"
+  },
+  {
+   "en": "the land",
+   "other": "הארץ"
+  },
+  {
+   "en": "and",
+   "other": "ו"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "heavens",
+   "land"
+  ],
+  "themes": [
+   "creation",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "in the beginning",
+  "the heavens and the earth",
+  "the land",
+  "the heavens",
+  "et",
+  "aleph tav",
+  "את",
+  "Hebrew word order",
+  "ha'aretz",
+  "hashamayim",
+  "direct object marker",
+  "bereshit"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

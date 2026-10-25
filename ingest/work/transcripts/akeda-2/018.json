@@ -1,0 +1,175 @@
+{
+ "id": "akeda-2/18",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 22:12 — Do not stretch out your hand; now I know you fear God",
+ "summary": "The Akedah: Genesis 22:12 in English and Hebrew. The angel says not to harm the lad because now he knows Abraham fears God, since he has not withheld his son, his only son. The word את (et) is shown before 'your son' and 'your only son' (red-underlined with the matching Hebrew); 'now' is underlined in blue, and the words He, Me and God have coloured letters.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22",
+   "osis": "Gen.22.1"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ה ע ק ד ה"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Akedah"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.12",
+   "text": "12 He said, “Do not stretch out your hand against the lad, and do nothing to him; for now I know that you fear God, since you have not withheld את your son, את your only son, from Me.”"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.22.12",
+   "text": "12 ויאמר אל־תשלח ידך אל־הנער ואל־תעש לו מאומה כי ׀ עתה ידעתי כי־ירא אלהים אתה ולא חשכת את־בנך את־יחידך ממני׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22 / בראשית כב",
+   "osis": [
+    "Gen.22.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 22:12 (verse number 12)",
+   "osis": [
+    "Gen.22.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "העקדה",
+   "translit": "ha'akedah",
+   "gloss": "the Akedah (the binding)",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "הנער",
+   "translit": "hana'ar",
+   "gloss": "the lad",
+   "strongs": "H5288"
+  },
+  {
+   "lang": "he",
+   "word": "עתה",
+   "translit": "atah",
+   "gloss": "now",
+   "strongs": "H6258"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "חשכת",
+   "translit": "chasakhta",
+   "gloss": "you have withheld",
+   "strongs": "H2820"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "alef-tav; untranslated direct-object marker before your son and your only son",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "בנך",
+   "translit": "binkha",
+   "gloss": "your son",
+   "strongs": "H1121"
+  },
+  {
+   "lang": "he",
+   "word": "יחידך",
+   "translit": "yechidkha",
+   "gloss": "your only son",
+   "strongs": "H3173"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "your son",
+   "other": "בנך"
+  },
+  {
+   "en": "your only son",
+   "other": "יחידך"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Abraham",
+   "Isaac",
+   "Angel of the LORD"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [],
+  "themes": [
+   "faith",
+   "obedience",
+   "sacrifice",
+   "fear of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 22:12",
+  "Genesis 22",
+  "Akedah",
+  "Akeda",
+  "binding of Isaac",
+  "העקדה",
+  "do not stretch out your hand against the lad",
+  "now I know that you fear God",
+  "you have not withheld your only son",
+  "fear of God",
+  "lay not thine hand upon the lad",
+  "et",
+  "alef tav",
+  "aleph tav"
+ ],
+ "uncertain": [
+  "The coloured letters in He, Me and God are not explained on the slide"
+ ],
+ "confidence": 0.94
+}

@@ -1,0 +1,141 @@
+{
+ "id": "red-heifer/38",
+ "kinds": [
+  "text",
+  "word-study"
+ ],
+ "title": "The red heifer ordinance is mysterious … unless you read the New Testament (brit hadashah)",
+ "summary": "Repeats the heading that the red heifer ordinance is the most mysterious of the chukat (statutes), then adds \"…unless you read The New Testament\", shown in Hebrew as ברות הדשה and transliterated brit hadashah, with the words coloured red and green.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Ordinance of the Red Heifer"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "is the most mysterious of the"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "chukat"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "חקת"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "…"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "…unless you read"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The New Testament"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ברות הדשה"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "brit hadashah"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חקת",
+   "translit": "chukat",
+   "gloss": "statutes of (statute, ordinance)",
+   "strongs": "H2708",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ברות",
+   "translit": "brit",
+   "gloss": "covenant (as spelled on the slide)",
+   "strongs": "H1285",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הדשה",
+   "translit": "hadashah",
+   "gloss": "new (as spelled on the slide)",
+   "strongs": "H2319",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "chukat",
+   "other": "חקת"
+  },
+  {
+   "en": "Testament",
+   "other": "ברות"
+  },
+  {
+   "en": "brit",
+   "other": "ברות"
+  },
+  {
+   "en": "New",
+   "other": "הדשה"
+  },
+  {
+   "en": "hadashah",
+   "other": "הדשה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer"
+  ],
+  "themes": [
+   "statutes (chok)",
+   "typology",
+   "covenant",
+   "messianic prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "red heifer",
+  "ordinance of the red heifer",
+  "most mysterious statute",
+  "unless you read the New Testament",
+  "brit hadashah",
+  "new covenant",
+  "New Testament in Hebrew",
+  "chukat",
+  "chok",
+  "Numbers 19",
+  "Jesus and the red heifer",
+  "Brit Chadashah"
+ ],
+ "uncertain": [
+  "The Hebrew is transcribed exactly as shown, ברות הדשה; the usual spelling of 'new covenant' is ברית חדשה (with a yod in the first word and chet in the second)."
+ ],
+ "confidence": 0.95
+}

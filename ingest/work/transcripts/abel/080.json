@@ -1,0 +1,131 @@
+{
+  "id": "abel/80",
+  "kinds": [
+    "verse"
+  ],
+  "title": "Genesis 4:8 — Cain rose up against Abel his brother and killed him",
+  "summary": "Genesis 4:8 in English and Hebrew: Cain talked with his brother Abel, and when they were in the field Cain rose up against him and killed him. Cain is in light green and Abel in light blue in both languages.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:8",
+      "osis": "Gen.4.8"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:ח",
+      "osis": "Gen.4.8"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "8 And Cain talked with Abel his brother;",
+      "osis": "Gen.4.8"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "and it came to pass, when they were in the field,",
+      "osis": "Gen.4.8"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "that Cain rose up against Abel his brother and killed him.",
+      "osis": "Gen.4.8"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "8 ויאמר קין אל הבל אחיו",
+      "osis": "Gen.4.8"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ויהי בהיותם בשדה",
+      "osis": "Gen.4.8"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ויקם קין אל הבל אחיו ויהרגהו׃",
+      "osis": "Gen.4.8"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:8 / בראשית ד:ח",
+      "osis": [
+        "Gen.4.8"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "קין",
+      "translit": "qayin",
+      "gloss": "Cain",
+      "strongs": "H7014"
+    },
+    {
+      "lang": "he",
+      "word": "הבל",
+      "translit": "hevel",
+      "gloss": "Abel",
+      "strongs": "H1893"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "Cain",
+      "other": "קין"
+    },
+    {
+      "en": "Abel",
+      "other": "הבל"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Cain",
+      "Abel"
+    ],
+    "places": [],
+    "events": [
+      "murder of Abel"
+    ],
+    "things": [
+      "field"
+    ],
+    "themes": [
+      "death",
+      "sin",
+      "judgment"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Cain kills Abel",
+    "Cain killed Abel",
+    "Cain slew Abel",
+    "murder of Abel",
+    "first murder",
+    "in the field",
+    "Cain rose up against Abel",
+    "Cain talked with Abel",
+    "brother killed brother",
+    "Genesis 4:8",
+    "Cain and Abel",
+    "Genesis 4"
+  ],
+  "uncertain": [],
+  "confidence": 0.97
+}

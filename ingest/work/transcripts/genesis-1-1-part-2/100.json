@@ -1,0 +1,163 @@
+{
+ "id": "genesis-1-1-part-2/100",
+ "kinds": [
+  "word-study",
+  "diagram",
+  "text"
+ ],
+ "title": "Reparsing Genesis 1:1: 'Behold this is my match Moses a match of yah'",
+ "summary": "Under the heading \"and reparsing the words reveals:\", the letters of Genesis 1:1 are laid out in one run (read the other way, left to right) with coloured arrows and regrouped into new Hebrew words that the slide translates as yah, match, moshe, match and Behold, giving the sentence \"Behold this is my match Moses a match of yah\".",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "and reparsing the words reveals:"
+  },
+  {
+   "lang": "he",
+   "role": "body",
+   "text": "ץרא ה תאוםי משה תאם יה לאארבתישארב"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "yah   match   moshe   match   Behold"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Behold this is my match Moses a match of yah"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 (letters regrouped; reference not printed on this slide)",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יה",
+   "translit": "yah",
+   "gloss": "yah (short form of the LORD's name)",
+   "strongs": "H3050"
+  },
+  {
+   "lang": "he",
+   "word": "תאם",
+   "translit": "ta'am",
+   "gloss": "match",
+   "strongs": "H8382"
+  },
+  {
+   "lang": "he",
+   "word": "משה",
+   "translit": "moshe",
+   "gloss": "Moses",
+   "strongs": "H4872"
+  },
+  {
+   "lang": "he",
+   "word": "תאוםי",
+   "translit": "te'omi",
+   "gloss": "my match",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "ץראה",
+   "translit": "",
+   "gloss": "Behold",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "yah",
+   "other": "יה"
+  },
+  {
+   "en": "match",
+   "other": "תאם"
+  },
+  {
+   "en": "moshe",
+   "other": "משה"
+  },
+  {
+   "en": "match",
+   "other": "תאוםי"
+  },
+  {
+   "en": "Behold",
+   "other": "ץרא ה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A single long line of bold Hebrew letters in red, yellow, blue, purple and black, with coloured right-pointing arrows above (one per letter) and black or coloured diagonal and down arrows below leading to English labels, showing how the letters are regrouped into new words.",
+   "subjects": [
+    "arrows",
+    "Hebrew letters",
+    "reparsing",
+    "colour-coded letters",
+    "word regrouping"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.03,
+    0.17,
+    0.97,
+    0.42
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Moses",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "names of God",
+   "Torah",
+   "prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "reparsing",
+  "Genesis 1:1",
+  "Moses in Genesis 1:1",
+  "yah",
+  "moshe",
+  "match",
+  "twin",
+  "my match",
+  "behold",
+  "hidden message",
+  "prophet like Moses",
+  "Deuteronomy 18:18",
+  "letters read backwards",
+  "regrouped words"
+ ],
+ "uncertain": [
+  "The Hebrew letters are laid out so that they run left to right in verse order; 'text' gives them in right-to-left reading order as printed.",
+  "The leftmost group of arrows and letters (בראשית ברא אל...) has no English label on the slide.",
+  "The single ה and the three letters ארץ at the far right are shown purple and linked to 'Behold'; how they form 'Behold' is not explained on the slide.",
+  "The 'match' words (תאם, תאוםי) are as drawn; the slide gives no spelling or vowel guidance."
+ ],
+ "confidence": 0.8
+}

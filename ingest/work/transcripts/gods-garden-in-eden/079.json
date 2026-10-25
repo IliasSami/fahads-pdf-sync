@@ -1,0 +1,150 @@
+{
+ "id": "gods-garden-in-eden/79",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Numbers 13:23 — one cluster of grapes: echad (one) = a cluster",
+ "summary": "Numbers 13:23 in English and Hebrew about the spies carrying one cluster of grapes from the valley of Eshcol on a pole between two men, with 'one' (echad, אחד) colour-coded and set equal to 'A Cluster → אחד'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 13:23",
+   "osis": "Num.13.23"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יג:כג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "23 Then they came to the valley of Eshcol and from there cut down a branch with one cluster of grapes; and they carried it on a pole between two men, with some of the pomegranates and the figs.",
+   "osis": "Num.13.23"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "ויבאו עד־נחל אשכל ויכרתו משם זמורה ואשכול ענבים אחד וישאהו במוט בשנים ומן־הרמנים ומן־התאנים׃",
+   "osis": "Num.13.23"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "One"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "echad"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אחד"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "A Cluster"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אחד"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 13:23 / במדבר יג:כג",
+   "osis": [
+    "Num.13.23"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אחד",
+   "translit": "echad",
+   "gloss": "one; a cluster",
+   "strongs": "H259"
+  },
+  {
+   "lang": "he",
+   "word": "אשכול",
+   "translit": "eshkol",
+   "gloss": "cluster (of grapes)",
+   "strongs": "H811"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "o (one)",
+   "other": "א"
+  },
+  {
+   "en": "e (one)",
+   "other": "ד"
+  },
+  {
+   "en": "O (One)",
+   "other": "א"
+  },
+  {
+   "en": "e (One)",
+   "other": "ד"
+  },
+  {
+   "en": "e (echad)",
+   "other": "א"
+  },
+  {
+   "en": "d (echad)",
+   "other": "ד"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Eshcol"
+  ],
+  "events": [],
+  "things": [
+   "cluster of grapes",
+   "pomegranates",
+   "figs",
+   "pole"
+  ],
+  "themes": [
+   "unity",
+   "promised land"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Numbers 13:23",
+  "one cluster of grapes",
+  "Eshcol",
+  "valley of Eshcol",
+  "echad",
+  "one",
+  "twelve spies",
+  "pomegranates and figs",
+  "carried on a pole",
+  "grapes",
+  "cluster",
+  "אחד",
+  "Numbers 13"
+ ],
+ "uncertain": [
+  "The slide pairs 'A Cluster' with אחד by an arrow; the Hebrew word for cluster (אשכול) is not itself highlighted on the slide."
+ ],
+ "confidence": 0.93
+}

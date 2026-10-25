@@ -1,0 +1,113 @@
+{
+ "id": "noah-part-1/69",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 6:19-22: two of every kind into the ark; Noah did all God commanded",
+ "summary": "Genesis 6:19-22 in English: Noah is told to bring two of every living thing, male and female, into the ark, to take food for himself and the animals, and Noah does all that God commanded him. 'ark' is in red; the 'No' of Noah and the 'God' letters are in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:19-22",
+   "osis": [
+    "Gen.6.19",
+    "Gen.6.20",
+    "Gen.6.21",
+    "Gen.6.22"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יט-כב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.19",
+   "text": "19 “And of every living thing of all flesh, you shall bring two of every kind into the ark, to keep them alive with you; they shall be male and female."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.20",
+   "text": "20 “Of the birds after their kind, and of the animals after their kind, of every creeping thing of the ground after its kind, two of every kind will come to you to keep them alive."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.21",
+   "text": "21 “As for you, take for yourself some of all food which is edible, and gather it to yourself; and it shall be for food for you and for them.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.22",
+   "text": "22 Thus Noah did; according to all that God had commanded him, so he did."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:19-22 / בראשית ו:יט-כב",
+   "osis": [
+    "Gen.6.19",
+    "Gen.6.20",
+    "Gen.6.21",
+    "Gen.6.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2,
+   "note": "two of every kind brought into the ark, male and female"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "animals",
+   "birds",
+   "creeping things",
+   "food"
+  ],
+  "themes": [
+   "obedience",
+   "faith",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 6:19-22",
+  "two of every kind",
+  "male and female",
+  "animals into the ark",
+  "birds after their kind",
+  "creeping thing",
+  "keep them alive",
+  "take food for yourself",
+  "Noah did all that God commanded",
+  "obedience of Noah",
+  "Noah's ark animals",
+  "Genesis 6"
+ ],
+ "uncertain": [
+  "Colour details not explained on the slide: 'ark' in red, 'No' of Noah in green, 'God' with G blue, o red, d yellow."
+ ],
+ "confidence": 0.96
+}

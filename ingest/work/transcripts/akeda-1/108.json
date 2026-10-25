@@ -1,0 +1,143 @@
+{
+ "id": "akeda-1/108",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Names called twice: Abraham, Jacob, Moses, Samuel",
+ "summary": "Four Old Testament passages in which God or the LORD calls a person by name twice (Abraham, Jacob, Moses, Samuel); the repeated names are colour-coded, 'angel' is struck through and replaced by 'messenger' in Genesis 22:11, and the three men answer 'Here am I.'",
+ "text": [
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.11",
+   "text": "But the ~~angel~~ messenger of the LORD called to him from heaven and said,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.11",
+   "text": "\"Abraham, Abraham!\" And he said, \"Here am I.\"—Genesis 22:11"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.46.2",
+   "text": "God spoke to Israel in visions of the night and said,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.46.2",
+   "text": "\"Jacob, Jacob.\" And he said, \"Here am I.\"—Genesis 46:2"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.3.4",
+   "text": "When the LORD saw that he turned aside to look,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.3.4",
+   "text": "God called to him from the midst of the bush and said,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.3.4",
+   "text": "\"Moses, Moses!\" And he said, \"Here am I.\"—Exodus 3:4"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "1Sam.3.10",
+   "text": "Then the LORD came and stood and called as at other times, \"Samuel! Samuel!\""
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "1Sam.3.10",
+   "text": "And Samuel said, \"Speak, for Your servant is listening.\"—1 Samuel 3:10"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:11",
+   "osis": [
+    "Gen.22.11"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 46:2",
+   "osis": [
+    "Gen.46.2"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Exodus 3:4",
+   "osis": [
+    "Exod.3.4"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1 Samuel 3:10",
+   "osis": [
+    "1Sam.3.10"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Abraham",
+   "Jacob",
+   "Moses",
+   "Samuel"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)",
+   "Burning bush"
+  ],
+  "things": [
+   "burning bush"
+  ],
+  "themes": [
+   "names of God",
+   "obedience",
+   "faith"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Abraham Abraham",
+  "Jacob Jacob",
+  "Moses Moses",
+  "Samuel Samuel",
+  "name called twice",
+  "God calls by name",
+  "Here am I",
+  "hineni",
+  "Genesis 22:11",
+  "Genesis 46:2",
+  "Exodus 3:4",
+  "1 Samuel 3:10",
+  "burning bush",
+  "messenger of the LORD",
+  "Speak for Your servant is listening"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

@@ -1,0 +1,175 @@
+{
+ "id": "genesis-1-1-part-1/29",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Abrahamic Covenant: smoking oven and flaming torch (brit) — fire in covenant",
+ "summary": "Under the heading Abrahamic Covenant (ברית אברהם), quotes the scene where a smoking oven and flaming torch pass between the pieces and the LORD (YHVH) makes a covenant (ברית, brit) with Abram, cited on the slide as Genesis 15:15-16. Below, fire (אש, aish) is set beside covenant (ברית, brit).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Abrahamic Covenant"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ברית אברהם"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": [
+    "Gen.15.17",
+    "Gen.15.18"
+   ],
+   "text": "It came about when the sun had set, that it was very dark, and behold, there appeared a smoking oven and a flaming torch which passed between these pieces. On that day the LORD (YHVH) made a covenant ברית brit with Abram, saying, “To your descendants I have given this land, From the river of Egypt as far as the great river, the river Euphrates:—"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 15:15-16",
+   "osis": [
+    "Gen.15.15",
+    "Gen.15.16"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Fire"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ש"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "aish"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Covenant"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב ר י ת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "brit"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 15:15-16",
+   "osis": [
+    "Gen.15.15",
+    "Gen.15.16",
+    "Gen.15.17",
+    "Gen.15.18"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ברית",
+   "translit": "brit",
+   "gloss": "covenant",
+   "strongs": "H1285"
+  },
+  {
+   "lang": "he",
+   "word": "אש",
+   "translit": "aish",
+   "gloss": "fire",
+   "strongs": "H784"
+  },
+  {
+   "lang": "he",
+   "word": "אברהם",
+   "translit": "avraham",
+   "gloss": "Abraham",
+   "strongs": "H85"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "covenant",
+   "other": "ברית"
+  },
+  {
+   "en": "brit",
+   "other": "ברית"
+  },
+  {
+   "en": "Covenant",
+   "other": "ברית"
+  },
+  {
+   "en": "Fire",
+   "other": "אש"
+  },
+  {
+   "en": "aish",
+   "other": "אש"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Abraham",
+   "God"
+  ],
+  "places": [
+   "Egypt",
+   "Euphrates River"
+  ],
+  "events": [
+   "Abrahamic covenant"
+  ],
+  "things": [
+   "smoking oven",
+   "flaming torch",
+   "fire"
+  ],
+  "themes": [
+   "covenant",
+   "fire",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Abrahamic covenant",
+  "Genesis 15",
+  "smoking furnace",
+  "burning lamp",
+  "flaming torch",
+  "between the pieces",
+  "covenant of Abram",
+  "brit",
+  "aish",
+  "fire",
+  "river of Egypt",
+  "river Euphrates",
+  "to your descendants I have given this land",
+  "YHVH",
+  "LORD"
+ ],
+ "uncertain": [
+  "The quoted words match Genesis 15:17-18, but the slide cites Genesis 15:15-16 (transcribed as shown).",
+  "Some letters in LORD (YHVH) and 'flaming' are coloured; no explanation on this slide."
+ ],
+ "confidence": 0.95
+}

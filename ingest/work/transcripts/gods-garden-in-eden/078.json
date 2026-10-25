@@ -1,0 +1,127 @@
+{
+ "id": "gods-garden-in-eden/78",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 2:24 — 'one flesh': echad (one); Two become one",
+ "summary": "Genesis 2:24 in English and Hebrew with 'One' (echad, אחד) colour-coded letter by letter, ending with a large 'Two → אחד'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:24",
+   "osis": "Gen.2.24"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:כד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "24 For this reason a man shall leave his father and his mother, and be joined to his wife; and they shall become One flesh.",
+   "osis": "Gen.2.24"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "24 על־כן יעזב־איש את־אביו ואת־אמו ודבק באשתו והיו לבשר אחד׃",
+   "osis": "Gen.2.24"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אחד"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "echad"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "One"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Two"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אחד"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:24 / בראשית ב:כד",
+   "osis": [
+    "Gen.2.24"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אחד",
+   "translit": "echad",
+   "gloss": "one",
+   "strongs": "H259"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "O (One)",
+   "other": "א"
+  },
+  {
+   "en": "e (One)",
+   "other": "ד"
+  },
+  {
+   "en": "e (echad)",
+   "other": "א"
+  },
+  {
+   "en": "d (echad)",
+   "other": "ד"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "marriage",
+   "covenant",
+   "unity"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 2:24",
+  "one flesh",
+  "echad",
+  "ehad",
+  "one",
+  "two become one",
+  "marriage",
+  "leave his father and mother",
+  "cleave to his wife",
+  "joined to his wife",
+  "unity",
+  "אחד",
+  "Genesis 2"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

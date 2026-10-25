@@ -1,0 +1,171 @@
+{
+ "id": "genesis-1-1-part-2/113",
+ "kinds": [
+  "gematria",
+  "letters",
+  "word-study"
+ ],
+ "title": "GOD and YHWH both add up to 26",
+ "summary": "Shows that the English word GOD (D=4, G=7, O=15) adds up to 26 by alphabet position, and that the four Hebrew letters of the name Yahweh (he 5, vav 6, he 5, yod 10) also add up to 26. The letters are colour-matched.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "G O D"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "4 + 7 + 15 = 26"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 + 6 + 5 + 10 = 26"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "he vav he yod"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "en",
+   "word": "GOD",
+   "translit": "",
+   "gloss": "God (English letter positions D=4, G=7, O=15)",
+   "strongs": null,
+   "gematria": {
+    "method": "other",
+    "values": [
+     4,
+     7,
+     15
+    ],
+    "total": 26
+   }
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the name of God (YHWH, LORD)",
+   "strongs": "H3068",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     6,
+     5,
+     10
+    ],
+    "total": 26
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "he",
+   "other": "ה"
+  },
+  {
+   "en": "vav",
+   "other": "ו"
+  },
+  {
+   "en": "yod",
+   "other": "י"
+  },
+  {
+   "en": "y",
+   "other": "י"
+  },
+  {
+   "en": "w",
+   "other": "ו"
+  },
+  {
+   "en": "ah / eh",
+   "other": "ה"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 26,
+   "note": "total of GOD (4+7+15) and of יהוה / Yahweh (5+6+5+10)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "names of God",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "GOD equals 26",
+  "Yahweh 26",
+  "YHWH",
+  "tetragrammaton",
+  "English gematria",
+  "alphabet numbers",
+  "G O D",
+  "he vav he yod",
+  "LORD",
+  "name of God",
+  "26",
+  "YHVH"
+ ],
+ "uncertain": [
+  "English letter values for G, O, D are the alphabet positions shown (7, 15, 4); slide lists them in alphabetical order 4 + 7 + 15."
+ ],
+ "confidence": 0.96
+}

@@ -1,0 +1,34 @@
+{
+  "id": "elijah-elisha/6",
+  "kinds": ["comparison", "word-study"],
+  "title": "The Akedah parallel: a ram caught in a thorn bush as substitute",
+  "summary": "Adds to the Akedah comparison: for Isaac a substitute blood sacrifice is provided — a ram whose horns are caught in the thorn bush — while Yeshua becomes our substitute sacrifice and appears in the middle of… (“wait for it…”), setting up a punch line.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Binding of"},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "en", "role": "heading", "text": "The Binding of"},
+    {"lang": "en", "role": "label", "text": "Isaac"},
+    {"lang": "en", "role": "label", "text": "The Akedah"},
+    {"lang": "en", "role": "label", "text": "yeshua"},
+    {"lang": "en", "role": "body", "text": "Isaac, a first-born male, willingly follows his father’s instructions."},
+    {"lang": "en", "role": "body", "text": "yeshua, a first-born male, willingly follows His Father’s instructions."},
+    {"lang": "en", "role": "body", "text": "For Isaac, a substitute blood sacrifice is provided, a ram whose horns are caught in the thorn bush;"},
+    {"lang": "en", "role": "body", "text": "yeshua becomes our substitute sacrifice and appears in the middle of…wait for it…"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "העקדה", "translit": "ha-akedah", "gloss": "the binding", "strongs": "H6123"},
+    {"lang": "he", "word": "ישוע", "translit": "yeshua", "gloss": "Jesus (Yeshua, “salvation”)", "strongs": null}
+  ],
+  "color_links": [
+    {"en": "The", "other": "ה"},
+    {"en": "Akedah", "other": "עקדה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Isaac", "Abraham", "Jesus", "God"], "places": [], "events": ["Binding of Isaac (Akedah)"], "things": ["ram", "thorn bush"], "themes": ["substitution", "sacrifice", "blood", "firstborn", "obedience", "typology"], "groups": []},
+  "keywords": ["Akedah", "Binding of Isaac", "ram caught in the thicket", "ram in the thorn bush", "horns caught", "substitute sacrifice", "substitutionary atonement", "blood sacrifice", "Yeshua", "Jesus", "Genesis 22:13", "parallels"],
+  "uncertain": [],
+  "confidence": 0.94
+}

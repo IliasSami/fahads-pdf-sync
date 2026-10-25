@@ -1,0 +1,135 @@
+{
+ "id": "genesis-1-1-part-1/100",
+ "kinds": [
+  "letters",
+  "gematria"
+ ],
+ "title": "Gematria of alef: pe + lamed + alef = 80 + 30 + 1 = 111",
+ "summary": "The name alef (אלף) spelled out as pe + lamed + alef with their values 80 + 30 + 1, which add up to 111.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל (ף) פ"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "pe + lamed + alef"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "80 + 30 + 1 = 111"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלף",
+   "translit": "alef",
+   "gloss": "alef (name of the letter)",
+   "strongs": null,
+   "gematria": {
+    "method": "standard",
+    "values": [
+     80,
+     30,
+     1
+    ],
+    "total": 111
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "pe",
+   "other": "פ"
+  },
+  {
+   "en": "80",
+   "other": "פ"
+  },
+  {
+   "en": "lamed",
+   "other": "ל"
+  },
+  {
+   "en": "30",
+   "other": "ל"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "1",
+   "other": "א"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": 80,
+   "meaning": null
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": null
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": null
+  }
+ ],
+ "numbers": [
+  {
+   "value": 111,
+   "note": "gematria of אלף (alef) = 80 + 30 + 1"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "alef",
+  "aleph",
+  "111",
+  "gematria",
+  "80 + 30 + 1",
+  "pe lamed alef",
+  "gematria of alef",
+  "Hebrew numerology",
+  "letter values"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

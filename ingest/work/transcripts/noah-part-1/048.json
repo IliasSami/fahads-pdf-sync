@@ -1,0 +1,183 @@
+{
+ "id": "noah-part-1/48",
+ "kinds": [
+  "word-study",
+  "gematria"
+ ],
+ "title": "ha'tebah (the ark) appears 22 times; tovah (favor) and haviv (favorite) each equal 22",
+ "summary": "Recap that ha'tebah (התבה, the ark) appears 22 times in 21 Noah verses and once elsewhere, followed by two gematria equations that each total 22: tovah (טובה, favor) 5+2+6+9 and haviv (חביב, favorite) 2+10+2+8.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "The Ark"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ha’tebah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "התבה"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Appears 22 times in 21 Noah verses and once elsewhere."
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tovah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "טובה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "favor"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 + 2 + 6 + 9 = 22"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "haviv"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חביב"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "favorite"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "2 + 10 + 2 + 8 = 22"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "התבה",
+   "translit": "ha’tebah",
+   "gloss": "the ark",
+   "strongs": "H8392"
+  },
+  {
+   "lang": "he",
+   "word": "טובה",
+   "translit": "tovah",
+   "gloss": "favor",
+   "strongs": "H2896",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     2,
+     6,
+     9
+    ],
+    "total": 22
+   }
+  },
+  {
+   "lang": "he",
+   "word": "חביב",
+   "translit": "haviv",
+   "gloss": "favorite",
+   "strongs": null,
+   "gematria": {
+    "method": "standard",
+    "values": [
+     2,
+     10,
+     2,
+     8
+    ],
+    "total": 22
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "ha’tebah",
+   "other": "התבה"
+  },
+  {
+   "en": "tovah",
+   "other": "טובה"
+  },
+  {
+   "en": "haviv",
+   "other": "חביב"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 22,
+   "note": "times ha'tebah (the ark) appears"
+  },
+  {
+   "value": 21,
+   "note": "Noah verses in which it appears"
+  },
+  {
+   "value": 22,
+   "note": "gematria of טובה (tovah, favor): 5+2+6+9"
+  },
+  {
+   "value": 22,
+   "note": "gematria of חביב (haviv, favorite): 2+10+2+8"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "gematria",
+   "grace",
+   "redemption"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "gematria 22",
+  "ha'tebah",
+  "the ark",
+  "ark appears 22 times",
+  "tovah",
+  "favor",
+  "grace",
+  "haviv",
+  "favorite",
+  "22",
+  "favor of God",
+  "Noah found grace",
+  "טובה",
+  "חביב"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

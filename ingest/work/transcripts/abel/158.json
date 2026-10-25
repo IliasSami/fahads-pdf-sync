@@ -1,0 +1,29 @@
+{
+  "id": "abel/158",
+  "kinds": ["verse", "comparison"],
+  "title": "Abel and Yeshua killed by brothers unjustly",
+  "summary": "Genesis 4:8 (Cain rose up against his brother Abel and killed him) and Matthew 26:65-66 (the high priest and council declare Jesus deserving of death) frame the conclusion that Abel and Yeshua (Jesus) were both killed unjustly by their brothers.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:8", "osis": "Gen.4.8"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ח", "osis": "Gen.4.8"},
+    {"lang": "en", "role": "verse", "text": "8 And Cain said to Abel his brother; and it came to pass, when they were in the field, that Cain rose up against Abel his brother and killed him.", "osis": "Gen.4.8"},
+    {"lang": "en", "role": "heading", "text": "Abel & yeshua killed by brothers unjustly"},
+    {"lang": "en", "role": "reference", "text": "Matthew 26:65-66", "osis": ["Matt.26.65", "Matt.26.66"]},
+    {"lang": "el", "role": "reference", "text": "Ματθαίος 26:65-66", "osis": ["Matt.26.65", "Matt.26.66"]},
+    {"lang": "en", "role": "verse", "text": "65 Then the high priest tears his garments, saying, “He has blasphemed; why do we have any more need of witnesses? Behold now, you have heard the blasphemy.", "osis": "Matt.26.65"},
+    {"lang": "en", "role": "verse", "text": "66 What do you think?” And answering they said, “He is deserving of death.”", "osis": "Matt.26.66"}
+  ],
+  "refs": [
+    {"shown": "Genesis 4:8 / בראשית ד:ח", "osis": ["Gen.4.8"], "role": "quoted"},
+    {"shown": "Matthew 26:65-66 / Ματθαίος 26:65-66", "osis": ["Matt.26.65", "Matt.26.66"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Cain", "Abel", "Jesus"], "places": [], "events": ["Murder of Abel", "Trial of Jesus"], "things": ["garments"], "themes": ["murder", "injustice", "brothers", "death", "typology", "Abel as a type of Christ"], "groups": ["high priest", "Sanhedrin"]},
+  "keywords": ["killed unjustly", "killed by his brothers", "innocent blood", "Abel", "Yeshua", "Jesus", "deserving of death", "high priest", "blasphemy", "Genesis 4", "Matthew 26", "Abel a type of Christ"],
+  "uncertain": [],
+  "confidence": 0.95
+}

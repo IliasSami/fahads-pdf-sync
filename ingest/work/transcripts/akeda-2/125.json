@@ -1,0 +1,36 @@
+{
+  "id": "akeda-2/125",
+  "kinds": ["verse", "genealogy", "list"],
+  "title": "Abraham's 8 sons: Ishmael, Isaac and the six sons of Keturah",
+  "summary": "Counts Abraham's eight sons from three passages: Ishmael by Hagar (1, Genesis 16:15), Isaac by Sarah (2, Genesis 21:3), and six sons by Keturah — Zimran, Jokshan, Medan, Midian, Ishbak and Shuah (3–8, Genesis 25:1–2). “Abraham's 8” is written vertically down the left side.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "A b r a h a m ’s 8"},
+    {"lang": "en", "role": "reference", "text": "Genesis 16:15", "osis": "Gen.16.15"},
+    {"lang": "he", "role": "reference", "text": "בראשית יו:יה", "osis": "Gen.16.15"},
+    {"lang": "en", "role": "verse", "text": "15 So Hagar bore Abram a son; and Abram called the name of his son, whom Hagar bore, Ishmael.", "osis": "Gen.16.15"},
+    {"lang": "en", "role": "number", "text": "1"},
+    {"lang": "en", "role": "reference", "text": "Genesis 21:3", "osis": "Gen.21.3"},
+    {"lang": "he", "role": "reference", "text": "בראשית כא:ג", "osis": "Gen.21.3"},
+    {"lang": "en", "role": "verse", "text": "3 Abraham called the name of his son who was born to him, whom Sarah bore to him, Isaac.", "osis": "Gen.21.3"},
+    {"lang": "en", "role": "number", "text": "2"},
+    {"lang": "en", "role": "reference", "text": "Genesis 25:1-2", "osis": ["Gen.25.1", "Gen.25.2"]},
+    {"lang": "he", "role": "reference", "text": "בראשית כה:א-ב", "osis": ["Gen.25.1", "Gen.25.2"]},
+    {"lang": "en", "role": "verse", "text": "1 Now Abraham took another wife, whose name was Keturah.", "osis": "Gen.25.1"},
+    {"lang": "en", "role": "verse", "text": "2 She bore to him Zimran and Jokshan and Medan and Midian and Ishbak and Shuah.", "osis": "Gen.25.2"},
+    {"lang": "en", "role": "number", "text": "3 4 5 6 7 8"}
+  ],
+  "refs": [
+    {"shown": "Genesis 16:15 / בראשית יו:יה", "osis": ["Gen.16.15"], "role": "quoted"},
+    {"shown": "Genesis 21:3 / בראשית כא:ג", "osis": ["Gen.21.3"], "role": "quoted"},
+    {"shown": "Genesis 25:1-2 / בראשית כה:א-ב", "osis": ["Gen.25.1", "Gen.25.2"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [{"value": 8, "note": "number of Abraham's sons"}],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Hagar", "Ishmael", "Sarah", "Isaac", "Keturah", "Zimran", "Jokshan", "Medan", "Midian", "Ishbak", "Shuah"], "places": [], "events": [], "things": [], "themes": ["genealogy", "firstborn"], "groups": []},
+  "keywords": ["Abraham's sons", "eight sons of Abraham", "how many sons did Abraham have", "Ishmael", "Isaac", "Keturah", "sons of Keturah", "Midian", "Hagar", "Abram", "Genesis 16", "Genesis 21", "Genesis 25", "family tree"],
+  "uncertain": ["The Hebrew reference for Genesis 16:15 is written יו:יה on the slide (standard form is טז:טו); transcribed as shown."],
+  "confidence": 0.93
+}

@@ -1,0 +1,175 @@
+{
+ "id": "gods-garden-in-eden/53",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 2:18 — It is not good for man to be alone (לבדו, bad)",
+ "summary": "Genesis 2:18 in English and Hebrew: the LORD God says it is not good for the man to be alone and He will make a helper suitable for him. The Hebrew לבדו (alone) is marked with two arrows pointing to its letters ב and ד, which spell בד ('bad'), and the slide concludes 'It is bad for man to be alone.' Alone is underlined in red and brown; LORD God is in multi-coloured letters.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:18",
+   "osis": "Gen.2.18"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:יח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "18 Then the LORD God said, “It is not good for the man to be alone; I will make him a helper suitable for him.”",
+   "osis": "Gen.2.18"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "18 ויאמר יהוה אלהים לא־טוב היות האדם לבדו אעשה־לו עזר כנגדו׃",
+   "osis": "Gen.2.18"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בד"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bad"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Alone"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "It is bad for man to be alone."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:18 / בראשית ב:יח",
+   "osis": [
+    "Gen.2.18"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "לבדו",
+   "translit": "levaddo",
+   "gloss": "alone, by himself",
+   "strongs": "H905",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "בד",
+   "translit": "bad",
+   "gloss": "alone (sounds like the English word 'bad')",
+   "strongs": "H905",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "האדם",
+   "translit": "ha-adam",
+   "gloss": "the man",
+   "strongs": "H120",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the LORD",
+   "strongs": "H3068",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "Elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "עזר כנגדו",
+   "translit": "ezer kenegdo",
+   "gloss": "helper suitable for him (help meet)",
+   "strongs": "H5828",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "bad",
+   "other": "בד"
+  },
+  {
+   "en": "Alone",
+   "other": "לבדו"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "helper"
+  ],
+  "themes": [
+   "marriage",
+   "creation",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "not good for man to be alone",
+  "it is bad for man to be alone",
+  "bad alone",
+  "lebaddo",
+  "levado",
+  "bad",
+  "help meet",
+  "helper suitable",
+  "ezer kenegdo",
+  "Eve",
+  "marriage",
+  "loneliness",
+  "Genesis 2:18",
+  "alone"
+ ],
+ "uncertain": [
+  "Two small coloured arrows point down at the letters ב and ד of לבדו; assumed to highlight the pair בד."
+ ],
+ "confidence": 0.93
+}

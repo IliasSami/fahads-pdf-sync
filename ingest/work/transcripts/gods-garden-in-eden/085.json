@@ -1,0 +1,178 @@
+{
+ "id": "gods-garden-in-eden/85",
+ "kinds": [
+  "letters",
+  "comparison",
+  "text"
+ ],
+ "title": "Creation #1 (Genesis 1): fewer than 22 letters, no samekh, 7 days",
+ "summary": "Left: the full Hebrew text of Genesis 1 in small print with blue verse numbers. Right: 'Creation #1' says Genesis 1 uses fewer than 22 letters and has no samekh (ס, shown in green three ways), and lists 7 Days; the Hebrew alphabet is laid out in three rows with samekh missing, marked by a green question mark.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Genesis 1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Creation #1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "< 22 Letters"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "No"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ס ס ס"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "samekh"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "א ב ג ד ה ו ז ח"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "ט י כ ל מ נ ?"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "ע פ צ ק ר ש ת"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "7 Days"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1 / בראשית א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ס",
+   "translit": "samekh",
+   "gloss": "the Hebrew letter samekh (absent from Genesis 1)",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "1 (Genesis 1 / Creation #1)",
+   "other": "א"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "first letter of the alphabet, shown in blue like the 1 of Genesis 1"
+  },
+  {
+   "lang": "he",
+   "letter": "samekh",
+   "char": "ס",
+   "value": 60,
+   "meaning": "missing from Genesis 1 (green); shown in the alphabet as a green question mark"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last letter of the alphabet, shown in red"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 22,
+   "note": "letters in the Hebrew alphabet; Genesis 1 uses fewer than 22"
+  },
+  {
+   "value": 7,
+   "note": "days of Creation #1"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "table-image",
+   "description": "A page of small-print Hebrew text of the whole of Genesis 1, in unpointed letters, with the verse numbers in blue between the lines.",
+   "subjects": [
+    "Hebrew text",
+    "Genesis 1",
+    "Torah text",
+    "verse numbers"
+   ],
+   "text_in_picture": "Hebrew text of Genesis 1",
+   "credit": null,
+   "box": [
+    0.05,
+    0.13,
+    0.47,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "Hebrew alphabet"
+  ],
+  "themes": [
+   "creation",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1",
+  "Creation #1",
+  "first creation account",
+  "no samekh",
+  "samekh missing",
+  "22 letters",
+  "Hebrew alphabet",
+  "7 days",
+  "seven days of creation",
+  "less than 22 letters",
+  "missing letter",
+  "Genesis 1 letters"
+ ],
+ "uncertain": [
+  "The small-print Hebrew text of Genesis 1 on the left is not transcribed in full. The three green glyphs for samekh are shown in different font styles (the last is a plain circle); transcribed as ס ס ס."
+ ],
+ "confidence": 0.9
+}

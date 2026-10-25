@@ -1,0 +1,28 @@
+{
+  "id": "abel/155",
+  "kinds": ["verse", "comparison"],
+  "title": "Abel and Yeshua were hated by their brothers",
+  "summary": "Genesis 4:8 (Cain rose up against his brother Abel and killed him) and John 15:25 (\"They hated Me without a cause\") frame the conclusion that Abel and Yeshua (Jesus) were both hated by their brothers.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:8", "osis": "Gen.4.8"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ח", "osis": "Gen.4.8"},
+    {"lang": "en", "role": "verse", "text": "8 And Cain talked with Abel his brother; and it came to pass, when they were in the field, that Cain rose up against Abel his brother and killed him.", "osis": "Gen.4.8"},
+    {"lang": "en", "role": "heading", "text": "Abel & yeshua were hated by their brothers"},
+    {"lang": "en", "role": "reference", "text": "John 15:25", "osis": "John.15.25"},
+    {"lang": "el", "role": "reference", "text": "Ἰωάνης 15:25", "osis": "John.15.25"},
+    {"lang": "en", "role": "verse", "text": "25 But this happened that the word might be fulfilled which is written in their law, ‘They hated Me without a cause.’", "osis": "John.15.25"}
+  ],
+  "refs": [
+    {"shown": "Genesis 4:8 / בראשית ד:ח", "osis": ["Gen.4.8"], "role": "quoted"},
+    {"shown": "John 15:25 / Ἰωάνης 15:25", "osis": ["John.15.25"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Cain", "Abel", "Jesus"], "places": [], "events": ["Murder of Abel"], "things": ["field"], "themes": ["hatred", "brothers", "murder", "typology", "Abel as a type of Christ"], "groups": []},
+  "keywords": ["hated by their brothers", "hated without a cause", "hatred", "brothers", "Abel", "Yeshua", "Jesus", "Cain killed Abel", "Genesis 4", "John 15", "Abel a type of Christ"],
+  "uncertain": [],
+  "confidence": 0.95
+}

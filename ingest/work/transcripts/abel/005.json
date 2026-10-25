@@ -1,0 +1,31 @@
+{
+  "id": "abel/5",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:1 — adam (אדם), “man”",
+  "summary": "Genesis 4:1 with the Hebrew word אדם (adam, “man”) singled out; its first letter alef is coloured blue and the remaining letters דם red, matching the colouring of “man”.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:1", "osis": "Gen.4.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:א", "osis": "Gen.4.1"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.1", "text": "1 And the man had relations with Eve his wife, and she conceived and gave birth to Cain, and she said, “I have obtained a man with the help of the LORD.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.1", "text": "1 והאדם ידע את חוה אשתו ותהר ותלד את קין ותאמר קניתי איש את יהוה׃"},
+    {"lang": "translit", "role": "label", "text": "adam"},
+    {"lang": "he", "role": "label", "text": "אדם"},
+    {"lang": "en", "role": "label", "text": "man"}
+  ],
+  "refs": [{"shown": "Genesis 4:1 / בראשית ד:א", "osis": ["Gen.4.1"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "אדם", "translit": "adam", "gloss": "man", "strongs": "H120"}
+  ],
+  "color_links": [
+    {"en": "man", "other": "אדם"},
+    {"en": "adam", "other": "אדם"},
+    {"en": "LORD", "other": "יהוה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Adam", "Eve", "Cain", "God"], "places": [], "events": ["birth of Cain"], "things": [], "themes": ["Hebrew letter meanings"], "groups": []},
+  "keywords": ["adam", "Adam", "man", "mankind", "human", "Hebrew word for man", "alef", "aleph", "Genesis 4:1", "Genesis 4"],
+  "uncertain": [],
+  "confidence": 0.93
+}

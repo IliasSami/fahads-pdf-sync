@@ -1,0 +1,176 @@
+{
+  "id": "abel/69",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:6 — naphal (to fall) and the English origin of “fall”",
+  "summary": "Genesis 4:6 with fallen in green matching נפלו, the root naphal (נפל, to fall), and a dictionary note on the origin of the English word fall: Middle English fallen, Old English feallan, cognate with German fallen and Old Norse falla, akin to Lithuanian pùlti.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:6",
+      "osis": "Gen.4.6"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:ו",
+      "osis": "Gen.4.6"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "6 And the LORD said to Cain, “Why are you angry?",
+      "osis": "Gen.4.6"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "And why has your countenance fallen?",
+      "osis": "Gen.4.6"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "6 ויאמר יהוה אל קין למה חרה לך",
+      "osis": "Gen.4.6"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ולמה נפלו פניך׃",
+      "osis": "Gen.4.6"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "naphal"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "נפל"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "To Fall"
+    },
+    {
+      "lang": "en",
+      "role": "body",
+      "text": "ORIGIN OF FALL — First recorded before 900;"
+    },
+    {
+      "lang": "en",
+      "role": "body",
+      "text": "Middle English fallen, Old English feallan;"
+    },
+    {
+      "lang": "en",
+      "role": "body",
+      "text": "cognate with German fallen, Old Norse falla;"
+    },
+    {
+      "lang": "en",
+      "role": "body",
+      "text": "akin to Lithuanian pùlti “to fall”"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:6 / בראשית ד:ו",
+      "osis": [
+        "Gen.4.6"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "יהוה",
+      "translit": "yahweh",
+      "gloss": "the LORD (God's personal name)",
+      "strongs": "H3068"
+    },
+    {
+      "lang": "he",
+      "word": "נפל",
+      "translit": "naphal",
+      "gloss": "to fall",
+      "strongs": "H5307"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "L (LORD)",
+      "other": "י"
+    },
+    {
+      "en": "R (LORD)",
+      "other": "ו"
+    },
+    {
+      "en": "fallen",
+      "other": "נפלו"
+    },
+    {
+      "en": "naphal",
+      "other": "נפל"
+    },
+    {
+      "en": "To Fall",
+      "other": "נפל"
+    },
+    {
+      "en": "na (naphal)",
+      "other": "נ"
+    },
+    {
+      "en": "ph (naphal)",
+      "other": "פ"
+    },
+    {
+      "en": "al (naphal)",
+      "other": "ל"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "God",
+      "Cain"
+    ],
+    "places": [],
+    "events": [
+      "Cain and Abel's offerings"
+    ],
+    "things": [],
+    "themes": [
+      "sin",
+      "names of God"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "naphal",
+    "to fall",
+    "origin of fall",
+    "etymology of fall",
+    "Middle English fallen",
+    "Old English feallan",
+    "Old Norse falla",
+    "Lithuanian pulti",
+    "word origin",
+    "Cain's countenance fell",
+    "Genesis 4:6",
+    "Genesis 4"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

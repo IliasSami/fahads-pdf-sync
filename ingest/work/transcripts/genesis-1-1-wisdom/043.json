@@ -1,0 +1,21 @@
+{
+  "id": "genesis-1-1-wisdom/43",
+  "kinds": ["verse"],
+  "title": "Exodus 28:3 — artisans filled with the spirit of wisdom",
+  "summary": "Exodus 28:3: God tells Moses to speak to the gifted artisans whom He has filled with the spirit of wisdom so they can make Aaron's priestly garments; 'spirit' and 'wisdom' are highlighted in gold.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Exodus 28:3", "osis": "Exod.28.3"},
+    {"lang": "he", "role": "reference", "text": "שמות כח:ג"},
+    {"lang": "en", "role": "verse", "text": "3 So you shall speak to all who are gifted artisans, whom I have filled with the spirit of wisdom, that they may make Aaron’s garments, to consecrate him, that he may minister to Me as priest.", "osis": "Exod.28.3"}
+  ],
+  "refs": [{"shown": "Exodus 28:3 / שמות כח:ג", "osis": ["Exod.28.3"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Moses", "Aaron"], "places": [], "events": [], "things": ["priestly garments"], "themes": ["wisdom", "priesthood", "craftsmanship"], "groups": ["artisans", "priests"]},
+  "keywords": ["Exodus 28:3", "spirit of wisdom", "wise hearted", "gifted artisans", "craftsmen", "Aaron's garments", "priestly garments", "holy garments", "consecrate", "priest's office", "wisdom", "Exodus 28"],
+  "uncertain": [],
+  "confidence": 0.96
+}

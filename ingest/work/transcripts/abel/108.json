@@ -1,0 +1,147 @@
+{
+  "id": "abel/108",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Earth (aretz, ארץ) and the origin of the English word “earth”",
+  "summary": "Genesis 4:12 with ground and earth highlighted and the word study aretz (ארץ) = earth, followed by a dictionary etymology of the English word earth (Middle English erthe, Old English eorthe, Old High German erda, Greek era) — suggesting a likeness to the Hebrew aretz.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:12",
+      "osis": "Gen.4.12"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:יב"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Gen.4.12",
+      "text": "12 When you till the ground, it shall no longer yield its strength to you. A fugitive and a vagabond you shall be on the earth.”"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "osis": "Gen.4.12",
+      "text": "12 כי תעבד את האדמה לא תסף תת כחה לך נע ונד תהיה בארץ׃"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "aretz"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "ארץ"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Earth"
+    },
+    {
+      "lang": "en",
+      "role": "note",
+      "text": "ORIGIN — Middle English erthe, from Old English eorthe; akin to Old High German erda earth, Greek era"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:12 / בראשית ד:יב",
+      "osis": [
+        "Gen.4.12"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "ארץ",
+      "translit": "aretz",
+      "gloss": "earth, land",
+      "strongs": "H776"
+    },
+    {
+      "lang": "he",
+      "word": "אדמה",
+      "translit": "adamah",
+      "gloss": "ground",
+      "strongs": "H127"
+    },
+    {
+      "lang": "en",
+      "word": "earth",
+      "translit": null,
+      "gloss": "from Middle English erthe, Old English eorthe; akin to Old High German erda, Greek era",
+      "strongs": null
+    }
+  ],
+  "color_links": [
+    {
+      "en": "ground",
+      "other": "אדמה"
+    },
+    {
+      "en": "earth",
+      "other": "ארץ"
+    },
+    {
+      "en": "a (aretz)",
+      "other": "א"
+    },
+    {
+      "en": "re (aretz)",
+      "other": "ר"
+    },
+    {
+      "en": "tz (aretz)",
+      "other": "ץ"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "God",
+      "Cain"
+    ],
+    "places": [],
+    "events": [
+      "Cain's punishment"
+    ],
+    "things": [
+      "ground",
+      "earth"
+    ],
+    "themes": [
+      "Hebrew word connections",
+      "etymology",
+      "judgment"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "earth",
+    "aretz",
+    "eretz",
+    "etymology",
+    "word origin",
+    "erthe",
+    "eorthe",
+    "erda",
+    "Old English",
+    "Hebrew and English",
+    "ground",
+    "Genesis 4:12"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

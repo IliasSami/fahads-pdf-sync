@@ -1,0 +1,193 @@
+{
+ "id": "genesis-1-1-wisdom/89",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Proverbs 23:23 — buy the truth, wisdom, instruction and understanding",
+ "summary": "Proverbs 23:23 in English and Hebrew with truth (emet, אמת), wisdom (chokmah, חכמה) and understanding (binah, בינה) picked out in colour, and each of the three words shown below with its transliteration and Hebrew spelling.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Proverbs 23:23",
+   "osis": "Prov.23.23"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "משלי כג:כג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Prov.23.23",
+   "text": "23 Buy the truth, and do not sell it,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Prov.23.23",
+   "text": "Also wisdom and instruction and understanding."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Prov.23.23",
+   "text": "23 אמת קנה ואל תמכר"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Prov.23.23",
+   "text": "חכמה ומוסר ובינה׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Understanding"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "binah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב י נ ה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Truth"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "emet"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אמת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Wisdom"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "chokmah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ח כ מ ה"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Proverbs 23:23 / משלי כג:כג",
+   "osis": [
+    "Prov.23.23"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אמת",
+   "translit": "emet",
+   "gloss": "truth",
+   "strongs": "H571"
+  },
+  {
+   "lang": "he",
+   "word": "חכמה",
+   "translit": "chokmah",
+   "gloss": "wisdom",
+   "strongs": "H2451"
+  },
+  {
+   "lang": "he",
+   "word": "בינה",
+   "translit": "binah",
+   "gloss": "understanding",
+   "strongs": "H998"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "truth",
+   "other": "אמת"
+  },
+  {
+   "en": "Truth",
+   "other": "אמת"
+  },
+  {
+   "en": "emet",
+   "other": "אמת"
+  },
+  {
+   "en": "wisdom",
+   "other": "חכמה"
+  },
+  {
+   "en": "Wisdom",
+   "other": "חכמה"
+  },
+  {
+   "en": "chokmah",
+   "other": "חכמה"
+  },
+  {
+   "en": "understanding",
+   "other": "בינה"
+  },
+  {
+   "en": "Understanding",
+   "other": "בינה"
+  },
+  {
+   "en": "binah",
+   "other": "בינה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "truth",
+   "wisdom",
+   "understanding"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Proverbs 23:23",
+  "buy the truth",
+  "sell it not",
+  "truth",
+  "emet",
+  "wisdom",
+  "chokmah",
+  "understanding",
+  "binah",
+  "instruction",
+  "musar",
+  "discipline",
+  "Proverbs"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,39 @@
+{
+  "id": "akeda-2/13",
+  "kinds": ["verse", "word-study", "diagram"],
+  "title": "Genesis 1:1 — seven words with a menorah of stars; et is the center",
+  "summary": "Genesis 1:1 in English, transliteration and Hebrew, colour-coded word by word and numbered 1 to 7. The translators' word 'the' after 'In' is crossed out, and the added 'the' words are underlined. Below the numbers a menorah is drawn from small Stars of David, with its central stem under word 4, את (et).",
+  "text": [
+    {"lang": "en", "role": "verse", "osis": "Gen.1.1", "text": "In ~~the~~ beginning God created the heavens and the earth."},
+    {"lang": "translit", "role": "label", "text": "bereshit bara elohim et hashamayim v’et ha’aretz"},
+    {"lang": "he", "role": "verse", "osis": "Gen.1.1", "text": "בראשית ברא אלהים את השמים ואת הארץ׃"},
+    {"lang": "en", "role": "number", "text": "1 2 3 4 5 6 7"}
+  ],
+  "refs": [{"shown": "Genesis 1:1 (unlabelled)", "osis": ["Gen.1.1"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "בראשית", "translit": "bereshit", "gloss": "in the beginning", "strongs": "H7225"},
+    {"lang": "he", "word": "ברא", "translit": "bara", "gloss": "created", "strongs": "H1254"},
+    {"lang": "he", "word": "אלהים", "translit": "elohim", "gloss": "God", "strongs": "H430"},
+    {"lang": "he", "word": "את", "translit": "et", "gloss": "alef-tav (untranslated direct-object marker); word 4, the middle word", "strongs": "H853"},
+    {"lang": "he", "word": "השמים", "translit": "hashamayim", "gloss": "the heavens", "strongs": "H8064"},
+    {"lang": "he", "word": "ואת", "translit": "v’et", "gloss": "and (alef-tav)", "strongs": "H853"},
+    {"lang": "he", "word": "הארץ", "translit": "ha’aretz", "gloss": "the earth", "strongs": "H776"}
+  ],
+  "color_links": [
+    {"en": "beginning", "other": "בראשית"},
+    {"en": "created", "other": "ברא"},
+    {"en": "God", "other": "אלהים"},
+    {"en": "heavens", "other": "השמים"},
+    {"en": "and", "other": "ואת"},
+    {"en": "earth", "other": "הארץ"}
+  ],
+  "letters": [],
+  "numbers": [{"value": 7, "note": "Genesis 1:1 has seven Hebrew words, numbered 1 to 7; את is word 4, the middle"}],
+  "pictures": [
+    {"type": "diagram", "description": "A menorah (seven-branched lampstand) drawn with small blue Stars of David and slash/pipe characters: a straight central stem under word 4 and three curved branches on each side, with a base at the bottom. The seven branch tops line up under the seven numbered words.", "subjects": ["menorah", "Star of David", "seven branches", "lampstand", "diagram"], "text_in_picture": "", "credit": null, "box": [0.2, 0.32, 0.8, 0.92]}
+  ],
+  "entities": {"people": ["God"], "places": [], "events": ["Creation"], "things": ["menorah"], "themes": ["creation", "gematria", "Hebrew letter meanings"], "groups": []},
+  "keywords": ["Genesis 1:1", "In the beginning", "God created the heavens and the earth", "seven words", "menorah", "et", "alef tav", "aleph tav", "bereshit", "bara elohim", "middle word", "Star of David", "Genesis 1"],
+  "uncertain": [],
+  "confidence": 0.93
+}

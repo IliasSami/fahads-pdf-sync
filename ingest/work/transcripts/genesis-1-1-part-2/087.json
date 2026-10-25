@@ -1,0 +1,236 @@
+{
+ "id": "genesis-1-1-part-2/87",
+ "kinds": [
+  "verse",
+  "gematria",
+  "word-study"
+ ],
+ "title": "John 1:1 in Greek with letter values: 52 letters, sum 3627",
+ "summary": "John 1:1 in English and Greek, line by line, with the number value of every Greek letter beneath each word. The three Λόγος (Word) are red, Θεός/Θεόν (God) is blue/red/gold. The slide ends with 'Number of Letters: 52' and 'Sum of Letters: 3627'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 1:1",
+   "osis": "John.1.1"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΙΩΑΝΝΗΝ 1:1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "In (the) beginning was the Word"
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "ΕΝ ΑΡΧΗ ήν ο Λόγος,"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 50   1 100 600 8 10   8 50   70   30 70 3 70 200"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "and the Word was with – God"
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "και ο Λόγος ην προς τον Θεόν,"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "20 1 10   70   30 70 3 70 200   8 50   80 100 70 200 300 70 50   9 5 70 50"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "and God was the Word"
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "και Θεός ήν ο Λόγος."
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "20 1 10   9 5 70 200   8 50   70   30 70 3 70 200"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Number of Letters: 52"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Sum of Letters: 3627"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 1:1 / ΙΩΑΝΝΗΝ 1:1",
+   "osis": [
+    "John.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "el",
+   "word": "Λόγος",
+   "translit": "logos",
+   "gloss": "Word",
+   "strongs": "G3056",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     30,
+     70,
+     3,
+     70,
+     200
+    ],
+    "total": 373
+   }
+  },
+  {
+   "lang": "el",
+   "word": "Θεός",
+   "translit": "theos",
+   "gloss": "God",
+   "strongs": "G2316",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     9,
+     5,
+     70,
+     200
+    ],
+    "total": 284
+   }
+  },
+  {
+   "lang": "el",
+   "word": "Θεόν",
+   "translit": "theon",
+   "gloss": "God (accusative)",
+   "strongs": "G2316",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     9,
+     5,
+     70,
+     50
+    ],
+    "total": 134
+   }
+  },
+  {
+   "lang": "el",
+   "word": "ΑΡΧΗ",
+   "translit": "arche",
+   "gloss": "beginning",
+   "strongs": "G746",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     1,
+     100,
+     600,
+     8,
+     10
+    ],
+    "total": 719
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In",
+   "other": "ΕΝ"
+  },
+  {
+   "en": "Word",
+   "other": "Λόγος"
+  },
+  {
+   "en": "God",
+   "other": "Θεόν"
+  },
+  {
+   "en": "God",
+   "other": "Θεός"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 52,
+   "note": "number of letters in John 1:1 in Greek (as the slide counts them)"
+  },
+  {
+   "value": 3627,
+   "note": "sum of the letter values of John 1:1 in Greek"
+  },
+  {
+   "value": 373,
+   "note": "gematria of Λόγος (Word), each time it appears"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Logos (the Word)",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 1:1",
+  "In the beginning was the Word",
+  "logos",
+  "Λόγος",
+  "theos",
+  "Θεός",
+  "Greek gematria",
+  "isopsephy",
+  "3627",
+  "52 letters",
+  "Word was with God",
+  "Word was God",
+  "373"
+ ],
+ "uncertain": [
+  "ΑΡΧΗ is shown in capitals with five values (1 100 600 8 10); the final 10 is presumably the iota subscript of ἀρχῇ and is counted in the 52 letters.",
+  "The slide does not print totals for individual words; the totals in words[].gematria are sums of the values shown."
+ ],
+ "confidence": 0.93
+}

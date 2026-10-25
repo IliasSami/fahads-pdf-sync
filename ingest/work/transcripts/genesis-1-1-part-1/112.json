@@ -1,0 +1,133 @@
+{
+ "id": "genesis-1-1-part-1/112",
+ "kinds": [
+  "verse",
+  "letters",
+  "text"
+ ],
+ "title": "The first verse, first word and first letter of the Bible",
+ "summary": "States that the first verse of the Bible is Genesis 1:1 (shown in Hebrew and English), the first word is bereshit (בראשית), and the first letter is bet (ב), B in English.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The First Verse of the Bible is Genesis 1:1"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "In beginning God created the heavens and the earth.",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The First Word of the Bible:"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בראשית"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bereshit"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The First Letter of the Bible:"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "B (English)"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet (Hebrew)"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "B",
+   "other": "ב"
+  },
+  {
+   "en": "bet",
+   "other": "ב"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": null,
+   "meaning": "first letter of the Bible (B in English)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "first verse of the Bible",
+  "first word of the Bible",
+  "first letter of the Bible",
+  "Genesis 1:1",
+  "bereshit",
+  "bet",
+  "beth",
+  "B",
+  "in the beginning",
+  "Hebrew bet",
+  "in beginning God created"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

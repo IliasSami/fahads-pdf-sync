@@ -1,0 +1,107 @@
+{
+ "id": "genesis-1-1-part-1/57",
+ "kinds": [
+  "word-study",
+  "verse"
+ ],
+ "title": "Heavens (hashamayim) and Moses (moshe): drawn out of the water",
+ "summary": "Hashamayim (Heavens, ה ש מ י ם with the last two letters coloured) shown above Exodus 2:10 — “And she named him Moses, and said, ‘Because I drew him out of the water’” — and below it the name Moses spelled in Hebrew, מ ש ה, moshe.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Heavens"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה ש מ י ם"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hashamayim"
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "osis": "Exod.2.10",
+   "text": "And she named him Moses, and said, “Because I drew him out of the water.”—Exodus 2:10"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Moses"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ ש ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "moshe"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 2:10",
+   "osis": [
+    "Exod.2.10"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "משה",
+   "translit": "moshe",
+   "gloss": "Moses",
+   "strongs": "H4872"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Moses"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "water"
+  ],
+  "themes": [
+   "Hebrew word study",
+   "names"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Moses",
+  "moshe",
+  "משה",
+  "drew him out of the water",
+  "Exodus 2:10",
+  "heavens",
+  "hashamayim",
+  "name of Moses",
+  "Pharaoh's daughter",
+  "water",
+  "Hebrew name meaning",
+  "mayim"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

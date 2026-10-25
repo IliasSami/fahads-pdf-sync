@@ -1,0 +1,75 @@
+{
+ "id": "genesis-1-1-part-2/65",
+ "kinds": [
+  "letters"
+ ],
+ "title": "Large letters alef, lamed, pe (אלפ) in colour",
+ "summary": "Three very large Hebrew letters on a blank slide: alef in blue, lamed in brown and pe in purple, reading together as אלפ (alef).",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל פ"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלף",
+   "translit": "alef",
+   "gloss": "alef (name of the first letter)",
+   "strongs": null
+  }
+ ],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "strong"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "shepherd"
+  },
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": 80,
+   "meaning": "mouth"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "alef",
+  "aleph",
+  "אלף",
+  "alef lamed pe",
+  "pe",
+  "lamed",
+  "large Hebrew letters",
+  "blue alef",
+  "purple pe",
+  "Hebrew letters"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

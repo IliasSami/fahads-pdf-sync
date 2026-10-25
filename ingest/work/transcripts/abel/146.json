@@ -1,0 +1,32 @@
+{
+  "id": "abel/146",
+  "kinds": ["verse", "comparison"],
+  "title": "Abel and Yeshua offered unblemished lambs",
+  "summary": "Genesis 4:4 (Abel offers the firstborn of his flock), John 1:29 (the Lamb of God who takes away the sin of the world) and 2 Corinthians 5:21 (Him who knew no sin) support the conclusion that Abel and Yeshua (Jesus) both offered unblemished lambs.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:4", "osis": "Gen.4.4"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ד", "osis": "Gen.4.4"},
+    {"lang": "en", "role": "verse", "text": "4 And Abel, he also brought an offering, from the firstborn of his flock and from their fat portions. And the LORD had regard for Abel and his offering;", "osis": "Gen.4.4"},
+    {"lang": "en", "role": "heading", "text": "Abel & yeshua offered unblemished lambs"},
+    {"lang": "en", "role": "reference", "text": "John 1:29", "osis": "John.1.29"},
+    {"lang": "el", "role": "reference", "text": "Ἰωάνης 1:29", "osis": "John.1.29"},
+    {"lang": "en", "role": "verse", "text": "29 The next day John saw Jesus coming toward him, and said, “Behold! The Lamb of God who takes away the sin of the world!", "osis": "John.1.29"},
+    {"lang": "en", "role": "reference", "text": "2 Corinthians 5:21", "osis": "2Cor.5.21"},
+    {"lang": "el", "role": "reference", "text": "ΚΟΡΙΝΘΙΟΥΣ Β 5:21", "osis": "2Cor.5.21"},
+    {"lang": "en", "role": "verse", "text": "21 God made Him who knew no sin to be sin on our behalf, so that in Him we might become the righteousness of God.", "osis": "2Cor.5.21"}
+  ],
+  "refs": [
+    {"shown": "Genesis 4:4 / בראשית ד:ד", "osis": ["Gen.4.4"], "role": "quoted"},
+    {"shown": "John 1:29 / Ἰωάνης 1:29", "osis": ["John.1.29"], "role": "quoted"},
+    {"shown": "2 Corinthians 5:21 / ΚΟΡΙΝΘΙΟΥΣ Β 5:21", "osis": ["2Cor.5.21"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abel", "God", "John the Baptist", "Jesus"], "places": [], "events": ["Cain and Abel's offerings"], "things": ["flock", "lamb"], "themes": ["sacrifice", "offering", "without blemish", "sin", "substitution", "Lamb of God", "typology", "Abel as a type of Christ"], "groups": []},
+  "keywords": ["unblemished lamb", "without blemish", "spotless lamb", "Lamb of God", "knew no sin", "Abel", "Yeshua", "Jesus", "perfect sacrifice", "Genesis 4", "John 1", "2 Corinthians 5", "Abel a type of Christ"],
+  "uncertain": [],
+  "confidence": 0.95
+}

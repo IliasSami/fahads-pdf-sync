@@ -1,0 +1,171 @@
+{
+ "id": "genesis-1-1-part-2/27",
+ "kinds": [
+  "verse",
+  "letters",
+  "word-study"
+ ],
+ "title": "Leviticus 1:1 with the letters of YHWH highlighted",
+ "summary": "Leviticus 1 (vayikra, ויקרא) with Torah in the heading and verse 1 in English and Hebrew. Four letters in the Hebrew verse are underlined and coloured — י in ויקרא, ה in משה, ו in יהוה, ה in מאהל — and below they are shown as the name יהוה, also written “yahweh” with the y and w coloured to match.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Leviticus 1",
+   "osis": "Lev.1.1"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "vayikra"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ת ו ר ה"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ויקרא א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.1.1",
+   "text": "1 And the LORD called to Moses, and spoke to him out of the tabernacle of the congregation, saying,"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Lev.1.1",
+   "text": "1 ויקרא אל משה וידבר יהוה אליו מאהל מועד לאמר"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Leviticus 1:1 / ויקרא א:א",
+   "osis": [
+    "Lev.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the LORD (the name of God)",
+   "strongs": "H3068",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ויקרא",
+   "translit": "vayikra",
+   "gloss": "and he called (Leviticus)",
+   "strongs": "H7121",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "תורה",
+   "translit": "torah",
+   "gloss": "law, instruction",
+   "strongs": "H8451",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "y",
+   "other": "י"
+  },
+  {
+   "en": "w",
+   "other": "ו"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "brown, underlined in ויקרא; first letter of YHWH"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "black, underlined in משה; second letter of YHWH"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "orange, underlined in יהוה; third letter of YHWH"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "black, underlined in מאהל; fourth letter of YHWH"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Moses"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "tabernacle"
+  ],
+  "themes": [
+   "names of God",
+   "Torah",
+   "Bible codes",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Leviticus 1",
+  "Leviticus 1:1",
+  "vayikra",
+  "YHWH",
+  "Yahweh",
+  "Jehovah",
+  "tetragrammaton",
+  "name of God",
+  "hidden name",
+  "Bible code",
+  "ELS",
+  "tabernacle of the congregation",
+  "And the LORD called unto Moses",
+  "ויקרא",
+  "י ה ו ה"
+ ],
+ "uncertain": [
+  "Final aleph of ויקרא is drawn small and raised in the Hebrew verse line (as in the Masoretic text)"
+ ],
+ "confidence": 0.93
+}

@@ -1,0 +1,52 @@
+{
+ "id": "red-heifer/87",
+ "kinds": [
+  "song",
+  "quote"
+ ],
+ "title": "A Paradox — 'How quaint the ways of paradox' (song line)",
+ "summary": "Under the heading 'A Paradox', a two-line song lyric marked with a musical note: how quaint the ways of paradox; at common sense she gayly mocks.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "A Paradox"
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "text": "♫ How quaint the ways of paradox; at common sense she gayly mocks."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "paradox",
+   "humor"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "paradox",
+  "how quaint the ways of paradox",
+  "at common sense she gayly mocks",
+  "song",
+  "Gilbert and Sullivan",
+  "Pirates of Penzance",
+  "common sense",
+  "musical note",
+  "red heifer paradox",
+  "sing"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

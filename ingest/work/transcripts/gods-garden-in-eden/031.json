@@ -1,0 +1,131 @@
+{
+ "id": "gods-garden-in-eden/31",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Hidden letters in Genesis 2:13-19: poplar (לבנה, -85)",
+ "summary": "Hebrew text of Genesis 2:13-19 with four large grey letters spread across the verses that spell Poplar לבנה with the number -85: ה in verse 13, נ in verse 15, ב in verse 17 and ל in verse 19. The heading is in light grey.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Poplar"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "לבנה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "-85"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": [
+    "Gen.2.13",
+    "Gen.2.14",
+    "Gen.2.15",
+    "Gen.2.16",
+    "Gen.2.17",
+    "Gen.2.18",
+    "Gen.2.19"
+   ],
+   "text": "13 ושם־הנהר השני גיחון הוא הסובב את כל־ארץ כוש׃ 14 ושם הנהר השלישי חדקל הוא ההלך קדמת אשור והנהר הרביעי הוא פרת׃ 15 ויקח יהוה אלהים את־האדם וינחהו בגן־עדן לעבדה ולשמרה׃ 16 ויצו יהוה אלהים על־האדם לאמר מכל עץ־הגן אכל תאכל׃ 17 ומעץ הדעת טוב ורע לא תאכל ממנו כי ביום אכלך ממנו מות תמות׃ 18 ויאמר יהוה אלהים לא־טוב היות האדם לבדו אעשה־לו עזר כנגדו׃ 19 ויצר יהוה אלהים מן־האדמה כל־חית השדה ואת כל־עוף השמים ויבא אל־האדם לראות מה־יקרא־לו וכל אשר יקרא־לו האדם נפש חיה הוא שמו׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:13-19 (Hebrew text)",
+   "osis": [
+    "Gen.2.13",
+    "Gen.2.14",
+    "Gen.2.15",
+    "Gen.2.16",
+    "Gen.2.17",
+    "Gen.2.18",
+    "Gen.2.19"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "לבנה",
+   "translit": "livneh",
+   "gloss": "poplar",
+   "strongs": "H3839",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Poplar",
+   "other": "לבנה"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": -85,
+   "note": "-85, number shown beside לבנה (poplar)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [
+   "Garden of Eden",
+   "Gihon",
+   "Cush",
+   "Tigris",
+   "Assyria",
+   "Euphrates"
+  ],
+  "events": [],
+  "things": [
+   "poplar",
+   "river",
+   "tree of the knowledge of good and evil",
+   "beasts of the field",
+   "birds of the air"
+  ],
+  "themes": [
+   "Bible codes",
+   "creation",
+   "death",
+   "obedience"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "hidden letters",
+  "Bible code",
+  "ELS",
+  "poplar in Hebrew",
+  "livneh",
+  "white poplar",
+  "trees of Eden",
+  "Genesis 2:13",
+  "Genesis 2:14",
+  "Genesis 2:15",
+  "Genesis 2:16",
+  "Genesis 2:17",
+  "Genesis 2:18",
+  "Genesis 2:19",
+  "Hiddekel",
+  "Euphrates",
+  "dress and keep the garden",
+  "thou shalt surely die",
+  "skip number"
+ ],
+ "uncertain": [],
+ "confidence": 0.9
+}

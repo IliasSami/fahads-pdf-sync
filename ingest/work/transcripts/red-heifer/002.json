@@ -1,0 +1,75 @@
+{
+ "id": "red-heifer/2",
+ "kinds": [
+  "picture",
+  "humor"
+ ],
+ "title": "Photo at a \"Red Cow\" steak house restaurant",
+ "summary": "A photo of a man holding a menu at a table in a steak house called Red Cow, with a large red cow butcher-cut diagram and the words RED COW on the wall behind him.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "RED cow"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Photo inside a restaurant: a man in a red T-shirt and glasses sits on a dark sofa behind a wooden table, holding a menu. Behind him a grey wall shows a red cow drawn with butcher-cut lines and big letters RED COW; the cushions, menu and table runner also show a red cow and the words Red Cow Steak House. Wine glasses and plates are set on the table.",
+   "subjects": [
+    "Red Cow steak house",
+    "restaurant",
+    "red cow",
+    "butcher cuts diagram",
+    "menu",
+    "man at table",
+    "wine glasses",
+    "cushions"
+   ],
+   "text_in_picture": "HOT TASTY; RED COW; RED COW STEAK HOUSE",
+   "credit": null,
+   "box": [
+    0.12,
+    0.0,
+    0.88,
+    1.0
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red cow"
+  ],
+  "themes": [
+   "humor"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "red cow",
+  "red heifer",
+  "steak house",
+  "steakhouse",
+  "restaurant",
+  "photo",
+  "menu",
+  "humor",
+  "joke",
+  "cow diagram",
+  "Red Cow Steak House",
+  "parah adumah"
+ ],
+ "uncertain": [
+  "Small text on the menu cover is not readable."
+ ],
+ "confidence": 0.93
+}

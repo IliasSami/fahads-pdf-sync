@@ -1,0 +1,70 @@
+{
+ "id": "red-heifer/84",
+ "kinds": [
+  "text"
+ ],
+ "title": "A Paradox — priest, ash-gatherer and water-sprinkler all become unclean",
+ "summary": "'A Paradox' slide listing three statements: the clean priest who does the sacrifice, the clean man who gathers the ashes, and the clean man who sprinkles the water each become unclean. 'clean', 'priest', 'ashes', 'water' and 'unclean' are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "A Paradox"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The clean priest who does the sacrifice becomes unclean."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The clean man who gathers the ashes becomes unclean."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The clean man who sprinkles the water becomes unclean."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "ashes",
+   "water of purification"
+  ],
+  "themes": [
+   "clean and unclean",
+   "sacrifice",
+   "priesthood",
+   "purification",
+   "typology"
+  ],
+  "groups": [
+   "priests"
+  ]
+ },
+ "keywords": [
+  "paradox",
+  "red heifer paradox",
+  "clean priest becomes unclean",
+  "clean man gathers the ashes",
+  "clean man sprinkles the water",
+  "sprinkler of the water unclean",
+  "the paradox of the red heifer",
+  "Numbers 19",
+  "purifying the unclean defiles the clean",
+  "three paradoxes"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

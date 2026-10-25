@@ -1,0 +1,158 @@
+{
+ "id": "gods-garden-in-eden/22",
+ "kinds": [
+  "verse",
+  "genealogy"
+ ],
+ "title": "Ruth 4:18-22 in Hebrew — Messianic line established",
+ "summary": "Ruth 4:18-22 in Hebrew (no vowel points) under the heading 'Messianic Line Established', with תולדות (generations) and the names בעז (Boaz), עובד (Obed), ישי (Jesse) and דוד (David) in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Ruth 4:18-22",
+   "osis": [
+    "Ruth.4.18",
+    "Ruth.4.19",
+    "Ruth.4.20",
+    "Ruth.4.21",
+    "Ruth.4.22"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Messianic Line Established"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "רות ד:יח-כב"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ruth.4.18",
+   "text": "18 ואלה תולדות פרץ פרץ הוליד את־חצרון׃"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ruth.4.19",
+   "text": "וחצרון הוליד את־רם ורם הוליד את־עמינדב׃"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ruth.4.20",
+   "text": "ועמינדב הוליד את־נחשון ונחשון הוליד את־שלמה׃"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ruth.4.21",
+   "text": "ושלמון הוליד את־בעז ובעז הוליד את־עובד׃"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ruth.4.22",
+   "text": "ועבד הוליד את־ישי וישי הוליד את־דוד׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Ruth 4:18-22 / רות ד:יח-כב",
+   "osis": [
+    "Ruth.4.18",
+    "Ruth.4.19",
+    "Ruth.4.20",
+    "Ruth.4.21",
+    "Ruth.4.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תולדות",
+   "translit": "toledoth",
+   "gloss": "generations",
+   "strongs": "H8435"
+  },
+  {
+   "lang": "he",
+   "word": "בעז",
+   "translit": "Boaz",
+   "gloss": "Boaz",
+   "strongs": "H1162"
+  },
+  {
+   "lang": "he",
+   "word": "עובד",
+   "translit": "Obed",
+   "gloss": "Obed",
+   "strongs": "H5744"
+  },
+  {
+   "lang": "he",
+   "word": "ישי",
+   "translit": "Yishai",
+   "gloss": "Jesse",
+   "strongs": "H3448"
+  },
+  {
+   "lang": "he",
+   "word": "דוד",
+   "translit": "David",
+   "gloss": "David",
+   "strongs": "H1732"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Perez",
+   "Hezron",
+   "Ram",
+   "Amminadab",
+   "Nahshon",
+   "Salmon",
+   "Boaz",
+   "Obed",
+   "Jesse",
+   "David"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "genealogy",
+   "messianic prophecy",
+   "generations (toledoth)"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Ruth 4:18-22",
+  "Ruth 4",
+  "Hebrew text",
+  "Messianic line",
+  "line of David",
+  "genealogy of David",
+  "toledoth",
+  "Perez to David",
+  "Boaz Obed Jesse David",
+  "הוליד",
+  "hotsi",
+  "begat"
+ ],
+ "uncertain": [
+  "Verse numbers 19-22 are not shown in the Hebrew; only 18 appears."
+ ],
+ "confidence": 0.95
+}

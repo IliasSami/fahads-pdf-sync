@@ -1,0 +1,31 @@
+{
+  "id": "akeda-1/89",
+  "kinds": ["verse"],
+  "title": "Genesis 22:7-8 — “Where is the lamb?” “God will provide the lamb”",
+  "summary": "Genesis 22:7-8: Isaac asks his father where the lamb for the burnt offering is, and Abraham answers, “God Himself will provide the lamb for the burnt offering, my son.” Isaac and 'son' are in red, Abraham and 'father' in blue, the wood in brown, 'lamb' in grey, and 'God' in three colours (blue, red, gold).",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22", "osis": "Gen.22.1"},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב"},
+    {"lang": "en", "role": "heading", "text": "The Akedah"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.7", "text": "7 Isaac spoke to Abraham his father and said, “My father!” And he said, “Here I am, my son.” And he said, “Behold, the fire and the wood, but where is the lamb for the burnt offering?”"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.8", "text": "8 Abraham said, “God Himself will provide the lamb for the burnt offering, my son.” So the two of them walked on together."}
+  ],
+  "refs": [
+    {"shown": "Genesis 22 / בראשית כב", "osis": ["Gen.22.1"], "role": "cited"},
+    {"shown": "Genesis 22:7-8", "osis": ["Gen.22.7", "Gen.22.8"], "role": "quoted"}
+  ],
+  "words": [
+    {"lang": "he", "word": "העקדה", "translit": "ha-Akedah", "gloss": "the binding", "strongs": "H6123"}
+  ],
+  "color_links": [
+    {"en": "The Akedah", "other": "ה ע ק ד ה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac", "God"], "places": [], "events": ["Binding of Isaac (Akedah)"], "things": ["lamb", "wood", "fire", "burnt offering"], "themes": ["sacrifice", "substitution", "faith", "typology", "father and son"], "groups": []},
+  "keywords": ["Akedah", "Akeda", "binding of Isaac", "Genesis 22:7", "Genesis 22:8", "where is the lamb", "God will provide himself a lamb", "God will provide", "Jehovah Jireh", "lamb for a burnt offering", "Here I am, my son", "my father", "Lamb of God"],
+  "uncertain": [],
+  "confidence": 0.95
+}

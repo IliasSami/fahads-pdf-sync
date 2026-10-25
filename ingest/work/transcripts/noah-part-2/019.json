@@ -1,0 +1,97 @@
+{
+ "id": "noah-part-2/19",
+ "kinds": [
+  "calendar"
+ ],
+ "title": "Hebrew calendar (months numbered from Nisan) with the feasts marked",
+ "summary": "The same Hebrew calendar with the months renumbered so that Nisan is month 1 and Tishri is month 7, ending with Adar as 12 and Elul as 6. Sukkot, Chanukkah, Pesach (Passover) and Shavuot are marked; there is no circle on this slide.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "7 Tishri (Sukkot 15–22) · 8 Cheshvan · 9 Kislev (Chanukkah 25–30) · 10 Tevet · 11 Sh’vat · 12 Adar · 1 Nisan (Pesach / Passover 14–22) · 2 Iyar · 3 Sivan (Shavuot 6–7) · 4 Tamuz · 5 Av · 6 Elul"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "S U K K O T"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Chanukkah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חנכה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "P E S A C H   P A S S O V E R"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "S H A V U O T"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חנכה",
+   "translit": "Chanukkah",
+   "gloss": "dedication (Hanukkah)",
+   "strongs": "H2598"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 12,
+   "note": "months of the Hebrew year"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Sukkot",
+   "Chanukkah",
+   "Passover",
+   "Shavuot"
+  ],
+  "things": [
+   "Hebrew calendar"
+  ],
+  "themes": [
+   "biblical feasts",
+   "Flood chronology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Hebrew calendar",
+  "Jewish calendar",
+  "months",
+  "Nisan first month",
+  "Tishri seventh month",
+  "religious year",
+  "month numbers",
+  "Sukkot",
+  "Tabernacles",
+  "Hanukkah",
+  "Passover",
+  "Pesach",
+  "Shavuot",
+  "Pentecost"
+ ],
+ "uncertain": [
+  "Day numbers in the grid were not copied cell by cell; only month names, month numbers and feast labels were transcribed."
+ ],
+ "confidence": 0.93
+}

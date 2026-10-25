@@ -1,0 +1,84 @@
+{
+ "id": "akeda-2/25",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 2:2 — Sabbath: God ended his work and rested on the seventh day",
+ "summary": "Genesis 2:2 in English under the heading Sabbath (with 'bbath' in red) and the Hebrew reference בראשית ב:ב. Words are colour-coded: God has three colours, 'his work which He had made' is coloured the same way in both lines, and 'rested' is partly red. No Hebrew verse text is shown.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:2",
+   "osis": "Gen.2.2"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Sabbath"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:ב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.2",
+   "text": "And on the seventh day God ended his work which He had made; and He rested on the seventh day from all his work which He had made."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:2 / בראשית ב:ב",
+   "osis": [
+    "Gen.2.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "the seventh day on which God rested"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "sabbath",
+   "creation",
+   "rest"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Sabbath",
+  "Shabbat",
+  "Genesis 2:2",
+  "Genesis 2",
+  "seventh day",
+  "God rested",
+  "God ended his work",
+  "day of rest",
+  "creation week",
+  "work which he had made",
+  "rested on the seventh day"
+ ],
+ "uncertain": [
+  "The meaning of the many text colours is not explained on the slide"
+ ],
+ "confidence": 0.95
+}

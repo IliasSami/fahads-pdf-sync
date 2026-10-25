@@ -1,0 +1,112 @@
+{
+ "id": "noah-part-2/118",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Matthew 24:26-29: days of Noah and days of Lot",
+ "summary": "Matthew 24:26-29 header (English and Greek) with verses 26-29: as in the days of Noah (eating, drinking, marrying until Noah entered the ark and the flood destroyed them all), so also in the days of Lot (buying, selling, planting, building until fire and brimstone fell from heaven on the day Lot left Sodom). The \"No\" of Noah is highlighted in green.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Matthew 24:26-29",
+   "osis": [
+    "Matt.24.26",
+    "Matt.24.27",
+    "Matt.24.28",
+    "Matt.24.29"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Μαθθαῖον 24:26-29"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "26 “And just as it happened in the days of Noah, so it will be also in the days of the Son of Man:",
+   "osis": "Matt.24.26"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "27 they were eating, they were drinking, they were marrying, they were being given in marriage, until the day that Noah entered the ark, and the flood came and destroyed them all.",
+   "osis": "Matt.24.27"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "28 “It was the same as happened in the days of Lot: they were eating, they were drinking, they were buying, they were selling, they were planting, they were building;",
+   "osis": "Matt.24.28"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "29 but on the day that Lot went out from Sodom it rained fire and brimstone from heaven and destroyed them all.",
+   "osis": "Matt.24.29"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Matthew 24:26-29 / Μαθθαῖον 24:26-29",
+   "osis": [
+    "Matt.24.26",
+    "Matt.24.27",
+    "Matt.24.28",
+    "Matt.24.29"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "Lot",
+   "Jesus"
+  ],
+  "places": [
+   "Sodom"
+  ],
+  "events": [
+   "the Flood",
+   "Destruction of Sodom",
+   "Second Coming"
+  ],
+  "things": [
+   "ark",
+   "fire and brimstone"
+  ],
+  "themes": [
+   "judgment",
+   "marriage",
+   "prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "days of Noah",
+  "days of Lot",
+  "as in the days of Noah",
+  "Son of Man",
+  "eating and drinking",
+  "buying and selling",
+  "planting and building",
+  "fire and brimstone",
+  "Sodom",
+  "Lot went out from Sodom",
+  "Luke 17:26-30",
+  "Matthew 24",
+  "end times",
+  "Second Coming"
+ ],
+ "uncertain": [
+  "The header and verse numbers read Matthew 24:26-29, but the wording matches the passage normally numbered Luke 17:26-29; transcribed as shown."
+ ],
+ "confidence": 0.93
+}

@@ -1,0 +1,347 @@
+{
+ "id": "genesis-1-1-part-2/123",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "God creates: alef and bara (bet, resh, alef) = Son of GOD",
+ "summary": "Under 'God creates', shows the letter alef (A, 1, Strength, GOD) and the Hebrew word bara (ברא, 'create') broken into bet (B, 2, Tent, House), resh (R, 200, Head, First) and alef (A, 1, Strength), each with its ancient pictograph. A large 'Son Of GOD' is placed beside the bet-resh-alef lines.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "God creates"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ברא"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "A"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Strength, GOD"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב ר א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bara"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Create"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "B"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "2"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Tent, House ↘"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ר"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "resh"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "R"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "200"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Head, First ↗"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "A"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Strength →"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Son"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Of"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "GOD"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "create",
+   "strongs": "H1254"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "Strength, GOD",
+   "other": "א"
+  },
+  {
+   "en": "bet",
+   "other": "ב"
+  },
+  {
+   "en": "Tent, House",
+   "other": "ב"
+  },
+  {
+   "en": "Son",
+   "other": "ב"
+  },
+  {
+   "en": "resh",
+   "other": "ר"
+  },
+  {
+   "en": "Head, First",
+   "other": "ר"
+  },
+  {
+   "en": "GOD",
+   "other": "א"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "strength, GOD (ox head pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "tent, house (house pictograph); coloured as 'Son'"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "head, first (head pictograph)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "alef"
+  },
+  {
+   "value": 2,
+   "note": "bet"
+  },
+  {
+   "value": 200,
+   "note": "resh"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of alef (an ox head) in black with a blue underline, beside 'Strength, GOD'.",
+   "subjects": [
+    "alef",
+    "ox head",
+    "paleo-Hebrew",
+    "pictograph",
+    "strength"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.46,
+    0.22,
+    0.52,
+    0.33
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of bet (a tent or house floor-plan shape) in black with a red underline, beside 'Tent, House'.",
+   "subjects": [
+    "bet",
+    "tent",
+    "house",
+    "paleo-Hebrew",
+    "pictograph"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.45,
+    0.6,
+    0.51,
+    0.69
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of resh (a drawn head in profile) in black with an olive underline, beside 'Head, First'.",
+   "subjects": [
+    "resh",
+    "head",
+    "paleo-Hebrew",
+    "pictograph",
+    "first"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.45,
+    0.72,
+    0.51,
+    0.83
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Second ancient alef pictograph (ox head) in black with a blue underline, beside 'Strength' and an arrow to 'Son Of GOD'.",
+   "subjects": [
+    "alef",
+    "ox head",
+    "paleo-Hebrew",
+    "pictograph",
+    "strength"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.46,
+    0.85,
+    0.51,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "names of God",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "bara",
+  "create",
+  "God creates",
+  "alef",
+  "aleph",
+  "bet",
+  "resh",
+  "son of God",
+  "Genesis 1:1",
+  "ברא",
+  "tent house",
+  "head first",
+  "strength",
+  "paleo-Hebrew pictographs",
+  "ancient Hebrew letters"
+ ],
+ "uncertain": [
+  "The meaning of the arrows (↘ ↗ →) beside the letter lines is not stated on the slide."
+ ],
+ "confidence": 0.9
+}

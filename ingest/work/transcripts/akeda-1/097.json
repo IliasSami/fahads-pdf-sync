@@ -1,0 +1,105 @@
+{
+  "id": "akeda-1/97",
+  "kinds": [
+    "verse"
+  ],
+  "title": "John 8:42-44 — you are of your father the devil, a liar and murderer from the beginning",
+  "summary": "John 8:42-44: Jesus tells His hearers that if God were their Father they would love Him, since He came from God and was sent by Him; because they cannot hear His word, they are of their father the devil, a murderer from the beginning and the father of lies. Jesus' words (I, Me, My, truth) are in red; God and Father/He (God the Father) are in blue.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "John 8:42-44",
+      "osis": [
+        "John.8.42",
+        "John.8.43",
+        "John.8.44"
+      ]
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "Ἰωάνης 8:42-44",
+      "osis": [
+        "John.8.42",
+        "John.8.43",
+        "John.8.44"
+      ]
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.42",
+      "text": "42 Jesus said to them, “If God were your Father, you would love Me, for I proceeded forth and have come from God, for I have not even come on My own initiative, but He sent Me."
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.43",
+      "text": "43 “Why do you not understand what I am saying? It is because you cannot hear My word."
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.44",
+      "text": "44 “You are of your father the devil, and you want to do the desires of your father. He was a murderer from the beginning, and does not stand in the truth because there is no truth in him. Whenever he speaks a lie, he speaks from his own nature, for he is a liar and the father of lies."
+    }
+  ],
+  "refs": [
+    {
+      "shown": "John 8:42-44 / Ἰωάνης 8:42-44",
+      "osis": [
+        "John.8.42",
+        "John.8.43",
+        "John.8.44"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Jesus",
+      "God",
+      "Satan"
+    ],
+    "places": [],
+    "events": [],
+    "things": [],
+    "themes": [
+      "truth",
+      "lies",
+      "sin",
+      "murder",
+      "fatherhood",
+      "spiritual warfare"
+    ],
+    "groups": [
+      "Jews"
+    ]
+  },
+  "keywords": [
+    "John 8:42",
+    "John 8:43",
+    "John 8:44",
+    "John 8",
+    "ye are of your father the devil",
+    "father of lies",
+    "murderer from the beginning",
+    "liar",
+    "if God were your Father ye would love me",
+    "I proceeded forth and came from God",
+    "cannot hear my word",
+    "devil",
+    "no truth in him",
+    "he sent me",
+    "Akedah",
+    "Akeda"
+  ],
+  "uncertain": [],
+  "confidence": 0.97
+}

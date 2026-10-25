@@ -1,0 +1,103 @@
+{
+ "id": "gods-garden-in-eden/49",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 2:11-14 — The four rivers of Eden: Pishon, Gihon, Tigris, Euphrates",
+ "summary": "Genesis 2:11-14 in English naming the first river Pishon (around the land of Havilah, where there is gold), the second Gihon (around the land of Cush), the third Tigris (east of Assyria) and the fourth Euphrates. The word 'gold' is highlighted in gold colour; verse 12 is not shown.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:11-14",
+   "osis": [
+    "Gen.2.11",
+    "Gen.2.12",
+    "Gen.2.13",
+    "Gen.2.14"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:יא-יד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "11 The name of the first is Pishon; it flows around the whole land of Havilah, where there is gold.",
+   "osis": "Gen.2.11"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "13 The name of the second river is Gihon; it flows around the whole land of Cush.",
+   "osis": "Gen.2.13"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "14 The name of the third river is Tigris; it flows east of Assyria. And the fourth river is the Euphrates.",
+   "osis": "Gen.2.14"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:11-14 / בראשית ב:יא-יד",
+   "osis": [
+    "Gen.2.11",
+    "Gen.2.12",
+    "Gen.2.13",
+    "Gen.2.14"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Garden of Eden",
+   "Pishon",
+   "Havilah",
+   "Gihon",
+   "Cush",
+   "Tigris",
+   "Assyria",
+   "Euphrates"
+  ],
+  "events": [],
+  "things": [
+   "gold",
+   "river"
+  ],
+  "themes": [
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "four rivers of Eden",
+  "Pishon",
+  "Pison",
+  "Gihon",
+  "Tigris",
+  "Hiddekel",
+  "Euphrates",
+  "Havilah",
+  "land of Cush",
+  "Ethiopia",
+  "Assyria",
+  "gold",
+  "river out of Eden",
+  "Genesis 2"
+ ],
+ "uncertain": [
+  "Verse 12 is not shown on the slide (jumps from verse 11 to verse 13)."
+ ],
+ "confidence": 0.97
+}

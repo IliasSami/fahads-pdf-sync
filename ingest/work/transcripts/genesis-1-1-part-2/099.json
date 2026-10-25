@@ -1,0 +1,228 @@
+{
+ "id": "genesis-1-1-part-2/99",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Deuteronomy 18:18 (a prophet like you) above Genesis 1:1 word by word",
+ "summary": "Top: Deuteronomy 18:18 in English and Hebrew (\"I will raise up a prophet from among their countrymen like you, and I will put My words in his mouth...\"). Bottom: Genesis 1:1 in Hebrew, each word colour-coded with its transliteration above (bereshit, bara, elohim, et, hashamayim, v'et, ha'aretz) and a row of coloured arrows below the words, one arrow per letter, pointing left.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Deuteronomy 18:18",
+   "osis": "Deut.18.18"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "דברים יח:יח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Deut.18.18",
+   "text": "'I will raise up a prophet from among their countrymen like you,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Deut.18.18",
+   "text": "and I will put My words in his mouth,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Deut.18.18",
+   "text": "and he shall speak to them all that I command him."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Deut.18.18",
+   "text": "נביא אקים להם מקרב אחיהם כמוך ונתתי דברי בפיו ודבר"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Deut.18.18",
+   "text": "אליהם את כל־אשר אצונו׃"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ha'aretz   v'et   hashamayim   et   elohim   bara   bereshit"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Deuteronomy 18:18 / דברים יח:יח",
+   "osis": [
+    "Deut.18.18"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "object marker",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "v'et",
+   "gloss": "and (et)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "bereshit",
+   "other": "בראשית"
+  },
+  {
+   "en": "bara",
+   "other": "ברא"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  },
+  {
+   "en": "et",
+   "other": "את"
+  },
+  {
+   "en": "hashamayim",
+   "other": "השמים"
+  },
+  {
+   "en": "v'et",
+   "other": "ואת"
+  },
+  {
+   "en": "ha'aretz",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A row of small coloured left-pointing arrows under each Hebrew word of Genesis 1:1, one arrow per letter (4, 3, 5, 2, 5, 3, 6 arrows) in the same colours as the words.",
+   "subjects": [
+    "arrows",
+    "letter-by-letter reading",
+    "coloured arrows",
+    "right-to-left reading"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.12,
+    0.82,
+    0.9,
+    0.87
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "prophecy",
+   "Torah",
+   "creation",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Deuteronomy 18:18",
+  "prophet like Moses",
+  "I will raise up a prophet",
+  "Genesis 1:1",
+  "bereshit bara elohim",
+  "Genesis 1:1 transliteration",
+  "words in his mouth",
+  "elohim",
+  "hashamayim",
+  "ha'aretz",
+  "Hebrew word by word",
+  "coloured arrows"
+ ],
+ "uncertain": [
+  "The apostrophe before 'I will raise up' is as shown on the slide (an opening quote mark)."
+ ],
+ "confidence": 0.94
+}

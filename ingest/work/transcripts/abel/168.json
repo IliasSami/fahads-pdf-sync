@@ -1,0 +1,73 @@
+{
+  "id": "abel/168",
+  "kinds": [
+    "verse"
+  ],
+  "title": "Genesis 4:12 — a fugitive and a vagabond on the earth",
+  "summary": "Genesis 4:12 in English with its Hebrew reference: when you till the ground it will no longer yield its strength to you, and you shall be a fugitive and a vagabond on the earth.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:12",
+      "osis": "Gen.4.12"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:יב"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Gen.4.12",
+      "text": "12 When you till the ground, it shall no longer yield its strength to you. A fugitive and a vagabond you shall be on the earth.”"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:12 / בראשית ד:יב",
+      "osis": [
+        "Gen.4.12"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Cain"
+    ],
+    "places": [],
+    "events": [
+      "Cain's curse"
+    ],
+    "things": [
+      "ground"
+    ],
+    "themes": [
+      "judgment",
+      "curse"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Genesis 4:12",
+    "Cain curse",
+    "fugitive and vagabond",
+    "fugitive",
+    "vagabond",
+    "till the ground",
+    "ground will not yield its strength",
+    "wanderer",
+    "Cain and Abel",
+    "Genesis 4",
+    "punishment of Cain"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

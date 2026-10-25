@@ -1,0 +1,214 @@
+{
+ "id": "genesis-1-1-part-1/73",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:1: three groups of 7 letters (God, the heavens, the earth)",
+ "summary": "Genesis 1:1 in English and in colour-coded Hebrew, then three word pairs each marked as 7 letters: את אלהים (et with God), את השמים (et with the heavens) and ואת הארץ (and et with the earth).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "In the beginning God created the heavens and the earth.",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "In beginning · created · God · (et) · the skywaters · and (et) · the earth"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "7 letters"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "The heavens"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "את השמים"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "7 letters"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "The earth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ואת הארץ"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "7 letters"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(et)",
+   "strongs": "H853",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the skywaters / the heavens",
+   "strongs": "H8064",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve'et",
+   "gloss": "and (et)",
+   "strongs": "H853",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "(et)",
+   "other": "את"
+  },
+  {
+   "en": "the skywaters",
+   "other": "השמים"
+  },
+  {
+   "en": "and (et)",
+   "other": "ואת"
+  },
+  {
+   "en": "the earth",
+   "other": "הארץ"
+  },
+  {
+   "en": "The heavens",
+   "other": "השמים"
+  },
+  {
+   "en": "The earth",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "את אלהים (et + God) is 7 letters"
+  },
+  {
+   "value": 7,
+   "note": "את השמים (et + the heavens) is 7 letters"
+  },
+  {
+   "value": 7,
+   "note": "ואת הארץ (and et + the earth) is 7 letters"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "heavens",
+   "earth"
+  ],
+  "themes": [
+   "creation",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "7 letters",
+  "seven letters",
+  "number seven",
+  "God the heavens and the earth",
+  "et elohim",
+  "et hashamayim",
+  "ve'et ha'aretz",
+  "patterns of seven",
+  "Bible numerics",
+  "number patterns in Genesis 1:1",
+  "aleph tav"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

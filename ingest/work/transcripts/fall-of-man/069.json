@@ -1,0 +1,107 @@
+{
+ "id": "fall-of-man/69",
+ "kinds": [
+  "list",
+  "text"
+ ],
+ "title": "1 Chronicles 21 is the 359th chapter of the Bible",
+ "summary": "Adds up the chapters of Genesis through 2 Kings (50 + 40 + 27 + 36 + 34 + 24 + 21 + 4 + 31 + 24 + 22 + 25 = 338) and, with the 21 chapters of 1 Chronicles, gets 359, so 1 Chronicles 21 is the 359th chapter of the Bible.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The 359th chapter of the Bible is 1st Chronicles 21"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Genesis 50 chapters + Exodus 40"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "+ Leviticus 27 + Numbers 36"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "+ Deuteronomy 34 + Joshua 24"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "+ Judges 21 + Ruth 4"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "+ 1st Samuel 31 + 2nd Samuel 24"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "+ 1st Kings 22 + 2nd Kings 25"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "= 338 + 21 chapters of 1st Chronicles = 359"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1st Chronicles 21",
+   "osis": [
+    "1Chr.21.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 359,
+   "note": "1 Chronicles 21 is the 359th chapter of the Bible (same number as the gematria of שטן, Satan)"
+  },
+  {
+   "value": 338,
+   "note": "total chapters from Genesis through 2 Kings"
+  },
+  {
+   "value": 21,
+   "note": "chapters of 1 Chronicles counted"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Satan"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Bible numbers",
+   "chapter count"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "359th chapter",
+  "1 Chronicles 21",
+  "chapter count",
+  "number of chapters",
+  "how many chapters",
+  "Genesis 50 chapters",
+  "338 chapters",
+  "359",
+  "Bible numbers",
+  "Satan 359",
+  "Chronicles"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

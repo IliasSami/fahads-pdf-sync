@@ -1,0 +1,90 @@
+{
+ "id": "elijah-elisha/78",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 Kings 18:28-29 — Baal's prophets cut themselves, still no answer",
+ "summary": "The text of 1 Kings 18:28-29: the prophets of Baal cry out loudly and cut themselves with swords and lances until the blood gushes out, and rave until the time of the evening sacrifice, but there is no voice, no answer and no attention.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 18:28-29",
+   "osis": [
+    "1Kgs.18.28",
+    "1Kgs.18.29"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א יח:כח-כט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "28 So they cried with a loud voice and cut themselves according to their custom with swords and lances until the blood gushed out on them.",
+   "osis": "1Kgs.18.28"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "29 When midday was past, they raved until the time of the offering of the evening sacrifice; but there was no voice, no one answered, and no one paid attention.",
+   "osis": "1Kgs.18.29"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 18:28-29 / מלכים א יח:כח-כט",
+   "osis": [
+    "1Kgs.18.28",
+    "1Kgs.18.29"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Baal"
+  ],
+  "places": [
+   "Mount Carmel"
+  ],
+  "events": [
+   "contest on Mount Carmel"
+  ],
+  "things": [
+   "sword",
+   "lance",
+   "evening sacrifice"
+  ],
+  "themes": [
+   "idolatry",
+   "blood",
+   "sacrifice"
+  ],
+  "groups": [
+   "prophets of Baal"
+  ]
+ },
+ "keywords": [
+  "cut themselves with swords and lances",
+  "blood gushed out",
+  "raved until the evening sacrifice",
+  "no voice no one answered",
+  "no one paid attention",
+  "prophets of Baal",
+  "Baal worship",
+  "Mount Carmel",
+  "1 Kings 18",
+  "cried with a loud voice",
+  "evening offering"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

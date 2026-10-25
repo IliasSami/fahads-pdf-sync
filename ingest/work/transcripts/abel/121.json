@@ -1,0 +1,22 @@
+{
+  "id": "abel/121",
+  "kinds": ["verse"],
+  "title": "Genesis 4:15 — the LORD sets a mark on Cain; vengeance sevenfold",
+  "summary": "Genesis 4:15 in English and Hebrew: the LORD says whoever kills Cain will suffer vengeance sevenfold, and sets a mark on Cain so no one who finds him will kill him. No highlighting yet apart from decorative letter colours in the name of the LORD.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:15", "osis": "Gen.4.15"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:יה"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.15", "text": "15 And the LORD said to him, “Therefore, whoever kills Cain, vengeance shall be taken on him sevenfold.” And the LORD set a mark on Cain, lest anyone finding him should kill him."},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.15", "text": "15 ויאמר לו יהוה לכן כל הרג קין שבעתים יקם וישם יהוה לקין אות לבלתי הכות אתו כל מצאו׃"}
+  ],
+  "refs": [{"shown": "Genesis 4:15 / בראשית ד:טו", "osis": ["Gen.4.15"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [{"value": 7, "note": "vengeance on whoever kills Cain is sevenfold (שבעתים)"}],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain"], "places": [], "events": ["Cain's punishment"], "things": ["mark of Cain"], "themes": ["judgment", "grace", "protection", "names of God"], "groups": []},
+  "keywords": ["mark of Cain", "the LORD set a mark upon Cain", "vengeance sevenfold", "whosoever slayeth Cain", "lest any finding him should kill him", "protection for Cain", "Cain and Abel", "Genesis 4", "Genesis 4:15"],
+  "uncertain": ["The LORD in English and יהוה in Hebrew have individually coloured letters (decorative: red L/yod, orange R/vav), meaning not explained on this slide.", "The Hebrew reference shows ד:יה (the slide's own way of writing 15)."],
+  "confidence": 0.96
+}

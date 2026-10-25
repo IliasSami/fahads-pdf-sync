@@ -1,0 +1,169 @@
+{
+ "id": "akeda-2/118",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Deuteronomy 6:4 — Shema: Hear, O Israel, yahweh is echad (one)",
+ "summary": "Deuteronomy 6:4 (the Shema) in English and Hebrew with matching words in matching colours: Hear (שמע), Israel (ישראל), yahweh (יהוה), God (אלהינו), yahweh again, and \"one\" struck through with an arrow to אחד, echad.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Deuteronomy 6:4",
+   "osis": "Deut.6.4"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "שמע"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "דברים ו:ד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Deut.6.4",
+   "text": "Hear, O Israel!"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Deut.6.4",
+   "text": "שמע ישראל"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Deut.6.4",
+   "text": "yahweh is our God, yahweh is ~~one~~!"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אחד"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "echad"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Deut.6.4",
+   "text": "יהוה אלהינו יהוה אחד׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Deuteronomy 6:4 / דברים ו:ד",
+   "osis": [
+    "Deut.6.4"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שמע",
+   "translit": "shema",
+   "gloss": "hear",
+   "strongs": "H8085"
+  },
+  {
+   "lang": "he",
+   "word": "ישראל",
+   "translit": "yisrael",
+   "gloss": "Israel",
+   "strongs": "H3478"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "yahweh (the LORD)",
+   "strongs": "H3068"
+  },
+  {
+   "lang": "he",
+   "word": "אלהינו",
+   "translit": "eloheinu",
+   "gloss": "our God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "אחד",
+   "translit": "echad",
+   "gloss": "one",
+   "strongs": "H259"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Hear",
+   "other": "שמע"
+  },
+  {
+   "en": "Israel",
+   "other": "ישראל"
+  },
+  {
+   "en": "yahweh",
+   "other": "יהוה"
+  },
+  {
+   "en": "God",
+   "other": "אלהינו"
+  },
+  {
+   "en": "yahweh",
+   "other": "יהוה"
+  },
+  {
+   "en": "echad",
+   "other": "אחד"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "Torah",
+   "unity"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Shema",
+  "Shema Yisrael",
+  "Hear O Israel",
+  "Deuteronomy 6:4",
+  "the LORD our God is one LORD",
+  "echad",
+  "ehad",
+  "אחד",
+  "yahweh is one",
+  "oneness of God",
+  "Hebrew word for one",
+  "Deuteronomy 6",
+  "eloheinu"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

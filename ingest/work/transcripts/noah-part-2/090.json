@@ -1,0 +1,101 @@
+{
+ "id": "noah-part-2/90",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 9:16-18 — The everlasting covenant; the sons of Noah",
+ "summary": "Genesis 9:16-18 in English: God will look on the bow in the cloud to remember the everlasting covenant with every living creature, tells Noah the bow is the sign of the covenant, and names Noah's sons who came out of the ark: Shem, Ham and Japheth, with Ham the father of Canaan. The words covenant, God, Noah, ark and the sons' names are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 9:16-18",
+   "osis": [
+    "Gen.9.16",
+    "Gen.9.17",
+    "Gen.9.18"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ט:יו־יח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.16",
+   "text": "16 “When the bow is in the cloud, then I will look upon it, to remember the everlasting covenant between God and every living creature of all flesh that is on the earth.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.17",
+   "text": "17 And God said to Noah, “This is the sign of the covenant which I have established between Me and all flesh that is on the earth.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.18",
+   "text": "18 Now the sons of Noah who came out of the ark were Shem and Ham and Japheth; and Ham was the father of Canaan."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 9:16-18 / בראשית ט:יו־יח",
+   "osis": [
+    "Gen.9.16",
+    "Gen.9.17",
+    "Gen.9.18"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah",
+   "Shem",
+   "Ham",
+   "Japheth",
+   "Canaan"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "bow",
+   "rainbow",
+   "cloud"
+  ],
+  "themes": [
+   "covenant",
+   "promise",
+   "genealogy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 9",
+  "Genesis 9:16-18",
+  "everlasting covenant",
+  "bow in the cloud",
+  "rainbow",
+  "sign of the covenant",
+  "sons of Noah",
+  "Shem Ham Japheth",
+  "Ham father of Canaan",
+  "Canaan",
+  "came out of the ark",
+  "Noahic covenant"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

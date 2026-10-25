@@ -1,0 +1,95 @@
+{
+ "id": "noah-part-2/39",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 7:20-22 — the flood covers the mountains and all flesh perishes",
+ "summary": "Genesis 7:20-22 in English: the water rose fifteen cubits above the mountains and every living thing on dry land with the breath of life died.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 7:20-22",
+   "osis": [
+    "Gen.7.20",
+    "Gen.7.21",
+    "Gen.7.22"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ז:כ-כב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.20",
+   "text": "20 The water prevailed fifteen cubits higher, and the mountains were covered."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.21",
+   "text": "21 All flesh that moved on the earth perished, birds and cattle and beasts and every swarming thing that swarms upon the earth, and all mankind;"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.22",
+   "text": "22 of all that was on the dry land, all in whose nostrils was the breath of the spirit of life, died."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 7:20-22 / בראשית ז:כ-כב",
+   "osis": [
+    "Gen.7.20",
+    "Gen.7.21",
+    "Gen.7.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 15,
+   "note": "cubits the water prevailed above the mountains"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "mountains",
+   "dry land"
+  ],
+  "themes": [
+   "judgment",
+   "death"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 7",
+  "Noah's flood",
+  "fifteen cubits",
+  "mountains covered",
+  "all flesh perished",
+  "breath of life",
+  "breath of the spirit of life",
+  "nostrils",
+  "all mankind died",
+  "water prevailed",
+  "swarming thing"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

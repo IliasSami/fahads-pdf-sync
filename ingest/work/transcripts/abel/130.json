@@ -1,0 +1,27 @@
+{
+  "id": "abel/130",
+  "kinds": ["verse", "comparison"],
+  "title": "Exodus 33:19 and Acts 3:19 — mercy and repentance",
+  "summary": "Exodus 33:19 (the LORD will proclaim His name and show mercy and compassion) shown above the start of Acts 3:19, \"Repent, therefore, and turn again, for the blotting out of your sins,\" with the Greek reference header ΠΡΑΞΕΙΣ 3:19.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Exodus 33:19", "osis": "Exod.33.19"},
+    {"lang": "he", "role": "reference", "text": "שמות לג:יט", "osis": "Exod.33.19"},
+    {"lang": "en", "role": "verse", "text": "19 “I will cause all My goodness to pass before you,” the LORD replied, “and I will proclaim My name—the LORD—in your presence. I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”", "osis": "Exod.33.19"},
+    {"lang": "en", "role": "reference", "text": "Acts 3:19", "osis": "Acts.3.19"},
+    {"lang": "el", "role": "reference", "text": "ΠΡΑΞΕΙΣ 3:19", "osis": "Acts.3.19"},
+    {"lang": "en", "role": "verse", "text": "19 Repent, therefore, and turn again, for the blotting out of your sins,", "osis": "Acts.3.19"}
+  ],
+  "refs": [
+    {"shown": "Exodus 33:19 / שמות לג:יט", "osis": ["Exod.33.19"], "role": "quoted"},
+    {"shown": "Acts 3:19 / ΠΡΑΞΕΙΣ 3:19", "osis": ["Acts.3.19"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Moses"], "places": [], "events": [], "things": [], "themes": ["names of God", "grace", "mercy", "repentance", "forgiveness"], "groups": []},
+  "keywords": ["Exodus 33", "Acts 3", "repent and turn again", "blotting out of sins", "mercy", "compassion", "name of the LORD", "repentance", "forgiveness of sins", "times of refreshing", "Peter's sermon"],
+  "uncertain": [],
+  "confidence": 0.96
+}

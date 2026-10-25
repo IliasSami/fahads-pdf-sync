@@ -1,0 +1,112 @@
+{
+ "id": "genesis-1-1-part-1/2",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 1:1 in English and Hebrew",
+ "summary": "Genesis 1:1 shown in English (\"In the beginning God created the heavens and the earth\", with the word God picked out in three colours) and in the original Hebrew in large bold letters.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "In the beginning God created the heavens and the earth."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha-aretz",
+   "gloss": "the earth",
+   "strongs": "H776"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "in the beginning God created",
+  "heavens and the earth",
+  "bereshit",
+  "bara elohim",
+  "Hebrew Genesis 1:1",
+  "creation",
+  "first verse of the Bible",
+  "elohim",
+  "heaven and earth"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

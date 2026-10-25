@@ -1,0 +1,64 @@
+{
+ "id": "genesis-1-1-part-1/56",
+ "kinds": [
+  "word-study"
+ ],
+ "title": "Heavens: hashamayim (ה ש מ י ם)",
+ "summary": "A nearly blank slide with the word “Heavens” and the Hebrew word for it, hashamayim, spelled out letter by letter (ה ש מ י ם); the last two letters are in colour (yod dark red, final mem blue).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Heavens"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה ש מ י ם"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hashamayim"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew word study",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "heavens",
+  "hashamayim",
+  "shamayim",
+  "השמים",
+  "sky",
+  "skywaters",
+  "Genesis 1:1",
+  "Hebrew word",
+  "mayim",
+  "water"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

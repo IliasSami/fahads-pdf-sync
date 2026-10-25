@@ -1,0 +1,180 @@
+{
+ "id": "fall-of-man/66",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "1 Chronicles 21:1 — Satan stood up against Israel",
+ "summary": "1 Chronicles 21:1 in English and Hebrew, colour-matched word by word: Satan (שטן) stood up against Israel and moved David to number Israel. The untranslated word alef-tav (את, “et”) is marked before David and before the second Israel, and the small words “And,” “and” and “to” are underlined.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1st Chronicles 21:1",
+   "osis": "1Chr.21.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "דברי הימים א בא:א",
+   "osis": "1Chr.21.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "And Satan stood up against Israel and moved David to number Israel.",
+   "osis": "1Chr.21.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "et · David · and moved · against · And stood"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "ויעמד שטן על ישראל ויסת את דויד למנות את ישראל׃",
+   "osis": "1Chr.21.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Israel · to number · alef tav · Israel · Satan"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1st Chronicles 21:1 / דברי הימים א בא:א",
+   "osis": [
+    "1Chr.21.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שטן",
+   "translit": "satan",
+   "gloss": "Satan, adversary",
+   "strongs": "H7854"
+  },
+  {
+   "lang": "he",
+   "word": "ויעמד",
+   "translit": "vaya'amod",
+   "gloss": "and stood",
+   "strongs": "H5975"
+  },
+  {
+   "lang": "he",
+   "word": "ישראל",
+   "translit": "yisrael",
+   "gloss": "Israel",
+   "strongs": "H3478"
+  },
+  {
+   "lang": "he",
+   "word": "ויסת",
+   "translit": "vayaset",
+   "gloss": "and moved (provoked)",
+   "strongs": "H5496"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "alef tav (untranslated object marker)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "דויד",
+   "translit": "david",
+   "gloss": "David",
+   "strongs": "H1732"
+  },
+  {
+   "lang": "he",
+   "word": "למנות",
+   "translit": "limnot",
+   "gloss": "to number",
+   "strongs": "H4487"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "And stood",
+   "other": "ויעמד"
+  },
+  {
+   "en": "Satan",
+   "other": "שטן"
+  },
+  {
+   "en": "against",
+   "other": "על"
+  },
+  {
+   "en": "Israel",
+   "other": "ישראל"
+  },
+  {
+   "en": "and moved",
+   "other": "ויסת"
+  },
+  {
+   "en": "alef tav",
+   "other": "את"
+  },
+  {
+   "en": "David",
+   "other": "דויד"
+  },
+  {
+   "en": "to number",
+   "other": "למנות"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Satan",
+   "David"
+  ],
+  "places": [],
+  "events": [
+   "census of Israel"
+  ],
+  "things": [],
+  "themes": [
+   "alef-tav",
+   "sin",
+   "judgment"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "1 Chronicles 21:1",
+  "1 Chronicles 21",
+  "Satan stood up against Israel",
+  "provoked David to number Israel",
+  "moved David",
+  "census",
+  "numbering Israel",
+  "satan",
+  "adversary",
+  "alef tav",
+  "aleph tav",
+  "et",
+  "שטן"
+ ],
+ "uncertain": [
+  "Hebrew chapter-verse in the header reads בא:א on the slide (as shown; 21 is normally written כא)."
+ ],
+ "confidence": 0.94
+}

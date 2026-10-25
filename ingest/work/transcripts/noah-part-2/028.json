@@ -1,0 +1,77 @@
+{
+ "id": "noah-part-2/28",
+ "kinds": [
+  "picture"
+ ],
+ "title": "Black slide marked \"John E. Kostik 2017 1/1000\"",
+ "summary": "A completely black slide with a small grey script credit in the lower right reading John E. Kostik 2017 and 1/1000; no other content is visible.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "John E. Kostik 2017"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "1/1000"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1000,
+   "note": "shown as 1/1000 (apparently a numbering or timing mark)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "illustration",
+   "description": "A solid black rectangle filling almost the whole slide with a thin blue outline, with grey script text in the lower right corner.",
+   "subjects": [
+    "black screen",
+    "blank slide",
+    "darkness",
+    "credit"
+   ],
+   "text_in_picture": "John E. Kostik 2017 1/1000",
+   "credit": "John E. Kostik, 2017",
+   "box": [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [],
+  "themes": [
+   "light and darkness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "black slide",
+  "dark screen",
+  "John E. Kostik",
+  "Kostik 2017",
+  "1/1000",
+  "pause",
+  "blank",
+  "darkness",
+  "slide credit"
+ ],
+ "uncertain": [
+  "Meaning of 1/1000 is not explained on the slide; the black area may be a video or animation that did not render."
+ ],
+ "confidence": 0.85
+}

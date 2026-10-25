@@ -1,0 +1,155 @@
+{
+ "id": "gods-garden-in-eden/18",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 2:4 (Before the Fall) — toledoth, generations, in Hebrew",
+ "summary": "Genesis 2:4 labelled 'Before the Fall', in English and Hebrew with the word generations paired with the Hebrew תולדות (toledoth, spaced out letter by letter) and the names yahweh and God paired with יהוה and אלהים in matching colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:4",
+   "osis": "Gen.2.4"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Before the Fall"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:ד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.4",
+   "text": "4 These are the generations ת ו ל ד ו ת toledoth"
+  },
+  {
+   "lang": "translit",
+   "role": "verse",
+   "text": "toledoth"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.4",
+   "text": "of the heavens and of the earth when they were created,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.4",
+   "text": "in the day that yahweh God made the earth and the heavens,"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.4",
+   "text": "4 אלה תולדות"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.4",
+   "text": "השמים והארץ בהבראם"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.4",
+   "text": "ביום עשות יהוה אלהים ארץ ושמים׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:4 / בראשית ב:ד",
+   "osis": [
+    "Gen.2.4"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תולדות",
+   "translit": "toledoth",
+   "gloss": "generations",
+   "strongs": "H8435"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the LORD (YHWH)",
+   "strongs": "H3068"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "generations",
+   "other": "תולדות"
+  },
+  {
+   "en": "toledoth",
+   "other": "תולדות"
+  },
+  {
+   "en": "yahweh",
+   "other": "יהוה"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation",
+   "Fall of Man"
+  ],
+  "things": [],
+  "themes": [
+   "generations (toledoth)",
+   "names of God",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 2:4",
+  "toledoth",
+  "toledot",
+  "generations",
+  "Before the Fall",
+  "yahweh elohim",
+  "LORD God",
+  "YHWH",
+  "Hebrew word study",
+  "these are the generations",
+  "heavens and earth"
+ ],
+ "uncertain": [
+  "Hebrew verse shown without vowel points; sof pasuq shown as a colon."
+ ],
+ "confidence": 0.95
+}

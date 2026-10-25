@@ -1,0 +1,28 @@
+{
+  "id": "akeda-2/12",
+  "kinds": ["letters"],
+  "title": "The first and last Hebrew letters: alef and tav",
+  "summary": "A blue Star of David above the heading 'The First and Last Hebrew letters:' followed by the whole Hebrew alphabet written in one line, with the first letter alef (א) in blue and the last letter tav (ת) in red.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The First and Last Hebrew letters:"},
+    {"lang": "he", "role": "body", "text": "אבגדהוזחטיכלמנסעפצקרשת"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [
+    {"en": "First", "other": "א"},
+    {"en": "Last", "other": "ת"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": "first letter of the Hebrew alphabet"},
+    {"lang": "he", "letter": "tav", "char": "ת", "value": 400, "meaning": "last letter of the Hebrew alphabet"}
+  ],
+  "numbers": [],
+  "pictures": [
+    {"type": "symbol", "description": "Blue Star of David (six-pointed star) centred at the top of the slide.", "subjects": ["Star of David", "Jewish symbol", "hexagram"], "text_in_picture": "", "credit": null, "box": [0.47, 0.1, 0.53, 0.23]}
+  ],
+  "entities": {"people": [], "places": [], "events": [], "things": [], "themes": ["Hebrew letter meanings"], "groups": []},
+  "keywords": ["Hebrew alphabet", "alef bet", "aleph", "first and last letters", "alef tav", "aleph tav", "Alpha and Omega", "tav", "Hebrew letters", "Star of David"],
+  "uncertain": ["The alphabet line is shown with no spaces; 22 letters transcribed without final-form letters (kaf, mem, nun, pe, tsade appear in medial forms)"],
+  "confidence": 0.93
+}

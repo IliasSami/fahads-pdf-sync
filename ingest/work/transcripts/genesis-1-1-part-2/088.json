@@ -1,0 +1,277 @@
+{
+ "id": "genesis-1-1-part-2/88",
+ "kinds": [
+  "verse",
+  "gematria",
+  "word-study"
+ ],
+ "title": "John 1:1 in Greek: Word (Λόγος) = 373 three times",
+ "summary": "John 1:1 in English (italic) and Greek with the value of each letter beneath each word, then three large red 'Word / Λόγος / 30 70 3 70 200 / 373' blocks showing that each of the three occurrences of Word (Λόγος) totals 373.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 1:1",
+   "osis": "John.1.1"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΙΩΑΝΝΗΝ 1:1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "In (the) beginning was the Word"
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "ΕΝ ΑΡΧΗ ήν ο Λόγος,"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 50   1 100 600 8 10   8 50   70   30 70 3 70 200"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "and the Word was with – God"
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "και ο Λόγος ην προς τον Θεόν,"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "20 1 10   70   30 70 3 70 200   8 50   80 100 70 200 300 70 50   9 5 70 50"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "and God was the Word"
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "και Θεός ήν ο Λόγος."
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "20 1 10   9 5 70 200   8 50   70   30 70 3 70 200"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Word"
+  },
+  {
+   "lang": "el",
+   "role": "label",
+   "text": "Λόγος"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "30 70 3 70 200"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "373"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Word"
+  },
+  {
+   "lang": "el",
+   "role": "label",
+   "text": "Λόγος"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "30 70 3 70 200"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "373"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Word"
+  },
+  {
+   "lang": "el",
+   "role": "label",
+   "text": "Λόγος"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "30 70 3 70 200"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "373"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 1:1 / ΙΩΑΝΝΗΝ 1:1",
+   "osis": [
+    "John.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "el",
+   "word": "Λόγος",
+   "translit": "logos",
+   "gloss": "Word",
+   "strongs": "G3056",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     30,
+     70,
+     3,
+     70,
+     200
+    ],
+    "total": 373
+   }
+  },
+  {
+   "lang": "el",
+   "word": "Θεός",
+   "translit": "theos",
+   "gloss": "God",
+   "strongs": "G2316",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     9,
+     5,
+     70,
+     200
+    ],
+    "total": 284
+   }
+  },
+  {
+   "lang": "el",
+   "word": "Θεόν",
+   "translit": "theon",
+   "gloss": "God (accusative)",
+   "strongs": "G2316",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     9,
+     5,
+     70,
+     50
+    ],
+    "total": 134
+   }
+  },
+  {
+   "lang": "el",
+   "word": "ΑΡΧΗ",
+   "translit": "arche",
+   "gloss": "beginning",
+   "strongs": "G746",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     1,
+     100,
+     600,
+     8,
+     10
+    ],
+    "total": 719
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In",
+   "other": "ΕΝ"
+  },
+  {
+   "en": "Word",
+   "other": "Λόγος"
+  },
+  {
+   "en": "God",
+   "other": "Θεόν"
+  },
+  {
+   "en": "God",
+   "other": "Θεός"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 373,
+   "note": "gematria of Λόγος (Word), shown for each of its three occurrences in John 1:1"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Logos (the Word)",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 1:1",
+  "In the beginning was the Word",
+  "logos",
+  "Λόγος",
+  "Word 373",
+  "373",
+  "Greek gematria",
+  "isopsephy",
+  "Word was with God",
+  "Word was God",
+  "three times Word",
+  "Θεός"
+ ],
+ "uncertain": [
+  "ΑΡΧΗ is shown in capitals with five values (1 100 600 8 10); the final 10 is presumably the iota subscript of ἀρχῇ.",
+  "The slide does not print totals for Θεός, Θεόν or ΑΡΧΗ; those totals in words[].gematria are sums of the values shown."
+ ],
+ "confidence": 0.93
+}

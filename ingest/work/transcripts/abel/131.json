@@ -1,0 +1,19 @@
+{
+  "id": "abel/131",
+  "kinds": ["end"],
+  "title": "The End",
+  "summary": "Closing slide of the main teaching showing only the words \"The End\" in large black type.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The End"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": [], "things": [], "themes": [], "groups": []},
+  "keywords": ["The End", "end of lesson", "closing slide", "finish", "conclusion", "final slide"],
+  "uncertain": [],
+  "confidence": 0.98
+}

@@ -1,0 +1,200 @@
+{
+ "id": "red-heifer/111",
+ "kinds": [
+  "picture",
+  "text"
+ ],
+ "title": "Screenshot of bonehisrael.com: The hunt for the Red Heifer begins",
+ "summary": "A screenshot of the website bonehisrael.com showing the headline 'The hunt for the Red Heifer begins', a red cow, an embedded video titled 'The Red Heifer - Key to Redemption', a book called 'The Red Heifer - A Conundrum' with a donation offer, and a message that red heifers can bring world peace and are the key to building the Third Temple.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "bonehisrael.com"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The hunt for the Red Heifer begins"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Why search for a cow? These Red Heifers can bring world peace! The bible teaches us, that the key for building the Third Temple (the House of Prayer for All the Nations) is purifying us with the red heifer in Jerusalem. You can help us with our 2,000 year old hunt!"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Donate $50 or more and get a FREE copy of our book!"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "THE RED HEIFER- A CONUNDRUM"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "THE RED HEIFER - KEY TO REDEMPTION"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "The Red Heifer - Key to Redemption"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "You guys ask how?"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "DONATE"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "ARE YOU A RANCHER?"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Let’s find out!"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2000,
+   "note": "the '2,000 year old hunt' for the red heifer, per the website"
+  },
+  {
+   "value": 50,
+   "note": "donation in dollars ($50 or more) to receive a free copy of the book"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "screenshot",
+   "description": "Screenshot of a web browser (Chrome on a Windows desktop, address bar showing bonehisrael.com) displaying a maroon-tinted web page with a model of the Temple in the background, a large red-brown cow standing at the top, and the headline 'The hunt for the Red Heifer begins'. Windows taskbar and clock (12:43 AM, 7/10/2022) are visible at the bottom.",
+   "subjects": [
+    "website",
+    "screenshot",
+    "red heifer",
+    "red cow",
+    "Third Temple model",
+    "bonehisrael.com",
+    "browser"
+   ],
+   "text_in_picture": "bonehisrael.com; The hunt for the Red Heifer begins; DONATE; ARE YOU A RANCHER?; Let's find out!",
+   "credit": null,
+   "box": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "type": "video-still",
+   "description": "Embedded YouTube-style video thumbnail titled 'The Red Heifer - Key to Redemption' showing a man (the presenter) in a blue plaid shirt speaking to the camera outdoors in front of a herd of brown and white cattle on dirt ground in hilly country, with a play button and the subtitle 'You guys ask how?'.",
+   "subjects": [
+    "video",
+    "presenter",
+    "cattle",
+    "herd",
+    "ranch",
+    "red heifer video",
+    "blue plaid shirt"
+   ],
+   "text_in_picture": "THE RED HEIFER - KEY TO REDEMPTION; The Red Heifer - Key to Redemption; You guys ask how?",
+   "credit": null,
+   "box": [
+    0.03,
+    0.28,
+    0.375,
+    0.65
+   ]
+  },
+  {
+   "type": "photo",
+   "description": "Cut-out photo of a single reddish-brown cow standing in profile, head turned toward the viewer, placed over a background image of a large Temple model.",
+   "subjects": [
+    "red heifer",
+    "red cow",
+    "cattle",
+    "photo of a cow"
+   ],
+   "text_in_picture": null,
+   "credit": null,
+   "box": [
+    0.175,
+    0.085,
+    0.465,
+    0.56
+   ]
+  },
+  {
+   "type": "illustration",
+   "description": "Cover of a book titled 'The Red Heifer - A Conundrum' showing a colourful illustration of a crowd of people in traditional dress before Jerusalem walls, beside a red circular badge reading 'Donate $50 or more and get a FREE copy of our book!'.",
+   "subjects": [
+    "book cover",
+    "The Red Heifer A Conundrum",
+    "Jerusalem",
+    "crowd",
+    "donation badge",
+    "free book"
+   ],
+   "text_in_picture": "THE RED HEIFER- A CONUNDRUM; Donate $50 or more and get a FREE copy of our book!",
+   "credit": null,
+   "box": [
+    0.8,
+    0.185,
+    0.985,
+    0.54
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [
+   "Jerusalem",
+   "Temple Mount"
+  ],
+  "events": [],
+  "things": [
+   "red heifer",
+   "Third Temple",
+   "cow"
+  ],
+  "themes": [
+   "purification",
+   "temple",
+   "redemption",
+   "prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "bonehisrael.com",
+  "Bone His Israel",
+  "hunt for the red heifer",
+  "red heifer website",
+  "Third Temple",
+  "House of Prayer for All Nations",
+  "world peace",
+  "Key to Redemption",
+  "The Red Heifer A Conundrum",
+  "search for a red heifer",
+  "ranchers",
+  "screenshot of website",
+  "red cow photo",
+  "Jerusalem"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

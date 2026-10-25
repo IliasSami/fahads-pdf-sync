@@ -1,0 +1,121 @@
+{
+ "id": "genesis-1-1-part-1/108",
+ "kinds": [
+  "gematria",
+  "chart"
+ ],
+ "title": "John 1:1 formula result: 2.7183E x 10^40, or e x 10^40",
+ "summary": "Applies the formula (Number of Letters x Product of Letters) divided by (Number of Words x Product of Words) to John 1:1: (52 x 8,436,251,456,259,110 followed by zeros) divided by (17 x 949,302,241,399,839 followed by zeros) = 2.7183E x 10^40, written as log_e X x 10^40 or e x 10^40 (Euler's number).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 1:1",
+   "osis": "John.1.1"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΙΩΑΝΝΗΝ 1:1"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "(Number of Letters x Product of Letters)"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "d_i_v_i_d_e_d b_y ="
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "(Number of Words x Product of Words)"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "(52 x 8,436,251,456,259,110,000,000,000,000,000,000,000,000)"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "d_i_v_i_d_e_d b_y"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "(17 x 949,302,241,399,839,000,000,000,000,000,000,000)"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 2.7183E x 10^40"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= log_e X x 10^40   or   e x 10^40"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 1:1 / ΙΩΑΝΝΗΝ 1:1",
+   "osis": [
+    "John.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 52,
+   "note": "number of letters in John 1:1"
+  },
+  {
+   "value": 17,
+   "note": "number of words in John 1:1"
+  },
+  {
+   "value": 2.7183,
+   "note": "result 2.7183E x 10^40, presented as e (Euler's number)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Word of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 1:1",
+  "e",
+  "Euler's number",
+  "2.7183",
+  "natural logarithm",
+  "log base e",
+  "10^40",
+  "mathematics of John 1:1",
+  "formula",
+  "Greek gematria",
+  "Gospel of John",
+  "Bible math"
+ ],
+ "uncertain": [
+  "The product of letters printed in the formula is 8,436,251,456,259,110 followed by 24 zeros (as on slide 106), which does not match the exact product; the end result 2.7183E x 10^40 is transcribed as shown."
+ ],
+ "confidence": 0.9
+}

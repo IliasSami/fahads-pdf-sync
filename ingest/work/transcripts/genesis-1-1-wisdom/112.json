@@ -1,0 +1,42 @@
+{
+ "id": "genesis-1-1-wisdom/112",
+ "kinds": [
+  "title"
+ ],
+ "title": "Bonus (section title)",
+ "summary": "A plain title slide with the single word “Bonus” in large gold letters on a white background, introducing an extra section of the lesson.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Bonus"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "wisdom"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "bonus",
+  "bonus slide",
+  "bonus section",
+  "extra lesson",
+  "section title",
+  "Genesis 1:1 wisdom and understanding",
+  "title slide"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

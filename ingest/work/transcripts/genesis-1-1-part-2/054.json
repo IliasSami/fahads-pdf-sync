@@ -1,0 +1,122 @@
+{
+ "id": "genesis-1-1-part-2/54",
+ "kinds": [
+  "list",
+  "word-study"
+ ],
+ "title": "Elements of Creation: the 92 words God used to describe Creation (Genesis 1:1-2:3)",
+ "summary": "Headed 'Genesis 1:1 – Elements of Creation – Genesis 2:3', the slide says God assembled 92 words to describe Creation and lists those words in order from beginning (1), created (2), God (3) to sanctify (92), adding up to 'Creator Week'. A few words (God, created, et, skywaters, earth, darkness, Spirit, night, evening, green) are coloured or bold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Elements of Creation₃"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:3",
+   "osis": "Gen.2.3"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "God assembled 92 words to describe Creation."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "beginning (1) + created (2) + God (3) + et (αΩ) + skywaters (heavens) + earth + was (be) + formless + void + darkness + over + face + deep + Spirit + moving + water + said + Light + saw + that + good + separate + from + called + day + night + evening + morning + one + expanse + midst + made + which + under + so + second + gather + unto + place + dry + seas + sprout + plants + seed + trees + fruit + kind + in it + brought + third + signs + appointed times + years + greater + govern + lesser + stars + placed + fourth + teem + creature + living + birds + sea creature + every + moves + winged + blessed + multiply + fill + fifth + cattle + ground + image + likeness + rule + fish + male + female + them + subdue + behold + food + green + very + sixth + completed + host + seventh + work + rested + sanctify (92) ="
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Creator Week"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 2:3",
+   "osis": [
+    "Gen.2.3"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "en",
+   "word": "et",
+   "translit": "et",
+   "gloss": "the untranslated Hebrew word et, shown here as alpha-omega (αΩ)",
+   "strongs": "H853",
+   "gematria": null
+  },
+  {
+   "lang": "en",
+   "word": "skywaters (heavens)",
+   "translit": "shamayim",
+   "gloss": "heavens, rendered 'skywaters'",
+   "strongs": "H8064",
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 92,
+   "note": "number of words in the creation week list (Genesis 1:1 to 2:3), equated with 'Creator Week'"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "creation week",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "92 words",
+  "Elements of Creation",
+  "Creator Week",
+  "creation week",
+  "Genesis 1:1",
+  "Genesis 2:3",
+  "Genesis 1:1-2:3",
+  "six days of creation",
+  "word list of creation",
+  "92 elements",
+  "God assembled 92 words",
+  "alpha and omega",
+  "skywaters",
+  "Creation"
+ ],
+ "uncertain": [
+  "The heading shows a small subscript 3 after 'Creation' (Creation₃); meaning not explained on the slide."
+ ],
+ "confidence": 0.94
+}

@@ -1,0 +1,70 @@
+{
+ "id": "noah-part-1/58",
+ "kinds": [
+  "word-study"
+ ],
+ "title": "Kopher (atonement) — from where we get 'cover'",
+ "summary": "Shows kopher (כפר) meaning Atonement with the statement 'From where we get Cover'.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kopher"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כפר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Atonement"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "From where we get Cover"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "כפר",
+   "translit": "kopher",
+   "gloss": "atonement; cover",
+   "strongs": "H3724",
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "atonement",
+   "redemption"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "kopher",
+  "atonement",
+  "cover",
+  "covering",
+  "kafar",
+  "kaphar",
+  "kippur",
+  "Hebrew word meaning cover",
+  "pitch cover",
+  "Noah's ark pitch"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

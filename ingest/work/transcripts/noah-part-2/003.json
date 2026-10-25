@@ -1,0 +1,71 @@
+{
+ "id": "noah-part-2/3",
+ "kinds": [
+  "comparison",
+  "list"
+ ],
+ "title": "The ark and Yeshua: takes God’s wrath, spares those inside",
+ "summary": "Opening comparison of the ark with yeshua: the ark takes God's wrath and spares those inside.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Ark"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "yeshua"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Takes God’s Wrath"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Spares Those Inside"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "typology",
+   "atonement",
+   "salvation",
+   "judgment"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "ark and Jesus",
+  "ark of Noah",
+  "yeshua",
+  "Yeshua",
+  "Jesus",
+  "typology",
+  "Noah's ark",
+  "wrath of God",
+  "God's wrath",
+  "spares those inside",
+  "saved inside the ark",
+  "comparison ark and Christ",
+  "Genesis 6"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

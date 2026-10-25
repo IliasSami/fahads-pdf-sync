@@ -1,0 +1,159 @@
+{
+ "id": "genesis-1-1-wisdom/97",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:1 in colour: created (bara) and God (elohim), above Truth / emet / אמת",
+ "summary": "Genesis 1:1 opening words in English, transliteration and Hebrew with colour-coding (created / bara / ברא in orange; God / elohim / אלהים in blue, red and gold), above Truth / emet / אמת in three colours. No letters are underlined on this slide.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "1 In beginning God created…",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "translit",
+   "role": "verse",
+   "text": "1 bereshit bara elohim…"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "1 בראשית ברא אלהים...",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Truth"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "emet"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אמת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Creator Week"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "אמת",
+   "translit": "emet",
+   "gloss": "truth",
+   "strongs": "H571"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "bara",
+   "other": "ברא"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  },
+  {
+   "en": "Truth",
+   "other": "אמת"
+  },
+  {
+   "en": "emet",
+   "other": "אמת"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "truth",
+   "creation",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "bereshit bara elohim",
+  "In beginning God created",
+  "bara created",
+  "elohim God",
+  "emet",
+  "truth",
+  "אמת",
+  "Creator Week",
+  "aleph mem tav",
+  "Hebrew colour coding",
+  "Hebrew letters"
+ ],
+ "uncertain": [],
+ "confidence": 0.92
+}

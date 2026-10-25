@@ -1,0 +1,173 @@
+{
+ "id": "genesis-1-1-part-1/16",
+ "kinds": [
+  "word-study",
+  "verse"
+ ],
+ "title": "Barabbas means \"son of the father\" (bar-abba)",
+ "summary": "Quotes John 18:40 and breaks the name Barabbas into Aramaic/Hebrew bar (son, red) and abba (father, blue), shown as בר־אבא with the Greek form Βαραββᾶν, so that \"Release Barabbas\" is set equal to \"Release Son of the Father\".",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 18:40",
+   "osis": "John.18.40"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 18:40"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.18.40",
+   "text": "“Not this Man, Release Barabbas.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.18.40",
+   "text": "Now Barabbas was a robber."
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Barabbas"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בר־אבא"
+  },
+  {
+   "lang": "el",
+   "role": "label",
+   "text": "Βαραββᾶν"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "abba"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bar"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "“Release Barabbas” ↔ “Release Son of the Father”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 18:40 / Ἰωάνης 18:40",
+   "osis": [
+    "John.18.40"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בר־אבא",
+   "translit": "bar-abba",
+   "gloss": "son of the father (Barabbas)",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "בר",
+   "translit": "bar",
+   "gloss": "son",
+   "strongs": "H1247"
+  },
+  {
+   "lang": "he",
+   "word": "אבא",
+   "translit": "abba",
+   "gloss": "father",
+   "strongs": null
+  },
+  {
+   "lang": "el",
+   "word": "Βαραββᾶν",
+   "translit": "Barabban",
+   "gloss": "Barabbas",
+   "strongs": "G912"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Bar",
+   "other": "בר"
+  },
+  {
+   "en": "abbas",
+   "other": "אבא"
+  },
+  {
+   "en": "bar",
+   "other": "בר"
+  },
+  {
+   "en": "abba",
+   "other": "אבא"
+  },
+  {
+   "en": "Son",
+   "other": "בר"
+  },
+  {
+   "en": "Father",
+   "other": "אבא"
+  },
+  {
+   "en": "Bar",
+   "other": "Βαρ"
+  },
+  {
+   "en": "abbas",
+   "other": "αββᾶν"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Barabbas",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "substitution",
+   "names meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Barabbas",
+  "bar abba",
+  "son of the father",
+  "release Son of the Father",
+  "Aramaic name",
+  "bar means son",
+  "abba means father",
+  "John 18:40",
+  "Βαραββᾶν",
+  "name meaning",
+  "robber",
+  "Jesus and Barabbas",
+  "substitution"
+ ],
+ "uncertain": [
+  "Whether the Greek word Βαραββᾶν is split into red/blue parts exactly as Βαρ + αββᾶν (colour boundary is small and italic)."
+ ],
+ "confidence": 0.93
+}

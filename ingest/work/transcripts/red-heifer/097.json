@@ -1,0 +1,91 @@
+{
+ "id": "red-heifer/97",
+ "kinds": [
+  "text"
+ ],
+ "title": "Unclean people cannot enter the Temple, so a Red Heifer is needed",
+ "summary": "Text slide explaining that once a person is unclean they cannot enter the Temple, so a Red Heifer is required for Temple services and sacrifices. With no Temple today, being unclean is no problem (unclean is not sinful), but the rabbis declare everybody unclean today because everyone is assumed to have come near a dead body. Key words are colour-coded: unclean, Red Heifer, Temple, Sinful.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Once unclean, one cannot enter Temple."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "So, a Red Heifer is required"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "for attending Temple services and offering sacrifices."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Since there is no Temple today, it’s no problem being unclean."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "(Remember, unclean is not Sinful)"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Rabbis have declared that everybody is unclean today"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "(everybody is assumed to have come near a dead body"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "– funeral home, cemetery, hospital, war, etc.)"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "dead body"
+  ],
+  "themes": [
+   "clean and unclean",
+   "purification",
+   "temple",
+   "sin"
+  ],
+  "groups": [
+   "rabbis"
+  ]
+ },
+ "keywords": [
+  "unclean",
+  "ritually unclean",
+  "cannot enter Temple",
+  "Red Heifer required",
+  "Temple services",
+  "unclean is not sinful",
+  "rabbis say everyone unclean",
+  "dead body",
+  "corpse uncleanness",
+  "funeral home",
+  "cemetery",
+  "purification",
+  "Numbers 19"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

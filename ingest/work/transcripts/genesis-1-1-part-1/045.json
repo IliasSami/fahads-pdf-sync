@@ -1,0 +1,248 @@
+{
+ "id": "genesis-1-1-part-1/45",
+ "kinds": [
+  "letters",
+  "word-study",
+  "quote"
+ ],
+ "title": "Elohim pictographs read into Psalm 23: shepherd and still waters",
+ "summary": "Elohim (אלהים) with colour-matched letters, then a rewording of Psalm 23 in which ancient pictograph signs of the letters stand in for words: “The [alef] is my [lamed], I shall not [he]. He [yod] me beside still [mem].” Each pictograph has its modern Hebrew letter under it.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "e l o h i m"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל ה י ם"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The [א] is my [ל], I shall not [ה]."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "He [י] me beside still [ם]."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 23",
+   "osis": [
+    "Ps.23.1",
+    "Ps.23.2"
+   ]
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 23",
+   "osis": [
+    "Ps.23.1",
+    "Ps.23.2"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "e",
+   "other": "א"
+  },
+  {
+   "en": "l",
+   "other": "ל"
+  },
+  {
+   "en": "h",
+   "other": "ה"
+  },
+  {
+   "en": "i",
+   "other": "י"
+  },
+  {
+   "en": "m",
+   "other": "ם"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "ox-head pictograph (strength)"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "shepherd’s-crook pictograph (authority)"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "behold / revelation pictograph"
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "hand pictograph"
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "ם",
+   "value": 40,
+   "meaning": "water-waves pictograph"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of alef (an ox head) in black over a cyan line, with the modern cyan letter א beneath it, placed in the word gap after “The”.",
+   "subjects": [
+    "alef pictograph",
+    "ox head",
+    "paleo-Hebrew",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "א",
+   "credit": null,
+   "box": [
+    0.3,
+    0.44,
+    0.38,
+    0.67
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of lamed (a shepherd’s crook) in black over a brown line, with the brown letter ל beneath it, placed after “is my”.",
+   "subjects": [
+    "lamed pictograph",
+    "shepherd's crook",
+    "staff",
+    "paleo-Hebrew"
+   ],
+   "text_in_picture": "ל",
+   "credit": null,
+   "box": [
+    0.47,
+    0.44,
+    0.54,
+    0.67
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of he (a figure with raised arms) in black over a black line, with the black letter ה beneath it, placed after “I shall not”.",
+   "subjects": [
+    "he pictograph",
+    "man with raised arms",
+    "paleo-Hebrew",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "ה",
+   "credit": null,
+   "box": [
+    0.71,
+    0.45,
+    0.78,
+    0.67
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of yod (arm and hand) in black over an orange-brown line, with the dark red letter י beneath it, placed after “He”.",
+   "subjects": [
+    "yod pictograph",
+    "hand",
+    "arm",
+    "paleo-Hebrew"
+   ],
+   "text_in_picture": "י",
+   "credit": null,
+   "box": [
+    0.27,
+    0.78,
+    0.34,
+    0.94
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of mem (zigzag water waves) in black over a pale blue line, with the blue letter ם beneath it, placed after “beside still”.",
+   "subjects": [
+    "mem pictograph",
+    "water waves",
+    "wavy line",
+    "paleo-Hebrew"
+   ],
+   "text_in_picture": "ם",
+   "credit": null,
+   "box": [
+    0.58,
+    0.77,
+    0.65,
+    0.94
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "water",
+   "shepherd's crook"
+  ],
+  "themes": [
+   "names of God",
+   "Hebrew letter meanings",
+   "God as shepherd"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Psalm 23",
+  "elohim",
+  "The LORD is my shepherd",
+  "I shall not want",
+  "still waters",
+  "he leadeth me beside the still waters",
+  "pictographs",
+  "paleo-Hebrew",
+  "ancient Hebrew letters",
+  "alef",
+  "lamed",
+  "mem",
+  "yod",
+  "shepherd",
+  "strong shepherd"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

@@ -1,0 +1,27 @@
+{
+  "id": "akeda-1/67",
+  "kinds": ["verse"],
+  "title": "Genesis 15:5-6 — count the stars; Abram believed and it was counted as righteousness",
+  "summary": "Genesis 15:5-6: God takes Abram outside to count the stars and promises 'So shall your descendants be'; Abram believes the LORD and it is reckoned to him as righteousness. The words 'yahweh elohim' and 'Abram' are inserted in brackets, with Abram and parts of the divine names picked out in colour.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 15:5-6", "osis": ["Gen.15.5", "Gen.15.6"]},
+    {"lang": "he", "role": "reference", "text": "בראשית יה:ה-ו"},
+    {"lang": "en", "role": "verse", "osis": "Gen.15.5", "text": "5 And He [yahweh elohim] took him [Abram] outside and said, “Now look toward the heavens, and count the stars, if you are able to count them.” And He said to him, “So shall your descendants be.”"},
+    {"lang": "en", "role": "verse", "osis": "Gen.15.6", "text": "6 Then he believed in the LORD; and He reckoned it to him as righteousness."}
+  ],
+  "refs": [
+    {"shown": "Genesis 15:5-6 / בראשית יה:ה-ו", "osis": ["Gen.15.5", "Gen.15.6"], "role": "quoted"}
+  ],
+  "words": [
+    {"lang": "he", "word": "יהוה", "translit": "yahweh", "gloss": "the LORD (God's covenant name)", "strongs": "H3068"},
+    {"lang": "he", "word": "אלהים", "translit": "elohim", "gloss": "God", "strongs": "H430"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham"], "places": [], "events": [], "things": ["stars"], "themes": ["faith", "righteousness", "covenant", "seed", "names of God"], "groups": []},
+  "keywords": ["Genesis 15:5", "Genesis 15:6", "count the stars", "number the stars", "so shall thy seed be", "believed in the LORD", "counted it to him for righteousness", "reckoned as righteousness", "Abram", "Abraham's faith", "descendants", "yahweh elohim", "Akedah", "Akeda"],
+  "uncertain": ["Hebrew reference header read as בראשית יה:ה-ו (15 written יה, 5 as ה, 6 as ו)"],
+  "confidence": 0.96
+}

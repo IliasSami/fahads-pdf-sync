@@ -1,0 +1,25 @@
+{
+  "id": "akeda-1/1",
+  "kinds": ["title", "picture"],
+  "title": "The Akedah (העקדה): The Binding of Isaac, Part 1 — title slide",
+  "summary": "Opening title slide of the series on the Akedah, the Binding of Isaac (Genesis 22), shown over a video still of the presenter seated in front of a world map beside a toy ram and a leafy branch.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Akedah"},
+    {"lang": "he", "role": "heading", "text": "העקדה"},
+    {"lang": "en", "role": "heading", "text": "The Binding of Isaac  Part 1"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "העקדה", "translit": "ha-akedah", "gloss": "the binding", "strongs": "H6123"}
+  ],
+  "color_links": [{"en": "The Akedah", "other": "העקדה"}],
+  "letters": [],
+  "numbers": [],
+  "pictures": [
+    {"type": "video-still", "description": "Video still of the presenter, a man in glasses and a white T-shirt, seated in front of a large colourful world map, holding a leafy green branch; beside him on the left sits a stuffed toy ram with curled horns tangled in green leaves, and orange bird-of-paradise flowers are at the right.", "subjects": ["presenter", "world map", "ram", "toy ram", "thicket", "branch", "bird-of-paradise flowers"], "text_in_picture": "The Akedah העקדה The Binding of Isaac Part 1", "credit": null, "box": [0.117, 0.1, 0.873, 0.9]}
+  ],
+  "entities": {"people": ["Isaac", "Abraham"], "places": [], "events": ["Binding of Isaac (Akedah)"], "things": ["ram"], "themes": ["sacrifice"], "groups": []},
+  "keywords": ["Akedah", "Akeda", "Aqedah", "binding of Isaac", "sacrifice of Isaac", "Abraham and Isaac", "Genesis 22", "ram caught in a thicket", "title slide", "Part 1", "video", "world map"],
+  "uncertain": [],
+  "confidence": 0.95
+}

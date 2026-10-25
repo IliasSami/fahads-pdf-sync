@@ -1,0 +1,25 @@
+{
+  "id": "akeda-1/65",
+  "kinds": ["text", "comparison"],
+  "title": "Two options: God stops the sacrifice, or the Son is sacrificed and resurrected",
+  "summary": "Text slide with two possible outcomes of the sacrifice: Option 1, God intervenes and stops the sacrifice; Option 2, the Son is sacrificed and resurrected. “God” and “Son” are coloured.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Option 1"},
+    {"lang": "en", "role": "body", "text": "God intervenes & stops sacrifice"},
+    {"lang": "en", "role": "heading", "text": "Option 2"},
+    {"lang": "en", "role": "body", "text": "Son is sacrificed & resurrected"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {"value": 1, "note": "Option 1"},
+    {"value": 2, "note": "Option 2"}
+  ],
+  "pictures": [],
+  "entities": {"people": ["God"], "places": [], "events": ["Binding of Isaac (Akedah)", "Resurrection"], "things": [], "themes": ["sacrifice", "resurrection", "substitution", "deliverance"], "groups": []},
+  "keywords": ["Option 1", "Option 2", "God intervenes", "stops the sacrifice", "Son is sacrificed", "Son resurrected", "two options", "Akedah outcome", "sacrificed and resurrected", "binding of Isaac", "resurrection"],
+  "uncertain": [],
+  "confidence": 0.97
+}

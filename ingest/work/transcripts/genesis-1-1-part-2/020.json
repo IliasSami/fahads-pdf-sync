@@ -1,0 +1,145 @@
+{
+ "id": "genesis-1-1-part-2/20",
+ "kinds": [
+  "verse",
+  "word-study",
+  "letters"
+ ],
+ "title": "The last verse, last word and last letter of the torah",
+ "summary": "Deuteronomy 34:12 in Hebrew and English is the last verse of the torah; the last word is Israel (ישראל) and the last letter is the Hebrew lamed (ל), matched with the English L. The word Last is highlighted in red, and Israel is coloured letter by letter in Hebrew and English.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Last Verse of the torah is Deuteronomy 34:12"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Deut.34.12",
+   "text": "ולכל היד החזקה ולכל המורא הגדול אשר עשה משה לעיני כל־ישראל׃"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Deut.34.12",
+   "text": "12 and for all the mighty power and for all the great terror which Moses performed in the sight of all Israel."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Last Word of the torah is Israel:"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ישראל"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Israel"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Last Letter of the torah:"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "(English) L"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ל"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "lamed"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "(Hebrew)"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Deuteronomy 34:12",
+   "osis": [
+    "Deut.34.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ישראל",
+   "translit": "yisrael",
+   "gloss": "Israel (last word of the Torah)",
+   "strongs": "H3478"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Israel",
+   "other": "ישראל"
+  },
+  {
+   "en": "L",
+   "other": "ל"
+  },
+  {
+   "en": "lamed",
+   "other": "ל"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "L; last letter of the Torah"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Moses"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "Torah"
+  ],
+  "themes": [
+   "Torah",
+   "Hebrew letter meanings"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Deuteronomy 34:12",
+  "last verse of the Torah",
+  "last word of the Torah",
+  "last letter of the Torah",
+  "Israel",
+  "yisrael",
+  "lamed",
+  "L",
+  "mighty hand",
+  "great terror",
+  "Moses performed in the sight of all Israel",
+  "end of the Pentateuch"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

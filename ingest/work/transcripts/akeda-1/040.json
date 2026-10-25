@@ -1,0 +1,23 @@
+{
+  "id": "akeda-1/40",
+  "kinds": ["text", "quote"],
+  "title": "Prophetic level: many Jews of today laugh at Yeshua, the promised messiah and Son of God",
+  "summary": "A text-only statement applying the “He will laugh” (Isaac) theme prophetically: many Jews of today laugh at Yeshua, the promised messiah and Son of God. “yeshua” and “Son of God” are underlined in red.",
+  "text": [
+    {"lang": "en", "role": "body", "text": "On a prophetic level,"},
+    {"lang": "en", "role": "body", "text": "we see many Jews of today"},
+    {"lang": "en", "role": "body", "text": "laugh at yeshua,"},
+    {"lang": "en", "role": "body", "text": "the promised messiah"},
+    {"lang": "en", "role": "body", "text": "and Son of God."}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Jesus", "God"], "places": [], "events": [], "things": [], "themes": ["prophecy", "typology", "messianic prophecy", "laughter", "Messiah"], "groups": ["Jews"]},
+  "keywords": ["Jews laugh at Yeshua", "promised messiah", "Son of God", "Yeshua", "prophetic level", "prophetic meaning of Isaac", "he will laugh", "Jewish unbelief", "Messiah rejected", "Isaac type of Yeshua", "typology"],
+  "uncertain": [],
+  "confidence": 0.97
+}

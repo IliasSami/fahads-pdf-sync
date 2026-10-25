@@ -1,0 +1,57 @@
+{
+ "id": "red-heifer/82",
+ "kinds": [
+  "text"
+ ],
+ "title": "A Paradox — the clean priest who does the sacrifice becomes unclean",
+ "summary": "Slide titled 'A Paradox' with the first of three statements: the clean priest who does the sacrifice becomes unclean. 'clean' (blue), 'priest' (gold) and 'unclean' (maroon) are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "A Paradox"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The clean priest who does the sacrifice becomes unclean."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer"
+  ],
+  "themes": [
+   "clean and unclean",
+   "sacrifice",
+   "priesthood",
+   "purification",
+   "typology"
+  ],
+  "groups": [
+   "priests"
+  ]
+ },
+ "keywords": [
+  "paradox",
+  "red heifer paradox",
+  "clean priest becomes unclean",
+  "priest who does the sacrifice",
+  "sacrifice makes unclean",
+  "the paradox of the red heifer",
+  "Numbers 19",
+  "purifying the unclean defiles the clean",
+  "priest unclean"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

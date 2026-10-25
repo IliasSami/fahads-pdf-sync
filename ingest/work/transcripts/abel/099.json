@@ -1,0 +1,153 @@
+{
+  "id": "abel/99",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:10 — blood (dam, דם) inside man (adam, אדם)",
+  "summary": "Genesis 4:10 in English and Hebrew, then a word study showing that the Hebrew word for man, adam (אדם), is the word for blood, dam (דם), with an alef (א) in front — the letters are colour-coded to show blood inside man.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:10",
+      "osis": "Gen.4.10"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:י"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Gen.4.10",
+      "text": "10 And He said, “What have you done? The voice of your brother’s blood cries out to Me from the ground."
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "osis": "Gen.4.10",
+      "text": "10 ויאמר מה עשית קול דמי אחיך צעקים אלי מן האדמה׃"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "dam"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "דם"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Blood"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "adam"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "אדם"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Man"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:10 / בראשית ד:י",
+      "osis": [
+        "Gen.4.10"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "דם",
+      "translit": "dam",
+      "gloss": "blood",
+      "strongs": "H1818"
+    },
+    {
+      "lang": "he",
+      "word": "אדם",
+      "translit": "adam",
+      "gloss": "man",
+      "strongs": "H120"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "blood",
+      "other": "דמ"
+    },
+    {
+      "en": "dam",
+      "other": "דם"
+    },
+    {
+      "en": "adam",
+      "other": "אדם"
+    }
+  ],
+  "letters": [
+    {
+      "lang": "he",
+      "letter": "alef",
+      "char": "א",
+      "value": 1,
+      "meaning": "added to dam (blood) to form adam (man)"
+    }
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "God",
+      "Cain",
+      "Abel",
+      "Adam"
+    ],
+    "places": [],
+    "events": [
+      "Murder of Abel"
+    ],
+    "things": [
+      "ground"
+    ],
+    "themes": [
+      "blood",
+      "death",
+      "Hebrew word connections",
+      "mankind"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "adam",
+    "man",
+    "mankind",
+    "dam",
+    "blood",
+    "blood in man",
+    "alef",
+    "aleph",
+    "Hebrew word play",
+    "Hebrew roots",
+    "Abel's blood",
+    "Genesis 4",
+    "Genesis 4:10"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

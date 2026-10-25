@@ -1,0 +1,25 @@
+{
+  "id": "akeda-2/1",
+  "kinds": ["title", "picture"],
+  "title": "Title: The Akedah II — The Binding of Isaac, Part 2",
+  "summary": "Opening title slide of the second lesson on the Akedah (the binding of Isaac), shown over a video still of the presenter in front of a world map.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Akedah II"},
+    {"lang": "he", "role": "heading", "text": "העקדה"},
+    {"lang": "en", "role": "heading", "text": "The Briding of Isaac Part 2"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "העקדה", "translit": "ha-akedah", "gloss": "the binding", "strongs": null}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [
+    {"type": "video-still", "description": "Video still of the presenter in a white T-shirt sitting on a brown couch in front of a large wall map of the world, with both arms raised and hands clasped over his head and face. The lesson title is overlaid in blue and white.", "subjects": ["presenter", "world map", "couch", "video still", "title slide"], "text_in_picture": "The Akedah II · העקדה · The Briding of Isaac Part 2", "credit": null, "box": [0, 0, 1, 1]}
+  ],
+  "entities": {"people": ["Isaac"], "places": [], "events": ["Binding of Isaac (Akedah)"], "things": [], "themes": ["sacrifice"], "groups": []},
+  "keywords": ["Akedah", "Akeda", "Aqedah", "binding of Isaac", "sacrifice of Isaac", "Genesis 22", "Abraham and Isaac", "part 2", "title slide", "world map"],
+  "uncertain": ["Title reads \"Briding\" on the slide (apparently a typo for \"Binding\"); transcribed as shown."],
+  "confidence": 0.95
+}

@@ -1,0 +1,38 @@
+{
+  "id": "akeda-1/45",
+  "kinds": ["verse", "word-study", "letters"],
+  "title": "Love (אהב, aheb) — Father & Son Revealed",
+  "summary": "Genesis 22:2 with the first-mentioned word “love”, and the Hebrew word for love, אהב (aheb), read letter by letter: alef = Father, he = Revealed, bet = Son — “Father & Son Revealed.”",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22", "osis": "Gen.22.2"},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.2", "text": "2 He said, “Take now your son, your only son, whom you lo♥e¹, Isaac, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I will tell you.”"},
+    {"lang": "translit", "role": "label", "text": "aheb"},
+    {"lang": "he", "role": "label", "text": "אהב"},
+    {"lang": "en", "role": "label", "text": "lo♥e"},
+    {"lang": "en", "role": "heading", "text": "Father & Son Revealed"}
+  ],
+  "refs": [{"shown": "Genesis 22 / בראשית כב (verse 2)", "osis": ["Gen.22.2"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "אהב", "translit": "aheb (ahav)", "gloss": "love", "strongs": "H157"},
+    {"lang": "he", "word": "העקדה", "translit": "ha-akedah", "gloss": "the binding (of Isaac)", "strongs": "H6123"}
+  ],
+  "color_links": [
+    {"en": "Father", "other": "א"},
+    {"en": "Son", "other": "ב"},
+    {"en": "a", "other": "א"},
+    {"en": "b", "other": "ב"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": "Father"},
+    {"lang": "he", "letter": "he", "char": "ה", "value": 5, "meaning": "Revealed"},
+    {"lang": "he", "letter": "bet", "char": "ב", "value": 2, "meaning": "Son"}
+  ],
+  "numbers": [{"value": 1, "note": "superscript on “love” — first mention of love in the Bible"}],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham", "Isaac"], "places": ["Moriah"], "events": ["Binding of Isaac (Akedah)"], "things": ["burnt offering"], "themes": ["love", "father and son", "Hebrew letter meanings", "law of first mention", "typology"], "groups": []},
+  "keywords": ["love", "ahav", "aheb", "ahava", "Father and Son revealed", "first mention of love", "whom thou lovest", "Hebrew letters", "alef", "aleph", "bet", "beth", "Genesis 22", "Akedah"],
+  "uncertain": ["The superscript 1 after “love” is not explained on the slide; it most likely marks the first occurrence of “love” in the Bible."],
+  "confidence": 0.93
+}

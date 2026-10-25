@@ -1,0 +1,27 @@
+{
+  "id": "fall-of-man/2",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 3:1 — the serpent (נחש, nakhash) and the word “snake”",
+  "summary": "Genesis 3:1 in English: the serpent, more crafty than any beast, questions the woman about God's command. Below, the Hebrew word for snake, נחש (nakhash), is shown with its consonants N-K-S rearranged to suggest the English word SNaKe.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 3:1", "osis": "Gen.3.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית ג-א", "osis": "Gen.3.1"},
+    {"lang": "en", "role": "verse", "text": "1 Now the serpent was more crafty than any beast of the field which the LORD God had made. And he said to the woman, “Indeed, has God said, ‘You shall not eat from any tree of the garden’?”", "osis": "Gen.3.1"},
+    {"lang": "en", "role": "label", "text": "Snake"},
+    {"lang": "he", "role": "label", "text": "נחש"},
+    {"lang": "translit", "role": "label", "text": "nakhash"},
+    {"lang": "translit", "role": "body", "text": "NaKHaSH → N K S → SNaKe"}
+  ],
+  "refs": [{"shown": "Genesis 3:1 / בראשית ג-א", "osis": ["Gen.3.1"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "נחש", "translit": "nakhash", "gloss": "snake, serpent", "strongs": "H5175"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Eve"], "places": ["Garden of Eden"], "events": ["Fall of Man"], "things": ["serpent", "tree"], "themes": ["temptation", "Hebrew wordplay", "deception"], "groups": []},
+  "keywords": ["serpent", "snake", "nachash", "nakhash", "nahash", "more subtil than any beast", "crafty", "cunning", "hath God said", "Genesis 3", "Genesis 3:1", "temptation of Eve", "Hebrew word for snake"],
+  "uncertain": [],
+  "confidence": 0.95
+}

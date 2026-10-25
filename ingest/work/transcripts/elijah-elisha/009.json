@@ -1,0 +1,20 @@
+{
+  "id": "elijah-elisha/9",
+  "kinds": ["comparison", "list"],
+  "title": "Joseph / Yeshua parallels: sent by the Father to check on his brothers",
+  "summary": "First item in the Joseph–Yeshua parallels: both were sent by their Father to check on their brothers.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Joseph / yeshua Parallels"},
+    {"lang": "en", "role": "list", "text": "Sent by Father to check on brothers"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Joseph", "Jesus", "Jacob", "God"], "places": [], "events": [], "things": [], "themes": ["typology"], "groups": ["Joseph's brothers"]},
+  "keywords": ["Joseph", "Yeshua", "Jesus", "parallels", "sent by his father", "check on his brothers", "Jacob sent Joseph", "Genesis 37:14", "type of Christ", "foreshadowing"],
+  "uncertain": [],
+  "confidence": 0.95
+}

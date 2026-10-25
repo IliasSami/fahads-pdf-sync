@@ -1,0 +1,103 @@
+{
+ "id": "akeda-2/80",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 24:14-16: the servant's prayer and Rebekah comes out with her jar",
+ "summary": "Genesis 24:14-16 in English: the servant's prayer that the girl who offers water to him and his camels be the one appointed for Isaac, and Rebekah coming out with her jar, a beautiful virgin. The servant's own words (I, I, I, my, he) are highlighted in gold, 'camels' is underlined, 'Your' and 'Isaac' are red and 'Abraham' is blue.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 24",
+   "osis": "Gen.24.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כד",
+   "osis": "Gen.24.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "14 now may it be that the girl to whom I say, ‘Please let down your jar so that I may drink,’ and who answers, ‘Drink, and I will water your camels also’ —may she be the one whom You have appointed for Your servant Isaac; and by this I will know that You have shown lovingkindness to my master.”",
+   "osis": "Gen.24.14"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "15 Before he had finished speaking, behold, Rebekah who was born to Bethuel the son of Milcah, the wife of Abraham’s brother Nahor, came out with her jar on her shoulder.",
+   "osis": "Gen.24.15"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "16 The girl was very beautiful, a virgin, and no man had had relations with her; and she went down to the spring and filled her jar and came up.",
+   "osis": "Gen.24.16"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 24 / בראשית כד",
+   "osis": [
+    "Gen.24.14",
+    "Gen.24.15",
+    "Gen.24.16"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Rebekah",
+   "Isaac",
+   "Abraham",
+   "Eliezer",
+   "Bethuel",
+   "Milcah",
+   "Nahor",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Finding a bride for Isaac"
+  ],
+  "things": [
+   "jar",
+   "camels",
+   "spring"
+  ],
+  "themes": [
+   "prayer",
+   "marriage",
+   "faith",
+   "virgin"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Rebekah at the well",
+  "Rebecca",
+  "servant's prayer",
+  "let down your pitcher",
+  "water your camels",
+  "bride for Isaac",
+  "Bethuel",
+  "Milcah",
+  "Nahor",
+  "virgin",
+  "very fair to look upon",
+  "lovingkindness",
+  "Genesis 24",
+  "Genesis 24:14",
+  "Genesis 24:16"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,147 @@
+{
+ "id": "genesis-1-1-part-1/109",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Deuteronomy 18:18 (a prophet like Moses) above Genesis 1:1 in colour",
+ "summary": "Deuteronomy 18:18 in English and Hebrew (I will raise up a prophet like you, put My words in his mouth) above Genesis 1:1 in Hebrew, with each word colour-coded, its transliteration above it and a row of small coloured arrows under each word.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Deuteronomy 18:18",
+   "osis": "Deut.18.18"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "דברים יח:יח",
+   "osis": "Deut.18.18"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "'I will raise up a prophet from among their countrymen like you, and I will put My words in his mouth, and he shall speak to them all that I command him.",
+   "osis": "Deut.18.18"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "נביא אקים להם מקרב אחיהם כמוך ונתתי דברי בפיו ודבר אליהם את כל־אשר אצונו׃",
+   "osis": "Deut.18.18"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "translit",
+   "role": "verse",
+   "text": "ha'aretz v'et hashamayim et elohim bara bereshit",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃",
+   "osis": "Gen.1.1"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Deuteronomy 18:18 / דברים יח:יח",
+   "osis": [
+    "Deut.18.18"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [
+  {
+   "en": "bereshit",
+   "other": "בראשית"
+  },
+  {
+   "en": "bara",
+   "other": "ברא"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  },
+  {
+   "en": "et",
+   "other": "את"
+  },
+  {
+   "en": "hashamayim",
+   "other": "השמים"
+  },
+  {
+   "en": "v'et",
+   "other": "ואת"
+  },
+  {
+   "en": "ha'aretz",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Moses"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "prophecy",
+   "messianic prophecy",
+   "Torah",
+   "creation"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Deuteronomy 18:18",
+  "prophet like Moses",
+  "I will put my words in his mouth",
+  "raise up a prophet",
+  "Genesis 1:1",
+  "bereshit bara elohim",
+  "in his mouth",
+  "Hebrew word by word",
+  "colour-coded Hebrew",
+  "words in his mouth",
+  "messianic prophecy",
+  "transliteration of Genesis 1:1"
+ ],
+ "uncertain": [
+  "Small coloured arrows under each word of Genesis 1:1 are decorative/unexplained on this slide."
+ ],
+ "confidence": 0.92
+}

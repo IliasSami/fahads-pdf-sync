@@ -1,0 +1,160 @@
+{
+ "id": "gods-garden-in-eden/15",
+ "kinds": [
+  "word-study",
+  "letters"
+ ],
+ "title": "Genesis 1:1 — last letters of bereshit, bara, elohim: ת א ם",
+ "summary": "The first words of Genesis 1:1 (In beginning, created, God ...) in English, transliteration and Hebrew, colour-matched, with the final letter of each Hebrew word (ת, א, ם) underlined and pulled out below with arrows.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "… God   created   In beginning"
+  },
+  {
+   "lang": "translit",
+   "role": "body",
+   "text": "… elohim   bara   bereshit"
+  },
+  {
+   "lang": "he",
+   "role": "body",
+   "text": "בראשית ברא אלהים …"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ם א ת"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  },
+  {
+   "en": "bara",
+   "other": "ברא"
+  },
+  {
+   "en": "bereshit",
+   "other": "בראשית"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last letter of בראשית (red, underlined)"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "last letter of ברא (blue, underlined)"
+  },
+  {
+   "lang": "he",
+   "letter": "mem (final)",
+   "char": "ם",
+   "value": 40,
+   "meaning": "last letter of אלהים (yellow, underlined)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "Hebrew letter meanings",
+   "names of God",
+   "Bible codes"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "in the beginning",
+  "bereshit",
+  "bara",
+  "elohim",
+  "God created",
+  "last letters",
+  "final letters",
+  "tav alef mem",
+  "Hebrew word study",
+  "first verse of the Bible",
+  "colour coded Hebrew"
+ ],
+ "uncertain": [
+  "Large bold initial letter ב in בראשית and bold initial b in 'bereshit' are decorative emphasis."
+ ],
+ "confidence": 0.93
+}

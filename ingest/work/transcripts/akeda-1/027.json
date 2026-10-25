@@ -1,0 +1,61 @@
+{
+ "id": "akeda-1/27",
+ "kinds": [
+  "text",
+  "comparison"
+ ],
+ "title": "Believer Says: Adonai! Agnostic Says: I dunno?",
+ "summary": "Builds on the previous slide: adds the line 'Agnostic Says: I dunno?', with 'I dunno?' in grey, under 'Believer Says: Adonai!' in purple.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Believer Says: Adonai!"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Agnostic Says: I dunno?"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדני",
+   "translit": "adonai",
+   "gloss": "Lord",
+   "strongs": "H136"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "faith"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Adonai",
+  "Lord",
+  "believer",
+  "agnostic",
+  "I dunno",
+  "I don't know",
+  "doubt",
+  "what an agnostic says",
+  "believer vs agnostic vs atheist"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

@@ -1,0 +1,141 @@
+{
+ "id": "genesis-1-1-part-2/78",
+ "kinds": [
+  "diagram",
+  "word-study"
+ ],
+ "title": "Bereshit is a Perfect Number: 6 letters in a triangle",
+ "summary": "Genesis 1:1 header, then the claim that Bereshit (בראשית) is a perfect number. The six letters of the word are arranged in a red triangle (ב / ר א / ש י ת), followed by the factors of 6 (6 x 1, 2 x 3) and the sum 6 = 1 + 2 + 3.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "Bereshit"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בראשית"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "is a Perfect Number."
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ר א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש י ת"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Factors of 6     6 x 1     2 x 3"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "6 = 1 + 2 + 3"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 6,
+   "note": "number of letters in בראשית; a perfect number: 6 = 1 + 2 + 3 (factors 6 x 1, 2 x 3)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "The six red Hebrew letters of בראשית arranged in a three-row triangle: ב on top, then ר and א, then ת, י and ש along the bottom (read right to left as ש י ת).",
+   "subjects": [
+    "Hebrew letters",
+    "triangle",
+    "bereshit",
+    "red letters",
+    "perfect number"
+   ],
+   "text_in_picture": "ב ר א ש י ת",
+   "credit": null,
+   "box": [
+    0.4,
+    0.27,
+    0.65,
+    0.58
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "triangle"
+  ],
+  "themes": [
+   "perfect number",
+   "Hebrew letter patterns",
+   "gematria",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "bereshit",
+  "bereshit perfect number",
+  "perfect number 6",
+  "in the beginning",
+  "Genesis 1:1",
+  "factors of 6",
+  "1+2+3",
+  "six letters",
+  "triangle of letters",
+  "בראשית",
+  "mathematics of Genesis 1:1"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

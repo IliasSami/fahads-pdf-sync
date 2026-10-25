@@ -1,0 +1,114 @@
+{
+ "id": "elijah-elisha/87",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 Kings 18:44-46 — Elijah outruns Ahab to Jezreel (miracle #5)",
+ "summary": "Same text of 1 Kings 18:44-46 (the small cloud, the heavy rain and Elijah outrunning Ahab to Jezreel), now with verse 46 underlined and marked #5, the fifth of Elijah's miracles. The names LORD and Elijah are coloured.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 18:44-46",
+   "osis": [
+    "1Kgs.18.44",
+    "1Kgs.18.45",
+    "1Kgs.18.46"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א יח:מד-מו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "44 It came about at the seventh time, that he said, “Behold, a cloud as small as a man’s hand is coming up from the sea.” And he said, “Go up, say to Ahab, ‘Prepare your chariot and go down, so that the heavy shower does not stop you.’”",
+   "osis": "1Kgs.18.44"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "45 In a little while the sky grew black with clouds and wind, and there was a heavy shower. And Ahab rode and went to Jezreel.",
+   "osis": "1Kgs.18.45"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "46 Then the hand of the LORD was on Elijah, and he girded up his loins and outran Ahab to Jezreel.",
+   "osis": "1Kgs.18.46"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "#5"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 18:44-46 / מלכים א יח:מד-מו",
+   "osis": [
+    "1Kgs.18.44",
+    "1Kgs.18.45",
+    "1Kgs.18.46"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 5,
+   "note": "#5: the fifth of Elijah's eight miracles (outran Ahab's chariot)"
+  },
+  {
+   "value": 7,
+   "note": "the cloud appears at the seventh time"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah",
+   "Ahab",
+   "God"
+  ],
+  "places": [
+   "Jezreel",
+   "Mount Carmel"
+  ],
+  "events": [
+   "end of the drought",
+   "Elijah outruns Ahab's chariot"
+  ],
+  "things": [
+   "cloud",
+   "chariot",
+   "rain"
+  ],
+  "themes": [
+   "prophecy",
+   "miracles",
+   "faith"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Elijah miracle 5",
+  "outran Ahab's chariot",
+  "hand of the LORD was on Elijah",
+  "girded up his loins",
+  "ran before Ahab to Jezreel",
+  "cloud like a man's hand",
+  "heavy shower",
+  "1 Kings 18:46",
+  "Jezreel",
+  "Elijah's eight miracles",
+  "1 Kings 18"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

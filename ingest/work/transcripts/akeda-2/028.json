@@ -1,0 +1,135 @@
+{
+ "id": "akeda-2/28",
+ "kinds": [
+  "word-study",
+  "letters"
+ ],
+ "title": "Teshuva (תשובה): repentance means \"return\"",
+ "summary": "Teshuva (תשובה), repentance or \"Return\", is called one way of atoning for sin; the letters bet and shin (shav) are shown spelling \"Return\".",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "teshuva"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "תשובה"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Repentance"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "“Return”"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "One way of atoning for sin"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב ש"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shin"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "s h a v"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Return"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תשובה",
+   "translit": "teshuvah",
+   "gloss": "repentance, return",
+   "strongs": "H8666"
+  },
+  {
+   "lang": "he",
+   "word": "שב",
+   "translit": "shav",
+   "gloss": "return",
+   "strongs": "H7725"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "teshuva",
+   "other": "תשובה"
+  },
+  {
+   "en": "Return",
+   "other": "שב"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "(red letter; with shin spells shav, return)"
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "(with bet spells shav, return)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "repentance",
+   "atonement",
+   "sin",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "teshuva",
+  "teshuvah",
+  "repentance",
+  "return",
+  "turn back",
+  "atoning for sin",
+  "atonement",
+  "shav",
+  "bet",
+  "shin",
+  "repent",
+  "Hebrew word for repentance"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

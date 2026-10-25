@@ -1,0 +1,22 @@
+{
+  "id": "akeda-2/8",
+  "kinds": ["picture"],
+  "title": "Photo: uniformed guards at the Damascus Gate, Jerusalem",
+  "summary": "Dusk photograph of the Damascus Gate in Jerusalem, with a blue circle drawn around three uniformed security personnel standing guard in front of the gate.",
+  "text": [
+    {"lang": "en", "role": "caption", "text": "Damascus Gate"},
+    {"lang": "en", "role": "caption", "text": "Jerusalem, Israel"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [
+    {"type": "photo", "description": "Photo of the floodlit Damascus Gate at dusk under a deep blue sky, seen from across the road behind a metal fence; a car blurs past on the left. A blue circle highlights three men in dark green uniforms, one carrying a backpack, standing guard by the railings in front of the gate; civilians stand nearby.", "subjects": ["Damascus Gate", "Jerusalem", "security guards", "soldiers", "uniforms", "city gate", "dusk"], "text_in_picture": "", "credit": null, "box": [0.0, 0.0, 0.755, 1.0]}
+  ],
+  "entities": {"people": [], "places": ["Damascus Gate", "Jerusalem", "Israel"], "events": [], "things": ["gate", "city wall"], "themes": [], "groups": []},
+  "keywords": ["Damascus Gate", "Jerusalem", "Old City", "guards at the gate", "soldiers", "police", "security", "possess the gate of their enemies", "Israel", "photo"],
+  "uncertain": ["The circled figures appear to be uniformed security forces (soldiers or police); the photo is not sharp enough to say which."],
+  "confidence": 0.88
+}

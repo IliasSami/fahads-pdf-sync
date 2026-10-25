@@ -1,0 +1,241 @@
+{
+ "id": "elijah-elisha/20",
+ "kinds": [
+  "table",
+  "comparison"
+ ],
+ "title": "A Prophet Like Unto Moses: Moses / Yeshua checklist (part 3)",
+ "summary": "Hebrew of Deuteronomy 18:18 (a prophet I will raise up for them from among their brothers, like you) across the top, with 'A Prophet' and 'Like you' in English, then a third checklist of 20 more Moses / Yeshua parallels such as turning water to blood/wine, a powerful staff, applying blood on crossbeams, fasting 40 days and 40 nights, and the representation of sin on a pole. Every row is ticked blue for Moses and red for Yeshua.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "נביא אקים להם מקרב אחיהם כמוך..."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "A Prophet"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Like you"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "—דברים יח:יח",
+   "osis": "Deut.18.18"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "moshe"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yeshua"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Turned Water to Blood / Wine"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Liberated Men to Serve God"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Has a Powerful Staff"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Applied Blood on Crossbeams"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Instructed to Remember Passover"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Controlled Large Bodies of Water"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Provides Water when Asked"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Fed Multitudes Supernaturally"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Fed Supernaturally Again"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Miraculous Feeding at Night"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Stoning Threaten by his Own"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Defeats Enemy / Raised Arms"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Spoke Words God Gave him"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Mediator between God & Man"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Offered Self for others’ sins"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Had a Place Outside of Camp"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Knew How to Write & Wrote"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Fasted 40 Days & 40 Nights"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Was Criticized by his Siblings"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "He Provided Light"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Representation of Sin on Pole"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "✔ ✔ (every row ticked blue for moshe and red for yeshua)"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Deuteronomy 18:18 / דברים יח:יח",
+   "osis": [
+    "Deut.18.18"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "נביא",
+   "translit": "navi",
+   "gloss": "prophet",
+   "strongs": "H5030"
+  },
+  {
+   "lang": "he",
+   "word": "כמוך",
+   "translit": "kamocha",
+   "gloss": "like you",
+   "strongs": "H3644"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "A Prophet",
+   "other": "נביא"
+  },
+  {
+   "en": "Like you",
+   "other": "כמוך"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 40,
+   "note": "Fasted 40 days and 40 nights"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Moses",
+   "Jesus",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Passover"
+  ],
+  "things": [
+   "staff",
+   "blood",
+   "water",
+   "manna",
+   "serpent on a pole"
+  ],
+  "themes": [
+   "prophecy",
+   "messianic prophecy",
+   "typology",
+   "blood",
+   "sacrifice",
+   "light and darkness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "prophet like Moses",
+  "Moses and Jesus parallels",
+  "Deuteronomy 18:18",
+  "navi akim lahem",
+  "water to blood",
+  "water to wine",
+  "fasted 40 days and 40 nights",
+  "sin on a pole",
+  "brazen serpent",
+  "feeding multitudes",
+  "mediator between God and man",
+  "checklist",
+  "type of Christ"
+ ],
+ "uncertain": [
+  "The first English word 'Like' appears with a light-blue L and y, matching the Hebrew כמוך colour; 'A Prophet' is gold like נביא."
+ ],
+ "confidence": 0.93
+}

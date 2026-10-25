@@ -1,0 +1,34 @@
+{
+  "id": "fall-of-man/57",
+  "kinds": ["word-study", "humor"],
+  "title": "Garden of Eden (gan eden), Garden of Light (ore gan) — “Oregon”",
+  "summary": "A word-play joke: Garden of Eden is גן־עדן (gan eden); Garden of Light is גן־אור, read here as “ore gan,” which sounds like Oregon — shown with “Ore” in the gold of light and “gon” in the green of garden.",
+  "text": [
+    {"lang": "en", "role": "label", "text": "Garden of Eden"},
+    {"lang": "he", "role": "label", "text": "גן־עדן"},
+    {"lang": "translit", "role": "label", "text": "gan eden"},
+    {"lang": "en", "role": "label", "text": "Garden of Light"},
+    {"lang": "he", "role": "label", "text": "גן־אור"},
+    {"lang": "translit", "role": "label", "text": "ore gan"},
+    {"lang": "en", "role": "heading", "text": "Oregon"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "גן־עדן", "translit": "gan eden", "gloss": "Garden of Eden", "strongs": "H1588"},
+    {"lang": "he", "word": "גן־אור", "translit": "gan ore", "gloss": "Garden of Light", "strongs": "H216"}
+  ],
+  "color_links": [
+    {"en": "Garden", "other": "גן"},
+    {"en": "Eden", "other": "עדן"},
+    {"en": "Light", "other": "אור"},
+    {"en": "Ore", "other": "אור"},
+    {"en": "gon", "other": "גן"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": [], "places": ["Garden of Eden", "Oregon"], "events": [], "things": ["light"], "themes": ["humor", "Hebrew wordplay", "light and darkness"], "groups": []},
+  "keywords": ["Oregon", "Garden of Light", "Garden of Eden", "gan eden", "gan or", "ore gan", "or", "ohr", "light", "garden", "pun", "joke", "wordplay", "funny"],
+  "uncertain": [],
+  "confidence": 0.95
+}

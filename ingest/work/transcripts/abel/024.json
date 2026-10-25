@@ -1,0 +1,136 @@
+{
+  "id": "abel/24",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:1 — Eve says: “I have obtained a man”; amar = say",
+  "summary": "Genesis 4:1 in English and Hebrew: Adam knew Eve, she conceived and bore Cain and said she had obtained a man with the help of the LORD. The words \"and she said\" (ותאמר) are colour-coded, and the root אמר (amar, \"Say\") is shown large below.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:1",
+      "osis": "Gen.4.1"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:א"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "1 And the man knew Eve [chava] his wife, and she conceived and gave birth to Cain, and she said, “I have obtained a man with the help of the LORD.”",
+      "osis": "Gen.4.1"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "1 והאדם ידע את חוה אשתו ותהר ותלד את קין ותאמר קניתי איש את יהוה׃",
+      "osis": "Gen.4.1"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "amar"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "אמר"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Say"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:1 / בראשית ד:א",
+      "osis": [
+        "Gen.4.1"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "אמר",
+      "translit": "amar",
+      "gloss": "say / said",
+      "strongs": "H559"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "and",
+      "other": "ו"
+    },
+    {
+      "en": "she",
+      "other": "ת"
+    },
+    {
+      "en": "said",
+      "other": "אמר"
+    },
+    {
+      "en": "amar",
+      "other": "אמר"
+    },
+    {
+      "en": "Say",
+      "other": "אמר"
+    },
+    {
+      "en": "L (LORD)",
+      "other": "י"
+    },
+    {
+      "en": "R (LORD)",
+      "other": "ו"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Eve",
+      "Cain",
+      "Adam",
+      "God"
+    ],
+    "places": [],
+    "events": [
+      "Cain and Abel's birth"
+    ],
+    "things": [],
+    "themes": [
+      "firstborn",
+      "marriage"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Genesis 4:1",
+    "Adam knew Eve",
+    "Eve conceived",
+    "birth of Cain",
+    "I have gotten a man from the LORD",
+    "I have obtained a man",
+    "Cain",
+    "Eve",
+    "chava",
+    "first son",
+    "amar",
+    "say",
+    "she said",
+    "ותאמר"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

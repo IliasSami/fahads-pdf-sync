@@ -1,0 +1,152 @@
+{
+ "id": "akeda-2/95",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Beer-lahai-roi broken down: beer = Well, l'chai = Living One",
+ "summary": "Genesis 24:62 in English with the start of the word-by-word breakdown of beer-lahai-roi: beer (באר) = Well in blue and l'chai (לחי) = Living One in green. The third part, roee, has not yet appeared on this slide.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 24",
+   "osis": "Gen.24.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כד",
+   "osis": "Gen.24.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "62 Now Isaac had come from going to Beer-lahai-roi; for he was living in the Negev.",
+   "osis": "Gen.24.62"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "beer-lahai-roi"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "beer"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "באר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Well"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "l’chai"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "לחי"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Living One"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 24 / בראשית כד",
+   "osis": [
+    "Gen.24.62"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "באר",
+   "translit": "beer",
+   "gloss": "well",
+   "strongs": "H875"
+  },
+  {
+   "lang": "he",
+   "word": "לחי",
+   "translit": "l'chai",
+   "gloss": "Living One",
+   "strongs": "H2416"
+  },
+  {
+   "lang": "en",
+   "word": "Beer-lahai-roi",
+   "translit": "beer-lahai-roi",
+   "gloss": "well of the Living One who sees me",
+   "strongs": "H883"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "beer",
+   "other": "באר"
+  },
+  {
+   "en": "Well",
+   "other": "באר"
+  },
+  {
+   "en": "l’chai",
+   "other": "לחי"
+  },
+  {
+   "en": "Living One",
+   "other": "לחי"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Isaac"
+  ],
+  "places": [
+   "Beer-lahai-roi",
+   "Negev"
+  ],
+  "events": [],
+  "things": [
+   "well"
+  ],
+  "themes": [
+   "names of God",
+   "life",
+   "water"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Beer-lahai-roi",
+  "Beer Lahai Roi",
+  "well of the Living One",
+  "beer means well",
+  "chai living",
+  "l'chai",
+  "Living One",
+  "Lahai-roi",
+  "Isaac in the Negev",
+  "Genesis 24",
+  "Genesis 24:62",
+  "Genesis 16:14"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

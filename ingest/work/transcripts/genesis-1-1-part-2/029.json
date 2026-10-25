@@ -1,0 +1,211 @@
+{
+ "id": "genesis-1-1-part-2/29",
+ "kinds": [
+  "verse",
+  "word-study",
+  "diagram"
+ ],
+ "title": "Genesis 1:1 word by word above a menorah drawn in Stars of David",
+ "summary": "Genesis 1:1 in rainbow colours, one colour per Hebrew word, with the word “the” after “In” crossed out. Lines of English, transliteration and Hebrew are numbered 1 to 7, and underneath is a seven-branched menorah built out of small blue Stars of David. The “the” before heavens and earth and the “ha” in ha'aretz and hashamayim are underlined.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "In ~~the~~ beginning God created the heavens and the earth."
+  },
+  {
+   "lang": "translit",
+   "role": "table",
+   "text": "bereshit | bara | elohim | et | hashamayim | v’et | ha’aretz"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1 2 3 4 5 6 7"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 (no reference shown)",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(untranslated object marker)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "v’et",
+   "gloss": "and (et)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha’aretz",
+   "gloss": "the earth",
+   "strongs": "H776"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "bereshit",
+   "other": "בראשית"
+  },
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "bara",
+   "other": "ברא"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  },
+  {
+   "en": "et",
+   "other": "את"
+  },
+  {
+   "en": "heavens",
+   "other": "השמים"
+  },
+  {
+   "en": "hashamayim",
+   "other": "השמים"
+  },
+  {
+   "en": "v’et",
+   "other": "ואת"
+  },
+  {
+   "en": "earth",
+   "other": "הארץ"
+  },
+  {
+   "en": "ha’aretz",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "the seven Hebrew words of Genesis 1:1, numbered 1 to 7, matched to the seven branches of the menorah"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A seven-branched menorah drawn with small blue Stars of David and slash characters: a vertical centre stem with three curved branches on each side and a flat base, with the numbers 1 to 7 above the seven branches.",
+   "subjects": [
+    "menorah",
+    "Star of David",
+    "seven branches",
+    "candlestick",
+    "diagram"
+   ],
+   "text_in_picture": "7 6 5 4 3 2 1",
+   "credit": null,
+   "box": [
+    0.24,
+    0.3,
+    0.76,
+    0.88
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "menorah",
+   "heavens",
+   "earth"
+  ],
+  "themes": [
+   "creation",
+   "Hebrew word study",
+   "temple"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "In the beginning",
+  "Bereshit",
+  "seven words",
+  "menorah",
+  "Star of David",
+  "seven branches",
+  "crossed out the",
+  "definite article ha",
+  "bara",
+  "elohim",
+  "hashamayim",
+  "ha'aretz",
+  "colour-coded words",
+  "created the heavens and the earth"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

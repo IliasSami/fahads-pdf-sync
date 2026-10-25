@@ -1,0 +1,106 @@
+{
+ "id": "genesis-1-1-wisdom/53",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Proverbs 8:32-36 — blessed are those who keep wisdom's ways; finds me finds life",
+ "summary": "Proverbs 8:32-36 in English, the end of Wisdom's speech: blessed are those who listen and keep her ways, whoever finds her finds life and favor from the LORD, and those who hate her love death. 'Wise' and the divine name LORD are shown in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Proverbs 8",
+   "osis": "Prov.8.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "משלי ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "32 “Now therefore, listen to me, my children, for blessed are those who keep my ways.",
+   "osis": "Prov.8.32"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "33 Hear instruction and be wise, and do not disdain it.",
+   "osis": "Prov.8.33"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "34 Blessed is the man who listens to me, watching daily at my gates, waiting at the posts of my doors.",
+   "osis": "Prov.8.34"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "35 For whoever finds me finds life, and obtains favor from the LORD;",
+   "osis": "Prov.8.35"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "36 But he who sins against me wrongs his own soul; all those who hate me love death.”",
+   "osis": "Prov.8.36"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Proverbs 8 / משלי ח",
+   "osis": [
+    "Prov.8.32",
+    "Prov.8.33",
+    "Prov.8.34",
+    "Prov.8.35",
+    "Prov.8.36"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "gates",
+   "doors"
+  ],
+  "themes": [
+   "wisdom",
+   "blessing",
+   "instruction",
+   "life",
+   "death",
+   "sin",
+   "favor"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Proverbs 8",
+  "Proverbs 8:35",
+  "whoever finds me finds life",
+  "favor from the LORD",
+  "hear instruction and be wise",
+  "blessed are those who keep my ways",
+  "watching daily at my gates",
+  "waiting at the posts of my doors",
+  "those who hate me love death",
+  "sins against me wrongs his own soul",
+  "lady wisdom",
+  "listen to me my children"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

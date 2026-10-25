@@ -1,0 +1,22 @@
+{
+  "id": "akeda-2/121",
+  "kinds": ["verse"],
+  "title": "Did Abraham truly love Isaac? Genesis 21:8 — a great feast at Isaac's weaning",
+  "summary": "Continues the question of whether Abraham truly loved Isaac with Genesis 21:8: when Isaac was weaned, Abraham made a great feast.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Did Abraham truly love Isaac?"},
+    {"lang": "en", "role": "reference", "text": "Genesis 21:8", "osis": "Gen.21.8"},
+    {"lang": "he", "role": "reference", "text": "בראשית כא:ח", "osis": "Gen.21.8"},
+    {"lang": "en", "role": "verse", "text": "8 The child grew and was weaned, and Abraham made a great feast on the day that Isaac was weaned.", "osis": "Gen.21.8"}
+  ],
+  "refs": [{"shown": "Genesis 21:8 / בראשית כא:ח", "osis": ["Gen.21.8"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac"], "places": [], "events": ["Isaac's weaning feast"], "things": ["feast"], "themes": ["love", "father and son"], "groups": []},
+  "keywords": ["Did Abraham love Isaac", "Abraham's love for Isaac", "weaned", "weaning feast", "great feast", "celebration", "child grew", "Genesis 21", "father and son"],
+  "uncertain": [],
+  "confidence": 0.96
+}

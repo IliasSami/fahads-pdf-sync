@@ -1,0 +1,106 @@
+{
+  "id": "akeda-2/130",
+  "kinds": [
+    "comparison",
+    "text"
+  ],
+  "title": "The Binding of Isaac and Yeshua: a first-born son willingly obeys his father",
+  "summary": "Side-by-side comparison under העקדה (The Akedah): Isaac, a first-born male, willingly follows his father's instructions; Yeshua, a first-born male, willingly follows His Father's instructions.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "The Binding of Isaac"
+    },
+    {
+      "lang": "he",
+      "role": "heading",
+      "text": "ה ע ק ד ה"
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "The Akedah"
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "The Binding of yeshua"
+    },
+    {
+      "lang": "en",
+      "role": "body",
+      "text": "Isaac, a first-born male, willingly follows his father’s instructions."
+    },
+    {
+      "lang": "en",
+      "role": "body",
+      "text": "yeshua, a first-born male, willingly follows His Father’s instructions."
+    }
+  ],
+  "refs": [],
+  "words": [
+    {
+      "lang": "he",
+      "word": "העקדה",
+      "translit": "ha-akedah",
+      "gloss": "the binding",
+      "strongs": "H6123",
+      "gematria": null
+    }
+  ],
+  "color_links": [
+    {
+      "en": "The",
+      "other": "ה"
+    },
+    {
+      "en": "Akedah",
+      "other": "עקדה"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Abraham",
+      "Isaac",
+      "God",
+      "Jesus"
+    ],
+    "places": [],
+    "events": [
+      "Binding of Isaac (Akedah)",
+      "Crucifixion"
+    ],
+    "things": [],
+    "themes": [
+      "typology",
+      "sacrifice",
+      "firstborn",
+      "obedience",
+      "father and son"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Akedah",
+    "Akeda",
+    "binding of Isaac",
+    "binding of Yeshua",
+    "Yeshua",
+    "Jesus",
+    "Isaac as a type of Christ",
+    "Isaac and Jesus compared",
+    "parallels",
+    "first-born male",
+    "firstborn son",
+    "willing sacrifice",
+    "obedient son",
+    "father's instructions",
+    "not my will but thine"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

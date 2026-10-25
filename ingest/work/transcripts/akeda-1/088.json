@@ -1,0 +1,35 @@
+{
+  "id": "akeda-1/88",
+  "kinds": ["verse", "comparison"],
+  "title": "Isaac carries the wood; Jesus bears His cross (Gen 22:6 & John 19:17)",
+  "summary": "Pairs Genesis 22:6, where Abraham lays the wood of the burnt offering on Isaac his son, with John 19:17, where Jesus goes out bearing His cross to the place of the skull, called Golgotha in Hebrew.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22", "osis": "Gen.22.1"},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב"},
+    {"lang": "en", "role": "heading", "text": "The Akedah"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.6", "text": "6 Abraham took the wood of the burnt offering and laid it on Isaac his son, and he took in his hand the fire and the knife. So the two of them walked on together."},
+    {"lang": "en", "role": "reference", "text": "John 19:17", "osis": "John.19.17"},
+    {"lang": "el", "role": "reference", "text": "Ἰωάνης 19:17", "osis": "John.19.17"},
+    {"lang": "en", "role": "verse", "osis": "John.19.17", "text": "17 And He bearing His cross went forth into a place called the place of the skull, which is called in the Hebrew Golgotha:"}
+  ],
+  "refs": [
+    {"shown": "Genesis 22 / בראשית כב", "osis": ["Gen.22.1"], "role": "cited"},
+    {"shown": "Genesis 22:6", "osis": ["Gen.22.6"], "role": "quoted"},
+    {"shown": "John 19:17 / Ἰωάνης 19:17", "osis": ["John.19.17"], "role": "quoted"}
+  ],
+  "words": [
+    {"lang": "he", "word": "העקדה", "translit": "ha-Akedah", "gloss": "the binding", "strongs": "H6123"},
+    {"lang": "en", "word": "Golgotha", "translit": "Golgotha", "gloss": "place of the skull", "strongs": "G1115"}
+  ],
+  "color_links": [
+    {"en": "The Akedah", "other": "ה ע ק ד ה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac", "Jesus"], "places": ["Golgotha"], "events": ["Binding of Isaac (Akedah)", "Crucifixion"], "things": ["wood", "cross", "fire", "knife", "burnt offering"], "themes": ["sacrifice", "typology", "father and son"], "groups": []},
+  "keywords": ["Akedah", "Akeda", "binding of Isaac", "Genesis 22:6", "John 19:17", "Isaac carried the wood", "Jesus carried his cross", "bearing his cross", "Golgotha", "place of the skull", "Calvary", "Isaac as a type of Christ", "wood and the cross"],
+  "uncertain": [],
+  "confidence": 0.95
+}

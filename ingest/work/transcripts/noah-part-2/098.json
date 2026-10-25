@@ -1,0 +1,132 @@
+{
+ "id": "noah-part-2/98",
+ "kinds": [
+  "title",
+  "word-study"
+ ],
+ "title": "The 7 Noachide Laws (sheva mitzvot b'nei noah)",
+ "summary": "Introduces the seven Noachide Laws, the seven commandments the Torah is said to give to Gentiles, applying to all mankind descended from Noah. Shows the Hebrew name שבע מצוות בני נח, with 'seven' and the 'No' of Noah picked out in colour, and a note citing Sanhedrin 58b of the Talmud.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The 7 Noachide Laws"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "sheva mitzvot b'nei noah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שבע מצוות בני נח"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The Torah* gives seven laws מצוות mitzvot for Gentiles to observe. These seven laws apply to all mankind who are all descended from Noah; ergo, Noachide Laws."
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "*according to Sanhedrin 58b of the Talmud"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שבע",
+   "translit": "sheva",
+   "gloss": "seven",
+   "strongs": "H7651",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "מצוות",
+   "translit": "mitzvot",
+   "gloss": "commandments, laws",
+   "strongs": "H4687",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "בני נח",
+   "translit": "b'nei noah",
+   "gloss": "sons of Noah",
+   "strongs": "H5146",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "נח",
+   "translit": "noah",
+   "gloss": "Noah",
+   "strongs": "H5146",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "sheva",
+   "other": "שבע"
+  },
+  {
+   "en": "seven",
+   "other": "שבע"
+  },
+  {
+   "en": "7",
+   "other": "שבע"
+  },
+  {
+   "en": "No (in Noah)",
+   "other": "נ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "the seven Noachide Laws (sheva mitzvot b'nei noah)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "Talmud",
+   "Torah"
+  ],
+  "themes": [
+   "Torah",
+   "holiness",
+   "obedience"
+  ],
+  "groups": [
+   "Gentiles"
+  ]
+ },
+ "keywords": [
+  "Noachide Laws",
+  "Noahide Laws",
+  "Noahic laws",
+  "seven laws of Noah",
+  "7 laws for Gentiles",
+  "sheva mitzvot b'nei noah",
+  "sons of Noah",
+  "mitzvot for Gentiles",
+  "Sanhedrin 58b",
+  "Talmud",
+  "commandments for non-Jews",
+  "descendants of Noah"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

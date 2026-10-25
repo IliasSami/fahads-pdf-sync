@@ -1,0 +1,164 @@
+{
+ "id": "akeda-2/19",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 22:13 — Abraham sees a ram and offers it in place of his son",
+ "summary": "The Akedah: Genesis 22:13 in English and Hebrew. Abraham raises his eyes, sees a ram caught in the thicket by its horns, takes the ram and offers it up as a burnt offering in place of his son. The word את (et) is shown before 'his eyes' and 'the ram', underlined in brown and grey with the matching Hebrew words.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22",
+   "osis": "Gen.22.1"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ה ע ק ד ה"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Akedah"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.13",
+   "text": "13 Then Abraham raised את his eyes and looked, and behold, behind him a ram caught in the thicket by his horns; and Abraham went and took את the ram and offered him up for a burnt offering in place of his son."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.22.13",
+   "text": "13 וישא אברהם את־עיניו וירא והנה־איל אחר נאחז בסבך בקרניו וילך אברהם ויקח את־האיל ויעלהו לעלה תחת בנו׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22 / בראשית כב",
+   "osis": [
+    "Gen.22.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 22:13 (verse number 13)",
+   "osis": [
+    "Gen.22.13"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "העקדה",
+   "translit": "ha'akedah",
+   "gloss": "the Akedah (the binding)",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "alef-tav; untranslated direct-object marker before his eyes and the ram",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "עיניו",
+   "translit": "einav",
+   "gloss": "his eyes",
+   "strongs": "H5869"
+  },
+  {
+   "lang": "he",
+   "word": "האיל",
+   "translit": "ha'ayil",
+   "gloss": "the ram",
+   "strongs": "H352"
+  },
+  {
+   "lang": "he",
+   "word": "ויעלהו",
+   "translit": "va-ya'alehu",
+   "gloss": "and he offered him up",
+   "strongs": "H5927"
+  },
+  {
+   "lang": "he",
+   "word": "לעלה",
+   "translit": "le'olah",
+   "gloss": "for a burnt offering",
+   "strongs": "H5930"
+  },
+  {
+   "lang": "he",
+   "word": "תחת בנו",
+   "translit": "tachat beno",
+   "gloss": "in place of his son",
+   "strongs": "H8478"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "his eyes",
+   "other": "עיניו"
+  },
+  {
+   "en": "the ram",
+   "other": "האיל"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Abraham",
+   "Isaac"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "ram",
+   "thicket",
+   "burnt offering"
+  ],
+  "themes": [
+   "substitution",
+   "sacrifice",
+   "faith"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 22:13",
+  "Genesis 22",
+  "Akedah",
+  "Akeda",
+  "binding of Isaac",
+  "העקדה",
+  "ram caught in the thicket",
+  "ram in the thicket by his horns",
+  "burnt offering in place of his son",
+  "in the stead of his son",
+  "substitute sacrifice",
+  "lifted up his eyes",
+  "et",
+  "alef tav",
+  "aleph tav"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

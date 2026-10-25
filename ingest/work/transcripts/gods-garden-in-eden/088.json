@@ -1,0 +1,152 @@
+{
+ "id": "gods-garden-in-eden/88",
+ "kinds": [
+  "verse",
+  "word-study",
+  "letters"
+ ],
+ "title": "Genesis 2:11 — Pishon 'flows around' (sabab, to go around, encircle); samekh as a circle",
+ "summary": "Genesis 2:11 in English and Hebrew about the river Pishon flowing around the whole land of Havilah, where there is gold. The samekh (ס) is highlighted in green in the English word 'around' and in the Hebrew הסבב, with sabab (סבב) defined as 'to go around, encircle'; samekh is drawn as a green circle.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:11",
+   "osis": "Gen.2.11"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ס"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "11 The name of the first is Pishon; it flows around the whole land of Havilah, where there is gold.",
+   "osis": "Gen.2.11"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "שם האחד פישון הוא הסבב את כל־ארץ החוילה אשר־שם הזהב׃",
+   "osis": "Gen.2.11"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "sabab"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "סבב"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "to go around, encircle"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:11 / בראשית ב:יא",
+   "osis": [
+    "Gen.2.11"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "סבב",
+   "translit": "sabab",
+   "gloss": "to go around, encircle",
+   "strongs": "H5437"
+  },
+  {
+   "lang": "he",
+   "word": "פישון",
+   "translit": "Pishon",
+   "gloss": "Pishon (river)",
+   "strongs": "H6376"
+  },
+  {
+   "lang": "he",
+   "word": "החוילה",
+   "translit": "haChavilah",
+   "gloss": "the land of Havilah",
+   "strongs": "H2341"
+  },
+  {
+   "lang": "he",
+   "word": "הזהב",
+   "translit": "hazahav",
+   "gloss": "the gold",
+   "strongs": "H2091"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "o (around)",
+   "other": "ס"
+  },
+  {
+   "en": "s (sabab)",
+   "other": "ס"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "samekh",
+   "char": "ס",
+   "value": 60,
+   "meaning": "drawn as a circle; in sabab, to go around, encircle"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Pishon",
+   "Havilah",
+   "Garden of Eden"
+  ],
+  "events": [],
+  "things": [
+   "gold",
+   "river"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 2:11",
+  "Pishon",
+  "Pison",
+  "Havilah",
+  "river of Eden",
+  "where there is gold",
+  "compasseth the whole land of Havilah",
+  "sabab",
+  "samekh",
+  "circle",
+  "go around",
+  "encircle",
+  "Genesis 2"
+ ],
+ "uncertain": [
+  "The samekh is shown as a plain green circle (O) in the heading and in the Hebrew words; transcribed as ס."
+ ],
+ "confidence": 0.95
+}

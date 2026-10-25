@@ -1,0 +1,167 @@
+{
+ "id": "genesis-1-1-part-1/6",
+ "kinds": [
+  "list",
+  "word-study"
+ ],
+ "title": "Names and phrases that start with alef: Elohim, Adonai, I Am that I Am, Ten Commandments",
+ "summary": "Four Hebrew expressions that begin with the letter alef, with the alef highlighted in light blue each time: Elohim (God), Adonai (Lord), \"I Am that I Am\", and the opening of the Ten Commandments.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Starts with"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "א"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "alef"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "Elohim"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "God"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אלהים"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "adonai"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Lord"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אדני"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "I Am that I Am"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אהיה אשר אהיה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Ten Commandments"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אנכי יהוה אלהיך..."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "I Am that I Am",
+   "osis": [
+    "Exod.3.14"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Ten Commandments",
+   "osis": [
+    "Exod.20.2"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "אדני",
+   "translit": "adonai",
+   "gloss": "Lord",
+   "strongs": "H136"
+  },
+  {
+   "lang": "he",
+   "word": "אהיה אשר אהיה",
+   "translit": "ehyeh asher ehyeh",
+   "gloss": "I Am that I Am",
+   "strongs": "H1961"
+  },
+  {
+   "lang": "he",
+   "word": "אנכי יהוה אלהיך",
+   "translit": "anochi YHWH eloheicha",
+   "gloss": "I am the LORD your God",
+   "strongs": "H595"
+  }
+ ],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "first letter; highlighted in light blue at the start of each word or phrase"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "Hebrew letter meanings",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "alef",
+  "aleph",
+  "Elohim",
+  "Adonai",
+  "I Am that I Am",
+  "ehyeh asher ehyeh",
+  "Ten Commandments",
+  "anochi",
+  "I am the LORD thy God",
+  "names of God",
+  "Exodus 3:14",
+  "Exodus 20:2",
+  "God's names begin with alef"
+ ],
+ "uncertain": [
+  "Exodus 3:14 and 20:2 are not cited on the slide; they are the verses the quoted phrases come from"
+ ],
+ "confidence": 0.95
+}

@@ -1,0 +1,72 @@
+{
+  "id": "abel/171",
+  "kinds": [
+    "verse"
+  ],
+  "title": "Hebrews 11:4 — By faith Abel offered God a better sacrifice than Cain",
+  "summary": "Hebrews 11:4 (first part) with its Greek reference: by faith Abel offered God a better sacrifice than Cain did. Abel, God and Cain are picked out in colour.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Hebrews 11:4",
+      "osis": "Heb.11.4"
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "ΕΒΡΑΙΟΥΣ 11:4"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Heb.11.4",
+      "text": "4 By faith Abel offered God a better sacrifice than Cain did…"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Hebrews 11:4 / ΕΒΡΑΙΟΥΣ 11:4",
+      "osis": [
+        "Heb.11.4"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Abel",
+      "Cain",
+      "God"
+    ],
+    "places": [],
+    "events": [
+      "Cain and Abel's offerings"
+    ],
+    "things": [],
+    "themes": [
+      "faith",
+      "sacrifice"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Hebrews 11:4",
+    "by faith Abel",
+    "better sacrifice",
+    "more excellent sacrifice",
+    "Abel and Cain",
+    "faith",
+    "Abel's offering",
+    "heroes of faith",
+    "Hebrews 11",
+    "Hall of Faith"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

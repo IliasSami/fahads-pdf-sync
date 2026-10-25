@@ -1,0 +1,104 @@
+{
+ "id": "noah-part-2/41",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 8:1-3 — God remembered Noah; the water decreased after 150 days",
+ "summary": "Genesis 8:1-3 in English: God remembered Noah and those in the ark, sent a wind, closed the fountains of the deep and the floodgates of the sky, and after 150 days the water decreased. Letters are coloured: G blue, o red, d gold in 'God'; 'No' green in Noah; 'ar' red in ark; '150 days' is enlarged.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:1-3",
+   "osis": [
+    "Gen.8.1",
+    "Gen.8.2",
+    "Gen.8.3"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ז:א-ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.1",
+   "text": "1 But God remembered Noah and all the beasts and all the cattle that were with him in the ark; and God caused a wind to pass over the earth, and the water subsided."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.2",
+   "text": "2 Also the fountains of the deep and the floodgates of the sky were closed, and the rain from the sky was restrained;"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.3",
+   "text": "3 and the water receded steadily from the earth, and at the end of 150 days the water decreased."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:1-3 / בראשית ז:א-ג",
+   "osis": [
+    "Gen.8.1",
+    "Gen.8.2",
+    "Gen.8.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 150,
+   "note": "days at the end of which the water decreased"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "wind",
+   "fountains of the deep",
+   "floodgates of the sky"
+  ],
+  "themes": [
+   "grace",
+   "redemption"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 8",
+  "God remembered Noah",
+  "wind passed over the earth",
+  "waters subsided",
+  "fountains of the deep",
+  "windows of heaven",
+  "floodgates of the sky",
+  "rain restrained",
+  "150 days",
+  "water receded",
+  "ark",
+  "Noah's flood ends"
+ ],
+ "uncertain": [
+  "The Hebrew reference header on the slide reads ז:א-ג (chapter letter ז = 7), although the English reference is Genesis 8:1-3; transcribed as shown",
+  "Purpose of the coloured letters in God, Noah and ark is not stated on the slide"
+ ],
+ "confidence": 0.93
+}

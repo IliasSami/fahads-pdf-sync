@@ -1,0 +1,30 @@
+{
+  "id": "akeda-1/60",
+  "kinds": ["word-study", "text"],
+  "title": "Torah Portion of the Week (parashat hashavua) — the Torah is divided into 54 sections",
+  "summary": "Introduces the weekly Torah reading, parashat hashavua (פרשת השבוע), “Torah Portion of the Week,” and states that the Torah has been divided into 54 sections. “Week” and shavua (שבוע) are in gold.",
+  "text": [
+    {"lang": "translit", "role": "heading", "text": "torah"},
+    {"lang": "en", "role": "heading", "text": "Portion of the Week"},
+    {"lang": "translit", "role": "label", "text": "parashat hashavua"},
+    {"lang": "he", "role": "label", "text": "פרשת השבוע"},
+    {"lang": "en", "role": "body", "text": "The torah has been divided into 54 sections."}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "פרשת השבוע", "translit": "parashat hashavua", "gloss": "portion of the week", "strongs": null},
+    {"lang": "he", "word": "שבוע", "translit": "shavua", "gloss": "week", "strongs": "H7620"},
+    {"lang": "he", "word": "תורה", "translit": "torah", "gloss": "law, instruction", "strongs": "H8451"}
+  ],
+  "color_links": [
+    {"en": "Week", "other": "שבוע"},
+    {"en": "shavua", "other": "שבוע"}
+  ],
+  "letters": [],
+  "numbers": [{"value": 54, "note": "sections (parashot) into which the Torah is divided"}],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": [], "things": [], "themes": ["Torah", "weekly Torah reading", "biblical calendar"], "groups": ["Jews"]},
+  "keywords": ["Torah portion of the week", "parashat hashavua", "parasha", "parashah", "weekly Torah reading", "54 sections", "54 parashot", "Torah divided", "Sabbath reading", "shavua", "Jewish weekly cycle"],
+  "uncertain": [],
+  "confidence": 0.96
+}

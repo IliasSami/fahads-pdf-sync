@@ -1,0 +1,142 @@
+{
+ "id": "genesis-1-1-part-2/62",
+ "kinds": [
+  "letters"
+ ],
+ "title": "The letter pe: closed mouth (פ) and open mouth (ף)",
+ "summary": "The Hebrew letter pe in purple, shown in several typefaces with its final form ף in parentheses, then with its name pe, the Latin letter P, a mouth pictograph and the value 80. At the bottom the final form ף is labelled \"Open Mouth\" and the regular form פ \"Closed Mouth\".",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "פ (ף)"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "פ (ף)"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "פ (ף)"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "פ (ף)"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "pe"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "P"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Mouth"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "80"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ף"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "פ"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Open Mouth"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Closed Mouth"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": 80,
+   "meaning": "mouth; regular form = closed mouth"
+  },
+  {
+   "lang": "he",
+   "letter": "pe (final)",
+   "char": "ף",
+   "value": 80,
+   "meaning": "mouth; final form = open mouth"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 80,
+   "note": "numerical value of pe (פ)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Small black outline of the ancient pictograph for pe: a flat, angular mouth shape, placed between the Latin letter P and the word Mouth.",
+   "subjects": [
+    "paleo-Hebrew",
+    "pictograph",
+    "mouth",
+    "pe"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.5,
+    0.36,
+    0.58,
+    0.44
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "pe",
+  "peh",
+  "פ",
+  "ף",
+  "final pe",
+  "sofit",
+  "open mouth",
+  "closed mouth",
+  "mouth",
+  "80",
+  "Hebrew letter pe",
+  "Hebrew alphabet",
+  "mouth pictograph"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

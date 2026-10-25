@@ -1,0 +1,130 @@
+{
+ "id": "red-heifer/10",
+ "kinds": [
+  "word-study",
+  "text"
+ ],
+ "title": "tumah (טמאה) — impurity; tamei (טמא) — unclean",
+ "summary": "Defines tumah, ritual impurity: a person or object that contracts tumah is tamei (unclean) and unsuited for certain holy (kedusha) activities until predefined purification actions, usually including a period of time, are completed.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "tumah"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "טמאה"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Impurity"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "tumah describes a state of ritual impurity."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "A person or object which contracts tumah is said to be"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tamei"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "טמא"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "and thereby unsuited for certain holy activities kedusha"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "until undergoing predefined purification actions"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "that usually include the elapse of a specified time-period."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "טמאה",
+   "translit": "tumah",
+   "gloss": "impurity, ritual uncleanness",
+   "strongs": "H2932"
+  },
+  {
+   "lang": "he",
+   "word": "טמא",
+   "translit": "tamei",
+   "gloss": "unclean",
+   "strongs": "H2931"
+  },
+  {
+   "lang": "other",
+   "word": "kedusha",
+   "translit": "kedusha",
+   "gloss": "holiness",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Impurity",
+   "other": "טמאה"
+  },
+  {
+   "en": "tamei",
+   "other": "טמא"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "clean and unclean",
+   "purification",
+   "holiness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "tumah",
+  "tum'ah",
+  "tamei",
+  "tame",
+  "impurity",
+  "uncleanness",
+  "ritual impurity",
+  "unclean",
+  "kedusha",
+  "holiness",
+  "purification",
+  "defilement",
+  "טמא",
+  "red heifer"
+ ],
+ "uncertain": [
+  "tumah in the heading and in the first sentence is a darker maroon than the Hebrew טמאה and Impurity, so it is not listed as a colour match."
+ ],
+ "confidence": 0.96
+}

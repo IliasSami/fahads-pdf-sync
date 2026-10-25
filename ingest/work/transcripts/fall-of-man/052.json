@@ -1,0 +1,34 @@
+{
+  "id": "fall-of-man/52",
+  "kinds": ["verse", "comparison"],
+  "title": "John 19:19-21 — the sign on the cross in Hebrew, Latin and Greek",
+  "summary": "John 19:19-21: Pilate's inscription on the cross, “yeshua the Nazarene and King of the Jews,” written in Hebrew, Latin and Greek. The slide shows the title in all three languages (Hebrew ישוע הנצרי ומלך היהודים, Latin IESVS NAZARENVS REX IVDÆORVM — INRI, and Greek), with the name of Jesus in red in each.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "John 19:19-21", "osis": ["John.19.19", "John.19.20", "John.19.21"]},
+    {"lang": "el", "role": "reference", "text": "Ἰωάνης 19:19-21", "osis": ["John.19.19", "John.19.20", "John.19.21"]},
+    {"lang": "en", "role": "verse", "text": "19 Pilate also wrote an inscription and put it on the cross. It was written, “yeshua THE NAZARENE AND KING OF THE JEWS.”", "osis": "John.19.19"},
+    {"lang": "en", "role": "verse", "text": "20 Therefore many of the Jews read this inscription, for the place where Jesus was crucified was near the city; and it was written in Hebrew, Latin and in Greek.", "osis": "John.19.20"},
+    {"lang": "he", "role": "quote", "text": "י ש ו ע   ה נ צ ר י   ו מ ל ך   ה י ה ו ד י ם"},
+    {"lang": "other", "role": "quote", "text": "IESVS NAZARENVS REX IVDÆORVM (INRI)"},
+    {"lang": "el", "role": "quote", "text": "Ἰησοῦς ὁ Ναζωραῖος ὁ Βασιλεὺς τῶν Ἰουδαίων."},
+    {"lang": "en", "role": "verse", "text": "21 So the chief priests of the Jews were saying to Pilate, “Do not write, ‘The King of the Jews’; but that He said, ‘I am King of the Jews.’”", "osis": "John.19.21"}
+  ],
+  "refs": [{"shown": "John 19:19-21 / Ἰωάνης 19:19-21", "osis": ["John.19.19", "John.19.20", "John.19.21"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "ישוע", "translit": "yeshua", "gloss": "Jesus (Yeshua)", "strongs": "H3442"},
+    {"lang": "el", "word": "Ἰησοῦς", "translit": "Iēsous", "gloss": "Jesus", "strongs": "G2424"},
+    {"lang": "other", "word": "IESVS NAZARENVS REX IVDÆORVM", "translit": "INRI", "gloss": "Jesus the Nazarene, King of the Jews (Latin)", "strongs": null}
+  ],
+  "color_links": [
+    {"en": "yeshua", "other": "ישוע"},
+    {"en": "yeshua", "other": "Ἰησοῦς"},
+    {"en": "IESVS", "other": "ישוע"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Jesus", "Pilate"], "places": ["Jerusalem"], "events": ["Crucifixion"], "things": ["cross", "inscription on the cross"], "themes": ["kingship of Jesus", "names of God"], "groups": ["Jews", "chief priests"]},
+  "keywords": ["INRI", "title on the cross", "Pilate's inscription", "King of the Jews", "Jesus of Nazareth", "Yeshua", "Iesus Nazarenus Rex Iudaeorum", "Hebrew, Latin and Greek", "sign on the cross", "chief priests", "Write not, The King of the Jews", "John 19", "John 19:19-21"],
+  "uncertain": [],
+  "confidence": 0.93
+}

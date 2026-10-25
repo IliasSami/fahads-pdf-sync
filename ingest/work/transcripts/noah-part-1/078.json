@@ -1,0 +1,51 @@
+{
+ "id": "noah-part-1/78",
+ "kinds": [
+  "end"
+ ],
+ "title": "The End of Part 1",
+ "summary": "Closing slide of 'What You Should Know About Noah, Part 1' reading 'The End Of Part 1'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The End"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Of"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Part 1"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "The End",
+  "End of Part 1",
+  "Noah Part 1",
+  "closing slide",
+  "What You Should Know About Noah",
+  "end of presentation"
+ ],
+ "uncertain": [],
+ "confidence": 0.99
+}

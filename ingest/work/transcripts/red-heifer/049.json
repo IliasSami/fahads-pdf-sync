@@ -1,0 +1,114 @@
+{
+ "id": "red-heifer/49",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Hebrews 13:10-13 — Jesus suffered outside the camp",
+ "summary": "Hebrews 13:10-13 in English with key words in colour: blood, Holy Place, Jesus, His, Him and He are highlighted. The passage says the bodies of the sin-offering animals were burned outside the camp, and Jesus likewise suffered outside the city gate to sanctify the people by His own blood. The header reads 13:10-14 but only verses 10-13 are shown.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Hebrews 13:10-14",
+   "osis": [
+    "Heb.13.10",
+    "Heb.13.11",
+    "Heb.13.12",
+    "Heb.13.13",
+    "Heb.13.14"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΕΒΡΑΙΟΥΣ 13:10-14"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Heb.13.10",
+   "text": "10 We have an altar from which those who serve at the tabernacle have no right to eat."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Heb.13.11",
+   "text": "11 Although the high priest brings the blood of animals into the Holy Place as a sacrifice for sin, the bodies are burned outside the camp."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Heb.13.12",
+   "text": "12 And so Jesus also suffered outside the city gate, to sanctify the people by His own blood."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Heb.13.13",
+   "text": "13 Therefore let us go to Him outside the camp, bearing the disgrace He bore."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Hebrews 13:10-14 / ΕΒΡΑΙΟΥΣ 13:10-14",
+   "osis": [
+    "Heb.13.10",
+    "Heb.13.11",
+    "Heb.13.12",
+    "Heb.13.13",
+    "Heb.13.14"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [
+   "Holy Place"
+  ],
+  "events": [
+   "Crucifixion"
+  ],
+  "things": [
+   "altar",
+   "tabernacle",
+   "blood"
+  ],
+  "themes": [
+   "blood",
+   "sacrifice",
+   "atonement",
+   "typology",
+   "holiness"
+  ],
+  "groups": [
+   "priests"
+  ]
+ },
+ "keywords": [
+  "Hebrews 13",
+  "outside the camp",
+  "Jesus suffered outside the gate",
+  "sanctify the people by His own blood",
+  "high priest",
+  "blood of animals",
+  "Holy Place",
+  "sacrifice for sin",
+  "bodies burned outside the camp",
+  "bearing His disgrace",
+  "altar",
+  "tabernacle",
+  "red heifer"
+ ],
+ "uncertain": [
+  "Header says 13:10-14 but verse 14 is not shown on the slide."
+ ],
+ "confidence": 0.97
+}

@@ -1,0 +1,305 @@
+{
+ "id": "gods-garden-in-eden/11",
+ "kinds": [
+  "gematria",
+  "letters",
+  "word-study"
+ ],
+ "title": "Emet letter positions: 1st + 13th + 22nd = 36, 3 + 6 = 9 = Truth",
+ "summary": "Shows the Hebrew alphabet and the positions of the letters of emet (אמת): alef is 1st, mem is 13th, tav is 22nd. 1 + 13 + 22 = 36, and 3 + 6 = 9, which the slide equates with Truth.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "emet"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ם ת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Truth"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "א ב ג ד ה ו ז ח ט י כ ל מ נ ס ע פ צ ק ר ש ת"
+  },
+  {
+   "lang": "translit",
+   "role": "list",
+   "text": "alef bet gimel dalet hey vav zayin het tet yod kaf lamed mem nun samekh ayin pe tsadi qof resh shin tav"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "22nd"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "13th"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1st"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1 + 13 + 22 = 36"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "3 + 6 = 9 = Truth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אמת"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אמת",
+   "translit": "emet",
+   "gloss": "truth",
+   "strongs": "H571",
+   "gematria": {
+    "method": "ordinal",
+    "values": [
+     1,
+     13,
+     22
+    ],
+    "total": 36
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "emet",
+   "other": "אמת"
+  },
+  {
+   "en": "Truth",
+   "other": "אמת"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "mem",
+   "other": "מ"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "1st letter of the alefbet"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "gimel",
+   "char": "ג",
+   "value": 3,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "dalet",
+   "char": "ד",
+   "value": 4,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "hey",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "zayin",
+   "char": "ז",
+   "value": 7,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "het",
+   "char": "ח",
+   "value": 8,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "tet",
+   "char": "ט",
+   "value": 9,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "kaf",
+   "char": "כ",
+   "value": 20,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "13th letter of the alefbet"
+  },
+  {
+   "lang": "he",
+   "letter": "nun",
+   "char": "נ",
+   "value": 50,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "samekh",
+   "char": "ס",
+   "value": 60,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "ayin",
+   "char": "ע",
+   "value": 70,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": 80,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "tsadi",
+   "char": "צ",
+   "value": 90,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "qof",
+   "char": "ק",
+   "value": 100,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "22nd letter of the alefbet"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 36,
+   "note": "1 + 13 + 22, ordinal positions of alef, mem and tav in emet"
+  },
+  {
+   "value": 9,
+   "note": "3 + 6, equated with Truth"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Hebrew letter meanings",
+   "truth"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "emet",
+  "truth",
+  "gematria 36",
+  "ordinal gematria",
+  "1 13 22",
+  "number 9",
+  "alef mem tav",
+  "Hebrew alphabet positions",
+  "22nd letter",
+  "13th letter",
+  "digit sum",
+  "אמת"
+ ],
+ "uncertain": [
+  "Letter values in the letters list are standard gematria, not shown on this slide; the emet row uses a final mem (ם)"
+ ],
+ "confidence": 0.93
+}

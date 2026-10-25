@@ -1,0 +1,144 @@
+{
+  "id": "abel/64",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:6 — the LORD asks Cain why his face has fallen (panim)",
+  "summary": "Genesis 4:6 in English and Hebrew: the LORD asks Cain why he is angry and why his countenance has fallen. Countenance is purple and matches פנים, shown below as panim, face.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:6",
+      "osis": "Gen.4.6"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:ו",
+      "osis": "Gen.4.6"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "6 And the LORD said to Cain, “Why are you angry?",
+      "osis": "Gen.4.6"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "And why has your countenance fallen?",
+      "osis": "Gen.4.6"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "6 ויאמר יהוה אל קין למה חרה לך",
+      "osis": "Gen.4.6"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ולמה נפלו פניך׃",
+      "osis": "Gen.4.6"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "panim"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "פנים"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Face"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:6 / בראשית ד:ו",
+      "osis": [
+        "Gen.4.6"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "יהוה",
+      "translit": "yahweh",
+      "gloss": "the LORD (God's personal name)",
+      "strongs": "H3068"
+    },
+    {
+      "lang": "he",
+      "word": "פנים",
+      "translit": "panim",
+      "gloss": "face",
+      "strongs": "H6440"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "L (LORD)",
+      "other": "י"
+    },
+    {
+      "en": "R (LORD)",
+      "other": "ו"
+    },
+    {
+      "en": "countenance",
+      "other": "פני"
+    },
+    {
+      "en": "Face",
+      "other": "פנים"
+    },
+    {
+      "en": "panim",
+      "other": "פנים"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "God",
+      "Cain"
+    ],
+    "places": [],
+    "events": [
+      "Cain and Abel's offerings"
+    ],
+    "things": [],
+    "themes": [
+      "sin",
+      "names of God"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Why are you angry",
+    "why art thou wroth",
+    "countenance fallen",
+    "the LORD said to Cain",
+    "God questions Cain",
+    "Genesis 4:6",
+    "yahweh",
+    "Cain and Abel",
+    "Genesis 4",
+    "panim",
+    "face",
+    "Hebrew word for face"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

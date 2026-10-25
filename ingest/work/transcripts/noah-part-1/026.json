@@ -1,0 +1,125 @@
+{
+ "id": "noah-part-1/26",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 6:8 — Noah found favor in the eyes of the LORD (English and Hebrew)",
+ "summary": "Genesis 6:8 in English and Hebrew, with matching colours for Noah, favor (FAVOR / חן) and the LORD (יהוה). A small 5 sits after Noah / ונח, and a row of five Stars of David (growing then shrinking) decorates the reference line.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:8",
+   "osis": "Gen.6.8"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.8",
+   "text": "8 And Noah⁵ found FAVOR in the eyes of the LORD."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.6.8",
+   "text": "ונח⁵ מצא חן בעיני יהוה׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:8 / בראשית ו:ח",
+   "osis": [
+    "Gen.6.8"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ונח",
+   "translit": "v'noach",
+   "gloss": "and Noah",
+   "strongs": "H5146"
+  },
+  {
+   "lang": "he",
+   "word": "מצא",
+   "translit": "matsa",
+   "gloss": "found",
+   "strongs": "H4672"
+  },
+  {
+   "lang": "he",
+   "word": "חן",
+   "translit": "chen",
+   "gloss": "favor, grace",
+   "strongs": "H2580"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the LORD",
+   "strongs": "H3068"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Noah",
+   "other": "ונח"
+  },
+  {
+   "en": "FAVOR",
+   "other": "חן"
+  },
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 5,
+   "note": "small superscript 5 after Noah / ונח"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [],
+  "themes": [
+   "grace",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 6:8",
+  "Noah found favor",
+  "Noah found grace",
+  "chen",
+  "grace",
+  "favor",
+  "ונח מצא חן בעיני יהוה",
+  "YHWH",
+  "Noah in Hebrew",
+  "5th mention of Noah",
+  "Hebrew verse"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

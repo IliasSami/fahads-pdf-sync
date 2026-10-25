@@ -1,0 +1,112 @@
+{
+  "id": "abel/163",
+  "kinds": [
+    "verse",
+    "comparison"
+  ],
+  "title": "Genesis 4:8 and Isaiah 53:7 — Cain kills Abel; the lamb silent before its shearers",
+  "summary": "Genesis 4:8 (Cain rose up against Abel and killed him) above Isaiah 53:7, the suffering servant who did not open His mouth, led like a lamb to the slaughter. The words He and His are highlighted in red.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:8",
+      "osis": "Gen.4.8"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:ח",
+      "osis": "Gen.4.8"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "8 And Cain said to Abel his brother; and it came to pass, when they were in the field, that Cain rose up against Abel his brother and killed him.",
+      "osis": "Gen.4.8"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Isaiah 53:7",
+      "osis": "Isa.53.7"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "ישעה נג:ז",
+      "osis": "Isa.53.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "7 He was oppressed and afflicted, yet He did not open His mouth. He was led like a lamb to the slaughter, and as a sheep before her shearers is silent, so He did not open His mouth.",
+      "osis": "Isa.53.7"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:8 / בראשית ד:ח",
+      "osis": [
+        "Gen.4.8"
+      ],
+      "role": "quoted"
+    },
+    {
+      "shown": "Isaiah 53:7 / ישעה נג:ז",
+      "osis": [
+        "Isa.53.7"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Cain",
+      "Abel",
+      "Jesus"
+    ],
+    "places": [],
+    "events": [
+      "Murder of Abel"
+    ],
+    "things": [
+      "lamb",
+      "sheep"
+    ],
+    "themes": [
+      "messianic prophecy",
+      "silence",
+      "sacrifice",
+      "typology",
+      "Abel as a type of Christ"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Genesis 4",
+    "Genesis 4:8",
+    "Cain killed Abel",
+    "Cain rose up against Abel",
+    "murder of Abel",
+    "in the field",
+    "Cain said to Abel",
+    "brother killed brother",
+    "first murder",
+    "Isaiah 53",
+    "Isaiah 53:7",
+    "led like a lamb to the slaughter",
+    "sheep before her shearers is silent",
+    "did not open His mouth",
+    "suffering servant",
+    "oppressed and afflicted",
+    "messianic prophecy"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

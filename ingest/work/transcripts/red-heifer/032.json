@@ -1,0 +1,86 @@
+{
+ "id": "red-heifer/32",
+ "kinds": [
+  "title",
+  "word-study"
+ ],
+ "title": "The Ordinance of the Red Heifer is the most mysterious of the chukat (חקת)",
+ "summary": "A text-only slide: the Ordinance of the Red Heifer is described as the most mysterious of the chukat (חקת), 'statutes'. The words chukat and חקת are shown in blue.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Ordinance of the Red Heifer"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "is the most mysterious of the"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "chukat"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חקת"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "…"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חקת",
+   "translit": "chukat",
+   "gloss": "statutes of (statute, ordinance)",
+   "strongs": "H2708",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "chukat",
+   "other": "חקת"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer"
+  ],
+  "themes": [
+   "statutes (chok)",
+   "ordinances (mishpat)",
+   "Torah",
+   "purification"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "chukat",
+  "chukat hatorah",
+  "statute of the law",
+  "most mysterious statute",
+  "mystery of the red heifer",
+  "ordinance of the red heifer",
+  "red heifer",
+  "chukim",
+  "Numbers 19",
+  "parah adumah",
+  "unexplained commandment"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

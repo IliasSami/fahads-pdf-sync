@@ -1,0 +1,151 @@
+{
+ "id": "genesis-1-1-part-2/32",
+ "kinds": [
+  "gematria"
+ ],
+ "title": "Genesis 1:1: הארץ = 37 x 8 = 296 and ואת = 37 x 11 = 407",
+ "summary": "Two Hebrew words from Genesis 1:1 added up letter by letter: the earth (הארץ) is 90 + 200 + 1 + 5 = 296, shown as 37 x 8; and ואת is 400 + 1 + 6 = 407, shown as 37 x 11. The number 37 is shown large in blue at the top.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "37"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "37 x 8 ="
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "הארץ"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "90 + 200 + 1 + 5 = 296"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "37 x 11 ="
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ואת"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "400 + 1 + 6 = 407"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha’aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     90,
+     200,
+     1,
+     5
+    ],
+    "total": 296
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve’et",
+   "gloss": "and (et)",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     400,
+     1,
+     6
+    ],
+    "total": 407
+   }
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 37,
+   "note": "296 = 37 x 8 (הארץ) and 407 = 37 x 11 (ואת)"
+  },
+  {
+   "value": 296,
+   "note": "gematria of הארץ (the earth)"
+  },
+  {
+   "value": 407,
+   "note": "gematria of ואת (and et)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "earth"
+  ],
+  "themes": [
+   "gematria",
+   "creation",
+   "Hebrew word study"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "gematria",
+  "37",
+  "296",
+  "407",
+  "37 x 8",
+  "37 x 11",
+  "ha'aretz",
+  "the earth",
+  "ve'et",
+  "multiples of 37",
+  "Bible numerics",
+  "Hebrew numbers",
+  "Bereshit"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

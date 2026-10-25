@@ -1,0 +1,242 @@
+{
+ "id": "genesis-1-1-part-2/98",
+ "kinds": [
+  "verse",
+  "gematria",
+  "word-study"
+ ],
+ "title": "Genesis 1:1 in Hebrew with the word values 296 + 407 + 395 + 401 + 86 + 203 + 913 = 2701",
+ "summary": "Genesis 1:1 in English (\"1 In beginning God created the heavens and the earth.\") and in colour-coded Hebrew words, with each word's total in the same colour added up to 2701.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "1 In beginning God created the heavens and the earth."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "296 + 407 + 395 + 401 + 86 + 203 + 913 = 2701"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "In beginning",
+   "strongs": "H7225",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 913
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 203
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 86
+   }
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "object marker (et)",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 401
+   }
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 395
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve'et",
+   "gloss": "and (et)",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 407
+   }
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 296
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "earth",
+   "other": "הארץ"
+  },
+  {
+   "en": "913",
+   "other": "בראשית"
+  },
+  {
+   "en": "203",
+   "other": "ברא"
+  },
+  {
+   "en": "86",
+   "other": "אלהים"
+  },
+  {
+   "en": "401",
+   "other": "את"
+  },
+  {
+   "en": "395",
+   "other": "השמים"
+  },
+  {
+   "en": "407",
+   "other": "ואת"
+  },
+  {
+   "en": "296",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2701,
+   "note": "total of the seven words of Genesis 1:1"
+  },
+  {
+   "value": 913,
+   "note": "בראשית (In beginning)"
+  },
+  {
+   "value": 203,
+   "note": "ברא (created)"
+  },
+  {
+   "value": 86,
+   "note": "אלהים (God)"
+  },
+  {
+   "value": 401,
+   "note": "את (et)"
+  },
+  {
+   "value": 395,
+   "note": "השמים (the heavens)"
+  },
+  {
+   "value": 407,
+   "note": "ואת (and (et))"
+  },
+  {
+   "value": 296,
+   "note": "הארץ (the earth)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "creation",
+   "names of God",
+   "numbers in Scripture"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "In the beginning God created the heavens and the earth",
+  "2701",
+  "gematria",
+  "word values",
+  "bereshit bara elohim",
+  "Genesis 1:1 Hebrew",
+  "913",
+  "203",
+  "86",
+  "401",
+  "395",
+  "407",
+  "296"
+ ],
+ "uncertain": [
+  "Per-letter values are not shown on this slide, only each word's total, so gematria values lists are empty."
+ ],
+ "confidence": 0.95
+}

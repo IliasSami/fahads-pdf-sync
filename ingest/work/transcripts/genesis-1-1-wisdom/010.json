@@ -1,0 +1,145 @@
+{
+  "id": "genesis-1-1-wisdom/10",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Psalm 49:3 — peh (פה) “mouth” and pi (פי) “my mouth”",
+  "summary": "Psalm 49:3 with “My mouth” colour-coded: peh (פה) means Mouth, and pi (פי) means My mouth — the added yod (in red) meaning “my”.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Psalm 49:3",
+      "osis": "Ps.49.3"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "תהילים מט:ג"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Ps.49.3",
+      "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "osis": "Ps.49.3",
+      "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "peh"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "פה"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Mouth"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "pi"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "פי"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "My mouth"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Psalm 49:3 / תהילים מט:ג",
+      "osis": [
+        "Ps.49.3"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "פה",
+      "translit": "peh",
+      "gloss": "mouth",
+      "strongs": "H6310"
+    },
+    {
+      "lang": "he",
+      "word": "פי",
+      "translit": "pi",
+      "gloss": "my mouth",
+      "strongs": "H6310"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "mouth",
+      "other": "פ"
+    },
+    {
+      "en": "My",
+      "other": "י"
+    },
+    {
+      "en": "Mouth",
+      "other": "פה"
+    },
+    {
+      "en": "peh",
+      "other": "פה"
+    },
+    {
+      "en": "My mouth",
+      "other": "פי"
+    },
+    {
+      "en": "pi",
+      "other": "פי"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "things": [
+      "mouth",
+      "heart"
+    ],
+    "themes": [
+      "wisdom",
+      "speech"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "peh",
+    "pi",
+    "my mouth",
+    "mouth",
+    "Hebrew possessive suffix",
+    "yod means my",
+    "Psalm 49",
+    "my mouth shall speak wisdom",
+    "Hebrew grammar"
+  ],
+  "uncertain": [],
+  "confidence": 0.94
+}

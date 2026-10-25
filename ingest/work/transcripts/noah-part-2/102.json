@@ -1,0 +1,121 @@
+{
+ "id": "noah-part-2/102",
+ "kinds": [
+  "genealogy",
+  "list"
+ ],
+ "title": "Shem's descendants: 26 names (Eber to Jobab), messianic line marked",
+ "summary": "Numbered list of Shem's descendants from 1 to 26: his sons (Eber, Elam, Asshur, Arpachshad, Lud, Aram), then Aram's sons, Arpachshad to Shelah to Eber, Eber's sons Peleg and Joktan, and Joktan's thirteen sons. Small star-of-David symbols mark Eber, Arpachshad, Shelah and Peleg, and an asterisk follows Shem. Joktan's list sits in a separate block on the right.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Shem*"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Eber✡, 2 Elam, 3 Asshur, 4 Arpachshad✡, 5 Lud, 6 Aram"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "6 Aram → 7 Uz, 8 Hul, 9 Gether, 10 Mash"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "4 Arpachshad✡ → 11 Shelah✡"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "11 Shelah✡ → 1 Eber✡"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Eber✡ → 12 Peleg✡, 13 Joktan"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "13 Joktan → 14 Almodad, 15 Sheleph, 16 Hazarmaveth, 17 Jerah, 18 Hadoram, 19 Uzal, 20 Diklah, 21 Obal, 22 Abimael, 23 Sheba, 24 Ophir, 25 Havilah, 26 Jobab"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 26,
+   "note": "total names listed for Shem's line"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Shem",
+   "Eber",
+   "Elam",
+   "Asshur",
+   "Arpachshad",
+   "Lud",
+   "Aram",
+   "Uz",
+   "Hul",
+   "Gether",
+   "Mash",
+   "Shelah",
+   "Peleg",
+   "Joktan",
+   "Almodad",
+   "Sheleph",
+   "Hazarmaveth",
+   "Jerah",
+   "Hadoram",
+   "Uzal",
+   "Diklah",
+   "Obal",
+   "Abimael",
+   "Sheba",
+   "Ophir",
+   "Havilah",
+   "Jobab"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "genealogy",
+   "table of nations",
+   "messianic line"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Shem",
+  "sons of Shem",
+  "descendants of Shem",
+  "Semites",
+  "table of nations",
+  "Genesis 10",
+  "messianic line",
+  "Eber",
+  "Hebrews",
+  "Arpachshad",
+  "Arphaxad",
+  "Shelah",
+  "Peleg",
+  "Joktan",
+  "Elam",
+  "Asshur",
+  "Assyria",
+  "Aram",
+  "Ophir",
+  "family tree"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

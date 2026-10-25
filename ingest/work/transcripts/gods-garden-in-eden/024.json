@@ -1,0 +1,157 @@
+{
+ "id": "gods-garden-in-eden/24",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 2:7 in English and Hebrew — 'formed**' and וייצר",
+ "summary": "Genesis 2:7 in full in English and Hebrew (without vowel points). 'formed' is underlined and marked with ** in English, and the matching Hebrew word וייצר is enlarged, underlined and marked with ** in colour; LORD, God and man are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:7",
+   "osis": "Gen.2.7"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:ז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.7",
+   "text": "7 And the LORD God formed** man"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.7",
+   "text": "of the dust of the ground,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.7",
+   "text": "and breathed into his nostrils the breath of life;"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.7",
+   "text": "and man became a living soul."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.7",
+   "text": "וייצר** יהוה אלהים את־האדם עפר"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.7",
+   "text": "מן־האדמה ויפח באפיו נשמת חיים ויהי"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.7",
+   "text": "האדם לנפש חיה׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:7 / בראשית ב:ז",
+   "osis": [
+    "Gen.2.7"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "וייצר",
+   "translit": "vayyitser",
+   "gloss": "and formed",
+   "strongs": "H3335"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the LORD (YHWH)",
+   "strongs": "H3068"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "formed",
+   "other": "וייצר"
+  },
+  {
+   "en": "And",
+   "other": "ו"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "dust",
+   "ground",
+   "breath of life"
+  ],
+  "themes": [
+   "creation",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 2:7",
+  "formed man",
+  "vayyitser",
+  "vayiytser",
+  "double yod",
+  "dust of the ground",
+  "breath of life",
+  "living soul",
+  "LORD God",
+  "Yahweh Elohim",
+  "Hebrew text Genesis 2:7",
+  "creation of man",
+  "footnote asterisks"
+ ],
+ "uncertain": [
+  "The ** after 'formed' and after וייצר appear to be footnote markers; no footnote text is shown on the slide.",
+  "Colours are partly decorative; the colour match of 'And' with the first ו of וייצר is a best reading."
+ ],
+ "confidence": 0.93
+}

@@ -1,0 +1,108 @@
+{
+ "id": "red-heifer/54",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Leviticus 14:49-51 — cleansing a house with mildew",
+ "summary": "Leviticus 14:49-51 in English: to cleanse a house, two birds, cedar wood, a scarlet string and hyssop are taken; one bird is slaughtered over running water in an earthenware vessel, and the cedar, hyssop, scarlet string and live bird are dipped in its blood and the water and the house is sprinkled seven times. Cedar wood, scarlet string, hyssop and blood are colour-coded. Caption: Cleansing a home with mildew.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Leviticus 14:49-51",
+   "osis": [
+    "Lev.14.49",
+    "Lev.14.50",
+    "Lev.14.51"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ויקרא יד:מט-נא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.14.49",
+   "text": "49 “To cleanse the house then, he shall take two birds and cedar wood and a scarlet string and hyssop,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.14.50",
+   "text": "50 and he shall slaughter the one bird in an earthenware vessel over running water."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.14.51",
+   "text": "51 “Then he shall take the cedar wood and the hyssop and the scarlet string, with the live bird, and dip them in the blood of the slain bird as well as in the running water and sprinkle the house seven times."
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "Cleansing a home with mildew"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Leviticus 14:49-51 / ויקרא יד:מט-נא",
+   "osis": [
+    "Lev.14.49",
+    "Lev.14.50",
+    "Lev.14.51"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "the house is sprinkled seven times"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "cedar wood",
+   "hyssop",
+   "scarlet string",
+   "two birds",
+   "running water",
+   "blood",
+   "house"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "blood",
+   "sacrifice",
+   "atonement"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Leviticus 14",
+  "cleansing a house",
+  "house with mildew",
+  "leprous house",
+  "plague in the house",
+  "two birds",
+  "cedar wood hyssop scarlet",
+  "scarlet string",
+  "slain bird",
+  "running water",
+  "earthenware vessel",
+  "sprinkle seven times",
+  "living bird"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

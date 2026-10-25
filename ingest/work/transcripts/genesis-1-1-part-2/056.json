@@ -1,0 +1,257 @@
+{
+ "id": "genesis-1-1-part-2/56",
+ "kinds": [
+  "gematria",
+  "word-study"
+ ],
+ "title": "Gematria of God's Name and Title: Yah 15, Yahweh 26, El 31, Elohim 86",
+ "summary": "Shows God's Name (His Name) with יה (yah) = 5 + 10 = 15 and יהוה (yahweh) = 5 + 6 + 5 + 10 = 26, and God's Title (His Title) with אל (el) = 30 + 1 = 31 and אלהים (elohim) = 40 + 10 + 5 + 30 + 1 = 86. Four small blue arrows point inward to a large blue alef (א) in the centre. Letters and their numbers are colour-matched.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "יה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 + 10 = 15"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "elohim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אלהים"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "86 = 40 + 10 + 5 + 30 + 1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "His Name"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "His Title"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 + 6 + 5 + 10 = 26"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "יהוה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "31 = 30 + 1"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "el"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אל"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יה",
+   "translit": "yah",
+   "gloss": "Yah (short form of God's Name)",
+   "strongs": "H3050",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     10
+    ],
+    "total": 15
+   }
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "Yahweh, the LORD (God's Name)",
+   "strongs": "H3068",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     6,
+     5,
+     10
+    ],
+    "total": 26
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אל",
+   "translit": "el",
+   "gloss": "El, God (His Title)",
+   "strongs": "H410",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     30,
+     1
+    ],
+    "total": 31
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "Elohim, God (His Title)",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     10,
+     5,
+     30,
+     1
+    ],
+    "total": 86
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "e",
+   "other": "א"
+  },
+  {
+   "en": "l",
+   "other": "ל"
+  },
+  {
+   "en": "oh",
+   "other": "ה"
+  },
+  {
+   "en": "i",
+   "other": "י"
+  },
+  {
+   "en": "m",
+   "other": "ם"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "large letter at the centre with four arrows pointing to it; the 1 in the sums for אל (31) and אלהים (86)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 15,
+   "note": "gematria of יה (yah)"
+  },
+  {
+   "value": 26,
+   "note": "gematria of יהוה (yahweh)"
+  },
+  {
+   "value": 31,
+   "note": "gematria of אל (el)"
+  },
+  {
+   "value": 86,
+   "note": "gematria of אלהים (elohim)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "Four small blue arrows at the corners point inward toward a large blue Hebrew letter alef (א) in the centre, between 'His Name' on the left and 'His Title' on the right.",
+   "subjects": [
+    "arrows",
+    "alef",
+    "Hebrew letter",
+    "diagram"
+   ],
+   "text_in_picture": "א",
+   "credit": null,
+   "box": [
+    0.38,
+    0.32,
+    0.56,
+    0.6
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "gematria",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "names of God",
+  "Yahweh",
+  "YHWH",
+  "Yah",
+  "El",
+  "Elohim",
+  "gematria",
+  "26",
+  "15",
+  "31",
+  "86",
+  "His Name",
+  "His Title",
+  "alef",
+  "aleph",
+  "tetragrammaton"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

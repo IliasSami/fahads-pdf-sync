@@ -1,0 +1,24 @@
+{
+  "id": "fall-of-man/49",
+  "kinds": ["verse", "title"],
+  "title": "The Progression of Blood (4): Passover — one substitute covers a household",
+  "summary": "Fourth step in “The Progression of Blood”: Passover, where one substitute sacrifice covers an entire household. Exodus 12:3 is quoted, with “lamb” highlighted in red: a lamb for each household.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Progression of Blood₄"},
+    {"lang": "en", "role": "body", "text": "Passover"},
+    {"lang": "en", "role": "body", "text": "One Substitute Sacrifice Covers Entire Household"},
+    {"lang": "en", "role": "reference", "text": "Exodus 12:3", "osis": "Exod.12.3"},
+    {"lang": "he", "role": "reference", "text": "שמות יב:ג", "osis": "Exod.12.3"},
+    {"lang": "en", "role": "verse", "text": "3 “Speak to all the congregation of Israel, saying, ‘On the tenth of this month they are each one to take a lamb for themselves, according to their fathers’ households, a lamb for each household.", "osis": "Exod.12.3"}
+  ],
+  "refs": [{"shown": "Exodus 12:3 / שמות יב:ג", "osis": ["Exod.12.3"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": ["Passover"], "things": ["lamb", "Passover lamb"], "themes": ["blood", "sacrifice", "substitution", "biblical feasts"], "groups": ["Israel"]},
+  "keywords": ["progression of blood", "Passover", "Pesach", "Passover lamb", "a lamb for each household", "a lamb for an house", "substitute sacrifice", "tenth day of the month", "congregation of Israel", "household", "Exodus 12", "Exodus 12:3"],
+  "uncertain": [],
+  "confidence": 0.96
+}

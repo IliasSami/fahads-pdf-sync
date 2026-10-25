@@ -1,0 +1,126 @@
+{
+ "id": "genesis-1-1-part-2/117",
+ "kinds": [
+  "letters",
+  "gematria"
+ ],
+ "title": "Yod spelled out: yod-vav-dalet = 20",
+ "summary": "Shows the letter yod and then spells out its own name with Hebrew letters (dalet 4, vav 6, yod 10), which adds up to 20.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "yod"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "י"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ו ד"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "dalet vav yod"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "4 6 10 = 20"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יוד",
+   "translit": "yod",
+   "gloss": "name of the letter yod, spelled out",
+   "strongs": null,
+   "gematria": {
+    "method": "standard",
+    "values": [
+     4,
+     6,
+     10
+    ],
+    "total": 20
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "dalet",
+   "other": "ד"
+  },
+  {
+   "en": "vav",
+   "other": "ו"
+  },
+  {
+   "en": "yod",
+   "other": "י"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "dalet",
+   "char": "ד",
+   "value": 4,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 20,
+   "note": "total of the spelled-out name יוד (4+6+10)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "yod",
+  "yud",
+  "yod spelled out",
+  "dalet vav yod",
+  "letter names",
+  "20",
+  "gematria of yod",
+  "Hebrew alphabet",
+  "letter value 10",
+  "hidden letters"
+ ],
+ "uncertain": [
+  "Letters are displayed left to right as ד ו י (dalet, vav, yod); written here in logical right-to-left order as י ו ד."
+ ],
+ "confidence": 0.95
+}

@@ -1,0 +1,86 @@
+{
+ "id": "noah-part-2/95",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 9:23-24 — Shem and Japheth cover their father; Noah awakes",
+ "summary": "Genesis 9:23-24 in English: Shem and Japheth take a garment, lay it on both their shoulders, walk backward and cover their father's nakedness without looking; when Noah awakes from his wine he knows what his youngest son had done to him. The names Shem, Japheth and Noah and the word wine are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 9:23-24",
+   "osis": [
+    "Gen.9.23",
+    "Gen.9.24"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ט:כג־כד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.23",
+   "text": "23 But Shem and Japheth took a garment and laid it upon both their shoulders and walked backward and covered the nakedness of their father; and their faces were turned away, so that they did not see their father’s nakedness."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.24",
+   "text": "24 When Noah awoke from his wine, he knew what his youngest son had done to him."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 9:23-24 / בראשית ט:כג־כד",
+   "osis": [
+    "Gen.9.23",
+    "Gen.9.24"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "Shem",
+   "Japheth"
+  ],
+  "places": [],
+  "events": [
+   "Noah's drunkenness"
+  ],
+  "things": [
+   "garment",
+   "wine"
+  ],
+  "themes": [
+   "honor",
+   "sin"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 9",
+  "Genesis 9:23-24",
+  "Shem and Japheth covered their father",
+  "garment on shoulders",
+  "walked backward",
+  "nakedness of their father",
+  "Noah awoke from his wine",
+  "youngest son",
+  "Ham",
+  "honoring parents",
+  "covering nakedness"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

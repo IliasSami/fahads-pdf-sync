@@ -1,0 +1,104 @@
+{
+ "id": "red-heifer/50",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Hebrews 13:11-13 — The Messiah was sacrificed outside the camp",
+ "summary": "Hebrews 13:11-13 in English with key words in colour (blood, Holy Place, Jesus, His, Him, He), followed by the large conclusion: The Messiah was sacrificed outside the camp.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Hebrews 13:11-13",
+   "osis": [
+    "Heb.13.11",
+    "Heb.13.12",
+    "Heb.13.13"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΕΒΡΑΙΟΥΣ 13:11-13"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Heb.13.11",
+   "text": "11 Although the high priest brings the blood of animals into the Holy Place as a sacrifice for sin, the bodies are burned outside the camp."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Heb.13.12",
+   "text": "12 And so Jesus also suffered outside the city gate, to sanctify the people by His own blood."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Heb.13.13",
+   "text": "13 Therefore let us go to Him outside the camp, bearing the disgrace He bore."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Messiah was sacrificed outside the camp."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Hebrews 13:11-13 / ΕΒΡΑΙΟΥΣ 13:11-13",
+   "osis": [
+    "Heb.13.11",
+    "Heb.13.12",
+    "Heb.13.13"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [
+   "Holy Place"
+  ],
+  "events": [
+   "Crucifixion"
+  ],
+  "things": [
+   "blood"
+  ],
+  "themes": [
+   "blood",
+   "sacrifice",
+   "atonement",
+   "typology",
+   "holiness"
+  ],
+  "groups": [
+   "priests"
+  ]
+ },
+ "keywords": [
+  "Hebrews 13",
+  "outside the camp",
+  "Messiah sacrificed outside the camp",
+  "Jesus suffered outside the gate",
+  "sanctify the people by His own blood",
+  "high priest",
+  "blood of animals",
+  "Holy Place",
+  "sacrifice for sin",
+  "bearing His disgrace",
+  "red heifer"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

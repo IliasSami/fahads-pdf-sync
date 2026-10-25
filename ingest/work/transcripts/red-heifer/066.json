@@ -1,0 +1,149 @@
+{
+ "id": "red-heifer/66",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Joshua 2:17-18 — Rahab's scarlet cord; shani, scarlet",
+ "summary": "Joshua 2:17-18 in English: the spies tell Rahab to tie a cord of scarlet thread in the window and gather her family into the house. 'cord' is gold and 'scarlet thread' red; below, the Hebrew word shani (שני) meaning scarlet, over a faint red cord drawn across the background.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Joshua 2:17-18",
+   "osis": [
+    "Josh.2.17",
+    "Josh.2.18"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "יהושע ב:יז-יח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Josh.2.17",
+   "text": "17 The men said to her [Rahab,] “We shall be free from this oath to you which you have made us swear,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Josh.2.18",
+   "text": "18 unless, when we come into the land, you tie this cord of scarlet thread in the window through which you let us down, and gather to yourself into the house your father and your mother and your brothers and all your father’s household."
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shani"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שני"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Scarlet"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Joshua 2:17-18 / יהושע ב:יז-יח",
+   "osis": [
+    "Josh.2.17",
+    "Josh.2.18"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שני",
+   "translit": "shani",
+   "gloss": "scarlet",
+   "strongs": "H8144",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Scarlet",
+   "other": "שני"
+  },
+  {
+   "en": "shani",
+   "other": "שני"
+  },
+  {
+   "en": "scarlet thread",
+   "other": "שני"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "illustration",
+   "description": "A faint, translucent pink-red twisted cord winding in a large wave across the slide behind the text, from the upper left down to the bottom centre and up again to the right.",
+   "subjects": [
+    "scarlet cord",
+    "red rope",
+    "red thread",
+    "background illustration"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.0,
+    0.2,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Rahab"
+  ],
+  "places": [
+   "Jericho"
+  ],
+  "events": [],
+  "things": [
+   "scarlet cord",
+   "window",
+   "scarlet thread"
+  ],
+  "themes": [
+   "redemption",
+   "covenant",
+   "blood"
+  ],
+  "groups": [
+   "spies"
+  ]
+ },
+ "keywords": [
+  "Joshua 2",
+  "Rahab",
+  "scarlet cord",
+  "scarlet thread",
+  "cord of scarlet thread",
+  "window",
+  "shani",
+  "scarlet",
+  "spies",
+  "oath",
+  "Jericho",
+  "red rope",
+  "saved household"
+ ],
+ "uncertain": [
+  "Jericho is not named on the slide; added from the context of Joshua 2."
+ ],
+ "confidence": 0.96
+}

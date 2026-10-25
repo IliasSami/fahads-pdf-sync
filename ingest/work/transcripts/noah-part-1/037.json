@@ -1,0 +1,143 @@
+{
+ "id": "noah-part-1/37",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 6:9-10 — the generations (toldoth) of Noah",
+ "summary": "Genesis 6:9-10 in English and Hebrew: the generations (toldoth) of Noah, a righteous and blameless man who walked with God and had three sons, Shem, Ham and Japheth. The words generations/toldoth and Noah are colour-matched to the Hebrew.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:9-10",
+   "osis": [
+    "Gen.6.9",
+    "Gen.6.10"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:ט-י"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "toldoth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תולד ת"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "9 These are the records of the generations of Noah. Noah was a righteous man, blameless in his time; Noah walked with God.",
+   "osis": "Gen.6.9"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "9 אלה תולדת נח",
+   "osis": "Gen.6.9"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "נח איש צדיק תמים היה בדרתיו את־האלהים",
+   "osis": "Gen.6.9"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "התהלך־נח",
+   "osis": "Gen.6.9"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "10 Noah became the father of three sons: Shem, Ham, and Japheth.",
+   "osis": "Gen.6.10"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:9-10 / בראשית ו:ט-י",
+   "osis": [
+    "Gen.6.9",
+    "Gen.6.10"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תולדת",
+   "translit": "toldoth",
+   "gloss": "generations, records",
+   "strongs": "H8435"
+  },
+  {
+   "lang": "he",
+   "word": "נח",
+   "translit": "Noach",
+   "gloss": "Noah",
+   "strongs": "H5146"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "toldoth",
+   "other": "תולד ת"
+  },
+  {
+   "en": "generations",
+   "other": "תולדת"
+  },
+  {
+   "en": "Noah",
+   "other": "נח"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "Shem",
+   "Ham",
+   "Japheth",
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "genealogy",
+   "righteousness",
+   "holiness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 6:9",
+  "Genesis 6:10",
+  "toldoth",
+  "toledoth",
+  "generations of Noah",
+  "righteous man",
+  "just man",
+  "blameless",
+  "perfect in his generations",
+  "walked with God",
+  "Shem Ham Japheth",
+  "three sons",
+  "Noah"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

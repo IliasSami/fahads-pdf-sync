@@ -1,0 +1,134 @@
+{
+ "id": "genesis-1-1-part-2/126",
+ "kinds": [
+  "word-study"
+ ],
+ "title": "Abracadabra in Hebrew: A-bara-ka-debar-A",
+ "summary": "Colour-coded breakdown of 'abracadabra' as Hebrew letters read right to left: א (A, GOD), ברא (bara, Creates), כ (ka, As), דבר (debar, Speaks), א (A, GOD), with an arrow showing the reading direction.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "א ברא כ דבר א"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "←"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "A debar ka bara A"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "GOD Speaks As Creates GOD"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "creates",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "דבר",
+   "translit": "debar",
+   "gloss": "speaks",
+   "strongs": "H1696"
+  },
+  {
+   "lang": "he",
+   "word": "כ",
+   "translit": "ka",
+   "gloss": "as",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "א",
+   "translit": "A",
+   "gloss": "GOD (alef)",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "A",
+   "other": "א"
+  },
+  {
+   "en": "GOD",
+   "other": "א"
+  },
+  {
+   "en": "bara",
+   "other": "ברא"
+  },
+  {
+   "en": "Creates",
+   "other": "ברא"
+  },
+  {
+   "en": "ka",
+   "other": "כ"
+  },
+  {
+   "en": "As",
+   "other": "כ"
+  },
+  {
+   "en": "debar",
+   "other": "דבר"
+  },
+  {
+   "en": "Speaks",
+   "other": "דבר"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "Hebrew letter meanings",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "abracadabra",
+  "bara",
+  "debar",
+  "dabar",
+  "create",
+  "speak",
+  "God creates as God speaks",
+  "kaph",
+  "as",
+  "alef",
+  "Genesis 1:1",
+  "Hebrew word study",
+  "spoken word",
+  "creation by speaking"
+ ],
+ "uncertain": [
+  "English line is transcribed in the left-to-right order shown (GOD Speaks As Creates GOD); the Hebrew is in right-to-left reading order."
+ ],
+ "confidence": 0.9
+}

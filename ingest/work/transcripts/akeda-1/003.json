@@ -1,0 +1,23 @@
+{
+  "id": "akeda-1/3",
+  "kinds": ["verse"],
+  "title": "Genesis 15:1–3 — Abram childless; Eliezer of Damascus his heir",
+  "summary": "Genesis 15:1–3 in English: God tells Abram in a vision that He is his shield and great reward, and Abram answers that he is childless, so Eliezer of Damascus, a servant in his household, will be his heir. 'Eliezer' and 'servant' are highlighted in gold and 'Abram' in blue.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 15:1 – 3", "osis": ["Gen.15.1", "Gen.15.2", "Gen.15.3"]},
+    {"lang": "he", "role": "reference", "text": "בראשית יה:א - ג"},
+    {"lang": "en", "role": "verse", "osis": "Gen.15.1", "text": "1 “After this, the word of the Lord came to Abram in a vision: “Do not be afraid, Abram. I am your shield, your very great reward.”"},
+    {"lang": "en", "role": "verse", "osis": "Gen.15.2", "text": "2 But Abram said, “O Sovereign LORD, what can you give me since I remain childless and the one who will inherit my estate is Eliezer of Damascus?”"},
+    {"lang": "en", "role": "verse", "osis": "Gen.15.3", "text": "3 And Abram said, “You have given me no children; so a servant in my household will be my heir.”"}
+  ],
+  "refs": [{"shown": "Genesis 15:1 – 3 / בראשית יה:א - ג", "osis": ["Gen.15.1", "Gen.15.2", "Gen.15.3"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham", "Eliezer"], "places": ["Damascus"], "events": [], "things": ["shield"], "themes": ["covenant", "seed", "faith", "inheritance"], "groups": []},
+  "keywords": ["Genesis 15", "Abram", "Abraham", "Eliezer of Damascus", "childless", "heir", "servant", "fear not", "I am thy shield", "exceeding great reward", "steward of my house", "vision", "promise of a son"],
+  "uncertain": ["Hebrew reference header writes chapter 15 as יה (not the usual טו); transcribed as shown"],
+  "confidence": 0.95
+}

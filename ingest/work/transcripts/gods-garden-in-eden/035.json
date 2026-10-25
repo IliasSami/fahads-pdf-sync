@@ -1,0 +1,193 @@
+{
+ "id": "gods-garden-in-eden/35",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Hidden letters in Genesis 2:20-22: hazelnut, thornbush, terebinth",
+ "summary": "Three Hebrew excerpts from Genesis 2:20-22, each with a few large coloured letters that spell a tree word with a number beside it: Hazelnut לוז (-13), Thornbush סנה (+9) and Terebinth אלה (-2). Highlighted letters are ז, ו, ל in the hazelnut lines; ס, נ, ה in the thornbush lines; and ה, ל, א in the terebinth lines.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Hazelnut"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "לוז"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "-13"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": [
+    "Gen.2.20",
+    "Gen.2.21"
+   ],
+   "text": "20 ויקרא האדם שמות לכל־הבהמה ולעוף השמים ולכל חית השדה ולאדם לא־מצא עזר כנגדו׃ 21 ויפל יהוה אלהים ׀ תרדמה על־האדם ויישן ויקח אחת מצלעתיו ויסגר בשר תחתנה׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Thornbush"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "סנה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "+9"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": [
+    "Gen.2.21",
+    "Gen.2.22"
+   ],
+   "text": "21 ויפל יהוה אלהים ׀ תרדמה על־האדם ויישן ויקח אחת מצלעתיו ויסגר בשר תחתנה׃ 22 ויבן יהוה אלהים ׀ את־הצלע אשר־לקח מן־האדם לאשה ויבאה אל־האדם׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Terebinth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אלה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "-2"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.21",
+   "text": "21 ויפל יהוה אלהים ׀ תרדמה על־האדם ויישן ויקח אחת מצלעתיו ויסגר בשר תחתנה׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:20-22 (Hebrew text)",
+   "osis": [
+    "Gen.2.20",
+    "Gen.2.21",
+    "Gen.2.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "לוז",
+   "translit": "luz",
+   "gloss": "hazelnut (almond tree)",
+   "strongs": "H3869",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "סנה",
+   "translit": "seneh",
+   "gloss": "thornbush",
+   "strongs": "H5572",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלה",
+   "translit": "elah",
+   "gloss": "terebinth",
+   "strongs": "H424",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Hazelnut",
+   "other": "לוז"
+  },
+  {
+   "en": "Thornbush",
+   "other": "סנה"
+  },
+  {
+   "en": "Terebinth",
+   "other": "אלה"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": -13,
+   "note": "-13, number shown beside לוז (hazelnut)"
+  },
+  {
+   "value": 9,
+   "note": "+9, number shown beside סנה (thornbush)"
+  },
+  {
+   "value": -2,
+   "note": "-2, number shown beside אלה (terebinth)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam",
+   "Eve"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "hazelnut",
+   "thornbush",
+   "terebinth",
+   "rib"
+  ],
+  "themes": [
+   "Bible codes",
+   "creation",
+   "marriage"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "hidden letters",
+  "Bible code",
+  "ELS",
+  "hazelnut in Hebrew",
+  "luz",
+  "thornbush in Hebrew",
+  "seneh",
+  "terebinth in Hebrew",
+  "elah",
+  "trees of Eden",
+  "Genesis 2:20",
+  "Genesis 2:21",
+  "Genesis 2:22",
+  "deep sleep",
+  "Adam's rib",
+  "woman made from the rib",
+  "skip number"
+ ],
+ "uncertain": [],
+ "confidence": 0.92
+}

@@ -1,0 +1,34 @@
+{
+  "id": "abel/49",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:3 — yom (יום), the Hebrew word for day",
+  "summary": "Genesis 4:3 in English and Hebrew with the word “time” and the start of ימים (days) highlighted, introducing the Hebrew word yom (יום), “day”.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:3", "osis": "Gen.4.3"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ג", "osis": "Gen.4.3"},
+    {"lang": "en", "role": "verse", "text": "3 So it came about in the course of time that Cain brought from the fruit of the ground an offering to yahweh.", "osis": "Gen.4.3"},
+    {"lang": "he", "role": "verse", "text": "3 ויהי מקץ ימים ויבא קין מפרי האדמה מנחה ליהוה׃", "osis": "Gen.4.3"},
+    {"lang": "translit", "role": "label", "text": "yom"},
+    {"lang": "he", "role": "label", "text": "יום"},
+    {"lang": "en", "role": "label", "text": "Day"}
+  ],
+  "refs": [{"shown": "Genesis 4:3 / בראשית ד:ג", "osis": ["Gen.4.3"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "יום", "translit": "yom", "gloss": "day", "strongs": "H3117"},
+    {"lang": "he", "word": "יהוה", "translit": "yahweh", "gloss": "the LORD (God's personal name)", "strongs": "H3068"}
+  ],
+  "color_links": [
+    {"en": "yom", "other": "יום"},
+    {"en": "Day", "other": "יום"},
+    {"en": "time", "other": "ימים"},
+    {"en": "y (yahweh)", "other": "י"},
+    {"en": "w (yahweh)", "other": "ו"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain"], "places": [], "events": ["Cain and Abel's offerings"], "things": ["offering", "fruit of the ground"], "themes": ["sacrifice", "offering", "time"], "groups": []},
+  "keywords": ["yom", "day", "Hebrew word for day", "days", "course of time", "in process of time", "Cain's offering", "offering to the LORD", "Cain and Abel", "Genesis 4", "Genesis 4:3"],
+  "uncertain": [],
+  "confidence": 0.93
+}

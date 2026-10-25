@@ -1,0 +1,21 @@
+{
+  "id": "fall-of-man/6",
+  "kinds": ["verse"],
+  "title": "Genesis 3:6 — the woman takes the fruit and eats",
+  "summary": "Genesis 3:6 in English: the woman sees the tree is good for food, a delight to the eyes and desirable to make one wise, so she takes its fruit and eats, and gives to her husband, who also eats. The word “tree” is highlighted twice.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 3:6", "osis": "Gen.3.6"},
+    {"lang": "he", "role": "reference", "text": "בראשית ג:ו", "osis": "Gen.3.6"},
+    {"lang": "en", "role": "verse", "text": "6 When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was desirable to make one wise, she took from its fruit and ate; and she gave also to her husband with her, and he ate.", "osis": "Gen.3.6"}
+  ],
+  "refs": [{"shown": "Genesis 3:6 / בראשית ג:ו", "osis": ["Gen.3.6"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Eve", "Adam"], "places": ["Garden of Eden"], "events": ["Fall of Man"], "things": ["tree of the knowledge of good and evil", "fruit"], "themes": ["sin", "temptation", "disobedience"], "groups": []},
+  "keywords": ["Eve ate the fruit", "Adam ate", "forbidden fruit", "good for food", "pleasant to the eyes", "desired to make one wise", "lust of the flesh", "lust of the eyes", "pride of life", "original sin", "Genesis 3", "Genesis 3:6"],
+  "uncertain": [],
+  "confidence": 0.95
+}

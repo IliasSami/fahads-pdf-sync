@@ -1,0 +1,127 @@
+{
+ "id": "red-heifer/70",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Hebrews 9:18-22 — the covenant sealed with blood, scarlet wool and hyssop",
+ "summary": "Hebrews 9:18-22 in English: the first covenant was inaugurated with blood; Moses sprinkled the book and the people with the blood of calves and goats, water, scarlet wool and hyssop, and without shedding of blood there is no forgiveness. 'blood' is in red throughout, water in light blue, scarlet wool in red and hyssop in green.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Hebrews 9:18-22",
+   "osis": [
+    "Heb.9.18",
+    "Heb.9.19",
+    "Heb.9.20",
+    "Heb.9.21",
+    "Heb.9.22"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΕΒΡΑΙΟΥΣ 9:18-22"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Heb.9.18",
+   "text": "18 Therefore even the first covenant was not inaugurated without blood."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Heb.9.19",
+   "text": "19 For when every commandment had been spoken by Moses to all the people according to the Law, he took the blood of the calves and the goats, with water and scarlet wool and hyssop, and sprinkled both the book itself and all the people,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Heb.9.20",
+   "text": "20 saying, “THIS IS THE BLOOD OF THE COVENANT WHICH GOD COMMANDED YOU.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Heb.9.21",
+   "text": "21 And in the same way he sprinkled both the tabernacle and all the vessels of the ministry with the blood."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Heb.9.22",
+   "text": "22 And according to the Law, one may almost say, all things are cleansed with blood, and without shedding of blood there is no forgiveness."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Hebrews 9:18-22 / ΕΒΡΑΙΟΥΣ 9:18-22",
+   "osis": [
+    "Heb.9.18",
+    "Heb.9.19",
+    "Heb.9.20",
+    "Heb.9.21",
+    "Heb.9.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Moses",
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "blood",
+   "calves",
+   "goats",
+   "water",
+   "scarlet wool",
+   "hyssop",
+   "book of the covenant",
+   "tabernacle",
+   "vessels"
+  ],
+  "themes": [
+   "covenant",
+   "blood",
+   "atonement",
+   "sacrifice",
+   "purification",
+   "Torah",
+   "redemption"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Hebrews 9",
+  "first covenant",
+  "blood of the covenant",
+  "without shedding of blood no forgiveness",
+  "scarlet wool",
+  "hyssop",
+  "water",
+  "calves and goats",
+  "Moses sprinkled the book",
+  "tabernacle",
+  "inaugurated",
+  "dedicated",
+  "cleansed with blood",
+  "remission of sins",
+  "Hebrews 9:22"
+ ],
+ "uncertain": [
+  "Odd colouring not explained on the slide: 'Mo' in Moses in light blue, and G-O-D in 'GOD' coloured blue, red and gold."
+ ],
+ "confidence": 0.96
+}

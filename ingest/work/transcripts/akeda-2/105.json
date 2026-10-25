@@ -1,0 +1,122 @@
+{
+ "id": "akeda-2/105",
+ "kinds": [
+  "verse"
+ ],
+ "title": "John 1:20, 1:27 and 1:30 — John the Baptist's testimony about the One who existed before him",
+ "summary": "Three John the Baptist statements quoted together: he is not the Christ (1:20), he is unworthy to untie the sandal of the One coming after him (1:27), and that One has a higher rank because He existed before him (1:30). \"Christ\" and each \"He\" are in red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 1:20",
+   "osis": "John.1.20"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 1:20"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.20",
+   "text": "20 And he confessed and did not deny, but confessed, “I am not the Christ.”"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 1:27",
+   "osis": "John.1.27"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 1:27"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.27",
+   "text": "27 “It is He who comes after me, the thong of whose sandal I am not worthy to untie.”"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 1:30",
+   "osis": "John.1.30"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 1:30"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.30",
+   "text": "30 This is He on behalf of whom I said, ‘After me comes a Man who has a higher rank than I, for He existed before me.’"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 1:20 / Ἰωάνης 1:20",
+   "osis": [
+    "John.1.20"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "John 1:27 / Ἰωάνης 1:27",
+   "osis": [
+    "John.1.27"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "John 1:30 / Ἰωάνης 1:30",
+   "osis": [
+    "John.1.30"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "John the Baptist",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "sandal"
+  ],
+  "themes": [
+   "messianic prophecy",
+   "humility",
+   "pre-existence of Christ"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 1:30",
+  "John 1:27",
+  "John 1:20",
+  "He existed before me",
+  "higher rank",
+  "preferred before me",
+  "after me comes a Man",
+  "John the Baptist testimony",
+  "not worthy to untie sandal",
+  "I am not the Christ",
+  "pre-existence",
+  "Gospel of John"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

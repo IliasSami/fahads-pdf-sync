@@ -1,0 +1,99 @@
+{
+ "id": "akeda-2/102",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "John 15:26: the Helper testifies about Jesus — John the Baptist types the Holy Spirit",
+ "summary": "John 15:26 in English: Jesus says the Helper, the Spirit of truth sent from the Father, will testify about Him. Below it the slide states that John the Baptist most types the Holy Spirit, and that John denied being Messiah and drew all attention to Jesus, the Son. 'Helper', 'Spirit', 'He' and 'Holy Spirit' are highlighted in gold, 'Father' is blue, and 'I', 'Me', 'yeshua', 'Messiah', 'Jesus' and 'Son' are red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 15:26",
+   "osis": "John.15.26"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ωάνης 15:26",
+   "osis": "John.15.26"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "26 \"When the Helper comes, whom I will send to you from the Father, that is the Spirit of truth who proceeds from the Father, He will testify about Me,”—yeshua",
+   "osis": "John.15.26"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "John the Baptist most types the Holy Spirit"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "John denied being Messiah and drew all attention to Jesus, the Son."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 15:26 / ωάνης 15:26",
+   "osis": [
+    "John.15.26"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "en",
+   "word": "yeshua",
+   "translit": "yeshua",
+   "gloss": "Jesus (Hebrew name)",
+   "strongs": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus",
+   "God",
+   "Holy Spirit",
+   "John the Baptist",
+   "Messiah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Holy Spirit",
+   "typology",
+   "testimony",
+   "messianic prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 15:26",
+  "the Helper",
+  "the Comforter",
+  "Spirit of truth",
+  "Holy Spirit",
+  "proceeds from the Father",
+  "testify of Me",
+  "John the Baptist",
+  "type of the Holy Spirit",
+  "denied being the Messiah",
+  "Jesus the Son",
+  "yeshua",
+  "John 1:20"
+ ],
+ "uncertain": [
+  "Greek reference header is shown on the slide as 'ωάνης 15:26' (the initial letters of Ἰωάννης appear to be missing); transcribed as shown."
+ ],
+ "confidence": 0.93
+}

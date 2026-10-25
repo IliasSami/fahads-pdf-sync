@@ -1,0 +1,19 @@
+{
+  "id": "elijah-elisha/8",
+  "kinds": ["title"],
+  "title": "Joseph / Yeshua Parallels",
+  "summary": "Heading slide introducing a list of parallels between Joseph (son of Jacob) and Yeshua (Jesus).",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Joseph / yeshua Parallels"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Joseph", "Jesus"], "places": [], "events": [], "things": [], "themes": ["typology"], "groups": []},
+  "keywords": ["Joseph", "Yeshua", "Jesus", "parallels", "Joseph as a type of Christ", "comparison", "foreshadowing", "Genesis 37"],
+  "uncertain": [],
+  "confidence": 0.95
+}

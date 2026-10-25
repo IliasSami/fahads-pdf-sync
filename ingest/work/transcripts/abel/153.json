@@ -1,0 +1,23 @@
+{
+  "id": "abel/153",
+  "kinds": ["verse"],
+  "title": "Genesis 4:8 — Cain rises up against Abel and kills him",
+  "summary": "Genesis 4:8 in English: Cain talked with Abel his brother, and when they were in the field Cain rose up against Abel and killed him. Cain is highlighted in green and Abel in blue.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:8", "osis": "Gen.4.8"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ח", "osis": "Gen.4.8"},
+    {"lang": "en", "role": "verse", "text": "8 And Cain talked with Abel his brother; and it came to pass, when they were in the field, that Cain rose up against Abel his brother and killed him.", "osis": "Gen.4.8"}
+  ],
+  "refs": [
+    {"shown": "Genesis 4:8 / בראשית ד:ח", "osis": ["Gen.4.8"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Cain", "Abel"], "places": [], "events": ["Murder of Abel"], "things": ["field"], "themes": ["murder", "death", "sin", "brothers"], "groups": []},
+  "keywords": ["Cain killed Abel", "first murder", "murder of Abel", "slew him", "rose up against", "in the field", "brother killed brother", "Genesis 4", "Genesis 4:8"],
+  "uncertain": [],
+  "confidence": 0.96
+}

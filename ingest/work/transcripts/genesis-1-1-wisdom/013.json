@@ -1,0 +1,172 @@
+{
+ "id": "genesis-1-1-wisdom/13",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Psalm 49:3 — dabar “to speak”, yadabar “he will speak”, tsachaq “to laugh”",
+ "summary": "Psalm 49:3 with “shall speak” colour-coded to dabar (דבר, To Speak) and yadabar (ידבר, He will Speak). A new line at the bottom adds tsachaq (צחק), To laugh, in its own colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 49:3",
+   "osis": "Ps.49.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים מט:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "dabar"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "דבר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "To Speak"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yadabar"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ידבר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "He will Speak"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "(tsachaq"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "צחק"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "To laugh)"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 49:3 / תהילים מט:ג",
+   "osis": [
+    "Ps.49.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "דבר",
+   "translit": "dabar",
+   "gloss": "to speak",
+   "strongs": "H1696"
+  },
+  {
+   "lang": "he",
+   "word": "ידבר",
+   "translit": "yadabar",
+   "gloss": "he will speak",
+   "strongs": "H1696"
+  },
+  {
+   "lang": "he",
+   "word": "צחק",
+   "translit": "tsachaq",
+   "gloss": "to laugh",
+   "strongs": "H6711"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "shall",
+   "other": "י"
+  },
+  {
+   "en": "He",
+   "other": "י"
+  },
+  {
+   "en": "speak",
+   "other": "דבר"
+  },
+  {
+   "en": "dabar",
+   "other": "דבר"
+  },
+  {
+   "en": "yadabar",
+   "other": "ידבר"
+  },
+  {
+   "en": "tsachaq",
+   "other": "צחק"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "mouth"
+  ],
+  "themes": [
+   "wisdom",
+   "speech",
+   "laughter"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "dabar",
+  "davar",
+  "yadabar",
+  "yedabber",
+  "he will speak",
+  "shall speak",
+  "to speak",
+  "tsachaq",
+  "to laugh",
+  "laughter",
+  "Hebrew verb prefix",
+  "Hebrew future tense",
+  "Psalm 49",
+  "my mouth shall speak wisdom"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

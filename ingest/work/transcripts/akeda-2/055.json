@@ -1,0 +1,156 @@
+{
+ "id": "akeda-2/55",
+ "kinds": [
+  "word-study"
+ ],
+ "title": "Eliezer (אליעזר) means \"God is my Help\"",
+ "summary": "Breaks the name Eliezer (אליעזר) into el (God, אל), yod (my) and ezer (Help, עזר), colour-coded to give \"Eliezer → God is my Help\".",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Eliezer"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "אליעזר"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ezer"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "עזר"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אל"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "el"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Help"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "God"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Eliezer → God is my Help"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אליעזר",
+   "translit": "Eliezer",
+   "gloss": "God is my help",
+   "strongs": "H461"
+  },
+  {
+   "lang": "he",
+   "word": "עזר",
+   "translit": "ezer",
+   "gloss": "help",
+   "strongs": "H5828"
+  },
+  {
+   "lang": "he",
+   "word": "אל",
+   "translit": "el",
+   "gloss": "God",
+   "strongs": "H410"
+  },
+  {
+   "lang": "he",
+   "word": "י",
+   "translit": "yod (i)",
+   "gloss": "my",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Eliezer",
+   "other": "אליעזר"
+  },
+  {
+   "en": "ezer",
+   "other": "עזר"
+  },
+  {
+   "en": "Help",
+   "other": "עזר"
+  },
+  {
+   "en": "el",
+   "other": "אל"
+  },
+  {
+   "en": "God",
+   "other": "אל"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "my"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Eliezer",
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "Hebrew name meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Eliezer",
+  "Eliezer meaning",
+  "God is my help",
+  "El",
+  "ezer",
+  "Hebrew name meaning",
+  "Abraham's servant",
+  "Genesis 24",
+  "Genesis 15:2",
+  "name study",
+  "help",
+  "God"
+ ],
+ "uncertain": [
+  "Colours of the arrows and of the word 'God' (blue, red, gold) appear to match el, yod and ezer; the yod meaning 'my' is inferred from the final line."
+ ],
+ "confidence": 0.93
+}

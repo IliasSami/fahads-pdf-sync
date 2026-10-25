@@ -1,0 +1,92 @@
+{
+ "id": "noah-part-1/59",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 6:15 — the ark is 300 x 50 x 30 cubits",
+ "summary": "Genesis 6:15 in English giving the ark's length, breadth and height (three hundred, fifty and thirty cubits), summarised on the slide as 300 x 50 x 30 cubits.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:15",
+   "osis": "Gen.6.15"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.15",
+   "text": "15 “This is how you shall make it: the length of the ark three hundred cubits, its breadth fifty cubits, and its height thirty cubits."
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "300 x 50 x 30 cubits"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:15 / בראשית ו:יה",
+   "osis": [
+    "Gen.6.15"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 300,
+   "note": "length of the ark in cubits"
+  },
+  {
+   "value": 50,
+   "note": "breadth of the ark in cubits"
+  },
+  {
+   "value": 30,
+   "note": "height of the ark in cubits"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "cubit"
+  ],
+  "themes": [
+   "obedience"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 6:15",
+  "ark dimensions",
+  "size of Noah's ark",
+  "300 cubits",
+  "50 cubits",
+  "30 cubits",
+  "length breadth height",
+  "cubits",
+  "how big was the ark",
+  "Noah's ark"
+ ],
+ "uncertain": [
+  "Hebrew reference is written ו:יה (verse 15 as yod-he) on the slide, not the usual טו; transcribed as shown."
+ ],
+ "confidence": 0.97
+}

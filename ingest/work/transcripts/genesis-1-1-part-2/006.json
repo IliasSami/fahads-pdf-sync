@@ -1,0 +1,108 @@
+{
+ "id": "genesis-1-1-part-2/6",
+ "kinds": [
+  "gematria",
+  "picture"
+ ],
+ "title": "Genesis 1:1 \"Even Words\": 1011 = 3 x 337 shown as three stars",
+ "summary": "The equation 1011 = 3 x 337 in large type, with three big Star-of-David shapes, each filled with a grid of tiny stars, coloured red, blue and gold, shown below it.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Even Words"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1011 = 3 x 337"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1011,
+   "note": "total of the even words of Genesis 1:1"
+  },
+  {
+   "value": 337,
+   "note": "1011 = 3 x 337"
+  },
+  {
+   "value": 3,
+   "note": "three stars shown"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "Three large six-pointed Stars of David side by side, each built from a grid of tiny stars: the left one red, the middle one blue, the right one gold/yellow.",
+   "subjects": [
+    "Star of David",
+    "Magen David",
+    "hexagram",
+    "red star",
+    "blue star",
+    "gold star",
+    "star pattern"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.09,
+    0.47,
+    0.91,
+    0.96
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "Star of David"
+  ],
+  "themes": [
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "even words",
+  "1011",
+  "337",
+  "3 x 337",
+  "three times 337",
+  "Star of David",
+  "Magen David",
+  "three stars",
+  "red blue gold stars",
+  "gematria pattern"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

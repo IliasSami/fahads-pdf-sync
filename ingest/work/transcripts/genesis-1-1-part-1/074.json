@@ -1,0 +1,198 @@
+{
+ "id": "genesis-1-1-part-1/74",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:1 word by word: first 3 words and last 4 words are 14 letters each",
+ "summary": "Genesis 1:1 in English and colour-coded Hebrew, each of the seven words matched to its English meaning. The slide points out that the first 3 Hebrew words (בראשית ברא אלהים) total 14 letters and the last 4 words (את השמים ואת הארץ) also total 14 letters.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "In the beginning God created the heavens and the earth.",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "In beginning · created · God · (et) · the skywaters · and (et) · the earth"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "First 3 Words = 14 letters"
+  },
+  {
+   "lang": "he",
+   "role": "body",
+   "text": "בראשית ברא אלהים"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Last 4 Words = 14 letters"
+  },
+  {
+   "lang": "he",
+   "role": "body",
+   "text": "את השמים ואת הארץ"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(et) – untranslated object marker",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the skywaters (the heavens)",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve’et",
+   "gloss": "and (et)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha’aretz",
+   "gloss": "the earth",
+   "strongs": "H776"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "(et)",
+   "other": "את"
+  },
+  {
+   "en": "the skywaters",
+   "other": "השמים"
+  },
+  {
+   "en": "and (et)",
+   "other": "ואת"
+  },
+  {
+   "en": "the earth",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 14,
+   "note": "letters in the first 3 words of Genesis 1:1 (בראשית ברא אלהים)"
+  },
+  {
+   "value": 14,
+   "note": "letters in the last 4 words of Genesis 1:1 (את השמים ואת הארץ)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "heavens",
+   "earth"
+  ],
+  "themes": [
+   "creation",
+   "gematria",
+   "Bible codes"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "In the beginning",
+  "bereshit",
+  "bereshith",
+  "14 letters",
+  "first three words",
+  "last four words",
+  "seven words",
+  "Hebrew word count",
+  "letter count",
+  "skywaters",
+  "et",
+  "Bible numbers",
+  "creation"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

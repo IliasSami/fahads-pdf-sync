@@ -1,0 +1,117 @@
+{
+ "id": "noah-part-1/74",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 7:4-7: seven more days, forty days of rain, Noah is 600 and enters the ark",
+ "summary": "Genesis 7:4-7 in English: after seven more days God will send rain for forty days and forty nights and blot out every living thing; Noah obeys the LORD, is six hundred years old when the flood comes, and enters the ark with his sons, wife and sons' wives.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 7:4-7",
+   "osis": [
+    "Gen.7.4",
+    "Gen.7.5",
+    "Gen.7.6",
+    "Gen.7.7"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ז:ד-ז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.4",
+   "text": "4 “For after seven more days, I will send rain on the earth forty days and forty nights; and I will blot out from the face of the land every living thing that I have made.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.5",
+   "text": "5 Noah did according to all that the LORD had commanded him."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.6",
+   "text": "6 Now Noah was six hundred years old when the flood of water came upon the earth."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.7",
+   "text": "7 Then Noah and his sons and his wife and his sons’ wives with him entered the ark because of the water of the flood."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 7:4-7 / בראשית ז:ד-ז",
+   "osis": [
+    "Gen.7.4",
+    "Gen.7.5",
+    "Gen.7.6",
+    "Gen.7.7"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "seven more days before the rain"
+  },
+  {
+   "value": 40,
+   "note": "forty days and forty nights of rain"
+  },
+  {
+   "value": 600,
+   "note": "Noah's age when the flood came"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "rain"
+  ],
+  "themes": [
+   "judgment",
+   "obedience",
+   "death"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 7:4-7",
+  "seven more days",
+  "forty days and forty nights",
+  "rain on the earth",
+  "blot out every living thing",
+  "Noah 600 years old",
+  "Noah entered the ark",
+  "Noah did all the LORD commanded",
+  "sons' wives",
+  "flood of water",
+  "Genesis 7"
+ ],
+ "uncertain": [
+  "Colours not explained: 'No' of Noah green, 'L' brown and 'R' orange in LORD, 'ar' of 'ark' red."
+ ],
+ "confidence": 0.97
+}

@@ -1,0 +1,164 @@
+{
+ "id": "genesis-1-1-part-2/81",
+ "kinds": [
+  "diagram",
+  "word-study"
+ ],
+ "title": "Genesis 1:1 triangle has 28 letters: 28 is a Perfect Number",
+ "summary": "Genesis 1:1 header, then 'bereshit 1:1 בראשית is a Perfect Number', over the colour-coded 28-letter Hebrew triangle of Genesis 1:1. It gives the factors of 28 (28 x 1, 2 x 14, 4 x 7) and the sum 28 = 1 + 2 + 14 + 4 + 7.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bereshit 1:1"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בראשית"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "is a Perfect Number."
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ר א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש י ת"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב ר א א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ל ה י ם א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת ה ש מ י ם"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ו א ת ה א ר ץ"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Factors of 28     28 x 1     2 x 14     4 x 7"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "28 = 1 + 2 + 14 + 4 + 7"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 28,
+   "note": "letters in Genesis 1:1 (7-row triangle); a perfect number: factors 28 x 1, 2 x 14, 4 x 7; 28 = 1 + 2 + 14 + 4 + 7"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A smaller seven-row pyramid of the 28 Hebrew letters of Genesis 1:1, each word in its own colour: red (בראשית), yellow (ברא אלהים), green (את), light blue (השמים), dark navy (ואת) and purple (הארץ).",
+   "subjects": [
+    "Hebrew letters",
+    "triangle",
+    "pyramid",
+    "colour-coded words",
+    "Genesis 1:1",
+    "rainbow colours"
+   ],
+   "text_in_picture": "ב ר א ש י ת ב ר א א ל ה י ם א ת ה ש מ י ם ו א ת ה א ר ץ",
+   "credit": null,
+   "box": [
+    0.38,
+    0.27,
+    0.67,
+    0.68
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "triangle"
+  ],
+  "themes": [
+   "perfect number",
+   "creation",
+   "Hebrew letter patterns",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "perfect number 28",
+  "28 letters Genesis 1:1",
+  "factors of 28",
+  "1+2+14+4+7",
+  "bereshit",
+  "Genesis 1:1",
+  "triangle of letters",
+  "in the beginning",
+  "mathematics of Genesis 1:1",
+  "second perfect number",
+  "בראשית"
+ ],
+ "uncertain": [
+  "A small text cursor mark appears right after the ש in the third triangle row (not transcribed)."
+ ],
+ "confidence": 0.95
+}

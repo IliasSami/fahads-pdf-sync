@@ -1,0 +1,29 @@
+{
+  "id": "akeda-2/2",
+  "kinds": ["letters"],
+  "title": "The letter alef: ox-head pictograph meaning strength, God; value 1",
+  "summary": "Introduces the Hebrew letter alef (א), English equivalent A, with its ancient ox-head pictograph, meaning \"strength\" or \"God\", and numeric value 1.",
+  "text": [
+    {"lang": "he", "role": "label", "text": "א"},
+    {"lang": "translit", "role": "label", "text": "alef"},
+    {"lang": "en", "role": "label", "text": "A"},
+    {"lang": "en", "role": "label", "text": "Strength, God"},
+    {"lang": "en", "role": "number", "text": "1"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [
+    {"en": "alef", "other": "א"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": "strength, God (ox head pictograph)"}
+  ],
+  "numbers": [],
+  "pictures": [
+    {"type": "pictograph", "description": "Ancient (paleo-)Hebrew pictograph of the letter alef drawn in black: an ox head with two horns, above a short blue line.", "subjects": ["paleo-Hebrew alphabet", "pictograph", "alef", "ox head"], "text_in_picture": "", "credit": null, "box": [0.38, 0.16, 0.48, 0.34]}
+  ],
+  "entities": {"people": ["God"], "places": [], "events": [], "things": [], "themes": ["Hebrew letter meanings"], "groups": []},
+  "keywords": ["alef", "aleph", "Hebrew alphabet", "first letter", "ox head", "pictograph", "paleo-Hebrew", "strength", "God", "letter meaning", "number 1"],
+  "uncertain": [],
+  "confidence": 0.95
+}

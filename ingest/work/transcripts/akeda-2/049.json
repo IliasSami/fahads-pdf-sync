@@ -1,0 +1,22 @@
+{
+  "id": "akeda-2/49",
+  "kinds": ["verse"],
+  "title": "Genesis 23:10-11 — Ephron the Hittite offers the field and cave",
+  "summary": "Genesis 23:10-11: Ephron the Hittite, sitting among the sons of Heth at the city gate, answers Abraham publicly, offering to give him the field and the cave in it to bury his dead.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 23", "osis": ["Gen.23.10", "Gen.23.11"]},
+    {"lang": "he", "role": "reference", "text": "בראשית כג", "osis": ["Gen.23.10", "Gen.23.11"]},
+    {"lang": "en", "role": "verse", "text": "10 Now Ephron was sitting among the sons of Heth; and Ephron the Hittite answered Abraham in the hearing of the sons of Heth; even of all who went in at the gate of his city, saying,", "osis": "Gen.23.10"},
+    {"lang": "en", "role": "verse", "text": "11 “No, my lord, hear me; I give you the field, and I give you the cave that is in it. In the presence of the sons of my people I give it to you; bury your dead.”", "osis": "Gen.23.11"}
+  ],
+  "refs": [{"shown": "Genesis 23 / בראשית כג", "osis": ["Gen.23.10", "Gen.23.11"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Ephron", "Abraham"], "places": ["Cave of Machpelah"], "events": ["Death of Sarah"], "things": ["cave", "field", "city gate"], "themes": ["burial"], "groups": ["sons of Heth (Hittites)"]},
+  "keywords": ["Ephron the Hittite", "Ephron", "sons of Heth", "Hittites", "gate of his city", "I give you the field", "cave", "Machpelah", "burial of Sarah", "Genesis 23"],
+  "uncertain": [],
+  "confidence": 0.96
+}

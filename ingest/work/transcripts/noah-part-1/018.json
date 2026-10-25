@@ -1,0 +1,137 @@
+{
+ "id": "noah-part-1/18",
+ "kinds": [
+  "timeline"
+ ],
+ "title": "Timeline: 6,000 years, the Rapture, 1,000-year reign, eternity at 8,000",
+ "summary": "A step-by-step timeline: Adam to Yeshua is 4,000 years, plus 2,000 years from Yeshua to today makes 6,000 years. Then comes the Rapture, plus a 1,000-year reign of Yeshua for 7,000 years. Eternity begins at the 8,000 year mark, with the asterisked note that 8 means New Beginnings.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "adam → 4,000 years → yeshua"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "+ yeshua → 2,000 years → Today"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "6,000 years"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Rapture"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "+ Reign of → 1,000 years → yeshua"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "7,000 years"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Eternity begins at the 8,000* year mark."
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "*8 = New Beginnings"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "en",
+   "word": "adam",
+   "translit": "adam",
+   "gloss": "Adam, man",
+   "strongs": "H121"
+  },
+  {
+   "lang": "en",
+   "word": "yeshua",
+   "translit": "yeshua",
+   "gloss": "Jesus (salvation)",
+   "strongs": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 4000,
+   "note": "years from Adam to Yeshua"
+  },
+  {
+   "value": 2000,
+   "note": "years from Yeshua to today"
+  },
+  {
+   "value": 6000,
+   "note": "total years to today"
+  },
+  {
+   "value": 1000,
+   "note": "years of the reign of Yeshua"
+  },
+  {
+   "value": 7000,
+   "note": "total years including the reign"
+  },
+  {
+   "value": 8000,
+   "note": "year mark at which eternity begins"
+  },
+  {
+   "value": 8,
+   "note": "number meaning New Beginnings"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Rapture",
+   "Millennial Reign",
+   "Second Coming"
+  ],
+  "things": [],
+  "themes": [
+   "prophecy",
+   "biblical feasts",
+   "resurrection"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "6000 years",
+  "7000 years",
+  "8000 years",
+  "Rapture",
+  "millennial reign",
+  "1000 year reign",
+  "thousand years reign of Christ",
+  "Adam to Yeshua 4000 years",
+  "2000 years",
+  "eternity begins",
+  "number 8 new beginnings",
+  "end times timeline",
+  "seven thousand years",
+  "Yeshua returns"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

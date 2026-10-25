@@ -1,0 +1,233 @@
+{
+ "id": "noah-part-1/65",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:26: image (tsal, shadow) and likeness (dam, blood) with the letters yod-he-vav-he",
+ "summary": "Genesis 1:26 'Let Us make man in Our image according to Our likeness' with betsalmenu (בצלמנו) and kidmutenu (כדמותנו): tsal (shadow, spiritual) is marked in blue inside 'image' and dam (blood, physical) in red inside 'likeness'. A vertical column of the four Hebrew letters yod, he, vav, he (י ה ו ה) stands between the two columns.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:26",
+   "osis": "Gen.1.26"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:כו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.26",
+   "text": "Then God said, \"Let Us make man in Our image according to Our likeness"
+  },
+  {
+   "lang": "translit",
+   "role": "verse",
+   "text": "betsalmenu, kidmutenu"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בצלמנו כדמותנו"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tsal"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "dam"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Shadow"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Blood"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Spiritual"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Physical"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:26 / בראשית א:כו",
+   "osis": [
+    "Gen.1.26"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בצלמנו",
+   "translit": "betsalmenu",
+   "gloss": "in our image",
+   "strongs": "H6754"
+  },
+  {
+   "lang": "he",
+   "word": "כדמותנו",
+   "translit": "kidmutenu",
+   "gloss": "according to our likeness",
+   "strongs": "H1823"
+  },
+  {
+   "lang": "he",
+   "word": "צל",
+   "translit": "tsal",
+   "gloss": "shadow (spiritual)",
+   "strongs": "H6738"
+  },
+  {
+   "lang": "he",
+   "word": "דם",
+   "translit": "dam",
+   "gloss": "blood (physical)",
+   "strongs": "H1818"
+  },
+  {
+   "lang": "he",
+   "word": "נו",
+   "translit": "-enu",
+   "gloss": "our / us (ending)",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the LORD (the four letters shown stacked: yod, he, vav, he)",
+   "strongs": "H3068"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "image",
+   "other": "צל"
+  },
+  {
+   "en": "Shadow",
+   "other": "צל"
+  },
+  {
+   "en": "Spiritual",
+   "other": "צל"
+  },
+  {
+   "en": "likeness",
+   "other": "דם"
+  },
+  {
+   "en": "Blood",
+   "other": "דם"
+  },
+  {
+   "en": "Physical",
+   "other": "דם"
+  },
+  {
+   "en": "Us",
+   "other": "נו"
+  },
+  {
+   "en": "Our",
+   "other": "נו"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "image of God",
+   "creation",
+   "blood",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:26",
+  "let Us make man",
+  "image and likeness",
+  "in our image",
+  "after our likeness",
+  "tselem",
+  "tsal",
+  "shadow",
+  "dam",
+  "blood",
+  "YHWH",
+  "yod he vav he",
+  "Yahweh",
+  "spiritual and physical",
+  "betsalmenu",
+  "kidmutenu",
+  "created in God's image"
+ ],
+ "uncertain": [
+  "The stacked letters between the columns are shown in different colours (yod brown, he black, vav orange, he black); the slide gives no caption for them, and does not give their numeric values or meanings. 'God' has G blue, o red, d yellow. 'Us', 'Our' and the ending נו are black and underlined."
+ ],
+ "confidence": 0.93
+}

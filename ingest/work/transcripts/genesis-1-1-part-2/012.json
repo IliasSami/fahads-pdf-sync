@@ -1,0 +1,147 @@
+{
+ "id": "genesis-1-1-part-2/12",
+ "kinds": [
+  "title",
+  "word-study"
+ ],
+ "title": "Torah: Genesis 1:1 and Deuteronomy 34:12, book 1 Genesis — bereshit, In beginning",
+ "summary": "A slide headed Torah with the references Genesis 1:1 (בראשית א:א) on one side and Deuteronomy 34:12 (דברים לד:י) on the other. Below it names book 1, Genesis, in Hebrew בראשית (bereshit), \"In beginning\".",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Torah"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Deuteronomy 34:12",
+   "osis": "Deut.34.12"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "דברים לד:י"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "1 Genesis"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "בראשית"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bereshit"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "In beginning"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Deuteronomy 34:12 / דברים לד:י",
+   "osis": [
+    "Deut.34.12"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning (Genesis)",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "דברים",
+   "translit": "devarim",
+   "gloss": "Deuteronomy (Hebrew name)",
+   "strongs": "H1697"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Genesis",
+   "other": "בראשית"
+  },
+  {
+   "en": "bereshit",
+   "other": "בראשית"
+  },
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "Deuteronomy",
+   "other": "דברים"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "Genesis is book 1 of the Torah"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "Torah",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Torah",
+  "Genesis",
+  "Deuteronomy",
+  "Genesis 1:1",
+  "Deuteronomy 34:12",
+  "bereshit",
+  "in the beginning",
+  "first and last verse of the Torah",
+  "five books of Moses",
+  "Pentateuch",
+  "book 1",
+  "devarim"
+ ],
+ "uncertain": [
+  "The Hebrew reference beside Deuteronomy reads דברים לד:י (verse letter י = 10) while the English says 34:12; transcribed as shown."
+ ],
+ "confidence": 0.93
+}

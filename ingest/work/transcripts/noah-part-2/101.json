@@ -1,0 +1,118 @@
+{
+ "id": "noah-part-2/101",
+ "kinds": [
+  "genealogy",
+  "list"
+ ],
+ "title": "Ham's descendants: 30 names (Cush to Hamathite)",
+ "summary": "Numbered list of Ham's descendants: his four sons (Cush, Mizraim, Put, Canaan), then the sons of Cush, Raamah, Mizraim and Canaan, numbered 1 to 30. Canaan's list (20 Sidon through 30 Hamathite) sits in a separate block on the right.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Ham"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Cush, 2 Mizraim, 3 Put, 4 Canaan."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Cush → 5 Seba, 6 Havilah, 7 Sabtah, 8 Raamah, 9 Sabteca"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "8 Raamah → 10 Sheba, 11 Dedan, 12 Nimrod"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "2 Mizraim → 13 Ludim, 14 Anamim, 15 Lehabim, 16 Naphtuhim, 17 Pathrusim, 18 Casluhim, 19 Caphtorim"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "4 Canaan → 20 Sidon, 21 Heth, 22 Jebusite, 23 Amorite, 24 Girgashite, 25 Hivite, 26 Arkite, 27 Sinite, 28 Arvadite, 29 Zemarite, 30 Hamathite"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 30,
+   "note": "total names listed for Ham's line"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Ham",
+   "Cush",
+   "Mizraim",
+   "Put",
+   "Canaan",
+   "Seba",
+   "Havilah",
+   "Sabtah",
+   "Raamah",
+   "Sabteca",
+   "Sheba",
+   "Dedan",
+   "Nimrod",
+   "Ludim",
+   "Anamim",
+   "Lehabim",
+   "Naphtuhim",
+   "Pathrusim",
+   "Casluhim",
+   "Caphtorim",
+   "Sidon",
+   "Heth"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "genealogy",
+   "table of nations"
+  ],
+  "groups": [
+   "Jebusites",
+   "Amorites",
+   "Girgashites",
+   "Hivites",
+   "Arkites",
+   "Sinites",
+   "Arvadites",
+   "Zemarites",
+   "Hamathites"
+  ]
+ },
+ "keywords": [
+  "Ham",
+  "sons of Ham",
+  "descendants of Ham",
+  "table of nations",
+  "Genesis 10",
+  "Cush",
+  "Mizraim",
+  "Egypt",
+  "Put",
+  "Canaan",
+  "Canaanites",
+  "Nimrod",
+  "Philistines",
+  "Caphtorim",
+  "Jebusite",
+  "Amorite",
+  "Hivite",
+  "family tree"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,28 @@
+{
+  "id": "abel/157",
+  "kinds": ["verse", "comparison"],
+  "title": "Cain kills Abel; the high priest declares Jesus deserving of death",
+  "summary": "Genesis 4:8 (Cain said to Abel his brother and then rose up and killed him) is set above Matthew 26:65-66, where the high priest tears his garments, says Jesus has blasphemed, and the council answers, \"He is deserving of death.\"",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:8", "osis": "Gen.4.8"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ח", "osis": "Gen.4.8"},
+    {"lang": "en", "role": "verse", "text": "8 And Cain said to Abel his brother; and it came to pass, when they were in the field, that Cain rose up against Abel his brother and killed him.", "osis": "Gen.4.8"},
+    {"lang": "en", "role": "reference", "text": "Matthew 26:65-66", "osis": ["Matt.26.65", "Matt.26.66"]},
+    {"lang": "el", "role": "reference", "text": "Ματθαίος 26:65-66", "osis": ["Matt.26.65", "Matt.26.66"]},
+    {"lang": "en", "role": "verse", "text": "65 Then the high priest tears his garments, saying, “He has blasphemed; why do we have any more need of witnesses? Behold now, you have heard the blasphemy.", "osis": "Matt.26.65"},
+    {"lang": "en", "role": "verse", "text": "66 What do you think?” And answering they said, “He is deserving of death.”", "osis": "Matt.26.66"}
+  ],
+  "refs": [
+    {"shown": "Genesis 4:8 / בראשית ד:ח", "osis": ["Gen.4.8"], "role": "quoted"},
+    {"shown": "Matthew 26:65-66 / Ματθαίος 26:65-66", "osis": ["Matt.26.65", "Matt.26.66"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Cain", "Abel", "Jesus"], "places": [], "events": ["Murder of Abel", "Trial of Jesus"], "things": ["garments"], "themes": ["murder", "injustice", "blasphemy", "death", "typology"], "groups": ["high priest", "Sanhedrin"]},
+  "keywords": ["high priest", "rent his clothes", "tore his garments", "blasphemy", "deserving of death", "guilty of death", "trial of Jesus", "Sanhedrin", "Cain killed Abel", "Genesis 4", "Matthew 26"],
+  "uncertain": [],
+  "confidence": 0.95
+}

@@ -1,0 +1,71 @@
+{
+ "id": "red-heifer/108",
+ "kinds": [
+  "text"
+ ],
+ "title": "The Jews believe the 10th and last Red Heifer will be prepared by the Messiah",
+ "summary": "Text slide repeating that only 9 Red Heifers were ever prepared, and adding that the Jews believe the 10th and last will be prepared by the Messiah. The 10th and last are in dark red and Messiah is in gold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Only 9 Red Heifers were ever Prepared"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The Jews believe the 10th and last"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "will be prepared by the Messiah."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 9,
+   "note": "total number of red heifers ever prepared, according to the slide"
+  },
+  {
+   "value": 10,
+   "note": "the tenth and last red heifer, expected to be prepared by the Messiah"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Messiah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer"
+  ],
+  "themes": [
+   "messianic prophecy",
+   "purification"
+  ],
+  "groups": [
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "tenth red heifer",
+  "10th red heifer",
+  "last red heifer",
+  "Messiah prepares red heifer",
+  "Jewish belief",
+  "nine red heifers",
+  "Messiah",
+  "Mashiach",
+  "red heifer prophecy",
+  "Numbers 19"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

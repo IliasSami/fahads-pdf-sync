@@ -1,0 +1,23 @@
+{
+  "id": "akeda-2/85",
+  "kinds": ["word-study"],
+  "title": "The name Laban (לבן) means 'White'",
+  "summary": "Word study on the name of Rebekah's brother Laban: the Hebrew לבן (laban) means 'white'. White text on a black background.",
+  "text": [
+    {"lang": "translit", "role": "label", "text": "laban"},
+    {"lang": "he", "role": "heading", "text": "לבן"},
+    {"lang": "en", "role": "label", "text": "White"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "לבן", "translit": "laban", "gloss": "white (the name Laban)", "strongs": "H3837"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Laban"], "places": [], "events": [], "things": [], "themes": ["meaning of names"], "groups": []},
+  "keywords": ["Laban", "lavan", "white", "meaning of the name Laban", "Rebekah's brother", "Hebrew names", "name meaning", "Genesis 24"],
+  "uncertain": [],
+  "confidence": 0.96
+}

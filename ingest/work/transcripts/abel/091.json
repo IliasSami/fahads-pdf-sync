@@ -1,0 +1,32 @@
+{
+  "id": "abel/91",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:10 — “What” (mah, מה)",
+  "summary": "Genesis 4:10 in English and Hebrew with the word “What” (the letters “Wh” in English and the mem of מה in Hebrew) highlighted in light blue, plus a word study: mah (מה) means “What.”",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:10", "osis": "Gen.4.10"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:י"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.10", "text": "10 And He said, “What have you done? The voice of your brother’s blood cries out to Me from the ground."},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.10", "text": "10 ויאמר מה עשית קול דמי אחיך צעקים אלי מן האדמה׃"},
+    {"lang": "translit", "role": "label", "text": "mah"},
+    {"lang": "he", "role": "label", "text": "מה"},
+    {"lang": "en", "role": "label", "text": "What"}
+  ],
+  "refs": [{"shown": "Genesis 4:10 / בראשית ד:י", "osis": ["Gen.4.10"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "מה", "translit": "mah", "gloss": "what", "strongs": "H4100"}
+  ],
+  "color_links": [
+    {"en": "Wh (What)", "other": "מ"},
+    {"en": "m (mah)", "other": "מ"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "mem", "char": "מ", "value": 40, "meaning": ""}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain", "Abel"], "places": [], "events": ["Murder of Abel"], "things": ["ground"], "themes": ["blood", "judgment", "sin"], "groups": []},
+  "keywords": ["what", "mah", "what hast thou done", "what have you done", "Hebrew word for what", "voice of thy brother's blood", "murder of Abel", "God confronts Cain", "Genesis 4", "Genesis 4:10"],
+  "uncertain": ["Only the mem (מ) of מה and “Wh” of “What” are in light blue; the exact intended colour match (m = Wh) is inferred from the colouring."],
+  "confidence": 0.93
+}

@@ -1,0 +1,125 @@
+{
+ "id": "akeda-2/117",
+ "kinds": [
+  "text",
+  "word-study"
+ ],
+ "title": "The three are as one: Hebrew echad (אחד) replaces \"one\"",
+ "summary": "Same trust statements and closing line, but now the word \"one\" is struck through with an arrow pointing to the Hebrew word אחד, transliterated echad, written in colour above the line.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Isaac trusts his father"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "by allowing himself to be tied up to be sacrificed."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Abraham trusts his servant, Eliezer"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "so much he was his sole heir."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Isaac trusts Abraham and most trusted servant"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "to find a bride for him."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The most trusted servant"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "remaining nameless, points to Isaac, the Son."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The three are so likeminded; they are as ~~one~~."
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אחד"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "echad"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אחד",
+   "translit": "echad",
+   "gloss": "one",
+   "strongs": "H259"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "echad",
+   "other": "אחד"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Isaac",
+   "Abraham",
+   "Eliezer"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "bride"
+  ],
+  "themes": [
+   "faith",
+   "sacrifice",
+   "marriage",
+   "typology",
+   "inheritance",
+   "unity"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "echad",
+  "ehad",
+  "אחד",
+  "Hebrew word for one",
+  "three are as one",
+  "likeminded",
+  "unity",
+  "Isaac trusts Abraham",
+  "most trusted servant",
+  "Akedah",
+  "Akeda",
+  "Binding of Isaac",
+  "one in Hebrew"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

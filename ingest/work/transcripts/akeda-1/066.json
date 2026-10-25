@@ -1,0 +1,23 @@
+{
+  "id": "akeda-1/66",
+  "kinds": ["verse"],
+  "title": "Genesis 12:1-3 — God calls Abram: a great nation and all families blessed",
+  "summary": "Genesis 12:1-3 in English: the LORD tells Abram to go from his country to the land He will show him, promising to make him a great nation, bless him, make his name great, bless those who bless him, curse the one who curses him, and bless all the families of the earth through him.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 12:1-3", "osis": ["Gen.12.1", "Gen.12.2", "Gen.12.3"]},
+    {"lang": "he", "role": "reference", "text": "בראשית יב:א-ג"},
+    {"lang": "en", "role": "verse", "osis": "Gen.12.1", "text": "1 Now the LORD said to Abram, “Go forth from your country, And from your relatives And from your father’s house, To the land which I will show you;"},
+    {"lang": "en", "role": "verse", "osis": "Gen.12.2", "text": "2 And I will make you a great nation, And I will bless you, And make your name great; And so you shall be a blessing;"},
+    {"lang": "en", "role": "verse", "osis": "Gen.12.3", "text": "3 And I will bless those who bless you, And the one who curses you I will curse. And in you all the families of the earth will be blessed.”"}
+  ],
+  "refs": [{"shown": "Genesis 12:1-3 / בראשית יב:א-ג", "osis": ["Gen.12.1", "Gen.12.2", "Gen.12.3"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham"], "places": [], "events": ["Call of Abraham"], "things": [], "themes": ["covenant", "blessing", "promise", "faith", "obedience"], "groups": []},
+  "keywords": ["Genesis 12:1-3", "call of Abram", "Abrahamic covenant", "get thee out of thy country", "I will make of thee a great nation", "I will bless thee", "make thy name great", "thou shalt be a blessing", "bless them that bless thee", "curse him that curseth thee", "all families of the earth be blessed", "Abram", "Lech Lecha"],
+  "uncertain": [],
+  "confidence": 0.97
+}

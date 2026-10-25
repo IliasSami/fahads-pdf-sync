@@ -1,0 +1,144 @@
+{
+ "id": "genesis-1-1-part-1/78",
+ "kinds": [
+  "verse",
+  "gematria",
+  "letters"
+ ],
+ "title": "Genesis 1:1: first and last letters of all seven words total 1393 = 7 x 199",
+ "summary": "Genesis 1:1 in colour-coded Hebrew with the number value of the first and last letter of each of the seven words written underneath. Added together (90 + 5 + 400 + 6 + 40 + 5 + 400 + 1 + 40 + 1 + 1 + 2 + 400 + 2) they make 1393, which is 7 x 199.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "In the beginning God created the heavens and the earth.",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "In beginning · created · God · (et) · the skywaters · and (et) · the earth"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "90 5 · 400 6 · 40 5 · 400 1 · 40 1 · 1 2 · 400 2 (values of the last and first letter of each word, shown left to right under הארץ, ואת, השמים, את, אלהים, ברא, בראשית)"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Gematria of the First and Last Letters of all seven Words."
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "90 + 5 + 400 + 6 + 40 + 5 + 400 + 1 + 40 + 1 + 1 + 2 + 400 + 2"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 1393 = 7 x 199"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "(et)",
+   "other": "את"
+  },
+  {
+   "en": "the skywaters",
+   "other": "השמים"
+  },
+  {
+   "en": "and (et)",
+   "other": "ואת"
+  },
+  {
+   "en": "the earth",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1393,
+   "note": "sum of the gematria of the first and last letters of all seven words of Genesis 1:1"
+  },
+  {
+   "value": 199,
+   "note": "1393 = 7 x 199"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "creation",
+   "Bible codes"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "gematria",
+  "1393",
+  "7 x 199",
+  "199",
+  "first and last letters",
+  "seven words",
+  "seven",
+  "Bible numbers",
+  "Hebrew numerology",
+  "In the beginning",
+  "letter values"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

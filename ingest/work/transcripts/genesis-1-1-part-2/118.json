@@ -1,0 +1,158 @@
+{
+ "id": "genesis-1-1-part-2/118",
+ "kinds": [
+  "letters",
+  "diagram"
+ ],
+ "title": "Yod and its spelled-out letters shown as plus, bar and dot shapes",
+ "summary": "Shows the letter yod and its spelled-out letters (dalet, vav, yod) above three large plain shapes in matching colours: a brown plus sign, an orange vertical bar and a small red-brown diamond. The slide gives no written explanation of the shapes.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "yod"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "י"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ו ד"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יוד",
+   "translit": "yod",
+   "gloss": "name of the letter yod, spelled out",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "plus sign (brown)",
+   "other": "ד"
+  },
+  {
+   "en": "vertical bar (orange)",
+   "other": "ו"
+  },
+  {
+   "en": "diamond (red-brown)",
+   "other": "י"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "dalet",
+   "char": "ד",
+   "value": 4,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "symbol",
+   "description": "Large brown plus sign (a cross of equal-length vertical and horizontal bars), matching the brown colour of the letter dalet above.",
+   "subjects": [
+    "plus sign",
+    "cross",
+    "brown",
+    "shape"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.16,
+    0.58,
+    0.31,
+    0.87
+   ]
+  },
+  {
+   "type": "symbol",
+   "description": "Tall orange vertical bar, matching the orange colour of the letter vav above.",
+   "subjects": [
+    "vertical bar",
+    "line",
+    "orange",
+    "shape"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.5,
+    0.54,
+    0.53,
+    0.85
+   ]
+  },
+  {
+   "type": "symbol",
+   "description": "Small red-brown diamond (dot), matching the colour of the letter yod above.",
+   "subjects": [
+    "diamond",
+    "dot",
+    "point",
+    "red-brown",
+    "shape"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.71,
+    0.63,
+    0.76,
+    0.72
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "yod",
+  "yud",
+  "dalet vav yod",
+  "plus sign",
+  "vertical line",
+  "dot",
+  "diamond",
+  "letter shapes",
+  "Hebrew letters",
+  "colour-coded letters",
+  "hidden meaning of yod"
+ ],
+ "uncertain": [
+  "The slide does not label the plus, bar and diamond; their colours match dalet (brown), vav (orange) and yod (red-brown), but their intended meaning is not stated."
+ ],
+ "confidence": 0.82
+}

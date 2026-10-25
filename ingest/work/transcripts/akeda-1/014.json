@@ -1,0 +1,26 @@
+{
+  "id": "akeda-1/14",
+  "kinds": ["verse", "text"],
+  "title": "Genesis 18:13-14 — Birth Prophesied: Sarah will have a son",
+  "summary": "Genesis 18:13-14: the LORD asks Abraham why Sarah laughed and promises that at this time next year Sarah will have a son. Colour-coded words (LORD, Abraham, Sarah, I, son) with the large caption 'Birth Prophesied'.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 18:13", "osis": "Gen.18.13"},
+    {"lang": "he", "role": "reference", "text": "בראשית יח:יג"},
+    {"lang": "en", "role": "verse", "osis": "Gen.18.13", "text": "13 And the LORD said to Abraham, “Why did Sarah laugh,"},
+    {"lang": "en", "role": "verse", "osis": "Gen.18.13", "text": "saying, ‘Shall I indeed bear a child, when I am so old?’"},
+    {"lang": "en", "role": "verse", "osis": "Gen.18.14", "text": "14 “Is anything too difficult for the LORD?"},
+    {"lang": "en", "role": "verse", "osis": "Gen.18.14", "text": "At the appointed time I will return to you,"},
+    {"lang": "en", "role": "verse", "osis": "Gen.18.14", "text": "at this time next year, and Sarah will have a son.”"},
+    {"lang": "en", "role": "heading", "text": "Birth Prophesied"}
+  ],
+  "refs": [{"shown": "Genesis 18:13 / בראשית יח:יג", "osis": ["Gen.18.13", "Gen.18.14"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham", "Sarah", "Isaac"], "places": [], "events": ["Birth of Isaac"], "things": [], "themes": ["prophecy", "promise", "faith", "covenant"], "groups": []},
+  "keywords": ["Genesis 18:13", "Genesis 18:14", "Sarah laughed", "Is anything too difficult for the LORD", "birth prophesied", "promise of a son", "appointed time", "next year", "Sarah will have a son", "Abraham and Sarah", "Genesis 18"],
+  "uncertain": [],
+  "confidence": 0.96
+}

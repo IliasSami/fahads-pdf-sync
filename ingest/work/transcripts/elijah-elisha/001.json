@@ -1,0 +1,26 @@
+{
+  "id": "elijah-elisha/1",
+  "kinds": ["title", "picture"],
+  "title": "Elijah & Elisha, Part 1 — title slide",
+  "summary": "Opening title slide for the Elijah and Elisha series, Part 1: a video still of the presenter roasting a marshmallow by a fireplace in front of a world map. The shared first letters of the two names (E, l, i) are coloured alike.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Elijah"},
+    {"lang": "en", "role": "heading", "text": "Elisha"},
+    {"lang": "en", "role": "label", "text": "Part 1"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "en", "word": "Elijah", "translit": "Eliyahu", "gloss": "my God is Yahweh", "strongs": "H452"},
+    {"lang": "en", "word": "Elisha", "translit": "Elisha", "gloss": "God is salvation", "strongs": "H477"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [
+    {"type": "video-still", "description": "The presenter, a grey-haired man in glasses and a white T-shirt, sits in a brown leather armchair holding a flaming marshmallow on a long stick, with a large world map on the wall behind him and a fireplace with burning logs to his left. A vase of decorative stems stands at the far left.", "subjects": ["presenter", "world map", "fireplace", "marshmallow", "armchair", "campfire"], "text_in_picture": "Elijah / Elisha / Part 1; Hard Rock Cafe (T-shirt logo)", "credit": null, "box": [0, 0, 1, 1]}
+  ],
+  "entities": {"people": ["Elijah", "Elisha"], "places": [], "events": [], "things": ["marshmallow", "fireplace"], "themes": ["prophecy"], "groups": ["prophets"]},
+  "keywords": ["Elijah", "Elisha", "Eliyahu", "Elias", "prophets", "Part 1", "title slide", "roasting marshmallow", "fireplace", "world map", "video", "Dutch Uncle John"],
+  "uncertain": [],
+  "confidence": 0.93
+}

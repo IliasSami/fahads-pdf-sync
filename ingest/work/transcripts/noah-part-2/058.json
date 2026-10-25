@@ -1,0 +1,88 @@
+{
+ "id": "noah-part-2/58",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Esther 5:8 — the banquet \"tomorrow\" (17 Nisan)",
+ "summary": "Esther 5:8: Esther asks the king and Haman to come \"tomorrow\" to the banquet she will prepare, where she will answer the king's question. The slide dates this as 17 Nisan and highlights \"tomorrow\".",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Esther 5:8",
+   "osis": "Esth.5.8"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "אסתר ה:ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Esth.5.8",
+   "text": "8 If the king regards me with favor and if it pleases the king to grant my petition and fulfill my request, let the king and Haman come tomorrow to the banquet I will prepare for them. Then I will answer the king’s question.”"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "17 nisan"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Esther 5:8 / אסתר ה:ח",
+   "osis": [
+    "Esth.5.8"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 17,
+   "note": "17 Nisan — the day of Esther's banquet for the king and Haman"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Esther",
+   "Haman",
+   "Xerxes"
+  ],
+  "places": [],
+  "events": [
+   "Esther's banquet"
+  ],
+  "things": [
+   "banquet",
+   "petition"
+  ],
+  "themes": [
+   "biblical feasts",
+   "Flood chronology",
+   "providence"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Esther 5",
+  "17 Nisan",
+  "banquet",
+  "tomorrow",
+  "Esther's banquet",
+  "king and Haman",
+  "petition",
+  "request",
+  "Xerxes",
+  "Ahasuerus",
+  "Haman",
+  "king regards me with favor"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

@@ -1,0 +1,106 @@
+{
+ "id": "red-heifer/35",
+ "kinds": [
+  "title",
+  "list"
+ ],
+ "title": "Red heifer ordinance, step 3 — mix the ashes with spring water",
+ "summary": "Adds step 3 of the red heifer ordinance: mix its ashes with spring water. Steps 1 and 2 (find an unblemished red heifer; slaughter and burn it outside the city with cedar wood, hyssop and crimson wool) remain above.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Ordinance of the Red Heifer"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "is the most mysterious of the"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "chukat"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "חקת"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "…"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1. Find a red heifer that is completely unblemished and never used as a beast of burden."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "2. Slaughter it and burn it together outside the city with some cedar wood, some hyssop, and some crimson wool."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "3. Mix its ashes with spring water."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חקת",
+   "translit": "chukat",
+   "gloss": "statutes of (statute, ordinance)",
+   "strongs": "H2708",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "chukat",
+   "other": "חקת"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "cedar wood",
+   "hyssop",
+   "crimson wool",
+   "ashes",
+   "spring water"
+  ],
+  "themes": [
+   "statutes (chok)",
+   "purification",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "red heifer",
+  "ordinance of the red heifer",
+  "ashes of the heifer",
+  "mix ashes with water",
+  "spring water",
+  "living water",
+  "running water",
+  "water of purification",
+  "water of separation",
+  "step 3",
+  "chukat",
+  "Numbers 19"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

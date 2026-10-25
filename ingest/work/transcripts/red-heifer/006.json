@@ -1,0 +1,68 @@
+{
+ "id": "red-heifer/6",
+ "kinds": [
+  "quote",
+  "text"
+ ],
+ "title": "The Amidah (Standing Prayer): rebuild the Temple speedily",
+ "summary": "Excerpt from the Jewish Amidah, or Standing Prayer, asking God to speedily rebuild the Temple in our days, give a portion in His Torah, and enable the worshipper to fulfil His statutes and do His will. Several words (God, Temple, Torah) have coloured letters.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Amidah Prayer"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Standing Prayer"
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "text": "“May it be your will, O my God and God of my fathers, that You Shall speedily rebuild the Temple in our days, and give us our portion in your Torah, so that we may fulfill your statutes and do Your Will and serve you with all our heart.”"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "Temple",
+   "Torah"
+  ],
+  "themes": [
+   "prayer",
+   "temple",
+   "Torah",
+   "obedience"
+  ],
+  "groups": [
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "Amidah",
+  "Amidah prayer",
+  "Standing Prayer",
+  "Shemoneh Esrei",
+  "Jewish prayer",
+  "rebuild the Temple",
+  "third Temple",
+  "speedily in our days",
+  "Torah",
+  "statutes",
+  "do Your will",
+  "God of my fathers"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

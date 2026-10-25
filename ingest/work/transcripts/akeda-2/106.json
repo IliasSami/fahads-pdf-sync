@@ -1,0 +1,100 @@
+{
+ "id": "akeda-2/106",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Matthew 3:16-17 — Jesus' baptism: the Spirit like a dove and the Father's voice",
+ "summary": "Matthew 3:16-17 quoted in English with colour highlights: after Jesus is baptized the heavens open, the Spirit of God descends like a dove, and a voice says \"This is My beloved Son\". A closing line reads \"John was present at Jesus' baptism\".",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Matthew 3:16-17",
+   "osis": [
+    "Matt.3.16",
+    "Matt.3.17"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Μαθθαῖον 3:16-17"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": [
+    "Matt.3.16"
+   ],
+   "text": "16 After being baptized, Jesus came up immediately from the water; and behold, the heavens were opened, and he saw the Spirit of God descending as a dove and lighting on Him,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": [
+    "Matt.3.17"
+   ],
+   "text": "17 and behold, a voice out of the heavens said, “This is My beloved Son, in whom I am well-pleased.”"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "John was present at Jesus’ baptism"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Matthew 3:16-17 / Μαθθαῖον 3:16-17",
+   "osis": [
+    "Matt.3.16",
+    "Matt.3.17"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus",
+   "John the Baptist",
+   "God",
+   "Holy Spirit"
+  ],
+  "places": [],
+  "events": [
+   "Baptism of Jesus"
+  ],
+  "things": [
+   "dove",
+   "water"
+  ],
+  "themes": [
+   "baptism",
+   "sonship",
+   "Trinity"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Matthew 3:16",
+  "Matthew 3:17",
+  "baptism of Jesus",
+  "Spirit like a dove",
+  "voice from heaven",
+  "This is my beloved Son",
+  "well pleased",
+  "heavens opened",
+  "John the Baptist",
+  "Jesus baptized",
+  "Trinity",
+  "Jordan"
+ ],
+ "uncertain": [
+  "Colour meanings (Jesus/Son/Him/whom in red; Spirit and dove in gold; My, I, God letters in blue/red/gold) are not explained on the slide"
+ ],
+ "confidence": 0.95
+}

@@ -1,0 +1,67 @@
+{
+ "id": "fall-of-man/71",
+ "kinds": [
+  "text"
+ ],
+ "title": "The 359th day of the year is December 25 — “Something doesn’t seem right?”",
+ "summary": "Says the 359th day of the Gregorian calendar is December 25, described as the pagan holiday celebrating the birth of Tammuz on the winter solstice, abbreviated Xmas and linked with the coming of Santa, and asks “Something doesn’t seem right?” The 359 and the letters of “Santa” are coloured like the letters of Satan on earlier slides.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The 359th day of the Gregorian Calendar is December 25, the pagan holiday celebrating the birth of Tammuz on the winter solstice. A day which many today abbreviate as Xmas and celebrate the coming of Santa."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Something doesn’t seem right?"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 359,
+   "note": "December 25 is the 359th day of the Gregorian calendar"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Tammuz",
+   "Satan"
+  ],
+  "places": [],
+  "events": [
+   "Christmas"
+  ],
+  "things": [
+   "Gregorian calendar"
+  ],
+  "themes": [
+   "gematria",
+   "pagan holidays",
+   "winter solstice"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "359th day",
+  "December 25",
+  "Christmas",
+  "Xmas",
+  "Santa",
+  "Satan",
+  "Santa Claus",
+  "Tammuz",
+  "pagan holiday",
+  "winter solstice",
+  "Gregorian calendar",
+  "birth of Tammuz",
+  "something doesn't seem right"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

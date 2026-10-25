@@ -1,0 +1,135 @@
+{
+ "id": "noah-part-1/27",
+ "kinds": [
+  "letters"
+ ],
+ "title": "The Hebrew letter he (ה): value 5, “Behold! Revelation, Open Window”",
+ "summary": "Teaches the Hebrew letter he (ה): shown in three typefaces and as an ancient pictograph, with the number 5 (H = 5), the meaning “Behold! Revelation, Open Window”, and the note that H becomes “The”.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה ה ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "he"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "H 5"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "BEHOLD! Revelation, Open Window"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "H → The"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ה",
+   "translit": "ha",
+   "gloss": "the (definite article)",
+   "strongs": null
+  }
+ ],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "behold! revelation, open window; H → the (ancient pictograph of a figure with raised arms)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 5,
+   "note": "numerical value of the letter he (ה)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Small ancient (paleo-Hebrew) glyph of the letter he — a stylised figure with raised arms — underlined, placed beside the “H 5” label.",
+   "subjects": [
+    "paleo-Hebrew",
+    "pictograph",
+    "ancient Hebrew letter he",
+    "figure with raised arms"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.43,
+    0.32,
+    0.52,
+    0.48
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "The same ancient glyph of he (figure with raised arms), underlined, drawn large beside the giant numeral 5 and the Latin letter H.",
+   "subjects": [
+    "paleo-Hebrew",
+    "pictograph",
+    "ancient Hebrew letter he",
+    "figure with raised arms"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.21,
+    0.63,
+    0.31,
+    0.8
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "he",
+  "hey",
+  "heh",
+  "letter he",
+  "Hebrew letter ה",
+  "five",
+  "5",
+  "behold",
+  "revelation",
+  "open window",
+  "ancient Hebrew pictograph",
+  "paleo-Hebrew",
+  "the definite article",
+  "Hebrew alphabet"
+ ],
+ "uncertain": [
+  "Exact typefaces of the three ה letters at top; the three are transcribed simply as ה ה ה"
+ ],
+ "confidence": 0.93
+}

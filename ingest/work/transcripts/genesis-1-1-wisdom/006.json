@@ -1,0 +1,33 @@
+{
+  "id": "genesis-1-1-wisdom/6",
+  "kinds": ["verse", "word-study", "gematria"],
+  "title": "1 Kings 3:12 — wise (חכם); Wisdom, chokmah (חכמה) = 73",
+  "summary": "1 Kings 3:12 with “wise” and the Hebrew חכם highlighted in gold, alongside the word Wisdom, chokmah (ח כ מ ה), whose letters add up to 73 (5 40 20 8 = 73).",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "1 Kings 3:12", "osis": "1Kgs.3.12"},
+    {"lang": "he", "role": "reference", "text": "מלכים א ג:יב"},
+    {"lang": "en", "role": "verse", "osis": "1Kgs.3.12", "text": "12 Behold, I have done according to your words; see, I have given you a wise and understanding heart, so that there has not been anyone like you before you, nor shall any like you arise after you."},
+    {"lang": "he", "role": "verse", "osis": "1Kgs.3.12", "text": "12 הנה עשיתי כדבריך הנה נתתי לך לב חכם ונבון אשר כמוך לא היה לפניך ואחריך לא יקום כמוך׃"},
+    {"lang": "en", "role": "label", "text": "Wisdom"},
+    {"lang": "translit", "role": "label", "text": "chokmah"},
+    {"lang": "he", "role": "label", "text": "ח כ מ ה"},
+    {"lang": "en", "role": "number", "text": "5 40 20 8 = 73"}
+  ],
+  "refs": [{"shown": "1 Kings 3:12 / מלכים א ג:יב", "osis": ["1Kgs.3.12"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "חכמה", "translit": "chokmah", "gloss": "wisdom", "strongs": "H2451", "gematria": {"method": "standard", "values": [5, 40, 20, 8], "total": 73}},
+    {"lang": "he", "word": "חכם", "translit": "chakham", "gloss": "wise", "strongs": "H2450"}
+  ],
+  "color_links": [
+    {"en": "wise", "other": "חכם"},
+    {"en": "Wisdom", "other": "חכמה"},
+    {"en": "chokmah", "other": "חכמה"}
+  ],
+  "letters": [],
+  "numbers": [{"value": 73, "note": "gematria of חכמה (wisdom)"}],
+  "pictures": [],
+  "entities": {"people": ["God", "Solomon"], "places": [], "events": [], "things": ["heart"], "themes": ["wisdom", "understanding", "gematria"], "groups": []},
+  "keywords": ["chokmah", "chochmah", "hokmah", "wisdom", "wise", "chakham", "1 Kings 3", "Solomon's wisdom", "wise and understanding heart", "gematria 73", "Hebrew word for wisdom"],
+  "uncertain": [],
+  "confidence": 0.95
+}

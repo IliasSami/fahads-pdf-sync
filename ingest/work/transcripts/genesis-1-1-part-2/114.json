@@ -1,0 +1,180 @@
+{
+ "id": "genesis-1-1-part-2/114",
+ "kinds": [
+  "gematria",
+  "letters",
+  "word-study"
+ ],
+ "title": "Yahweh letters he, vav, he, yod = 26, with each letter spelled out",
+ "summary": "The four Hebrew letters of Yahweh with their values (5 + 6 + 5 + 10 = 26) and their names (he, vav, he, yod), plus a row below that spells out each letter's name in Hebrew letters: הא, ואו, הא, יוד, colour-matched (alef in blue).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 + 6 + 5 + 10 = 26"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "he vav he yod"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "יוד הא ואו הא"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the name of God (YHWH, LORD)",
+   "strongs": "H3068",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     6,
+     5,
+     10
+    ],
+    "total": 26
+   }
+  },
+  {
+   "lang": "he",
+   "word": "הא",
+   "translit": "he",
+   "gloss": "name of the letter he, spelled out",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "ואו",
+   "translit": "vav",
+   "gloss": "name of the letter vav, spelled out",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "יוד",
+   "translit": "yod",
+   "gloss": "name of the letter yod, spelled out",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "he",
+   "other": "ה"
+  },
+  {
+   "en": "vav",
+   "other": "ו"
+  },
+  {
+   "en": "yod",
+   "other": "י"
+  },
+  {
+   "en": "y",
+   "other": "י"
+  },
+  {
+   "en": "w",
+   "other": "ו"
+  },
+  {
+   "en": "ah / eh",
+   "other": "ה"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "appears (blue) inside the spelled-out names הא and ואו"
+  },
+  {
+   "lang": "he",
+   "letter": "dalet",
+   "char": "ד",
+   "value": 4,
+   "meaning": "appears inside the spelled-out name יוד"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 26,
+   "note": "total of the letters of יהוה / Yahweh (5+6+5+10)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "names of God",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Yahweh 26",
+  "YHWH",
+  "tetragrammaton",
+  "he vav he yod",
+  "letter names spelled out",
+  "hidden letters",
+  "Hebrew letters",
+  "name of God",
+  "YHVH",
+  "gematria",
+  "26",
+  "aleph in he"
+ ],
+ "uncertain": [
+  "The spelled-out row is displayed in the same left-to-right order as the letter names above; written here in logical right-to-left order."
+ ],
+ "confidence": 0.93
+}

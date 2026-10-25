@@ -1,0 +1,25 @@
+{
+  "id": "genesis-1-1-wisdom/39",
+  "kinds": ["diagram"],
+  "title": "Two 73-Stars: 73 dots arranged as a Star of David",
+  "summary": "Two identical figures, each made of 73 small Stars of David arranged in rows (1, 2, 3, 10, 9, 8, 7, 8, 9, 10, 3, 2, 1) to form a large six-pointed star, each labelled '73-Star' — one in gold, one in red.",
+  "text": [
+    {"lang": "en", "role": "label", "text": "73-Star"},
+    {"lang": "en", "role": "label", "text": "73-Star"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {"value": 73, "note": "number of points in each six-pointed star figure (a star number)"}
+  ],
+  "pictures": [
+    {"type": "diagram", "description": "Left: 73 small blue Stars of David arranged in rows to make one large six-pointed star (hexagram), labelled '73-Star' in gold.", "subjects": ["star number", "figurate number", "Star of David", "hexagram", "73"], "text_in_picture": "", "credit": null, "box": [0.08, 0.07, 0.37, 0.66]},
+    {"type": "diagram", "description": "Right: the same 73-point six-pointed star figure made of small blue Stars of David, labelled '73-Star' in red.", "subjects": ["star number", "figurate number", "Star of David", "hexagram", "73"], "text_in_picture": "", "credit": null, "box": [0.54, 0.07, 0.84, 0.66]}
+  ],
+  "entities": {"people": [], "places": [], "events": [], "things": ["Star of David"], "themes": ["gematria", "figurate numbers"], "groups": []},
+  "keywords": ["73", "73-Star", "star number", "figurate number", "Star of David", "hexagram", "six-pointed star", "number pattern", "wisdom 73", "Genesis 1:1 2701", "diagram"],
+  "uncertain": [],
+  "confidence": 0.93
+}

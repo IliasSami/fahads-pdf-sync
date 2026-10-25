@@ -1,0 +1,184 @@
+{
+ "id": "noah-part-2/25",
+ "kinds": [
+  "verse",
+  "diagram",
+  "word-study"
+ ],
+ "title": "Genesis 1:6-8 — the expanse divides the waters above and below",
+ "summary": "Genesis 1:6-7 in English (God makes an expanse in the midst of the waters, separating the waters below from the waters above), with a stacked diagram of Water (מים), Expanse of Air (רקיע), Water (מים) above the earth.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:6-8",
+   "osis": [
+    "Gen.1.6",
+    "Gen.1.7",
+    "Gen.1.8"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:ו-ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.6",
+   "text": "6 And God said, “Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.7",
+   "text": "7 God made the expanse, and separated the waters which were below the expanse from the waters which were above the expanse; and it was so."
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מים"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Water"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "רקיע"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Expanse of Air"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מים"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Water"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "E A R T H"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:6-8 / בראשית א:ו-ח",
+   "osis": [
+    "Gen.1.6",
+    "Gen.1.7"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 1:6-8 / בראשית א:ו-ח",
+   "osis": [
+    "Gen.1.8"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "מים",
+   "translit": "mayim",
+   "gloss": "water",
+   "strongs": "H4325"
+  },
+  {
+   "lang": "he",
+   "word": "רקיע",
+   "translit": "raqia",
+   "gloss": "expanse (firmament)",
+   "strongs": "H7549"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Water",
+   "other": "מים"
+  },
+  {
+   "en": "Expanse of Air",
+   "other": "רקיע"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A stacked diagram, top to bottom: blue 'Water' (מים), cyan 'Expanse of Air' (רקיע), blue 'Water' (מים), and brown spaced letters E A R T H at the bottom, showing the waters above and below the expanse over the earth.",
+   "subjects": [
+    "waters above and below",
+    "expanse",
+    "firmament",
+    "layers of creation",
+    "earth",
+    "water",
+    "air"
+   ],
+   "text_in_picture": "Water Expanse of Air Water E A R T H",
+   "credit": null,
+   "box": [
+    0.25,
+    0.6,
+    0.85,
+    0.97
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "expanse",
+   "waters above",
+   "waters below",
+   "earth"
+  ],
+  "themes": [
+   "creation",
+   "Flood chronology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:6",
+  "Genesis 1:7",
+  "Genesis 1:8",
+  "Genesis 1",
+  "expanse",
+  "firmament",
+  "raqia",
+  "waters above the firmament",
+  "waters below",
+  "divide the waters",
+  "second day of creation",
+  "canopy",
+  "rakia",
+  "רקיע",
+  "mayim",
+  "water diagram"
+ ],
+ "uncertain": [
+  "Reference header says 1:6-8 but only verses 6 and 7 are shown on the slide."
+ ],
+ "confidence": 0.95
+}

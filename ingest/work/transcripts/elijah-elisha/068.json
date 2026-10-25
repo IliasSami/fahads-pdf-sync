@@ -1,0 +1,135 @@
+{
+ "id": "elijah-elisha/68",
+ "kinds": [
+  "title",
+  "list"
+ ],
+ "title": "Outline of 1 Kings 18:1-16: Obadiah arranges a meeting between Elijah and Ahab",
+ "summary": "Three-point outline of 1 Kings 18:1-16: King Ahab and Obadiah search for Elijah, Obadiah finds Elijah, and Obadiah arranges a meeting between Elijah and Ahab. The word King is in purple and Elijah is lettered in colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 18:1-16",
+   "osis": [
+    "1Kgs.18.1",
+    "1Kgs.18.2",
+    "1Kgs.18.3",
+    "1Kgs.18.4",
+    "1Kgs.18.5",
+    "1Kgs.18.6",
+    "1Kgs.18.7",
+    "1Kgs.18.8",
+    "1Kgs.18.9",
+    "1Kgs.18.10",
+    "1Kgs.18.11",
+    "1Kgs.18.12",
+    "1Kgs.18.13",
+    "1Kgs.18.14",
+    "1Kgs.18.15",
+    "1Kgs.18.16"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א יח:א-יו",
+   "osis": [
+    "1Kgs.18.1",
+    "1Kgs.18.2",
+    "1Kgs.18.3",
+    "1Kgs.18.4",
+    "1Kgs.18.5",
+    "1Kgs.18.6",
+    "1Kgs.18.7",
+    "1Kgs.18.8",
+    "1Kgs.18.9",
+    "1Kgs.18.10",
+    "1Kgs.18.11",
+    "1Kgs.18.12",
+    "1Kgs.18.13",
+    "1Kgs.18.14",
+    "1Kgs.18.15",
+    "1Kgs.18.16"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "King Ahab and Obadiah search for Elijah"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Obadiah finds Elijah"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Obadiah arranges a meeting between Elijah and Ahab"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 18:1-16 / מלכים א יח:א-יו",
+   "osis": [
+    "1Kgs.18.1",
+    "1Kgs.18.2",
+    "1Kgs.18.3",
+    "1Kgs.18.4",
+    "1Kgs.18.5",
+    "1Kgs.18.6",
+    "1Kgs.18.7",
+    "1Kgs.18.8",
+    "1Kgs.18.9",
+    "1Kgs.18.10",
+    "1Kgs.18.11",
+    "1Kgs.18.12",
+    "1Kgs.18.13",
+    "1Kgs.18.14",
+    "1Kgs.18.15",
+    "1Kgs.18.16"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah",
+   "Ahab",
+   "Obadiah"
+  ],
+  "places": [
+   "Israel"
+  ],
+  "events": [
+   "three-year drought"
+  ],
+  "things": [],
+  "themes": [
+   "prophecy",
+   "drought"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Elijah",
+  "Ahab",
+  "Obadiah",
+  "King Ahab",
+  "1 Kings 18",
+  "1 Kings 18:1-16",
+  "drought",
+  "famine in Samaria",
+  "Obadiah finds Elijah",
+  "Obadiah arranges a meeting",
+  "meeting between Elijah and Ahab"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

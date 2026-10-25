@@ -1,0 +1,22 @@
+{
+  "id": "akeda-2/120",
+  "kinds": ["verse"],
+  "title": "Did Abraham truly love Isaac? Genesis 17:19 — the promised son and covenant",
+  "summary": "Asks whether Abraham truly loved Isaac and shows Genesis 17:19, where God promises that Sarah will bear a son named Isaac and that His everlasting covenant will be established with him and his descendants.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Did Abraham truly love Isaac?"},
+    {"lang": "en", "role": "reference", "text": "Genesis 17:19", "osis": "Gen.17.19"},
+    {"lang": "he", "role": "reference", "text": "בראשית יז:יט", "osis": "Gen.17.19"},
+    {"lang": "en", "role": "verse", "text": "19 But God said, “No, but Sarah your wife will bear you a son, and you shall call his name Isaac; and I will establish My covenant with him for an everlasting covenant for his descendants after him.", "osis": "Gen.17.19"}
+  ],
+  "refs": [{"shown": "Genesis 17:19 / בראשית יז:יט", "osis": ["Gen.17.19"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham", "Isaac", "Sarah"], "places": [], "events": [], "things": [], "themes": ["covenant", "seed", "promise", "love"], "groups": []},
+  "keywords": ["Did Abraham love Isaac", "Abraham's love for Isaac", "promised son", "everlasting covenant", "Sarah thy wife shall bear thee a son", "call his name Isaac", "covenant with Isaac", "descendants", "seed after him", "Genesis 17", "father and son"],
+  "uncertain": [],
+  "confidence": 0.95
+}

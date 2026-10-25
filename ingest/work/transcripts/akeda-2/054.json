@@ -1,0 +1,185 @@
+{
+ "id": "akeda-2/54",
+ "kinds": [
+  "letters",
+  "table"
+ ],
+ "title": "The Hebrew alef-bet: alef, bet, gimel with ancient forms",
+ "summary": "Start of a table of the Hebrew alef-bet (with final forms) showing modern letter, ancient pictograph, meaning and gematria value for alef (1, strength/God), bet (2, tent/house) and gimel (3, camel).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Hebrew alef-bet"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "with (Final Forms)"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Modern"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Ancient"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Meaning"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Gematria"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "1. א alef A — Strength, God — 1"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "2. ב bet B — Tent, House — 2"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "3. ג gimel G — Camel — 3"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "strength, God (ox head pictograph; sounds A)"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "tent, house (sounds B)"
+  },
+  {
+   "lang": "he",
+   "letter": "gimel",
+   "char": "ג",
+   "value": 3,
+   "meaning": "camel (sounds G)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "gematria of alef"
+  },
+  {
+   "value": 2,
+   "note": "gematria of bet"
+  },
+  {
+   "value": 3,
+   "note": "gematria of gimel"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph of alef: a stylised ox head in black above a blue bar.",
+   "subjects": [
+    "paleo-Hebrew",
+    "alef",
+    "ox head",
+    "pictograph"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.42,
+    0.45,
+    0.49,
+    0.59
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph of bet: a tent or house shape in black above a red bar.",
+   "subjects": [
+    "paleo-Hebrew",
+    "bet",
+    "house",
+    "tent",
+    "pictograph"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.42,
+    0.67,
+    0.49,
+    0.79
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph of gimel: a black check-mark shape above a yellow bar, representing a camel.",
+   "subjects": [
+    "paleo-Hebrew",
+    "gimel",
+    "camel",
+    "pictograph"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.42,
+    0.84,
+    0.49,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Hebrew alphabet",
+  "alef-bet",
+  "aleph-bet",
+  "alef",
+  "aleph",
+  "bet",
+  "beth",
+  "gimel",
+  "final forms",
+  "ancient Hebrew",
+  "paleo-Hebrew",
+  "pictographs",
+  "letter meanings",
+  "gematria values",
+  "ox camel tent"
+ ],
+ "uncertain": [
+  "Only the first three letters appear on this slide; the table presumably continues on following slides."
+ ],
+ "confidence": 0.95
+}

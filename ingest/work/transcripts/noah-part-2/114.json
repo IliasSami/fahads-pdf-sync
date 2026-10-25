@@ -1,0 +1,68 @@
+{
+ "id": "noah-part-2/114",
+ "kinds": [
+  "humor",
+  "text"
+ ],
+ "title": "Noah's excuses: carpenters' union strike, still no owls",
+ "summary": "Continues the humorous modern-Noah story: the carpenters form a union and strike, Noah negotiates a settlement with the National Labor Relations Board, and now has 16 carpenters on the Ark but still no owls.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The carpenters formed a union and went out on strike. I had to negotiate a settlement with the National Labor Relations Board before anyone would pick up a saw or a hammer."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Now I have 16 carpenters on the Ark, but still no owls."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 16,
+   "note": "carpenters now working on the Ark in the joke"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "Spotted Owl"
+  ],
+  "themes": [
+   "humor"
+  ],
+  "groups": [
+   "National Labor Relations Board",
+   "carpenters"
+  ]
+ },
+ "keywords": [
+  "carpenters union",
+  "strike",
+  "National Labor Relations Board",
+  "NLRB",
+  "16 carpenters",
+  "saw and hammer",
+  "still no owls",
+  "Noah joke",
+  "Noah humor",
+  "funny Noah story",
+  "building the ark",
+  "Bible humor"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

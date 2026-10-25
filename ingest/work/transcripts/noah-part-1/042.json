@@ -1,0 +1,139 @@
+{
+ "id": "noah-part-1/42",
+ "kinds": [
+  "verse",
+  "genealogy"
+ ],
+ "title": "Ruth 4:18-22 (Messianic Line Established) — generations of Perez to David",
+ "summary": "Ruth 4:18-22, labelled 'Messianic Line Established': the generations (toledoth) of Perez listed father to son — Perez, Hezron, Ram, Amminadab, Nahshon, Salmon, Boaz, Obed, Jesse, David. Boaz, Obed, Jesse and David are highlighted in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Ruth 4:18-22",
+   "osis": [
+    "Ruth.4.18",
+    "Ruth.4.19",
+    "Ruth.4.20",
+    "Ruth.4.21",
+    "Ruth.4.22"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Messianic Line Established"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "רות ד:יח-כב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "18 Now these are the generations",
+   "osis": "Ruth.4.18"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת ו ל ד ו ת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "toledoth"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "of Perez: to Perez was born Hezron, 19 and to Hezron was born Ram, and to Ram, Amminadab, 20 and to Amminadab was born Nahshon, and to Nahshon, Salmon, 21 and to Salmon was born Boaz, and to Boaz, Obed, 22 and to Obed was born Jesse, and to Jesse, David.",
+   "osis": [
+    "Ruth.4.18",
+    "Ruth.4.19",
+    "Ruth.4.20",
+    "Ruth.4.21",
+    "Ruth.4.22"
+   ]
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Ruth 4:18-22 / רות ד:יח-כב",
+   "osis": [
+    "Ruth.4.18",
+    "Ruth.4.19",
+    "Ruth.4.20",
+    "Ruth.4.21",
+    "Ruth.4.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תולדות",
+   "translit": "toledoth",
+   "gloss": "generations",
+   "strongs": "H8435"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "generations",
+   "other": "תולדות"
+  },
+  {
+   "en": "toledoth",
+   "other": "תולדות"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Perez",
+   "Hezron",
+   "Ram",
+   "Amminadab",
+   "Nahshon",
+   "Salmon",
+   "Boaz",
+   "Obed",
+   "Jesse",
+   "David"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "genealogy",
+   "messianic prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Ruth 4:18",
+  "Ruth 4:22",
+  "Ruth 4",
+  "toledoth",
+  "generations of Perez",
+  "Pharez",
+  "Perez to David",
+  "messianic line",
+  "line of David",
+  "genealogy",
+  "Boaz",
+  "Obed",
+  "Jesse",
+  "David",
+  "Hezron",
+  "Nahshon",
+  "Salmon"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

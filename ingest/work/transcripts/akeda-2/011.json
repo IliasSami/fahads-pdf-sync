@@ -1,0 +1,44 @@
+{
+  "id": "akeda-2/11",
+  "kinds": ["letters", "word-study"],
+  "title": "Alef-tav (את): alef is Strength/God, tav is Covenant/Cross",
+  "summary": "Shows the Hebrew word et (את, alef tav) and explains each letter with its ancient pictograph: alef (A) means Strength, God; tav (T) means Covenant, Cross. At the bottom the two pictographs are placed together as 'Cross God'.",
+  "text": [
+    {"lang": "translit", "role": "heading", "text": "et"},
+    {"lang": "he", "role": "heading", "text": "את"},
+    {"lang": "translit", "role": "heading", "text": "alef tav"},
+    {"lang": "he", "role": "label", "text": "א"},
+    {"lang": "translit", "role": "label", "text": "alef"},
+    {"lang": "en", "role": "label", "text": "A"},
+    {"lang": "en", "role": "label", "text": "Strength, God"},
+    {"lang": "he", "role": "label", "text": "ת"},
+    {"lang": "translit", "role": "label", "text": "tav"},
+    {"lang": "en", "role": "label", "text": "T"},
+    {"lang": "en", "role": "label", "text": "Covenant, Cross"},
+    {"lang": "en", "role": "label", "text": "Cross God"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "את", "translit": "et", "gloss": "alef-tav (untranslated direct-object marker)", "strongs": "H853"}
+  ],
+  "color_links": [
+    {"en": "alef", "other": "א"},
+    {"en": "tav", "other": "ת"},
+    {"en": "Strength, God", "other": "א"},
+    {"en": "Covenant, Cross", "other": "ת"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": "A; strength, God (ox-head pictograph)"},
+    {"lang": "he", "letter": "tav", "char": "ת", "value": 400, "meaning": "T; covenant, cross (crossed-sticks pictograph)"}
+  ],
+  "numbers": [],
+  "pictures": [
+    {"type": "pictograph", "description": "Hand-drawn black ancient-Hebrew alef pictograph (an ox head) above a blue underline, next to the words 'Strength, God'.", "subjects": ["alef", "ox head", "paleo-Hebrew", "pictograph", "ancient Hebrew letter"], "text_in_picture": "", "credit": null, "box": [0.47, 0.37, 0.54, 0.49]},
+    {"type": "pictograph", "description": "Black ancient-Hebrew tav pictograph, a cross (plus sign), above a red underline, next to the words 'Covenant, Cross'.", "subjects": ["tav", "cross", "paleo-Hebrew", "pictograph", "ancient Hebrew letter"], "text_in_picture": "", "credit": null, "box": [0.47, 0.52, 0.54, 0.62]},
+    {"type": "pictograph", "description": "The two pictographs side by side: the black cross (tav) over a red underline and the ox-head alef over a blue underline, labelled 'Cross God'.", "subjects": ["tav", "alef", "cross", "ox head", "pictographs"], "text_in_picture": "Cross God", "credit": null, "box": [0.4, 0.7, 0.58, 0.93]}
+  ],
+  "entities": {"people": ["God"], "places": [], "events": [], "things": ["cross"], "themes": ["Hebrew letter meanings", "covenant", "names of God"], "groups": []},
+  "keywords": ["alef tav", "aleph tav", "et", "Alpha and Omega", "ancient Hebrew pictographs", "paleo-Hebrew", "cross", "covenant", "strength", "ox head", "first and last letters", "Cross God"],
+  "uncertain": [],
+  "confidence": 0.93
+}

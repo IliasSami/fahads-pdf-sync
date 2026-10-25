@@ -1,0 +1,143 @@
+{
+ "id": "genesis-1-1-part-1/47",
+ "kinds": [
+  "word-study",
+  "list"
+ ],
+ "title": "Hebrew words ending in -im: water, heavens, face, life",
+ "summary": "Four Hebrew words that end in -im (ים), each with its English meaning: mayim (מים) Water, hashamayim (השמים) Heavens, panayim (פנים) Face and chayim (חיים) Life. The -im ending is coloured in each word.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "mayim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מים"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Water"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hashamayim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "השמים"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Heavens"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "panayim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "פנים"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Face"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "chayim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חיים"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Life"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "מים",
+   "translit": "mayim",
+   "gloss": "water",
+   "strongs": "H4325"
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "פנים",
+   "translit": "panayim",
+   "gloss": "face",
+   "strongs": "H6440"
+  },
+  {
+   "lang": "he",
+   "word": "חיים",
+   "translit": "chayim",
+   "gloss": "life",
+   "strongs": "H2416"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "im",
+   "other": "ים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "water",
+   "heavens"
+  ],
+  "themes": [
+   "Hebrew grammar",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "mayim",
+  "water",
+  "hashamayim",
+  "heavens",
+  "panayim",
+  "face",
+  "chayim",
+  "life",
+  "-im ending",
+  "plural ending",
+  "Hebrew plural words",
+  "ים",
+  "always plural",
+  "sky"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

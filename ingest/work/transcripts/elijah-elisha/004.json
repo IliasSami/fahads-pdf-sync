@@ -1,0 +1,34 @@
+{
+  "id": "elijah-elisha/4",
+  "kinds": ["comparison", "word-study"],
+  "title": "The Akedah parallel: Isaac carried the wood, Yeshua carried the cross",
+  "summary": "Builds on the Akedah comparison: Abraham offered his son Isaac and God the Father offered His Son Yeshua as a sacrifice; and as Isaac carried the wood to his own sacrifice, Yeshua carried the wooden cross to His own sacrifice.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Binding of"},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "en", "role": "heading", "text": "The Binding of"},
+    {"lang": "en", "role": "label", "text": "Isaac"},
+    {"lang": "en", "role": "label", "text": "The Akedah"},
+    {"lang": "en", "role": "label", "text": "yeshua"},
+    {"lang": "en", "role": "body", "text": "Abraham the father offered his son, Isaac, as a sacrifice;"},
+    {"lang": "en", "role": "body", "text": "GOD the father offered His Son, yeshua, as a sacrifice."},
+    {"lang": "en", "role": "body", "text": "Isaac carried the wood to his own sacrifice;"},
+    {"lang": "en", "role": "body", "text": "yeshua carried the wooden cross to His own sacrifice."}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "העקדה", "translit": "ha-akedah", "gloss": "the binding", "strongs": "H6123"},
+    {"lang": "he", "word": "ישוע", "translit": "yeshua", "gloss": "Jesus (Yeshua, “salvation”)", "strongs": null}
+  ],
+  "color_links": [
+    {"en": "The", "other": "ה"},
+    {"en": "Akedah", "other": "עקדה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac", "God", "Jesus"], "places": [], "events": ["Binding of Isaac (Akedah)", "Crucifixion"], "things": ["wood", "cross"], "themes": ["sacrifice", "typology", "substitution"], "groups": []},
+  "keywords": ["Akedah", "Akeda", "Binding of Isaac", "Isaac carried the wood", "Jesus carried the cross", "wooden cross", "Yeshua", "sacrifice", "Genesis 22", "parallels", "type of Christ"],
+  "uncertain": [],
+  "confidence": 0.94
+}

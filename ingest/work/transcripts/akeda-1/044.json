@@ -1,0 +1,41 @@
+{
+  "id": "akeda-1/44",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 6:8 — Noah (נח) spelled backwards is grace (חן)",
+  "summary": "Genesis 6:8, “Noah found favor in the eyes of the LORD,” in English and Hebrew. The slide shows that the Hebrew name Noah (נח, noach) read backwards gives chen (חן), favor or grace.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 6:8", "osis": "Gen.6.8"},
+    {"lang": "he", "role": "reference", "text": "בראשית ו:ח"},
+    {"lang": "en", "role": "verse", "osis": "Gen.6.8", "text": "And Noah⁵ found FAVOR in the eyes of the LORD."},
+    {"lang": "he", "role": "verse", "osis": "Gen.6.8", "text": "ונח מצא חן בעיני יהוה׃"},
+    {"lang": "en", "role": "label", "text": "Favor / Grace"},
+    {"lang": "translit", "role": "label", "text": "chen"},
+    {"lang": "he", "role": "label", "text": "חן"},
+    {"lang": "en", "role": "label", "text": "Noah"},
+    {"lang": "he", "role": "label", "text": "נח"},
+    {"lang": "translit", "role": "label", "text": "noach"},
+    {"lang": "en", "role": "label", "text": "Noah"},
+    {"lang": "he", "role": "label", "text": "נח"},
+    {"lang": "en", "role": "label", "text": "SDRAWKCAB"},
+    {"lang": "he", "role": "label", "text": "חן"},
+    {"lang": "en", "role": "label", "text": "Grace."}
+  ],
+  "refs": [{"shown": "Genesis 6:8 / בראשית ו:ח", "osis": ["Gen.6.8"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "נח", "translit": "noach", "gloss": "Noah", "strongs": "H5146"},
+    {"lang": "he", "word": "חן", "translit": "chen", "gloss": "favor, grace", "strongs": "H2580"}
+  ],
+  "color_links": [
+    {"en": "And", "other": "ו"},
+    {"en": "Noah", "other": "נח"},
+    {"en": "FAVOR", "other": "חן"},
+    {"en": "LORD", "other": "יהוה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Noah", "God"], "places": [], "events": [], "things": [], "themes": ["grace", "favor", "wordplay"], "groups": []},
+  "keywords": ["Noah found grace", "Noah found favor", "grace", "favour", "chen", "Noach", "Noah backwards", "SDRAWKCAB", "backwards", "Hebrew wordplay", "Genesis 6", "eyes of the LORD"],
+  "uncertain": ["The superscript 5 after “Noah” is not explained on the slide."],
+  "confidence": 0.92
+}

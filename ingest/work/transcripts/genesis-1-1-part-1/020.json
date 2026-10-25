@@ -1,0 +1,239 @@
+{
+ "id": "genesis-1-1-part-1/20",
+ "kinds": [
+  "letters",
+  "table"
+ ],
+ "title": "The Hebrew alef-bet chart: letters 11 to 22, kaf to tav",
+ "summary": "Second half of the alef-bet chart: letters 11-22 (kaf through tav), each with the modern letter (final forms in brackets), its name and Latin sound, the ancient pictograph, its meaning and its gematria number from 20 to 400. Lamed, mem, nun, samekh, resh and tav are in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "11. כ (ך) kaf K,Kh — Open Palm — 20"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "12. ל lamed L — Staff, Authority — 30"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "13. מ (ם) mem M — Water, Chaos — 40"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "14. נ (ן) nun N — Fish, Life — 50"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "15. ס samekh S — Support — 60"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "16. ע ayin A,O,E — Eye — 70"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "17. פ (ף) pe P — Mouth — 80"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "18. צ (ץ) tsadi Tz — Trap, Hunt — 90"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "19. ק kuf Q — Sunrise, East — 100"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "20. ר resh R — Head — 200"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "21. ש shin Sh,S — Teeth, Destroy — 300"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "22. ת tav T — Covenant, Cross — 400"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [
+  {
+   "en": "lamed",
+   "other": "ל"
+  },
+  {
+   "en": "mem",
+   "other": "מ"
+  },
+  {
+   "en": "nun",
+   "other": "נ"
+  },
+  {
+   "en": "samekh",
+   "other": "ס"
+  },
+  {
+   "en": "resh",
+   "other": "ר"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "kaf",
+   "char": "כ",
+   "value": 20,
+   "meaning": "Open Palm (final form ך)"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "Staff, Authority"
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "Water, Chaos (final form ם)"
+  },
+  {
+   "lang": "he",
+   "letter": "nun",
+   "char": "נ",
+   "value": 50,
+   "meaning": "Fish, Life (final form ן)"
+  },
+  {
+   "lang": "he",
+   "letter": "samekh",
+   "char": "ס",
+   "value": 60,
+   "meaning": "Support"
+  },
+  {
+   "lang": "he",
+   "letter": "ayin",
+   "char": "ע",
+   "value": 70,
+   "meaning": "Eye"
+  },
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": 80,
+   "meaning": "Mouth (final form ף)"
+  },
+  {
+   "lang": "he",
+   "letter": "tsadi",
+   "char": "צ",
+   "value": 90,
+   "meaning": "Trap, Hunt (final form ץ)"
+  },
+  {
+   "lang": "he",
+   "letter": "kuf",
+   "char": "ק",
+   "value": 100,
+   "meaning": "Sunrise, East"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "Head"
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "Teeth, Destroy"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "Covenant, Cross"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Column of twelve ancient (paleo-Hebrew) pictograph letters for kaf to tav: open palm, staff, water waves, fish, support, eye, mouth, trap, sunrise, head, teeth and a cross, several over coloured underlines matching the modern letters.",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictographs",
+    "ancient Hebrew letters",
+    "alef-bet chart",
+    "open palm",
+    "eye",
+    "fish",
+    "cross"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.5,
+    0.03,
+    0.56,
+    0.98
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Hebrew alphabet",
+  "alef-bet",
+  "aleph bet",
+  "final forms",
+  "ancient Hebrew",
+  "paleo-Hebrew",
+  "pictographs",
+  "letter meanings",
+  "gematria values",
+  "kaf lamed mem nun",
+  "tav covenant cross",
+  "resh head",
+  "shin teeth",
+  "letters 11 to 22"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

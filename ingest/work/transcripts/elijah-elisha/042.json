@@ -1,0 +1,223 @@
+{
+ "id": "elijah-elisha/42",
+ "kinds": [
+  "timeline",
+  "diagram"
+ ],
+ "title": "Timeline of 1 Kings: David to Elijah (1010–873 B.C.)",
+ "summary": "Under the heading Elijah Bursts on the Scene in 1 Kings 17, a blue arrow timeline of 1 Kings with dates in B.C.: David king of Judah (1010) and over all Israel (1003), Solomon born (991) and king (970), temple completed (951), Rehoboam and Jeroboam (931), Elijah's ministry and Ahab (874), and Jehoshaphat (873).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Elijah Bursts on the Scene in 1 Kings 17"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Timeline of 1 Kings"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "David King of Judah"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Solomon Born"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Temple Completed"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Rehoboam King of Judah"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Elijah Begins his Ministry"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1010"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1003"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "991"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "970"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "951"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "931"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "874"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "873 B.C."
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "David King over all Israel"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Solomon Becomes King"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Jeroboam King of Israel"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Ahab King of Israel"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "King Jehoshaphat"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 17",
+   "osis": [
+    "1Kgs.17.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1010,
+   "note": "B.C. — David King of Judah"
+  },
+  {
+   "value": 1003,
+   "note": "B.C. — David King over all Israel"
+  },
+  {
+   "value": 991,
+   "note": "B.C. — Solomon born"
+  },
+  {
+   "value": 970,
+   "note": "B.C. — Solomon becomes king"
+  },
+  {
+   "value": 951,
+   "note": "B.C. — Temple completed"
+  },
+  {
+   "value": 931,
+   "note": "B.C. — Rehoboam king of Judah; Jeroboam king of Israel"
+  },
+  {
+   "value": 874,
+   "note": "B.C. — Elijah begins his ministry; Ahab king of Israel"
+  },
+  {
+   "value": 873,
+   "note": "B.C. — King Jehoshaphat"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "Horizontal blue arrow timeline marked with years from 1010 to 873 B.C. Events labelled above the arrow (David king of Judah, Solomon born, temple completed, Rehoboam, Elijah begins his ministry) and below it (David king over all Israel, Solomon becomes king, Jeroboam, Ahab, Jehoshaphat), joined by short vertical ticks.",
+   "subjects": [
+    "timeline",
+    "1 Kings",
+    "kings of Israel and Judah",
+    "B.C. dates",
+    "blue arrow"
+   ],
+   "text_in_picture": "1010 1003 991 970 951 931 874 873 B.C.",
+   "credit": null,
+   "box": [
+    0.02,
+    0.56,
+    0.95,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Elijah",
+   "David",
+   "Solomon",
+   "Rehoboam",
+   "Jeroboam",
+   "Ahab",
+   "Jehoshaphat"
+  ],
+  "places": [
+   "Israel",
+   "Judah"
+  ],
+  "events": [],
+  "things": [
+   "temple"
+  ],
+  "themes": [
+   "timeline",
+   "kingship",
+   "temple"
+  ],
+  "groups": [
+   "kings"
+  ]
+ },
+ "keywords": [
+  "timeline of 1 Kings",
+  "Elijah begins his ministry 874 B.C.",
+  "Ahab king of Israel",
+  "Jehoshaphat",
+  "Solomon temple completed",
+  "David king of Judah",
+  "Rehoboam",
+  "Jeroboam",
+  "divided kingdom",
+  "kings of Israel and Judah",
+  "1 Kings 17",
+  "biblical dates",
+  "chronology",
+  "874 BC"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,133 @@
+{
+ "id": "red-heifer/63",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Psalm 51:7 — purge me with hyssop; tahor, purity",
+ "summary": "Psalm 51:7 in English and Hebrew with hyssop (green) and clean (blue) colour-coded to their Hebrew words, followed by the word tahor (טהר) meaning purity.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 51:7",
+   "osis": "Ps.51.7"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים נא:ז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.51.7",
+   "text": "7 Purge me with hyssop, and I shall be clean; Wash me, and I shall be whiter than snow."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.51.7",
+   "text": "7 תחטאני באזוב ואטהר תכבסני ומשלג אלבין׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tahor"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "טהר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Purity"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 51:7 / תהילים נא:ז",
+   "osis": [
+    "Ps.51.7"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "טהר",
+   "translit": "tahor",
+   "gloss": "purity, clean",
+   "strongs": "H2891",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אזוב",
+   "translit": "ezov",
+   "gloss": "hyssop",
+   "strongs": "H231",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "hyssop",
+   "other": "אזוב"
+  },
+  {
+   "en": "clean",
+   "other": "טהר"
+  },
+  {
+   "en": "tahor",
+   "other": "טהר"
+  },
+  {
+   "en": "Purity",
+   "other": "טהר"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "David"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "hyssop",
+   "snow"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "sin"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Psalm 51:7",
+  "purge me with hyssop",
+  "I shall be clean",
+  "whiter than snow",
+  "wash me",
+  "tahor",
+  "purity",
+  "taher",
+  "cleansing",
+  "hyssop",
+  "ezov",
+  "purification",
+  "David's repentance"
+ ],
+ "uncertain": [
+  "David is listed only because Psalm 51 is his psalm; the slide does not name him."
+ ],
+ "confidence": 0.96
+}

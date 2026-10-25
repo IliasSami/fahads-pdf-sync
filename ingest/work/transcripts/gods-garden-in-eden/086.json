@@ -1,0 +1,192 @@
+{
+ "id": "gods-garden-in-eden/86",
+ "kinds": [
+  "letters",
+  "comparison",
+  "text"
+ ],
+ "title": "Creation #2 (Genesis 2): all 22 letters including samekh, no 7 days",
+ "summary": "Left: 'Genesis 2' says it uses All 22 Letters, Including samekh (ס, in green), with the full alphabet shown (samekh in green) and 'No 7 Days'. Right: 'Creation #2' with the small-print Hebrew text of Genesis 2, blue verse numbers, and a green samekh in verse 11.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Genesis 2",
+   "osis": "Gen.2.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "All 22 Letters"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Including"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ס ס ס"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "samekh"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "א ב ג ד ה ו ז ח"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "ט י כ ל מ נ ס"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "ע פ צ ק ר ש ת"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "No 7 Days"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Creation #2"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2 / בראשית ב",
+   "osis": [
+    "Gen.2.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 2:11 (samekh highlighted in the Hebrew text)",
+   "osis": [
+    "Gen.2.11"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ס",
+   "translit": "samekh",
+   "gloss": "the Hebrew letter samekh (present in Genesis 2)",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "2 (Genesis 2 / Creation #2)",
+   "other": "ב"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "first letter of the alphabet, shown in blue"
+  },
+  {
+   "lang": "he",
+   "letter": "samekh",
+   "char": "ס",
+   "value": 60,
+   "meaning": "present in Genesis 2 (green), including in verse 11"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last letter of the alphabet, shown in red"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "second letter, shown in red in בראשית ב (Genesis 2)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 22,
+   "note": "all 22 Hebrew letters appear in Genesis 2"
+  },
+  {
+   "value": 7,
+   "note": "the seven days are not found in Creation #2 (No 7 Days)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "table-image",
+   "description": "A page of small-print Hebrew text of Genesis 2 (from the generations of the heavens and the earth through verse 25), unpointed, with blue underlined verse numbers and one green-highlighted samekh in verse 11.",
+   "subjects": [
+    "Hebrew text",
+    "Genesis 2",
+    "Torah text",
+    "verse numbers"
+   ],
+   "text_in_picture": "Hebrew text of Genesis 2",
+   "credit": null,
+   "box": [
+    0.49,
+    0.16,
+    0.97,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "Hebrew alphabet"
+  ],
+  "themes": [
+   "creation",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 2",
+  "Creation #2",
+  "second creation account",
+  "all 22 letters",
+  "samekh",
+  "complete Hebrew alphabet",
+  "no 7 days",
+  "Hebrew alphabet",
+  "samekh in Genesis 2",
+  "Genesis 2:11",
+  "two creation accounts",
+  "22 letters"
+ ],
+ "uncertain": [
+  "The small-print Hebrew text of Genesis 2 on the right is not transcribed in full. The three green glyphs for samekh are shown in different font styles (the last is a plain circle); transcribed as ס ס ס."
+ ],
+ "confidence": 0.9
+}

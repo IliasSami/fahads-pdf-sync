@@ -1,0 +1,109 @@
+{
+ "id": "akeda-1/115",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 22:6 — Abraham lays the wood on Isaac; they walk on together",
+ "summary": "Genesis 22:6 under the heading 'The Akedah' (העקדה): Abraham takes the wood of the burnt offering, lays it on Isaac his son, takes the fire and the knife in his hand, and the two walk on together. Abraham, wood, Isaac and son are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22",
+   "osis": "Gen.22.1"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ה ע ק ד ה"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Akedah"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.6",
+   "text": "6 Abraham took the wood of the burnt offering and laid it on"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.6",
+   "text": "Isaac his son, and he took in his hand the fire and the knife."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.6",
+   "text": "So the two of them walked on together."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:6 / בראשית כב",
+   "osis": [
+    "Gen.22.6"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "העקדה",
+   "translit": "ha-akedah",
+   "gloss": "the binding",
+   "strongs": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Abraham",
+   "Isaac"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "wood",
+   "fire",
+   "knife",
+   "burnt offering"
+  ],
+  "themes": [
+   "sacrifice",
+   "obedience",
+   "typology",
+   "faith"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Akedah",
+  "Akeda",
+  "Genesis 22",
+  "Genesis 22:6",
+  "wood of the burnt offering",
+  "Isaac carries the wood",
+  "fire and the knife",
+  "walked on together",
+  "two of them together",
+  "binding of Isaac",
+  "Abraham and Isaac"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

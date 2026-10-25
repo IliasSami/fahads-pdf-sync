@@ -1,0 +1,28 @@
+{
+  "id": "abel/84",
+  "kinds": ["verse"],
+  "title": "Genesis 4:9 — “The keeper of my brother am I?”",
+  "summary": "Genesis 4:9 in English and Hebrew, now with Cain’s reply translated literally from the Hebrew word order: “The keeper of my brother am I?” The extra question at the bottom is gone.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:9", "osis": "Gen.4.9"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ט"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.9", "text": "9 And the LORD said to Cain, “Where is Abel your brother?” And he said, “I do not know. The keeper of my brother am I?”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.9", "text": "9 ויאמר יהוה אל קין אי הבל אחיך ויאמר לא ידעתי השמר אחי אנכי׃"}
+  ],
+  "refs": [{"shown": "Genesis 4:9 / בראשית ד:ט", "osis": ["Gen.4.9"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "יהוה", "translit": "YHWH", "gloss": "the LORD", "strongs": "H3068"},
+    {"lang": "he", "word": "השמר", "translit": "hashomer", "gloss": "the keeper", "strongs": "H8104"}
+  ],
+  "color_links": [
+    {"en": "Cain", "other": "קין"},
+    {"en": "Abel", "other": "הבל"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain", "Abel"], "places": [], "events": ["Murder of Abel"], "things": [], "themes": ["names of God", "sin", "judgment"], "groups": []},
+  "keywords": ["the keeper of my brother am I", "am I my brother's keeper", "my brother's keeper", "where is Abel thy brother", "I know not", "literal translation", "the LORD said unto Cain", "Cain and Abel", "Genesis 4", "Genesis 4:9"],
+  "uncertain": ["The LORD in English and יהוה in Hebrew have individually coloured letters (decorative: red L/yod, orange R/vav), meaning not explained on this slide."],
+  "confidence": 0.95
+}

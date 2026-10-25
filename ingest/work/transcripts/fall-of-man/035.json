@@ -1,0 +1,63 @@
+{
+ "id": "fall-of-man/35",
+ "kinds": [
+  "quote",
+  "text"
+ ],
+ "title": "Palindromes: 1st “Madam, I’m Adam.” and the 2nd palindrome (?)",
+ "summary": "Text-only slide listing the 1st Palindrome, “Madam, I’m Adam.”, and a 2nd Palindrome shown only as a question mark (a puzzle for the audience).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "1st Palindrome"
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "text": "“Madam, I’m Adam.”"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "2nd Palindrome"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "?"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "humor"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "palindrome",
+  "first palindrome",
+  "second palindrome",
+  "Madam I'm Adam",
+  "Madam, I'm Adam",
+  "wordplay",
+  "word puzzle",
+  "reads the same backwards and forwards",
+  "Adam and Eve",
+  "riddle"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

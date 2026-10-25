@@ -1,0 +1,207 @@
+{
+ "id": "fall-of-man/68",
+ "kinds": [
+  "letters",
+  "gematria",
+  "diagram"
+ ],
+ "title": "Satan = nun-tet-shin, 359: Serpent destroys life",
+ "summary": "Shows the three letters of Satan (שטן), nun 50, tet 9, shin 300, adding to 359, each above its ancient pictograph and meaning: life, serpent, destruction. The conclusion line reads “Satan ↔ Serpent destroys life.”",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "nun tet shin"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "50 + 9 + 300 = 359"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש ט ן"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "life · serpent · destruction"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Satan ↔ Serpent destroys life"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שטן",
+   "translit": "satan",
+   "gloss": "Satan, adversary",
+   "strongs": "H7854",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     50,
+     9,
+     300
+    ],
+    "total": 359
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Satan",
+   "other": "שטן"
+  },
+  {
+   "en": "nun",
+   "other": "ן"
+  },
+  {
+   "en": "tet",
+   "other": "ט"
+  },
+  {
+   "en": "shin",
+   "other": "ש"
+  },
+  {
+   "en": "life",
+   "other": "ן"
+  },
+  {
+   "en": "serpent",
+   "other": "ט"
+  },
+  {
+   "en": "destruction",
+   "other": "ש"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "nun",
+   "char": "ן",
+   "value": 50,
+   "meaning": "life (pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "tet",
+   "char": "ט",
+   "value": 9,
+   "meaning": "serpent (pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "destruction (pictograph)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 359,
+   "note": "gematria of שטן (Satan): 50 + 9 + 300"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph for nun in green: a snake-like sprouting curve above a green line, labelled life.",
+   "subjects": [
+    "nun pictograph",
+    "life",
+    "paleo-Hebrew",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.33,
+    0.52,
+    0.41,
+    0.65
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph for tet in olive: a circle with a cross inside above a short line, labelled serpent.",
+   "subjects": [
+    "tet pictograph",
+    "serpent",
+    "paleo-Hebrew",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.46,
+    0.53,
+    0.52,
+    0.65
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph for shin in black: a wavy tooth-like curve above a heavy line, labelled destruction.",
+   "subjects": [
+    "shin pictograph",
+    "destruction",
+    "teeth",
+    "paleo-Hebrew",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.58,
+    0.55,
+    0.65,
+    0.65
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Satan"
+  ],
+  "places": [],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [
+   "serpent"
+  ],
+  "themes": [
+   "gematria",
+   "Hebrew letter meanings",
+   "death",
+   "sin"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Satan",
+  "serpent destroys life",
+  "שטן",
+  "gematria 359",
+  "359",
+  "nun tet shin",
+  "life serpent destruction",
+  "pictographs",
+  "paleo-Hebrew",
+  "Hebrew letter meanings",
+  "devil",
+  "snake"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

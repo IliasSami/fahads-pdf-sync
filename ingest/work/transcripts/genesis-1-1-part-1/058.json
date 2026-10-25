@@ -1,0 +1,222 @@
+{
+ "id": "genesis-1-1-part-1/58",
+ "kinds": [
+  "word-study",
+  "letters",
+  "verse"
+ ],
+ "title": "Heavens and Moses: yod = hand, mem = water",
+ "summary": "Hashamayim (Heavens, ה ש מ י ם, last two letters coloured) and Exodus 2:10 (“Because I drew him out of the water”), with Moses spelled מ ש ה (moshe). Below, two letters are taught with their ancient pictographs: yod (י, Y/I) means Hand and mem (מ, final ם, M) means Water.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Heavens"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה ש מ י ם"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hashamayim"
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "osis": "Exod.2.10",
+   "text": "And she named him Moses, and said, “Because I drew him out of the water.”—Exodus 2:10"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Moses"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ ש ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "moshe"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yod"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Y, I"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Hand"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ (ם)"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "mem"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "M"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Water"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 2:10",
+   "osis": [
+    "Exod.2.10"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "משה",
+   "translit": "moshe",
+   "gloss": "Moses",
+   "strongs": "H4872"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "yod",
+   "other": "י"
+  },
+  {
+   "en": "Hand",
+   "other": "י"
+  },
+  {
+   "en": "mem",
+   "other": "מ"
+  },
+  {
+   "en": "Water",
+   "other": "מ"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "Hand (Y, I; hand pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "Water (M; final form ם; water-waves pictograph)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient Hebrew pictograph of yod: a small black outline of an arm and hand over an orange underline, beside the label “Hand”.",
+   "subjects": [
+    "yod",
+    "hand",
+    "paleo-Hebrew",
+    "pictograph"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.49,
+    0.52,
+    0.57,
+    0.62
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient Hebrew pictograph of mem: a black zigzag line of water waves over a blue-grey underline, beside the label “Water”.",
+   "subjects": [
+    "mem",
+    "water",
+    "waves",
+    "paleo-Hebrew",
+    "pictograph"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.5,
+    0.66,
+    0.57,
+    0.74
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Moses"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "water",
+   "hand"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "Hebrew word study"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "yod",
+  "mem",
+  "hand",
+  "water",
+  "Hebrew letter meanings",
+  "pictograph",
+  "paleo-Hebrew",
+  "Moses",
+  "moshe",
+  "Exodus 2:10",
+  "drew him out of the water",
+  "hashamayim",
+  "heavens",
+  "yud",
+  "mayim"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

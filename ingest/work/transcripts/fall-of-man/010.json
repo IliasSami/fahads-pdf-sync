@@ -1,0 +1,29 @@
+{
+  "id": "fall-of-man/10",
+  "kinds": ["verse"],
+  "title": "Luke 4:1-4 — Jesus tempted to turn stone to bread: lust of the flesh",
+  "summary": "Luke 4:1-4 in English: Jesus, led by the Spirit in the wilderness forty days, is tempted by the devil to turn a stone into bread and answers that man shall not live on bread alone. The word “bread” is highlighted and the slide labels this temptation “Lust of the Flesh”.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Luke 4:1-4", "osis": ["Luke.4.1", "Luke.4.2", "Luke.4.3", "Luke.4.4"]},
+    {"lang": "el", "role": "reference", "text": "ΛΟΥΚΑΝ 4:1-4", "osis": ["Luke.4.1", "Luke.4.2", "Luke.4.3", "Luke.4.4"]},
+    {"lang": "en", "role": "verse", "text": "1 Jesus, full of the Holy Spirit, returned from the Jordan and was led around by the Spirit in the wilderness", "osis": "Luke.4.1"},
+    {"lang": "en", "role": "verse", "text": "2 for forty days, being tempted by the devil.", "osis": "Luke.4.2"},
+    {"lang": "en", "role": "verse", "text": "3 And the devil said to Him, “If You are the Son of God, tell this stone to become bread.”", "osis": "Luke.4.3"},
+    {"lang": "en", "role": "verse", "text": "4 And Jesus answered him, “It is written, ‘MAN SHALL NOT LIVE ON BREAD ALONE.’”", "osis": "Luke.4.4"},
+    {"lang": "en", "role": "reference", "text": "—Deuteronomy 4:4", "osis": "Deut.4.4"},
+    {"lang": "en", "role": "heading", "text": "Lust of the Flesh"}
+  ],
+  "refs": [
+    {"shown": "Luke 4:1-4 / ΛΟΥΚΑΝ 4:1-4", "osis": ["Luke.4.1", "Luke.4.2", "Luke.4.3", "Luke.4.4"], "role": "quoted"},
+    {"shown": "Deuteronomy 4:4", "osis": ["Deut.4.4"], "role": "cited"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [{"value": 40, "note": "forty days of temptation in the wilderness"}],
+  "pictures": [],
+  "entities": {"people": ["Jesus", "Holy Spirit", "Satan", "God"], "places": ["Jordan River", "wilderness"], "events": ["Temptation of Jesus"], "things": ["bread", "stone"], "themes": ["temptation", "Scripture", "lust of the flesh"], "groups": []},
+  "keywords": ["temptation of Jesus", "temptation in the wilderness", "stone into bread", "man shall not live by bread alone", "forty days", "devil", "lust of the flesh", "It is written", "Son of God", "Luke 4", "Deuteronomy 8:3", "Deuteronomy 4:4"],
+  "uncertain": ["The source line reads “Deuteronomy 4:4”; the quotation “Man shall not live on bread alone” is actually Deuteronomy 8:3. Transcribed as shown."],
+  "confidence": 0.94
+}

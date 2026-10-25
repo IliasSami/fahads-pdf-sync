@@ -1,0 +1,152 @@
+{
+ "id": "gods-garden-in-eden/23",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 2:7 — man (adam) formed from the ground (adamah)",
+ "summary": "Genesis 2:7 in English with Hebrew inserted: the LORD (יהוה) God (אלהים) formed man (adam, אדם) of the dust of the ground (adamah, אדמה), with arrows linking the letters of אדם up from אדמה, and the breath of life making man a living soul.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:7",
+   "osis": "Gen.2.7"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:ז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.7",
+   "text": "7 And the LORD יהוה God אלהים formed"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.7",
+   "text": "man / adam / אדם of the dust of the"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.7",
+   "text": "ground / אדמה / adamah"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.7",
+   "text": "and breathed into his nostrils the breath of life; and man became a living soul."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:7 / בראשית ב:ז",
+   "osis": [
+    "Gen.2.7"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the LORD (YHWH)",
+   "strongs": "H3068"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "man",
+   "strongs": "H120"
+  },
+  {
+   "lang": "he",
+   "word": "אדמה",
+   "translit": "adamah",
+   "gloss": "ground",
+   "strongs": "H127"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "man",
+   "other": "אדם"
+  },
+  {
+   "en": "adam",
+   "other": "אדם"
+  },
+  {
+   "en": "ground",
+   "other": "אדמה"
+  },
+  {
+   "en": "adamah",
+   "other": "אדמה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "dust",
+   "ground",
+   "breath of life"
+  ],
+  "themes": [
+   "creation",
+   "names of God",
+   "word play (adam and adamah)"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 2:7",
+  "adam",
+  "adamah",
+  "man from the ground",
+  "dust of the ground",
+  "formed man",
+  "breath of life",
+  "living soul",
+  "nostrils",
+  "LORD God",
+  "Yahweh Elohim",
+  "creation of Adam",
+  "Hebrew word study"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

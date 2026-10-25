@@ -1,0 +1,35 @@
+{
+  "id": "elijah-elisha/7",
+  "kinds": ["comparison", "word-study"],
+  "title": "The Akedah parallel: the ram in the thorns and the crown of thorns",
+  "summary": "Completes the Akedah comparison with the punch line: as the substitute ram's horns were caught in a thorn bush, Yeshua, our substitute sacrifice, appears in the middle of “A Crown of Thorns” (both ‘thorn’ words in green).",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Binding of"},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "en", "role": "heading", "text": "The Binding of"},
+    {"lang": "en", "role": "label", "text": "Isaac"},
+    {"lang": "en", "role": "label", "text": "The Akedah"},
+    {"lang": "en", "role": "label", "text": "yeshua"},
+    {"lang": "en", "role": "body", "text": "Isaac, a first-born male, willingly follows his father’s instructions."},
+    {"lang": "en", "role": "body", "text": "yeshua, a first-born male, willingly follows His Father’s instructions."},
+    {"lang": "en", "role": "body", "text": "For Isaac, a substitute blood sacrifice is provided, a ram whose horns are caught in the thorn bush;"},
+    {"lang": "en", "role": "body", "text": "yeshua becomes our substitute sacrifice and appears in the middle of…wait for it…"},
+    {"lang": "en", "role": "body", "text": "A Crown of Thorns"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "העקדה", "translit": "ha-akedah", "gloss": "the binding", "strongs": "H6123"},
+    {"lang": "he", "word": "ישוע", "translit": "yeshua", "gloss": "Jesus (Yeshua, “salvation”)", "strongs": null}
+  ],
+  "color_links": [
+    {"en": "The", "other": "ה"},
+    {"en": "Akedah", "other": "עקדה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Isaac", "Abraham", "Jesus", "God"], "places": [], "events": ["Binding of Isaac (Akedah)", "Crucifixion"], "things": ["ram", "thorn bush", "crown of thorns"], "themes": ["substitution", "sacrifice", "blood", "firstborn", "obedience", "typology"], "groups": []},
+  "keywords": ["Akedah", "Binding of Isaac", "crown of thorns", "ram caught in the thicket", "thorn bush", "substitute sacrifice", "substitutionary atonement", "Yeshua", "Jesus", "Genesis 22:13", "Matthew 27:29", "parallels", "type of Christ"],
+  "uncertain": [],
+  "confidence": 0.94
+}

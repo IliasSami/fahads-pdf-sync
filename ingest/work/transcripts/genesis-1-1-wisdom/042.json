@@ -1,0 +1,23 @@
+{
+  "id": "genesis-1-1-wisdom/42",
+  "kinds": ["diagram"],
+  "title": "73-Star with an inner 37-Star and a 37-Hexagon (unlabelled)",
+  "summary": "The two 73-point star figures shown without labels: the left one has its inner 37-point six-pointed star outlined in gold, the right one its inner 37-point hexagon outlined in red.",
+  "text": [],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {"value": 73, "note": "total points in each large star figure"},
+    {"value": 37, "note": "points inside the gold star outline and inside the red hexagon outline"}
+  ],
+  "pictures": [
+    {"type": "diagram", "description": "Left: a 73-point star of small blue Stars of David with a gold six-pointed star outline enclosing 37 gold points.", "subjects": ["star number", "figurate number", "Star of David", "hexagram", "37", "73"], "text_in_picture": "", "credit": null, "box": [0.08, 0.07, 0.37, 0.6]},
+    {"type": "diagram", "description": "Right: a 73-point star of small blue Stars of David with a red hexagon outline enclosing 37 red points.", "subjects": ["hexagonal number", "figurate number", "hexagon", "Star of David", "37", "73"], "text_in_picture": "", "credit": null, "box": [0.54, 0.07, 0.84, 0.6]}
+  ],
+  "entities": {"people": [], "places": [], "events": [], "things": ["Star of David"], "themes": ["gematria", "figurate numbers"], "groups": []},
+  "keywords": ["37", "73", "star number", "hexagonal number", "figurate numbers", "hexagon", "Star of David", "six-pointed star", "hexagram", "number pattern", "2701", "diagram"],
+  "uncertain": [],
+  "confidence": 0.9
+}

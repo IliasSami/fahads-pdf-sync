@@ -1,0 +1,141 @@
+{
+ "id": "akeda-2/156",
+ "kinds": [
+  "code-grid",
+  "word-study"
+ ],
+ "title": "Yeshua, \"The Lamb of God\" — Genesis 22:15-16 letter grid conclusion",
+ "summary": "The Genesis 22:15-16 letter grid with all its markings (red column, blue diagonal, green row, gold pairs) now beside the large red name ישוע (yeshua) and the words \"The Lamb of God\", with \"Lamb\" in gold and the letters G, o, d coloured blue, red and gold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22:15-16",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב:יה-יו"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ישוע"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yeshua"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "The Lamb of God"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:15-16 / בראשית כב:יה-יו",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Yeshua (Jesus)",
+   "strongs": "H3442"
+  },
+  {
+   "lang": "he",
+   "word": "שה",
+   "translit": "sha (seh)",
+   "gloss": "lamb",
+   "strongs": "H7716"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "yeshua",
+   "other": "ישוע"
+  },
+  {
+   "en": "Lamb",
+   "other": "שה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "grid",
+   "description": "Grid of Hebrew letters (the text of Genesis 22:15-16 in rows) with purple מלאך, coloured letters of יהוה, a blue diagonal box, a tall red box around a column, a green row box, many gold-coloured ש and ה letters, and a tilted gold box at the lower middle.",
+   "subjects": [
+    "Bible code",
+    "letter grid",
+    "Hebrew letters",
+    "yeshua",
+    "lamb",
+    "gold box",
+    "red box"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.01,
+    0.18,
+    0.54,
+    0.97
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Jesus",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "lamb",
+   "letter grid"
+  ],
+  "themes": [
+   "Bible codes",
+   "sacrifice",
+   "substitution",
+   "messianic prophecy",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Yeshua",
+  "yeshua",
+  "Jesus",
+  "ישוע",
+  "The Lamb of God",
+  "Lamb of God",
+  "Bible code",
+  "letter grid",
+  "hidden name",
+  "Genesis 22",
+  "Akedah",
+  "Akeda",
+  "God will provide a lamb",
+  "Jesus in Genesis"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

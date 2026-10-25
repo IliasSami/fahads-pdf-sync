@@ -1,0 +1,120 @@
+{
+ "id": "genesis-1-1-wisdom/29",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "First word of the Torah: bereshit (בראשית)",
+ "summary": "Psalm 49:3 stays at the top while the slide introduces the first word of the Torah, bereshit (בראשית), with its first letter ב (b) in red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 49:3",
+   "osis": "Ps.49.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים מט:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "First Word of the torah"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bereshit"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בראשית"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 49:3 / תהילים מט:ג",
+   "osis": [
+    "Ps.49.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning (first word of the Torah)",
+   "strongs": "H7225"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "First",
+   "other": "ב"
+  },
+  {
+   "en": "b",
+   "other": "ב"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "first letter of bereshit, the first word of the Torah"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "Torah"
+  ],
+  "themes": [
+   "Torah",
+   "Hebrew letter meanings",
+   "wisdom",
+   "understanding"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "bereshit",
+  "bereishit",
+  "bereshith",
+  "in the beginning",
+  "first word of the Torah",
+  "first word of the Bible",
+  "Genesis 1:1",
+  "bet",
+  "beth",
+  "Psalm 49:3",
+  "Hebrew word for beginning"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,41 @@
+{
+  "id": "akeda-1/37",
+  "kinds": ["letters", "table", "picture"],
+  "title": "Isaac (יצחק): letters chet, tsadi and kuf with their ancient pictographs and meanings",
+  "summary": "Alphabet-chart rows for three of the letters in Isaac's name, each with its ancient pictograph and meaning: chet (8th letter, wall or fence, value 8), tsadi (18th, trap or hunt, 90) and kuf (19th, sunrise or east, 100). Between them the name Isaac and יצחק are shown in matching colours.",
+  "text": [
+    {"lang": "en", "role": "table", "text": "8. ח chet Ch,H — Wall, Fence — 8"},
+    {"lang": "en", "role": "body", "text": "Isaac"},
+    {"lang": "he", "role": "body", "text": "יצחק"},
+    {"lang": "en", "role": "table", "text": "18. צ (ץ) tsadi Tz — Trap, Hunt — 90"},
+    {"lang": "en", "role": "table", "text": "19. ק kuf Q — Sunrise, East — 100"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "יצחק", "translit": "yitzhak", "gloss": "Isaac", "strongs": "H3327"}
+  ],
+  "color_links": [
+    {"en": "Isaac", "other": "יצחק"},
+    {"en": "chet", "other": "ח"},
+    {"en": "8", "other": "ח"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "chet", "char": "ח", "value": 8, "meaning": "wall, fence (8th letter; sound Ch,H)"},
+    {"lang": "he", "letter": "tsadi", "char": "צ", "value": 90, "meaning": "trap, hunt (18th letter; sound Tz; final form ץ)"},
+    {"lang": "he", "letter": "kuf", "char": "ק", "value": 100, "meaning": "sunrise, east (19th letter; sound Q)"}
+  ],
+  "numbers": [
+    {"value": 8, "note": "value of chet"},
+    {"value": 90, "note": "value of tsadi"},
+    {"value": 100, "note": "value of kuf"}
+  ],
+  "pictures": [
+    {"type": "pictograph", "description": "Ancient (paleo-)Hebrew glyph for chet: a small ladder-like or fence-like sign of two uprights joined by cross-bars, labelled Wall, Fence.", "subjects": ["paleo-Hebrew chet", "pictograph", "wall", "fence", "ancient Hebrew letter"], "text_in_picture": "", "credit": null, "box": [0.40, 0.05, 0.48, 0.20]},
+    {"type": "pictograph", "description": "Ancient (paleo-)Hebrew glyph for tsadi: a zigzag, trap-like stroke, labelled Trap, Hunt.", "subjects": ["paleo-Hebrew tsadi", "pictograph", "trap", "hunt", "ancient Hebrew letter"], "text_in_picture": "", "credit": null, "box": [0.49, 0.56, 0.59, 0.69]},
+    {"type": "pictograph", "description": "Ancient (paleo-)Hebrew glyph for kuf: a circle on a vertical stem, like the sun on the horizon, labelled Sunrise, East.", "subjects": ["paleo-Hebrew kuf", "pictograph", "sunrise", "east", "ancient Hebrew letter"], "text_in_picture": "", "credit": null, "box": [0.49, 0.77, 0.56, 0.93]}
+  ],
+  "entities": {"people": ["Isaac"], "places": [], "events": [], "things": [], "themes": ["Hebrew letter meanings", "gematria"], "groups": []},
+  "keywords": ["Isaac", "Yitzhak", "chet", "tsadi", "kuf", "qof", "wall fence", "trap hunt", "sunrise east", "paleo-Hebrew", "ancient Hebrew pictographs", "alphabet chart", "8th letter", "18th letter", "19th letter", "letter values"],
+  "uncertain": [],
+  "confidence": 0.93
+}

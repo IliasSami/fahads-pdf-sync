@@ -1,0 +1,94 @@
+{
+ "id": "elijah-elisha/62",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 Kings 17:23-24 — Elijah returns the living son; the woman's confession",
+ "summary": "The text of 1 Kings 17:23-24: Elijah brings the child down from the upper room and gives him to his mother, saying 'See, your son is alive'; the woman declares that Elijah is a man of God and that the word of the LORD in his mouth is truth. The names Elijah, God and LORD are lettered in colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 17:23-24",
+   "osis": [
+    "1Kgs.17.23",
+    "1Kgs.17.24"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א יז:כג-כד",
+   "osis": [
+    "1Kgs.17.23",
+    "1Kgs.17.24"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "23 Elijah took the child and brought him down from the upper room into the house and gave him to his mother; and Elijah said, “See, your son is alive.”",
+   "osis": "1Kgs.17.23"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "24 Then the woman said to Elijah, “Now I know that you are a man of God and that the word of the LORD in your mouth is truth.”",
+   "osis": "1Kgs.17.24"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 17:23-24 / מלכים א יז:כג-כד",
+   "osis": [
+    "1Kgs.17.23",
+    "1Kgs.17.24"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah",
+   "God",
+   "widow of Zarephath"
+  ],
+  "places": [
+   "Zarephath"
+  ],
+  "events": [
+   "widow's son raised from the dead"
+  ],
+  "things": [
+   "upper room"
+  ],
+  "themes": [
+   "resurrection",
+   "word of God",
+   "faith",
+   "truth",
+   "miracles"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Elijah",
+  "your son is alive",
+  "man of God",
+  "word of the LORD is truth",
+  "widow of Zarephath",
+  "widow's son",
+  "upper room",
+  "son restored to mother",
+  "1 Kings 17",
+  "Elijah raises the dead",
+  "Now I know that you are a man of God"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

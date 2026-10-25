@@ -1,0 +1,28 @@
+{
+  "id": "akeda-1/72",
+  "kinds": ["text", "comparison"],
+  "title": "Two options, with Isaac (יצחק) named beside Option 1",
+  "summary": "Same two options as before, with 'Isaac' in red in English and Hebrew (יצחק) now written on either side of 'Option 1': God intervenes and stops the sacrifice, or the son is sacrificed and resurrected.",
+  "text": [
+    {"lang": "en", "role": "label", "text": "Isaac"},
+    {"lang": "en", "role": "heading", "text": "Option 1"},
+    {"lang": "he", "role": "label", "text": "יצחק"},
+    {"lang": "en", "role": "body", "text": "God intervenes & stops sacrifice"},
+    {"lang": "en", "role": "heading", "text": "Option 2"},
+    {"lang": "en", "role": "body", "text": "Son is sacrificed & resurrected"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "יצחק", "translit": "Yitzchak", "gloss": "Isaac", "strongs": "H3327"}
+  ],
+  "color_links": [
+    {"en": "Isaac", "other": "יצחק"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Isaac"], "places": [], "events": ["Binding of Isaac (Akedah)", "Resurrection"], "things": [], "themes": ["sacrifice", "resurrection", "substitution", "faith"], "groups": []},
+  "keywords": ["option 1", "option 2", "Isaac", "Yitzchak", "Isaak", "God intervenes", "stops the sacrifice", "son is sacrificed", "resurrected", "Akedah", "Akeda", "binding of Isaac"],
+  "uncertain": [],
+  "confidence": 0.97
+}

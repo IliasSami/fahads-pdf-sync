@@ -1,0 +1,35 @@
+{
+  "id": "abel/15",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:1 — qaniti (קניתי) “acquired” and qayin (Cain)",
+  "summary": "Genesis 4:1 with “obtained” highlighted: Eve's word קניתי (qaniti, “I acquired”) is set beside the name קין (qayin, Cain), showing the wordplay behind Cain's name.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:1", "osis": "Gen.4.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:א", "osis": "Gen.4.1"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.1", "text": "1 And the man knew Eve [chava] his wife, and she conceived and gave birth to Cain, and she said, “I have obtained a man with the help of the LORD.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.1", "text": "1 והאדם ידע את חוה אשתו ותהר ותלד את קין ותאמר קניתי איש את יהוה׃"},
+    {"lang": "translit", "role": "label", "text": "qaniti"},
+    {"lang": "he", "role": "label", "text": "קניתי"},
+    {"lang": "en", "role": "label", "text": "Acquired"},
+    {"lang": "translit", "role": "label", "text": "qayin"},
+    {"lang": "he", "role": "label", "text": "קין"},
+    {"lang": "en", "role": "label", "text": "Cain"}
+  ],
+  "refs": [{"shown": "Genesis 4:1 / בראשית ד:א", "osis": ["Gen.4.1"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "קניתי", "translit": "qaniti", "gloss": "I have acquired / obtained", "strongs": "H7069"},
+    {"lang": "he", "word": "קין", "translit": "qayin", "gloss": "Cain", "strongs": "H7014"}
+  ],
+  "color_links": [
+    {"en": "qaniti", "other": "קניתי"},
+    {"en": "qayin", "other": "קין"},
+    {"en": "LORD", "other": "יהוה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Adam", "Eve", "Cain", "God"], "places": [], "events": ["birth of Cain"], "things": [], "themes": ["names", "wordplay"], "groups": []},
+  "keywords": ["qaniti", "acquired", "obtained", "gotten", "I have gotten a man", "qanah", "Cain", "qayin", "meaning of Cain's name", "wordplay", "Genesis 4:1", "Genesis 4"],
+  "uncertain": [],
+  "confidence": 0.93
+}

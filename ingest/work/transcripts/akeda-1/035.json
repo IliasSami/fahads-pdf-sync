@@ -1,0 +1,29 @@
+{
+  "id": "akeda-1/35",
+  "kinds": ["timeline", "text"],
+  "title": "Seven thousand years, then eternity begins at the 8000 year mark",
+  "summary": "The same 7000-year sum as the previous slide (Adam to Yeshua 4000, Yeshua to today 2000, reign of Yeshua 1000), with the added line that eternity begins at the 8000 year mark (8000 shown in green).",
+  "text": [
+    {"lang": "en", "role": "body", "text": "adam → yeshua = 4000 yrs."},
+    {"lang": "en", "role": "body", "text": "+ yeshua → Today = 2000 yrs."},
+    {"lang": "en", "role": "body", "text": "+ Reign of yeshua = 1000 yrs."},
+    {"lang": "en", "role": "number", "text": "7000 yrs."},
+    {"lang": "en", "role": "body", "text": "Eternity begins at the 8000 yr. mark."}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {"value": 4000, "note": "years from Adam to Yeshua"},
+    {"value": 2000, "note": "years from Yeshua to today"},
+    {"value": 1000, "note": "years of the reign of Yeshua"},
+    {"value": 7000, "note": "total years (4000 + 2000 + 1000)"},
+    {"value": 8000, "note": "year mark at which eternity begins"}
+  ],
+  "pictures": [],
+  "entities": {"people": ["Adam", "Jesus"], "places": [], "events": ["Second Coming"], "things": [], "themes": ["biblical chronology", "millennial reign", "prophecy", "eternity"], "groups": []},
+  "keywords": ["8000 years", "eternity begins", "7000 years", "seven thousand years", "4000 years", "2000 years", "1000 years", "millennium", "eighth day", "Adam to Yeshua", "reign of Yeshua", "biblical timeline", "new beginning"],
+  "uncertain": [],
+  "confidence": 0.96
+}

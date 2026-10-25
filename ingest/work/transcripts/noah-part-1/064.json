@@ -1,0 +1,230 @@
+{
+ "id": "noah-part-1/64",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:26: tsal (shadow) and dam (blood) in 'image' and 'likeness'",
+ "summary": "Genesis 1:26 'Let Us make man in Our image according to Our likeness' with the Hebrew words betsalmenu (בצלמנו) and kidmutenu (כדמותנו) colour-coded: tsal (shadow, spiritual) hidden in 'image' and dam (blood, physical) in 'likeness'; the closing line pairs 'the heavens' with 'the earth' in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:26",
+   "osis": "Gen.1.26"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:כו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.26",
+   "text": "Then God said, \"Let Us make man in Our image according to Our likeness"
+  },
+  {
+   "lang": "translit",
+   "role": "verse",
+   "text": "betsalmenu, kidmutenu"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בצלמנו כדמותנו"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tsal"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "dam"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Shadow"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Blood"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Spiritual"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Physical"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "the heavens ואת the earth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "השמים ואת הארץ"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:26 / בראשית א:כו",
+   "osis": [
+    "Gen.1.26"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בצלמנו",
+   "translit": "betsalmenu",
+   "gloss": "in our image",
+   "strongs": "H6754"
+  },
+  {
+   "lang": "he",
+   "word": "כדמותנו",
+   "translit": "kidmutenu",
+   "gloss": "according to our likeness",
+   "strongs": "H1823"
+  },
+  {
+   "lang": "he",
+   "word": "צל",
+   "translit": "tsal",
+   "gloss": "shadow (spiritual)",
+   "strongs": "H6738"
+  },
+  {
+   "lang": "he",
+   "word": "דם",
+   "translit": "dam",
+   "gloss": "blood (physical)",
+   "strongs": "H1818"
+  },
+  {
+   "lang": "he",
+   "word": "נו",
+   "translit": "-enu",
+   "gloss": "our / us (ending)",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve-et",
+   "gloss": "and (the sign of the direct object)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'arets",
+   "gloss": "the earth",
+   "strongs": "H776"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "image",
+   "other": "צל"
+  },
+  {
+   "en": "Shadow",
+   "other": "צל"
+  },
+  {
+   "en": "Spiritual",
+   "other": "צל"
+  },
+  {
+   "en": "likeness",
+   "other": "דם"
+  },
+  {
+   "en": "Blood",
+   "other": "דם"
+  },
+  {
+   "en": "Physical",
+   "other": "דם"
+  },
+  {
+   "en": "Us",
+   "other": "נו"
+  },
+  {
+   "en": "Our",
+   "other": "נו"
+  },
+  {
+   "en": "heavens",
+   "other": "השמים"
+  },
+  {
+   "en": "earth",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "image of God",
+   "creation",
+   "blood",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:26",
+  "let Us make man",
+  "image and likeness",
+  "in our image",
+  "after our likeness",
+  "tselem",
+  "tsal",
+  "shadow",
+  "dam",
+  "blood",
+  "betsalmenu",
+  "kidmutenu",
+  "spiritual and physical",
+  "the heavens and the earth",
+  "created in God's image",
+  "us and our"
+ ],
+ "uncertain": [
+  "'God' is shown with G in blue, o in red and d in yellow; the slide does not explain the colours. 'Us' and 'Our' and the Hebrew ending נו (-enu) are black and underlined; 'ואת' is red."
+ ],
+ "confidence": 0.93
+}

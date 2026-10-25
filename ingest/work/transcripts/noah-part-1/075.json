@@ -1,0 +1,169 @@
+{
+ "id": "noah-part-1/75",
+ "kinds": [
+  "humor",
+  "chart",
+  "calendar"
+ ],
+ "title": "Weather forecast for Earth, Sunday 2000 B.C.: 49-day forecast of rain",
+ "summary": "A weather-app style joke slide for 'Earth, Sunday, 2000 B.C.': 100% precipitation, 100% humidity and 100+ mph wind, an hourly bar of 100% all day, and a 49-day extended forecast grid (Sun to Sat) with one row of sunny-cloud icons, then rain icons for the following days, and sun icons again on the last two days.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Earth"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Sunday, 2000 B.C."
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Sunny"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Precipitation: 100%"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Humidity: 100%"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Wind: 100+ mph"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "100% 100% 100% 100% 100% 100% 100% 100%"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "1 PM 4 PM 7 PM 10 PM 1 AM 4 AM 7 AM 10 AM"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "49-Day Extended Forecast"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Sun Mon Tue Wed Thu Fri Sat"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 49,
+   "note": "days in the extended forecast (7 weeks of 7 days)"
+  },
+  {
+   "value": 100,
+   "note": "percent precipitation and humidity; wind 100+ mph"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "icon",
+   "description": "Weather-app icon of a yellow sun partly covered by grey clouds, beside the 'Sunny' label.",
+   "subjects": [
+    "weather icon",
+    "sun",
+    "clouds",
+    "partly sunny"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.03,
+    0.34,
+    0.19,
+    0.5
+   ]
+  },
+  {
+   "type": "chart",
+   "description": "Hourly forecast bar: a single yellow bar across eight time slots from 1 PM to 10 AM, each labelled 100%.",
+   "subjects": [
+    "hourly forecast",
+    "bar chart",
+    "100 percent",
+    "weather"
+   ],
+   "text_in_picture": "100% (x8); 1 PM 4 PM 7 PM 10 PM 1 AM 4 AM 7 AM 10 AM",
+   "credit": null,
+   "box": [
+    0.03,
+    0.66,
+    0.56,
+    0.87
+   ]
+  },
+  {
+   "type": "grid",
+   "description": "Seven-by-seven grid of weather icons (49 days, columns Sun to Sat): the first row shows sun-and-cloud icons, the next five rows and the first five days of the last row show grey rain clouds, and the last two days (Fri, Sat) show sun-and-cloud again.",
+   "subjects": [
+    "weather forecast",
+    "rain clouds",
+    "49 days",
+    "calendar grid",
+    "sun and cloud icons"
+   ],
+   "text_in_picture": "Sun Mon Tue Wed Thu Fri Sat",
+   "credit": null,
+   "box": [
+    0.59,
+    0.27,
+    0.97,
+    0.88
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "rain",
+   "weather forecast"
+  ],
+  "themes": [
+   "humor",
+   "judgment"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "weather forecast",
+  "Noah's flood forecast",
+  "40 days of rain",
+  "49-day forecast",
+  "seven days before the flood",
+  "100% precipitation",
+  "rain icons",
+  "Earth forecast 2000 B.C.",
+  "funny weather report",
+  "flood humor",
+  "sunny",
+  "humor"
+ ],
+ "uncertain": [
+  "The grid has 7 sunny-cloud icons in the first row, 40 rain-cloud icons, then 2 sun-and-cloud icons (my count from the image); the slide does not label them. The date 'Sunday, 2000 B.C.' is as written."
+ ],
+ "confidence": 0.92
+}

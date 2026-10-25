@@ -1,0 +1,132 @@
+{
+ "id": "red-heifer/55",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Leviticus 14:52-53 — the house is atoned for and clean (tahor)",
+ "summary": "Leviticus 14:52-53 in English: the house is cleansed with the bird's blood, running water, the live bird, cedar wood, hyssop and scarlet string; the live bird is let go free outside the city and atonement is made so the house will be clean. Below, the Hebrew word וטהר (tahor) is shown with its meaning 'clean'; the words 'and it will be clean' are coloured to match.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Leviticus 14:52-53",
+   "osis": [
+    "Lev.14.52",
+    "Lev.14.53"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ויקרא יד:נב-נג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.14.52",
+   "text": "52 “He shall thus cleanse the house with the blood of the bird and with the running water, along with the live bird and with the cedar wood and with the hyssop and with the scarlet string."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.14.53",
+   "text": "53 “However, he shall let the live bird go free outside the city into the open field. So he shall make atonement for the house, and it will be clean.”"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tahor"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "וטהר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "clean"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Leviticus 14:52-53 / ויקרא יד:נב-נג",
+   "osis": [
+    "Lev.14.52",
+    "Lev.14.53"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "וטהר",
+   "translit": "tahor",
+   "gloss": "and it will be clean",
+   "strongs": "H2891"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "and",
+   "other": "ו"
+  },
+  {
+   "en": "it will be clean",
+   "other": "טהר"
+  },
+  {
+   "en": "tahor",
+   "other": "טהר"
+  },
+  {
+   "en": "clean",
+   "other": "טהר"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "cedar wood",
+   "hyssop",
+   "scarlet string",
+   "live bird",
+   "running water",
+   "blood",
+   "house"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "atonement",
+   "blood",
+   "sacrifice"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Leviticus 14",
+  "tahor",
+  "tahar",
+  "clean",
+  "and it will be clean",
+  "make atonement for the house",
+  "live bird let go free",
+  "bird released in the open field",
+  "cedar wood hyssop scarlet string",
+  "cleansing a house",
+  "Hebrew word for clean",
+  "purification"
+ ],
+ "uncertain": [
+  "Slide shows the Hebrew word without vowel points as וטהר; the vav is orange and טהר is blue, matching 'and' (orange) and 'it will be clean' (blue) in verse 53."
+ ],
+ "confidence": 0.95
+}

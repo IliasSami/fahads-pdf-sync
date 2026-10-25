@@ -1,0 +1,67 @@
+{
+ "id": "gods-garden-in-eden/74",
+ "kinds": [
+  "picture"
+ ],
+ "title": "Photo: hand holding a lit candle",
+ "summary": "The same photograph as the previous slide, now with the candle lit: a hand holds the tall, thin candle with a bright flame on its wick, casting a shadow on the wall. No words on the slide.",
+ "text": [],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Close photograph of a man's hand gripping a slender multi-coloured taper candle whose wick is now burning with a small bright flame. The warm light glows on the plain wall behind, and the hand and candle cast a shadow.",
+   "subjects": [
+    "candle",
+    "lit candle",
+    "flame",
+    "fire",
+    "hand",
+    "wick",
+    "shadow",
+    "light"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.3,
+    0.03,
+    0.7,
+    0.96
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "candle",
+   "flame",
+   "fire"
+  ],
+  "themes": [
+   "light and darkness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "lit candle",
+  "candle flame",
+  "burning candle",
+  "fire",
+  "light",
+  "hand holding candle",
+  "photo of a candle",
+  "wick",
+  "flame",
+  "object lesson",
+  "shadow"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

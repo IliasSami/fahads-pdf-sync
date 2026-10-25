@@ -1,0 +1,180 @@
+{
+ "id": "noah-part-2/129",
+ "kinds": [
+  "genealogy",
+  "list"
+ ],
+ "title": "The ten Hebrew names from Adam to Noah",
+ "summary": "A centred column of the ten Hebrew names from Adam to Noah, each with its letters spaced apart and in its own colour (blue, purple, red, orange, olive, green, blue, light green, dark red, blue).",
+ "text": [
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "א ד ם"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "ש ת"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "א נ ו ש"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "ק י נ ן"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "מ ה ל ל א ל"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "י ר ד"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "ח נ י ך"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "מ ת ו ש ל ח"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "ל מ ך"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "נ ח"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "Adam (man)",
+   "strongs": "H120"
+  },
+  {
+   "lang": "he",
+   "word": "שת",
+   "translit": "shet",
+   "gloss": "Seth",
+   "strongs": "H8352"
+  },
+  {
+   "lang": "he",
+   "word": "אנוש",
+   "translit": "enosh",
+   "gloss": "Enosh",
+   "strongs": "H583"
+  },
+  {
+   "lang": "he",
+   "word": "קינן",
+   "translit": "qenan",
+   "gloss": "Kenan",
+   "strongs": "H7018"
+  },
+  {
+   "lang": "he",
+   "word": "מהללאל",
+   "translit": "mahalalel",
+   "gloss": "Mahalalel",
+   "strongs": "H4111"
+  },
+  {
+   "lang": "he",
+   "word": "ירד",
+   "translit": "yered",
+   "gloss": "Jared",
+   "strongs": "H3382"
+  },
+  {
+   "lang": "he",
+   "word": "חניך",
+   "translit": "chanikh",
+   "gloss": "Enoch (as spelled on the slide)",
+   "strongs": "H2593"
+  },
+  {
+   "lang": "he",
+   "word": "מתושלח",
+   "translit": "metushelach",
+   "gloss": "Methuselah",
+   "strongs": "H4968"
+  },
+  {
+   "lang": "he",
+   "word": "למך",
+   "translit": "lemekh",
+   "gloss": "Lamech",
+   "strongs": "H3929"
+  },
+  {
+   "lang": "he",
+   "word": "נח",
+   "translit": "noach",
+   "gloss": "Noah",
+   "strongs": "H5146"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 10,
+   "note": "ten generations from Adam to Noah"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Seth",
+   "Enosh",
+   "Kenan",
+   "Mahalalel",
+   "Jared",
+   "Enoch",
+   "Methuselah",
+   "Lamech",
+   "Noah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "genealogy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Adam to Noah",
+  "Hebrew names",
+  "ten generations",
+  "Genesis 5",
+  "genealogy",
+  "Adam Seth Enosh",
+  "Hebrew spelling of names",
+  "antediluvian patriarchs",
+  "adam shet enosh",
+  "chanikh"
+ ],
+ "uncertain": [
+  "Enoch is spelled חניך on the slide, not the Genesis 5 spelling חנוך."
+ ],
+ "confidence": 0.93
+}

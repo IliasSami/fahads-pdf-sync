@@ -1,0 +1,143 @@
+{
+ "id": "genesis-1-1-part-2/64",
+ "kinds": [
+  "letters",
+  "verse"
+ ],
+ "title": "\"From the mouth of el\" and the alefs in Genesis 1:1",
+ "summary": "Under the heading \"From the mouth of el\" the letters alef, lamed, pe (אלפ) are shown large, beside the Hebrew of Genesis 1:1 (the first letter ב in red). Every alef in the verse is blue, and small labels under them (3rd, 3rd, 1st, 1st, 2nd, 2nd) give each alef's position as the first, second or third letter of its word.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "From the mouth of el"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל פ"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ..."
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "3rd 3rd 1st 1st 2nd 2nd"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 (Hebrew)",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אל",
+   "translit": "el",
+   "gloss": "God, mighty one",
+   "strongs": "H410"
+  },
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "mouth",
+   "other": "פ"
+  },
+  {
+   "en": "el",
+   "other": "אל"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "strong"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "shepherd"
+  },
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": 80,
+   "meaning": "mouth"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "names of God",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "alef",
+  "aleph",
+  "אלף",
+  "from the mouth of El",
+  "Genesis 1:1",
+  "alef in Genesis 1:1",
+  "first letter",
+  "mouth",
+  "pe",
+  "lamed",
+  "in the beginning",
+  "bereshit",
+  "Hebrew letters",
+  "position of alef"
+ ],
+ "uncertain": [
+  "The meaning of the red first letter ב in בראשית is not explained on this slide.",
+  "The position labels are read as the place of each blue alef within its word, left to right 2nd 2nd 1st 1st 3rd 3rd; no text on the slide says so."
+ ],
+ "confidence": 0.9
+}

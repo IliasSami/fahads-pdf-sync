@@ -1,0 +1,159 @@
+{
+ "id": "noah-part-1/49",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Exodus 40:20 and Genesis 50:26 — the same Hebrew word for ark and coffin",
+ "summary": "Exodus 40:20 (the testimony put into the ark) and Genesis 50:26 (Joseph put in a coffin in Egypt) in English and Hebrew, with the Hebrew word ארן/ארון shown in the same colour in both verses, translated 'ark' in one and 'coffin' in the other. Joseph and Egypt are also colour-matched to their Hebrew words, and [Moses] is in square brackets in the English.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 40:20",
+   "osis": "Exod.40.20"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות מ:כ"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.40.20",
+   "text": "20 Then [Moses] took the testimony and put it into the ark, and attached the poles to the ark, and put the mercy seat on top of the ark."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Exod.40.20",
+   "text": "20 ויקח ויתן את־העדת אל־הארן וישם את־הבדים על־הארן ויתן את־הכפרת על־הארן מלמעלה׃"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 50:26",
+   "osis": "Gen.50.26"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית נ:כו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.50.26",
+   "text": "26 So Joseph died, being 110 years old: and they embalmed him, and he was put in a coffin in Egypt."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.50.26",
+   "text": "26 וימת יוסף בן־מאה ועשר שנים ויחנטו אתו ויישם בארון במצרים׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 40:20 / שמות מ:כ",
+   "osis": [
+    "Exod.40.20"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 50:26 / בראשית נ:כו",
+   "osis": [
+    "Gen.50.26"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ארן",
+   "translit": "aron",
+   "gloss": "ark (of the testimony)",
+   "strongs": "H727",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ארון",
+   "translit": "aron",
+   "gloss": "coffin",
+   "strongs": "H727",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "ark",
+   "other": "ארן"
+  },
+  {
+   "en": "coffin",
+   "other": "ארון"
+  },
+  {
+   "en": "Joseph",
+   "other": "יוסף"
+  },
+  {
+   "en": "Egypt",
+   "other": "מצרים"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 110,
+   "note": "Joseph's age at death (Genesis 50:26)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Moses",
+   "Joseph"
+  ],
+  "places": [
+   "Egypt"
+  ],
+  "events": [],
+  "things": [
+   "ark",
+   "coffin",
+   "testimony",
+   "poles",
+   "mercy seat"
+  ],
+  "themes": [
+   "death",
+   "covenant"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "ark",
+  "coffin",
+  "aron",
+  "Joseph coffin",
+  "ark of the testimony",
+  "ark of the covenant",
+  "mercy seat",
+  "testimony",
+  "poles",
+  "Exodus 40",
+  "Genesis 50",
+  "Joseph died 110 years",
+  "embalmed",
+  "same Hebrew word"
+ ],
+ "uncertain": [
+  "Only part of the colour-coded Hebrew word (ארן) is highlighted in each verse; exact spelling of the highlighted portion in 'הארן' judged from the image."
+ ],
+ "confidence": 0.93
+}

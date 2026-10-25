@@ -1,0 +1,159 @@
+{
+ "id": "noah-part-1/17",
+ "kinds": [
+  "verse",
+  "comparison"
+ ],
+ "title": "Genesis 6:3: 120 x 50 = 6000 years, from the Spirit to the restrainer",
+ "summary": "Genesis 6:3 (120 years) is shown at the top. Below, an arrow leads from Genesis 1:2 (the Spirit of God moving over the waters) to 2 Thessalonians 2:7 (he who now restrains), with the sum 120 x 50 = 6000 yrs in the middle. 'Spirit' and 'he who now restrains' are highlighted in gold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:3",
+   "osis": "Gen.6.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.3",
+   "text": "3 Then the LORD said, “My Spirit shall not strive with man forever, because he also is flesh; nevertheless his days shall be one hundred and twenty years.”"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "From:"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:2",
+   "osis": "Gen.1.2"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.2",
+   "text": "2 The earth was formless and void, and darkness was over the surface of the deep, and the Spirit of God was moving over the surface of the waters."
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "120 x 50 ="
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "6000 yrs"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "To:"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "2 Thessalonians 2:7",
+   "osis": "2Thess.2.7"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "2Thess.2.7",
+   "text": "7 For the mystery of lawlessness is already at work; only he who now restrains will do so until he is taken out of the way."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:3 / בראשית ו:ג",
+   "osis": [
+    "Gen.6.3"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 1:2",
+   "osis": [
+    "Gen.1.2"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "2 Thessalonians 2:7",
+   "osis": [
+    "2Thess.2.7"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "en",
+   "word": "Spirit",
+   "translit": "ruach",
+   "gloss": "spirit, breath, wind",
+   "strongs": "H7307"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 120,
+   "note": "years in Genesis 6:3"
+  },
+  {
+   "value": 50,
+   "note": "multiplier in the sum 120 x 50"
+  },
+  {
+   "value": 6000,
+   "note": "result of 120 x 50 = 6000 years"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Holy Spirit"
+  ],
+  "places": [],
+  "events": [
+   "Creation",
+   "Rapture"
+  ],
+  "things": [],
+  "themes": [
+   "prophecy",
+   "judgment",
+   "creation",
+   "Flood chronology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "120 x 50",
+  "6000 years",
+  "6,000 years",
+  "Genesis 6:3",
+  "Genesis 1:2",
+  "2 Thessalonians 2:7",
+  "he who now restrains",
+  "the restrainer",
+  "mystery of lawlessness",
+  "taken out of the way",
+  "Spirit of God moving over the waters",
+  "Holy Spirit",
+  "end times",
+  "rapture",
+  "120 years of Noah"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

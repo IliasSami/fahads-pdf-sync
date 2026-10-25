@@ -1,0 +1,73 @@
+{
+ "id": "fall-of-man/30",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 3:16 — pain in childbirth, desire for husband, he will rule over you",
+ "summary": "Genesis 3:16 in English with its Hebrew reference: God tells the woman He will greatly multiply her pain in childbirth, her desire will be for her husband, and he will rule over her.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:16",
+   "osis": "Gen.3.16"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:יו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.3.16",
+   "text": "16 To the woman He said, “I will greatly multiply Your pain in childbirth, In pain you will bring forth children; Yet your desire will be for your husband, And he will rule over you.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:16 / בראשית ג:יו",
+   "osis": [
+    "Gen.3.16"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Eve",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [],
+  "themes": [
+   "judgment",
+   "marriage",
+   "sin"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 3:16",
+  "pain in childbirth",
+  "sorrow and conception",
+  "bring forth children",
+  "thy desire shall be to thy husband",
+  "he shall rule over thee",
+  "curse on the woman",
+  "consequences of the fall",
+  "woman's curse",
+  "multiply thy sorrow"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

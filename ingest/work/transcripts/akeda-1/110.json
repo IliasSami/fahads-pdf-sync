@@ -1,0 +1,179 @@
+{
+ "id": "akeda-1/110",
+ "kinds": [
+  "verse",
+  "list"
+ ],
+ "title": "All the double-name calls together, Genesis to Acts",
+ "summary": "A shortened list of the seven double-name calls gathered on one slide: Abraham, Jacob, Moses, Samuel, Martha, Simon and Saul. Each repeated name is colour-coded and followed by the reply or the key phrase, with its reference.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "list",
+   "osis": "Gen.22.11",
+   "text": "\"Abraham, Abraham!\" \"Here am I.\"—Genesis 22:11"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "osis": "Gen.46.2",
+   "text": "\"Jacob, Jacob.\" \"Here am I.\"—Genesis 46:2"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "osis": "Exod.3.4",
+   "text": "\"Moses, Moses!\" \"Here am I.\"—Exodus 3:4"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "osis": "1Sam.3.10",
+   "text": "\"Samuel! Samuel!\""
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "osis": "1Sam.3.10",
+   "text": "\"Speak, for Your servant is listening.\"—1 Samuel 3:10"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "osis": "Luke.10.41",
+   "text": "\"Martha, Martha,"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "osis": "Luke.10.41",
+   "text": "worried and bothered about so many things;—Luke 10:41"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "osis": "Luke.22.31",
+   "text": "\"Simon, Simon,"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "osis": "Luke.22.31",
+   "text": "Satan…permission to sift you like wheat; —Luke 22:31"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "osis": "Acts.9.4",
+   "text": "\"Saul, Saul,"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "osis": "Acts.9.4",
+   "text": "\"why are you persecuting Me?\"—Acts 9:4"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:11",
+   "osis": [
+    "Gen.22.11"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 46:2",
+   "osis": [
+    "Gen.46.2"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Exodus 3:4",
+   "osis": [
+    "Exod.3.4"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1 Samuel 3:10",
+   "osis": [
+    "1Sam.3.10"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Luke 10:41",
+   "osis": [
+    "Luke.10.41"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Luke 22:31",
+   "osis": [
+    "Luke.22.31"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Acts 9:4",
+   "osis": [
+    "Acts.9.4"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "double-name calls listed on this slide (Abraham, Jacob, Moses, Samuel, Martha, Simon, Saul)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Abraham",
+   "Jacob",
+   "Moses",
+   "Samuel",
+   "Martha",
+   "Simon Peter",
+   "Paul",
+   "Satan"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)",
+   "Conversion of Paul"
+  ],
+  "things": [],
+  "themes": [
+   "names of God",
+   "obedience"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "name called twice",
+  "Abraham Abraham",
+  "Jacob Jacob",
+  "Moses Moses",
+  "Samuel Samuel",
+  "Martha Martha",
+  "Simon Simon",
+  "Saul Saul",
+  "Here am I",
+  "double name",
+  "repeated name",
+  "God calls by name",
+  "Genesis 22:11",
+  "Acts 9:4"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

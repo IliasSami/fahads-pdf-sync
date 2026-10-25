@@ -1,0 +1,108 @@
+{
+ "id": "noah-part-1/15",
+ "kinds": [
+  "verse",
+  "comparison"
+ ],
+ "title": "Noach 950, Sarah 127, Abraham 175 are each greater than 120",
+ "summary": "Genesis 6:3 (the 120 years) is repeated at the top, followed by three comparisons: Noach 950 > 120, Sarah 127 > 120, and Abraham 175 > 120, showing that each of them lived longer than 120 years.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:3",
+   "osis": "Gen.6.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.3",
+   "text": "3 Then the LORD said, “My Spirit shall not strive with man forever, because he also is flesh; nevertheless his days shall be one hundred and twenty years.”"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Noach 950 > 120"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Sarah 127 > 120"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Abraham 175 > 120"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:3 / בראשית ו:ג",
+   "osis": [
+    "Gen.6.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 120,
+   "note": "years allotted to man in Genesis 6:3"
+  },
+  {
+   "value": 950,
+   "note": "Noach's age, greater than 120"
+  },
+  {
+   "value": 127,
+   "note": "Sarah's age, greater than 120"
+  },
+  {
+   "value": 175,
+   "note": "Abraham's age, greater than 120"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah",
+   "Sarah",
+   "Abraham"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [],
+  "themes": [
+   "judgment",
+   "death",
+   "Flood chronology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 6:3",
+  "120 years",
+  "Noach 950",
+  "Sarah 127",
+  "Abraham 175",
+  "lived longer than 120 years",
+  "lifespan limit",
+  "greater than 120",
+  "Noach",
+  "ages of Noah Sarah Abraham",
+  "my Spirit shall not strive"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

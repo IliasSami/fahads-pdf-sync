@@ -1,0 +1,80 @@
+{
+ "id": "red-heifer/47",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Numbers 19:3 — the red heifer was to be sacrificed outside the camp",
+ "summary": "Numbers 19:3 in English (Eleazar and 'it' picked out in colour): the heifer is given to Eleazar the priest, brought outside the camp and slaughtered in his presence. A large caption states that the Red Heifer was to be sacrificed outside the camp.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:3",
+   "osis": "Num.19.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.3",
+   "text": "3 ‘You shall give it to Eleazar the priest, and it shall be brought outside the camp and be slaughtered in his presence."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The Red Heifer was to be sacrificed outside the camp."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19:3 / במדבר יט:ג",
+   "osis": [
+    "Num.19.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Eleazar"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer"
+  ],
+  "themes": [
+   "sacrifice",
+   "purification",
+   "priesthood",
+   "typology"
+  ],
+  "groups": [
+   "priests"
+  ]
+ },
+ "keywords": [
+  "Numbers 19:3",
+  "red heifer",
+  "outside the camp",
+  "sacrificed outside the camp",
+  "Eleazar the priest",
+  "slaughtered in his presence",
+  "brought outside the camp",
+  "ordinance of the red heifer",
+  "parah adumah",
+  "sacrifice outside the camp"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

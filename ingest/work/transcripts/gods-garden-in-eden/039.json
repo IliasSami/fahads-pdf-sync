@@ -1,0 +1,116 @@
+{
+ "id": "gods-garden-in-eden/39",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 2:10 and Revelation 20:8 — four rivers and the four corners of the earth",
+ "summary": "Two quoted passages: Genesis 2:10 (a river flows out of Eden to water the garden and divides into four rivers) and Revelation 20:7-8 (Satan released to deceive the nations in the four corners of the earth, Gog and Magog). The line 'which are in the four corners of the earth' is set in larger type.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:10",
+   "osis": "Gen.2.10"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:י"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.10",
+   "text": "10 Now a river flowed out of Eden to water the garden; and from there it divided and became four rivers."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Revelation 20:8",
+   "osis": "Rev.20.8"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΑΠΟΚΑΛΥΨΙΣ 20:8"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": [
+    "Rev.20.7",
+    "Rev.20.8"
+   ],
+   "text": "7 When the thousand years are completed, Satan will be released from his prison, 8 and will come out to deceive the nations which are in the four corners of the earth, Gog and Magog, to gather them together for the war; the number of them is like the sand of the seashore."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:10 / בראשית ב:י",
+   "osis": [
+    "Gen.2.10"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Revelation 20:8 / ΑΠΟΚΑΛΥΨΙΣ 20:8",
+   "osis": [
+    "Rev.20.7",
+    "Rev.20.8"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 4,
+   "note": "four rivers (Genesis 2:10) and four corners of the earth (Revelation 20:8)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Satan"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Gog and Magog war"
+  ],
+  "things": [
+   "river",
+   "four rivers"
+  ],
+  "themes": [
+   "prophecy"
+  ],
+  "groups": [
+   "Gog and Magog",
+   "nations"
+  ]
+ },
+ "keywords": [
+  "four rivers of Eden",
+  "river out of Eden",
+  "four corners of the earth",
+  "Gog and Magog",
+  "thousand years",
+  "millennium",
+  "Satan released from prison",
+  "Satan loosed",
+  "Revelation 20",
+  "Genesis 2:10",
+  "number four",
+  "sand of the seashore",
+  "deceive the nations",
+  "Apocalypse"
+ ],
+ "uncertain": [
+  "Reference header reads Revelation 20:8, but verse 7 is also quoted (shown with the red verse number 7)."
+ ],
+ "confidence": 0.95
+}

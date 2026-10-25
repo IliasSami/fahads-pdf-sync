@@ -1,0 +1,89 @@
+{
+ "id": "noah-part-2/68",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Genesis 8:12 — the 3rd dove does not return and finds a resting place",
+ "summary": "Genesis 8:12: after seven more days Noah sends the dove out again, but this time it does not return to him. The slide concludes that the 3rd dove finds a resting place.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:12",
+   "osis": "Gen.8.12"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "3rd DOVE"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:יב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.12",
+   "text": "12 He waited seven more days and sent the dove out again, but this time it did not return to him."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "3rd DOVE: Finds Resting Place"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:12 / בראשית ח:יב",
+   "osis": [
+    "Gen.8.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "Noah waited seven more days before sending the dove a third time"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "dove"
+  ],
+  "themes": [
+   "rest",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "third dove",
+  "3rd dove",
+  "dove did not return",
+  "finds resting place",
+  "resting place",
+  "seven more days",
+  "dove sent out again",
+  "Genesis 8:12",
+  "Noah's dove",
+  "rest",
+  "Noah's ark"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

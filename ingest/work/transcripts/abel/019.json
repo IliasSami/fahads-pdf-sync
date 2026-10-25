@@ -1,0 +1,183 @@
+{
+  "id": "abel/19",
+  "kinds": [
+    "letters",
+    "verse",
+    "word-study"
+  ],
+  "title": "Cain (קין): quf = 100, with Genesis 11:10 (Shem a hundred years old)",
+  "summary": "The Hebrew alphabet with Cain's name קין (nun, yod, quf) highlighted and the number 100 — the value of quf — beneath it. Genesis 11:10 is added, with the word \"hundred\" (Shem was a hundred years old) shown in the same gold colour as quf and 100.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "The Hebrew Alphabet (alefbet)"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "alef bet gimel dalet he vav zayin het tet yod kaph lamed mem nun samech ayin pe tzadi quf resh shin tav"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "א ב ג ד ה ו ז ח ט י כ ל מ נ ס ע פ צ ק ר ש ת"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "qayin"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "קין"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Cain"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "nun yod quf"
+    },
+    {
+      "lang": "en",
+      "role": "number",
+      "text": "100"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 11:10",
+      "osis": "Gen.11.10"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית יא:י",
+      "osis": "Gen.11.10"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "10 These are the records of the generations of Shem. Shem was a hundred years old when he fathered Arpachshad, two years after the flood;",
+      "osis": "Gen.11.10"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 11:10 / בראשית יא:י",
+      "osis": [
+        "Gen.11.10"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "קין",
+      "translit": "qayin",
+      "gloss": "Cain",
+      "strongs": "H7014"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "qayin",
+      "other": "קין"
+    },
+    {
+      "en": "nun",
+      "other": "נ"
+    },
+    {
+      "en": "yod",
+      "other": "י"
+    },
+    {
+      "en": "quf",
+      "other": "ק"
+    },
+    {
+      "en": "100",
+      "other": "ק"
+    },
+    {
+      "en": "hundred",
+      "other": "ק"
+    }
+  ],
+  "letters": [
+    {
+      "lang": "he",
+      "letter": "quf",
+      "char": "ק",
+      "value": 100,
+      "meaning": "first letter of קין"
+    },
+    {
+      "lang": "he",
+      "letter": "yod",
+      "char": "י",
+      "value": 10,
+      "meaning": "second letter of קין"
+    },
+    {
+      "lang": "he",
+      "letter": "nun",
+      "char": "נ",
+      "value": 50,
+      "meaning": "last letter of קין (final form ן)"
+    }
+  ],
+  "numbers": [
+    {
+      "value": 100,
+      "note": "value of the letter quf (ק), first letter of Cain; the verse's word for a hundred is highlighted in the same gold colour"
+    }
+  ],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Cain",
+      "Shem",
+      "Arpachshad"
+    ],
+    "places": [],
+    "events": [
+      "the Flood"
+    ],
+    "things": [
+      "Hebrew alphabet"
+    ],
+    "themes": [
+      "gematria",
+      "Hebrew letter meanings",
+      "genealogy"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Hebrew alphabet",
+    "Cain",
+    "qayin",
+    "quf",
+    "qof",
+    "kuf",
+    "100",
+    "hundred years old",
+    "gematria",
+    "Shem",
+    "Arpachshad",
+    "Arphaxad",
+    "two years after the flood",
+    "Genesis 11:10",
+    "generations of Shem"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

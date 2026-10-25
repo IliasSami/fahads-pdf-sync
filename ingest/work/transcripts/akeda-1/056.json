@@ -1,0 +1,31 @@
+{
+  "id": "akeda-1/56",
+  "kinds": ["verse"],
+  "title": "Jonah 1:17 — three days and three nights in the stomach of the fish",
+  "summary": "Jonah 1:17 in English and Hebrew: the LORD appointed a great fish to swallow Jonah, and Jonah was in the stomach of the fish three days and three nights. “Jonah” is green and “stomach” light green; the name LORD is multicoloured.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Jonah 1:17", "osis": "Jonah.1.17"},
+    {"lang": "he", "role": "reference", "text": "יונה א:יז"},
+    {"lang": "en", "role": "verse", "osis": "Jonah.1.17", "text": "17 And the LORD appointed a great fish to swallow Jonah, and Jonah was in the stomach of the fish three days and three nights."},
+    {"lang": "he", "role": "verse", "osis": "Jonah.1.17", "text": "17 וימן יהוה דג גדול לבלע את־יונה ויהי יונה במעי הדג שלשה ימים ושלשה לילות׃"}
+  ],
+  "refs": [{"shown": "Jonah 1:17 / יונה א:יז", "osis": ["Jonah.1.17"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "יונה", "translit": "Yonah", "gloss": "Jonah (also “dove”)", "strongs": "H3124"},
+    {"lang": "he", "word": "מעי", "translit": "me'ei", "gloss": "stomach, belly (of)", "strongs": "H4578"},
+    {"lang": "he", "word": "דג", "translit": "dag", "gloss": "fish", "strongs": "H1709"}
+  ],
+  "color_links": [
+    {"en": "Jonah", "other": "יונה"},
+    {"en": "LORD", "other": "יהוה"}
+  ],
+  "letters": [],
+  "numbers": [
+    {"value": 3, "note": "three days and three nights in the fish"}
+  ],
+  "pictures": [],
+  "entities": {"people": ["Jonah", "God"], "places": [], "events": ["Jonah and the great fish"], "things": ["great fish"], "themes": ["resurrection", "typology", "three days and three nights", "prophecy"], "groups": []},
+  "keywords": ["Jonah 1:17", "Jonah and the whale", "great fish", "three days and three nights", "belly of the fish", "stomach of the fish", "swallowed Jonah", "prepared a great fish", "sign of Jonah", "Jonah in the fish", "Yonah"],
+  "uncertain": [],
+  "confidence": 0.96
+}

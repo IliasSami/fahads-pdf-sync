@@ -1,0 +1,25 @@
+{
+  "id": "elijah-elisha/49",
+  "kinds": ["verse"],
+  "title": "1 Kings 17:5-7 — Elijah did according to the word of the LORD",
+  "summary": "The text of 1 Kings 17:5-7 (ravens feed Elijah bread and meat at the brook Cherith until it dries up), with the opening line “So he went and did according to the word of the LORD” circled in green to stress Elijah's obedience.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "1 Kings 17:5-7", "osis": ["1Kgs.17.5", "1Kgs.17.6", "1Kgs.17.7"]},
+    {"lang": "he", "role": "reference", "text": "מלכים א יז:ה-ז", "osis": ["1Kgs.17.5", "1Kgs.17.6", "1Kgs.17.7"]},
+    {"lang": "en", "role": "verse", "text": "5 So he went and did according to the word of the LORD, for he went and lived by the brook Cherith, which is east of the Jordan.", "osis": "1Kgs.17.5"},
+    {"lang": "en", "role": "verse", "text": "6 The ravens brought him bread and meat in the morning and bread and meat in the evening, and he would drink from the brook.", "osis": "1Kgs.17.6"},
+    {"lang": "en", "role": "verse", "text": "7 It happened after a while that the brook dried up, because there was no rain in the land.", "osis": "1Kgs.17.7"}
+  ],
+  "refs": [
+    {"shown": "1 Kings 17:5-7 / מלכים א יז:ה-ז", "osis": ["1Kgs.17.5", "1Kgs.17.6", "1Kgs.17.7"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Elijah", "God"], "places": ["brook Cherith", "Jordan River"], "events": ["three-year drought"], "things": ["ravens", "bread", "meat", "brook"], "themes": ["obedience", "God's provision", "word of God"], "groups": []},
+  "keywords": ["Elijah", "obedience", "did according to the word of the LORD", "obeyed God", "ravens fed Elijah", "bread and meat", "brook Cherith", "brook dried up", "drought", "1 Kings 17"],
+  "uncertain": [],
+  "confidence": 0.96
+}

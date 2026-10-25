@@ -1,0 +1,26 @@
+{
+  "id": "akeda-2/82",
+  "kinds": ["verse"],
+  "title": "Genesis 24:17-20: Rebekah gives the servant a drink and waters his camels",
+  "summary": "Genesis 24:17-20 in English: the servant asks Rebekah for water, she gives him a drink and then draws water for all his camels. The words for the servant (servant, me, him, your, his) are highlighted in gold and 'camels' is underlined.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 24", "osis": "Gen.24.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית כד", "osis": "Gen.24.1"},
+    {"lang": "en", "role": "verse", "text": "17 Then the servant ran to meet her, and said, “Please let me drink a little water from your jar.”", "osis": "Gen.24.17"},
+    {"lang": "en", "role": "verse", "text": "18 She said, “Drink, my lord”; and she quickly lowered her jar to her hand, and gave him a drink.", "osis": "Gen.24.18"},
+    {"lang": "en", "role": "verse", "text": "19 Now when she had finished giving him a drink, she said, “I will draw also for your camels until they have finished drinking.”", "osis": "Gen.24.19"},
+    {"lang": "en", "role": "verse", "text": "20 So she quickly emptied her jar into the trough, and ran back to the well to draw, and she drew for all his camels.", "osis": "Gen.24.20"}
+  ],
+  "refs": [
+    {"shown": "Genesis 24 / בראשית כד", "osis": ["Gen.24.17", "Gen.24.18", "Gen.24.19", "Gen.24.20"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Rebekah", "Eliezer"], "places": [], "events": ["Finding a bride for Isaac"], "things": ["water jar", "camels", "well", "trough"], "themes": ["hospitality", "service", "marriage"], "groups": []},
+  "keywords": ["Rebekah", "Rebecca", "Abraham's servant", "watering the camels", "drink, my lord", "pitcher", "well", "kindness", "sign", "bride for Isaac", "Genesis 24"],
+  "uncertain": [],
+  "confidence": 0.95
+}

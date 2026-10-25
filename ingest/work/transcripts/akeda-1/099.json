@@ -1,0 +1,102 @@
+{
+  "id": "akeda-1/99",
+  "kinds": [
+    "verse"
+  ],
+  "title": "John 8:49-51 — whoever keeps My word will never see death",
+  "summary": "John 8:49-51: Jesus answers that He does not have a demon but honors His Father, that He does not seek His own glory because there is One who seeks and judges, and that anyone who keeps His word will never see death. Jesus' words (I, My, Me, Jesus) are in red and 'Father' is in blue.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "John 8:49-51",
+      "osis": [
+        "John.8.49",
+        "John.8.50",
+        "John.8.51"
+      ]
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "Ἰωάνης 8:49-51",
+      "osis": [
+        "John.8.49",
+        "John.8.50",
+        "John.8.51"
+      ]
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.49",
+      "text": "49 Jesus answered, “I do not have a demon; but I honor My Father, and you dishonor Me."
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.50",
+      "text": "50 “But I do not seek My glory; there is One who seeks and judges."
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.51",
+      "text": "51 “Truly, truly, I say to you, if anyone keeps My word he will never see death.”"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "John 8:49-51 / Ἰωάνης 8:49-51",
+      "osis": [
+        "John.8.49",
+        "John.8.50",
+        "John.8.51"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Jesus",
+      "God"
+    ],
+    "places": [],
+    "events": [],
+    "things": [
+      "demon"
+    ],
+    "themes": [
+      "glory",
+      "death",
+      "eternal life",
+      "judgment",
+      "obedience"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "John 8:49",
+    "John 8:50",
+    "John 8:51",
+    "John 8",
+    "I have not a devil",
+    "I honour my Father",
+    "I seek not mine own glory",
+    "there is one that seeketh and judgeth",
+    "verily verily",
+    "if a man keep my saying he shall never see death",
+    "never see death",
+    "keeps My word",
+    "eternal life",
+    "Akedah",
+    "Akeda"
+  ],
+  "uncertain": [],
+  "confidence": 0.97
+}

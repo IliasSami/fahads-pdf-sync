@@ -1,0 +1,148 @@
+{
+ "id": "genesis-1-1-part-2/80",
+ "kinds": [
+  "verse",
+  "diagram"
+ ],
+ "title": "Genesis 1:1 triangle: 3 sides, 7 letters per side, 3+7 inside",
+ "summary": "The same 28-letter Hebrew triangle of Genesis 1:1 with the ten inside letters picked out in red (the outer edge in blue), captioned: 3 Sides, 7 Letters per Side, 3+7 Inside.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ר א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש י ת"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב ר א א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ל ה י ם א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת ה ש מ י ם"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ו א ת ה א ר ץ"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "3 Sides     7 Letters per Side     3+7 Inside"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "sides of the letter triangle"
+  },
+  {
+   "value": 7,
+   "note": "letters on each side of the triangle (and 3+7 = 10 inside letters)"
+  },
+  {
+   "value": 10,
+   "note": "inside letters, shown as 3+7, in red"
+  },
+  {
+   "value": 28,
+   "note": "total letters in the triangle (18 outer + 10 inner)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A seven-row pyramid of the 28 Hebrew letters of Genesis 1:1. The letters on the three outer edges are blue; the ten inside letters (י / ר א / ם י ה / י מ ש ה) are red. Below it are the gold and black captions about sides, letters per side and inside letters.",
+   "subjects": [
+    "Hebrew letters",
+    "triangle",
+    "pyramid",
+    "blue and red letters",
+    "Genesis 1:1",
+    "inside letters"
+   ],
+   "text_in_picture": "3 Sides 7 Letters per Side 3+7 Inside",
+   "credit": null,
+   "box": [
+    0.18,
+    0.18,
+    0.82,
+    0.93
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "triangle"
+  ],
+  "themes": [
+   "creation",
+   "Hebrew letter patterns",
+   "triangular numbers",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "Genesis 1:1 triangle",
+  "3 sides",
+  "7 letters per side",
+  "3+7 inside",
+  "28 letters",
+  "triangle of letters",
+  "number 7 in Genesis 1:1",
+  "inside letters",
+  "triangular number 28",
+  "Hebrew letter pyramid"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

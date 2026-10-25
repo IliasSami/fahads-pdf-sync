@@ -1,0 +1,41 @@
+{
+  "id": "akeda-1/23",
+  "kinds": ["verse", "word-study"],
+  "title": "Isaiah 7:14 — almah (עלמה) means 'young woman'",
+  "summary": "Isaiah 7:14 in English and Hebrew with the word almah (עלמה, translated 'virgin') highlighted in green and glossed 'young woman'; the sign is again written 'oat' (אות).",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Isaiah 7:14", "osis": "Isa.7.14"},
+    {"lang": "he", "role": "reference", "text": "ישעה ז:יד"},
+    {"lang": "en", "role": "verse", "osis": "Isa.7.14", "text": "14 Therefore adonai himself shall give you a oat;"},
+    {"lang": "en", "role": "verse", "osis": "Isa.7.14", "text": "Behold, the virgin shall conceive, and bear a son,"},
+    {"lang": "en", "role": "verse", "osis": "Isa.7.14", "text": "and shall call his name Immanuel."},
+    {"lang": "he", "role": "verse", "osis": "Isa.7.14", "text": "לכן יתן אדני הוא לכם אות"},
+    {"lang": "he", "role": "verse", "osis": "Isa.7.14", "text": "הנה העלמה הרה וילדת בן"},
+    {"lang": "he", "role": "verse", "osis": "Isa.7.14", "text": "וקראת שמו עמנו אל׃"},
+    {"lang": "translit", "role": "label", "text": "almah"},
+    {"lang": "he", "role": "label", "text": "עלמה"},
+    {"lang": "en", "role": "label", "text": "young woman"}
+  ],
+  "refs": [{"shown": "Isaiah 7:14 / ישעה ז:יד", "osis": ["Isa.7.14"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "עלמה", "translit": "almah", "gloss": "young woman (translated 'virgin' in this verse)", "strongs": "H5959"},
+    {"lang": "he", "word": "אות", "translit": "oat (ot)", "gloss": "sign", "strongs": "H226"},
+    {"lang": "he", "word": "אדני", "translit": "adonai", "gloss": "Lord", "strongs": "H136"}
+  ],
+  "color_links": [
+    {"en": "adonai", "other": "אדני"},
+    {"en": "oat", "other": "אות"},
+    {"en": "virgin", "other": "העלמה"},
+    {"en": "almah", "other": "עלמה"},
+    {"en": "young woman", "other": "עלמה"},
+    {"en": "son", "other": "בן"},
+    {"en": "el", "other": "אל"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Jesus"], "places": [], "events": ["Birth of Jesus"], "things": [], "themes": ["messianic prophecy", "virgin birth", "meaning of names"], "groups": []},
+  "keywords": ["Isaiah 7:14", "almah", "young woman", "virgin", "עלמה", "virgin or young woman", "Immanuel", "sign", "oat", "virgin shall conceive", "Isaiah 7", "betulah"],
+  "uncertain": ["English line reads 'a oat' (the slide's replacement for 'sign'); transcribed as shown."],
+  "confidence": 0.94
+}

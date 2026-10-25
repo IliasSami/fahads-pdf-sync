@@ -1,0 +1,44 @@
+{
+  "id": "akeda-2/4",
+  "kinds": ["letters", "word-study", "picture"],
+  "title": "El (אל), God: alef (strength) + lamed (shepherd's crook)",
+  "summary": "Builds the Hebrew word el (אל), \"God\", from its two letters: alef (strength, God; value 1), linked to a monarch's crown, and lamed (shepherd's crook; value 30), linked to the sceptre.",
+  "text": [
+    {"lang": "he", "role": "label", "text": "א"},
+    {"lang": "translit", "role": "label", "text": "alef"},
+    {"lang": "en", "role": "label", "text": "A"},
+    {"lang": "en", "role": "label", "text": "Strength, God"},
+    {"lang": "en", "role": "number", "text": "1"},
+    {"lang": "he", "role": "label", "text": "ל"},
+    {"lang": "translit", "role": "label", "text": "lamed"},
+    {"lang": "en", "role": "label", "text": "L"},
+    {"lang": "en", "role": "label", "text": "Shepherd's Crook"},
+    {"lang": "en", "role": "number", "text": "30"},
+    {"lang": "translit", "role": "label", "text": "el"},
+    {"lang": "he", "role": "label", "text": "אל"},
+    {"lang": "en", "role": "label", "text": "God"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "אל", "translit": "el", "gloss": "God", "strongs": "H410"}
+  ],
+  "color_links": [
+    {"en": "alef", "other": "א"},
+    {"en": "lamed", "other": "ל"},
+    {"en": "el", "other": "אל"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": "strength, God (ox head pictograph); linked to a crown"},
+    {"lang": "he", "letter": "lamed", "char": "ל", "value": 30, "meaning": "shepherd's crook (staff pictograph); linked to a sceptre"}
+  ],
+  "numbers": [],
+  "pictures": [
+    {"type": "photo", "description": "Colour coronation portrait of a queen wearing a jewelled imperial crown and ermine-trimmed robe, holding a golden sceptre and an orb. Red arrows point from alef to the crown and from lamed to the sceptre.", "subjects": ["queen", "coronation", "crown", "sceptre", "orb", "royalty"], "text_in_picture": "", "credit": null, "box": [0.0, 0.0, 0.355, 0.99]},
+    {"type": "pictograph", "description": "Ancient (paleo-)Hebrew pictograph of the letter alef: an ox head with two horns.", "subjects": ["paleo-Hebrew alphabet", "pictograph", "alef", "ox head"], "text_in_picture": "", "credit": null, "box": [0.6, 0.15, 0.68, 0.28]},
+    {"type": "pictograph", "description": "Ancient (paleo-)Hebrew pictograph of the letter lamed: a shepherd's staff or crook.", "subjects": ["paleo-Hebrew alphabet", "pictograph", "lamed", "shepherd's staff"], "text_in_picture": "", "credit": null, "box": [0.6, 0.38, 0.67, 0.5]}
+  ],
+  "entities": {"people": ["God"], "places": [], "events": [], "things": ["crown", "sceptre", "shepherd's crook"], "themes": ["names of God", "Hebrew letter meanings", "kingship", "God as shepherd"], "groups": []},
+  "keywords": ["El", "God", "alef", "aleph", "lamed", "shepherd's crook", "staff", "strength", "crown", "sceptre", "queen", "pictograph", "names of God", "photo"],
+  "uncertain": [],
+  "confidence": 0.94
+}

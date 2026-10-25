@@ -1,0 +1,117 @@
+{
+ "id": "noah-part-2/42",
+ "kinds": [
+  "verse",
+  "timeline"
+ ],
+ "title": "Genesis 8:4-5 — ark rests on Ararat (7/17); mountaintops visible (10/1)",
+ "summary": "Genesis 8:4-5 in English with the key dates colour-coded: the ark rested on the mountains of Ararat in the seventh month on the 17th day, and the mountaintops became visible in the tenth month on the first day. A summary line shows 7/17 (Ark rests) and 10/1 (Mountains visible).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:4-5",
+   "osis": [
+    "Gen.8.4",
+    "Gen.8.5"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:ד-ה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.4",
+   "text": "4 In the seventh month, on the seventeenth day of the month, the ark rested upon the mountains of Ararat."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.5",
+   "text": "5 The water decreased steadily until the tenth month; in the tenth month, on the first day of the month, the tops of the mountains became visible."
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "7 / 17 — 10 / 1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Ark rests"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Mountains visible"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:4-5 / בראשית ח:ד-ה",
+   "osis": [
+    "Gen.8.4",
+    "Gen.8.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 17,
+   "note": "day of the seventh month when the ark rested (7/17)"
+  },
+  {
+   "value": 7,
+   "note": "seventh month, when the ark rested"
+  },
+  {
+   "value": 10,
+   "note": "tenth month, when the mountaintops became visible (10/1)"
+  },
+  {
+   "value": 1,
+   "note": "first day of the tenth month"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Mountains of Ararat"
+  ],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "Hebrew calendar",
+   "Flood chronology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 8",
+  "ark rested",
+  "Mount Ararat",
+  "mountains of Ararat",
+  "seventh month seventeenth day",
+  "tenth month first day",
+  "tops of the mountains visible",
+  "7/17",
+  "10/1",
+  "flood dates",
+  "Noah's ark landing",
+  "Hebrew months"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

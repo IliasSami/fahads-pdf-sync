@@ -1,0 +1,103 @@
+{
+ "id": "noah-part-2/17",
+ "kinds": [
+  "calendar"
+ ],
+ "title": "Hebrew calendar (months numbered from Tishri) with the 17th of Cheshvan circled",
+ "summary": "A full Hebrew calendar of twelve months numbered 1 to 12 starting with Tishri, with Sukkot, Chanukkah, Pesach (Passover) and Shavuot marked. The 17th day of month 2 (Cheshvan) is circled in gold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "1 Tishri (Sukkot 15–22) · 2 Cheshvan (17 circled) · 3 Kislev (Chanukkah 25–30) · 4 Tevet · 5 Sh’vat · 6 Adar · 7 Nisan (Pesach / Passover 14–22) · 8 Iyar · 9 Sivan (Shavuot 6–7) · 10 Tamuz · 11 Av · 12 Elul"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "S U K K O T"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Chanukkah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חנכה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "P E S A C H   P A S S O V E R"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "S H A V U O T"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חנכה",
+   "translit": "Chanukkah",
+   "gloss": "dedication (Hanukkah)",
+   "strongs": "H2598"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 12,
+   "note": "months of the Hebrew year"
+  },
+  {
+   "value": 17,
+   "note": "17th day of Cheshvan (month 2), circled in gold"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Sukkot",
+   "Chanukkah",
+   "Passover",
+   "Shavuot"
+  ],
+  "things": [
+   "Hebrew calendar"
+  ],
+  "themes": [
+   "biblical feasts",
+   "Flood chronology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Hebrew calendar",
+  "Jewish calendar",
+  "months",
+  "Tishri",
+  "Cheshvan",
+  "17th of Cheshvan",
+  "second month",
+  "seventeenth day",
+  "Genesis 7:11",
+  "Sukkot",
+  "Tabernacles",
+  "Hanukkah",
+  "Passover",
+  "Pesach",
+  "Shavuot",
+  "Pentecost"
+ ],
+ "uncertain": [
+  "Day numbers in the grid were not copied cell by cell; only month names, month numbers, feast labels and the circled day were transcribed."
+ ],
+ "confidence": 0.93
+}

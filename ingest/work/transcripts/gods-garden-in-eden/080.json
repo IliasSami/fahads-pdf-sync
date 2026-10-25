@@ -1,0 +1,192 @@
+{
+ "id": "gods-garden-in-eden/80",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Exodus 26:6 — fifty gold clasps join the curtains into one tabernacle",
+ "summary": "Exodus 26:6 in English and Hebrew with 'one' (echad, אחד) colour-coded and an equation: 50 Clasps (gold) + 10 Curtains → אחד One Tabernacle.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 26:6",
+   "osis": "Exod.26.6"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות כו:ו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "6 And thou shalt make fifty clasps of gold, and couple the curtains together with the clasps: and it shall be one tabernacle.",
+   "osis": "Exod.26.6"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "ועשית חמשים קרסי זהב וחברת את־היריעת אשה אל־אחתה בקרסים והיה המשכן אחד׃",
+   "osis": "Exod.26.6"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אחד"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "echad"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "One"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "50 + 10 → אחד One"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Clasps"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Curtains"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Tabernacle"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 26:6 / שמות כו:ו",
+   "osis": [
+    "Exod.26.6"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אחד",
+   "translit": "echad",
+   "gloss": "one",
+   "strongs": "H259"
+  },
+  {
+   "lang": "he",
+   "word": "זהב",
+   "translit": "zahav",
+   "gloss": "gold",
+   "strongs": "H2091"
+  },
+  {
+   "lang": "he",
+   "word": "קרסי",
+   "translit": "karsei",
+   "gloss": "clasps (taches)",
+   "strongs": "H7165"
+  },
+  {
+   "lang": "he",
+   "word": "היריעת",
+   "translit": "hayeriot",
+   "gloss": "the curtains",
+   "strongs": "H3407"
+  },
+  {
+   "lang": "he",
+   "word": "המשכן",
+   "translit": "hamishkan",
+   "gloss": "the tabernacle",
+   "strongs": "H4908"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "gold",
+   "other": "זהב"
+  },
+  {
+   "en": "o (one)",
+   "other": "א"
+  },
+  {
+   "en": "e (one)",
+   "other": "ד"
+  },
+  {
+   "en": "e (echad)",
+   "other": "א"
+  },
+  {
+   "en": "d (echad)",
+   "other": "ד"
+  },
+  {
+   "en": "O (One)",
+   "other": "א"
+  },
+  {
+   "en": "e (One)",
+   "other": "ד"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 50,
+   "note": "clasps of gold"
+  },
+  {
+   "value": 10,
+   "note": "curtains"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "tabernacle",
+   "gold clasps",
+   "curtains"
+  ],
+  "themes": [
+   "unity",
+   "tabernacle",
+   "temple"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Exodus 26:6",
+  "fifty clasps of gold",
+  "taches of gold",
+  "couple the curtains",
+  "one tabernacle",
+  "echad",
+  "one",
+  "tabernacle curtains",
+  "gold clasps",
+  "50 + 10",
+  "אחד",
+  "Exodus 26",
+  "mishkan"
+ ],
+ "uncertain": [
+  "The slide shows 50 + 10 → One Tabernacle without stating a total; transcribed as shown. Colours of the letters in 'Curtains' and 'Tabernacle' (multicoloured) are decorative."
+ ],
+ "confidence": 0.93
+}

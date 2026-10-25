@@ -1,0 +1,70 @@
+{
+ "id": "gods-garden-in-eden/75",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 John 1:5 — God is Light, no darkness at all",
+ "summary": "1 John 1:5 quoted in English: the message heard from Him is that God is Light and in Him there is no darkness at all. The letters of 'Him' and 'God' are coloured individually (blue, red, gold) and 'Light' is gold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 John 1:5",
+   "osis": "1John.1.5"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "1 Ἰωάνης 1:5"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "5 This is the message we have heard from Him and announce to you, that God is Light, and in Him there is no darkness at all.",
+   "osis": "1John.1.5"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 John 1:5 / 1 Ἰωάνης 1:5",
+   "osis": [
+    "1John.1.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "light and darkness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "1 John 1:5",
+  "God is light",
+  "no darkness at all",
+  "in him is no darkness",
+  "the message we have heard",
+  "light",
+  "darkness",
+  "declare unto you",
+  "1 John 1",
+  "Ioanes",
+  "God is Light verse"
+ ],
+ "uncertain": [
+  "Meaning of the individual blue/red/gold letter colours in 'Him' and 'God' is not stated on the slide."
+ ],
+ "confidence": 0.95
+}

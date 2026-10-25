@@ -1,0 +1,230 @@
+{
+ "id": "genesis-1-1-part-2/47",
+ "kinds": [
+  "word-study",
+  "verse"
+ ],
+ "title": "Unique words of creation — Genesis 1:9-12 (dry land, seas, plants)",
+ "summary": "Genesis 1:9 to 1:12 in Hebrew with English labels above the highlighted words: gather, unto, place, dry, seas, fruit trees, seed, plants, sprout, in it, kind, and brought.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "place · unto · gather"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.9",
+   "text": "1:9 ויאמר אלהים יקוו המים מתחת השמים אל מקום אחד"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "dry"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.9",
+   "text": "ותראה היבשה ויהי כן׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "seas"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.10",
+   "text": "1:10 ויקרא אלהים ליבשה ארץ ולמקוה המים קרא ימים וירא"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.10",
+   "text": "אלהים כי טוב׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "fruit trees · seed · plants · sprout"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.11",
+   "text": "1:11 ויאמר אלהים תדשא הארץ דשא עשב מזריע זרע עץ פרי"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "in it · kind"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.11",
+   "text": "עשה פרי למינו אשר זרעו בו על הארץ ויהי כן׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "brought"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.12",
+   "text": "1:12 ותוצא הארץ דשא עשב מזריע זרע למינהו ועץ עשה פרי אשר"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.12",
+   "text": "זרעו בו למינהו וירא אלהים כי טוב׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1:9 – 1:12",
+   "osis": [
+    "Gen.1.9",
+    "Gen.1.10",
+    "Gen.1.11",
+    "Gen.1.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יקוו",
+   "translit": "yikavu",
+   "gloss": "gather",
+   "strongs": "H6960"
+  },
+  {
+   "lang": "he",
+   "word": "אל",
+   "translit": "el",
+   "gloss": "unto",
+   "strongs": "H413"
+  },
+  {
+   "lang": "he",
+   "word": "מקום",
+   "translit": "makom",
+   "gloss": "place",
+   "strongs": "H4725"
+  },
+  {
+   "lang": "he",
+   "word": "היבשה",
+   "translit": "hayabashah",
+   "gloss": "dry (dry land)",
+   "strongs": "H3004"
+  },
+  {
+   "lang": "he",
+   "word": "ימים",
+   "translit": "yamim",
+   "gloss": "seas",
+   "strongs": "H3220"
+  },
+  {
+   "lang": "he",
+   "word": "עץ פרי",
+   "translit": "etz peri",
+   "gloss": "fruit trees",
+   "strongs": "H6086"
+  },
+  {
+   "lang": "he",
+   "word": "מזריע",
+   "translit": "mazria",
+   "gloss": "seed (yielding seed)",
+   "strongs": "H2232"
+  },
+  {
+   "lang": "he",
+   "word": "עשב",
+   "translit": "esev",
+   "gloss": "plants (herb)",
+   "strongs": "H6212"
+  },
+  {
+   "lang": "he",
+   "word": "תדשא",
+   "translit": "tadshe",
+   "gloss": "sprout (bring forth grass)",
+   "strongs": "H1876"
+  },
+  {
+   "lang": "he",
+   "word": "בו",
+   "translit": "vo",
+   "gloss": "in it",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "למינו",
+   "translit": "lemino",
+   "gloss": "kind (after its kind)",
+   "strongs": "H4327"
+  },
+  {
+   "lang": "he",
+   "word": "ותוצא",
+   "translit": "vatotse",
+   "gloss": "brought (forth)",
+   "strongs": "H3318"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "dry land",
+   "seas",
+   "fruit trees",
+   "seed",
+   "plants"
+  ],
+  "themes": [
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:9-12",
+  "dry land",
+  "gathering of the waters",
+  "seas",
+  "third day",
+  "grass",
+  "herb yielding seed",
+  "fruit tree after his kind",
+  "after its kind",
+  "let the dry land appear",
+  "Hebrew word study",
+  "unique words of creation",
+  "plants and trees"
+ ],
+ "uncertain": [
+  "Hebrew text on the slide has spaces rather than maqaf between words; transcribed as shown."
+ ],
+ "confidence": 0.94
+}

@@ -1,0 +1,27 @@
+{
+  "id": "akeda-1/93",
+  "kinds": ["verse"],
+  "title": "The Lamb: John 1:29 and Revelation 14:4",
+  "summary": "John 1:29 (“Behold, the Lamb of God who takes away the sin of the world!”) paired with Revelation 14:4, about those who follow the Lamb wherever He goes, purchased as first fruits to God and to the Lamb. 'Lamb' is grey throughout and 'God' is in blue, red and gold.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "John 1:29", "osis": "John.1.29"},
+    {"lang": "el", "role": "reference", "text": "ΙΩΑΝΝΗΝ 1:29", "osis": "John.1.29"},
+    {"lang": "en", "role": "verse", "osis": "John.1.29", "text": "29 The next day he saw Jesus coming to him and said, “Behold, the Lamb of God who takes away the sin of the world!"},
+    {"lang": "en", "role": "reference", "text": "Revelation 14:4,000", "osis": "Rev.14.4"},
+    {"lang": "el", "role": "reference", "text": "ΑΠΟΚΑΛΥΨΙΣ 14:4", "osis": "Rev.14.4"},
+    {"lang": "en", "role": "verse", "osis": "Rev.14.4", "text": "4 These are the ones who have not been defiled with women, for they have kept themselves chaste. These are the ones who follow the Lamb wherever He goes. These have been purchased from among men as first fruits to God and to the Lamb."}
+  ],
+  "refs": [
+    {"shown": "John 1:29 / ΙΩΑΝΝΗΝ 1:29", "osis": ["John.1.29"], "role": "quoted"},
+    {"shown": "Revelation 14:4,000 / ΑΠΟΚΑΛΥΨΙΣ 14:4", "osis": ["Rev.14.4"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Jesus", "John the Baptist", "God"], "places": [], "events": [], "things": ["lamb"], "themes": ["sacrifice", "sin", "redemption", "first fruits", "typology"], "groups": ["144,000"]},
+  "keywords": ["John 1:29", "Revelation 14:4", "Revelation 14", "Lamb of God", "follow the Lamb wherever he goes", "firstfruits unto God and to the Lamb", "first fruits", "144,000", "redeemed from among men", "purchased", "chaste", "virgins"],
+  "uncertain": ["The English header reads 'Revelation 14:4,000' (the Greek header reads 14:4); apparently a play on the 144,000 of Revelation 14 — transcribed as shown."],
+  "confidence": 0.93
+}

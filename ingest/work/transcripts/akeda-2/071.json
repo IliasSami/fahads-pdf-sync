@@ -1,0 +1,94 @@
+{
+ "id": "akeda-2/71",
+ "kinds": [
+  "picture"
+ ],
+ "title": "Photo: woman on a kneeling camel, Mount of Olives, Jerusalem (2013)",
+ "summary": "A photograph of a smiling woman in a wide-brimmed hat sitting on a camel that is kneeling on a stone terrace on the Mount of Olives, with Jerusalem and the golden Dome of the Rock behind. Caption: Mount of Olives, Jerusalem, Israel, 2013.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "Mount of Olives"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "Jerusalem, Israel"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "2013"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2013,
+   "note": "year the photo was taken"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Colour photo on a sunny day: a smiling woman in a wide-brimmed hat, pink-sleeved top and white trousers sits on a white camel with a red patterned saddle blanket; the camel is kneeling on a paved stone terrace. A man in a cap and blue T-shirt holds the camel's rope. Tourists stand at an iron railing, one with a blue umbrella. Behind them the Old City of Jerusalem spreads out under a pale blue sky, with the golden Dome of the Rock, the city wall and a hillside cemetery.",
+   "subjects": [
+    "camel",
+    "kneeling camel",
+    "Mount of Olives",
+    "Jerusalem",
+    "Dome of the Rock",
+    "tourists",
+    "Old City",
+    "viewpoint",
+    "photo"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.0,
+    0.0,
+    0.75,
+    1.0
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [
+   "Mount of Olives",
+   "Jerusalem",
+   "Israel",
+   "Temple Mount"
+  ],
+  "events": [],
+  "things": [
+   "camel",
+   "Dome of the Rock"
+  ],
+  "themes": [
+   "kneeling"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Mount of Olives",
+  "Jerusalem",
+  "camel",
+  "kneeling camel",
+  "camel ride",
+  "photo of Jerusalem",
+  "Dome of the Rock",
+  "Old City",
+  "Israel 2013",
+  "tourists",
+  "view of Temple Mount",
+  "photograph"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

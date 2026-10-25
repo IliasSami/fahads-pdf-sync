@@ -1,0 +1,140 @@
+{
+ "id": "gods-garden-in-eden/70",
+ "kinds": [
+  "verse",
+  "comparison"
+ ],
+ "title": "Genesis 2:7 'formed' man vs Genesis 2:22 'fashioned' woman",
+ "summary": "Two verses compared in English and Hebrew. Gen 2:7, 'And the LORD God formed** man…' with the Hebrew verb וייצר double-underlined and marked with two red asterisks; Gen 2:22, 'And the LORD God fashioned woman…' with the Hebrew verb ויבן in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:7",
+   "osis": "Gen.2.7"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:ז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "7 And the LORD God formed** man…",
+   "osis": "Gen.2.7"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "7 וייצר** יהוה אלהים את־האדם…",
+   "osis": "Gen.2.7"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:22",
+   "osis": "Gen.2.22"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:כב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "22 And the LORD God fashioned woman…",
+   "osis": "Gen.2.22"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "22 ויבן יהוה אלהים…",
+   "osis": "Gen.2.22"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:7 / בראשית ב:ז",
+   "osis": [
+    "Gen.2.7"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 2:22 / בראשית ב:כב",
+   "osis": [
+    "Gen.2.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "וייצר",
+   "translit": "vayyitser",
+   "gloss": "and formed (man)",
+   "strongs": "H3335"
+  },
+  {
+   "lang": "he",
+   "word": "ויבן",
+   "translit": "vayyiven",
+   "gloss": "and fashioned (woman)",
+   "strongs": "H1129"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "man",
+   "other": "האדם"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam",
+   "Eve"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "marriage"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "formed man",
+  "fashioned woman",
+  "yatsar",
+  "vayyitser",
+  "vayiven",
+  "banah built",
+  "וייצר",
+  "ויבן",
+  "Genesis 2:7",
+  "Genesis 2:22",
+  "creation of man and woman",
+  "two different Hebrew verbs",
+  "Hebrew word study"
+ ],
+ "uncertain": [
+  "The meaning of the two red asterisks after 'formed' and וייצר is not explained on this slide."
+ ],
+ "confidence": 0.92
+}

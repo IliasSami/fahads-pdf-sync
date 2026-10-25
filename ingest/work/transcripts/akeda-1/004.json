@@ -1,0 +1,37 @@
+{
+  "id": "akeda-1/4",
+  "kinds": ["word-study"],
+  "title": "Eliezer (אליעזר) means “God is my Help”",
+  "summary": "Breaks the name Eliezer (אליעזר) into its parts with arrows: el (אל, God) + yod (י) + ezer (עזר, help), concluding that Eliezer means “God is my Help.”",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Eliezer"},
+    {"lang": "he", "role": "heading", "text": "אליעזר"},
+    {"lang": "translit", "role": "label", "text": "el"},
+    {"lang": "he", "role": "label", "text": "אל"},
+    {"lang": "he", "role": "label", "text": "י"},
+    {"lang": "he", "role": "label", "text": "עזר"},
+    {"lang": "translit", "role": "label", "text": "ezer"},
+    {"lang": "en", "role": "label", "text": "God"},
+    {"lang": "en", "role": "label", "text": "Help"},
+    {"lang": "en", "role": "body", "text": "Eliezer → God is my Help"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "אליעזר", "translit": "Eliezer", "gloss": "God is my help", "strongs": "H461"},
+    {"lang": "he", "word": "אל", "translit": "el", "gloss": "God", "strongs": "H410"},
+    {"lang": "he", "word": "עזר", "translit": "ezer", "gloss": "help", "strongs": "H5828"}
+  ],
+  "color_links": [
+    {"en": "Eliezer", "other": "אליעזר"},
+    {"en": "el", "other": "אל"},
+    {"en": "ezer", "other": "עזר"},
+    {"en": "Help", "other": "עזר"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Eliezer", "God"], "places": [], "events": [], "things": [], "themes": ["names of God", "meaning of names"], "groups": []},
+  "keywords": ["Eliezer", "meaning of Eliezer", "God is my help", "ezer", "help", "helper", "El", "God", "Hebrew name meaning", "Abraham's servant", "Eliezer of Damascus"],
+  "uncertain": [],
+  "confidence": 0.95
+}

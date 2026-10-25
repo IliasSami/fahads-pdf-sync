@@ -1,0 +1,42 @@
+{
+  "id": "akeda-1/30",
+  "kinds": ["letters", "word-study"],
+  "title": "Isaac (yitzhak) = 'He will laugh': yod, tsadi, chet, kuf",
+  "summary": "Because Abraham laughed at God's promised son, God had him name the son Isaac: the four letters yod, tsadi, chet (8) and kuf spell yitzhak, shown equal to 'He will laugh'.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Abraham laughed at God’s promised son"},
+    {"lang": "en", "role": "heading", "text": "so God had him name his son:"},
+    {"lang": "he", "role": "label", "text": "י צ ח ק"},
+    {"lang": "translit", "role": "label", "text": "kuf"},
+    {"lang": "translit", "role": "label", "text": "chet"},
+    {"lang": "en", "role": "number", "text": "8"},
+    {"lang": "translit", "role": "label", "text": "tsadi"},
+    {"lang": "translit", "role": "label", "text": "yod"},
+    {"lang": "en", "role": "label", "text": "↔ He will laugh"},
+    {"lang": "translit", "role": "label", "text": "yitzhak"},
+    {"lang": "en", "role": "label", "text": "Isaac"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "יצחק", "translit": "yitzhak", "gloss": "Isaac; 'he will laugh'", "strongs": "H3327"}
+  ],
+  "color_links": [
+    {"en": "yod", "other": "י"},
+    {"en": "chet", "other": "ח"},
+    {"en": "kuf", "other": "ק"},
+    {"en": "tsadi", "other": "צ"},
+    {"en": "He", "other": "י"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "yod", "char": "י", "value": 10, "meaning": ""},
+    {"lang": "he", "letter": "tsadi", "char": "צ", "value": 90, "meaning": ""},
+    {"lang": "he", "letter": "chet", "char": "ח", "value": 8, "meaning": ""},
+    {"lang": "he", "letter": "kuf", "char": "ק", "value": 100, "meaning": ""}
+  ],
+  "numbers": [{"value": 8, "note": "value of chet (ח), shown under its name"}],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "God", "Isaac"], "places": [], "events": ["Birth of Isaac"], "things": [], "themes": ["meaning of names", "Hebrew letter meanings", "faith"], "groups": []},
+  "keywords": ["Isaac", "yitzhak", "he will laugh", "Isaac means laughter", "Abraham laughed", "name of Isaac", "yod tsadi chet kuf", "יצחק", "meaning of Isaac", "God's promised son", "Hebrew name meaning"],
+  "uncertain": ["The four Hebrew letters are drawn left to right as ק ח צ י (kuf, chet, tsadi, yod); transcribed in logical order as י צ ח ק."],
+  "confidence": 0.94
+}

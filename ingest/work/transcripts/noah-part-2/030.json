@@ -1,0 +1,92 @@
+{
+ "id": "noah-part-2/30",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Exodus 34:27-28 — Moses forty days and forty nights, the covenant",
+ "summary": "Exodus 34:27-28 in English: the LORD tells Moses to write down the words of the covenant; Moses is with the LORD forty days and forty nights without bread or water and writes the Ten Commandments on the tablets. Key words (LORD, covenant, bread, water) are colour-highlighted.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 34:27-28",
+   "osis": [
+    "Exod.34.27",
+    "Exod.34.28"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות לד:כז-כח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.34.27",
+   "text": "27 Then the LORD said to Moses, “Write down these words, for in accordance with these words I have made a covenant with you and with Israel.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.34.28",
+   "text": "28 So he was there with the LORD forty days and forty nights; he did not eat bread or drink water. And he wrote on the tablets the words of the covenant, the Ten Commandments."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 34:27-28 / שמות לד:כז-כח",
+   "osis": [
+    "Exod.34.27",
+    "Exod.34.28"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 40,
+   "note": "days and nights Moses was with the LORD without bread or water"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Moses",
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "bread",
+   "water",
+   "tablets"
+  ],
+  "themes": [
+   "covenant",
+   "Torah"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Exodus 34:27",
+  "Exodus 34:28",
+  "Exodus 34",
+  "forty days and forty nights",
+  "40 days",
+  "Moses",
+  "covenant",
+  "Ten Commandments",
+  "tablets",
+  "did not eat bread or drink water",
+  "fasting",
+  "Sinai"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

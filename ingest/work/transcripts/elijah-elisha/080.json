@@ -1,0 +1,111 @@
+{
+ "id": "elijah-elisha/80",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 Kings 18:30-32 — \"to whom the word of the LORD had come\" circled",
+ "summary": "Same text of 1 Kings 18:30-32 (Elijah repairs the LORD's altar and builds it with twelve stones for the twelve tribes), now with a green ellipse drawn around the phrase \"to whom the word of the LORD had come,\" in verse 31.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 18:30-32",
+   "osis": [
+    "1Kgs.18.30",
+    "1Kgs.18.31",
+    "1Kgs.18.32"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א יח:ל-לב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "30 Then Elijah said to all the people, “Come near to me.” So all the people came near to him. And he repaired the altar of the LORD which had been torn down.",
+   "osis": "1Kgs.18.30"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "31 Elijah took twelve stones according to the number of the tribes of the sons of Jacob, to whom the word of the LORD had come, saying, “Israel shall be your name.”",
+   "osis": "1Kgs.18.31"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "32 So with the stones he built an altar in the name of the LORD, and he made a trench around the altar, large enough to hold two measures of seed.",
+   "osis": "1Kgs.18.32"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 18:30-32 / מלכים א יח:ל-לב",
+   "osis": [
+    "1Kgs.18.30",
+    "1Kgs.18.31",
+    "1Kgs.18.32"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 12,
+   "note": "twelve stones for the twelve tribes of the sons of Jacob"
+  },
+  {
+   "value": 2,
+   "note": "trench large enough to hold two measures of seed"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah",
+   "Jacob",
+   "God"
+  ],
+  "places": [
+   "Mount Carmel"
+  ],
+  "events": [
+   "contest on Mount Carmel"
+  ],
+  "things": [
+   "altar",
+   "twelve stones",
+   "trench"
+  ],
+  "themes": [
+   "covenant",
+   "sacrifice",
+   "worship",
+   "word of God"
+  ],
+  "groups": [
+   "Israel",
+   "twelve tribes of Israel"
+  ]
+ },
+ "keywords": [
+  "the word of the LORD came",
+  "to whom the word of the LORD had come",
+  "Elijah twelve stones",
+  "repaired the altar of the LORD",
+  "Israel shall be thy name",
+  "twelve tribes",
+  "trench around the altar",
+  "Mount Carmel",
+  "1 Kings 18",
+  "circled phrase",
+  "word of the LORD"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

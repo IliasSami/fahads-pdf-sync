@@ -1,0 +1,89 @@
+{
+ "id": "red-heifer/92",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "A third temple is prophesied — Revelation 11:1",
+ "summary": "Revelation 11:1 (in the reference header 11:1-2) is shown again, with the temple highlighted in gold, and a new line stating that a third temple is prophesied.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Revelation 11:1-2",
+   "osis": [
+    "Rev.11.1",
+    "Rev.11.2"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἀποκάλυψις 11:1-2"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Rev.11.1",
+   "text": "1 Then I was given a measuring rod like a staff and was told, “Go and measure the temple of God and the altar, and count the number of worshipers there."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "A third temple is prophesied"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Revelation 11:1-2 / Ἀποκάλυψις 11:1-2",
+   "osis": [
+    "Rev.11.1"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Revelation 11:1-2 / Ἀποκάλυψις 11:1-2",
+   "osis": [
+    "Rev.11.2"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "temple",
+   "altar",
+   "measuring rod"
+  ],
+  "themes": [
+   "temple",
+   "prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "third temple",
+  "third temple prophesied",
+  "Revelation 11",
+  "Revelation 11:1",
+  "measure the temple",
+  "measuring rod",
+  "temple of God",
+  "future temple",
+  "rebuilt temple",
+  "temple prophecy",
+  "end times temple"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

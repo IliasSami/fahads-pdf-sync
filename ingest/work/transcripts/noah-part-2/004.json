@@ -1,0 +1,105 @@
+{
+ "id": "noah-part-2/4",
+ "kinds": [
+  "comparison",
+  "list",
+  "word-study"
+ ],
+ "title": "The ark and Yeshua: shows the atonement of Christ (kopher)",
+ "summary": "The ark and yeshua comparison adds a third line, 'Shows Atonement of Christ', with the Hebrew word kopher (כפר) beneath it.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Ark"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "yeshua"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Takes God’s Wrath"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Spares Those Inside"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Shows Atonement of Christ"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kopher"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כפר"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "כפר",
+   "translit": "kopher",
+   "gloss": "pitch (Noah's ark was covered with it); atonement / ransom — the root means 'to cover'",
+   "strongs": "H3724"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "typology",
+   "atonement",
+   "salvation",
+   "judgment"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "ark and Jesus",
+  "ark of Noah",
+  "yeshua",
+  "Yeshua",
+  "Jesus",
+  "typology",
+  "Noah's ark",
+  "wrath of God",
+  "God's wrath",
+  "spares those inside",
+  "saved inside the ark",
+  "comparison ark and Christ",
+  "kopher",
+  "kafar",
+  "kaphar",
+  "pitch",
+  "atonement",
+  "cover",
+  "covering",
+  "Genesis 6:14",
+  "Strong's H3724"
+ ],
+ "uncertain": [
+  "Hebrew כפר is shown unpointed with three colours (black כ, purple פ, olive ר); the slide does not state a Bible reference."
+ ],
+ "confidence": 0.93
+}

@@ -1,0 +1,155 @@
+{
+ "id": "gods-garden-in-eden/7",
+ "kinds": [
+  "word-study",
+  "gematria",
+  "letters"
+ ],
+ "title": "Emet (truth): tav + mem + alef = 441 = 21 squared",
+ "summary": "The Hebrew word for Truth is emet (אמת). Its letters alef, mem and tav add up to 1 + 40 + 400 = 441; the slide says God's Trinity (3) times His Perfection (7) is 21, and God's Truth, 441, is 21 squared.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Hebrew word for Truth is emet."
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "e m e t"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tav mem alef"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א מ ת"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "400 + 40 + 1 = 441"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "God’s Trinity 3 x His Perfection 7 = 21"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "God’s Truth is 441 = 21²"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אמת",
+   "translit": "emet",
+   "gloss": "truth",
+   "strongs": "H571",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     400,
+     40,
+     1
+    ],
+    "total": 441
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "emet",
+   "other": "אמת"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  },
+  {
+   "en": "mem",
+   "other": "מ"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "Truth",
+   "other": "אמת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 441,
+   "note": "gematria of אמת (emet, truth) = 400 + 40 + 1; 21 squared"
+  },
+  {
+   "value": 21,
+   "note": "God's Trinity 3 x His Perfection 7"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Hebrew letter meanings",
+   "truth",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "emet",
+  "truth",
+  "Hebrew word for truth",
+  "gematria 441",
+  "441",
+  "21 squared",
+  "21 x 21",
+  "3 x 7",
+  "Trinity",
+  "perfection",
+  "seven",
+  "alef mem tav",
+  "אמת",
+  "God's truth"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

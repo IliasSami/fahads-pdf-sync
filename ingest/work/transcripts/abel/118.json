@@ -1,0 +1,43 @@
+{
+  "id": "abel/118",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:14 — “today” (hayom, היום) from “day” (yom, יום)",
+  "summary": "Genesis 4:14 with the day word study extended: yom (יום, “Day”) and hayom (היום, “Today”), showing that the Hebrew for “this day” is the word “day” with the prefix ה (ha). “This day” is underlined in the English and היום in the Hebrew.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:14", "osis": "Gen.4.14"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:יד"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.14", "text": "14 Surely You have driven me out this day from the face of the ground; and from your face I shall be hidden; and I shall be a fugitive and a vagabond on the earth, and it will happen that anyone who finds me will kill me.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.14", "text": "14 הן גרשת אתי היום מעל פני האדמה ומפניך אסתר והייתי נע ונד בארץ והיה כל מצאי יהרגני׃"},
+    {"lang": "translit", "role": "label", "text": "yom"},
+    {"lang": "he", "role": "label", "text": "יום"},
+    {"lang": "en", "role": "label", "text": "Day"},
+    {"lang": "translit", "role": "label", "text": "hayom"},
+    {"lang": "he", "role": "label", "text": "היום"},
+    {"lang": "en", "role": "label", "text": "Today"}
+  ],
+  "refs": [{"shown": "Genesis 4:14 / בראשית ד:יד", "osis": ["Gen.4.14"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "יום", "translit": "yom", "gloss": "day", "strongs": "H3117"},
+    {"lang": "he", "word": "היום", "translit": "hayom", "gloss": "today (the day)", "strongs": "H3117"}
+  ],
+  "color_links": [
+    {"en": "y (yom)", "other": "י"},
+    {"en": "o (yom)", "other": "ו"},
+    {"en": "m (yom)", "other": "ם"},
+    {"en": "y (hayom)", "other": "י"},
+    {"en": "o (hayom)", "other": "ו"},
+    {"en": "m (hayom)", "other": "ם"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "he", "char": "ה", "value": 5, "meaning": "“the” (prefix)"},
+    {"lang": "he", "letter": "yod", "char": "י", "value": 10, "meaning": ""},
+    {"lang": "he", "letter": "vav", "char": "ו", "value": 6, "meaning": ""},
+    {"lang": "he", "letter": "mem (final)", "char": "ם", "value": 40, "meaning": ""}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain"], "places": [], "events": ["Cain's punishment"], "things": ["ground"], "themes": ["judgment", "exile", "wandering", "death"], "groups": []},
+  "keywords": ["today", "day", "this day", "yom", "hayom", "Hebrew word for today", "ha means the", "driven me out this day", "Cain's punishment", "Cain and Abel", "Genesis 4", "Genesis 4:14"],
+  "uncertain": ["The slide does not say what the ה prefix means; “the” is the usual sense."],
+  "confidence": 0.94
+}

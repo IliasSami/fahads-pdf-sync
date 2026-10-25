@@ -1,0 +1,194 @@
+{
+ "id": "red-heifer/62",
+ "kinds": [
+  "verse",
+  "picture",
+  "word-study"
+ ],
+ "title": "Exodus 12:22 — hyssop, blood, lintel and doorposts",
+ "summary": "Exodus 12:22 in English and Hebrew with matching words colour-coded (hyssop green, blood red, lintel and doorposts brown), beside a drawing of the Passover door frame with a cross over the doorway, blood on the lintel, doorposts and threshold, and the word 'hyssop' written at an angle.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 12:22",
+   "osis": "Exod.12.22"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות יב:כב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.12.22",
+   "text": "22 And you shall take a bunch of hyssop, dip it in the blood that is in the basin, and strike the lintel and the two doorposts with the blood that is in the basin. And none of you shall go out of the door of his house until morning."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Exod.12.22",
+   "text": "22 ולקחתם אגדת אזוב וטבלתם בדם אשר בסף והגעתם אל המשקוף ואל שתי המזוזת מן הדם אשר בסף ואתם לא תצאו איש מפתח ביתו עד בקר׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "hyssop"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 12:22 / שמות יב:כב",
+   "osis": [
+    "Exod.12.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אזוב",
+   "translit": "ezov",
+   "gloss": "hyssop",
+   "strongs": "H231",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "דם",
+   "translit": "dam",
+   "gloss": "blood",
+   "strongs": "H1818",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "משקוף",
+   "translit": "mashkof",
+   "gloss": "lintel",
+   "strongs": "H4947",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "מזוזת",
+   "translit": "mezuzot",
+   "gloss": "doorposts",
+   "strongs": "H4201",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "hyssop",
+   "other": "אזוב"
+  },
+  {
+   "en": "blood",
+   "other": "דם"
+  },
+  {
+   "en": "lintel",
+   "other": "משקוף"
+  },
+  {
+   "en": "doorposts",
+   "other": "מזוזת"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "drawing",
+   "description": "Simple flat drawing of a dark-gold wooden door frame with an open tan door and a yellow doorknob; a brown wooden cross is drawn over the doorway, with red blood smears at its top, both arm ends and a pool of blood at the threshold.",
+   "subjects": [
+    "door",
+    "doorposts",
+    "lintel",
+    "cross",
+    "blood on doorposts",
+    "Passover",
+    "threshold",
+    "red blood"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.04,
+    0.15,
+    0.28,
+    0.79
+   ]
+  },
+  {
+   "type": "drawing",
+   "description": "The word 'hyssop' in large green italic letters written at a steep angle beside the door drawing.",
+   "subjects": [
+    "hyssop",
+    "green lettering"
+   ],
+   "text_in_picture": "hyssop",
+   "credit": null,
+   "box": [
+    0.26,
+    0.34,
+    0.38,
+    0.58
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [
+   "Egypt"
+  ],
+  "events": [
+   "Passover",
+   "Exodus",
+   "Crucifixion"
+  ],
+  "things": [
+   "hyssop",
+   "blood",
+   "lintel",
+   "doorposts",
+   "door",
+   "basin",
+   "cross"
+  ],
+  "themes": [
+   "blood",
+   "redemption",
+   "typology",
+   "sacrifice",
+   "purification"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Exodus 12:22",
+  "hyssop",
+  "bunch of hyssop",
+  "blood on the doorposts",
+  "lintel",
+  "side posts",
+  "Passover",
+  "basin",
+  "ezov",
+  "azov",
+  "dam",
+  "cross over door",
+  "Passover and crucifixion",
+  "red heifer hyssop"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

@@ -1,0 +1,139 @@
+{
+ "id": "noah-part-2/60",
+ "kinds": [
+  "table",
+  "list"
+ ],
+ "title": "Six events and verses: ark rested, Reed Sea, firstfruits, Esther, resurrection",
+ "summary": "A two-column list pairing six Scripture references with the event each records: Genesis 8:4 Ark Rested, Exodus 14:21-22 Reed Sea Parts, Leviticus 23:11 Feast of First Fruits, Joshua 5:12 Jews in Promise Land, Esther 5:8 Jews are saved, Matthew 28 Jesus Raises from Dead. The Genesis book name is green; the rest are brown.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Genesis 8:4 — Ark Rested"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Exodus 14:21-22 — Reed Sea Parts"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Leviticus 23:11 — Feast of First Fruits"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Joshua 5:12 — Jews in Promise Land"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Esther 5:8 — Jews are saved"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Matthew 28 — Jesus Raises from Dead"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:4",
+   "osis": [
+    "Gen.8.4"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Exodus 14:21-22",
+   "osis": [
+    "Exod.14.21",
+    "Exod.14.22"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Leviticus 23:11",
+   "osis": [
+    "Lev.23.11"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Joshua 5:12",
+   "osis": [
+    "Josh.5.12"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Esther 5:8",
+   "osis": [
+    "Esth.5.8"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Matthew 28",
+   "osis": [
+    "Matt.28.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [
+   "Reed Sea",
+   "Promised Land"
+  ],
+  "events": [
+   "the Flood",
+   "Parting of the Reed Sea",
+   "Feast of First Fruits",
+   "Resurrection"
+  ],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "biblical feasts",
+   "Flood chronology",
+   "resurrection",
+   "redemption",
+   "typology"
+  ],
+  "groups": [
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "ark rested",
+  "Reed Sea parts",
+  "Red Sea crossing",
+  "Feast of First Fruits",
+  "firstfruits",
+  "Jews in Promised Land",
+  "Esther",
+  "Jews are saved",
+  "Jesus raised from the dead",
+  "resurrection",
+  "Matthew 28",
+  "17 Nisan",
+  "same day",
+  "summary list"
+ ],
+ "uncertain": [
+  "The slide does not state the common date in the text; it only pairs each reference with its event."
+ ],
+ "confidence": 0.95
+}

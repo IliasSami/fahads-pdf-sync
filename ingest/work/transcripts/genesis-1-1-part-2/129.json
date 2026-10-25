@@ -1,0 +1,194 @@
+{
+ "id": "genesis-1-1-part-2/129",
+ "kinds": [
+  "verse",
+  "list"
+ ],
+ "title": "In Genesis 1, God commanded 3 + 7 things (ten commands)",
+ "summary": "Lists the ten 'Let there be / Let the...' commands of God in Genesis 1, each numbered 1 to 10 after its verse reference (1:3, 1:6, 1:9, 1:11, 1:14, 1:20 twice, 1:22, 1:24, 1:26), under the heading 'God Commanded 3 + 7 Things'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "In Genesis 1, God Commanded 3 + 7 Things"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.3",
+   "text": "1:3¹ Be light."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.6",
+   "text": "1:6² Let there be an expanse in the midst of the waters, and let it separate the waters from the waters."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.9",
+   "text": "1:9³ Let the waters below the heavens be gathered into one place, and let the dry land appear."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.11",
+   "text": "1:11⁴ Let the earth sprout vegetation, plants yielding seed, and fruit trees on the earth bearing fruit after their kind with seed in them."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.14",
+   "text": "1:14⁵ Let there be lights in the expanse of the heavens to separate the day from the night, and let them be for signs and for seasons and for days and years; and let them be for lights in the expanse of the heavens to give light on the earth."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.20",
+   "text": "1:20⁶ Let the waters teem with swarms of living creatures, and"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.20",
+   "text": "1:20⁷ Let birds fly above the earth in the open expanse of the heavens."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.22",
+   "text": "1:22⁸ Be fruitful and multiply, and fill the waters in the seas, and let birds multiply on the earth."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.24",
+   "text": "1:24⁹ Let the earth bring forth living creatures after their kind: cattle and creeping things and beasts of the earth after their kind."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.26",
+   "text": "1:26¹⁰ Let Us make man in Our image, according to Our likeness..."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1:3",
+   "osis": [
+    "Gen.1.3"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:6",
+   "osis": [
+    "Gen.1.6"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:9",
+   "osis": [
+    "Gen.1.9"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:11",
+   "osis": [
+    "Gen.1.11"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:14",
+   "osis": [
+    "Gen.1.14"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:20",
+   "osis": [
+    "Gen.1.20"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:22",
+   "osis": [
+    "Gen.1.22"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:24",
+   "osis": [
+    "Gen.1.24"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:26",
+   "osis": [
+    "Gen.1.26"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 10,
+   "note": "ten commands of God in Genesis 1 (3 + 7)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "light",
+   "expanse",
+   "waters",
+   "dry land",
+   "vegetation",
+   "birds",
+   "living creatures",
+   "man"
+  ],
+  "themes": [
+   "creation",
+   "light and darkness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1",
+  "ten commands",
+  "God commanded",
+  "let there be light",
+  "Be light",
+  "Let there be",
+  "expanse",
+  "firmament",
+  "dry land",
+  "lights in the heavens",
+  "be fruitful and multiply",
+  "Let Us make man",
+  "in Our image",
+  "creation week",
+  "3 + 7"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

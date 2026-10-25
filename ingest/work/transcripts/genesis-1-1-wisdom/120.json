@@ -1,0 +1,82 @@
+{
+ "id": "genesis-1-1-wisdom/120",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 3:6 — the woman saw the tree was good for food",
+ "summary": "Genesis 3:6 in English and Hebrew: the woman sees the tree is good for food, pleasant to the eyes and desirable to make one wise, takes its fruit, eats, and gives to her husband, who also eats. No highlights yet.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:6",
+   "osis": "Gen.3.6"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:ו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "6 So when the woman saw that the tree was good for food, that it was pleasant to the eyes, and a tree desirable to make one wise, she took of its fruit and ate. She also gave to her husband with her, and he ate.",
+   "osis": "Gen.3.6"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "6 ותרא האשה כי טוב העץ למאכל וכי תאוה הוא לעינים ונחמד העץ להשכיל ותקח מפריו ותאכל ותתן גם לאישה עמה ויאכל׃",
+   "osis": "Gen.3.6"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:6 / בראשית ג:ו",
+   "osis": [
+    "Gen.3.6"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Eve",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [
+   "tree",
+   "fruit"
+  ],
+  "themes": [
+   "sin",
+   "wisdom"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 3:6",
+  "Genesis 3",
+  "the woman saw the tree",
+  "good for food",
+  "pleasant to the eyes",
+  "desirable to make one wise",
+  "tree to be desired to make one wise",
+  "she took of the fruit",
+  "Eve ate the fruit",
+  "forbidden fruit",
+  "the Fall",
+  "temptation"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

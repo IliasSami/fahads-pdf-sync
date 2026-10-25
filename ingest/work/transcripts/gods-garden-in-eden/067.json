@@ -1,0 +1,75 @@
+{
+ "id": "gods-garden-in-eden/67",
+ "kinds": [
+  "comparison",
+  "text"
+ ],
+ "title": "First Adam and Last Adam both loved their bride and took on her sin",
+ "summary": "Two matching statements under First Adam and Last Adam: Adam loved his bride so much he willingly took on her sin so they would not be separated; Jesus loved His bride so much He willingly took on her sin so they would not be separated.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "First Adam"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Last Adam"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Adam loved his bride so much, he willingly took on her sin so they would not be separated."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Jesus loved His bride so much, He willingly took on her sin so they would not be separated."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Jesus",
+   "Eve"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Fall of Man",
+   "Crucifixion"
+  ],
+  "things": [],
+  "themes": [
+   "typology",
+   "marriage",
+   "sin",
+   "substitution",
+   "redemption"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "First Adam Last Adam",
+  "Adam loved his bride",
+  "Jesus loved His bride",
+  "took on her sin",
+  "willingly took her sin",
+  "not be separated",
+  "bride of Christ",
+  "Adam ate with Eve",
+  "substitution",
+  "love and sacrifice",
+  "typology"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

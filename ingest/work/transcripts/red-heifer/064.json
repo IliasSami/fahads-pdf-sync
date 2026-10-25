@@ -1,0 +1,118 @@
+{
+ "id": "red-heifer/64",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "John 19:29 — sponge of sour wine on a branch of hyssop",
+ "summary": "John 19:29 in English and Greek with hyssop (green) colour-coded to the Greek word ὑσσώπῳ, then the word hyssōpō / ὑσσώπῳ / hyssop shown large.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 19:29",
+   "osis": "John.19.29"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 19:29"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.19.29",
+   "text": "29 A jar full of sour wine was standing there; so they put a sponge full of the sour wine upon a branch of hyssop and brought it up to His mouth."
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "osis": "John.19.29",
+   "text": "29 σκεῦος ἔκειτο ὄξους μεστόν· σπόγγον οὖν μεστὸν τοῦ ὄξους ὑσσώπῳ περιθέντες προσήνεγκαν αὐτοῦ τῷ στόματι."
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hyssōpō"
+  },
+  {
+   "lang": "el",
+   "role": "label",
+   "text": "ὑσσώπῳ"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "hyssop"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 19:29 / Ἰωάνης 19:29",
+   "osis": [
+    "John.19.29"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "el",
+   "word": "ὑσσώπῳ",
+   "translit": "hyssōpō",
+   "gloss": "hyssop",
+   "strongs": "G5301",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "hyssop",
+   "other": "ὑσσώπῳ"
+  },
+  {
+   "en": "hyssōpō",
+   "other": "ὑσσώπῳ"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Crucifixion"
+  ],
+  "things": [
+   "hyssop",
+   "sponge",
+   "sour wine",
+   "jar"
+  ],
+  "themes": [
+   "typology",
+   "sacrifice",
+   "purification"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 19:29",
+  "hyssop",
+  "branch of hyssop",
+  "sponge of vinegar",
+  "sour wine",
+  "vinegar",
+  "crucifixion",
+  "hyssopos",
+  "hussopos",
+  "hyssopo",
+  "I thirst",
+  "cross"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

@@ -1,0 +1,22 @@
+{
+  "id": "akeda-2/48",
+  "kinds": ["verse"],
+  "title": "Genesis 23:8-9 — Abraham asks for the cave of Machpelah",
+  "summary": "Genesis 23:8-9: Abraham asks the sons of Heth to approach Ephron son of Zohar so that he may buy the cave of Machpelah, at the end of Ephron's field, for the full price as a burial site. The word “he” (Abraham) is highlighted in blue.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 23", "osis": ["Gen.23.8", "Gen.23.9"]},
+    {"lang": "he", "role": "reference", "text": "בראשית כג", "osis": ["Gen.23.8", "Gen.23.9"]},
+    {"lang": "en", "role": "verse", "text": "8 And he spoke with them, saying, “If it is your wish for me to bury my dead out of my sight, hear me, and approach Ephron the son of Zohar for me,", "osis": "Gen.23.8"},
+    {"lang": "en", "role": "verse", "text": "9 that he may give me the cave of Machpelah which he owns, which is at the end of his field; for the full price let him give it to me in your presence for a burial site.”", "osis": "Gen.23.9"}
+  ],
+  "refs": [{"shown": "Genesis 23 / בראשית כג", "osis": ["Gen.23.8", "Gen.23.9"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Ephron", "Zohar"], "places": ["Cave of Machpelah"], "events": ["Death of Sarah"], "things": ["cave", "field"], "themes": ["burial"], "groups": ["sons of Heth (Hittites)"]},
+  "keywords": ["cave of Machpelah", "Machpelah", "Ephron", "Ephron son of Zohar", "full price", "burial site", "buryingplace", "Abraham buys land", "tomb of the patriarchs", "Genesis 23"],
+  "uncertain": [],
+  "confidence": 0.96
+}

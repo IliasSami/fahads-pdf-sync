@@ -1,0 +1,110 @@
+{
+ "id": "fall-of-man/22",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 3:13-14 — the serpent deceived me; the serpent is cursed",
+ "summary": "Genesis 3:13-14 in English: the LORD God asks the woman what she has done, she answers that the serpent deceived her, and the LORD God curses the serpent above all cattle and beasts, to go on its belly and eat dust. Verse 15 is named in the header but not yet shown.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:13-15",
+   "osis": [
+    "Gen.3.13",
+    "Gen.3.14",
+    "Gen.3.15"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:יג־יד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "13 Then the LORD God said to the woman, “What is this you have done?” And the woman said, “The serpent deceived me, and I ate.”",
+   "osis": "Gen.3.13"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "14 The LORD God said to the serpent, “Because you have done this, Cursed are you more than all cattle, And more than every beast of the field; On your belly you will go, And dust you will eat all the days of your life;",
+   "osis": "Gen.3.14"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:13-15 / בראשית ג:יג־יד",
+   "osis": [
+    "Gen.3.13",
+    "Gen.3.14",
+    "Gen.3.15"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 3:13",
+   "osis": [
+    "Gen.3.13"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 3:14",
+   "osis": [
+    "Gen.3.14"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Eve",
+   "Satan"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Fall of Man",
+   "Curse on the serpent"
+  ],
+  "things": [
+   "serpent",
+   "dust",
+   "belly"
+  ],
+  "themes": [
+   "curse",
+   "deception",
+   "sin",
+   "judgment"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "the serpent beguiled me",
+  "serpent deceived me",
+  "cursed above all cattle",
+  "upon thy belly shalt thou go",
+  "dust shalt thou eat",
+  "curse on the serpent",
+  "what is this that thou hast done",
+  "Genesis 3:13",
+  "Genesis 3:14",
+  "Fall of Man",
+  "judgment on the serpent"
+ ],
+ "uncertain": [
+  "The English header reads Genesis 3:13-15 but the Hebrew header ends at יד (verse 14); only verses 13-14 are displayed. Transcribed as shown."
+ ],
+ "confidence": 0.95
+}

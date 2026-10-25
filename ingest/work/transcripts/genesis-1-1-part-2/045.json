@@ -1,0 +1,358 @@
+{
+ "id": "genesis-1-1-part-2/45",
+ "kinds": [
+  "word-study",
+  "verse"
+ ],
+ "title": "Elements of Creation — unique words in Genesis 1:1-4",
+ "summary": "First slide of a series on the unique words of creation (Genesis 1:1 – 2:3). Genesis 1:1-4 in Hebrew, with an English label above each highlighted Hebrew word (beginning, created, God, αΩ, skywaters, Earth, formless, void, darkness, deep, Spirit, moving, water, light, said, separated, good, saw).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Elements of Creation"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1 - 2:3"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Unique Words of Creation"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א – ב:ג"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Earth · skywaters · αΩ · God · created · beginning"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "1:1 בראשית ברא אלהים את השמים ואת הארץ׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "deep · face · over · darkness · void · formless · was"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.2",
+   "text": "1:2 והארץ היתה תהו ובהו וחשך על פני תהום"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "water · moving · Spirit"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.2",
+   "text": "ורוח אלהים מרחפת על פני המים׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "light · said"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.3",
+   "text": "1:3 ויאמר אלהים יהי אור ויהי אור׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "from · separated · good · that · saw"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.4",
+   "text": "1:4 וירא אלהים את האור כי טוב ויבדל אלהים בין"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.4",
+   "text": "האור ובין החשך׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 - 2:3 / בראשית א:א – ב:ג",
+   "osis": [
+    "Gen.1.1",
+    "Gen.1.2",
+    "Gen.1.3",
+    "Gen.1.4",
+    "Gen.1.5",
+    "Gen.1.6",
+    "Gen.1.7",
+    "Gen.1.8",
+    "Gen.1.9",
+    "Gen.1.10",
+    "Gen.1.11",
+    "Gen.1.12",
+    "Gen.1.13",
+    "Gen.1.14",
+    "Gen.1.15",
+    "Gen.1.16",
+    "Gen.1.17",
+    "Gen.1.18",
+    "Gen.1.19",
+    "Gen.1.20",
+    "Gen.1.21",
+    "Gen.1.22",
+    "Gen.1.23",
+    "Gen.1.24",
+    "Gen.1.25",
+    "Gen.1.26",
+    "Gen.1.27",
+    "Gen.1.28",
+    "Gen.1.29",
+    "Gen.1.30",
+    "Gen.1.31",
+    "Gen.2.1",
+    "Gen.2.2",
+    "Gen.2.3"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "1:1 – 1:4",
+   "osis": [
+    "Gen.1.1",
+    "Gen.1.2",
+    "Gen.1.3",
+    "Gen.1.4"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "αΩ (aleph-tav, untranslated object marker)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "skywaters (the heavens)",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "haaretz",
+   "gloss": "Earth",
+   "strongs": "H776"
+  },
+  {
+   "lang": "he",
+   "word": "היתה",
+   "translit": "hayetah",
+   "gloss": "was",
+   "strongs": "H1961"
+  },
+  {
+   "lang": "he",
+   "word": "תהו",
+   "translit": "tohu",
+   "gloss": "formless",
+   "strongs": "H8414"
+  },
+  {
+   "lang": "he",
+   "word": "ובהו",
+   "translit": "vavohu",
+   "gloss": "void",
+   "strongs": "H922"
+  },
+  {
+   "lang": "he",
+   "word": "וחשך",
+   "translit": "vechoshech",
+   "gloss": "darkness",
+   "strongs": "H2822"
+  },
+  {
+   "lang": "he",
+   "word": "על",
+   "translit": "al",
+   "gloss": "over",
+   "strongs": "H5921"
+  },
+  {
+   "lang": "he",
+   "word": "פני",
+   "translit": "penei",
+   "gloss": "face",
+   "strongs": "H6440"
+  },
+  {
+   "lang": "he",
+   "word": "תהום",
+   "translit": "tehom",
+   "gloss": "deep",
+   "strongs": "H8415"
+  },
+  {
+   "lang": "he",
+   "word": "ורוח",
+   "translit": "veruach",
+   "gloss": "Spirit",
+   "strongs": "H7307"
+  },
+  {
+   "lang": "he",
+   "word": "מרחפת",
+   "translit": "merachefet",
+   "gloss": "moving",
+   "strongs": "H7363"
+  },
+  {
+   "lang": "he",
+   "word": "המים",
+   "translit": "hamayim",
+   "gloss": "water",
+   "strongs": "H4325"
+  },
+  {
+   "lang": "he",
+   "word": "אור",
+   "translit": "or",
+   "gloss": "light",
+   "strongs": "H216"
+  },
+  {
+   "lang": "he",
+   "word": "ויאמר",
+   "translit": "vayomer",
+   "gloss": "said",
+   "strongs": "H559"
+  },
+  {
+   "lang": "he",
+   "word": "בין",
+   "translit": "bein",
+   "gloss": "from (between)",
+   "strongs": "H996"
+  },
+  {
+   "lang": "he",
+   "word": "ויבדל",
+   "translit": "vayavdel",
+   "gloss": "separated",
+   "strongs": "H914"
+  },
+  {
+   "lang": "he",
+   "word": "טוב",
+   "translit": "tov",
+   "gloss": "good",
+   "strongs": "H2896"
+  },
+  {
+   "lang": "he",
+   "word": "כי",
+   "translit": "ki",
+   "gloss": "that",
+   "strongs": "H3588"
+  },
+  {
+   "lang": "he",
+   "word": "וירא",
+   "translit": "vayar",
+   "gloss": "saw",
+   "strongs": "H7200"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "God",
+   "other": "אלהים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Holy Spirit"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "light",
+   "waters",
+   "deep"
+  ],
+  "themes": [
+   "creation",
+   "light and darkness",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Elements of Creation",
+  "Unique Words of Creation",
+  "Genesis 1:1-4",
+  "Genesis 1:1 - 2:3",
+  "In the beginning",
+  "without form and void",
+  "tohu vabohu",
+  "formless and void",
+  "Spirit of God moved upon the face of the waters",
+  "let there be light",
+  "God divided the light from the darkness",
+  "alef tav",
+  "aleph tav",
+  "Hebrew word study",
+  "Hebrew vocabulary"
+ ],
+ "uncertain": [
+  "Hebrew text on the slide has spaces rather than maqaf between words (e.g. על פני); transcribed as shown."
+ ],
+ "confidence": 0.94
+}

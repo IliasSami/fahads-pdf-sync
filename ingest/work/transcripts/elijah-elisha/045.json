@@ -1,0 +1,27 @@
+{
+  "id": "elijah-elisha/45",
+  "kinds": ["verse"],
+  "title": "1 Kings 17:1-4 — Elijah announces no dew or rain (miracle #1)",
+  "summary": "The text of 1 Kings 17:1-4: Elijah tells King Ahab there will be neither dew nor rain except by his word, and God sends him to hide by the brook Cherith where ravens will feed him. Elijah's oath about the rain is underlined and marked as miracle #1.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "1 Kings 17:1-4", "osis": ["1Kgs.17.1", "1Kgs.17.2", "1Kgs.17.3", "1Kgs.17.4"]},
+    {"lang": "he", "role": "reference", "text": "מלכים א יז:א-ד", "osis": ["1Kgs.17.1", "1Kgs.17.2", "1Kgs.17.3", "1Kgs.17.4"]},
+    {"lang": "en", "role": "verse", "text": "1 Now Elijah the Tishbite, who was of the settlers of Gilead, said to Ahab, “As the LORD, the God of Israel lives, before whom I stand, surely there shall be neither dew nor rain these years, except by my word.”", "osis": "1Kgs.17.1"},
+    {"lang": "en", "role": "label", "text": "#1"},
+    {"lang": "en", "role": "verse", "text": "2 The word of the LORD came to him, saying,", "osis": "1Kgs.17.2"},
+    {"lang": "en", "role": "verse", "text": "3 “Go away from here and turn eastward, and hide yourself by the brook Cherith, which is east of the Jordan.", "osis": "1Kgs.17.3"},
+    {"lang": "en", "role": "verse", "text": "4 “It shall be that you will drink of the brook, and I have commanded the ravens to provide for you there.”", "osis": "1Kgs.17.4"}
+  ],
+  "refs": [
+    {"shown": "1 Kings 17:1-4 / מלכים א יז:א-ד", "osis": ["1Kgs.17.1", "1Kgs.17.2", "1Kgs.17.3", "1Kgs.17.4"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [{"value": 1, "note": "Elijah's miracle #1: shutting heaven and stopping the rain"}],
+  "pictures": [],
+  "entities": {"people": ["Elijah", "Ahab", "God"], "places": ["Gilead", "brook Cherith", "Jordan River", "Israel"], "events": ["three-year drought"], "things": ["ravens", "dew", "rain", "brook"], "themes": ["miracles", "prophecy", "God's provision", "word of God"], "groups": []},
+  "keywords": ["Elijah", "Elijah the Tishbite", "Ahab", "drought", "no rain", "neither dew nor rain", "brook Cherith", "Kerith", "ravens fed Elijah", "Gilead", "Jordan", "1 Kings 17", "first miracle of Elijah", "shutting heaven"],
+  "uncertain": [],
+  "confidence": 0.95
+}

@@ -1,0 +1,185 @@
+{
+ "id": "akeda-2/136",
+ "kinds": [
+  "code-grid",
+  "word-study"
+ ],
+ "title": "Akedah letter grid: the shin (ש) in “neshbati” circled (Gen 22:16)",
+ "summary": "The Genesis 22:15-16 letter grid again, with the row ending בינשבעתי boxed in green and a red circle around the letter ש in that row; at right the phrase is translated (by myself = bi, I have sworn = neshbati) and “yahweh declares” is shown with the divine name colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22:15-16",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב:יה-יו"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "Highlighted grid row, read right to left: מ ר ב י נ ש ב ע ת י (green box around ב י נ ש ב ע ת י; red circle around the ש)"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "by myself"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bi"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מר בינשבעתי"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "neshbati"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "I have sworn"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "נאם יהוה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "declares"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:15-16 / בראשית כב:יה-יו",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "נשבעתי",
+   "translit": "neshbati",
+   "gloss": "I have sworn",
+   "strongs": "H7650"
+  },
+  {
+   "lang": "he",
+   "word": "בי",
+   "translit": "bi",
+   "gloss": "by myself",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "נאם",
+   "translit": "neum",
+   "gloss": "declares (utterance)",
+   "strongs": "H5002"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "yahweh (the LORD)",
+   "strongs": "H3068"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "yahweh",
+   "other": "יהוה"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "circled letter in the boxed row"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "grid",
+   "description": "A block of black Hebrew letters (the text of Genesis 22:15-16 laid out in rows of about ten letters). One row is boxed in green, with a red circle around the shin (ש) in the middle of that row; in the row below the four letters of the divine name are picked out in red and orange with underlines.",
+   "subjects": [
+    "Hebrew letter grid",
+    "Bible code",
+    "Genesis 22",
+    "Akedah",
+    "word search",
+    "red circle",
+    "shin"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.0,
+    0.14,
+    0.55,
+    0.97
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [],
+  "themes": [
+   "Bible codes",
+   "oath",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Akedah",
+  "Akeda",
+  "Bible code",
+  "Hebrew letter grid",
+  "Genesis 22:16",
+  "bi nishbati",
+  "by myself have I sworn",
+  "neshbati",
+  "yahweh declares",
+  "circled shin",
+  "letter shin",
+  "hidden letters",
+  "God's oath"
+ ],
+ "uncertain": [
+  "On this slide the Hebrew line is run together as מר בינשבעתי (no spaces between words)",
+  "Grid contents were not transcribed cell by cell"
+ ],
+ "confidence": 0.92
+}

@@ -1,0 +1,338 @@
+{
+ "id": "genesis-1-1-part-2/124",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "God speaks: debar (dalet, bet, resh) and alef",
+ "summary": "Under 'God Speaks', shows the Hebrew word debar (דבר, 'speak') spelled by dalet (D, 4, Door), bet (B, 2, Tent, House) and resh (R, 200, Head, First), each with its ancient pictograph, followed by alef (A, 1, Strength, GOD).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "God Speaks"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "דבר א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ד ב ר"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "debar"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Speak"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ד"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "dalet"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "D"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "4"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Door"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "B"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "2"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Tent, House"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ר"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "resh"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "R"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "200"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Head, First"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "A"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Strength, GOD"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "דבר",
+   "translit": "debar",
+   "gloss": "speak",
+   "strongs": "H1696"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "dalet",
+   "other": "ד"
+  },
+  {
+   "en": "Door",
+   "other": "ד"
+  },
+  {
+   "en": "bet",
+   "other": "ב"
+  },
+  {
+   "en": "Tent, House",
+   "other": "ב"
+  },
+  {
+   "en": "resh",
+   "other": "ר"
+  },
+  {
+   "en": "Head, First",
+   "other": "ר"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "Strength, GOD",
+   "other": "א"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "dalet",
+   "char": "ד",
+   "value": 4,
+   "meaning": "door (door pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "tent, house (house pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "head, first (head pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "strength, GOD (ox head pictograph)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 4,
+   "note": "dalet"
+  },
+  {
+   "value": 2,
+   "note": "bet"
+  },
+  {
+   "value": 200,
+   "note": "resh"
+  },
+  {
+   "value": 1,
+   "note": "alef"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of dalet (a door shape) in black with a brown underline, beside 'Door'.",
+   "subjects": [
+    "dalet",
+    "door",
+    "paleo-Hebrew",
+    "pictograph"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.55,
+    0.4,
+    0.6,
+    0.49
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of bet (a tent or house shape) in black with a red underline, beside 'Tent, House'.",
+   "subjects": [
+    "bet",
+    "tent",
+    "house",
+    "paleo-Hebrew",
+    "pictograph"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.55,
+    0.53,
+    0.6,
+    0.61
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of resh (a drawn head in profile) in black with an olive underline, beside 'Head, First'.",
+   "subjects": [
+    "resh",
+    "head",
+    "paleo-Hebrew",
+    "pictograph",
+    "first"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.55,
+    0.63,
+    0.6,
+    0.73
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of alef (an ox head) in black with a blue underline, beside 'Strength, GOD'.",
+   "subjects": [
+    "alef",
+    "ox head",
+    "paleo-Hebrew",
+    "pictograph",
+    "strength"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.55,
+    0.85,
+    0.6,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "names of God",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "debar",
+  "dabar",
+  "speak",
+  "God speaks",
+  "word of God",
+  "dalet",
+  "door",
+  "bet",
+  "resh",
+  "alef",
+  "aleph",
+  "דבר",
+  "paleo-Hebrew pictographs",
+  "ancient Hebrew letters",
+  "letter meanings"
+ ],
+ "uncertain": [],
+ "confidence": 0.92
+}

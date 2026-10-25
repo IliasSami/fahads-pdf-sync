@@ -1,0 +1,35 @@
+{
+  "id": "abel/11",
+  "kinds": ["verse", "word-study", "letters"],
+  "title": "Genesis 4:1 — the untranslated word et (את), alef-tav",
+  "summary": "Genesis 4:1 with the untranslated Hebrew word את (et) inserted into the English before “Eve”; את is spelled with alef and tav, the first and last letters of the Hebrew alphabet.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:1", "osis": "Gen.4.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:א", "osis": "Gen.4.1"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.1", "text": "1 And the man knew את Eve his wife, and she conceived and gave birth to Cain, and she said, “I have obtained a man with the help of the LORD.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.1", "text": "1 והאדם ידע את חוה אשתו ותהר ותלד את קין ותאמר קניתי איש את יהוה׃"},
+    {"lang": "translit", "role": "label", "text": "et"},
+    {"lang": "he", "role": "label", "text": "את"},
+    {"lang": "translit", "role": "label", "text": "alef tav"}
+  ],
+  "refs": [{"shown": "Genesis 4:1 / בראשית ד:א", "osis": ["Gen.4.1"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "את", "translit": "et", "gloss": "direct-object marker (untranslated); alef-tav", "strongs": "H853"}
+  ],
+  "color_links": [
+    {"en": "alef", "other": "א"},
+    {"en": "tav", "other": "ת"},
+    {"en": "et", "other": "את"},
+    {"en": "LORD", "other": "יהוה"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": "first letter of the alphabet"},
+    {"lang": "he", "letter": "tav", "char": "ת", "value": 400, "meaning": "last letter of the alphabet"}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Adam", "Eve", "Cain", "God"], "places": [], "events": ["birth of Cain"], "things": [], "themes": ["Hebrew letter meanings", "alef-tav"], "groups": []},
+  "keywords": ["et", "eth", "alef tav", "aleph tav", "את", "untranslated word", "direct object marker", "first and last", "Alpha and Omega", "Genesis 4:1", "Genesis 4"],
+  "uncertain": [],
+  "confidence": 0.93
+}

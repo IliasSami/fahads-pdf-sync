@@ -1,0 +1,71 @@
+{
+ "id": "gods-garden-in-eden/84",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 2:25 — naked and not ashamed",
+ "summary": "Genesis 2:25 in English: the man and his wife were both naked and were not ashamed.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:25",
+   "osis": "Gen.2.25"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:כה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "25 And the man and his wife were both naked and were not ashamed.",
+   "osis": "Gen.2.25"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:25 / בראשית ב:כה",
+   "osis": [
+    "Gen.2.25"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Eve"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [],
+  "things": [],
+  "themes": [
+   "marriage",
+   "holiness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 2:25",
+  "naked and not ashamed",
+  "the man and his wife",
+  "Adam and Eve",
+  "innocence",
+  "nakedness",
+  "before the fall",
+  "Garden of Eden",
+  "Genesis 2",
+  "marriage"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

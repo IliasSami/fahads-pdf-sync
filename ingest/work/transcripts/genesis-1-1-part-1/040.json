@@ -1,0 +1,164 @@
+{
+ "id": "genesis-1-1-part-1/40",
+ "kinds": [
+  "word-study"
+ ],
+ "title": "Elohim broken into el + he + yam: God of The Seas",
+ "summary": "Splits elohim (אלהים) into three parts — אל el (God’s title: strong shepherd), ה he (“The”) and ים yam (“Seas”) — and concludes “God of The Seas”, with each part colour-matched to its Hebrew letters.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "e l o h i m"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל ה י ם"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אל + ה + ים"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yam"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Seas"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "he"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "The"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "el"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "God’s Title"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "strong shepherd"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "God of The Seas"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "אל",
+   "translit": "el",
+   "gloss": "God’s title (strong shepherd)",
+   "strongs": "H410"
+  },
+  {
+   "lang": "he",
+   "word": "ה",
+   "translit": "he",
+   "gloss": "the",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "ים",
+   "translit": "yam",
+   "gloss": "seas",
+   "strongs": "H3220"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "yam",
+   "other": "ים"
+  },
+  {
+   "en": "Seas",
+   "other": "ים"
+  },
+  {
+   "en": "he",
+   "other": "ה"
+  },
+  {
+   "en": "The",
+   "other": "ה"
+  },
+  {
+   "en": "el",
+   "other": "אל"
+  },
+  {
+   "en": "strong",
+   "other": "א"
+  },
+  {
+   "en": "shepherd",
+   "other": "ל"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "sea"
+  ],
+  "themes": [
+   "names of God",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "elohim",
+  "God of the seas",
+  "el",
+  "yam",
+  "sea",
+  "seas",
+  "he",
+  "the",
+  "God's title",
+  "strong shepherd",
+  "אלהים",
+  "Hebrew word parts",
+  "Genesis 1:1",
+  "name of God"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

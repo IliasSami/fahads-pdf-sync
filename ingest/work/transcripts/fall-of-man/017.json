@@ -1,0 +1,149 @@
+{
+ "id": "fall-of-man/17",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Exodus 16:3, 32:8 and 17:2 — Israel complains, makes a calf, and quarrels with Moses",
+ "summary": "Three Exodus verses in English with Hebrew reference headers: the people wish they had died in Egypt rather than starve in the wilderness (16:3), they have made themselves a molten calf (32:8), and they quarrel with Moses, who asks why they test the LORD (17:2).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 16:2-3",
+   "osis": [
+    "Exod.16.2",
+    "Exod.16.3"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות יו:ב־ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "3 “Would that we had died by the LORD’S hand in the land of Egypt, when we sat by the pots of meat, when we ate bread to the full; for you have brought us out into this wilderness to kill this whole assembly with hunger.”",
+   "osis": "Exod.16.3"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 32:8",
+   "osis": "Exod.32.8"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות לב:ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "8 They have made for themselves a molten calf,",
+   "osis": "Exod.32.8"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 17:2",
+   "osis": "Exod.17.2"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות יז:ב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "2 Therefore the people quarreled with Moses and said, “Give us water that we may drink.” And Moses said to them, “Why do you quarrel with me? Why do you test the LORD?”",
+   "osis": "Exod.17.2"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 16:2-3 / שמות יו:ב־ג",
+   "osis": [
+    "Exod.16.2",
+    "Exod.16.3"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Exodus 16:3",
+   "osis": [
+    "Exod.16.3"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Exodus 32:8 / שמות לב:ח",
+   "osis": [
+    "Exod.32.8"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Exodus 17:2 / שמות יז:ב",
+   "osis": [
+    "Exod.17.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Moses",
+   "God"
+  ],
+  "places": [
+   "Egypt"
+  ],
+  "events": [
+   "Exodus",
+   "Golden Calf"
+  ],
+  "things": [
+   "molten calf",
+   "pots of meat",
+   "bread",
+   "water"
+  ],
+  "themes": [
+   "testing God",
+   "complaining",
+   "idolatry",
+   "wilderness",
+   "temptation"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Israel in the wilderness",
+  "murmuring",
+  "grumbling",
+  "pots of meat in Egypt",
+  "died in the land of Egypt",
+  "molten calf",
+  "golden calf",
+  "why do you test the LORD",
+  "tempt the LORD",
+  "quarrel with Moses",
+  "Exodus 16",
+  "Exodus 17",
+  "Exodus 32",
+  "Massah and Meribah"
+ ],
+ "uncertain": [
+  "The first Hebrew reference header is written with the letters יו (10+6) for chapter 16, as shown on the slide, rather than the usual טז."
+ ],
+ "confidence": 0.95
+}

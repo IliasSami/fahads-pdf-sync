@@ -1,0 +1,132 @@
+{
+ "id": "akeda-2/155",
+ "kinds": [
+  "code-grid",
+  "word-study"
+ ],
+ "title": "Genesis 22:15-16 letter grid: \"sha\" (שה, lamb) found near the red column",
+ "summary": "The Genesis 22:15-16 letter grid with a gold box, tilted, around a ש and a ה just beside and below the red-boxed column. The gold labels \"sha\", שה and \"Lamb\" sit at the right, partway down. Many other ש and ה letters stay coloured gold from the earlier slides.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22:15-16",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב:יה-יו"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "sha"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Lamb"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:15-16 / בראשית כב:יה-יו",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שה",
+   "translit": "sha (seh)",
+   "gloss": "lamb",
+   "strongs": "H7716"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "sha",
+   "other": "שה"
+  },
+  {
+   "en": "Lamb",
+   "other": "שה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "grid",
+   "description": "Grid of Hebrew letters (the text of Genesis 22:15-16 in rows) with purple מלאך, coloured letters of יהוה, a blue diagonal box, a tall red box around a column, a green row box, many gold-coloured letters, and a tilted gold box around two letters at the lower middle.",
+   "subjects": [
+    "Bible code",
+    "letter grid",
+    "Hebrew letters",
+    "sha",
+    "lamb",
+    "gold box",
+    "red box"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.01,
+    0.18,
+    0.54,
+    0.97
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "lamb",
+   "letter grid"
+  ],
+  "themes": [
+   "Bible codes",
+   "sacrifice",
+   "messianic prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "sha",
+  "seh",
+  "lamb",
+  "שה",
+  "Lamb of God",
+  "Bible code",
+  "letter grid",
+  "hidden word",
+  "Genesis 22",
+  "Akedah",
+  "Akeda",
+  "God will provide a lamb",
+  "sacrifice"
+ ],
+ "uncertain": [
+  "Dense letter grid not copied cell by cell; only the highlighted letters and labels are transcribed."
+ ],
+ "confidence": 0.9
+}

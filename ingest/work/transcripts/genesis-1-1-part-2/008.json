@@ -1,0 +1,102 @@
+{
+ "id": "genesis-1-1-part-2/8",
+ "kinds": [
+  "gematria",
+  "text"
+ ],
+ "title": "Genesis 1:1 — a long calculation giving 3.1415E x 10^17 (pi)",
+ "summary": "A fraction under the heading Genesis 1:1: 28 x 23,887,872 followed by 27 zeros (in rainbow colours), divided by 7 x 304,153,525,784,176,000, equals 3.1415E x 10^17 — which the slide says is the same as π E x 10^17.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "(28 x 23,887,872,000,000,000,000,000,000,000,000,000,000)"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "divided by"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "(7 x 304,153,525,784,176,000)"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 3.1415E x 10^17"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "or π E x 10^17"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 28,
+   "note": "multiplier in the numerator"
+  },
+  {
+   "value": 7,
+   "note": "multiplier in the denominator"
+  },
+  {
+   "value": 3.1415,
+   "note": "result 3.1415E x 10^17, equated with pi (π)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "pi",
+  "π",
+  "3.1415",
+  "3.14159",
+  "mathematics in the Bible",
+  "number calculation",
+  "28 x 23,887,872",
+  "304,153,525,784,176",
+  "10^17",
+  "divided by",
+  "equation",
+  "gematria and pi"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

@@ -1,0 +1,145 @@
+{
+ "id": "genesis-1-1-part-2/127",
+ "kinds": [
+  "word-study",
+  "text"
+ ],
+ "title": "Abracadabra = God creates as God speaks",
+ "summary": "Same colour-coded Hebrew breakdown (א ברא כ דבר א) now with the full word AbracadabrA below it, giving the meaning 'GOD Creates As GOD Speaks.'",
+ "text": [
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "א ברא כ דבר א"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "←"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "A debar ka bara A"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "GOD Speaks As Creates GOD"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "AbracadabrA"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "GOD Creates As GOD Speaks."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "creates",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "דבר",
+   "translit": "debar",
+   "gloss": "speaks",
+   "strongs": "H1696"
+  },
+  {
+   "lang": "he",
+   "word": "כ",
+   "translit": "ka",
+   "gloss": "as",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "א",
+   "translit": "A",
+   "gloss": "GOD (alef)",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "A",
+   "other": "א"
+  },
+  {
+   "en": "GOD",
+   "other": "א"
+  },
+  {
+   "en": "bara",
+   "other": "ברא"
+  },
+  {
+   "en": "Creates",
+   "other": "ברא"
+  },
+  {
+   "en": "ka",
+   "other": "כ"
+  },
+  {
+   "en": "As",
+   "other": "כ"
+  },
+  {
+   "en": "debar",
+   "other": "דבר"
+  },
+  {
+   "en": "Speaks",
+   "other": "דבר"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "Hebrew letter meanings",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "abracadabra",
+  "magic word",
+  "bara",
+  "debar",
+  "dabar",
+  "create",
+  "speak",
+  "God creates as God speaks",
+  "kaph",
+  "as",
+  "alef",
+  "Hebrew word study",
+  "spoken word",
+  "creation by speaking"
+ ],
+ "uncertain": [
+  "English line is transcribed in the left-to-right order shown (GOD Speaks As Creates GOD); the Hebrew is in right-to-left reading order."
+ ],
+ "confidence": 0.92
+}

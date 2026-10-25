@@ -1,0 +1,304 @@
+{
+ "id": "genesis-1-1-part-2/17",
+ "kinds": [
+  "verse",
+  "letters",
+  "word-study"
+ ],
+ "title": "Proverbs 29:18 and the letters of torah: covenant, nail, head, revelation",
+ "summary": "Proverbs 29:18 in English and Hebrew with the word torah (תורה) picked out in colour, then torah defined as the Pentateuch, the Books of Moses, and its four letters taught one by one with ancient pictographs: tav = Covenant, Cross; vav = Nail, Man; resh = Head, Chief; he = Revelation, Behold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Proverbs 29:18",
+   "osis": "Prov.29.18"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Torah"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "משלי כט:יח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Prov.29.18",
+   "text": "18 Where there is no vision, the people perish: but he that keeps the torah, happy is he."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Prov.29.18",
+   "text": "באין חזון יפרע עם ושמר תורה אשרהו׃"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Pentateuch"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "torah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תורה"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Books of"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "משה"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Moses."
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tav"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "T"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Covenant, Cross"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ו"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "vav"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "V,O,U"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Nail, Man"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ר"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "resh"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "R"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Head, Chief"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "he"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "H"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Revelation, Behold"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Proverbs 29:18 / משלי כט:יח",
+   "osis": [
+    "Prov.29.18"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תורה",
+   "translit": "torah",
+   "gloss": "instruction, law; the Pentateuch, Books of Moses",
+   "strongs": "H8451"
+  },
+  {
+   "lang": "he",
+   "word": "משה",
+   "translit": "mosheh",
+   "gloss": "Moses",
+   "strongs": "H4872"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "torah",
+   "other": "תורה"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  },
+  {
+   "en": "Covenant, Cross",
+   "other": "ת"
+  },
+  {
+   "en": "vav",
+   "other": "ו"
+  },
+  {
+   "en": "Nail, Man",
+   "other": "ו"
+  },
+  {
+   "en": "resh",
+   "other": "ר"
+  },
+  {
+   "en": "Head, Chief",
+   "other": "ר"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "T; covenant, cross (crossed-sticks pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "V, O, U; nail, man (nail/peg pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "R; head, chief (head pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "H; revelation, behold (man with raised arms pictograph)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Column of four ancient (paleo-)Hebrew letter pictographs, each sitting on a coloured underline matching its letter: a cross (tav, red), a nail or peg Y-shape (vav, orange), a head in profile (resh, olive), and a figure with raised arms (he, black).",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictographs",
+    "ancient Hebrew letters",
+    "cross",
+    "nail",
+    "head"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.44,
+    0.55,
+    0.52,
+    0.96
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Moses"
+  ],
+  "places": [],
+  "events": [
+   "Crucifixion"
+  ],
+  "things": [
+   "Torah",
+   "Pentateuch",
+   "cross",
+   "nail"
+  ],
+  "themes": [
+   "Torah",
+   "Hebrew letter meanings",
+   "covenant",
+   "revelation",
+   "wisdom",
+   "typology"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Torah",
+  "torah",
+  "Pentateuch",
+  "Books of Moses",
+  "Proverbs 29:18",
+  "where there is no vision",
+  "the people perish",
+  "keepeth the law",
+  "happy is he",
+  "tav vav resh hey",
+  "covenant cross",
+  "nail man",
+  "head chief",
+  "revelation behold",
+  "paleo-Hebrew pictographs",
+  "Hebrew letter meanings"
+ ],
+ "uncertain": [],
+ "confidence": 0.94
+}

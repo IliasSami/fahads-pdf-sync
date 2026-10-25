@@ -1,0 +1,34 @@
+{
+  "id": "akeda-1/78",
+  "kinds": ["list", "text"],
+  "title": "Isaac (yitzhak): the Akeidah (Genesis 22) and the blessing of his sons (Genesis 27)",
+  "summary": "Isaac's name as yitzhak / יצחק / Isaac in red, followed by two events in his life: the Akeidah (Genesis 22) and The Blessing of his Sons (Genesis 27).",
+  "text": [
+    {"lang": "translit", "role": "label", "text": "yitzhak"},
+    {"lang": "he", "role": "label", "text": "יצחק"},
+    {"lang": "en", "role": "label", "text": "Isaac"},
+    {"lang": "translit", "role": "heading", "text": "Akeidah"},
+    {"lang": "en", "role": "reference", "text": "Genesis 22", "osis": "Gen.22.1"},
+    {"lang": "en", "role": "heading", "text": "The Blessing of his Sons"},
+    {"lang": "en", "role": "reference", "text": "Genesis 27", "osis": "Gen.27.1"}
+  ],
+  "refs": [
+    {"shown": "Genesis 22", "osis": ["Gen.22.1"], "role": "cited"},
+    {"shown": "Genesis 27", "osis": ["Gen.27.1"], "role": "cited"}
+  ],
+  "words": [
+    {"lang": "he", "word": "יצחק", "translit": "yitzhak", "gloss": "Isaac", "strongs": "H3327"},
+    {"lang": "he", "word": "עקידה", "translit": "Akeidah", "gloss": "the binding", "strongs": "H6123"}
+  ],
+  "color_links": [
+    {"en": "Isaac", "other": "יצחק"},
+    {"en": "yitzhak", "other": "יצחק"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Isaac", "Jacob", "Esau"], "places": [], "events": ["Binding of Isaac (Akedah)", "Isaac blesses Jacob and Esau"], "things": [], "themes": ["blessing", "covenant", "sacrifice"], "groups": []},
+  "keywords": ["Isaac", "yitzhak", "Akeidah", "Akedah", "Akeda", "binding of Isaac", "Genesis 22", "Genesis 27", "blessing of his sons", "Jacob and Esau", "Isaac blesses Jacob", "stolen blessing", "Isaac's life"],
+  "uncertain": ["Transliteration spelled 'Akeidah' on this slide; Hebrew form עקידה is not shown and is added only as the matching word"],
+  "confidence": 0.95
+}

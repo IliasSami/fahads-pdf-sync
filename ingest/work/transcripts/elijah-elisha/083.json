@@ -1,0 +1,209 @@
+{
+ "id": "elijah-elisha/83",
+ "kinds": [
+  "list",
+  "title"
+ ],
+ "title": "Elijah: His 8 Miracles (list, with 1-4 revealed)",
+ "summary": "A numbered list of Elijah's 8 miracles from 1st and 2nd Kings: stopping the rain for 3 years, the widow's oil and grain, the widow's son raised, and fire from heaven on the soaked altar are shown in full colour, while the remaining four (outrunning Ahab's chariot, fire on two groups of 51 soldiers, parting the Jordan) are greyed out. Elijah's name is shown in English and in Hebrew (אליהו).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Elijah"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "HIS 8 MIRACLES"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "אליהו"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "from 1st and 2nd Kings"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Shutting heaven & stopping rain for 3 years. (1 Kings 17:1)"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "2 Widow’s Oil multiplied & grain increased daily. (1 Kings 17:2)"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "3 Widow's son raised from the dead. (1 Kings 17:22)"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "4 Fire from heaven on the soaked altar. (1 Kings 18:38)"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "5 Outran Ahab’s chariot (1 Kings 18:46)"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "6 Fire brought down on the 51 soldiers. (2 Kings 1:10)"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "7 Fire brought down on another 51 soldiers. (2 Kings 1:12)"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "8 The parting of the river Jordan. (2 Kings 2:8)"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 17:1",
+   "osis": [
+    "1Kgs.17.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "1 Kings 17:2",
+   "osis": [
+    "1Kgs.17.2"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "1 Kings 17:22",
+   "osis": [
+    "1Kgs.17.22"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "1 Kings 18:38",
+   "osis": [
+    "1Kgs.18.38"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "1 Kings 18:46",
+   "osis": [
+    "1Kgs.18.46"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "2 Kings 1:10",
+   "osis": [
+    "2Kgs.1.10"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "2 Kings 1:12",
+   "osis": [
+    "2Kgs.1.12"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "2 Kings 2:8",
+   "osis": [
+    "2Kgs.2.8"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אליהו",
+   "translit": "Eliyahu (Elijah)",
+   "gloss": "Elijah (my God is Yahweh)",
+   "strongs": "H452"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Elijah",
+   "other": "אליהו"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 8,
+   "note": "Elijah's eight miracles"
+  },
+  {
+   "value": 3,
+   "note": "years of no rain"
+  },
+  {
+   "value": 51,
+   "note": "soldiers (fifty and their captain) in each of the two groups consumed by fire"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah",
+   "Ahab"
+  ],
+  "places": [
+   "Jordan River"
+  ],
+  "events": [
+   "drought and famine in Israel",
+   "widow's son raised from the dead",
+   "fire from heaven on Mount Carmel",
+   "parting of the Jordan"
+  ],
+  "things": [
+   "chariot",
+   "altar",
+   "oil",
+   "grain"
+  ],
+  "themes": [
+   "miracles",
+   "prophecy",
+   "resurrection"
+  ],
+  "groups": [
+   "soldiers"
+  ]
+ },
+ "keywords": [
+  "Elijah's miracles",
+  "8 miracles of Elijah",
+  "eight miracles",
+  "Elijah list of miracles",
+  "rain stopped three years",
+  "widow's oil",
+  "raised from the dead",
+  "fire from heaven",
+  "outran Ahab's chariot",
+  "fire on 51 soldiers",
+  "parting of the Jordan",
+  "אליהו",
+  "1 Kings 17",
+  "2 Kings 1"
+ ],
+ "uncertain": [
+  "Items 5-8 are shown greyed out (faded), items 1-4 in full colour"
+ ],
+ "confidence": 0.96
+}

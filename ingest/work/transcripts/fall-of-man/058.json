@@ -1,0 +1,39 @@
+{
+  "id": "fall-of-man/58",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 3:24 — keep the Way (דרך, derek) of the tree of life",
+  "summary": "Genesis 3:24 in English and Hebrew, with the word “way” replaced by its Hebrew, דרך (derek), and explained as “Way.” Garden, Eden, Cherub, tree and life are colour-matched with the Hebrew, and both occurrences of את (alef-tav) before “the man” and “the cherubim” are highlighted.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 3:24", "osis": "Gen.3.24"},
+    {"lang": "he", "role": "reference", "text": "בראשית ג:כד", "osis": "Gen.3.24"},
+    {"lang": "en", "role": "verse", "text": "24 So He drove out the man; and He placed at the east of the garden of Eden Cherubim, and a flaming sword which turned every way, to keep the דרך of the tree of life.", "osis": "Gen.3.24"},
+    {"lang": "translit", "role": "label", "text": "derek"},
+    {"lang": "he", "role": "label", "text": "דרך"},
+    {"lang": "en", "role": "label", "text": "Way"},
+    {"lang": "he", "role": "verse", "text": "24 ויגרש את־האדם וישכן מקדם לגן־עדן את־הכרבים ואת להט החרב המתהפכת לשמר את־דרך עץ החיים׃", "osis": "Gen.3.24"}
+  ],
+  "refs": [{"shown": "Genesis 3:24 / בראשית ג:כד", "osis": ["Gen.3.24"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "דרך", "translit": "derek", "gloss": "way", "strongs": "H1870"},
+    {"lang": "he", "word": "גן־עדן", "translit": "gan eden", "gloss": "garden of Eden", "strongs": "H1588"},
+    {"lang": "he", "word": "כרבים", "translit": "keruvim", "gloss": "cherubim", "strongs": "H3742"},
+    {"lang": "he", "word": "עץ החיים", "translit": "etz ha-chaim", "gloss": "tree of life", "strongs": "H6086"},
+    {"lang": "he", "word": "את", "translit": "et", "gloss": "alef-tav (untranslated object marker)", "strongs": "H853"}
+  ],
+  "color_links": [
+    {"en": "garden", "other": "גן"},
+    {"en": "Eden", "other": "עדן"},
+    {"en": "Cherub", "other": "כרב"},
+    {"en": "tree", "other": "עץ"},
+    {"en": "life", "other": "ח"},
+    {"en": "derek", "other": "דרך"},
+    {"en": "Way", "other": "דרך"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Adam"], "places": ["Garden of Eden"], "events": ["Fall of Man", "Expulsion from Eden"], "things": ["tree of life", "cherubim", "flaming sword"], "themes": ["the way", "eternal life", "alef-tav"], "groups": ["angels"]},
+  "keywords": ["the Way", "derek", "derech", "way of the tree of life", "tree of life", "etz chaim", "cherubim", "keruvim", "flaming sword", "Garden of Eden", "gan eden", "alef tav", "aleph tav", "Genesis 3", "Genesis 3:24"],
+  "uncertain": [],
+  "confidence": 0.94
+}

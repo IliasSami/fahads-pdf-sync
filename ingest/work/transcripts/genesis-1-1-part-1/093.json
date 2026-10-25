@@ -1,0 +1,197 @@
+{
+ "id": "genesis-1-1-part-1/93",
+ "kinds": [
+  "gematria",
+  "word-study"
+ ],
+ "title": "37 in Genesis 1:1: ha'aretz 296 = 37 x 8 and v'et 407 = 37 x 11",
+ "summary": "Under a large 37, shows two Genesis 1:1 words as multiples of 37: הארץ (the earth) = 90 + 200 + 1 + 5 = 296 = 37 x 8, and ואת (and et) = 400 + 1 + 6 = 407 = 37 x 11, with arrows from each letter to its value.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "37"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "other",
+   "role": "list",
+   "text": "37 x 8 = הארץ"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "90 + 200 + 1 + 5 = 296"
+  },
+  {
+   "lang": "other",
+   "role": "list",
+   "text": "37 x 11 = ואת"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "400 + 1 + 6 = 407"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     90,
+     200,
+     1,
+     5
+    ],
+    "total": 296
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "v'et",
+   "gloss": "and (et)",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     400,
+     1,
+     6
+    ],
+    "total": 407
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "400",
+   "other": "ת"
+  },
+  {
+   "en": "1",
+   "other": "א"
+  },
+  {
+   "en": "6",
+   "other": "ו"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "final tsade",
+   "char": "ץ",
+   "value": 90,
+   "meaning": "numerical value only"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "numerical value only"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "numerical value only"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "numerical value only"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "numerical value only"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "numerical value only"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 37,
+   "note": "common factor: 296 = 37 x 8 and 407 = 37 x 11"
+  },
+  {
+   "value": 296,
+   "note": "gematria of הארץ (the earth) = 37 x 8"
+  },
+  {
+   "value": 407,
+   "note": "gematria of ואת (and et) = 37 x 11"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "37",
+  "37 x 8",
+  "37 x 11",
+  "296",
+  "407",
+  "ha'aretz",
+  "the earth",
+  "v'et",
+  "and et",
+  "gematria of Genesis 1:1",
+  "multiples of 37",
+  "Hebrew letter values",
+  "Bible numerics"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

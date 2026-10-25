@@ -1,0 +1,112 @@
+{
+ "id": "genesis-1-1-wisdom/16",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Psalm 49:3 — wisdom (chokmah, חכמה)",
+ "summary": "Psalm 49:3 with the word “wisdom” highlighted in gold in English and in Hebrew (חכמות), then a large word line: Wisdom, chokmah, חכמה.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 49:3",
+   "osis": "Ps.49.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים מט:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Wisdom"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "chokmah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חכמה"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 49:3 / תהילים מט:ג",
+   "osis": [
+    "Ps.49.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חכמה",
+   "translit": "chokmah",
+   "gloss": "wisdom",
+   "strongs": "H2451"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "wisdom",
+   "other": "חכמות"
+  },
+  {
+   "en": "Wisdom",
+   "other": "חכמה"
+  },
+  {
+   "en": "chokmah",
+   "other": "חכמה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "mouth",
+   "heart"
+  ],
+  "themes": [
+   "wisdom",
+   "understanding"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "chokmah",
+  "chochmah",
+  "hokhmah",
+  "wisdom",
+  "chokmot",
+  "Hebrew word for wisdom",
+  "Psalm 49:3",
+  "my mouth shall speak wisdom",
+  "understanding",
+  "Psalm 49"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

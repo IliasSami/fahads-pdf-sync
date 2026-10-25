@@ -1,0 +1,85 @@
+{
+ "id": "noah-part-2/103",
+ "kinds": [
+  "table",
+  "text"
+ ],
+ "title": "Total nations: Japheth 14 + Ham 30 + Shem 26 = 70",
+ "summary": "A simple addition showing the nations listed for each of Noah's three sons: Japheth 14, Ham 30 and Shem 26, adding up to a total of 70 nations.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Japheth → 14"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Ham → 30"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "+ Shem → 26"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Total Nations = 70"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 14,
+   "note": "nations listed for Japheth"
+  },
+  {
+   "value": 30,
+   "note": "nations listed for Ham"
+  },
+  {
+   "value": 26,
+   "note": "nations listed for Shem"
+  },
+  {
+   "value": 70,
+   "note": "total nations from the three sons of Noah"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Japheth",
+   "Ham",
+   "Shem",
+   "Noah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "table of nations",
+   "genealogy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "70 nations",
+  "seventy nations",
+  "table of nations",
+  "Genesis 10",
+  "Japheth 14",
+  "Ham 30",
+  "Shem 26",
+  "total nations",
+  "sons of Noah",
+  "number 70",
+  "how many nations"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

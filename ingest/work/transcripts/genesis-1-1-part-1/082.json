@@ -1,0 +1,203 @@
+{
+ "id": "genesis-1-1-part-1/82",
+ "kinds": [
+  "verse",
+  "word-study",
+  "gematria"
+ ],
+ "title": "Jeremiah 10:12 wisdom (Chokmah): ordinate values 37 and gematria values 73",
+ "summary": "Jeremiah 10:12 is quoted with the word wisdom highlighted. Wisdom in Hebrew (Chokmah, spelled het, kaf, mem, he) is given two sets of numbers: ordinate (alphabet-position) values 5 + 13 + 11 + 8 = 37, and gematria values 5 + 40 + 20 + 8 = 73.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Jeremiah 10:12",
+   "osis": "Jer.10.12"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ירמיה י:יב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "It is He who made the earth by His power, Who established the world by His wisdom; And by His understanding He has stretched out the heavens.",
+   "osis": "Jer.10.12"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Ordinate values"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 + 13 + 11 + 8 = 37"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Wisdom ="
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ח כ מ ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "= Chokmah"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "he mem kaf het"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Gematria values"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 + 40 + 20 + 8 = 73"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Jeremiah 10:12 / ירמיה י:יב",
+   "osis": [
+    "Jer.10.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חכמה",
+   "translit": "chokmah",
+   "gloss": "wisdom (ordinate values)",
+   "strongs": "H2451",
+   "gematria": {
+    "method": "ordinal",
+    "values": [
+     5,
+     13,
+     11,
+     8
+    ],
+    "total": 37
+   }
+  },
+  {
+   "lang": "he",
+   "word": "חכמה",
+   "translit": "chokmah",
+   "gloss": "wisdom (gematria values)",
+   "strongs": "H2451",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     40,
+     20,
+     8
+    ],
+    "total": 73
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "wisdom",
+   "other": "חכמה"
+  },
+  {
+   "en": "Wisdom",
+   "other": "חכמה"
+  },
+  {
+   "en": "Chokmah",
+   "other": "חכמה"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "ordinate value 5, gematria value 5"
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "ordinate value 13, gematria value 40"
+  },
+  {
+   "lang": "he",
+   "letter": "kaf",
+   "char": "כ",
+   "value": 20,
+   "meaning": "ordinate value 11, gematria value 20"
+  },
+  {
+   "lang": "he",
+   "letter": "het",
+   "char": "ח",
+   "value": 8,
+   "meaning": "ordinate value 8, gematria value 8"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 37,
+   "note": "ordinate (ordinal) value of חכמה (Chokmah, wisdom): 5 + 13 + 11 + 8"
+  },
+  {
+   "value": 73,
+   "note": "gematria (standard) value of חכמה (Chokmah, wisdom): 5 + 40 + 20 + 8"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "wisdom",
+   "gematria",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Jeremiah 10:12",
+  "wisdom",
+  "chokmah",
+  "chokhmah",
+  "hokmah",
+  "חכמה",
+  "ordinate values",
+  "gematria values",
+  "37",
+  "73",
+  "established the world by His wisdom",
+  "stretched out the heavens",
+  "made the earth by His power",
+  "Hebrew numerology"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

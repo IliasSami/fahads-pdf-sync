@@ -1,0 +1,114 @@
+{
+ "id": "noah-part-2/56",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Esther 4:15-16 — fast three days; 14, 15, 16 Nisan",
+ "summary": "Esther 4:15-16: Esther tells Mordecai to gather the Jews of Susa and fast for her three days, night or day, before she goes to the king: \"if I perish, I perish.\" The slide dates this as 14, 15, 16 Nisan.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Esther 4:15-16",
+   "osis": [
+    "Esth.4.15",
+    "Esth.4.16"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "אסתר ד:יה-יו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Esth.4.15",
+   "text": "15 Then Esther sent this reply to Mordecai:"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Esth.4.16",
+   "text": "16 “Go, gather together all the Jews who are in Susa, and fast for me. Do not eat or drink for three days, night or day. I and my attendants will fast as you do. When this is done, I will go to the king, even though it is against the law. And if I perish, I perish.”"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "14, 15, 16 nisan"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Esther 4:15-16 / אסתר ד:יה-יו",
+   "osis": [
+    "Esth.4.15",
+    "Esth.4.16"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "three days of fasting, night or day"
+  },
+  {
+   "value": 14,
+   "note": "14 Nisan — first day of the three-day fast"
+  },
+  {
+   "value": 15,
+   "note": "15 Nisan — second day of the fast"
+  },
+  {
+   "value": 16,
+   "note": "16 Nisan — third day of the fast"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Esther",
+   "Mordecai"
+  ],
+  "places": [
+   "Susa"
+  ],
+  "events": [
+   "Esther's three-day fast"
+  ],
+  "things": [],
+  "themes": [
+   "fasting",
+   "biblical feasts",
+   "Flood chronology",
+   "providence"
+  ],
+  "groups": [
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "Esther 4",
+  "fast three days",
+  "three-day fast",
+  "if I perish, I perish",
+  "Mordecai",
+  "Susa",
+  "Shushan",
+  "14 Nisan",
+  "15 Nisan",
+  "16 Nisan",
+  "do not eat or drink",
+  "gather the Jews",
+  "against the law"
+ ],
+ "uncertain": [
+  "The Hebrew reference header reads ד:יה-יו (yod-he, yod-vav for 15-16) as shown on the slide; transcribed exactly."
+ ],
+ "confidence": 0.96
+}

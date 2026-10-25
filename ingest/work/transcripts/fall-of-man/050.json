@@ -1,0 +1,24 @@
+{
+  "id": "fall-of-man/50",
+  "kinds": ["verse", "title"],
+  "title": "The Progression of Blood (5): Yom Kippur — one substitute covers a nation",
+  "summary": "Fifth step in “The Progression of Blood”: Yom Kippur, the Day of Atonement, where one substitute sacrifice covers the entire nation. Leviticus 16:15 is quoted, with “goat” and “blood” highlighted in red: the goat's blood is sprinkled on the mercy seat.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Progression of Blood₅"},
+    {"lang": "en", "role": "body", "text": "Yom Kippur—Day of Atonement"},
+    {"lang": "en", "role": "body", "text": "One Substitute Sacrifice Covers Entire Nation"},
+    {"lang": "en", "role": "reference", "text": "Leviticus 16:15", "osis": "Lev.16.15"},
+    {"lang": "he", "role": "reference", "text": "ויקרא יו:יה", "osis": "Lev.16.15"},
+    {"lang": "en", "role": "verse", "text": "15 “Then he shall slaughter the goat of the sin offering which is for the people, and bring its blood inside the veil and do with its blood as he did with the blood of the bull, and sprinkle it on the mercy seat and in front of the mercy seat.”", "osis": "Lev.16.15"}
+  ],
+  "refs": [{"shown": "Leviticus 16:15 / ויקרא יו:יה", "osis": ["Lev.16.15"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": ["Yom Kippur (Day of Atonement)"], "things": ["goat", "bull", "veil", "mercy seat", "sin offering"], "themes": ["blood", "atonement", "sacrifice", "substitution", "biblical feasts", "priesthood"], "groups": ["Israel"]},
+  "keywords": ["progression of blood", "Yom Kippur", "Day of Atonement", "scapegoat", "goat of the sin offering", "blood on the mercy seat", "sprinkle the blood", "within the vail", "inside the veil", "high priest", "substitute sacrifice for the nation", "Leviticus 16", "Leviticus 16:15"],
+  "uncertain": ["The Hebrew reference is written ויקרא יו:יה (16 as yod-vav, 15 as yod-he) rather than the usual טז:טו; transcribed as shown."],
+  "confidence": 0.95
+}

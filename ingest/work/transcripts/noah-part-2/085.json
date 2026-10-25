@@ -1,0 +1,107 @@
+{
+ "id": "noah-part-2/85",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 9:1-4 — God blesses Noah; animals given as food, but not blood",
+ "summary": "Genesis 9:1-4 in English: God blesses Noah and his sons, telling them to be fruitful, multiply and fill the earth; the fear of them will be on every animal; every moving thing that is alive is given as food, as the green plant was; but they must not eat flesh with its life, its blood. 'God' and 'Noah', 'green' and 'blood' are coloured.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 9:1-4",
+   "osis": [
+    "Gen.9.1",
+    "Gen.9.2",
+    "Gen.9.3",
+    "Gen.9.4"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ט:א-ד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.1",
+   "text": "1 And God blessed Noah and his sons and said to them, “Be fruitful and multiply, and fill the earth."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.2",
+   "text": "2 “The fear of you and the terror of you will be on every beast of the earth and on every bird of the sky; with everything that creeps on the ground, and all the fish of the sea, into your hand they are given."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.3",
+   "text": "3 “Every moving thing that is alive shall be food for you; I give all to you, as I gave the green plant."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.4",
+   "text": "4 “Only you shall not eat flesh with its life, that is, its blood."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 9:1-4 / בראשית ט:א-ד",
+   "osis": [
+    "Gen.9.1",
+    "Gen.9.2",
+    "Gen.9.3",
+    "Gen.9.4"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "green plant",
+   "blood",
+   "beasts",
+   "birds",
+   "fish"
+  ],
+  "themes": [
+   "blood",
+   "covenant"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 9",
+  "Genesis 9:1",
+  "Genesis 9:3",
+  "Genesis 9:4",
+  "God blesses Noah",
+  "be fruitful and multiply",
+  "fill the earth",
+  "fear of you and dread of you",
+  "animals given for food",
+  "green plant",
+  "do not eat blood",
+  "flesh with its life",
+  "Noahic covenant",
+  "eating meat after the flood"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

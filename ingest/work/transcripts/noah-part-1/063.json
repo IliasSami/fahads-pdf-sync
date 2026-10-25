@@ -1,0 +1,125 @@
+{
+ "id": "noah-part-1/63",
+ "kinds": [
+  "verse",
+  "comparison"
+ ],
+ "title": "Three decks of the ark and spirit, soul and body (1 Thessalonians 5:23)",
+ "summary": "Genesis 6:16 with its last line emphasised and changed to read 'lower, 2nd, and 3rd decks', above the three words Spirit, Soul, Body and 1 Thessalonians 5:23, a blessing that the whole spirit, soul and body be kept blameless.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:16",
+   "osis": "Gen.6.16"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.16",
+   "text": "16 “You shall make a window for the ark, and finish it to a cubit from the top; and set the door of the ark in the side of it; you shall make it with lower, 2nd, and 3rd decks."
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Spirit"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Soul"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Body"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Thessalonians 5:23",
+   "osis": "1Thess.5.23"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α 5:23"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "1Thess.5.23",
+   "text": "23 May God himself, the God of peace, sanctify you through and through. May your whole spirit, soul and body be kept blameless at the coming of our Lord Jesus Christ."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:16 / בראשית ו:יו",
+   "osis": [
+    "Gen.6.16"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1 Thessalonians 5:23 / ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α 5:23",
+   "osis": [
+    "1Thess.5.23"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "three decks of the ark; spirit, soul and body"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "Second Coming"
+  ],
+  "things": [
+   "ark",
+   "decks"
+  ],
+  "themes": [
+   "holiness",
+   "typology",
+   "purification"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "spirit soul and body",
+  "three decks",
+  "three parts of man",
+  "tripartite man",
+  "lower second third decks",
+  "Noah's ark",
+  "1 Thessalonians 5:23",
+  "sanctify you through and through",
+  "kept blameless",
+  "coming of our Lord Jesus Christ",
+  "Genesis 6:16",
+  "God of peace"
+ ],
+ "uncertain": [
+  "The slide shows the Genesis 6:16 text with 'second' and 'third' written as '2nd' and '3rd' (superscripts); the earlier slides write 'second, and third'."
+ ],
+ "confidence": 0.95
+}

@@ -1,0 +1,317 @@
+{
+ "id": "red-heifer/22",
+ "kinds": [
+  "table",
+  "list"
+ ],
+ "title": "Torah portions 1-12 — Genesis (bereshit to vayechi)",
+ "summary": "Table of the first twelve weekly Torah portions, all from Genesis, each with its number, Scripture range, transliterated and Hebrew name, and English meaning (e.g. bereshit / בראשית / In beginning; noach / נח / Noah; vayechi / ויחי / Lived).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "1 Gen 1:1 - 6:8 | bereshit | בראשית | In beginning"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "2 Gen 6:9 - 11:32 | noach | נח | Noah"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "3 Gen 12:1 - 17:27 | lek leka | לך־לך | Go for you"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "4 Gen 18:1 - 22:24 | vayeira | וירא | I Appeared"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "5 Gen 23:1 - 25:18 | chayei sarah | חיי שרה | Sarah"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "6 Gen 25:19 - 28:9 | toldot | תולדת | Generations"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "7 Gen 28:10 - 32:3 | vayeitzel | ויצא | He went out"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "8 Gen 32:4 - 36:43 | vaylishlach | וישלח | He sent"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "9 Gen 37:1 - 40:23 | vayyeshev | וישב | Dwelt"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "10 Gen 41:1 - 44:17 | miqeitz | מקץ | At the end"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "11 Gen 44:18 - 47:27 | vayigash | ויגש | Came near"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "12 Gen 47:28 - 50:26 | vayechi | ויחי | Lived"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Gen 1:1 - 6:8",
+   "osis": [
+    "Gen.1.1",
+    "Gen.6.8"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 6:9 - 11:32",
+   "osis": [
+    "Gen.6.9",
+    "Gen.11.32"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 12:1 - 17:27",
+   "osis": [
+    "Gen.12.1",
+    "Gen.17.27"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 18:1 - 22:24",
+   "osis": [
+    "Gen.18.1",
+    "Gen.22.24"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 23:1 - 25:18",
+   "osis": [
+    "Gen.23.1",
+    "Gen.25.18"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 25:19 - 28:9",
+   "osis": [
+    "Gen.25.19",
+    "Gen.28.9"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 28:10 - 32:3",
+   "osis": [
+    "Gen.28.10",
+    "Gen.32.3"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 32:4 - 36:43",
+   "osis": [
+    "Gen.32.4",
+    "Gen.36.43"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 37:1 - 40:23",
+   "osis": [
+    "Gen.37.1",
+    "Gen.40.23"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 41:1 - 44:17",
+   "osis": [
+    "Gen.41.1",
+    "Gen.44.17"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 44:18 - 47:27",
+   "osis": [
+    "Gen.44.18",
+    "Gen.47.27"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 47:28 - 50:26",
+   "osis": [
+    "Gen.47.28",
+    "Gen.50.26"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "In beginning",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "נח",
+   "translit": "noach",
+   "gloss": "Noah",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "לך־לך",
+   "translit": "lek leka",
+   "gloss": "Go for you",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "וירא",
+   "translit": "vayeira",
+   "gloss": "I Appeared",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "חיי שרה",
+   "translit": "chayei sarah",
+   "gloss": "Sarah",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "תולדת",
+   "translit": "toldot",
+   "gloss": "Generations",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ויצא",
+   "translit": "vayeitzel",
+   "gloss": "He went out",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "וישלח",
+   "translit": "vaylishlach",
+   "gloss": "He sent",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "וישב",
+   "translit": "vayyeshev",
+   "gloss": "Dwelt",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "מקץ",
+   "translit": "miqeitz",
+   "gloss": "At the end",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ויגש",
+   "translit": "vayigash",
+   "gloss": "Came near",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ויחי",
+   "translit": "vayechi",
+   "gloss": "Lived",
+   "strongs": null,
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 12,
+   "note": "twelve Genesis portions listed (portions 1-12)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "Sarah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "Torah portions"
+  ],
+  "themes": [
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis Torah portions",
+  "parashot Genesis",
+  "bereshit",
+  "bereishit",
+  "in beginning",
+  "noach",
+  "lech lecha",
+  "lek leka",
+  "vayera",
+  "vayeira",
+  "chayei sarah",
+  "toldot",
+  "vayetze",
+  "vayeitzel",
+  "vayishlach",
+  "vayeshev",
+  "miketz",
+  "vayigash",
+  "vayechi",
+  "weekly portions list"
+ ],
+ "uncertain": [
+  "The transliteration 'vayeitzel' (for ויצא) and 'miqeitz' are transcribed as shown on the slide."
+ ],
+ "confidence": 0.95
+}

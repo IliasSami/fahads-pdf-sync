@@ -1,0 +1,109 @@
+{
+ "id": "akeda-1/109",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Names called twice in the New Testament: Martha, Simon, Saul",
+ "summary": "Three New Testament passages in which a name is repeated: the Lord says 'Martha, Martha' (Luke 10:41), 'Simon, Simon' about Satan sifting him like wheat (Luke 22:31), and a voice says 'Saul, Saul, why are you persecuting Me?' (Acts 9:4). The repeated names are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Luke.10.41",
+   "text": "But the Lord answered and said to her, \"Martha, Martha,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Luke.10.41",
+   "text": "you are worried and bothered about so many things;—Luke 10:41"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Luke.22.31",
+   "text": "\"Simon, Simon, behold, Satan has demanded permission to sift you like wheat;"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Luke.22.31",
+   "text": "—Luke 22:31"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Acts.9.4",
+   "text": "and he fell to the ground and heard a voice saying to him,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Acts.9.4",
+   "text": "\"Saul, Saul, why are you persecuting Me?\"—Acts 9:4"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Luke 10:41",
+   "osis": [
+    "Luke.10.41"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Luke 22:31",
+   "osis": [
+    "Luke.22.31"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Acts 9:4",
+   "osis": [
+    "Acts.9.4"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus",
+   "Martha",
+   "Simon Peter",
+   "Satan",
+   "Paul"
+  ],
+  "places": [],
+  "events": [
+   "Conversion of Paul"
+  ],
+  "things": [],
+  "themes": [
+   "names of God",
+   "judgment"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Martha Martha",
+  "Simon Simon",
+  "Saul Saul",
+  "name called twice",
+  "Luke 10:41",
+  "Luke 22:31",
+  "Acts 9:4",
+  "sift you like wheat",
+  "why are you persecuting Me",
+  "road to Damascus",
+  "Satan has demanded permission",
+  "worried and bothered"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

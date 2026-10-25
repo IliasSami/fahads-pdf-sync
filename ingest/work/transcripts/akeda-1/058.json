@@ -1,0 +1,36 @@
+{
+  "id": "akeda-1/58",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 22:5 — “Stay here with the donkey… we will worship and return to you”",
+  "summary": "Genesis 22:5 in English and Hebrew: Abraham tells his young men to stay with the donkey while he and the lad go over there to worship and then return to them. “Young men” and “lad” are green and matched to naar (נער), boy, young man, servant.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22", "osis": "Gen.22.5"},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.5", "text": "5 Abraham said to his young men, “Stay here with the donkey, and I and the lad will go over there; and we will worship and return to you.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.22.5", "text": "5 ויאמר אברהם אל־נעריו שבו־לכם פה עם־החמור ואני והנער נלכה עד־כה ונשתחוה ונשובה אליכם׃"},
+    {"lang": "translit", "role": "label", "text": "naar"},
+    {"lang": "he", "role": "label", "text": "נער"},
+    {"lang": "en", "role": "label", "text": "boy, young man, servant"}
+  ],
+  "refs": [{"shown": "Genesis 22 / בראשית כב (verse 5)", "osis": ["Gen.22.5"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "נער", "translit": "naar", "gloss": "boy, young man, servant", "strongs": "H5288"},
+    {"lang": "he", "word": "ונשתחוה", "translit": "venishtachaveh", "gloss": "and we will worship", "strongs": "H7812"},
+    {"lang": "he", "word": "העקדה", "translit": "ha-akedah", "gloss": "the binding (of Isaac)", "strongs": "H6123"}
+  ],
+  "color_links": [
+    {"en": "young men", "other": "נעריו"},
+    {"en": "lad", "other": "הנער"},
+    {"en": "naar", "other": "נער"},
+    {"en": "boy, young man, servant", "other": "נער"},
+    {"en": "Abraham", "other": "אברהם"}
+  ],
+  "letters": [],
+  "numbers": [{"value": 5, "note": "verse number 5 (blue)"}],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac"], "places": [], "events": ["Binding of Isaac (Akedah)"], "things": ["donkey"], "themes": ["faith", "worship", "obedience", "sacrifice"], "groups": ["young men (servants)"]},
+  "keywords": ["Genesis 22:5", "Akedah", "Akeda", "binding of Isaac", "abide ye here with the ass", "I and the lad will go yonder", "worship and come again to you", "we will worship and return", "naar", "lad", "young men", "servants", "donkey"],
+  "uncertain": [],
+  "confidence": 0.95
+}

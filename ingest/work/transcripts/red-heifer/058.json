@@ -1,0 +1,114 @@
+{
+ "id": "red-heifer/58",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Exodus 12:22 — hyssop dipped in the blood on the doorposts",
+ "summary": "Exodus 12:22 (the Passover instructions) in English and Hebrew: a bunch of hyssop is dipped in the blood in the basin and applied to the lintel and two doorposts, and no one may go outside the door until morning. Hyssop (green) and blood (red) are colour-coded in both English and Hebrew.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 12:22",
+   "osis": "Exod.12.22"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות יב:כב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.12.22",
+   "text": "22 ''You shall take a bunch of hyssop and dip it in the blood which is in the basin, and apply some of the blood that is in the basin to the lintel and the two doorposts; and none of you shall go outside the door of his house until morning."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Exod.12.22",
+   "text": "22 ולקחתם אגדת אזוב וטבלתם בדם אשר־בסף והגעתם אל־המשקוף ואל־שתי המזוזת מן־הדם אשר בסף ואתם לא תצאו איש מפתח־ביתו עד־בקר׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 12:22 / שמות יב:כב",
+   "osis": [
+    "Exod.12.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אזוב",
+   "translit": "ezov",
+   "gloss": "hyssop",
+   "strongs": "H231"
+  },
+  {
+   "lang": "he",
+   "word": "דם",
+   "translit": "dam",
+   "gloss": "blood",
+   "strongs": "H1818"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "hyssop",
+   "other": "אזוב"
+  },
+  {
+   "en": "blood",
+   "other": "דם"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Passover",
+   "Exodus"
+  ],
+  "things": [
+   "hyssop",
+   "blood",
+   "basin",
+   "lintel",
+   "doorposts"
+  ],
+  "themes": [
+   "blood",
+   "sacrifice",
+   "redemption",
+   "purification"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Exodus 12",
+  "Passover",
+  "hyssop",
+  "bunch of hyssop",
+  "ezov",
+  "blood on the doorposts",
+  "lintel and two doorposts",
+  "blood in the basin",
+  "ezov dam",
+  "Passover lamb blood",
+  "stay inside until morning",
+  "red heifer hyssop"
+ ],
+ "uncertain": [
+  "Hebrew text transcribed with maqaf throughout; the slide's third line may use a plain hyphen in 'מפתח-ביתו'."
+ ],
+ "confidence": 0.95
+}

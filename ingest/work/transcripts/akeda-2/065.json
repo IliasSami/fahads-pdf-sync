@@ -1,0 +1,102 @@
+{
+ "id": "akeda-2/65",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Psalm 104:1 — barak the LORD, O my soul",
+ "summary": "Psalm 104:1 in English and Hebrew with the word barak (ברכי) in place of 'bless'. The initial b of barak and the Hebrew ב are in red, the ar in olive, and the letters of LORD match the letters of the Hebrew name.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 104:1",
+   "osis": "Ps.104.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים קד:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.104.1",
+   "text": "1 barak the LORD, O my soul!"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.104.1",
+   "text": "1 ברכי נפשי את־יהוה"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 104:1 / תהילים קד:א",
+   "osis": [
+    "Ps.104.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ברכי",
+   "translit": "barak",
+   "gloss": "bless (KJV: Bless the LORD)",
+   "strongs": "H1288"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the LORD",
+   "strongs": "H3068"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "barak",
+   "other": "ברכי"
+  },
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "blessing",
+   "worship",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Psalm 104:1",
+  "Psalm 104",
+  "bless the LORD O my soul",
+  "barak",
+  "bless",
+  "baruch",
+  "praise",
+  "worship",
+  "YHWH",
+  "ברכי נפשי",
+  "Hebrew word study",
+  "Tehillim"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

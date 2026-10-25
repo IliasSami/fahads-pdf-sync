@@ -1,0 +1,115 @@
+{
+ "id": "akeda-2/56",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "1 Thessalonians 4:17 — caught up (harpazo) and the word Rapture",
+ "summary": "1 Thessalonians 4:17 in English and Latin, with the Greek word harpazo (ἁρπάζω) explained as to seize, catch up, snatch away, and a note that the Latin rapiemur gives us the English word Rapture.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Thessalonians 4:17",
+   "osis": "1Thess.4.17"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α 4:17"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "1Thess.4.17",
+   "text": "17 Then we who are alive and remain will be caught up* together with them in the clouds to meet the Lord in the air, and so we shall always be with the Lord."
+  },
+  {
+   "lang": "el",
+   "role": "label",
+   "text": "*ἁρπάζω (Greek)—harpazó:"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "to seize, catch up, snatch away"
+  },
+  {
+   "lang": "other",
+   "role": "verse",
+   "osis": "1Thess.4.17",
+   "text": "17 deinde nos qui vivimus qui relinquimur simul rapiemur cum illis in nubibus obviam Domino in aera et sic semper cum Domino erimus"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "rapiemur (Latin) → Rapture (English)"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Thessalonians 4:17 / ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α 4:17",
+   "osis": [
+    "1Thess.4.17"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "el",
+   "word": "ἁρπάζω",
+   "translit": "harpazó",
+   "gloss": "to seize, catch up, snatch away",
+   "strongs": "G726",
+   "gematria": null
+  },
+  {
+   "lang": "other",
+   "word": "rapiemur",
+   "translit": "rapiemur",
+   "gloss": "we shall be caught up (Latin Vulgate), source of the English word Rapture",
+   "strongs": null,
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Rapture"
+  ],
+  "things": [
+   "clouds"
+  ],
+  "themes": [
+   "rapture",
+   "prophecy",
+   "resurrection"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "rapture",
+  "harpazo",
+  "harpazó",
+  "caught up",
+  "snatched away",
+  "1 Thessalonians 4:17",
+  "rapiemur",
+  "Latin Vulgate",
+  "meet the Lord in the air",
+  "in the clouds",
+  "seize",
+  "Greek word study",
+  "always be with the Lord"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

@@ -1,0 +1,78 @@
+{
+ "id": "red-heifer/76",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Numbers 19:13 — unpurified corpse-touching defiles the tabernacle; cut off",
+ "summary": "Numbers 19:13 in English: whoever touches the body of anyone who has died and does not purify himself defiles the LORD's tabernacle and is cut off from Israel, unclean because the water of purification was not sprinkled on him. Key words (unclean, water, uncleanness) are colour-coded; the 'el' in Israel is highlighted in two colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:13",
+   "osis": "Num.19.13"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:יג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.13",
+   "text": "13 Whoever touches the body of anyone who has died, and does not purify himself, defiles the tabernacle of the LORD. That person shall be cut off from Israel. He shall be unclean, because the water of purification was not sprinkled on him; his uncleanness is still on him."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19:13 / במדבר יט:יג",
+   "osis": [
+    "Num.19.13"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "tabernacle",
+   "water of purification",
+   "corpse"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "death",
+   "judgment",
+   "Torah"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Numbers 19",
+  "defiles the tabernacle",
+  "cut off from Israel",
+  "karet",
+  "touches a dead body",
+  "water of separation not sprinkled",
+  "uncleanness still upon him",
+  "soul shall be cut off",
+  "unpurified",
+  "death defilement",
+  "tabernacle of the LORD"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

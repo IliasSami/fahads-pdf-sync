@@ -1,0 +1,25 @@
+{
+  "id": "akeda-2/43",
+  "kinds": ["verse", "genealogy"],
+  "title": "Genesis 22:20-24 — the children of Nahor and Milcah; Bethuel father of Rebekah",
+  "summary": "Genesis 22:20-24: after the Akedah, Abraham is told that Milcah has borne eight sons to his brother Nahor, including Bethuel, the father of Rebekah; Nahor's concubine Reumah bore four more.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22:20 - 24", "osis": ["Gen.22.20", "Gen.22.21", "Gen.22.22", "Gen.22.23", "Gen.22.24"]},
+    {"lang": "he", "role": "reference", "text": "בראשית כב:כ - כד", "osis": ["Gen.22.20", "Gen.22.21", "Gen.22.22", "Gen.22.23", "Gen.22.24"]},
+    {"lang": "en", "role": "verse", "text": "20 Now it came about after these things, that it was told Abraham, saying, “Behold, Milcah also has borne children to your brother Nahor:", "osis": "Gen.22.20"},
+    {"lang": "en", "role": "verse", "text": "21 Uz his firstborn and Buz his brother and Kemuel the father of Aram", "osis": "Gen.22.21"},
+    {"lang": "en", "role": "verse", "text": "22 and Chesed and Hazo and Pildash and Jidlaph and Bethuel.”", "osis": "Gen.22.22"},
+    {"lang": "en", "role": "verse", "text": "23 Bethuel became the father of Rebekah; these eight Milcah bore to Nahor, Abraham’s brother.", "osis": "Gen.22.23"},
+    {"lang": "en", "role": "verse", "text": "24 His concubine, whose name was Reumah, also bore Tebah and Gaham and Tahash and Maacah.", "osis": "Gen.22.24"}
+  ],
+  "refs": [{"shown": "Genesis 22:20 - 24 / בראשית כב:כ - כד", "osis": ["Gen.22.20", "Gen.22.21", "Gen.22.22", "Gen.22.23", "Gen.22.24"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Milcah", "Nahor", "Uz", "Buz", "Kemuel", "Aram", "Chesed", "Hazo", "Pildash", "Jidlaph", "Bethuel", "Rebekah", "Reumah", "Tebah", "Gaham", "Tahash", "Maacah"], "places": [], "events": [], "things": [], "themes": ["genealogy"], "groups": []},
+  "keywords": ["Nahor's family", "sons of Nahor", "Milcah", "Bethuel", "Rebekah", "Rebecca", "father of Rebekah", "Abraham's brother", "concubine Reumah", "genealogy", "family tree", "Genesis 22", "Genesis 22:20-24", "Isaac's bride"],
+  "uncertain": [],
+  "confidence": 0.96
+}

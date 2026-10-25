@@ -1,0 +1,54 @@
+{
+ "id": "akeda-1/26",
+ "kinds": [
+  "text"
+ ],
+ "title": "Believer Says: Adonai!",
+ "summary": "A text slide with the line 'Believer Says: Adonai!', with 'Adonai' in large purple letters.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Believer Says: Adonai!"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדני",
+   "translit": "adonai",
+   "gloss": "Lord",
+   "strongs": "H136"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "faith"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Adonai",
+  "adonay",
+  "Lord",
+  "believer",
+  "what a believer says",
+  "name of God",
+  "acknowledging the Lord",
+  "believer vs agnostic vs atheist"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

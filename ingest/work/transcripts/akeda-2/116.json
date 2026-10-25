@@ -1,0 +1,100 @@
+{
+ "id": "akeda-2/116",
+ "kinds": [
+  "text"
+ ],
+ "title": "The three are so likeminded they are as one",
+ "summary": "The four trust statements about Isaac, Abraham and the most trusted servant remain, with a new closing line: the three are so likeminded that they are as one.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Isaac trusts his father"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "by allowing himself to be tied up to be sacrificed."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Abraham trusts his servant, Eliezer"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "so much he was his sole heir."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Isaac trusts Abraham and most trusted servant"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "to find a bride for him."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The most trusted servant"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "remaining nameless, points to Isaac, the Son."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The three are so likeminded; they are as one."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Isaac",
+   "Abraham",
+   "Eliezer"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "bride"
+  ],
+  "themes": [
+   "faith",
+   "sacrifice",
+   "marriage",
+   "typology",
+   "inheritance"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "three are as one",
+  "likeminded",
+  "Isaac trusts Abraham",
+  "Abraham trusts Eliezer",
+  "most trusted servant",
+  "sole heir",
+  "find a bride for Isaac",
+  "nameless servant",
+  "Akedah",
+  "Akeda",
+  "Binding of Isaac",
+  "unity",
+  "Genesis 24"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

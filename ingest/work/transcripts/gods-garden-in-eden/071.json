@@ -1,0 +1,129 @@
+{
+ "id": "gods-garden-in-eden/71",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 2:23 — ish (man) and isha (woman)",
+ "summary": "Genesis 2:23 in English and Hebrew: the man says she is bone of his bones and flesh of his flesh, and shall be called Woman because she was taken out of Man. Below, the Hebrew words אשה (isha, woman) and איש (ish, man) are spelled out letter by letter with arrows from the verse; the aleph is shown in blue in both.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:23",
+   "osis": "Gen.2.23"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:כג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "23 The man said, “This is now bone of my bones, And flesh of my flesh; She shall be called Woman, Because she was taken out of Man.”",
+   "osis": "Gen.2.23"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "23 ויאמר האדם זאת הפעם עצם מעצמי ובשר מבשרי לזאת יקרא אשה כי מאיש לקחה־זאת׃",
+   "osis": "Gen.2.23"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ish"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א י ש"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ש ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "isha"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "man"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "woman"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:23 / בראשית ב:כג",
+   "osis": [
+    "Gen.2.23"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "איש",
+   "translit": "ish",
+   "gloss": "man",
+   "strongs": "H376"
+  },
+  {
+   "lang": "he",
+   "word": "אשה",
+   "translit": "isha",
+   "gloss": "woman",
+   "strongs": "H802"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Eve",
+   "God"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "marriage",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 2:23",
+  "ish and isha",
+  "man and woman in Hebrew",
+  "bone of my bones",
+  "flesh of my flesh",
+  "she shall be called Woman",
+  "taken out of Man",
+  "איש",
+  "אשה",
+  "aish",
+  "Adam names Eve",
+  "marriage",
+  "Hebrew word study"
+ ],
+ "uncertain": [],
+ "confidence": 0.94
+}

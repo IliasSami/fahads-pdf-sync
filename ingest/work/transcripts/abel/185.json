@@ -1,0 +1,22 @@
+{
+  "id": "abel/185",
+  "kinds": ["picture"],
+  "title": "Gustave Doré: Cain and Abel Offering Their Sacrifices (1870)",
+  "summary": "Closing slide showing Gustave Doré's 1870 engraving of Cain and Abel offering their sacrifices.",
+  "text": [
+    {"lang": "en", "role": "caption", "text": "Cain and Abel Offering Their Sacrifices"},
+    {"lang": "en", "role": "caption", "text": "By Gustave Doré 1870"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [
+    {"type": "engraving", "description": "Black-and-white engraving: two brothers at their altars under a dark sky; smoke from Abel's offering rises upward while Cain's offering lies on the ground, with a tree and rocky landscape.", "subjects": ["Cain", "Abel", "sacrifice", "altar", "offering", "smoke"], "text_in_picture": "", "credit": "Gustave Doré, 1870", "box": [0.0, 0.0, 0.44, 1.0]}
+  ],
+  "entities": {"people": ["Cain", "Abel"], "places": [], "events": ["Cain and Abel's offerings"], "things": ["altar"], "themes": ["sacrifice", "offering"], "groups": []},
+  "keywords": ["Cain and Abel", "Doré", "Gustave Dore", "engraving", "illustration", "art", "picture", "sacrifice", "offering", "altar", "Genesis 4"],
+  "uncertain": [],
+  "confidence": 0.9
+}

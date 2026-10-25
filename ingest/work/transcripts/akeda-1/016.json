@@ -1,0 +1,25 @@
+{
+  "id": "akeda-1/16",
+  "kinds": ["verse", "text"],
+  "title": "Genesis 17:19 — Named before Birth: Sarah will bear a son, Isaac",
+  "summary": "God tells Abraham that Sarah will bear him a son to be named Isaac, with whom He will establish His everlasting covenant; large caption 'Named before Birth'. The English heading reads Genesis 18:19 while the Hebrew heading reads 17:19, the verse actually quoted.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 18:19", "osis": "Gen.17.19"},
+    {"lang": "he", "role": "reference", "text": "בראשית יז:יט"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.19", "text": "19 But God said, “No, but Sarah your wife will bear you a"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.19", "text": "son, and you shall call his name Isaac; and I will establish"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.19", "text": "My covenant with him for an everlasting covenant for his"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.19", "text": "descendants after him."},
+    {"lang": "en", "role": "heading", "text": "Named before Birth"}
+  ],
+  "refs": [{"shown": "Genesis 18:19 / בראשית יז:יט (English heading says 18:19; Hebrew heading and quoted text are 17:19)", "osis": ["Gen.17.19"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham", "Sarah", "Isaac"], "places": [], "events": ["Birth of Isaac"], "things": [], "themes": ["covenant", "promise", "meaning of names", "prophecy"], "groups": []},
+  "keywords": ["Genesis 17:19", "Genesis 18:19", "named before birth", "Isaac", "Sarah will bear you a son", "everlasting covenant", "establish My covenant", "name Isaac", "promise of Isaac", "covenant with Isaac", "Genesis 17"],
+  "uncertain": ["English reference heading says Genesis 18:19 but the Hebrew heading (יז:יט) and the quoted text are Genesis 17:19; transcribed as shown."],
+  "confidence": 0.95
+}

@@ -1,0 +1,150 @@
+{
+ "id": "genesis-1-1-part-1/23",
+ "kinds": [
+  "letters"
+ ],
+ "title": "Tav: Covenant, Cross (ancient pictograph to T)",
+ "summary": "Teaches the Hebrew letter tav (sound T; value 400; meaning Covenant, Cross) in three red letter shapes, then shows the ancient cross pictograph changing into the modern letter T. Tav, T, 400 and Covenant, Cross are all in dark red.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת   ת   ת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tav"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "T"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "400"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Covenant, Cross"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "→ T"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [
+  {
+   "en": "tav",
+   "other": "ת"
+  },
+  {
+   "en": "T",
+   "other": "ת"
+  },
+  {
+   "en": "Covenant",
+   "other": "ת"
+  },
+  {
+   "en": "Cross",
+   "other": "ת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "covenant, cross (cross pictograph); sound T"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 400,
+   "note": "gematria value of the letter tav"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Small ancient (paleo-Hebrew) tav pictograph: a black cross (plus sign) over a dark red underline, placed between 400 and Covenant, Cross.",
+   "subjects": [
+    "paleo-Hebrew",
+    "tav",
+    "cross",
+    "pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.44,
+    0.42,
+    0.52,
+    0.57
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "Letter evolution: the large ancient cross pictograph of tav over a dark red underline, an arrow, and the large black capital letter T.",
+   "subjects": [
+    "letter evolution",
+    "tav",
+    "cross",
+    "paleo-Hebrew",
+    "alphabet history",
+    "letter T"
+   ],
+   "text_in_picture": "T",
+   "credit": null,
+   "box": [
+    0.37,
+    0.7,
+    0.72,
+    0.93
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "cross"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria",
+   "covenant"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "tav",
+  "taw",
+  "Hebrew letter tav",
+  "covenant",
+  "cross",
+  "value 400",
+  "last letter",
+  "paleo-Hebrew",
+  "ancient Hebrew",
+  "pictograph",
+  "letter meanings",
+  "gematria 400",
+  "mark",
+  "letter T"
+ ],
+ "uncertain": [
+  "The three tav shapes at the top are different typefaces/styles; the slide gives no caption for them."
+ ],
+ "confidence": 0.94
+}

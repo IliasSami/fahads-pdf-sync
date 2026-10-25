@@ -1,0 +1,193 @@
+{
+ "id": "genesis-1-1-part-2/72",
+ "kinds": [
+  "verse",
+  "letters",
+  "word-study"
+ ],
+ "title": "Genesis 1:1 TRUTH: the first three words end in tav, alef, mem (emet)",
+ "summary": "Under the heading Genesis 1:1 TRUTH, the first three Hebrew words בראשית ברא אלהים have their last letters marked — tav (ת), alef (א) and mem (ם) — and pulled out below. The slide says these are the letters of emet (אמת), truth, but in chaos, quoting \"without form and void\" from Genesis 1:2.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "TRUTH"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים..."
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת א ם"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The first three words of the Bible end in"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "tav ת, alef א and mem (ם),"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "the letters of emet א מ ת truth, but in chaos."
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "osis": "Gen.1.2",
+   "text": "“without form and void”—Genesis 1:2"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 1:2",
+   "osis": [
+    "Gen.1.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אמת",
+   "translit": "emet",
+   "gloss": "truth",
+   "strongs": "H571"
+  },
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "tav",
+   "other": "ת"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "mem",
+   "other": "ם"
+  },
+  {
+   "en": "emet",
+   "other": "אמת"
+  },
+  {
+   "en": "truth",
+   "other": "אמת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last letter of בראשית"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "last letter of ברא"
+  },
+  {
+   "lang": "he",
+   "letter": "mem (final)",
+   "char": "ם",
+   "value": 40,
+   "meaning": "last letter of אלהים"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "the first three words of the Bible end in tav, alef and mem"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "truth",
+   "chaos",
+   "creation",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "emet",
+  "truth",
+  "אמת",
+  "Genesis 1:1",
+  "Genesis 1:2",
+  "tav alef mem",
+  "without form and void",
+  "tohu vavohu",
+  "first three words of the Bible",
+  "bereshit bara elohim",
+  "chaos",
+  "last letters",
+  "Hebrew word for truth",
+  "in the beginning"
+ ],
+ "uncertain": [],
+ "confidence": 0.94
+}

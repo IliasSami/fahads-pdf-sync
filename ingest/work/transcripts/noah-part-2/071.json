@@ -1,0 +1,71 @@
+{
+ "id": "noah-part-2/71",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 Peter 5:8 — your adversary the devil prowls like a roaring lion",
+ "summary": "1 Peter 5:8 in English with Greek reference header: be sober and alert, because the devil, your adversary, prowls around like a roaring lion seeking someone to devour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Peter 5:8",
+   "osis": "1Pet.5.8"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΠΕΤΡΟΥ Α 5:8"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "1Pet.5.8",
+   "text": "8 Be of sober spirit, be on the alert. Your adversary, the devil, prowls around like a roaring lion, seeking someone to devour."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Peter 5:8 / ΠΕΤΡΟΥ Α 5:8",
+   "osis": [
+    "1Pet.5.8"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Satan"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "lion"
+  ],
+  "themes": [
+   "spiritual warfare",
+   "sin"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "devil",
+  "adversary",
+  "roaring lion",
+  "seeking someone to devour",
+  "be sober be vigilant",
+  "be on the alert",
+  "1 Peter 5:8",
+  "Satan prowls",
+  "spiritual warfare",
+  "devour",
+  "prowls around"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

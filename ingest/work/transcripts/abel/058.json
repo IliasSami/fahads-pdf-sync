@@ -1,0 +1,36 @@
+{
+  "id": "abel/58",
+  "kinds": ["verse", "word-study", "gematria"],
+  "title": "Deuteronomy 21:17 — the right of the firstborn (bekor = 222)",
+  "summary": "Deuteronomy 21:17: a father must acknowledge the firstborn son of his unloved wife by giving him a double portion, for the right of the firstborn is his. “Firstborn” and “son” are in red, beside bekor (בכר) with its values 200, 20, 2 = 222.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Deuteronomy 21:17", "osis": "Deut.21.17"},
+    {"lang": "he", "role": "reference", "text": "דברים כא:יז", "osis": "Deut.21.17"},
+    {"lang": "en", "role": "verse", "text": "17 Instead, he must acknowledge the firstborn, the son of his unloved wife, by giving him a double portion of all that he has. For that son is the firstfruits of his father’s strength; the right of the firstborn belongs to him.", "osis": "Deut.21.17"},
+    {"lang": "translit", "role": "label", "text": "bekor"},
+    {"lang": "he", "role": "label", "text": "בכר"},
+    {"lang": "en", "role": "label", "text": "Firstborn"},
+    {"lang": "en", "role": "number", "text": "200 20 2 = 222"}
+  ],
+  "refs": [{"shown": "Deuteronomy 21:17 / דברים כא:יז", "osis": ["Deut.21.17"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "בכר", "translit": "bekor", "gloss": "firstborn", "strongs": "H1060", "gematria": {"method": "standard", "values": [200, 20, 2], "total": 222}}
+  ],
+  "color_links": [
+    {"en": "firstborn", "other": "ב"},
+    {"en": "son", "other": "ב"},
+    {"en": "b (bekor)", "other": "ב"},
+    {"en": "or (bekor)", "other": "ר"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "bet", "char": "ב", "value": 2, "meaning": ""},
+    {"lang": "he", "letter": "kaf", "char": "כ", "value": 20, "meaning": ""},
+    {"lang": "he", "letter": "resh", "char": "ר", "value": 200, "meaning": ""}
+  ],
+  "numbers": [{"value": 222, "note": "gematria of בכר (bekor, firstborn)"}],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": [], "things": ["double portion", "inheritance"], "themes": ["firstborn", "gematria", "inheritance", "Torah"], "groups": []},
+  "keywords": ["right of the firstborn", "birthright", "double portion", "firstborn son", "unloved wife", "son of the hated", "beginning of his strength", "firstfruits", "bekor", "gematria 222", "Deuteronomy 21", "Deuteronomy 21:17"],
+  "uncertain": [],
+  "confidence": 0.94
+}

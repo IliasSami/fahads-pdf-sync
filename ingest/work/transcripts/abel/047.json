@@ -1,0 +1,27 @@
+{
+  "id": "abel/47",
+  "kinds": ["verse"],
+  "title": "Genesis 4:3 — Cain brought an offering to the LORD (yahweh)",
+  "summary": "Genesis 4:3 in English and Hebrew: in the course of time Cain brought an offering to the LORD from the fruit of the ground. The divine name is written “yahweh”, with its y and w coloured to match the yod and vav of יהוה.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:3", "osis": "Gen.4.3"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ג", "osis": "Gen.4.3"},
+    {"lang": "en", "role": "verse", "text": "3 So it came about in the course of time that Cain brought an offering to the yahweh from the fruit of the ground.", "osis": "Gen.4.3"},
+    {"lang": "he", "role": "verse", "text": "3 ויהי מקץ ימים ויבא קין מפרי האדמה מנחה ליהוה׃", "osis": "Gen.4.3"}
+  ],
+  "refs": [{"shown": "Genesis 4:3 / בראשית ד:ג", "osis": ["Gen.4.3"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "יהוה", "translit": "yahweh", "gloss": "the LORD (God's personal name)", "strongs": "H3068"}
+  ],
+  "color_links": [
+    {"en": "y (yahweh)", "other": "י"},
+    {"en": "w (yahweh)", "other": "ו"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain"], "places": [], "events": ["Cain and Abel's offerings"], "things": ["offering", "fruit of the ground"], "themes": ["sacrifice", "offering", "names of God"], "groups": []},
+  "keywords": ["Cain's offering", "offering to the LORD", "fruit of the ground", "in process of time", "course of time", "minchah", "grain offering", "yahweh", "YHWH", "Cain and Abel", "Genesis 4", "Genesis 4:3"],
+  "uncertain": [],
+  "confidence": 0.95
+}

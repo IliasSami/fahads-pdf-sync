@@ -1,0 +1,129 @@
+{
+ "id": "genesis-1-1-wisdom/17",
+ "kinds": [
+  "verse",
+  "word-study",
+  "quote"
+ ],
+ "title": "Wisdom (chokmah) — a quote on wisdom coming with age",
+ "summary": "Psalm 49:3 with “wisdom” highlighted in gold, the word line Wisdom / chokmah / חכמה, and a new quotation at the bottom from a Fareed Zakaria interview saying that one thing that comes with age is some wisdom.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 49:3",
+   "osis": "Ps.49.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים מט:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Wisdom"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "chokmah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חכמה"
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "text": "“And I think, I, uh, there is one thing that comes with age, if you’re being honest about it your whole life, and that is some wisdom.”"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "— Joseph R. Biden, Fareed Zakaria Interview"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 49:3 / תהילים מט:ג",
+   "osis": [
+    "Ps.49.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חכמה",
+   "translit": "chokmah",
+   "gloss": "wisdom",
+   "strongs": "H2451"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "wisdom",
+   "other": "חכמות"
+  },
+  {
+   "en": "Wisdom",
+   "other": "חכמה"
+  },
+  {
+   "en": "chokmah",
+   "other": "חכמה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Joseph R. Biden",
+   "Fareed Zakaria"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "mouth",
+   "heart"
+  ],
+  "themes": [
+   "wisdom",
+   "understanding",
+   "old age"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "chokmah",
+  "chochmah",
+  "wisdom",
+  "wisdom comes with age",
+  "age and wisdom",
+  "Biden quote",
+  "Joseph Biden",
+  "Fareed Zakaria interview",
+  "Psalm 49:3",
+  "my mouth shall speak wisdom",
+  "Hebrew word for wisdom",
+  "quotation"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

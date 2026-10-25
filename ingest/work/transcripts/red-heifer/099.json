@@ -1,0 +1,59 @@
+{
+ "id": "red-heifer/99",
+ "kinds": [
+  "text"
+ ],
+ "title": "Rabbis forbid Jews from visiting the Temple Mount because they are unclean",
+ "summary": "Text slide adding a second line: rabbis forbid Jews from visiting the Temple Mount today, because they are unclean. Key words are colour-coded: Jews, Temple, unclean.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Religious Jews want to rebuild Temple."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Rabbis forbid Jews from visiting Temple Mount today,"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "because they are unclean."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Temple Mount"
+  ],
+  "events": [],
+  "things": [],
+  "themes": [
+   "clean and unclean",
+   "temple"
+  ],
+  "groups": [
+   "Jews",
+   "rabbis"
+  ]
+ },
+ "keywords": [
+  "Temple Mount",
+  "rabbis forbid",
+  "Jews cannot visit Temple Mount",
+  "unclean",
+  "ritual uncleanness",
+  "rebuild the Temple",
+  "religious Jews",
+  "Red Heifer"
+ ],
+ "uncertain": [],
+ "confidence": 0.99
+}

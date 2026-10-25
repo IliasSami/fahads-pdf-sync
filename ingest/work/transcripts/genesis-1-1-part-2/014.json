@@ -1,0 +1,171 @@
+{
+ "id": "genesis-1-1-part-2/14",
+ "kinds": [
+  "word-study",
+  "list"
+ ],
+ "title": "Torah book 4 Numbers (Bamidbar) and book 5 Deuteronomy (Devarim)",
+ "summary": "Under the heading Torah, with Genesis 1:1 (first verse) and Deuteronomy 34:12 (last verse) at the top, the slide gives Book 4, Numbers = Bamidbar, \"In the Wilderness\", and Book 5, Deuteronomy = Devarim, \"These are His Words\", each in matching colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Torah"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Deuteronomy 34:12",
+   "osis": "Deut.34.12"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "דברים לד:י"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "4 Numbers"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "5 Deuteronomy"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "במדבר"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "דברים"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bamidbar"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "devarim"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "In the Wilderness"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "These are His Words"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Deuteronomy 34:12 / דברים לד:י",
+   "osis": [
+    "Deut.34.12"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "במדבר",
+   "translit": "bamidbar",
+   "gloss": "in the wilderness (Hebrew name of Numbers)",
+   "strongs": "H4057"
+  },
+  {
+   "lang": "he",
+   "word": "דברים",
+   "translit": "devarim",
+   "gloss": "words (Hebrew name of Deuteronomy)",
+   "strongs": "H1697"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Numbers",
+   "other": "במדבר"
+  },
+  {
+   "en": "In the Wilderness",
+   "other": "במדבר"
+  },
+  {
+   "en": "Deuteronomy",
+   "other": "דברים"
+  },
+  {
+   "en": "These are His Words",
+   "other": "דברים"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 4,
+   "note": "Numbers is book 4 of the Torah"
+  },
+  {
+   "value": 5,
+   "note": "Deuteronomy is book 5 of the Torah"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "Torah"
+  ],
+  "themes": [
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Torah",
+  "Pentateuch",
+  "five books of Moses",
+  "Numbers",
+  "Bamidbar",
+  "Bemidbar",
+  "Deuteronomy",
+  "Devarim",
+  "In the Wilderness",
+  "These are His Words",
+  "Hebrew names of the Bible books",
+  "Genesis 1:1",
+  "Deuteronomy 34:12"
+ ],
+ "uncertain": [
+  "Hebrew reference for Deuteronomy 34:12 is shown as דברים לד:י (ends with yod = 10), transcribed as shown even though the verse is 12."
+ ],
+ "confidence": 0.96
+}

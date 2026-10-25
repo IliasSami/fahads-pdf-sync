@@ -1,0 +1,263 @@
+{
+ "id": "genesis-1-1-part-2/96",
+ "kinds": [
+  "title",
+  "diagram"
+ ],
+ "title": "Star of David (mogen david): number of objects needed to form one",
+ "summary": "Heading 'Number of objects needed to form a mogen david (מגן דוד) Star of David', followed by six six-pointed stars each built from small stars: 13 (red), 37 (blue), 73 (yellow), 121 (multicoloured), 337 (green) and 541 (light blue).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Number of objects needed to form a"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "mogen david"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "מגן דוד"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Star of David"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "13"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "37"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "73"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "121"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "337"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "541"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "מגן דוד",
+   "translit": "mogen david",
+   "gloss": "Star of David (shield of David)",
+   "strongs": "H4043"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "mogen",
+   "other": "מגן"
+  },
+  {
+   "en": "david",
+   "other": "דוד"
+  },
+  {
+   "en": "David",
+   "other": "דוד"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 13,
+   "note": "objects in the smallest Star of David"
+  },
+  {
+   "value": 37,
+   "note": "objects in the second Star of David"
+  },
+  {
+   "value": 73,
+   "note": "objects in the third Star of David"
+  },
+  {
+   "value": 121,
+   "note": "objects in the fourth Star of David"
+  },
+  {
+   "value": 337,
+   "note": "objects in the fifth Star of David"
+  },
+  {
+   "value": 541,
+   "note": "objects in the sixth Star of David"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A small red six-pointed star made of 13 tiny stars (top-left of the grid of six).",
+   "subjects": [
+    "Star of David",
+    "hexagram",
+    "13",
+    "red stars",
+    "dot pattern"
+   ],
+   "text_in_picture": "13",
+   "credit": null,
+   "box": [
+    0.22,
+    0.21,
+    0.32,
+    0.4
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "A blue six-pointed Star of David made of 37 tiny stars.",
+   "subjects": [
+    "Star of David",
+    "hexagram",
+    "37",
+    "blue stars",
+    "dot pattern"
+   ],
+   "text_in_picture": "37",
+   "credit": null,
+   "box": [
+    0.44,
+    0.21,
+    0.57,
+    0.46
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "A yellow six-pointed Star of David made of 73 tiny stars.",
+   "subjects": [
+    "Star of David",
+    "hexagram",
+    "73",
+    "yellow stars",
+    "dot pattern"
+   ],
+   "text_in_picture": "73",
+   "credit": null,
+   "box": [
+    0.68,
+    0.21,
+    0.83,
+    0.5
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "A six-pointed Star of David made of 121 tiny stars in coloured layers (grey, gold, blue, red).",
+   "subjects": [
+    "Star of David",
+    "hexagram",
+    "121",
+    "multicoloured stars",
+    "dot pattern"
+   ],
+   "text_in_picture": "121",
+   "credit": null,
+   "box": [
+    0.18,
+    0.48,
+    0.36,
+    0.86
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "A green six-pointed Star of David made of 337 tiny stars.",
+   "subjects": [
+    "Star of David",
+    "hexagram",
+    "337",
+    "green stars",
+    "dot pattern"
+   ],
+   "text_in_picture": "337",
+   "credit": null,
+   "box": [
+    0.41,
+    0.52,
+    0.59,
+    0.9
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "A large light-blue six-pointed Star of David made of 541 tiny stars.",
+   "subjects": [
+    "Star of David",
+    "hexagram",
+    "541",
+    "light blue stars",
+    "dot pattern"
+   ],
+   "text_in_picture": "541",
+   "credit": null,
+   "box": [
+    0.66,
+    0.53,
+    0.86,
+    0.96
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "David"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "Star of David"
+  ],
+  "themes": [
+   "numbers in Scripture"
+  ],
+  "groups": [
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "Star of David",
+  "mogen david",
+  "magen david",
+  "shield of David",
+  "hexagram",
+  "six-pointed star",
+  "13",
+  "37",
+  "73",
+  "121",
+  "337",
+  "541",
+  "star numbers",
+  "number pattern",
+  "Hebrew star"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

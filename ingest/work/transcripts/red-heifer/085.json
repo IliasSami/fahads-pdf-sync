@@ -1,0 +1,77 @@
+{
+ "id": "red-heifer/85",
+ "kinds": [
+  "list",
+  "text"
+ ],
+ "title": "A Paradox — four people who become clean or unclean",
+ "summary": "Under the heading 'A Paradox', four colour-coded statements: the clean priest who does the sacrifice, the clean man who gathers the ashes and the clean man who sprinkles the water each become unclean, while the unclean man who is sprinkled becomes clean.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "A Paradox"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "The clean priest who does the sacrifice becomes unclean."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "The clean man who gathers the ashes becomes unclean."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "The clean man who sprinkles the water becomes unclean."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "The unclean man who is sprinkled becomes clean."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "ashes",
+   "water",
+   "red heifer"
+  ],
+  "themes": [
+   "clean and unclean",
+   "purification",
+   "sacrifice",
+   "paradox"
+  ],
+  "groups": [
+   "priests"
+  ]
+ },
+ "keywords": [
+  "paradox",
+  "red heifer paradox",
+  "clean becomes unclean",
+  "unclean becomes clean",
+  "priest becomes unclean",
+  "gathers the ashes",
+  "sprinkles the water",
+  "water of purification",
+  "water of separation",
+  "ritual purity",
+  "Numbers 19",
+  "tahor tamei"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

@@ -1,0 +1,202 @@
+{
+ "id": "genesis-1-1-wisdom/34",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "The Torah (תורה) and the heart (לב)",
+ "summary": "The slide replaces bereshit and yisrael with the colour-coded word torah (תורה) beside a large red heart; below, lev (לב, Heart) with the red ב and brown ל. The headings \"First Word of the torah\" and \"Last Word of the torah\" remain above.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 49:3",
+   "osis": "Ps.49.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים מט:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "First Word of the torah"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Last Word of the torah"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "torah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תורה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "lev"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "לב"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Heart"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 49:3 / תהילים מט:ג",
+   "osis": [
+    "Ps.49.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תורה",
+   "translit": "torah",
+   "gloss": "Torah, instruction, law",
+   "strongs": "H8451"
+  },
+  {
+   "lang": "he",
+   "word": "לב",
+   "translit": "lev",
+   "gloss": "heart",
+   "strongs": "H3820"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "t",
+   "other": "ת"
+  },
+  {
+   "en": "o",
+   "other": "ו"
+  },
+  {
+   "en": "r",
+   "other": "ר"
+  },
+  {
+   "en": "ah",
+   "other": "ה"
+  },
+  {
+   "en": "torah",
+   "other": "תורה"
+  },
+  {
+   "en": "lev",
+   "other": "לב"
+  },
+  {
+   "en": "Heart",
+   "other": "לב"
+  },
+  {
+   "en": "heart",
+   "other": "לב"
+  },
+  {
+   "en": "my",
+   "other": "י"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "red letter of לב (1st letter of the Torah)"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "brown letter of לב (last letter of the Torah)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "symbol",
+   "description": "A large solid red heart shape in the centre of the slide between the English word torah and the Hebrew word תורה, above the word lev (heart).",
+   "subjects": [
+    "heart",
+    "red heart",
+    "symbol",
+    "love"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.43,
+    0.59,
+    0.57,
+    0.83
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "Torah",
+   "heart"
+  ],
+  "themes": [
+   "Torah",
+   "Hebrew letter meanings",
+   "wisdom",
+   "understanding"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "torah",
+  "Torah heart",
+  "heart of the Torah",
+  "lev",
+  "heart",
+  "תורה",
+  "law",
+  "instruction",
+  "first and last letters of the Torah",
+  "red heart",
+  "Psalm 49:3"
+ ],
+ "uncertain": [
+  "The headings still read First Word / Last Word of the torah although the words shown are now torah and lev; the slide gives no further explanation."
+ ],
+ "confidence": 0.9
+}

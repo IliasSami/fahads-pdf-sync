@@ -1,0 +1,105 @@
+{
+ "id": "noah-part-2/44",
+ "kinds": [
+  "verse",
+  "timeline"
+ ],
+ "title": "Genesis 8:5 — 7/17 to 10/1 is 73 days",
+ "summary": "Genesis 8:5 in English with the timeline 7/17 (Ark rests) to 10/1 (Mountains visible), and the result '73 days' in large type.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:5",
+   "osis": "Gen.8.5"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:ה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.5",
+   "text": "5 The water decreased steadily until the tenth month; in the tenth month, on the first day of the month, the tops of the mountains became visible."
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "7 / 17 — 10 / 1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Ark rests"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Mountains visible"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "73 days"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:5 / בראשית ח:ה",
+   "osis": [
+    "Gen.8.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 73,
+   "note": "days from 7/17 (ark rests) to 10/1 (mountains visible)"
+  },
+  {
+   "value": 17,
+   "note": "17th day of the seventh month"
+  },
+  {
+   "value": 1,
+   "note": "first day of the tenth month"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "Hebrew calendar",
+   "Flood chronology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 8",
+  "73 days",
+  "7/17",
+  "10/1",
+  "ark rests",
+  "mountains visible",
+  "tops of the mountains",
+  "tenth month first day",
+  "flood timeline",
+  "Hebrew months",
+  "days between dates"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

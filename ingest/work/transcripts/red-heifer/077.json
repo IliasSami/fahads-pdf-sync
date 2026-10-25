@@ -1,0 +1,101 @@
+{
+ "id": "red-heifer/77",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Numbers 19:14-16 — death in a tent, open vessels, open field: unclean seven days",
+ "summary": "Numbers 19:14-16 in English: the law when a man dies in a tent — all who enter or are in the tent, and every open vessel without a fastened cover, are unclean; so is anyone in the open field who touches one slain by a sword, a corpse, a human bone or a grave. The word 'unclean' is colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:14-16",
+   "osis": [
+    "Num.19.14",
+    "Num.19.15",
+    "Num.19.16"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:יד-יו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.14",
+   "text": "14 ‘This is the law when a man dies in a tent: All who come into the tent and all who are in the tent shall be unclean seven days;"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.15",
+   "text": "15 and every open vessel, which has no cover fastened on it, is unclean."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.16",
+   "text": "16 Whoever in the open field touches one who is slain by a sword or who has died, or a bone of a man, or a grave, shall be unclean seven days."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19:14-16 / במדבר יט:יד-יו",
+   "osis": [
+    "Num.19.14",
+    "Num.19.15",
+    "Num.19.16"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "seven days unclean (verses 14 and 16)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "tent",
+   "open vessel",
+   "grave",
+   "bone",
+   "sword"
+  ],
+  "themes": [
+   "clean and unclean",
+   "death",
+   "purification",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Numbers 19",
+  "man dies in a tent",
+  "open vessel no cover",
+  "unclean seven days",
+  "touches a grave",
+  "bone of a man",
+  "slain with a sword",
+  "open field",
+  "corpse uncleanness",
+  "tent of death",
+  "covered vessel",
+  "law of the tent"
+ ],
+ "uncertain": [
+  "Hebrew reference header shows the verse range as יד-יו (as printed on the slide)"
+ ],
+ "confidence": 0.97
+}

@@ -1,0 +1,72 @@
+{
+ "id": "akeda-2/33",
+ "kinds": [
+  "list"
+ ],
+ "title": "Rabbinical Judaism replaced blood sacrifices with repentance steps",
+ "summary": "List of what rabbinical Judaism put in place of blood sacrifices; this slide shows four steps, adding acting and speaking with humility.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Rabbinical Judaism Replaced Blood Sacrifices with:"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Regret/Acknowledge the sin;"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Forsake the sin"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Worry about the future consequences of the sin;"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Act and speak with humility;"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "sacrifice",
+   "blood",
+   "atonement",
+   "repentance",
+   "sin"
+  ],
+  "groups": [
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "rabbinical Judaism",
+  "blood sacrifices",
+  "replaced sacrifices",
+  "repentance",
+  "teshuva",
+  "regret",
+  "acknowledge the sin",
+  "forsake the sin",
+  "humility",
+  "atonement without sacrifice",
+  "consequences of sin"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

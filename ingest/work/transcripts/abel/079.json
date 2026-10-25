@@ -1,0 +1,179 @@
+{
+  "id": "abel/79",
+  "kinds": [
+    "verse",
+    "text"
+  ],
+  "title": "Genesis 4:7 — “His [Abel’s] desire is for you, but you should rule over him [Abel]”",
+  "summary": "Genesis 4:7 (his desire … rule over him) with a large restatement that inserts Abel’s name in brackets: His [Abel’s] desire is for you, but you should rule over him [Abel]. This reads the masculine pronouns as referring to Abel.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:7",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:ז",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "7 If you do well, will you not be accepted?",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "And if you do not do well, sin lies at the door.",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "And his desire is for you, but you should rule over him.”",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "7 הלוא אם תיטיב שאת",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ואם לא תיטיב לפתח חטאת רבץ",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ואליך תשוקתו ואתה תמשל בו׃",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "body",
+      "text": "His [Abel’s] desire is for you,"
+    },
+    {
+      "lang": "en",
+      "role": "body",
+      "text": "but you should rule over him [Abel]."
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:7 / בראשית ד:ז",
+      "osis": [
+        "Gen.4.7"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "חטאה",
+      "translit": "chattah",
+      "gloss": "sin",
+      "strongs": "H2403"
+    },
+    {
+      "lang": "he",
+      "word": "חטאת",
+      "translit": "chattat",
+      "gloss": "sin (as in the verse)",
+      "strongs": "H2403"
+    },
+    {
+      "lang": "he",
+      "word": "תשוקתו",
+      "translit": "teshuqato",
+      "gloss": "his/its desire",
+      "strongs": "H8669"
+    },
+    {
+      "lang": "he",
+      "word": "בו",
+      "translit": "bo",
+      "gloss": "over him / over it",
+      "strongs": null
+    }
+  ],
+  "color_links": [
+    {
+      "en": "sin",
+      "other": "חטאת"
+    },
+    {
+      "en": "chattah",
+      "other": "חטאה"
+    },
+    {
+      "en": "Sin",
+      "other": "חטאה"
+    },
+    {
+      "en": "desire",
+      "other": "תשוק"
+    },
+    {
+      "en": "his",
+      "other": "תו"
+    },
+    {
+      "en": "him",
+      "other": "בו"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Cain",
+      "Abel",
+      "God"
+    ],
+    "places": [],
+    "events": [
+      "Cain and Abel's offerings"
+    ],
+    "things": [
+      "door"
+    ],
+    "themes": [
+      "sin",
+      "obedience",
+      "firstborn"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "if you do well",
+    "shalt thou not be accepted",
+    "sin lieth at the door",
+    "sin lies at the door",
+    "its desire is for you",
+    "unto thee shall be his desire",
+    "thou shalt rule over him",
+    "rule over it",
+    "Genesis 4:7",
+    "Cain and Abel",
+    "Genesis 4",
+    "Abel's desire",
+    "rule over Abel",
+    "his desire is for you",
+    "firstborn rule",
+    "Cain rule over Abel",
+    "Abel desire for Cain",
+    "interpretation Genesis 4:7"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

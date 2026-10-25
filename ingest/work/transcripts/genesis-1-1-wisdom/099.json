@@ -1,0 +1,84 @@
+{
+ "id": "genesis-1-1-wisdom/99",
+ "kinds": [
+  "gematria",
+  "word-study"
+ ],
+ "title": "73 x 37 with “Thirty” (sheloshim, שלושים)",
+ "summary": "The 73 x 37 slide with a first word added at upper right: Thirty, its transliteration sheloshim, and the Hebrew שלושים in several colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "73 x 37"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Thirty"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "sheloshim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שלושים"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שלושים",
+   "translit": "sheloshim",
+   "gloss": "thirty",
+   "strongs": "H7970"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 73,
+   "note": "first number in the product 73 x 37"
+  },
+  {
+   "value": 37,
+   "note": "second number in the product 73 x 37"
+  },
+  {
+   "value": 30,
+   "note": "Thirty (sheloshim)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "73 x 37",
+  "thirty",
+  "sheloshim",
+  "שלושים",
+  "thirty-seven",
+  "seventy-three",
+  "73 times 37",
+  "number words in Hebrew",
+  "2701",
+  "gematria numbers"
+ ],
+ "uncertain": [
+  "The PDF text layer of this slide also lists v'shalosh, shibim, pa'amim, v'sheba (ושבע, ושלוש, פעמים, שבעים) and 'and Three', 'Seventy', 'Times', 'and Seven', but they are not visible in the slide image (likely later animation steps)"
+ ],
+ "confidence": 0.9
+}

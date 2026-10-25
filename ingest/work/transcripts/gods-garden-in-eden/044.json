@@ -1,0 +1,94 @@
+{
+ "id": "gods-garden-in-eden/44",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Numbers 11:4-6 — the rabble craves meat and the foods of Egypt",
+ "summary": "Numbers 11:4-6 in English with its Hebrew reference: the rabble among Israel had greedy desires, and the sons of Israel wept, remembering the fish, cucumbers, melons, leeks, onions and garlic they ate in Egypt and saying there was nothing to look at except the manna.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 11:4-6",
+   "osis": [
+    "Num.11.4",
+    "Num.11.5",
+    "Num.11.6"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יא:ד-ו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": [
+    "Num.11.4",
+    "Num.11.5",
+    "Num.11.6"
+   ],
+   "text": "4 The rabble who were among them had greedy desires; and also the sons of Israel wept again and said, “Who will give us meat to eat? 5 “We remember the fish which we used to eat free in Egypt, the cucumbers and the melons and the leeks and the onions and the garlic, 6 but now our appetite is gone. There is nothing at all to look at except this manna.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 11:4-6 / במדבר יא:ד-ו",
+   "osis": [
+    "Num.11.4",
+    "Num.11.5",
+    "Num.11.6"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Egypt"
+  ],
+  "events": [],
+  "things": [
+   "manna",
+   "fish",
+   "cucumbers",
+   "melons",
+   "leeks",
+   "onions",
+   "garlic",
+   "meat"
+  ],
+  "themes": [
+   "complaining",
+   "desire"
+  ],
+  "groups": [
+   "Israel",
+   "rabble"
+  ]
+ },
+ "keywords": [
+  "rabble",
+  "mixed multitude",
+  "greedy desires",
+  "lusted",
+  "who will give us meat",
+  "fish in Egypt",
+  "cucumbers melons leeks onions garlic",
+  "manna",
+  "appetite is gone",
+  "Israel complained in the wilderness",
+  "Numbers 11",
+  "Numbers 11:4",
+  "Egyptian food",
+  "wept"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

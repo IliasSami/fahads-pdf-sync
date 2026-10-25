@@ -1,0 +1,92 @@
+{
+ "id": "fall-of-man/60",
+ "kinds": [
+  "word-study"
+ ],
+ "title": "derek (דרך) — “Way”: from where we get Direction",
+ "summary": "The same word-study slide with one more line added: the Hebrew word דרך (derek, “Way”) is the source of the English word “Direction,” shown in large red letters.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "derek"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "דרך"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Way"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "from where we get…"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Direction"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "דרך",
+   "translit": "derek",
+   "gloss": "way",
+   "strongs": "H1870"
+  },
+  {
+   "lang": "en",
+   "word": "Direction",
+   "translit": "",
+   "gloss": "English word the teacher links to derek (way)",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "derek",
+   "other": "דרך"
+  },
+  {
+   "en": "Way",
+   "other": "דרך"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "the way",
+   "Hebrew word study"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "derek",
+  "derech",
+  "the Way",
+  "direction",
+  "way",
+  "road",
+  "path",
+  "דרך",
+  "Hebrew word for way",
+  "word study",
+  "Strong's H1870",
+  "from where we get direction"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

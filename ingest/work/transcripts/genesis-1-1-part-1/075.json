@@ -1,0 +1,168 @@
+{
+ "id": "genesis-1-1-part-1/75",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:1: the three nouns (God, Heavens, Earth) total 14 letters",
+ "summary": "Genesis 1:1 in English and colour-coded Hebrew, then the three nouns picked out — אלהים (God), השמים (Heavens) and הארץ (Earth) — with the note that together they make 14 letters.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "In the beginning God created the heavens and the earth.",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "In beginning · created · God · (et) · the skywaters · and (et) · the earth"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Nouns = 14 letters"
+  },
+  {
+   "lang": "he",
+   "role": "body",
+   "text": "אלהים השמים הארץ"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "God · Heavens · Earth"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens (the skywaters)",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha’aretz",
+   "gloss": "the earth",
+   "strongs": "H776"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "(et)",
+   "other": "את"
+  },
+  {
+   "en": "the skywaters",
+   "other": "השמים"
+  },
+  {
+   "en": "and (et)",
+   "other": "ואת"
+  },
+  {
+   "en": "the earth",
+   "other": "הארץ"
+  },
+  {
+   "en": "Heavens",
+   "other": "השמים"
+  },
+  {
+   "en": "Earth",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 14,
+   "note": "letters in the three nouns of Genesis 1:1 (אלהים 5 + השמים 5 + הארץ 4)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "heavens",
+   "earth"
+  ],
+  "themes": [
+   "creation",
+   "gematria",
+   "Bible codes"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "the nouns",
+  "God heavens earth",
+  "14 letters",
+  "elohim",
+  "hashamayim",
+  "haaretz",
+  "Hebrew nouns",
+  "letter count",
+  "In the beginning",
+  "creation",
+  "skywaters",
+  "Bible numbers"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

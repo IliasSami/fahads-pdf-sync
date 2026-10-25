@@ -1,0 +1,94 @@
+{
+ "id": "red-heifer/114",
+ "kinds": [
+  "text",
+  "quote"
+ ],
+ "title": "Red heifer as the response to the sin of the Golden Calf",
+ "summary": "Text slide explaining that the red heifer is a response for the sin of the Golden Calf: the idol was burned, pulverized and its powder drunk in water, and the red heifer's ashes mixed with water purify Israel; red is the colour of sin, alluded to in Isaiah 1:18 ('Though your sins be like scarlet, they shall be white as snow').",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Red Heifer → response for the sin of the Golden Calf."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The idol was burned and pulverized. This powder was poured into water and the Israelites were forced to drink it. Also of note are the continual references to burning the red cow, since the Golden Calf was not sacrificed but burned."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "It is the powdered form of the Red Heifer, the ashes, that is mixed with water to purify the children of Israel."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "And red is the color of sin is as alluded to in Isaiah 1:18"
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "osis": "Isa.1.18",
+   "text": "“Though your sins be like scarlet, they shall be white as snow"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Isaiah 1:18",
+   "osis": [
+    "Isa.1.18"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Golden Calf"
+  ],
+  "things": [
+   "red heifer",
+   "golden calf",
+   "ashes",
+   "water"
+  ],
+  "themes": [
+   "sin",
+   "purification",
+   "atonement",
+   "typology",
+   "idolatry"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "red heifer",
+  "golden calf",
+  "response for sin",
+  "ashes mixed with water",
+  "purify Israel",
+  "red is the colour of sin",
+  "scarlet",
+  "white as snow",
+  "Isaiah 1:18",
+  "idol burned",
+  "pulverized",
+  "red cow",
+  "burning the red heifer",
+  "water of purification"
+ ],
+ "uncertain": [
+  "The Isaiah 1:18 quotation on the slide begins with an opening quotation mark and has no closing mark; the quoted text is cut after 'white as snow'."
+ ],
+ "confidence": 0.97
+}

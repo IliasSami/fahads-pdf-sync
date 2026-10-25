@@ -1,0 +1,59 @@
+{
+ "id": "akeda-2/112",
+ "kinds": [
+  "text"
+ ],
+ "title": "Isaac trusts his father by allowing himself to be tied up to be sacrificed",
+ "summary": "A single statement: Isaac trusts his father by allowing himself to be tied up to be sacrificed. \"Isaac\" is in red and \"father\" in blue.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Isaac trusts his father"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "by allowing himself to be tied up to be sacrificed."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Isaac",
+   "Abraham"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [],
+  "themes": [
+   "faith",
+   "obedience",
+   "sacrifice",
+   "trust"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Isaac trusts his father",
+  "Isaac tied up",
+  "Isaac bound",
+  "Akedah",
+  "Akeda",
+  "binding of Isaac",
+  "Isaac willing sacrifice",
+  "trust",
+  "Abraham and Isaac",
+  "Genesis 22",
+  "obedient son"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

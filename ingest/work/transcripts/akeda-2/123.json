@@ -1,0 +1,99 @@
+{
+  "id": "akeda-2/123",
+  "kinds": [
+    "verse"
+  ],
+  "title": "Did Abraham truly love Isaac? Genesis 24:3-4 — a wife for my son Isaac",
+  "summary": "Genesis 24:3–4: Abraham makes his servant swear by the LORD not to take a wife for Isaac from the Canaanites but to go to Abraham's own country and relatives — shown as evidence of Abraham's care for his son. “you” (the servant), “I/my” (Abraham) and “son Isaac” are highlighted in different colours.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Did Abraham truly love Isaac?"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 24:3-4",
+      "osis": [
+        "Gen.24.3",
+        "Gen.24.4"
+      ]
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית כד:ג-ד",
+      "osis": [
+        "Gen.24.3",
+        "Gen.24.4"
+      ]
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "3 and I will make you swear by the LORD, the God of heaven and the God of earth, that you shall not take a wife for my son from the daughters of the Canaanites, among whom I live,",
+      "osis": "Gen.24.3"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "4 but you will go to my country and to my relatives, and take a wife for my son Isaac.”",
+      "osis": "Gen.24.4"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 24:3-4 / בראשית כד:ג-ד",
+      "osis": [
+        "Gen.24.3",
+        "Gen.24.4"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Abraham",
+      "Isaac",
+      "God"
+    ],
+    "places": [
+      "Canaan"
+    ],
+    "events": [
+      "Finding a bride for Isaac"
+    ],
+    "things": [
+      "oath"
+    ],
+    "themes": [
+      "marriage",
+      "love",
+      "father and son"
+    ],
+    "groups": [
+      "Canaanites"
+    ]
+  },
+  "keywords": [
+    "Did Abraham love Isaac",
+    "wife for Isaac",
+    "bride for Isaac",
+    "Abraham's servant",
+    "swear by the LORD",
+    "God of heaven and earth",
+    "daughters of the Canaanites",
+    "my country and my kindred",
+    "Rebekah",
+    "Genesis 24",
+    "marriage"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

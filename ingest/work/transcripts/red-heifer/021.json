@@ -1,0 +1,104 @@
+{
+ "id": "red-heifer/21",
+ "kinds": [
+  "title",
+  "word-study"
+ ],
+ "title": "Torah Portion of the Week (parashat hashavua)",
+ "summary": "Title-style slide explaining the weekly Torah portion, parashat hashavua (Hebrew פרשת השבוע): the Torah has been divided into 54 sections. The word 'torah' is shown in graded colours and 'Week' / shavua / שבוע in yellow.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "torah Portion of the Week"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "parashat hashavua"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "פרשת השבוע"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The torah has been divided into 54 sections."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "פרשת השבוע",
+   "translit": "parashat hashavua",
+   "gloss": "portion of the week",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "שבוע",
+   "translit": "shavua",
+   "gloss": "week",
+   "strongs": "H7620",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "תורה",
+   "translit": "torah",
+   "gloss": "instruction, law",
+   "strongs": "H8451",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Week",
+   "other": "שבוע"
+  },
+  {
+   "en": "shavua",
+   "other": "שבוע"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 54,
+   "note": "number of sections (parashot) the Torah is divided into"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "Torah portions"
+  ],
+  "themes": [
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "parashat hashavua",
+  "weekly Torah portion",
+  "Torah portion of the week",
+  "parashah",
+  "parsha",
+  "parasha",
+  "54 sections",
+  "Torah reading cycle",
+  "פרשת השבוע",
+  "shavua",
+  "Sabbath reading",
+  "torah divided into 54"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

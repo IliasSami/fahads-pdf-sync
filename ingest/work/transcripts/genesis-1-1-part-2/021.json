@@ -1,0 +1,180 @@
+{
+ "id": "genesis-1-1-part-2/21",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "First and last letters of the torah spell lev, Heart: the torah is the Heart of God",
+ "summary": "The first and last letters of the torah (ב bet and ל lamed) spell לב, lev, meaning Heart, shown with a red heart symbol; the slide concludes that the torah (תורה) is the Heart of God. A blue א sits above the word First and a dark-red ת above the word Last.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The First and Last letters of the torah spell:"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "לב"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "lev"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Heart"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The torah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תורה"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "is the Heart of God"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "לב",
+   "translit": "lev",
+   "gloss": "heart",
+   "strongs": "H3820"
+  },
+  {
+   "lang": "he",
+   "word": "תורה",
+   "translit": "torah",
+   "gloss": "instruction, law",
+   "strongs": "H8451"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "First",
+   "other": "א"
+  },
+  {
+   "en": "Last",
+   "other": "ת"
+  },
+  {
+   "en": "lev",
+   "other": "לב"
+  },
+  {
+   "en": "Heart",
+   "other": "לב"
+  },
+  {
+   "en": "torah",
+   "other": "תורה"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "first letter of the torah; with lamed spells lev, heart"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "last letter of the torah; with bet spells lev, heart"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "shown in blue above the word First"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "shown in dark red above the word Last"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "symbol",
+   "description": "A solid red heart symbol placed between the Hebrew word לב and its transliteration lev.",
+   "subjects": [
+    "heart",
+    "red heart",
+    "love symbol",
+    "lev"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.47,
+    0.3,
+    0.54,
+    0.41
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "Torah",
+   "heart"
+  ],
+  "themes": [
+   "Torah",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "lev",
+  "heart",
+  "Hebrew word for heart",
+  "heart of God",
+  "the torah is the Heart of God",
+  "first and last letters of the torah",
+  "bet lamed",
+  "lamed bet",
+  "lev heart Hebrew",
+  "Torah",
+  "first letter last letter",
+  "alef tav"
+ ],
+ "uncertain": [
+  "The blue alef (א) above 'First' and the dark-red tav (ת) above 'Last' are shown without any explanation on this slide."
+ ],
+ "confidence": 0.94
+}

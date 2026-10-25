@@ -1,0 +1,39 @@
+{
+  "id": "fall-of-man/43",
+  "kinds": ["gematria", "word-study", "comparison"],
+  "title": "Gematria of Light (אור = 207) and Skin (עור = 276)",
+  "summary": "Adds up the letter values of the two words pronounced “ore”: light, אור (resh 200 + vav 6 + alef 1 = 207), and skin, עור (resh 200 + vav 6 + ayin 70 = 276).",
+  "text": [
+    {"lang": "translit", "role": "label", "text": "ore"},
+    {"lang": "he", "role": "label", "text": "א ו ר"},
+    {"lang": "en", "role": "label", "text": "Light"},
+    {"lang": "translit", "role": "label", "text": "resh vav alef"},
+    {"lang": "en", "role": "number", "text": "200 6 1 = 207"},
+    {"lang": "translit", "role": "label", "text": "ore"},
+    {"lang": "he", "role": "label", "text": "ע ו ר"},
+    {"lang": "en", "role": "label", "text": "Skin"},
+    {"lang": "translit", "role": "label", "text": "resh vav ayin"},
+    {"lang": "en", "role": "number", "text": "200 6 70 = 276"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "אור", "translit": "ore", "gloss": "light", "strongs": "H216", "gematria": {"method": "standard", "values": [200, 6, 1], "total": 207}},
+    {"lang": "he", "word": "עור", "translit": "ore", "gloss": "skin", "strongs": "H5785", "gematria": {"method": "standard", "values": [200, 6, 70], "total": 276}}
+  ],
+  "color_links": [
+    {"en": "resh", "other": "ר"},
+    {"en": "vav", "other": "ו"},
+    {"en": "alef", "other": "א"},
+    {"en": "ayin", "other": "ע"}
+  ],
+  "letters": [],
+  "numbers": [
+    {"value": 207, "note": "gematria of אור (light)"},
+    {"value": 276, "note": "gematria of עור (skin)"}
+  ],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": ["Fall of Man"], "things": ["light", "skin"], "themes": ["gematria", "Hebrew wordplay"], "groups": []},
+  "keywords": ["gematria", "light 207", "skin 276", "number value of light", "Hebrew numbers", "resh", "vav", "alef", "aleph", "ayin", "garments of light", "garments of skin", "ore", "or", "ohr"],
+  "uncertain": [],
+  "confidence": 0.96
+}

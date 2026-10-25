@@ -1,0 +1,28 @@
+{
+  "id": "akeda-1/49",
+  "kinds": ["verse", "comparison"],
+  "title": "Only Son: Genesis 22:2 and John 3:16",
+  "summary": "Places Genesis 22:2 (Abraham told to offer his only son Isaac) above John 3:16 (God gave His only begotten Son), linked by the heading “Only Son.”",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22:2", "osis": "Gen.22.2"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב:ב"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.2", "text": "2 He said, “Take now your son, your only son, whom you love, Isaac, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I will tell you.”"},
+    {"lang": "en", "role": "heading", "text": "Only Son"},
+    {"lang": "en", "role": "reference", "text": "John 3:16", "osis": "John.3.16"},
+    {"lang": "el", "role": "reference", "text": "Ἰωάνης 3:16"},
+    {"lang": "en", "role": "verse", "osis": "John.3.16", "text": "16 “For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life."}
+  ],
+  "refs": [
+    {"shown": "Genesis 22:2 / בראשית כב:ב", "osis": ["Gen.22.2"], "role": "quoted"},
+    {"shown": "John 3:16 / Ἰωάνης 3:16", "osis": ["John.3.16"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham", "Isaac", "Jesus"], "places": ["Moriah"], "events": ["Binding of Isaac (Akedah)"], "things": ["burnt offering"], "themes": ["only son", "typology", "sacrifice", "love", "father and son", "eternal life"], "groups": []},
+  "keywords": ["only son", "only begotten Son", "John 3:16", "For God so loved the world", "Isaac and Jesus", "Isaac as a type of Christ", "Genesis 22", "Akedah", "eternal life", "father gives his son", "monogenes"],
+  "uncertain": [],
+  "confidence": 0.95
+}

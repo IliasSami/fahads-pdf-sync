@@ -1,0 +1,27 @@
+{
+  "id": "abel/7",
+  "kinds": ["verse"],
+  "title": "Genesis 4:1 — “had relations” is the Hebrew word ידע",
+  "summary": "Genesis 4:1 with the English phrase “had relations” highlighted in the same colour as the Hebrew word ידע (yada) that it translates.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:1", "osis": "Gen.4.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:א", "osis": "Gen.4.1"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.1", "text": "1 And the man had relations with Eve his wife, and she conceived and gave birth to Cain, and she said, “I have obtained a man with the help of the LORD.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.1", "text": "1 והאדם ידע את חוה אשתו ותהר ותלד את קין ותאמר קניתי איש את יהוה׃"}
+  ],
+  "refs": [{"shown": "Genesis 4:1 / בראשית ד:א", "osis": ["Gen.4.1"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "ידע", "translit": "yada", "gloss": "had relations (literally: knew)", "strongs": "H3045"}
+  ],
+  "color_links": [
+    {"en": "had relations", "other": "ידע"},
+    {"en": "LORD", "other": "יהוה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Adam", "Eve", "Cain", "God"], "places": [], "events": ["birth of Cain"], "things": [], "themes": ["marriage"], "groups": []},
+  "keywords": ["had relations", "knew", "yada", "to know", "Adam knew Eve", "marital relations", "Genesis 4:1", "Genesis 4", "Cain", "Eve"],
+  "uncertain": [],
+  "confidence": 0.94
+}

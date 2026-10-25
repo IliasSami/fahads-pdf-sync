@@ -1,0 +1,93 @@
+{
+ "id": "akeda-2/79",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Genesis 24:11-13 — camels kneel at the well; \"O LORD, the God of my master Abraham\"",
+ "summary": "Genesis 24 verses 11 to 13 in English: He makes the camels kneel by the well at evening, then prays \"O LORD, the God of my master Abraham, please grant me success today, and show lovingkindness to my master Abraham,\" and says he is standing by the spring as the town's daughters come out to draw water. The words He, my, me and I are highlighted in gold, \"master\" is underlined in red, and Abraham is in blue.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 24",
+   "osis": "Gen.24.11"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.24.11",
+   "text": "11 He made the camels kneel down outside the city by the well of water at evening time, the time when women go out to draw water."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.24.12",
+   "text": "12 He said, “O LORD, the God of my master Abraham, please grant me success today, and show lovingkindness to my master Abraham."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.24.13",
+   "text": "13 “Behold, I am standing by the spring, and the daughters of the men of the city are coming out to draw water;"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 24 / בראשית כד (verses 11-13 quoted)",
+   "osis": [
+    "Gen.24.11",
+    "Gen.24.12",
+    "Gen.24.13"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Abraham"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "camels",
+   "well"
+  ],
+  "themes": [
+   "prayer",
+   "faith",
+   "grace"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 24",
+  "Genesis 24:11",
+  "Genesis 24:12",
+  "Genesis 24:13",
+  "O LORD God of my master Abraham",
+  "send me good speed",
+  "shew kindness",
+  "lovingkindness",
+  "success today",
+  "Abraham's servant",
+  "Eliezer",
+  "camels kneel",
+  "well of water",
+  "daughters of the city draw water",
+  "prayer at the well"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

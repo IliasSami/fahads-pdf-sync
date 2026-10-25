@@ -1,0 +1,27 @@
+{
+  "id": "akeda-1/34",
+  "kinds": ["timeline", "text"],
+  "title": "Seven thousand years: Adam to Yeshua 4000 + Yeshua to today 2000 + Reign 1000",
+  "summary": "A running sum of the teacher's 7000-year scheme: Adam to Yeshua = 4000 years, plus Yeshua to today = 2000 years, plus the reign of Yeshua = 1000 years, totalling 7000 years.",
+  "text": [
+    {"lang": "en", "role": "body", "text": "adam → yeshua = 4000 yrs."},
+    {"lang": "en", "role": "body", "text": "+ yeshua → Today = 2000 yrs."},
+    {"lang": "en", "role": "body", "text": "+ Reign of yeshua = 1000 yrs."},
+    {"lang": "en", "role": "number", "text": "7000 yrs."}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {"value": 4000, "note": "years from Adam to Yeshua"},
+    {"value": 2000, "note": "years from Yeshua to today"},
+    {"value": 1000, "note": "years of the reign of Yeshua"},
+    {"value": 7000, "note": "total years (4000 + 2000 + 1000)"}
+  ],
+  "pictures": [],
+  "entities": {"people": ["Adam", "Jesus"], "places": [], "events": ["Second Coming"], "things": [], "themes": ["biblical chronology", "millennial reign", "prophecy"], "groups": []},
+  "keywords": ["7000 years", "seven thousand years", "4000 years", "2000 years", "1000 years", "millennium", "thousand year reign", "Adam to Yeshua", "Yeshua to today", "reign of Yeshua", "six thousand year plan", "biblical timeline", "Messianic kingdom"],
+  "uncertain": [],
+  "confidence": 0.96
+}

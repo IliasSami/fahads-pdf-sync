@@ -1,0 +1,141 @@
+{
+ "id": "genesis-1-1-part-2/125",
+ "kinds": [
+  "letters"
+ ],
+ "title": "The Hebrew letter kaph (כ): palm, 20, used for 'as'",
+ "summary": "Introduces the Hebrew letter kaph (כ) in three letter forms, with its Latin equivalent K, its number value 20, its ancient pictograph meaning 'palm', and the note that it is used for 'As'.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "כ כ כ"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kaph"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "K"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "20"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Palm"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "K"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Used for 'As'"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "כף",
+   "translit": "kaph",
+   "gloss": "palm (of the hand)",
+   "strongs": "H3709"
+  }
+ ],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "kaph",
+   "char": "כ",
+   "value": 20,
+   "meaning": "palm (open hand pictograph); Latin K; used for 'as'"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 20,
+   "note": "numerical value of the letter kaph (כ)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Small black ancient pictograph of an open palm with raised fingers above a horizontal line, placed beside the label 'Palm'.",
+   "subjects": [
+    "palm",
+    "open hand",
+    "kaph pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.62,
+    0.42,
+    0.68,
+    0.54
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Large black open-palm pictograph with fingers pointing up above an underline (left), next to a rotated paleo-Hebrew kaph glyph drawn as a curved shape with three horizontal strokes; shown with a large Latin letter K.",
+   "subjects": [
+    "palm",
+    "open hand",
+    "paleo-Hebrew kaph",
+    "ancient Hebrew alphabet",
+    "letter K"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.06,
+    0.73,
+    0.52,
+    0.94
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "palm"
+  ],
+  "themes": [
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "kaph",
+  "kaf",
+  "khaf",
+  "Hebrew letter kaph",
+  "palm",
+  "open palm",
+  "twenty",
+  "letter K",
+  "used for as",
+  "like",
+  "pictograph",
+  "paleo-Hebrew",
+  "Hebrew alphabet"
+ ],
+ "uncertain": [
+  "The three Hebrew כ glyphs are shown in different type styles; transcribed as plain כ."
+ ],
+ "confidence": 0.9
+}

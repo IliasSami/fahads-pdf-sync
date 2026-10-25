@@ -1,0 +1,287 @@
+{
+ "id": "noah-part-1/36",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "Chen (חן) “Grace Preserves Life” and Noach (נח) “Life Preserver”",
+ "summary": "Combines the letters chet (Wall, Protect, 8) and nun (Fish, Life, 50) and their ancient pictographs: chen (חן, Grace) reads Life + Protect, “Preserves Life”, and noach (נח, Noah) reads Protect + Life, “Life Preserver”.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "table",
+   "text": "ח"
+  },
+  {
+   "lang": "translit",
+   "role": "table",
+   "text": "chet"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "CH"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Wall, Protect"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "8"
+  },
+  {
+   "lang": "he",
+   "role": "table",
+   "text": "נ (ן)"
+  },
+  {
+   "lang": "translit",
+   "role": "table",
+   "text": "nun"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "N"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Fish, Life"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "50"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "chen"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חן"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "נח"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "noach"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Life Protect"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Protect Life"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Grace"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חן"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "נח"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Noah"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Preserves Life"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Life Preserver"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חן",
+   "translit": "chen",
+   "gloss": "grace (preserves life)",
+   "strongs": "H2580"
+  },
+  {
+   "lang": "he",
+   "word": "נח",
+   "translit": "noach",
+   "gloss": "Noah (life preserver)",
+   "strongs": "H5146"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Grace",
+   "other": "חן"
+  },
+  {
+   "en": "Noah",
+   "other": "נח"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "chet",
+   "char": "ח",
+   "value": 8,
+   "meaning": "Wall, Protect (ladder-like wall pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "nun",
+   "char": "נ",
+   "value": 50,
+   "meaning": "Fish, Life (fish pictograph; final form ן)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 8,
+   "note": "gematria of chet (ח)"
+  },
+  {
+   "value": 50,
+   "note": "gematria of nun (נ)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) glyph of chet: a ladder-like wall shape, underlined in black.",
+   "subjects": [
+    "paleo-Hebrew",
+    "pictograph",
+    "wall",
+    "ancient Hebrew letter chet"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.45,
+    0.02,
+    0.51,
+    0.11
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) glyph of nun: a curving fish-like line with a small loop, on a green baseline.",
+   "subjects": [
+    "paleo-Hebrew",
+    "pictograph",
+    "fish",
+    "ancient Hebrew letter nun"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.45,
+    0.17,
+    0.52,
+    0.25
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Pair of ancient glyphs for chen (חן) read left to right: green fish (nun) then black wall (chet), captioned “Life Protect”.",
+   "subjects": [
+    "paleo-Hebrew",
+    "pictograph",
+    "fish",
+    "wall",
+    "chen"
+   ],
+   "text_in_picture": "Life Protect",
+   "credit": null,
+   "box": [
+    0.26,
+    0.55,
+    0.45,
+    0.7
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Pair of ancient glyphs for noach (נח) read left to right: black wall (chet) then green fish (nun), captioned “Protect Life”.",
+   "subjects": [
+    "paleo-Hebrew",
+    "pictograph",
+    "wall",
+    "fish",
+    "noach"
+   ],
+   "text_in_picture": "Protect Life",
+   "credit": null,
+   "box": [
+    0.57,
+    0.55,
+    0.77,
+    0.7
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "fish"
+  ],
+  "themes": [
+   "grace",
+   "Hebrew letter meanings",
+   "gematria",
+   "preservation of life"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "chen",
+  "grace",
+  "noach",
+  "Noah",
+  "life preserver",
+  "preserves life",
+  "protect life",
+  "chet wall protect",
+  "nun fish life",
+  "ancient Hebrew pictographs",
+  "Noah means life preserver",
+  "grace preserves life",
+  "חן",
+  "נח"
+ ],
+ "uncertain": [
+  "The pictograph order under each word is transcribed as displayed left to right"
+ ],
+ "confidence": 0.93
+}

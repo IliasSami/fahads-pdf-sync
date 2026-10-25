@@ -1,0 +1,214 @@
+{
+ "id": "genesis-1-1-part-1/76",
+ "kinds": [
+  "verse",
+  "gematria"
+ ],
+ "title": "Genesis 1:1: gematria of the nouns 296 + 395 + 86 = 777 = 7 x 111",
+ "summary": "Genesis 1:1 in English and colour-coded Hebrew, then the gematria of the three nouns: הארץ (earth) 296, השמים (heavens) 395 and אלהים (God) 86, which add up to 777, shown as 7 x 111.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "In the beginning God created the heavens and the earth.",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "In beginning · created · God · (et) · the skywaters · and (et) · the earth"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Gematria of the Nouns"
+  },
+  {
+   "lang": "he",
+   "role": "body",
+   "text": "אלהים השמים הארץ"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "296 + 395 + 86 = 777"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "7 x 111"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha’aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     90,
+     200,
+     1,
+     5
+    ],
+    "total": 296
+   }
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens (the skywaters)",
+   "strongs": "H8064",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     10,
+     40,
+     300,
+     5
+    ],
+    "total": 395
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     10,
+     5,
+     30,
+     1
+    ],
+    "total": 86
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "(et)",
+   "other": "את"
+  },
+  {
+   "en": "the skywaters",
+   "other": "השמים"
+  },
+  {
+   "en": "and (et)",
+   "other": "ואת"
+  },
+  {
+   "en": "the earth",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 296,
+   "note": "gematria of הארץ (the earth)"
+  },
+  {
+   "value": 395,
+   "note": "gematria of השמים (the heavens)"
+  },
+  {
+   "value": 86,
+   "note": "gematria of אלהים (God)"
+  },
+  {
+   "value": 777,
+   "note": "sum of the gematria of the three nouns: 296 + 395 + 86"
+  },
+  {
+   "value": 111,
+   "note": "777 = 7 x 111"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "heavens",
+   "earth"
+  ],
+  "themes": [
+   "gematria",
+   "creation",
+   "Bible codes"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "gematria",
+  "777",
+  "296",
+  "395",
+  "86",
+  "7 x 111",
+  "seven",
+  "sum of the nouns",
+  "elohim 86",
+  "hashamayim 395",
+  "haaretz 296",
+  "Bible numbers",
+  "Hebrew numerology"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

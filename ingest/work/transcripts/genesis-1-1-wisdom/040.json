@@ -1,0 +1,26 @@
+{
+  "id": "genesis-1-1-wisdom/40",
+  "kinds": ["diagram"],
+  "title": "Inside the 73-Star: a 37-Star and a 37-Hexagon",
+  "summary": "The two 73-point star figures again: on the left a gold outline marks the 37 inner points that form a smaller six-pointed star ('37-Star'); on the right a red outline marks 37 inner points that form a hexagon ('37-Hexagon').",
+  "text": [
+    {"lang": "en", "role": "label", "text": "37-Star"},
+    {"lang": "en", "role": "label", "text": "37-Hexagon"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {"value": 37, "note": "points inside the gold star outline (37-Star) and inside the red hexagon outline (37-Hexagon)"},
+    {"value": 73, "note": "total points in each large star figure"}
+  ],
+  "pictures": [
+    {"type": "diagram", "description": "Left: a 73-point star of small blue Stars of David with a gold six-pointed star outline drawn inside; the 37 points within it are coloured gold. Labelled '37-Star' in gold.", "subjects": ["star number", "figurate number", "Star of David", "hexagram", "37", "73"], "text_in_picture": "", "credit": null, "box": [0.08, 0.07, 0.37, 0.66]},
+    {"type": "diagram", "description": "Right: a 73-point star of small blue Stars of David with a red hexagon outline drawn inside; the 37 points within it are coloured red. Labelled '37-Hexagon' in red.", "subjects": ["hexagonal number", "figurate number", "hexagon", "Star of David", "37", "73"], "text_in_picture": "", "credit": null, "box": [0.54, 0.07, 0.84, 0.66]}
+  ],
+  "entities": {"people": [], "places": [], "events": [], "things": ["Star of David"], "themes": ["gematria", "figurate numbers"], "groups": []},
+  "keywords": ["37", "73", "37-Star", "37-Hexagon", "star number", "hexagonal number", "figurate numbers", "hexagon", "Star of David", "six-pointed star", "number pattern", "2701", "diagram"],
+  "uncertain": [],
+  "confidence": 0.93
+}

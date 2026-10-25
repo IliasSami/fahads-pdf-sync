@@ -1,0 +1,201 @@
+{
+ "id": "noah-part-2/108",
+ "kinds": [
+  "table",
+  "timeline"
+ ],
+ "title": "The seven dispensations: start verse, end verse, key person",
+ "summary": "Table of the seven dispensations (Innocence, Conscience, Human Government, Promise, Law, Grace, Millennial Kingdom), each with the verse where it begins, the verse where it ends, and the key human figure (Adam, Adam, Noah, Abraham, Moses, Paul, yeshua).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Dispensation | Begins | Ends | Human"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Innocence | Gen 1:28 | Gen 3:8 | Adam"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Conscience | Gen 3:9 | Gen 8:14 | Adam"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Human Government | Gen 8:15 | Gen 11:32 | Noah"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Promise | Gen 12:1 | Ex 18:27 | Abraham"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Law | Ex 19:1 | Acts 1:26 | Moses"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Grace | Acts 2:1 | Rev 19:21 | Paul"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Millennial Kingdom | Rev 20:1 | Rev 20:10 | yeshua"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Gen 1:28",
+   "osis": [
+    "Gen.1.28"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 3:8",
+   "osis": [
+    "Gen.3.8"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 3:9",
+   "osis": [
+    "Gen.3.9"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 8:14",
+   "osis": [
+    "Gen.8.14"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 8:15",
+   "osis": [
+    "Gen.8.15"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 11:32",
+   "osis": [
+    "Gen.11.32"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Gen 12:1",
+   "osis": [
+    "Gen.12.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Ex 18:27",
+   "osis": [
+    "Exod.18.27"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Ex 19:1",
+   "osis": [
+    "Exod.19.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Acts 1:26",
+   "osis": [
+    "Acts.1.26"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Acts 2:1",
+   "osis": [
+    "Acts.2.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Rev 19:21",
+   "osis": [
+    "Rev.19.21"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Rev 20:1",
+   "osis": [
+    "Rev.20.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Rev 20:10",
+   "osis": [
+    "Rev.20.10"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "seven dispensations listed"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Noah",
+   "Abraham",
+   "Moses",
+   "Paul",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "dispensations",
+   "covenant",
+   "grace",
+   "Torah",
+   "judgment"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "dispensations",
+  "seven dispensations",
+  "dispensationalism",
+  "Innocence",
+  "Conscience",
+  "Human Government",
+  "Promise",
+  "Law",
+  "Grace",
+  "Millennial Kingdom",
+  "millennium",
+  "Yeshua",
+  "Adam Noah Abraham Moses Paul",
+  "ages of man",
+  "dispensation chart"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

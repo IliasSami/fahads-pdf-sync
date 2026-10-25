@@ -1,0 +1,125 @@
+{
+ "id": "genesis-1-1-part-1/10",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "Alef and bet: Strength of the House",
+ "summary": "Places bet (house, tent) beside alef (ox head, strength, God) with their ancient pictographs, and reads the pair together as \"Strength of the House\", with a blue arrow beside the alef.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב א ←"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet   alef"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "B   A"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "House, Tent"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Ox Head, Strength, God"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Strength of the House"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [
+  {
+   "en": "bet",
+   "other": "ב"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": null,
+   "meaning": "Ox Head, Strength, God"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": null,
+   "meaning": "House, Tent"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Two ancient (paleo-Hebrew) pictographs side by side: a red-underlined tent/house shape for bet and a blue-underlined ox head for alef.",
+   "subjects": [
+    "tent",
+    "house",
+    "ox head",
+    "alef pictograph",
+    "bet pictograph",
+    "paleo-Hebrew"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.39,
+    0.38,
+    0.56,
+    0.5
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "ox",
+   "tent",
+   "house"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "word study"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "alef bet",
+  "strength of the house",
+  "ox head",
+  "tent",
+  "house",
+  "ab father",
+  "aleph beth",
+  "Hebrew letter meanings",
+  "pictographs",
+  "ancient Hebrew",
+  "paleo-Hebrew",
+  "first two letters"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

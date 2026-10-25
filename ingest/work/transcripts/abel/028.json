@@ -1,0 +1,212 @@
+{
+  "id": "abel/28",
+  "kinds": [
+    "word-study",
+    "list",
+    "picture"
+  ],
+  "title": "ish (איש) = man: Danish, Swedish, Irish, British",
+  "summary": "Shows that the ending \"-ish\" in nationality words matches the Hebrew ish (איש), \"man\": Danish = Man of Denmark, Swedish = Man of Sweden, Irish = Man of Ireland, British = Man of the Covenant, each beside its national flag.",
+  "text": [
+    {
+      "lang": "translit",
+      "role": "heading",
+      "text": "ish"
+    },
+    {
+      "lang": "he",
+      "role": "heading",
+      "text": "איש"
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Man"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "Dan-ish"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Man of Denmark"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "Swed-ish"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Man of Sweden"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "Ir-ish"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Man of Ireland"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "Brit-ish"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Man of the Covenant"
+    }
+  ],
+  "refs": [],
+  "words": [
+    {
+      "lang": "he",
+      "word": "איש",
+      "translit": "ish",
+      "gloss": "man",
+      "strongs": "H376"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "ish",
+      "other": "איש"
+    },
+    {
+      "en": "Man",
+      "other": "איש"
+    },
+    {
+      "en": "i (ish)",
+      "other": "א"
+    },
+    {
+      "en": "s (ish)",
+      "other": "י"
+    },
+    {
+      "en": "h (ish)",
+      "other": "ש"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [
+    {
+      "type": "icon",
+      "description": "Flag of Denmark: red field with a white Nordic cross, beside the words Dan-ish, Man of Denmark.",
+      "subjects": [
+        "flag",
+        "Denmark",
+        "Danish flag",
+        "Nordic cross"
+      ],
+      "text_in_picture": "",
+      "credit": null,
+      "box": [
+        0.15,
+        0.29,
+        0.25,
+        0.41
+      ]
+    },
+    {
+      "type": "icon",
+      "description": "Flag of Sweden: blue field with a yellow Nordic cross, beside the words Swed-ish, Man of Sweden.",
+      "subjects": [
+        "flag",
+        "Sweden",
+        "Swedish flag",
+        "Nordic cross"
+      ],
+      "text_in_picture": "",
+      "credit": null,
+      "box": [
+        0.15,
+        0.47,
+        0.25,
+        0.59
+      ]
+    },
+    {
+      "type": "icon",
+      "description": "Flag of Ireland: vertical green, white and orange bands (the white band blends into the white slide), beside the words Ir-ish, Man of Ireland.",
+      "subjects": [
+        "flag",
+        "Ireland",
+        "Irish flag",
+        "tricolour"
+      ],
+      "text_in_picture": "",
+      "credit": null,
+      "box": [
+        0.15,
+        0.65,
+        0.25,
+        0.77
+      ]
+    },
+    {
+      "type": "icon",
+      "description": "Union Jack, the flag of the United Kingdom: red and white crosses on a blue field, beside the words Brit-ish, Man of the Covenant.",
+      "subjects": [
+        "flag",
+        "United Kingdom",
+        "Union Jack",
+        "British flag"
+      ],
+      "text_in_picture": "",
+      "credit": null,
+      "box": [
+        0.15,
+        0.81,
+        0.25,
+        0.93
+      ]
+    }
+  ],
+  "entities": {
+    "people": [],
+    "places": [
+      "Denmark",
+      "Sweden",
+      "Ireland",
+      "United Kingdom"
+    ],
+    "events": [],
+    "things": [
+      "flags"
+    ],
+    "themes": [
+      "word studies",
+      "covenant"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "ish",
+    "איש",
+    "man",
+    "Danish",
+    "Swedish",
+    "Irish",
+    "British",
+    "Brit-ish",
+    "man of the covenant",
+    "flags",
+    "Denmark",
+    "Sweden",
+    "Ireland",
+    "Union Jack",
+    "berit covenant"
+  ],
+  "uncertain": [],
+  "confidence": 0.93
+}

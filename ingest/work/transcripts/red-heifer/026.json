@@ -1,0 +1,81 @@
+{
+ "id": "red-heifer/26",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Exodus 34:26 — firstfruits and not boiling a young goat in its mother's milk",
+ "summary": "Exodus 34:26 in English with the book name in English and Hebrew (שמות) colour-matched: bring the first of the firstfruits to the house of the LORD, and do not boil a young goat in its mother's milk.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 34:26",
+   "osis": "Exod.34.26"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות לד:כו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.34.26",
+   "text": "26 “The first of the firstfruits of your land you shall bring to the house of the LORD your God. You shall not boil a young goat in its mother’s milk.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 34:26 / שמות לד:כו",
+   "osis": [
+    "Exod.34.26"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [
+  {
+   "en": "Exodus",
+   "other": "שמות"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "firstfruits",
+   "young goat",
+   "milk"
+  ],
+  "themes": [
+   "Torah",
+   "statutes (chok)",
+   "dietary laws",
+   "holiness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Exodus 34:26",
+  "firstfruits",
+  "first of the firstfruits",
+  "house of the LORD",
+  "do not boil a kid in its mother's milk",
+  "seethe a kid",
+  "young goat",
+  "milk and meat",
+  "kosher",
+  "dietary laws",
+  "chukim",
+  "statute"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

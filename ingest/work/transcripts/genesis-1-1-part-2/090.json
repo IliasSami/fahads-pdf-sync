@@ -1,0 +1,167 @@
+{
+ "id": "genesis-1-1-part-2/90",
+ "kinds": [
+  "gematria",
+  "diagram",
+  "comparison"
+ ],
+ "title": "Genesis 1:1 (2701) plus John 1:1 (3627) = 6328, a triangle; 6328 / 7 = 904",
+ "summary": "Side-by-side comparison of Genesis 1:1 (2701, in blue, Hebrew בראשית א:א) and John 1:1 (3627, in red, Greek ΙΩΑΝΝΗΝ 1:1) around a tall triangle of tiny dots: the blue top part stands for 2701 and the red lower part for 3627. Below it: 6328 / 7 = 904.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "2701"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בראשית"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "א:א"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 1:1",
+   "osis": "John.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "3627"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΙΩΑΝΝΗΝ"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1:1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "6328 / 7 = 904"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "John 1:1 / ΙΩΑΝΝΗΝ 1:1",
+   "osis": [
+    "John.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning (Hebrew name of Genesis)",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "el",
+   "word": "ΙΩΑΝΝΗΝ",
+   "translit": "Ioannen",
+   "gloss": "John (Greek name of the Gospel)",
+   "strongs": "G2491"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2701,
+   "note": "number for Genesis 1:1 (blue part of the triangle)"
+  },
+  {
+   "value": 3627,
+   "note": "number for John 1:1 (red part of the triangle)"
+  },
+  {
+   "value": 6328,
+   "note": "total of the whole triangle; 2701 + 3627"
+  },
+  {
+   "value": 904,
+   "note": "6328 divided by 7"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A tall triangle made of thousands of tiny dots: the upper part is blue (Genesis 1:1, 2701) and the lower part is red (John 1:1, 3627), with the combined triangle sitting between the Genesis column on the left and the John column on the right.",
+   "subjects": [
+    "dot triangle",
+    "blue and red triangle",
+    "number pyramid",
+    "triangle number",
+    "gematria diagram",
+    "Genesis and John"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.24,
+    0.05,
+    0.72,
+    0.9
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "numbers in Scripture",
+   "Word of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "John 1:1",
+  "2701",
+  "3627",
+  "6328",
+  "904",
+  "gematria",
+  "triangle number",
+  "dot triangle",
+  "blue and red triangle",
+  "Genesis and John",
+  "In the beginning",
+  "divisible by 7",
+  "bereshit"
+ ],
+ "uncertain": [
+  "The slide states 6328 / 7 = 904 without further explanation (2701 + 3627 = 6328 is implied by the two coloured parts)."
+ ],
+ "confidence": 0.94
+}

@@ -1,0 +1,86 @@
+{
+ "id": "akeda-1/121",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Genesis 22:13 — Substitute sacrifice in thorns",
+ "summary": "Genesis 22:13 (the ram caught in the thicket, offered in place of Abraham's son) with the red, black and green caption SUBSTITUTE SACRIFICE IN THORNS at the bottom; a repeat of the earlier slide.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22:13",
+   "osis": "Gen.22.13"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב:יג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.13",
+   "text": "13 Then Abraham raised his eyes and looked, and behold, behind him a ram caught in the thicket by his horns; and Abraham went and took the ram and offered him up for a burnt offering in the place of his son."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "SUBSTITUTE SACRIFICE IN THORNS"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:13 / בראשית כב:יג",
+   "osis": [
+    "Gen.22.13"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Abraham",
+   "Isaac"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "ram",
+   "thicket",
+   "thorns",
+   "horns",
+   "burnt offering"
+  ],
+  "themes": [
+   "sacrifice",
+   "substitution",
+   "typology",
+   "messianic prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "substitute sacrifice in thorns",
+  "ram caught in the thicket",
+  "Genesis 22:13",
+  "Akedah",
+  "crown of thorns",
+  "substitution",
+  "in the place of his son",
+  "burnt offering",
+  "ram in thorns",
+  "Binding of Isaac",
+  "Jesus crown of thorns"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

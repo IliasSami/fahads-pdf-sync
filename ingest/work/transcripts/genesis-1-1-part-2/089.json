@@ -1,0 +1,135 @@
+{
+ "id": "genesis-1-1-part-2/89",
+ "kinds": [
+  "verse",
+  "gematria",
+  "diagram"
+ ],
+ "title": "John 1:1 — gematria 3627 shown as a trapezoid of red dots",
+ "summary": "John 1:1 in English (\"In (the) beginning was the Word and the Word was with God and God was the Word.\") with its Greek-letter total 3627 shown at the top and again under a large trapezoid made of tiny red dots. The word Word is in red; some letters of In and God are coloured individually.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 1:1",
+   "osis": "John.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "3627"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΙΩΑΝΝΗΝ 1:1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "In (the) beginning was the Word"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "and the Word was with God"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.1",
+   "text": "and God was the Word."
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "3627"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 1:1 / ΙΩΑΝΝΗΝ 1:1",
+   "osis": [
+    "John.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "el",
+   "word": "ΙΩΑΝΝΗΝ",
+   "translit": "Ioannen",
+   "gloss": "John (Greek name of the Gospel)",
+   "strongs": "G2491"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3627,
+   "note": "number given for John 1:1 in Greek; drawn as a trapezoid of red dots"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A large trapezoid (a triangle with its top cut off) made of thousands of tiny red circles arranged in rows, widening toward the bottom, with the number 3627 printed beneath it.",
+   "subjects": [
+    "dot trapezoid",
+    "red dots",
+    "number pattern",
+    "gematria diagram",
+    "3627",
+    "geometric number"
+   ],
+   "text_in_picture": "3627",
+   "credit": null,
+   "box": [
+    0.26,
+    0.46,
+    0.77,
+    0.87
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Word of God",
+   "numbers in Scripture"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 1:1",
+  "In the beginning was the Word",
+  "the Word was with God",
+  "Logos",
+  "3627",
+  "gematria",
+  "Greek gematria",
+  "isopsephy",
+  "trapezoid",
+  "dot pattern",
+  "number pattern",
+  "Gospel of John",
+  "ΙΩΑΝΝΗΝ"
+ ],
+ "uncertain": [
+  "The individually coloured letters in 'In' and 'God' are not explained on the slide.",
+  "The slide gives 3627 without showing how it is calculated."
+ ],
+ "confidence": 0.95
+}

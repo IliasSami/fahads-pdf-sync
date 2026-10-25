@@ -1,0 +1,123 @@
+{
+ "id": "red-heifer/46",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Matthew 11:28-30 and Jeremiah 6:16 — \"you will find rest for your souls\"",
+ "summary": "Matthew 11:28-30 (Jesus' invitation to take His yoke) as on the previous slide, now joined by Jeremiah 6:16, which carries the same phrase 'you will find rest for your souls', underlined in both passages. Jeremiah tells the people to stand by the ways and ask for the ancient paths, but they said they would not walk in it.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Matthew 11:28-30",
+   "osis": [
+    "Matt.11.28",
+    "Matt.11.29",
+    "Matt.11.30"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Μαθθαῖον 11:28-30"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.11.28",
+   "text": "28 “Come to Me, all who are weary and heavy-laden, and I will give you rest."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.11.29",
+   "text": "29 “Take My yoke upon you and learn from Me, for I am gentle and humble in heart, and YOU WILL FIND REST FOR YOUR SOULS."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.11.30",
+   "text": "30 “For My yoke is easy and My burden is light.”"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Jeremiah 6:16",
+   "osis": "Jer.6.16"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ירמיה ו:יו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Jer.6.16",
+   "text": "16 Thus says the LORD, ''Stand by the ways and see and ask for the ancient paths, Where the good way is, and walk in it; And you will find rest for your souls. But they said, 'We will not walk in it.'"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Matthew 11:28-30 / Μαθθαῖον 11:28-30",
+   "osis": [
+    "Matt.11.28",
+    "Matt.11.29",
+    "Matt.11.30"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Jeremiah 6:16 / ירמיה ו:יו",
+   "osis": [
+    "Jer.6.16"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus",
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "yoke"
+  ],
+  "themes": [
+   "rest",
+   "grace",
+   "obedience",
+   "Torah"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Matthew 11:28-30",
+  "Jeremiah 6:16",
+  "rest for your souls",
+  "ancient paths",
+  "the good way",
+  "stand by the ways",
+  "we will not walk in it",
+  "take My yoke upon you",
+  "my yoke is easy",
+  "heavy-laden",
+  "yoke",
+  "Jesus and Jeremiah",
+  "find rest",
+  "red heifer never yoked"
+ ],
+ "uncertain": [
+  "The Hebrew header for Jeremiah is transcribed as shown, ירמיה ו:יו (the usual way to write chapter 6 verse 16 would be ו:טז)."
+ ],
+ "confidence": 0.96
+}

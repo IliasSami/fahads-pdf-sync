@@ -1,0 +1,68 @@
+{
+  "id": "akeda-2/37",
+  "kinds": [
+    "list"
+  ],
+  "title": "Rabbinical Judaism replaced blood sacrifices: three steps",
+  "summary": "Heading 'Rabbinical Judaism Replaced Blood Sacrifices with:' with three items so far: confess the sin, pray for atonement, and correct the sin however possible.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Rabbinical Judaism Replaced Blood Sacrifices with:"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Confess the sin"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Pray for atonement"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Correct the sin however possible"
+    }
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "things": [],
+    "themes": [
+      "sacrifice",
+      "blood",
+      "atonement",
+      "sin",
+      "repentance",
+      "Rabbinic Judaism"
+    ],
+    "groups": [
+      "Jews",
+      "rabbis"
+    ]
+  },
+  "keywords": [
+    "Rabbinical Judaism",
+    "rabbinic Judaism",
+    "replaced blood sacrifices",
+    "no more sacrifices",
+    "atonement without blood",
+    "repentance",
+    "confess sin",
+    "prayer for atonement",
+    "correct the sin",
+    "teshuvah"
+  ],
+  "uncertain": [],
+  "confidence": 0.97
+}

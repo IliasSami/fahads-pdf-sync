@@ -1,0 +1,82 @@
+{
+ "id": "red-heifer/86",
+ "kinds": [
+  "list",
+  "text"
+ ],
+ "title": "A Paradox — the water makes the clean unclean and the unclean clean",
+ "summary": "The four statements of the paradox (priest, ash-gatherer and water-sprinkler become unclean; the sprinkled unclean man becomes clean) are repeated, with a larger conclusion added: the water makes the clean unclean and makes the unclean clean.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "A Paradox"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "The clean priest who does the sacrifice becomes unclean."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "The clean man who gathers the ashes becomes unclean."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "The clean man who sprinkles the water becomes unclean."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "The unclean man who is sprinkled becomes clean."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The water makes the clean unclean and makes the unclean clean."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "ashes",
+   "water",
+   "red heifer"
+  ],
+  "themes": [
+   "clean and unclean",
+   "purification",
+   "sacrifice",
+   "paradox"
+  ],
+  "groups": [
+   "priests"
+  ]
+ },
+ "keywords": [
+  "paradox",
+  "red heifer paradox",
+  "water makes the clean unclean",
+  "water makes the unclean clean",
+  "clean becomes unclean",
+  "unclean becomes clean",
+  "water of purification",
+  "water of separation",
+  "ritual purity",
+  "Numbers 19",
+  "gathers the ashes",
+  "sprinkles the water"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

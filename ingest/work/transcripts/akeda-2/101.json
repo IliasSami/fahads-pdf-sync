@@ -1,0 +1,142 @@
+{
+ "id": "akeda-2/101",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "John the Baptist, the man who most types the Holy Spirit — Luke 1:41",
+ "summary": "Heading that John the Baptist (yochanan the immerser) is the man who most types the Holy Spirit in the New Testament (Hebrew ברית חדשה, b'rit chadashah), followed by Luke 1:41 in English: when Elizabeth heard Mary's greeting the baby leaped in her womb and Elizabeth was filled with the Holy Spirit. 'Holy Spirit' is highlighted in gold; 'baby' and the John the Baptist line are underlined.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The man who most types the Holy Spirit in the"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ברית חדשה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "New Testament"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "b’rit chadashah"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "John the Baptist"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yochanan the immerser"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Luke 1:41",
+   "osis": "Luke.1.41"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΛΟΥΚΑΝ 1:41",
+   "osis": "Luke.1.41"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "41 When Elizabeth heard Mary’s greeting, the baby leaped in her womb; and Elizabeth was filled with the Holy Spirit.",
+   "osis": "Luke.1.41"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Luke 1:41 / ΛΟΥΚΑΝ 1:41",
+   "osis": [
+    "Luke.1.41"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ברית חדשה",
+   "translit": "b'rit chadashah",
+   "gloss": "New Testament (new covenant)",
+   "strongs": "H1285"
+  },
+  {
+   "lang": "en",
+   "word": "yochanan",
+   "translit": "yochanan",
+   "gloss": "John (Hebrew name of John the Baptist)",
+   "strongs": "H3110"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "New",
+   "other": "חדשה"
+  },
+  {
+   "en": "Testament",
+   "other": "ברית"
+  },
+  {
+   "en": "b’rit",
+   "other": "ברית"
+  },
+  {
+   "en": "chadashah",
+   "other": "חדשה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "John the Baptist",
+   "Holy Spirit",
+   "Elizabeth",
+   "Mary"
+  ],
+  "places": [],
+  "events": [
+   "Visitation"
+  ],
+  "things": [],
+  "themes": [
+   "Holy Spirit",
+   "typology",
+   "new covenant"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John the Baptist",
+  "yochanan the immerser",
+  "Holy Spirit",
+  "type of the Holy Spirit",
+  "New Testament",
+  "brit chadashah",
+  "new covenant",
+  "Luke 1:41",
+  "Elizabeth",
+  "Mary's greeting",
+  "baby leaped in her womb",
+  "filled with the Holy Ghost",
+  "Elisabeth",
+  "salutation"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

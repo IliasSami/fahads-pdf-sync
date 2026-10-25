@@ -1,0 +1,168 @@
+{
+  "id": "abel/25",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:1 and Genesis 1:3 — amar (say) in “and God said”",
+  "summary": "Genesis 4:1 with amar (אמר, \"Say\") highlighted, and a second Hebrew line added from Genesis 1:3, \"And God said, Let there be light\", in which the same word amar is coloured the same olive colour.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:1",
+      "osis": "Gen.4.1"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:א"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "1 And the man knew Eve [chava] his wife, and she conceived and gave birth to Cain, and she said, “I have obtained a man with the help of the LORD.”",
+      "osis": "Gen.4.1"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "1 והאדם ידע את חוה אשתו ותהר ותלד את קין ותאמר קניתי איש את יהוה׃",
+      "osis": "Gen.4.1"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "amar"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "אמר"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Say"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 1:3",
+      "osis": "Gen.1.3"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ויאמר אלהים יהי אור ויהי אור׃",
+      "osis": "Gen.1.3"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:1 / בראשית ד:א",
+      "osis": [
+        "Gen.4.1"
+      ],
+      "role": "quoted"
+    },
+    {
+      "shown": "Genesis 1:3",
+      "osis": [
+        "Gen.1.3"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "אמר",
+      "translit": "amar",
+      "gloss": "say / said",
+      "strongs": "H559"
+    },
+    {
+      "lang": "he",
+      "word": "אלהים",
+      "translit": "elohim",
+      "gloss": "God",
+      "strongs": "H430"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "and",
+      "other": "ו"
+    },
+    {
+      "en": "she",
+      "other": "ת"
+    },
+    {
+      "en": "said",
+      "other": "אמר"
+    },
+    {
+      "en": "amar",
+      "other": "אמר"
+    },
+    {
+      "en": "Say",
+      "other": "אמר"
+    },
+    {
+      "en": "L (LORD)",
+      "other": "י"
+    },
+    {
+      "en": "R (LORD)",
+      "other": "ו"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Eve",
+      "Cain",
+      "Adam",
+      "God"
+    ],
+    "places": [],
+    "events": [
+      "Cain and Abel's birth",
+      "Creation"
+    ],
+    "things": [],
+    "themes": [
+      "firstborn",
+      "marriage",
+      "light and darkness"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Genesis 4:1",
+    "Adam knew Eve",
+    "Eve conceived",
+    "birth of Cain",
+    "I have gotten a man from the LORD",
+    "I have obtained a man",
+    "Cain",
+    "Eve",
+    "chava",
+    "first son",
+    "amar",
+    "say",
+    "and God said",
+    "let there be light",
+    "Genesis 1:3",
+    "ויאמר אלהים יהי אור"
+  ],
+  "uncertain": [
+    "Colours in the Genesis 1:3 line (ויאמר אלהים) are decorative/colour-coded; only אמר is explicitly labelled as 'Say'."
+  ],
+  "confidence": 0.93
+}

@@ -1,0 +1,113 @@
+{
+ "id": "red-heifer/60",
+ "kinds": [
+  "picture",
+  "comparison"
+ ],
+ "title": "Cross and Passover doorway side by side, both with hyssop",
+ "summary": "Two drawings side by side: on the left a tan wooden cross with red blood smears at the top, both arms and the base, with the word 'hyssop' beside it; on the right the Passover door frame with blood on the lintel, doorposts and threshold, also with 'hyssop'. The slide visually links the blood on the cross with the blood on the doorposts.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "hyssop"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "hyssop"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "drawing",
+   "description": "Simple flat drawing of a tan wooden cross standing upright with scribbled red blood marks at the top, at the ends of both arms and near the bottom of the upright beam; the word 'hyssop' is written diagonally in green beside it.",
+   "subjects": [
+    "cross",
+    "wooden cross",
+    "blood on the cross",
+    "crucifixion",
+    "hyssop",
+    "red blood"
+   ],
+   "text_in_picture": "hyssop",
+   "credit": null,
+   "box": [
+    0.11,
+    0.11,
+    0.42,
+    0.93
+   ]
+  },
+  {
+   "type": "drawing",
+   "description": "Simple flat drawing of a golden-brown wooden door frame with an open dark brown door, orange doorknob, and red blood smears on the lintel, both doorposts and the threshold; the word 'hyssop' is written diagonally beside it (first letter dark red, rest green).",
+   "subjects": [
+    "door",
+    "doorposts",
+    "lintel",
+    "blood on doorposts",
+    "Passover",
+    "hyssop",
+    "red blood"
+   ],
+   "text_in_picture": "hyssop",
+   "credit": null,
+   "box": [
+    0.58,
+    0.27,
+    0.96,
+    0.97
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Passover",
+   "Crucifixion",
+   "Exodus"
+  ],
+  "things": [
+   "cross",
+   "hyssop",
+   "blood",
+   "door",
+   "doorposts",
+   "lintel"
+  ],
+  "themes": [
+   "blood",
+   "sacrifice",
+   "redemption",
+   "typology",
+   "atonement"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "cross and Passover door",
+  "blood on the cross",
+  "blood on the doorposts",
+  "hyssop",
+  "Passover and crucifixion",
+  "cross drawing",
+  "door drawing",
+  "Jesus' blood",
+  "Exodus 12",
+  "typology",
+  "red heifer hyssop"
+ ],
+ "uncertain": [
+  "The slide does not state in words what the cross and door pairing means; the summary only describes what is drawn."
+ ],
+ "confidence": 0.93
+}

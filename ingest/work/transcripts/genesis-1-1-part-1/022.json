@@ -1,0 +1,130 @@
+{
+ "id": "genesis-1-1-part-1/22",
+ "kinds": [
+  "letters"
+ ],
+ "title": "Shin: Teeth, Destroy (ancient pictograph to S, Sh)",
+ "summary": "Teaches the Hebrew letter shin (sounds Sh, S; value 300; meaning Teeth, Destroy) in three different letter shapes, then shows the ancient teeth pictograph changing into a later upright S-like form and then into the modern S(h).",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש   ש   ש"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shin"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Sh S"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "300"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Teeth, Destroy"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "→ → S(h)"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "teeth, destroy (teeth pictograph); sounds Sh, S"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 300,
+   "note": "gematria value of the letter shin"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Small ancient (paleo-Hebrew) shin pictograph: a black wavy line with two humps like teeth, over a black underline, placed between 300 and Teeth, Destroy.",
+   "subjects": [
+    "paleo-Hebrew",
+    "shin",
+    "teeth",
+    "pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.49,
+    0.41,
+    0.58,
+    0.52
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "Three-step letter evolution: the large ancient teeth pictograph of shin over a black underline, an arrow to a later upright S-shaped curved form, and an arrow to the large black letters S(h).",
+   "subjects": [
+    "letter evolution",
+    "shin",
+    "teeth pictograph",
+    "paleo-Hebrew",
+    "alphabet history",
+    "S and Sh"
+   ],
+   "text_in_picture": "S(h)",
+   "credit": null,
+   "box": [
+    0.11,
+    0.6,
+    0.9,
+    0.86
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "teeth"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "shin",
+  "Hebrew letter shin",
+  "teeth",
+  "destroy",
+  "value 300",
+  "paleo-Hebrew",
+  "ancient Hebrew",
+  "pictograph",
+  "letter meanings",
+  "S and Sh",
+  "sin",
+  "gematria 300"
+ ],
+ "uncertain": [
+  "The three shin shapes at the top are different typefaces/styles; the slide gives no caption for them."
+ ],
+ "confidence": 0.94
+}

@@ -1,0 +1,68 @@
+{
+ "id": "fall-of-man/36",
+ "kinds": [
+  "text",
+  "humor"
+ ],
+ "title": "Two palindromes: “Madam, I’m Adam.” and “Eve.”",
+ "summary": "A text slide giving two palindromes (phrases that read the same backwards): the first is “Madam, I’m Adam.” and the second is “Eve.”",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "1st Palindrome"
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "text": "“Madam, I’m Adam.”"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "2nd Palindrome"
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "text": "“Eve.”"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Eve"
+  ],
+  "places": [],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [],
+  "themes": [
+   "palindromes",
+   "wordplay",
+   "humor"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "palindrome",
+  "Madam I'm Adam",
+  "Eve",
+  "reads the same backwards",
+  "Adam and Eve",
+  "wordplay",
+  "first palindrome",
+  "second palindrome",
+  "word puzzle",
+  "Genesis 3"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

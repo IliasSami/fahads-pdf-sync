@@ -1,0 +1,29 @@
+{
+  "id": "akeda-2/83",
+  "kinds": ["verse"],
+  "title": "Genesis 24:21-25: the gold ring and bracelets; Rebekah, daughter of Bethuel",
+  "summary": "Genesis 24:21-25 in English: the servant watches Rebekah in silence, gives her a gold ring and two bracelets, and learns she is the daughter of Bethuel, son of Milcah and Nahor, who offers room to lodge. Words referring to the servant (his, me, us, him) are highlighted in gold and 'camels' is underlined.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 24", "osis": "Gen.24.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית כד", "osis": "Gen.24.1"},
+    {"lang": "en", "role": "verse", "text": "21 Meanwhile, the man was gazing at her in silence, to know whether the LORD had made his journey successful or not.", "osis": "Gen.24.21"},
+    {"lang": "en", "role": "verse", "text": "22 When the camels had finished drinking, the man took a gold ring weighing a half-shekel and two bracelets for her wrists weighing ten shekels in gold,", "osis": "Gen.24.22"},
+    {"lang": "en", "role": "verse", "text": "23 and said, “Whose daughter are you? Please tell me, is there room for us to lodge in your father’s house?”", "osis": "Gen.24.23"},
+    {"lang": "en", "role": "verse", "text": "24 She said to him, “I am the daughter of Bethuel, the son of Milcah, whom she bore to Nahor.”", "osis": "Gen.24.24"},
+    {"lang": "en", "role": "verse", "text": "25 Again she said to him, “We have plenty of both straw and feed, and room to lodge in.”", "osis": "Gen.24.25"}
+  ],
+  "refs": [
+    {"shown": "Genesis 24 / בראשית כד", "osis": ["Gen.24.21", "Gen.24.22", "Gen.24.23", "Gen.24.24", "Gen.24.25"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {"value": 10, "note": "two gold bracelets weighing ten shekels"}
+  ],
+  "pictures": [],
+  "entities": {"people": ["Rebekah", "Eliezer", "Bethuel", "Milcah", "Nahor", "God"], "places": [], "events": ["Finding a bride for Isaac"], "things": ["gold ring", "bracelets", "camels", "shekel", "straw", "feed"], "themes": ["hospitality", "marriage", "guidance"], "groups": []},
+  "keywords": ["Rebekah", "Rebecca", "Abraham's servant", "gold nose ring", "earring", "bracelets", "half shekel", "ten shekels", "Bethuel", "Nahor", "Milcah", "room to lodge", "bride for Isaac", "Genesis 24"],
+  "uncertain": [],
+  "confidence": 0.95
+}

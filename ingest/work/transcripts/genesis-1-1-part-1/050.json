@@ -1,0 +1,200 @@
+{
+ "id": "genesis-1-1-part-1/50",
+ "kinds": [
+  "verse",
+  "word-study",
+  "diagram"
+ ],
+ "title": "Genesis 1:1 word by word: land = matter, skywaters = space, beginning = time",
+ "summary": "Genesis 1:1 in Hebrew, colour-coded word by word with transliteration and English (In beginning, created, God, (et), the skywaters, and (et), the land). Arrows link ha'aretz (the land) to Matter (solid, liquid, gas), hashamayim (the skywaters) to Space (length, width, depth) and bereshit (In beginning) to Time (past, present, future).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "translit",
+   "role": "reference",
+   "text": "Bereshit 1:1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "In beginning · created · God · (et) · the skywaters · and (et) · the land"
+  },
+  {
+   "lang": "translit",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "bereshit · bara · elohim · et · hashamayim · ve’et · ha’aretz"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Matter"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Solid · Liquid · Gas"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Space"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Length · Width · Depth"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Time"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Past · Present · Future"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(et) – untranslated object marker",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the skywaters (the heavens)",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve’et",
+   "gloss": "and (et)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha’aretz",
+   "gloss": "the land (the earth)",
+   "strongs": "H776"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "(et)",
+   "other": "את"
+  },
+  {
+   "en": "the skywaters",
+   "other": "השמים"
+  },
+  {
+   "en": "the land",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "matter, space and time"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "Bereshit",
+  "in the beginning",
+  "God created the heavens and the earth",
+  "matter space time",
+  "solid liquid gas",
+  "length width depth",
+  "past present future",
+  "skywaters",
+  "ha'aretz",
+  "hashamayim",
+  "bara",
+  "elohim",
+  "et",
+  "Hebrew word study",
+  "dimensions of creation"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

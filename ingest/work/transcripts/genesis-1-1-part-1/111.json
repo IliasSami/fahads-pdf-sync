@@ -1,0 +1,148 @@
+{
+ "id": "genesis-1-1-part-1/111",
+ "kinds": [
+  "verse",
+  "word-study",
+  "diagram"
+ ],
+ "title": "Reparsing Genesis 1:1 backwards: \"Behold this is my match Moses a match of Yah\"",
+ "summary": "The backwards letters of Genesis 1:1 are regrouped into new Hebrew words, each tied by arrows to an English meaning: Behold, match, moshe (Moses), match, yah. The slide reads the result as \"Behold this is my match Moses a match of yah\".",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "and reparsing the words reveals:"
+  },
+  {
+   "lang": "he",
+   "role": "body",
+   "text": "ץרא ה תאוםי משה תאם יה לאארבתישארב"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Behold"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "match"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "moshe"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "match"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "yah"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Behold this is my match Moses a match of yah"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 (reparsed backwards)",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "משה",
+   "translit": "moshe",
+   "gloss": "Moses",
+   "strongs": "H4872"
+  },
+  {
+   "lang": "he",
+   "word": "יה",
+   "translit": "yah",
+   "gloss": "Yah (short form of the LORD's name)",
+   "strongs": "H3050"
+  },
+  {
+   "lang": "he",
+   "word": "תאם",
+   "translit": "ta'am",
+   "gloss": "match",
+   "strongs": "H8382"
+  },
+  {
+   "lang": "he",
+   "word": "ץרא ה",
+   "translit": "",
+   "gloss": "Behold",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Behold",
+   "other": "ץרא ה"
+  },
+  {
+   "en": "moshe",
+   "other": "משה"
+  },
+  {
+   "en": "Moses",
+   "other": "משה"
+  },
+  {
+   "en": "yah",
+   "other": "יה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Moses",
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Bible codes",
+   "names of God",
+   "Torah",
+   "prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1 backwards",
+  "reparsing",
+  "Moses",
+  "moshe",
+  "yah",
+  "match",
+  "behold",
+  "this is my match",
+  "a match of Yah",
+  "Moses hidden in Genesis 1:1",
+  "Bible code",
+  "prophet like Moses",
+  "reversed Hebrew letters",
+  "Yah"
+ ],
+ "uncertain": [
+  "The exact letter groups shown on the slide are typed in reading order (right to left) as ץרא ה תאוםי משה תאם יה לאארבתישארב; which letters belong to which English label (arrows) is partly hard to read, especially the first two groups for 'Behold' and 'match'."
+ ],
+ "confidence": 0.75
+}

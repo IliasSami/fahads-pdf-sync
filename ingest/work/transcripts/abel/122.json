@@ -1,0 +1,37 @@
+{
+  "id": "abel/122",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:15 — “mark” or “sign” (oat, אות)",
+  "summary": "Genesis 4:15 in English and Hebrew with “mark” in red and the Hebrew word אות highlighted letter by letter, plus a word study: oat (אות) means “Sign, Mark.”",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:15", "osis": "Gen.4.15"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:יה"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.15", "text": "15 And the LORD said to him, “Therefore, whoever kills Cain, vengeance shall be taken on him sevenfold.” And the LORD set a mark on Cain, lest anyone finding him should kill him."},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.15", "text": "15 ויאמר לו יהוה לכן כל הרג קין שבעתים יקם וישם יהוה לקין אות לבלתי הכות אתו כל מצאו׃"},
+    {"lang": "translit", "role": "label", "text": "oat"},
+    {"lang": "he", "role": "label", "text": "אות"},
+    {"lang": "en", "role": "label", "text": "Sign, Mark"}
+  ],
+  "refs": [{"shown": "Genesis 4:15 / בראשית ד:יה", "osis": ["Gen.4.15"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "אות", "translit": "oat", "gloss": "sign, mark", "strongs": "H226"}
+  ],
+  "color_links": [
+    {"en": "mark", "other": "אות"},
+    {"en": "Sign, Mark", "other": "אות"},
+    {"en": "o (oat)", "other": "א"},
+    {"en": "a (oat)", "other": "ו"},
+    {"en": "t (oat)", "other": "ת"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": ""},
+    {"lang": "he", "letter": "vav", "char": "ו", "value": 6, "meaning": ""},
+    {"lang": "he", "letter": "tav", "char": "ת", "value": 400, "meaning": ""}
+  ],
+  "numbers": [{"value": 7, "note": "vengeance on whoever kills Cain is sevenfold (שבעתים)"}],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain"], "places": [], "events": ["Cain's punishment"], "things": ["mark of Cain"], "themes": ["judgment", "grace", "protection", "names of God"], "groups": []},
+  "keywords": ["mark of Cain", "sign", "mark", "oat", "ot", "oth", "Hebrew word for sign", "the LORD set a mark upon Cain", "vengeance sevenfold", "protection for Cain", "Cain and Abel", "Genesis 4", "Genesis 4:15"],
+  "uncertain": ["The LORD in English and יהוה in Hebrew have individually coloured letters (decorative: red L/yod, orange R/vav), meaning not explained on this slide.", "The colour pairing of the transliteration letters with the individual Hebrew letters (o=blue א, a=orange ו, t=red ת) is as coloured on the slide."],
+  "confidence": 0.94
+}

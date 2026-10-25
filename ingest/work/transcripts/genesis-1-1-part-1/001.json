@@ -1,0 +1,96 @@
+{
+ "id": "genesis-1-1-part-1/1",
+ "kinds": [
+  "title",
+  "picture"
+ ],
+ "title": "Title slide: Dutch Uncle John's Exegesis on Genesis 1:1, Part 1",
+ "summary": "Title slide for the first part of the Genesis 1:1 study, showing the presenter seated in front of a large world map with the title \"In Beginning, Part 1\" and the number 1 over the video picture.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Dutch Uncle John’s Exegesis on Genesis 1:1, Part 1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "PDF Slides"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "In Beginning, Part 1"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "video-still",
+   "description": "Video still of the presenter, a man with glasses and short grey hair in a white t-shirt, seated on a tan couch and gesturing with both hands spread wide. Behind him hangs a large wall map of the world showing South America, the South Atlantic Ocean, Africa and the Indian Ocean. Green text \"In Beginning, Part 1\" and the green number 1 are overlaid.",
+   "subjects": [
+    "presenter",
+    "world map",
+    "wall map",
+    "man on couch",
+    "South America",
+    "Africa",
+    "Indian Ocean",
+    "video still"
+   ],
+   "text_in_picture": "BRAZIL, ARGENTINA, CHILE, SOUTH ATLANTIC OCEAN, INDIAN OCEAN (map labels); In Beginning, Part 1",
+   "credit": null,
+   "box": [
+    0.0,
+    0.13,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "in the beginning",
+  "Dutch Uncle John",
+  "exegesis",
+  "title slide",
+  "Genesis part 1",
+  "In Beginning",
+  "creation",
+  "bereshit",
+  "video still",
+  "world map",
+  "PDF slides"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

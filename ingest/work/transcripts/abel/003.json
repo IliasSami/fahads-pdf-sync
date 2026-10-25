@@ -1,0 +1,33 @@
+{
+  "id": "abel/3",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:1 — the Hebrew prefix vav (ו) means “and”",
+  "summary": "Genesis 4:1 with every “and” highlighted in orange alongside the Hebrew letter vav (ו) that begins each clause, showing that the prefix ו (v-) means “and”.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:1", "osis": "Gen.4.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:א", "osis": "Gen.4.1"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.1", "text": "1 And the man had relations with Eve his wife, and she conceived and gave birth to Cain, and she said, “I have obtained a man with the help of the LORD.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.1", "text": "1 והאדם ידע את חוה אשתו ותהר ותלד את קין ותאמר קניתי איש את יהוה׃"},
+    {"lang": "translit", "role": "label", "text": "v-"},
+    {"lang": "he", "role": "label", "text": "ו-"},
+    {"lang": "en", "role": "label", "text": "And"}
+  ],
+  "refs": [{"shown": "Genesis 4:1 / בראשית ד:א", "osis": ["Gen.4.1"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "ו", "translit": "v-", "gloss": "and (conjunction prefix)", "strongs": null}
+  ],
+  "color_links": [
+    {"en": "And", "other": "ו"},
+    {"en": "v-", "other": "ו"},
+    {"en": "LORD", "other": "יהוה"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "vav", "char": "ו", "value": 6, "meaning": "and (as a prefix)"}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Adam", "Eve", "Cain", "God"], "places": [], "events": ["birth of Cain"], "things": [], "themes": ["Hebrew grammar"], "groups": []},
+  "keywords": ["vav", "waw", "and", "Hebrew conjunction", "prefix", "Genesis 4:1", "Genesis 4", "Adam knew Eve", "Cain", "Hebrew grammar", "vav consecutive"],
+  "uncertain": [],
+  "confidence": 0.93
+}

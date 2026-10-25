@@ -1,0 +1,117 @@
+{
+ "id": "noah-part-2/33",
+ "kinds": [
+  "verse"
+ ],
+ "title": "John 6:48 and John 4:14 — bread of life and the well of water springing up",
+ "summary": "John 6:48 (\"I am the bread of life\") above a second quotation labelled John 6:48 in English but Ἰωάνης 4:14 in Greek: whoever drinks the water Jesus gives will never thirst, and it becomes a well of water springing up to eternal life. Bread is brown, water is light blue, and the Hebrew ישוע (Yeshua) in red signs the second quote.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 6:48",
+   "osis": "John.6.48"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 6:48"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.6.48",
+   "text": "48 \"I am the bread of life.—Jesus"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 6:48",
+   "osis": "John.4.14"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 4:14"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.4.14",
+   "text": "14 but whoever drinks of the water that I will give him shall never thirst; but the water that I will give him will become in him a well of water springing up to eternal life.”—"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ישוע"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 6:48 / Ἰωάνης 6:48",
+   "osis": [
+    "John.6.48"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "John 6:48 (English) / Ἰωάνης 4:14 (Greek)",
+   "osis": [
+    "John.4.14"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Jesus (Yeshua)",
+   "strongs": "H3442"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Jesus",
+   "other": "ישוע"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "bread",
+   "water"
+  ],
+  "themes": [
+   "life",
+   "eternal life",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 6:48",
+  "John 4:14",
+  "bread of life",
+  "living water",
+  "well of water springing up",
+  "never thirst",
+  "eternal life",
+  "Jesus",
+  "Yeshua",
+  "bread and water",
+  "Gospel of John"
+ ],
+ "uncertain": [
+  "The second header reads John 6:48 in English but Ἰωάνης 4:14 in Greek; the quoted text is John 4:14 (transcribed as shown)."
+ ],
+ "confidence": 0.93
+}

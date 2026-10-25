@@ -1,0 +1,286 @@
+{
+ "id": "noah-part-2/97",
+ "kinds": [
+  "genealogy",
+  "list",
+  "verse"
+ ],
+ "title": "Genesis 10 — The 70 Nations from Japheth, Ham and Shem",
+ "summary": "A colour-coded chart of the Table of Nations in Genesis 10 with verse 1 quoted: 14 nations descend from Japheth, 30 from Ham and 26 from Shem, adding up to 70. Each son's list is shown with the sub-lines of the sons who had children, and a star marks the messianic line (Shem, Eber, Arpachshad, Shelah, Peleg).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Genesis 10"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The 70 Nations"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית י"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.10.1",
+   "text": "1 Now these are the records of the generations of Shem*, Ham, and Japheth, the sons of Noah; and sons were born to them after the flood."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Japheth"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Gomer, 2 Magog, 3 Madai, 4 Javan, 5 Tubal, 6 Meshech, 7 Tiras"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Gomer → 8 Ashkenaz, 9 Riphath, 10 Togarmah"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "4 Javan → 11 Elishah, 12 Tarshish, 13 Kittim, 14 Dodanim"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "Japheth → 14"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "Ham → 30"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "+ Shem → 26"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "Total Nations = 70"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "*denotes messianic line"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Ham"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Cush, 2 Mizraim, 3 Put, 4 Canaan."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Cush → 5 Seba, 6 Havilah, 7 Sabtah, 8 Raamah, 9 Sabteca"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "8 Raamah → 10 Sheba, 11 Dedan, 12 Nimrod"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "2 Mizraim → 13 Ludim, 14 Anamim, 15 Lehabim, 16 Naphtuhim, 17 Pathrusim, 18 Casluhim, 19 Caphtorim"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "4 Canaan → 20 Sidon, 21 Heth, 22 Jebusite, 23 Amorite, 24 Girgashite, 25 Hivite, 26 Arkite, 27 Sinite, 28 Arvadite, 29 Zemarite, 30 Hamathite"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Shem*"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Eber*, 2 Elam, 3 Asshur, 4 Arpachshad*, 5 Lud, 6 Aram"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "6 Aram → 7 Uz, 8 Hul, 9 Gether, 10 Mash"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "4 Arpachshad* → 11 Shelah*"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "11 Shelah* → 1 Eber*"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Eber* → 12 Peleg*, 13 Joktan"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "13 Joktan → 14 Almodad, 15 Sheleph, 16 Hazarmaveth, 17 Jerah, 18 Hadoram, 19 Uzal, 20 Diklah, 21 Obal, 22 Abimael, 23 Sheba, 24 Ophir, 25 Havilah, 26 Jobab"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 10 / בראשית י",
+   "osis": [
+    "Gen.10.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 70,
+   "note": "total nations in Genesis 10 (Japheth 14 + Ham 30 + Shem 26)"
+  },
+  {
+   "value": 14,
+   "note": "nations from Japheth"
+  },
+  {
+   "value": 30,
+   "note": "nations from Ham"
+  },
+  {
+   "value": 26,
+   "note": "nations from Shem"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "Shem",
+   "Ham",
+   "Japheth",
+   "Gomer",
+   "Magog",
+   "Madai",
+   "Javan",
+   "Tubal",
+   "Meshech",
+   "Tiras",
+   "Ashkenaz",
+   "Riphath",
+   "Togarmah",
+   "Elishah",
+   "Tarshish",
+   "Kittim",
+   "Dodanim",
+   "Cush",
+   "Mizraim",
+   "Put",
+   "Canaan",
+   "Seba",
+   "Havilah",
+   "Sabtah",
+   "Raamah",
+   "Sabteca",
+   "Sheba",
+   "Dedan",
+   "Nimrod",
+   "Ludim",
+   "Anamim",
+   "Lehabim",
+   "Naphtuhim",
+   "Pathrusim",
+   "Casluhim",
+   "Caphtorim",
+   "Sidon",
+   "Heth",
+   "Eber",
+   "Elam",
+   "Asshur",
+   "Arpachshad",
+   "Lud",
+   "Aram",
+   "Uz",
+   "Hul",
+   "Gether",
+   "Mash",
+   "Shelah",
+   "Peleg",
+   "Joktan",
+   "Almodad",
+   "Sheleph",
+   "Hazarmaveth",
+   "Jerah",
+   "Hadoram",
+   "Uzal",
+   "Diklah",
+   "Obal",
+   "Abimael",
+   "Ophir",
+   "Jobab"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [],
+  "themes": [
+   "genealogy",
+   "messianic line",
+   "table of nations",
+   "seventy nations"
+  ],
+  "groups": [
+   "Jebusites",
+   "Amorites",
+   "Girgashites",
+   "Hivites",
+   "Arkites",
+   "Sinites",
+   "Arvadites",
+   "Zemarites",
+   "Hamathites"
+  ]
+ },
+ "keywords": [
+  "Genesis 10",
+  "table of nations",
+  "70 nations",
+  "seventy nations",
+  "Japheth Ham Shem",
+  "sons of Noah",
+  "genealogy",
+  "messianic line",
+  "Gomer Magog",
+  "Cush Mizraim Put Canaan",
+  "Eber Hebrew",
+  "Peleg",
+  "Joktan",
+  "Nimrod",
+  "Arpachshad",
+  "family tree",
+  "generations of Noah"
+ ],
+ "uncertain": [
+  "Shem's list is shown in a non-sequential numbering (Eber is numbered 1 and repeated in later lines); transcribed as shown."
+ ],
+ "confidence": 0.93
+}

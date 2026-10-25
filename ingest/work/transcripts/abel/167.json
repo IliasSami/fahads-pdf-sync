@@ -1,0 +1,114 @@
+{
+  "id": "abel/167",
+  "kinds": [
+    "verse",
+    "comparison"
+  ],
+  "title": "The blood of Abel and Yeshua spoke (Genesis 4:10; Hebrews 12:24)",
+  "summary": "Genesis 4:10 and Hebrews 12:24 joined by the large heading \"The blood of Abel & yeshua spoke,\" with blood, Abel and yeshua colour-highlighted.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:10",
+      "osis": "Gen.4.10"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:י",
+      "osis": "Gen.4.10"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "10 And He said, “What have you done? The voice of your brother’s blood cries out to Me from the ground.",
+      "osis": "Gen.4.10"
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "The blood of Abel & yeshua spoke"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Hebrews 12:24",
+      "osis": "Heb.12.24"
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "ΕΒΡΑΙΟΥΣ 12:24",
+      "osis": "Heb.12.24"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "24 and to Jesus the mediator of a new covenant, and to the sprinkling of blood, speaking better things than that of Abel.",
+      "osis": "Heb.12.24"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:10 / בראשית ד:י",
+      "osis": [
+        "Gen.4.10"
+      ],
+      "role": "quoted"
+    },
+    {
+      "shown": "Hebrews 12:24 / ΕΒΡΑΙΟΥΣ 12:24",
+      "osis": [
+        "Heb.12.24"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "God",
+      "Cain",
+      "Abel",
+      "Jesus"
+    ],
+    "places": [],
+    "events": [
+      "Murder of Abel"
+    ],
+    "things": [
+      "ground"
+    ],
+    "themes": [
+      "blood",
+      "covenant",
+      "typology",
+      "Abel as a type of Christ",
+      "atonement"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Genesis 4",
+    "Genesis 4:10",
+    "What have you done",
+    "voice of your brother's blood",
+    "blood cries out from the ground",
+    "Abel's blood",
+    "God speaks to Cain",
+    "Hebrews 12:24",
+    "The blood of Abel and Yeshua spoke",
+    "Yeshua",
+    "mediator of a new covenant",
+    "sprinkling of blood",
+    "better things than Abel",
+    "Abel a type of Christ"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

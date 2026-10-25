@@ -1,0 +1,110 @@
+{
+ "id": "genesis-1-1-part-2/9",
+ "kinds": [
+  "gematria",
+  "text"
+ ],
+ "title": "John 1:1 — letters and words formula giving 2.7183E x 10^40 (e)",
+ "summary": "Under the heading John 1:1 (English and Greek), a formula — (number of letters x product of letters) divided by (number of words x product of words) — worked out as (52 x 8,436,251,456,259,110 followed by 24 zeros) divided by (17 x 949,302,241,399,839 followed by 21 zeros) = 2.7183E x 10^40, which the slide equates with the constant e.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 1:1",
+   "osis": "John.1.1"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΙΩΑΝΝΗΝ 1:1"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "(Number of Letters x Product of Letters) divided by (Number of Words x Product of Words) ="
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "(52 x 8,436,251,456,259,110,000,000,000,000,000,000,000,000)"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "divided by"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "(17 x 949,302,241,399,839,000,000,000,000,000,000,000)"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 2.7183E x 10^40"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= logₑ X x 10^40 or e x 10^40"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 1:1 / ΙΩΑΝΝΗΝ 1:1",
+   "osis": [
+    "John.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 52,
+   "note": "multiplier in the numerator (the number of letters)"
+  },
+  {
+   "value": 17,
+   "note": "multiplier in the denominator (the number of words)"
+  },
+  {
+   "value": 2.7183,
+   "note": "result 2.7183E x 10^40, equated with e (log base e)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 1:1",
+  "In the beginning was the Word",
+  "Logos",
+  "Greek letters",
+  "e",
+  "Euler's number",
+  "natural logarithm",
+  "2.7183",
+  "log base e",
+  "number of letters",
+  "product of words",
+  "mathematics in the Bible",
+  "equation",
+  "10^40"
+ ],
+ "uncertain": [
+  "Computed from the digits as read, the ratio is about 2.7183 x 10^4; the slide states 10^40. Transcribed as shown (digit groups of 000 counted: 8 in the numerator, 7 in the denominator)."
+ ],
+ "confidence": 0.9
+}

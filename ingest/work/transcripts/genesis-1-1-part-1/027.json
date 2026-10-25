@@ -1,0 +1,196 @@
+{
+ "id": "genesis-1-1-part-1/27",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "Aish (fire): alef = strong, shin = destruction",
+ "summary": "Shows the Hebrew word for fire, aish (אש), with its two letters: alef (ox, strength, God; pictograph) and shin (teeth, destruction; pictograph). Combined: fire = “Strong Destruction.”",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "aish"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "א ש"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Fire"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "A"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Ox, Strength, God"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shin"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Sh S"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Teeth, Destruction"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shin"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Destruction"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Strong"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Fire ↔ Strong Destruction ↔ aish"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אש",
+   "translit": "aish",
+   "gloss": "fire",
+   "strongs": "H784"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Fire",
+   "other": "אש"
+  },
+  {
+   "en": "aish",
+   "other": "אש"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "Strong",
+   "other": "א"
+  },
+  {
+   "en": "Ox, Strength, God",
+   "other": "א"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "ox, strength, God (A)"
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "teeth, destruction (Sh, S)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Two ancient (paleo-)Hebrew glyphs: an ox head over a blue line (alef) and a wavy teeth shape over a black line (shin), shown first in a list with their meanings and then side by side.",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictographs",
+    "ox head",
+    "teeth",
+    "ancient Hebrew letters"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.3,
+    0.17,
+    0.7,
+    0.72
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "fire"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "pictographs",
+   "fire",
+   "holiness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "aish",
+  "esh",
+  "fire",
+  "Hebrew word for fire",
+  "alef",
+  "aleph",
+  "shin",
+  "ox",
+  "teeth",
+  "strong destruction",
+  "paleo-Hebrew",
+  "pictographs",
+  "letter meanings",
+  "strength"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

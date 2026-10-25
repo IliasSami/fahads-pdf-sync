@@ -1,0 +1,104 @@
+{
+  "id": "akeda-2/128",
+  "kinds": [
+    "comparison",
+    "text"
+  ],
+  "title": "The Binding of Isaac and the Binding of Yeshua: a father offers his son",
+  "summary": "Side-by-side comparison under the heading העקדה (The Akedah): Abraham the father offered his son Isaac as a sacrifice; GOD the Father offered His Son, Yeshua, as a sacrifice. A Star of David marks the Isaac column and a cross marks the Yeshua column.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "The Binding of Isaac"
+    },
+    {
+      "lang": "he",
+      "role": "heading",
+      "text": "ה ע ק ד ה"
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "The Akedah"
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "The Binding of yeshua"
+    },
+    {
+      "lang": "en",
+      "role": "body",
+      "text": "Abraham the father offered his son, Isaac, as a sacrifice;"
+    },
+    {
+      "lang": "en",
+      "role": "body",
+      "text": "GOD the father offered His Son, yeshua, as a sacrifice."
+    }
+  ],
+  "refs": [],
+  "words": [
+    {
+      "lang": "he",
+      "word": "העקדה",
+      "translit": "ha-akedah",
+      "gloss": "the binding",
+      "strongs": "H6123",
+      "gematria": null
+    }
+  ],
+  "color_links": [
+    {
+      "en": "The",
+      "other": "ה"
+    },
+    {
+      "en": "Akedah",
+      "other": "עקדה"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Abraham",
+      "Isaac",
+      "God",
+      "Jesus"
+    ],
+    "places": [],
+    "events": [
+      "Binding of Isaac (Akedah)",
+      "Crucifixion"
+    ],
+    "things": [],
+    "themes": [
+      "typology",
+      "sacrifice",
+      "father and son",
+      "substitution"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Akedah",
+    "Akeda",
+    "binding of Isaac",
+    "binding of Yeshua",
+    "Yeshua",
+    "Jesus",
+    "Isaac as a type of Christ",
+    "Isaac and Jesus compared",
+    "parallels",
+    "father offered his son",
+    "God the Father",
+    "Son of God",
+    "sacrifice of a son",
+    "Genesis 22"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

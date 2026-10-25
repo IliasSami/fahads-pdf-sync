@@ -1,0 +1,124 @@
+{
+ "id": "gods-garden-in-eden/43",
+ "kinds": [
+  "verse",
+  "picture"
+ ],
+ "title": "Exodus 39:6 — onyx stones engraved with the names of the sons of Israel",
+ "summary": "Exodus 39:6 in English and Hebrew, with 'onyx' and the Hebrew השהם highlighted in maroon. A photo of polished red-banded onyx stones with the caption 'Onyx' sits at lower left. The verse says the onyx stones were set in gold filigree and engraved like a signet with the names of the sons of Israel.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 39:6",
+   "osis": "Exod.39.6"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות לט:ו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.39.6",
+   "text": "6 They made the onyx stones, set in gold filigree settings; they were engraved like the engravings of a signet, according to the names of the sons of Israel."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Exod.39.6",
+   "text": "6 ויעשו את־אבני השהם מסבת משבצת זהב מפתחת פתוחי חותם על־שמות בני ישראל׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Onyx"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 39:6 / שמות לט:ו",
+   "osis": [
+    "Exod.39.6"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "השהם",
+   "translit": "ha-shoham",
+   "gloss": "the onyx",
+   "strongs": "H7718",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "onyx",
+   "other": "השהם"
+  },
+  {
+   "en": "Onyx",
+   "other": "השהם"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Two rows of polished oval stones in glossy red-brown with white and cream wavy bands on a white background, captioned 'Onyx'.",
+   "subjects": [
+    "onyx",
+    "banded stone",
+    "red stone",
+    "polished gemstone",
+    "oval beads",
+    "agate"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.161,
+    0.657,
+    0.495,
+    1.0
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "onyx",
+   "gold filigree settings",
+   "signet"
+  ],
+  "themes": [],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "onyx",
+  "shoham",
+  "onyx stones",
+  "gold filigree settings",
+  "ouches of gold",
+  "signet",
+  "engraved with names",
+  "names of the sons of Israel",
+  "tribes of Israel",
+  "Exodus 39",
+  "Exodus 39:6",
+  "ephod",
+  "priestly garments",
+  "photo of onyx"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

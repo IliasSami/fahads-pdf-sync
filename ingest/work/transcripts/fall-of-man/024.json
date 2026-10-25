@@ -1,0 +1,181 @@
+{
+ "id": "fall-of-man/24",
+ "kinds": [
+  "verse",
+  "word-study",
+  "comparison"
+ ],
+ "title": "Genesis 3:15 Protoevangelium (First Gospel): your seed vs her seed",
+ "summary": "Genesis 3:15, called the Protoevangelium or First Gospel, with matching words colour-coded and underlined. It sets 'your seed' (hasatan, head bruised) against 'her seed' (yeshua, 'Heal' [sic] bruised) and gives the Hebrew word for enmity, איבה.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Protoevangelium"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "First Gospel"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:15",
+   "osis": "Gen.3.15"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:יה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.3.15",
+   "text": "15 And I will put enmity between you and the woman, And between your seed and her seed; He shall bruise you on the head, And you shall bruise him on the heel.”"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "enmity"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "hostility"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "hatred"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "איבה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Your seed"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hasatan"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Head bruised"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Her seed"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yeshua"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Heal bruised"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:15 / בראשית ג:יה",
+   "osis": [
+    "Gen.3.15"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "איבה",
+   "translit": "eivah",
+   "gloss": "enmity, hostility, hatred",
+   "strongs": "H342"
+  },
+  {
+   "lang": "he",
+   "word": "השטן",
+   "translit": "hasatan",
+   "gloss": "the adversary (Satan)",
+   "strongs": "H7854"
+  },
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Yeshua (Jesus), 'salvation'",
+   "strongs": "H3442"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "enmity",
+   "other": "איבה"
+  },
+  {
+   "en": "Your seed",
+   "other": "hasatan"
+  },
+  {
+   "en": "Her seed",
+   "other": "yeshua"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Satan",
+   "Jesus",
+   "Eve"
+  ],
+  "places": [],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [
+   "head",
+   "heel"
+  ],
+  "themes": [
+   "seed",
+   "enmity",
+   "messianic prophecy",
+   "prophecy",
+   "redemption"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Protoevangelium",
+  "protoevangelion",
+  "First Gospel",
+  "Genesis 3:15",
+  "enmity between thee and the woman",
+  "seed of the woman",
+  "seed of the serpent",
+  "bruise his heel",
+  "bruise thy head",
+  "hasatan",
+  "yeshua",
+  "eivah",
+  "first messianic prophecy",
+  "crush the serpent's head"
+ ],
+ "uncertain": [
+  "The slide spells the last label 'Heal bruised' (transcribed as shown; apparently meant 'Heel')."
+ ],
+ "confidence": 0.95
+}

@@ -1,0 +1,179 @@
+{
+ "id": "akeda-2/137",
+ "kinds": [
+  "code-grid",
+  "word-study"
+ ],
+ "title": "Akedah letter grid: ש circled, blue letters and “hashem — The Name”",
+ "summary": "The Genesis 22:15-16 letter grid with the ש in the boxed row circled in red and several nearby letters (ה, ש, ם, מ, ה) picked out; at right a diagram labelled “hashem” shows the letters מ ם above a boxed ש above the colour-coded letters of the divine name, with arrows pointing to its outer letters and the caption “The Name”.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22:15-16",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב:יה-יו"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hashem"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ ם"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "The Name"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:15-16 / בראשית כב:יה-יו",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "השם",
+   "translit": "hashem",
+   "gloss": "the Name",
+   "strongs": "H8034"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "yahweh (the Name)",
+   "strongs": "H3068"
+  }
+ ],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "circled letter in the boxed row"
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "highlighted letter above the shin"
+  },
+  {
+   "lang": "he",
+   "letter": "final mem",
+   "char": "ם",
+   "value": 40,
+   "meaning": "highlighted letter above the shin"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "grid",
+   "description": "A block of black Hebrew letters (Genesis 22:15-16 in rows) with one row boxed in green and a red circle around the blue shin (ש) in it; a few letters above and below the circled shin (ה, ש, ם, מ and a ה in the divine name) are drawn bold or in blue.",
+   "subjects": [
+    "Hebrew letter grid",
+    "Bible code",
+    "Genesis 22",
+    "Akedah",
+    "word search",
+    "red circle",
+    "shin"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.02,
+    0.14,
+    0.56,
+    0.98
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "Right-hand diagram in blue, black, red and orange: the title “hashem”, letters ם and מ, a green box holding ש, and the four letters י ה ו ה underlined in red and orange, with two blue arrows pointing at the first and last letters and the caption “The Name”.",
+   "subjects": [
+    "hashem",
+    "the Name",
+    "divine name",
+    "Hebrew letters",
+    "arrows",
+    "yahweh"
+   ],
+   "text_in_picture": "hashem; The Name",
+   "credit": null,
+   "box": [
+    0.63,
+    0.2,
+    0.97,
+    0.83
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [],
+  "themes": [
+   "Bible codes",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "hashem",
+  "HaShem",
+  "the Name",
+  "Bible code",
+  "Hebrew letter grid",
+  "Akedah",
+  "Akeda",
+  "Genesis 22:16",
+  "yahweh",
+  "divine name",
+  "name of God",
+  "circled shin",
+  "hidden letters"
+ ],
+ "uncertain": [
+  "The slide does not spell out what the highlighted letters form; the letters ה-ש-ם appear to read down the grid as hashem",
+  "Grid contents were not transcribed cell by cell"
+ ],
+ "confidence": 0.9
+}

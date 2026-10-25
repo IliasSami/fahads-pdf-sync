@@ -1,0 +1,226 @@
+{
+ "id": "noah-part-1/20",
+ "kinds": [
+  "verse",
+  "word-study",
+  "timeline"
+ ],
+ "title": "Genesis 1:1 word by word — seven words, seven thousand-year periods",
+ "summary": "The seven Hebrew words of Genesis 1:1 are colour-coded with English and transliteration and each is tied to a 1000-year period, 1st to 7th: In the beginning (the 'the' crossed out), God fills or fattens the Earth, God chooses a people, yeshua comes first time, yeshua is in the heavens, yeshua returns, and 1000 years of Peace on Earth. The word את (et) appears twice.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "translit",
+   "role": "reference",
+   "text": "bereshit 1:1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "the Earth and (et) the skywaters (et) God created In beginning"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ha’aretz ve’et hashamayim et elohim bara bereshit"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "7th 6th 5th 4th 3rd 2nd 1st"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1000yrs 1000yrs 1000yrs 1000yrs 1000yrs 1000yrs 1000yrs"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "1000 yr Peace on Earth"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "yeshua את returns"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "yeshua is in the heavens"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "yeshua את comes first time"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "God chooses a people"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "God fills or fattens the Earth"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "In ~~the~~ beginning"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created (also fills or fattens)",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(object marker, aleph-tav)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the skywaters (the heavens)",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve’et",
+   "gloss": "and (et)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha’aretz",
+   "gloss": "the Earth",
+   "strongs": "H776"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "the skywaters",
+   "other": "השמים"
+  },
+  {
+   "en": "the Earth",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "seven Hebrew words of Genesis 1:1, each tied to a 1000-year period"
+  },
+  {
+   "value": 1000,
+   "note": "years in each of the seven periods"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Creation",
+   "Second Coming"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "prophecy",
+   "names of God",
+   "Hebrew letter meanings"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "bereshit",
+  "In the beginning",
+  "bara created",
+  "elohim",
+  "et aleph tav",
+  "את",
+  "seven words seven thousand years",
+  "7000 years",
+  "seven millennia",
+  "1000 years peace on Earth",
+  "yeshua returns",
+  "God chooses a people",
+  "fills or fattens the earth",
+  "skywaters",
+  "Genesis 1:1 prophecy"
+ ],
+ "uncertain": [
+  "The Hebrew letters of את (et) are dark red in the Hebrew line while the matching English labels '(et)' are green (4th) and navy (6th); colour links for et were therefore not recorded."
+ ],
+ "confidence": 0.93
+}

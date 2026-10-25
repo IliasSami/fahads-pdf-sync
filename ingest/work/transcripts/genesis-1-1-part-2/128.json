@@ -1,0 +1,44 @@
+{
+ "id": "genesis-1-1-part-2/128",
+ "kinds": [
+  "title"
+ ],
+ "title": "The Beginning (section title)",
+ "summary": "A plain white slide with the words 'The Beginning' in black text.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Beginning"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "the beginning",
+  "beginning",
+  "title slide",
+  "Genesis 1:1",
+  "in the beginning",
+  "bereshit",
+  "section heading"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

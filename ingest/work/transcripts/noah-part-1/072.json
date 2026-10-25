@@ -1,0 +1,127 @@
+{
+ "id": "noah-part-1/72",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Come into the ark (Genesis 7:1) and 'Come to Me' (Matthew 11:28)",
+ "summary": "Genesis 7:1, where the LORD tells Noah to come with his whole house into the ark because he alone was seen righteous, shown beside Matthew 11:28, 'Come to Me, all who are weary and heavy-laden, and I will give you rest', signed yeshua ישוע Jesus; the word 'Come' and 'Me' are in red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 7:1",
+   "osis": "Gen.7.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ז:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.1",
+   "text": "1 Then the LORD said to Noah, “Come, you and all your house into the ark, for you alone I have seen to be righteous before Me in this time."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Matthew 11:28",
+   "osis": "Matt.11.28"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Μαθθαῖον 11:28"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.11.28",
+   "text": "28 Come to Me, all who are weary and heavy-laden, and I will give you rest."
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "text": "—yeshua ישוע Jesus"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 7:1 / בראשית ז:א",
+   "osis": [
+    "Gen.7.1"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Matthew 11:28 / Μαθθαῖον 11:28",
+   "osis": [
+    "Matt.11.28"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Jesus (Yeshua)",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "yeshua",
+   "other": "ישוע"
+  },
+  {
+   "en": "Jesus",
+   "other": "ישוע"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus",
+   "Noah",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "salvation",
+   "righteousness",
+   "typology",
+   "grace"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Come into the ark",
+  "Come to Me",
+  "Come unto me",
+  "weary and heavy-laden",
+  "I will give you rest",
+  "Genesis 7:1",
+  "Matthew 11:28",
+  "Noah righteous",
+  "you alone I have seen righteous",
+  "yeshua",
+  "Yeshua",
+  "Jesus invitation",
+  "rest"
+ ],
+ "uncertain": [
+  "Colours not explained on the slide: 'Come' red in Genesis 7:1; 'LORD' letters brown/orange; 'No' of Noah green; 'Me' and 'I' red in Matthew 11:28. Greek header written as shown: Μαθθαῖον."
+ ],
+ "confidence": 0.95
+}

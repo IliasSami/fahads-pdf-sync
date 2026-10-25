@@ -1,0 +1,117 @@
+{
+ "id": "genesis-1-1-part-2/86",
+ "kinds": [
+  "diagram",
+  "gematria"
+ ],
+ "title": "2701 is a triangle number: 73 rows, bottom row 73",
+ "summary": "Genesis 1:1 with the number 2701 (the total value of its Hebrew words), shown as a huge blue triangle of dots. Text states that 2701 is a triangle number, the number of rows is 73, and the bottom row is 73.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "2701"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "2701 is a Triangle Number"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "No. of Rows = 73"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Bottom Row = 73"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2701,
+   "note": "total gematria of Genesis 1:1; a triangle number"
+  },
+  {
+   "value": 73,
+   "note": "number of rows, and number of dots in the bottom row, of the 2701-dot triangle"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A very large pyramid-shaped triangle made of 2701 tiny blue dots arranged in 73 rows, widening from a single dot at the top to 73 dots along the bottom.",
+   "subjects": [
+    "triangle",
+    "triangle number",
+    "blue dots",
+    "2701",
+    "73 rows",
+    "pyramid"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.16,
+    0.12,
+    0.56,
+    0.82
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "triangle"
+  ],
+  "themes": [
+   "gematria",
+   "triangular numbers",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "2701",
+  "triangle number",
+  "2701 triangle",
+  "73 rows",
+  "73",
+  "Genesis 1:1",
+  "gematria of Genesis 1:1",
+  "triangle of dots",
+  "mathematics of Genesis 1:1",
+  "blue triangle",
+  "בראשית"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

@@ -1,0 +1,256 @@
+{
+ "id": "genesis-1-1-part-2/121",
+ "kinds": [
+  "gematria",
+  "word-study",
+  "comparison"
+ ],
+ "title": "El (God) and Yahweh = 26, Yahweh and Adam (man) = 45",
+ "summary": "Shows El (אל, 'God') with ל = 26 and א = 26, then Yahweh = 26, then arrows pointing 'God' up and 'man' down around the name yahweh, then Yahweh = 45 and adam (אדם, 'man') = 40 + 4 + 1 = 45. Letters are colour-matched to the English words.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "el"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "God"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ל"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 26"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 26"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 26"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "↑ God ↑"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "↓ man ↓"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 45"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "40 + 4 + 1 = 45"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "adam"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ד ם"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "man"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אל",
+   "translit": "el",
+   "gloss": "God",
+   "strongs": "H410"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the name of God (YHWH, LORD)",
+   "strongs": "H3068",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 26
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "man",
+   "strongs": "H120",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     4,
+     1
+    ],
+    "total": 45
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "el",
+   "other": "אל"
+  },
+  {
+   "en": "God",
+   "other": "אל"
+  },
+  {
+   "en": "adam",
+   "other": "אדם"
+  },
+  {
+   "en": "man",
+   "other": "אדם"
+  },
+  {
+   "en": "y",
+   "other": "י"
+  },
+  {
+   "en": "w",
+   "other": "ו"
+  },
+  {
+   "en": "ah / eh",
+   "other": "ה"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "shown on slide as א = 26"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "shown on slide as ל = 26"
+  },
+  {
+   "lang": "he",
+   "letter": "dalet",
+   "char": "ד",
+   "value": 4,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "ם",
+   "value": 40,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 26,
+   "note": "shown for ל, for א, and for yahweh (יהוה)"
+  },
+  {
+   "value": 45,
+   "note": "yahweh = 45 and adam אדם (40+4+1) = 45"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "names of God",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "El God 26",
+  "Yahweh 26",
+  "Yahweh 45",
+  "Adam 45",
+  "man 45",
+  "God and man",
+  "אל",
+  "אדם",
+  "gematria",
+  "YHWH",
+  "tetragrammaton",
+  "God man Yahweh numbers",
+  "40+4+1"
+ ],
+ "uncertain": [
+  "Slide shows ל = 26 and א = 26 (standard letter values are lamed 30 and alef 1); transcribed as shown.",
+  "Meaning of the up and down arrows beside God, yahweh and man is not stated on the slide."
+ ],
+ "confidence": 0.9
+}

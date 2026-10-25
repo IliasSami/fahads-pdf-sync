@@ -1,0 +1,231 @@
+{
+ "id": "genesis-1-1-part-1/69",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:1 in seven numbered Hebrew words with transliteration",
+ "summary": "Genesis 1:1 in colour-coded English ('In the beginning God created the heavens and the earth.', with the word 'the' after 'In' struck through), above the Hebrew with its transliteration, bereshit, bara, elohim, et, hashamayim, v'et, ha'aretz, and the seven Hebrew words numbered 1 to 7 from right to left.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "In ~~the~~ beginning God created the heavens and the earth.",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ha’aretz"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "v’et"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hashamayim"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "et"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "elohim"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bara"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bereshit"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "7 6 5 4 3 2 1"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "In the beginning God created the heavens and the earth.",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "untranslated object-marking word",
+   "strongs": "H853",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "v'et",
+   "gloss": "and (et)",
+   "strongs": "H853",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "heavens",
+   "other": "שמים"
+  },
+  {
+   "en": "and",
+   "other": "ו"
+  },
+  {
+   "en": "earth",
+   "other": "ארץ"
+  },
+  {
+   "en": "bereshit",
+   "other": "בראשית"
+  },
+  {
+   "en": "bara",
+   "other": "ברא"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "the Hebrew verse has seven words, numbered 1 to 7 from right to left"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A colour-coded picture of Genesis 1:1: the English sentence on top, a row of italic transliterations, the seven Hebrew words in matching colours (red, yellow, blue, orange, purple) and the numbers 7 to 1 beneath them.",
+   "subjects": [
+    "Genesis 1:1",
+    "Hebrew verse",
+    "word numbering",
+    "transliteration",
+    "colour-coded text"
+   ],
+   "text_in_picture": "In the beginning God created the heavens and the earth. ha’aretz v’et hashamayim et elohim bara bereshit בראשית ברא אלהים את השמים ואת הארץ 7 6 5 4 3 2 1",
+   "credit": null,
+   "box": [
+    0.05,
+    0.06,
+    0.95,
+    0.5
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "heavens",
+   "earth"
+  ],
+  "themes": [
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "in the beginning",
+  "God created the heavens and the earth",
+  "seven words",
+  "bereshit",
+  "bara",
+  "elohim",
+  "hashamayim",
+  "ha'aretz",
+  "et",
+  "transliteration",
+  "Hebrew word order",
+  "number of words",
+  "the struck out"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

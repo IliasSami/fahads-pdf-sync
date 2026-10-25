@@ -1,0 +1,39 @@
+{
+ "id": "red-heifer/126",
+ "kinds": [
+  "end"
+ ],
+ "title": "The End",
+ "summary": "Closing slide with the words 'The End' in dark navy letters on a white background.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The End"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "the end",
+  "end of lesson",
+  "closing slide",
+  "final slide",
+  "red heifer conclusion",
+  "end of presentation"
+ ],
+ "uncertain": [],
+ "confidence": 0.99
+}

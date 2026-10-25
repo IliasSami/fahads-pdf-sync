@@ -1,0 +1,29 @@
+{
+  "id": "akeda-1/70",
+  "kinds": ["verse"],
+  "title": "Hebrews 11:17-19 with Genesis 21:12 — Abraham reasoned God could raise the dead",
+  "summary": "Hebrews 11:17-19 (Abraham offered up Isaac by faith, reasoning that God could raise the dead and, in a sense, he received Isaac back from death), shown above Genesis 21:12 ('through Isaac your descendants shall be named'), which Hebrews quotes in capitals. Isaac, son and the number-verses are in red; God and Abraham in blue.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Hebrews 11:17-19", "osis": ["Heb.11.17", "Heb.11.18", "Heb.11.19"]},
+    {"lang": "el", "role": "reference", "text": "ΕΒΡΑΙΟΥΣ 11:17-19"},
+    {"lang": "en", "role": "verse", "osis": "Heb.11.17", "text": "17 By faith Abraham, when he was tested, offered up Isaac on the altar. He who had received the promises was ready to offer his one and only son,"},
+    {"lang": "en", "role": "verse", "osis": "Heb.11.18", "text": "18 even though God had said to him, “THROUGH ISAAC YOUR OFFSPRING WILL BE NAMED.”"},
+    {"lang": "en", "role": "verse", "osis": "Heb.11.19", "text": "19 Abraham reasoned that God could raise the dead, and in a sense, he did receive Isaac back from death."},
+    {"lang": "en", "role": "reference", "text": "Genesis 21:12", "osis": "Gen.21.12"},
+    {"lang": "he", "role": "reference", "text": "בראשית כא:יב"},
+    {"lang": "en", "role": "verse", "osis": "Gen.21.12", "text": "12 But God said to Abraham, “Do not be distressed because of the lad and your maid; whatever Sarah tells you, listen to her, for through Isaac your descendants shall be named."}
+  ],
+  "refs": [
+    {"shown": "Hebrews 11:17-19 / ΕΒΡΑΙΟΥΣ 11:17-19", "osis": ["Heb.11.17", "Heb.11.18", "Heb.11.19"], "role": "quoted"},
+    {"shown": "Genesis 21:12 / בראשית כא:יב", "osis": ["Gen.21.12"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac", "God", "Sarah"], "places": [], "events": ["Binding of Isaac (Akedah)", "Resurrection"], "things": ["altar"], "themes": ["faith", "resurrection", "obedience", "promise", "typology"], "groups": []},
+  "keywords": ["Hebrews 11:17", "Hebrews 11:19", "by faith Abraham offered up Isaac", "God was able to raise him up from the dead", "received him back from death", "only begotten son", "one and only son", "in Isaac shall thy seed be called", "Genesis 21:12", "resurrection of Isaac", "Akedah", "Akeda", "binding of Isaac"],
+  "uncertain": [],
+  "confidence": 0.97
+}

@@ -1,0 +1,39 @@
+{
+  "id": "akeda-2/81",
+  "kinds": ["verse", "word-study"],
+  "title": "Rebekah: bethulah (virgin) in Genesis 24:16 and almah (maiden) in 24:43",
+  "summary": "Compares two Hebrew words used for Rebekah in Genesis 24: bethulah (בתולה, virgin) in verse 16 and almah (עלמה, maiden) in verse 43, showing both verses in English and Hebrew with the key words in green.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 24:16", "osis": "Gen.24.16"},
+    {"lang": "translit", "role": "heading", "text": "bethulah"},
+    {"lang": "he", "role": "reference", "text": "בראשית כד:יו", "osis": "Gen.24.16"},
+    {"lang": "en", "role": "verse", "text": "16 The girl [Rebekah] was very beautiful, a virgin, and no man had had relations with her; and she went down to the spring and filled her jar and came up.", "osis": "Gen.24.16"},
+    {"lang": "he", "role": "verse", "text": "והנער טבת מראה מאד בתולה ...", "osis": "Gen.24.16"},
+    {"lang": "en", "role": "reference", "text": "Genesis 24:43", "osis": "Gen.24.43"},
+    {"lang": "translit", "role": "heading", "text": "almah"},
+    {"lang": "he", "role": "reference", "text": "בראשית כד:מג", "osis": "Gen.24.43"},
+    {"lang": "en", "role": "verse", "text": "43 behold, I am standing by the spring, and may it be that the maiden who comes out to draw, and to whom I say, \"Please let me drink a little water from your jar;\"", "osis": "Gen.24.43"},
+    {"lang": "he", "role": "verse", "text": "הנה אנכי נצב על-עין המים והיה העלמה היצאת לשאב ...", "osis": "Gen.24.43"}
+  ],
+  "refs": [
+    {"shown": "Genesis 24:16 / בראשית כד:יו", "osis": ["Gen.24.16"], "role": "quoted"},
+    {"shown": "Genesis 24:43 / בראשית כד:מג", "osis": ["Gen.24.43"], "role": "quoted"}
+  ],
+  "words": [
+    {"lang": "he", "word": "בתולה", "translit": "bethulah", "gloss": "virgin", "strongs": "H1330"},
+    {"lang": "he", "word": "עלמה", "translit": "almah", "gloss": "maiden, young woman of marriageable age", "strongs": "H5959"}
+  ],
+  "color_links": [
+    {"en": "virgin", "other": "בתולה"},
+    {"en": "bethulah", "other": "בתולה"},
+    {"en": "maiden", "other": "עלמה"},
+    {"en": "almah", "other": "עלמה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Rebekah", "Eliezer"], "places": [], "events": ["Finding a bride for Isaac"], "things": ["spring", "water jar"], "themes": ["marriage", "virginity", "purity"], "groups": []},
+  "keywords": ["bethulah", "betulah", "almah", "virgin", "maiden", "young woman", "damsel", "Rebekah", "Rebecca", "bride for Isaac", "well", "pitcher", "Genesis 24", "Isaiah 7:14 virgin"],
+  "uncertain": ["Hebrew reference for verse 16 is written כד:יו on the slide (standard form would be כד:טז)"],
+  "confidence": 0.93
+}

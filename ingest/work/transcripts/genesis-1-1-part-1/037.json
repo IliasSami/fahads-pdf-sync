@@ -1,0 +1,133 @@
+{
+ "id": "genesis-1-1-part-1/37",
+ "kinds": [
+  "letters"
+ ],
+ "title": "The letter mem (מ ם): water, chaos",
+ "summary": "Introduces the Hebrew letter mem in three type styles (regular mem with final mem in brackets), with its name, Latin equivalent M, value 40 and meaning “Water, Chaos”, and shows its ancient wavy-line pictograph turning into the letter M.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ(ם)"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ(ם)"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ(ם)"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "mem"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "M 40"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Water, Chaos"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "M"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "water, chaos (wavy-line pictograph); Latin M"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 40,
+   "note": "value of the letter mem (M 40)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph of mem: a black zigzag wavy line like water waves, with a pale blue line beneath it, shown beside the words “Water, Chaos”.",
+   "subjects": [
+    "mem pictograph",
+    "waves",
+    "water",
+    "paleo-Hebrew",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.47,
+    0.35,
+    0.56,
+    0.46
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Large black zigzag water-wave pictograph of mem over a blue line, followed by an arrow pointing to a large bold black Latin letter M, showing how the ancient sign became the letter M.",
+   "subjects": [
+    "mem pictograph",
+    "wavy line",
+    "arrow to M",
+    "alphabet origin",
+    "paleo-Hebrew"
+   ],
+   "text_in_picture": "M",
+   "credit": null,
+   "box": [
+    0.27,
+    0.6,
+    0.74,
+    0.84
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "water"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "mem",
+  "mem letter",
+  "Hebrew letter mem",
+  "final mem",
+  "water",
+  "chaos",
+  "waters",
+  "pictograph",
+  "ancient Hebrew",
+  "paleo-Hebrew",
+  "letter meanings",
+  "M 40",
+  "elohim"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

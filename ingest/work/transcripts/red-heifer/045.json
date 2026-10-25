@@ -1,0 +1,92 @@
+{
+ "id": "red-heifer/45",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Matthew 11:28-30 — take My yoke upon you and find rest for your souls",
+ "summary": "Matthew 11:28-30 in English with Me, I, My in red and the word yoke in brown. Jesus invites all who are weary and heavy-laden to come to Him, take His yoke, and learn from Him; the line 'YOU WILL FIND REST FOR YOUR SOULS' is capitalised and underlined, and the passage ends 'My yoke is easy and My burden is light.'",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Matthew 11:28-30",
+   "osis": [
+    "Matt.11.28",
+    "Matt.11.29",
+    "Matt.11.30"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Μαθθαῖον 11:28-30"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.11.28",
+   "text": "28 “Come to Me, all who are weary and heavy-laden, and I will give you rest."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.11.29",
+   "text": "29 “Take My yoke upon you and learn from Me, for I am gentle and humble in heart, and YOU WILL FIND REST FOR YOUR SOULS."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.11.30",
+   "text": "30 “For My yoke is easy and My burden is light.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Matthew 11:28-30 / Μαθθαῖον 11:28-30",
+   "osis": [
+    "Matt.11.28",
+    "Matt.11.29",
+    "Matt.11.30"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "yoke"
+  ],
+  "themes": [
+   "rest",
+   "grace",
+   "obedience"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Matthew 11",
+  "Matthew 11:28",
+  "Come to Me all who are weary",
+  "heavy-laden",
+  "take My yoke upon you",
+  "my yoke is easy",
+  "my burden is light",
+  "rest for your souls",
+  "gentle and humble in heart",
+  "yoke",
+  "Jesus yoke",
+  "red heifer never yoked",
+  "learn from Me"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

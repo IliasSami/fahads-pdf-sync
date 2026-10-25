@@ -1,0 +1,130 @@
+{
+ "id": "genesis-1-1-wisdom/126",
+ "kinds": [
+  "verse",
+  "word-study",
+  "quote"
+ ],
+ "title": "vayokal ויאכל “and he ate” — “knowing good and evil”",
+ "summary": "Genesis 3:6 with the colour-matched row vayokal / ויאכל / “and he ate”, and a new quotation below it: “knowing good and evil”.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:6",
+   "osis": "Gen.3.6"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:ו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "6 So when the woman saw that the tree was good for food, that it was pleasant to the eyes, and a tree desirable to make one wise, she took of its fruit and ate. She also gave to her husband with her, and he ate.",
+   "osis": "Gen.3.6"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "6 ותרא האשה כי טוב העץ למאכל וכי תאוה הוא לעינים ונחמד העץ להשכיל ותקח מפריו ותאכל ותתן גם לאישה עמה ויאכל׃",
+   "osis": "Gen.3.6"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "vayokal"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ויאכל"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "and he ate"
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "text": "“knowing good and evil”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:6 / בראשית ג:ו",
+   "osis": [
+    "Gen.3.6"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ויאכל",
+   "translit": "vayokal",
+   "gloss": "and he ate",
+   "strongs": "H398",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "and he ate",
+   "other": "ויאכל"
+  },
+  {
+   "en": "vayokal",
+   "other": "ויאכל"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Eve",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [
+   "tree",
+   "fruit"
+  ],
+  "themes": [
+   "sin",
+   "wisdom",
+   "knowledge of good and evil"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 3:6",
+  "Genesis 3",
+  "the woman saw the tree",
+  "good for food",
+  "pleasant to the eyes",
+  "desirable to make one wise",
+  "tree to be desired to make one wise",
+  "she took of the fruit",
+  "Eve ate the fruit",
+  "forbidden fruit",
+  "the Fall",
+  "temptation",
+  "and he ate",
+  "vayokal",
+  "Adam ate",
+  "vayyokhal",
+  "knowing good and evil",
+  "knowledge of good and evil",
+  "Genesis 3:5"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

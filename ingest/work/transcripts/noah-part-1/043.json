@@ -1,0 +1,91 @@
+{
+ "id": "noah-part-1/43",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 6:11-13 — the earth is corrupt and filled with violence",
+ "summary": "Genesis 6:11-13 in English: the earth is corrupt in God's sight and filled with violence, God sees all flesh has corrupted its way, and God tells Noah that the end of all flesh has come and He will destroy them with the earth. 'God' and 'Noah' are shown in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:11-13",
+   "osis": [
+    "Gen.6.11",
+    "Gen.6.12",
+    "Gen.6.13"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יא-יג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "11 Now the earth was corrupt in the sight of God, and the earth was filled with violence.",
+   "osis": "Gen.6.11"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "12 God looked on the earth, and behold, it was corrupt; for all flesh had corrupted their way upon the earth.",
+   "osis": "Gen.6.12"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "13 Then God said to Noah, “The end of all flesh has come before Me; for the earth is filled with violence because of them; and behold, I am about to destroy them with the earth.",
+   "osis": "Gen.6.13"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:11-13 / בראשית ו:יא-יג",
+   "osis": [
+    "Gen.6.11",
+    "Gen.6.12",
+    "Gen.6.13"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [],
+  "themes": [
+   "sin",
+   "judgment",
+   "death"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 6:11",
+  "Genesis 6:12",
+  "Genesis 6:13",
+  "earth was corrupt",
+  "filled with violence",
+  "all flesh corrupted",
+  "end of all flesh",
+  "God will destroy the earth",
+  "wickedness before the flood",
+  "judgment",
+  "destroy them with the earth"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

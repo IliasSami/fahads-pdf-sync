@@ -1,0 +1,208 @@
+{
+ "id": "akeda-2/67",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "barak in Psalm 104:1, Numbers 6:24 and Genesis 24:11 (camels)",
+ "summary": "Three verses that use the Hebrew root ברך, shown as barak: Psalm 104:1 (barak the LORD), Numbers 6:24 (The LORD barak you) and Genesis 24:11, where He made the camels barak outside the city. The third verse is cut off after 'outside the city'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 104:1",
+   "osis": "Ps.104.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים קד:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.104.1",
+   "text": "1 barak the LORD, O my soul!"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.104.1",
+   "text": "1 ברכי נפשי את־יהוה"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 6:24",
+   "osis": "Num.6.24"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר ו:כד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.6.24",
+   "text": "24 The LORD barak you and keep you."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Num.6.24",
+   "text": "24 יברכך יהוה וישמרך׃"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 24:11",
+   "osis": "Gen.24.11"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כד:יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.24.11",
+   "text": "11 And He made the camels barak outside the city…"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.24.11",
+   "text": "11 ויברך הגמלים מחוץ לעיר"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 104:1 / תהילים קד:א",
+   "osis": [
+    "Ps.104.1"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Numbers 6:24 / במדבר ו:כד",
+   "osis": [
+    "Num.6.24"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 24:11 / בראשית כד:יא",
+   "osis": [
+    "Gen.24.11"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ברכי",
+   "translit": "barak",
+   "gloss": "bless (Psalm 104:1)",
+   "strongs": "H1288"
+  },
+  {
+   "lang": "he",
+   "word": "יברכך",
+   "translit": "barak",
+   "gloss": "bless you (Numbers 6:24)",
+   "strongs": "H1288"
+  },
+  {
+   "lang": "he",
+   "word": "ויברך",
+   "translit": "barak",
+   "gloss": "and he made (the camels) kneel (Genesis 24:11)",
+   "strongs": "H1288"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the LORD",
+   "strongs": "H3068"
+  },
+  {
+   "lang": "he",
+   "word": "הגמלים",
+   "translit": "hagemalim",
+   "gloss": "the camels",
+   "strongs": "H1581"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "barak",
+   "other": "ברכי"
+  },
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  },
+  {
+   "en": "barak",
+   "other": "יברכך"
+  },
+  {
+   "en": "barak",
+   "other": "ויברך"
+  },
+  {
+   "en": "And",
+   "other": "וי"
+  },
+  {
+   "en": "camels",
+   "other": "הגמלים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Isaac's marriage to Rebekah"
+  ],
+  "things": [
+   "camels"
+  ],
+  "themes": [
+   "blessing",
+   "kneeling",
+   "worship",
+   "names of God",
+   "priesthood"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "barak",
+  "bless",
+  "kneel",
+  "Psalm 104:1",
+  "Numbers 6:24",
+  "Genesis 24:11",
+  "bless the LORD",
+  "the LORD bless you and keep you",
+  "camels kneel",
+  "camels made to kneel down",
+  "priestly blessing",
+  "baruch",
+  "Hebrew word study"
+ ],
+ "uncertain": [
+  "The slide's He/gold-shadow and colour pairings in the Genesis line are inferred from the colouring; no key is given."
+ ],
+ "confidence": 0.95
+}

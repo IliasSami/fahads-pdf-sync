@@ -1,0 +1,213 @@
+{
+  "id": "abel/72",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:7 — tov (good), compared with Genesis 1:4 “God saw the light was good”",
+  "summary": "Genesis 4:7 with tov (טוב, good) and, at the bottom, the earlier use of the same word in Genesis 1:4: “And God saw the light was good…” in English and Hebrew.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:7",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:ז",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "7 If you do well, will you not be accepted?",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "And if you do not do well, sin lies at the door.",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "And its desire is for you, but you should rule over it.”",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "7 הלוא אם תיטיב שאת",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ואם לא תיטיב לפתח חטאת רבץ",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ואליך תשוקתו ואתה תמשל בו׃",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "tov"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "טוב"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Good"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "4 And God saw the light was good…",
+      "osis": "Gen.1.4"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "4 וירא אלהים את האור כי טוב…",
+      "osis": "Gen.1.4"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 1",
+      "osis": "Gen.1.1"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית א",
+      "osis": "Gen.1.1"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:7 / בראשית ד:ז",
+      "osis": [
+        "Gen.4.7"
+      ],
+      "role": "quoted"
+    },
+    {
+      "shown": "Genesis 1:4 / בראשית א:ד",
+      "osis": [
+        "Gen.1.4"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "טוב",
+      "translit": "tov",
+      "gloss": "good",
+      "strongs": "H2896"
+    },
+    {
+      "lang": "he",
+      "word": "תיטיב",
+      "translit": "teitiv",
+      "gloss": "you do well",
+      "strongs": "H3190"
+    },
+    {
+      "lang": "he",
+      "word": "אלהים",
+      "translit": "elohim",
+      "gloss": "God",
+      "strongs": "H430"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "t (tov)",
+      "other": "ט"
+    },
+    {
+      "en": "o (tov)",
+      "other": "ו"
+    },
+    {
+      "en": "v (tov)",
+      "other": "ב"
+    },
+    {
+      "en": "God",
+      "other": "אלהים"
+    },
+    {
+      "en": "Genesis",
+      "other": "בראשית"
+    },
+    {
+      "en": "1",
+      "other": "א"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Cain",
+      "God"
+    ],
+    "places": [],
+    "events": [
+      "Creation",
+      "Cain and Abel's offerings"
+    ],
+    "things": [
+      "door",
+      "light"
+    ],
+    "themes": [
+      "sin",
+      "obedience",
+      "creation",
+      "light and darkness"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "if you do well",
+    "if thou doest well",
+    "shalt thou not be accepted",
+    "sin lieth at the door",
+    "sin lies at the door",
+    "sin crouching at the door",
+    "its desire is for you",
+    "rule over it",
+    "master sin",
+    "Genesis 4:7",
+    "Cain and Abel",
+    "Genesis 4",
+    "tov",
+    "good",
+    "God saw the light was good",
+    "Genesis 1:4",
+    "light was good",
+    "Hebrew word for good",
+    "and it was good"
+  ],
+  "uncertain": [
+    "The Genesis 1 reference is cited with only verse 4 quoted (with ellipses); chapter reference shown as Genesis 1 / בראשית א."
+  ],
+  "confidence": 0.93
+}

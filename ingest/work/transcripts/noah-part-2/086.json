@@ -1,0 +1,96 @@
+{
+ "id": "noah-part-2/86",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 9:5-7 — Whoever sheds man's blood, by man his blood shall be shed",
+ "summary": "Genesis 9:5-7 in English: God will require an accounting for lifeblood, whoever sheds man's blood will have his blood shed because man is made in God's image, and the command to be fruitful and multiply. The words life, blood and God are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 9:5-7",
+   "osis": [
+    "Gen.9.5",
+    "Gen.9.6",
+    "Gen.9.7"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ט:ה־ז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.5",
+   "text": "5 “Surely I will require your lifeblood; from every beast I will require it. And from every man, from every man’s brother I will require the life of man."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.6",
+   "text": "6 “Whoever sheds man’s blood, By man his blood shall be shed, For in the image of God He made man."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.7",
+   "text": "7 “As for you, be fruitful and multiply; Populate the earth abundantly and multiply in it.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 9:5-7 / בראשית ט:ה־ז",
+   "osis": [
+    "Gen.9.5",
+    "Gen.9.6",
+    "Gen.9.7"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "blood",
+   "lifeblood"
+  ],
+  "themes": [
+   "blood",
+   "judgment",
+   "image of God",
+   "sanctity of life"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 9",
+  "Genesis 9:5-7",
+  "lifeblood",
+  "whoever sheds man's blood",
+  "by man shall his blood be shed",
+  "image of God",
+  "capital punishment",
+  "murder",
+  "require your blood",
+  "be fruitful and multiply",
+  "after the flood",
+  "Noah"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

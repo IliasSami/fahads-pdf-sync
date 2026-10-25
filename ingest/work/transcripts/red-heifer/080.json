@@ -1,0 +1,96 @@
+{
+ "id": "red-heifer/80",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Numbers 19:18-19 — hyssop, sprinkling on day 3 and 7, wash and be clean at evening",
+ "summary": "Numbers 19:18-19 in English: a clean person dips hyssop in the water and sprinkles the tent, vessels and people (or anyone who touched a bone, the slain, the dead or a grave); the unclean is sprinkled on the third and seventh days, then washes his clothes, bathes in water and is clean at evening. Key words (clean, hyssop, water, unclean, third, seventh) are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:18-19",
+   "osis": [
+    "Num.19.18",
+    "Num.19.19"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:יח-יט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.18",
+   "text": "18 A clean person shall take hyssop and dip it in the water, sprinkle it on the tent, on all the vessels, on the persons who were there, or on the one who touched a bone, the slain, the dead, or a grave."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.19",
+   "text": "19 The clean person shall sprinkle the unclean on the third day and on the seventh day; and on the seventh day he shall purify himself, wash his clothes, and bathe in water; and at evening he shall be clean."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19:18-19 / במדבר יט:יח-יט",
+   "osis": [
+    "Num.19.18",
+    "Num.19.19"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "third day — sprinkling of the unclean"
+  },
+  {
+   "value": 7,
+   "note": "seventh day — sprinkling, washing, bathing; clean at evening"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "hyssop",
+   "water",
+   "tent",
+   "vessels",
+   "grave",
+   "bone"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "death",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Numbers 19",
+  "hyssop",
+  "sprinkle the unclean",
+  "third day and seventh day",
+  "dip hyssop in water",
+  "wash his clothes",
+  "bathe in water",
+  "clean at evening",
+  "water of purification",
+  "sprinkling with hyssop",
+  "touched a bone or grave",
+  "purify himself"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

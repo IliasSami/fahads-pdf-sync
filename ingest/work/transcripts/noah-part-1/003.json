@@ -1,0 +1,117 @@
+{
+ "id": "noah-part-1/3",
+ "kinds": [
+  "word-study",
+  "genealogy"
+ ],
+ "title": "Adam means Man; Seth means Appointed",
+ "summary": "Two name meanings in matching colours: Adam (אדם) means Man, and Seth (שת) means Appointed, with the number 130 and an arrow leading from Adam down to Seth.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Adam"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ד ם"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Man"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "130 ⇘ Seth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש ת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Appointed"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "man",
+   "strongs": "H120",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "שת",
+   "translit": "shet",
+   "gloss": "appointed (Seth)",
+   "strongs": "H8352",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Adam",
+   "other": "אדם"
+  },
+  {
+   "en": "Man",
+   "other": "אדם"
+  },
+  {
+   "en": "Seth",
+   "other": "שת"
+  },
+  {
+   "en": "Appointed",
+   "other": "שת"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 130,
+   "note": "number shown beside the arrow from Adam to Seth"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Seth"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "genealogy",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Adam",
+  "Seth",
+  "Sheth",
+  "man",
+  "appointed",
+  "name meaning",
+  "meaning of Adam",
+  "meaning of Seth",
+  "130",
+  "genealogy",
+  "Genesis 5",
+  "Genesis 4:25",
+  "Hebrew names"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

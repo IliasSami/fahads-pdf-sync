@@ -1,0 +1,25 @@
+{
+  "id": "akeda-2/44",
+  "kinds": ["verse"],
+  "title": "Genesis 22:19 — Abraham returned to his young men at Beersheba",
+  "summary": "Genesis 22:19 under the heading “The Akedah” (העקדה): Abraham returned to his young men and they went together to Beersheba, where Abraham lived. “Abraham” is coloured with its “h” set apart, and “young men” is highlighted in green.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22", "osis": "Gen.22.19"},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב", "osis": "Gen.22.19"},
+    {"lang": "en", "role": "heading", "text": "The Akedah"},
+    {"lang": "en", "role": "verse", "text": "19 So Abraham returned to his young men, and they arose and went together to Beersheba; and Abraham lived at Beersheba.", "osis": "Gen.22.19"}
+  ],
+  "refs": [{"shown": "Genesis 22 / בראשית כב", "osis": ["Gen.22.19"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "העקדה", "translit": "ha-Akedah", "gloss": "the binding", "strongs": "H6123"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham"], "places": ["Beersheba"], "events": ["Binding of Isaac (Akedah)"], "things": [], "themes": [], "groups": ["young men (servants)"]},
+  "keywords": ["Akedah", "Akeda", "Aqedah", "binding of Isaac", "Abraham returned", "young men", "servants", "lads", "Beersheba", "Beer-sheba", "Isaac not mentioned", "Genesis 22", "Genesis 22:19"],
+  "uncertain": [],
+  "confidence": 0.95
+}

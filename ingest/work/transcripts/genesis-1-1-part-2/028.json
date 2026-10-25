@@ -1,0 +1,188 @@
+{
+ "id": "genesis-1-1-part-2/28",
+ "kinds": [
+  "chart",
+  "letters"
+ ],
+ "title": "The five books of Moses: Torah letters in four books, YHWH in Leviticus",
+ "summary": "Summary of the five books of the Torah. Genesis, Exodus, Numbers and Deuteronomy each show the four coloured letters of Torah with the numbers 50 50 50 (Deuteronomy 49 49 49); Genesis and Exodus read forward, Numbers and Deuteronomy backward. Leviticus, at the bottom, shows the four letters of God's name יהוה instead.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Genesis"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת ו ר ה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "50 50 50"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Deuteronomy"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה ר ו ת"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "49 49 49"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Exodus"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת ו ר ה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "50 50 50"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Numbers"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה ר ו ת"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "50 50 50"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Leviticus"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תורה",
+   "translit": "torah",
+   "gloss": "law, instruction",
+   "strongs": "H8451",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the LORD (the name of God)",
+   "strongs": "H3068",
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "red letter of Torah"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "orange letter, in Torah and in YHWH"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "olive letter of Torah"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "black letter, in Torah and in YHWH"
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "brown letter, first letter of YHWH"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 50,
+   "note": "shown three times under each of Genesis, Exodus and Numbers"
+  },
+  {
+   "value": 49,
+   "note": "shown three times under Deuteronomy"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Torah",
+   "names of God",
+   "Bible codes",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Torah code",
+  "Genesis",
+  "Exodus",
+  "Leviticus",
+  "Numbers",
+  "Deuteronomy",
+  "five books of Moses",
+  "Pentateuch",
+  "YHWH",
+  "Yahweh",
+  "name of God",
+  "Torah spelled forward and backward",
+  "ELS",
+  "skip 50",
+  "skip 49",
+  "Bible code",
+  "ת ו ר ה",
+  "י ה ו ה"
+ ],
+ "uncertain": [
+  "Slide gives no explanation of what the numbers 50 and 49 mean; transcribed as shown"
+ ],
+ "confidence": 0.92
+}

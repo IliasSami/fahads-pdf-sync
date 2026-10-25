@@ -1,0 +1,80 @@
+{
+ "id": "red-heifer/100",
+ "kinds": [
+  "text"
+ ],
+ "title": "To rebuild the Temple you must first find a Red Heifer",
+ "summary": "Text slide adding a third point: to rebuild the Temple you must first find a Red Heifer to purify yourself and the utensils for Temple services. It follows the earlier lines about religious Jews wanting to rebuild the Temple and rabbis forbidding visits to the Temple Mount because they are unclean.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Religious Jews want to rebuild Temple."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Rabbis forbid Jews from visiting Temple Mount today,"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "because they are unclean."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "To rebuild the Temple,"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "you must first find a Red Heifer to purify yourself"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "and the utensils for Temple services."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Temple Mount"
+  ],
+  "events": [],
+  "things": [
+   "red heifer",
+   "Temple utensils"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "temple"
+  ],
+  "groups": [
+   "Jews",
+   "rabbis"
+  ]
+ },
+ "keywords": [
+  "rebuild the Temple",
+  "find a Red Heifer",
+  "purify yourself",
+  "Temple utensils",
+  "Temple vessels",
+  "Third Temple",
+  "Temple Mount",
+  "unclean",
+  "red heifer ashes",
+  "Numbers 19"
+ ],
+ "uncertain": [],
+ "confidence": 0.99
+}

@@ -1,0 +1,39 @@
+{
+  "id": "akeda-1/77",
+  "kinds": ["list", "word-study"],
+  "title": "The Patriarchs: Abraham, Isaac and Jacob in Hebrew",
+  "summary": "Lists the three patriarchs, each as a transliteration, the Hebrew name and the English name, colour-matched: avraham / אברהם / Abraham (blue), yitzhak / יצחק / Isaac (red), yacov / יעקב / Jacob (green).",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Patriarchs"},
+    {"lang": "translit", "role": "label", "text": "avraham"},
+    {"lang": "he", "role": "label", "text": "אברהם"},
+    {"lang": "en", "role": "label", "text": "Abraham"},
+    {"lang": "translit", "role": "label", "text": "yitzhak"},
+    {"lang": "he", "role": "label", "text": "יצחק"},
+    {"lang": "en", "role": "label", "text": "Isaac"},
+    {"lang": "translit", "role": "label", "text": "yacov"},
+    {"lang": "he", "role": "label", "text": "יעקב"},
+    {"lang": "en", "role": "label", "text": "Jacob"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "אברהם", "translit": "avraham", "gloss": "Abraham", "strongs": "H85"},
+    {"lang": "he", "word": "יצחק", "translit": "yitzhak", "gloss": "Isaac", "strongs": "H3327"},
+    {"lang": "he", "word": "יעקב", "translit": "yacov", "gloss": "Jacob", "strongs": "H3290"}
+  ],
+  "color_links": [
+    {"en": "Abraham", "other": "אברהם"},
+    {"en": "avraham", "other": "אברהם"},
+    {"en": "Isaac", "other": "יצחק"},
+    {"en": "yitzhak", "other": "יצחק"},
+    {"en": "Jacob", "other": "יעקב"},
+    {"en": "yacov", "other": "יעקב"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac", "Jacob"], "places": [], "events": [], "things": [], "themes": ["covenant", "genealogy"], "groups": ["Israel"]},
+  "keywords": ["patriarchs", "Abraham Isaac and Jacob", "avraham", "yitzhak", "yitzchak", "yacov", "yaakov", "Hebrew names", "אברהם", "יצחק", "יעקב", "fathers of Israel", "Akedah", "Akeda"],
+  "uncertain": [],
+  "confidence": 0.97
+}

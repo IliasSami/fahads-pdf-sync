@@ -1,0 +1,98 @@
+{
+ "id": "elijah-elisha/77",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 Kings 18:25-27 — Baal's prophets call all morning; Elijah mocks them",
+ "summary": "The text of 1 Kings 18:25-27: Elijah lets the prophets of Baal prepare their ox first and call on their god without fire; they call on Baal from morning until noon and leap about the altar but no one answers, and at noon Elijah mocks them, suggesting their god is busy, away, on a journey or asleep. The name Elijah is coloured.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 18:25-27",
+   "osis": [
+    "1Kgs.18.25",
+    "1Kgs.18.26",
+    "1Kgs.18.27"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א יח:כה-כז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "25 So Elijah said to the prophets of Baal, “Choose one ox for yourselves and prepare it first for you are many, and call on the name of your god but put no fire under it.”",
+   "osis": "1Kgs.18.25"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "26 Then they took the ox which was given to them and they prepared it and called on the name of Baal from morning until noon saying, “O Baal, answer us.” But there was no voice and no one answered. And they leaped about the altar which they made.",
+   "osis": "1Kgs.18.26"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "27 It came about at noon, that Elijah mocked them and said, “Call out with a loud voice, for he is a god; either he is occupied or gone aside, or is on a journey, or perhaps he is asleep and needs to be awakened.”",
+   "osis": "1Kgs.18.27"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 18:25-27 / מלכים א יח:כה-כז",
+   "osis": [
+    "1Kgs.18.25",
+    "1Kgs.18.26",
+    "1Kgs.18.27"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah",
+   "Baal"
+  ],
+  "places": [
+   "Mount Carmel"
+  ],
+  "events": [
+   "contest on Mount Carmel"
+  ],
+  "things": [
+   "ox",
+   "altar"
+  ],
+  "themes": [
+   "idolatry",
+   "sacrifice",
+   "prophecy"
+  ],
+  "groups": [
+   "prophets of Baal"
+  ]
+ },
+ "keywords": [
+  "O Baal answer us",
+  "no voice no one answered",
+  "Elijah mocked them",
+  "he is a god",
+  "peradventure he sleepeth",
+  "Baal asleep or on a journey",
+  "leaped about the altar",
+  "Mount Carmel",
+  "1 Kings 18",
+  "prophets of Baal call from morning till noon",
+  "Elijah mocks Baal"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

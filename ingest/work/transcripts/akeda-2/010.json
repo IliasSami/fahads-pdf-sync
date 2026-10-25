@@ -1,0 +1,34 @@
+{
+  "id": "akeda-2/10",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 1:1 — alef-tav (את) is the middle word",
+  "summary": "Genesis 1:1 in Hebrew with the untranslated word את (alef-tav) highlighted; a red arrow marks it as the middle word of the seven-word verse. The alef and tav are also coloured in ואת and the letters of אלהים are coloured.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 1:1", "osis": "Gen.1.1"},
+    {"lang": "translit", "role": "heading", "text": "alef"},
+    {"lang": "he", "role": "heading", "text": "את"},
+    {"lang": "translit", "role": "heading", "text": "tav"},
+    {"lang": "he", "role": "reference", "text": "בראשית א:א"},
+    {"lang": "he", "role": "verse", "osis": "Gen.1.1", "text": "בראשית ברא אלהים את השמים ואת הארץ׃"},
+    {"lang": "en", "role": "label", "text": "Middle Word"}
+  ],
+  "refs": [{"shown": "Genesis 1:1 / בראשית א:א", "osis": ["Gen.1.1"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "את", "translit": "et", "gloss": "alef-tav (untranslated direct-object marker)", "strongs": "H853"},
+    {"lang": "he", "word": "אלהים", "translit": "elohim", "gloss": "God", "strongs": "H430"}
+  ],
+  "color_links": [
+    {"en": "alef", "other": "א"},
+    {"en": "tav", "other": "ת"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": "first letter of the alphabet"},
+    {"lang": "he", "letter": "tav", "char": "ת", "value": 400, "meaning": "last letter of the alphabet"}
+  ],
+  "numbers": [{"value": 7, "note": "Genesis 1:1 has seven Hebrew words; את is the middle (fourth) word"}],
+  "pictures": [],
+  "entities": {"people": ["God"], "places": [], "events": ["Creation"], "things": [], "themes": ["creation", "Hebrew letter meanings"], "groups": []},
+  "keywords": ["Genesis 1:1", "In the beginning", "alef tav", "aleph tav", "et", "middle word", "Bereshit", "Elohim", "Alpha and Omega", "first and last", "Genesis 1"],
+  "uncertain": [],
+  "confidence": 0.94
+}

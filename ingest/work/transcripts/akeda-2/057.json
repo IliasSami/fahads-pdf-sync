@@ -1,0 +1,101 @@
+{
+ "id": "akeda-2/57",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 24:5-7 — Abraham tells his servant not to take Isaac back",
+ "summary": "Genesis 24:5-7 in English: the servant asks whether he should take Abraham's son back to the old land, and Abraham forbids it, saying the LORD will send His angel before the servant. Words are colour-coded (blue, gold-shadowed, red) apparently to track who each pronoun refers to.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 24",
+   "osis": [
+    "Gen.24.5",
+    "Gen.24.6",
+    "Gen.24.7"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.24.5",
+   "text": "5 The servant said to him, “Suppose the woman is not willing to follow me to this land; should I take your son back to the land from where you came?”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.24.6",
+   "text": "6 Then Abraham said to him, “Beware that you do not take my son back there!"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.24.7",
+   "text": "7 “The LORD, the God of heaven, who took me from my father’s house and from the land of my birth, and who spoke to me and who swore to me, saying, ‘To your descendants I will give this land,’ He will send His angel before you, and you will take a wife for my son from there."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 24 / בראשית כד (verses 5-7 shown)",
+   "osis": [
+    "Gen.24.5",
+    "Gen.24.6",
+    "Gen.24.7"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Abraham",
+   "Isaac",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Isaac's marriage to Rebekah"
+  ],
+  "things": [
+   "oath"
+  ],
+  "themes": [
+   "covenant",
+   "marriage",
+   "obedience",
+   "faith",
+   "promised land"
+  ],
+  "groups": [
+   "angels"
+  ]
+ },
+ "keywords": [
+  "Genesis 24",
+  "Abraham's servant",
+  "Eliezer",
+  "find a wife for Isaac",
+  "do not take my son back",
+  "oath",
+  "the LORD God of heaven",
+  "His angel before you",
+  "to your descendants I will give this land",
+  "bride for Isaac",
+  "Rebekah",
+  "pronouns colour-coded"
+ ],
+ "uncertain": [
+  "Colour meaning (blue / gold-shadow / red) is inferred from the pattern; the slide does not state a key."
+ ],
+ "confidence": 0.95
+}

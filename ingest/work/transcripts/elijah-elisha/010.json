@@ -1,0 +1,66 @@
+{
+  "id": "elijah-elisha/10",
+  "kinds": [
+    "comparison",
+    "list"
+  ],
+  "title": "Joseph / Yeshua parallels: betrayed by his brothers",
+  "summary": "Second item in the Joseph–Yeshua parallels: after being sent by the Father to check on his brothers, each was betrayed by his brothers.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Joseph / yeshua Parallels"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sent by Father to check on brothers"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Betrayed by his brothers"
+    }
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Joseph",
+      "Jesus",
+      "Jacob",
+      "God"
+    ],
+    "places": [],
+    "events": [],
+    "things": [],
+    "themes": [
+      "typology",
+      "betrayal"
+    ],
+    "groups": [
+      "Joseph's brothers"
+    ]
+  },
+  "keywords": [
+    "Joseph",
+    "Yeshua",
+    "Jesus",
+    "parallels",
+    "Joseph as a type of Christ",
+    "sent by his father",
+    "check on his brothers",
+    "Genesis 37:14",
+    "betrayed by his brothers",
+    "betrayal",
+    "Judas",
+    "foreshadowing"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

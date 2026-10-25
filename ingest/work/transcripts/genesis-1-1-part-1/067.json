@@ -1,0 +1,256 @@
+{
+ "id": "genesis-1-1-part-1/67",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Image = tsal (shadow, spiritual); likeness = dam (blood, physical)",
+ "summary": "Genesis 1:26 with the Hebrew for 'in Our image' (בצלמנו, betsalmenu) and 'according to Our likeness' (כדמותנו, kidmutenu). It pulls out the root tsal, 'Shadow', labelled Spiritual, and dam, 'Blood', labelled Physical. At the bottom, 'the heavens ואת the earth' in English and Hebrew.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:26",
+   "osis": "Gen.1.26"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:כו",
+   "osis": "Gen.1.26"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "Then God said, \"Let Us make man in Our image according to Our likeness",
+   "osis": "Gen.1.26"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "betsalmenu,"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kidmutenu"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בצלמנו"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כדמותנו"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tsal"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "dam"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Shadow"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Blood"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Spiritual"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Physical"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "the heavens"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ואת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "the earth"
+  },
+  {
+   "lang": "he",
+   "role": "body",
+   "text": "השמים ואת הארץ"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:26 / בראשית א:כו",
+   "osis": [
+    "Gen.1.26"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "השמים ואת הארץ",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בצלמנו",
+   "translit": "betsalmenu",
+   "gloss": "in our image",
+   "strongs": "H6754",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "כדמותנו",
+   "translit": "kidmutenu",
+   "gloss": "according to our likeness",
+   "strongs": "H1823",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "צל",
+   "translit": "tsal",
+   "gloss": "shadow (spiritual)",
+   "strongs": "H6738",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "דם",
+   "translit": "dam",
+   "gloss": "blood (physical)",
+   "strongs": "H1818",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve'et",
+   "gloss": "and (et)",
+   "strongs": "H853",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "image",
+   "other": "צל"
+  },
+  {
+   "en": "tsal",
+   "other": "צל"
+  },
+  {
+   "en": "Shadow",
+   "other": "צל"
+  },
+  {
+   "en": "Spiritual",
+   "other": "צל"
+  },
+  {
+   "en": "likeness",
+   "other": "דם"
+  },
+  {
+   "en": "dam",
+   "other": "דם"
+  },
+  {
+   "en": "Blood",
+   "other": "דם"
+  },
+  {
+   "en": "Physical",
+   "other": "דם"
+  },
+  {
+   "en": "heavens",
+   "other": "שמים"
+  },
+  {
+   "en": "earth",
+   "other": "ארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "image of God",
+   "blood",
+   "spiritual and physical"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:26",
+  "image and likeness",
+  "tselem",
+  "tsal",
+  "shadow",
+  "dam",
+  "blood",
+  "demut",
+  "likeness",
+  "spiritual",
+  "physical",
+  "betsalmenu",
+  "kidmutenu",
+  "image of God",
+  "Let Us make man",
+  "heavens and earth"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

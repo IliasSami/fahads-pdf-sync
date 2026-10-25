@@ -1,0 +1,186 @@
+{
+ "id": "genesis-1-1-part-1/77",
+ "kinds": [
+  "verse",
+  "gematria",
+  "letters"
+ ],
+ "title": "Genesis 1:1: first and last letters of the first and last words (7 and 490)",
+ "summary": "Genesis 1:1 in Hebrew, highlighting the first word בראשית and the last word הארץ. The first letters of these two words, ה (5) and ב (2), add to 7; their last letters, ץ (90) and ת (400), add to 490.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "In the beginning God created the heavens and the earth.",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "In beginning · created · God · (et) · the skywaters · and (et) · the earth"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "90 5 (ץ and ה of הארץ) · 400 2 (ת and ב of בראשית)"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Gematria of First Letters of First & Last Words"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה ב"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 + 2 = 7"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Gematria of Last Letters Of First & Last Words"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ץ ת"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "90 + 400 = 490"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha’aretz",
+   "gloss": "the earth",
+   "strongs": "H776"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "the earth",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "first letter of the first word בראשית"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last letter of the first word בראשית"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "first letter of the last word הארץ"
+  },
+  {
+   "lang": "he",
+   "letter": "tsade (final)",
+   "char": "ץ",
+   "value": 90,
+   "meaning": "last letter of the last word הארץ"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "first letters of first and last words: ה 5 + ב 2"
+  },
+  {
+   "value": 490,
+   "note": "last letters of first and last words: ץ 90 + ת 400"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "creation",
+   "Bible codes"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "gematria",
+  "first letters",
+  "last letters",
+  "first and last words",
+  "bereshit",
+  "haaretz",
+  "7",
+  "490",
+  "bet",
+  "he",
+  "tav",
+  "tsade",
+  "Bible numbers",
+  "Hebrew numerology"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

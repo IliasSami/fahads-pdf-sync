@@ -1,0 +1,141 @@
+{
+ "id": "genesis-1-1-part-1/89",
+ "kinds": [
+  "gematria",
+  "diagram"
+ ],
+ "title": "Even words 1011 = 3 x 337: three stars of David in red, blue and gold",
+ "summary": "Under the heading \"Genesis 1:1 - Even Words\" the equation 1011 = 3 x 337 is shown, with three equal Stars of David made of many small stars, one red, one blue and one gold, picturing the three groups of 337.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Even Words"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1011 = 3 x 337"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1011,
+   "note": "gematria total of the even words of Genesis 1:1"
+  },
+  {
+   "value": 3,
+   "note": "1011 = 3 x 337"
+  },
+  {
+   "value": 337,
+   "note": "stars in each of the three large stars"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A large six-pointed star built from many tiny red Star of David symbols, same shape as the 337-star figure.",
+   "subjects": [
+    "Star of David",
+    "red stars",
+    "hexagram",
+    "dot pattern"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.09,
+    0.47,
+    0.33,
+    0.94
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "A large six-pointed star built from many tiny blue Star of David symbols.",
+   "subjects": [
+    "Star of David",
+    "blue stars",
+    "hexagram",
+    "dot pattern"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.38,
+    0.47,
+    0.61,
+    0.94
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "A large six-pointed star built from many tiny gold (yellow with dark outline) Star of David symbols.",
+   "subjects": [
+    "Star of David",
+    "gold stars",
+    "hexagram",
+    "dot pattern"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.66,
+    0.47,
+    0.9,
+    0.94
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "Star of David"
+  ],
+  "themes": [
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "even words",
+  "1011",
+  "3 x 337",
+  "337",
+  "three stars of David",
+  "red blue gold stars",
+  "hexagram",
+  "star pattern",
+  "gematria of Genesis 1:1",
+  "multiplication"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

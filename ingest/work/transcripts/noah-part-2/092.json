@@ -1,0 +1,73 @@
+{
+ "id": "noah-part-2/92",
+ "kinds": [
+  "picture"
+ ],
+ "title": "Photo: columned building at night lit in rainbow colours",
+ "summary": "A night photograph of a white columned building (a corner and portico view) floodlit in rainbow colours, with dark trees in the foreground. There is no text on the slide.",
+ "text": [],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Night photo of a white neoclassical building with tall columns and a balustrade, its facade lit in bands of rainbow colour: yellow, green and red-orange on the portico, blue and violet toward the right, silhouetted trees in the foreground. It appears to be a side or corner view of the White House in Washington, D.C.",
+   "subjects": [
+    "rainbow lights",
+    "rainbow colours",
+    "columns",
+    "portico",
+    "night photo",
+    "White House",
+    "neoclassical building",
+    "floodlit building"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.117,
+    0.0,
+    0.883,
+    1.0
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [
+   "White House",
+   "Washington, D.C."
+  ],
+  "events": [],
+  "things": [
+   "rainbow",
+   "columns"
+  ],
+  "themes": [
+   "rainbow",
+   "covenant"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "rainbow",
+  "rainbow lights",
+  "rainbow colors",
+  "rainbow lighting",
+  "White House",
+  "building lit in rainbow colours",
+  "night photo",
+  "pride colors",
+  "columns",
+  "photo",
+  "Noah's rainbow",
+  "colors of the rainbow"
+ ],
+ "uncertain": [
+  "Building shown from a side/corner angle; identified as the White House from the style and the matching next slide, not from any caption."
+ ],
+ "confidence": 0.85
+}

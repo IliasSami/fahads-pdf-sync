@@ -1,0 +1,137 @@
+{
+ "id": "fall-of-man/27",
+ "kinds": [
+  "gematria",
+  "word-study"
+ ],
+ "title": "Camel (gamal גמל): gematria 30 + 40 + 3 = 73",
+ "summary": "The Hebrew word for camel, gamal (גמל), spelled out in colour-coded letters lamed, mem, gimel with values 30 + 40 + 3 = 73, followed by the statement that a camel has 37 pairs of chromosomes.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Camel"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ג מ ל"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "gamal"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "lamed mem gimel"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "30 + 40 + 3 = 73"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "A camel has 37 pairs of chromosomes."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "גמל",
+   "translit": "gamal",
+   "gloss": "camel",
+   "strongs": "H1581",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     30,
+     40,
+     3
+    ],
+    "total": 73
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "lamed",
+   "other": "ל"
+  },
+  {
+   "en": "mem",
+   "other": "מ"
+  },
+  {
+   "en": "gimel",
+   "other": "ג"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "gimel",
+   "char": "ג",
+   "value": 3,
+   "meaning": "camel (gamal)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 73,
+   "note": "gematria of גמל (camel)"
+  },
+  {
+   "value": 37,
+   "note": "pairs of chromosomes in a camel, as stated on the slide (digits are the reverse of 73)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "camel",
+   "chromosomes"
+  ],
+  "themes": [
+   "gematria",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "camel",
+  "gamal",
+  "gimel",
+  "gematria 73",
+  "73",
+  "37",
+  "camel chromosomes",
+  "37 pairs of chromosomes",
+  "lamed mem gimel",
+  "Hebrew word for camel",
+  "gematria of camel"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

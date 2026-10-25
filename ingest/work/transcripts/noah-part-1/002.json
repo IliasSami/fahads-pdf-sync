@@ -1,0 +1,86 @@
+{
+ "id": "noah-part-1/2",
+ "kinds": [
+  "title",
+  "picture"
+ ],
+ "title": "Lesson 6: Noah, Part 1 (presenter in front of world map)",
+ "summary": "Title slide for lesson 6, \"Noah Part 1\", over a video still of the presenter sitting on a brown couch in front of a large wall map of the world.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "6"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Noah"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Part 1"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 6,
+   "note": "lesson number shown on the title slide"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "video-still",
+   "description": "Video still of a man with glasses and grey hair in a white t-shirt, hands clasped, speaking while seated on a brown couch in front of a large colourful wall map of the world (Americas, Europe, Africa and Asia visible, with a small red pin in the Indian Ocean). Green title text \"6 Noah\" and \"Part 1\" is overlaid at the bottom.",
+   "subjects": [
+    "presenter",
+    "world map",
+    "wall map",
+    "teacher",
+    "couch",
+    "video still",
+    "title screen"
+   ],
+   "text_in_picture": "6 Noah  Part 1",
+   "credit": null,
+   "box": [
+    0.03,
+    0.06,
+    0.92,
+    0.94
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "world map"
+  ],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "Noah",
+  "Noah Part 1",
+  "lesson 6",
+  "title slide",
+  "video still",
+  "world map",
+  "presenter",
+  "Dutch Uncle John",
+  "Genesis 6",
+  "the Flood",
+  "Bible study"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

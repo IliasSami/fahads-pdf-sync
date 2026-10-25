@@ -1,0 +1,105 @@
+{
+ "id": "elijah-elisha/38",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Malachi 4:5 — I will send you Elijah the prophet",
+ "summary": "Malachi 4:5 in English and Hebrew: God will send Elijah the prophet before the great and terrible day of the LORD. Elijah (spelled אליה in this verse) and the LORD (יהוה) are colour-coded between the English and the Hebrew.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Malachi 4:5",
+   "osis": "Mal.4.5"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלאכי ד:ה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Mal.4.5",
+   "text": "5 “Behold, I am going to send you Elijah the prophet before the coming of the great and terrible day of the LORD."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Mal.4.5",
+   "text": "5 הנה אנכי שלח לכם את אליה הנביא לפני בוא יום יהוה הגדול והנורא׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Malachi 4:5 / מלאכי ד:ה",
+   "osis": [
+    "Mal.4.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אליה",
+   "translit": "eliyah",
+   "gloss": "Elijah (short spelling, without the vav)",
+   "strongs": "H452"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yhwh",
+   "gloss": "the LORD",
+   "strongs": "H3068"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Elijah",
+   "other": "אליה"
+  },
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Day of the LORD"
+  ],
+  "things": [],
+  "themes": [
+   "prophecy",
+   "names of God",
+   "judgment"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Malachi 4:5",
+  "Malachi 4",
+  "Elijah the prophet",
+  "I will send you Elijah",
+  "great and dreadful day of the LORD",
+  "terrible day",
+  "day of the LORD",
+  "return of Elijah",
+  "Elijah is coming",
+  "behold I send you Elijah",
+  "YHWH",
+  "Old Testament last prophecy"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

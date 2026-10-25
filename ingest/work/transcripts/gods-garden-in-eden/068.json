@@ -1,0 +1,64 @@
+{
+ "id": "gods-garden-in-eden/68",
+ "kinds": [
+  "verse"
+ ],
+ "title": "John 15:13 — greater love: lay down his life for his friends",
+ "summary": "Single verse on a plain slide: John 15:13, 'Greater love has no one than this, that one lay down his life for his friends.'",
+ "text": [
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "13 Greater love has no one than this, that one lay down his life for his friends.",
+   "osis": "John.15.13"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "—John 15:13",
+   "osis": "John.15.13"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 15:13",
+   "osis": [
+    "John.15.13"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Crucifixion"
+  ],
+  "things": [],
+  "themes": [
+   "sacrifice",
+   "substitution",
+   "redemption"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 15",
+  "greater love",
+  "lay down his life for his friends",
+  "no greater love",
+  "love and sacrifice",
+  "friends",
+  "Jesus laid down His life",
+  "self-sacrifice"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

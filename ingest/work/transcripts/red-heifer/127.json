@@ -1,0 +1,100 @@
+{
+ "id": "red-heifer/127",
+ "kinds": [
+  "picture",
+  "humor"
+ ],
+ "title": "Singapore MRT Station 2017 - 'Holy Cow!' sign photo",
+ "summary": "A photo labelled 'Singapore MRT Station, Singapore, 2017' showing a smiling grey-haired man in a maroon T-shirt standing in a subway station and gesturing at a bright green pillar with a sign that reads 'HOLY COW! ...JEK IS HERE.'",
+ "text": [
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "Singapore MRT Station"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "Singapore"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "2017"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "HOLY COW! JEK IS HERE."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2017,
+   "note": "year the photo was taken, as captioned"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Photograph inside a Singapore MRT (metro) station: a smiling grey-haired, bearded man in a maroon Hard Rock T-shirt and light grey shorts stands beside a large lime-green pillar and points at its advertisement, which reads 'HOLY COW! ...JEK IS HERE.' with part of the word hidden by his hand. Behind him are a stainless-steel escalator, a red fire cabinet and a yellow caution sign, and commuters walk along the platform on the right.",
+   "subjects": [
+    "Singapore",
+    "MRT station",
+    "subway",
+    "metro platform",
+    "Holy Cow sign",
+    "green pillar",
+    "advertisement",
+    "escalator",
+    "commuters",
+    "travel photo"
+   ],
+   "text_in_picture": "HOLY COW! JEK IS HERE. (first letters hidden by the man's hand); CAUTION; Hard Rock HYDERABAD (T-shirt)",
+   "credit": null,
+   "box": [
+    0.275,
+    0,
+    1,
+    1
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [
+   "Singapore"
+  ],
+  "events": [],
+  "things": [
+   "cow",
+   "MRT station"
+  ],
+  "themes": [
+   "humor"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Singapore",
+  "Singapore MRT",
+  "MRT station",
+  "holy cow",
+  "Holy Cow sign",
+  "subway station photo",
+  "2017",
+  "green pillar sign",
+  "travel photo",
+  "cow joke",
+  "humor",
+  "Gojek"
+ ],
+ "uncertain": [
+  "The first letters of the sign's second line are hidden by the man's hand; only 'JEK IS HERE.' is readable (probably 'GOJEK')."
+ ],
+ "confidence": 0.93
+}

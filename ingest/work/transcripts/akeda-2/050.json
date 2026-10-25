@@ -1,0 +1,24 @@
+{
+  "id": "akeda-2/50",
+  "kinds": ["verse"],
+  "title": "Genesis 23:12-15 — Ephron names the price: 400 shekels of silver",
+  "summary": "Genesis 23:12-15: Abraham bows before the people of the land and insists on paying for the field; Ephron answers that land worth four hundred shekels of silver is nothing between them, so bury your dead.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 23", "osis": ["Gen.23.12", "Gen.23.13", "Gen.23.14", "Gen.23.15"]},
+    {"lang": "he", "role": "reference", "text": "בראשית כג", "osis": ["Gen.23.12", "Gen.23.13", "Gen.23.14", "Gen.23.15"]},
+    {"lang": "en", "role": "verse", "text": "12 And Abraham bowed before the people of the land.", "osis": "Gen.23.12"},
+    {"lang": "en", "role": "verse", "text": "13 He spoke to Ephron in the hearing of the people of the land, saying, “If you will only please listen to me; I will give the price of the field, accept it from me that I may bury my dead there.”", "osis": "Gen.23.13"},
+    {"lang": "en", "role": "verse", "text": "14 Then Ephron answered Abraham, saying to him,", "osis": "Gen.23.14"},
+    {"lang": "en", "role": "verse", "text": "15 “My lord, listen to me; a piece of land worth four hundred shekels of silver, what is that between me and you? So bury your dead.”", "osis": "Gen.23.15"}
+  ],
+  "refs": [{"shown": "Genesis 23 / בראשית כג", "osis": ["Gen.23.12", "Gen.23.13", "Gen.23.14", "Gen.23.15"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [{"value": 400, "note": "shekels of silver, Ephron's price for the land"}],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Ephron"], "places": ["Cave of Machpelah"], "events": ["Death of Sarah"], "things": ["field", "silver", "shekel"], "themes": ["burial"], "groups": ["people of the land", "sons of Heth (Hittites)"]},
+  "keywords": ["400 shekels", "four hundred shekels of silver", "price of the field", "Ephron", "Abraham bowed", "people of the land", "what is that between me and you", "buying the burial cave", "Genesis 23"],
+  "uncertain": [],
+  "confidence": 0.96
+}

@@ -1,0 +1,168 @@
+{
+ "id": "red-heifer/16",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Leviticus 11:46-47 — distinguishing the unclean (tamei) and the clean (taher)",
+ "summary": "Leviticus 11:46-47 in English, with the Hebrew of verse 47: to make a distinction between the unclean (הטמא, tamei, dark red) and the clean (הטהר, taher, blue), both underlined. Transliterations tamei and taher are shown at the bottom.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Leviticus 11:47",
+   "osis": "Lev.11.47"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ויקרא יא:מז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.11.46",
+   "text": "46 This is the law regarding the animal and the bird,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.11.46",
+   "text": "and every living thing that moves in the waters"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.11.46",
+   "text": "and everything that swarms on the earth,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.11.47",
+   "text": "47 to make a distinction between the unclean and the clean,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.11.47",
+   "text": "and between the edible creature"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.11.47",
+   "text": "and the creature which is not to be eaten."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Lev.11.47",
+   "text": "47 להבדיל בין הטמא ובין הטהר"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Lev.11.47",
+   "text": "ובין החיה הנאכלת"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Lev.11.47",
+   "text": "ובין החיה אשר לא תאכל׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tamei"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "taher"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Leviticus 11:47 / ויקרא יא:מז",
+   "osis": [
+    "Lev.11.46",
+    "Lev.11.47"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "הטמא",
+   "translit": "tamei",
+   "gloss": "the unclean",
+   "strongs": "H2931",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הטהר",
+   "translit": "taher",
+   "gloss": "the clean",
+   "strongs": "H2889",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "unclean",
+   "other": "הטמא"
+  },
+  {
+   "en": "clean",
+   "other": "הטהר"
+  },
+  {
+   "en": "tamei",
+   "other": "הטמא"
+  },
+  {
+   "en": "taher",
+   "other": "הטהר"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "clean and unclean",
+   "purification",
+   "holiness",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Leviticus 11:47",
+  "Leviticus 11",
+  "unclean and clean",
+  "make a difference between unclean and clean",
+  "clean animals",
+  "unclean animals",
+  "edible creature",
+  "tamei",
+  "taher",
+  "tahor",
+  "טמא",
+  "טהר",
+  "dietary laws",
+  "kosher"
+ ],
+ "uncertain": [
+  "English verse 46 is shown but the header and Hebrew show only verse 47."
+ ],
+ "confidence": 0.96
+}

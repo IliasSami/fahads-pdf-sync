@@ -1,0 +1,299 @@
+{
+ "id": "genesis-1-1-part-1/103",
+ "kinds": [
+  "gematria",
+  "verse",
+  "table"
+ ],
+ "title": "Genesis 1:1 word totals and the product of its 7 words",
+ "summary": "Genesis 1:1 with its seven Hebrew words, their English meanings and word values (913, 203, 86, 401, 395, 407, 296). Number of Words: 7; the Product of words 913 x 203 x 86 x 401 x 395 x 407 x 296 is shown as 304,153,525,784,176,000.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "In the beginning God created the heavens and the earth.",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "In beginning"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "created"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "God"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "(et)"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "the skywaters"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "and (et)"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "the earth"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "913   203   86   401   395   407   296"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Number of Words: 7"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Product of words:"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "913 x 203 x 86 x 401 x 395 x 407 x 296"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 304,153,525,784,176,000"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 913
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 203
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 86
+   }
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(et) — untranslated object marker",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 401
+   }
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the skywaters (the heavens)",
+   "strongs": "H8064",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 395
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve-et",
+   "gloss": "and (et)",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 407
+   }
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 296
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "(et)",
+   "other": "את"
+  },
+  {
+   "en": "the skywaters",
+   "other": "השמים"
+  },
+  {
+   "en": "and (et)",
+   "other": "ואת"
+  },
+  {
+   "en": "the earth",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 913,
+   "note": "gematria of בראשית (in beginning)"
+  },
+  {
+   "value": 203,
+   "note": "gematria of ברא (created)"
+  },
+  {
+   "value": 86,
+   "note": "gematria of אלהים (God)"
+  },
+  {
+   "value": 401,
+   "note": "gematria of את (et)"
+  },
+  {
+   "value": 395,
+   "note": "gematria of השמים (the skywaters)"
+  },
+  {
+   "value": 407,
+   "note": "gematria of ואת (and et)"
+  },
+  {
+   "value": 296,
+   "note": "gematria of הארץ (the earth)"
+  },
+  {
+   "value": 7,
+   "note": "number of words in Genesis 1:1"
+  },
+  {
+   "value": 304153525784176000,
+   "note": "product of the seven word values, as shown on the slide"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "creation",
+   "Bible codes",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "gematria",
+  "product of words",
+  "7 words",
+  "304,153,525,784,176,000",
+  "913",
+  "203",
+  "86",
+  "401",
+  "395",
+  "407",
+  "296",
+  "in the beginning God created",
+  "mathematics of Genesis 1:1",
+  "seven words"
+ ],
+ "uncertain": [
+  "The product is printed as 304,153,525,784,176,000; the exact product of these seven numbers is 304,153,525,784,175,760, so the slide's figure is rounded."
+ ],
+ "confidence": 0.95
+}

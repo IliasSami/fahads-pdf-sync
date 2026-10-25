@@ -1,0 +1,267 @@
+{
+ "id": "genesis-1-1-part-2/50",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:22-26 in Hebrew: blessed, fill, multiply, fifth day, cattle, image, likeness",
+ "summary": "Hebrew text of Genesis 1:22–26 (no vowel points) with short English glosses above key words: blessed, fill, multiply, fifth, cattle, ground, Fish, rule, likeness, image. The glossed Hebrew words are in red and אלהים (God) is colour-coded in blue, red and gold. The word for likeness is spelled כדותמנו on the slide.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "fill"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "multiply"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "blessed"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.22",
+   "text": "1:22 ויברך אתם אלהים לאמר פרו ורבו ומלאו את המים בימים והעוף ירב בארץ׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "fifth"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.23",
+   "text": "1:23 ויהי ערב ויהי בקר יום חמישי׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "cattle"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.24",
+   "text": "1:24 ויאמר אלהים תוצא הארץ נפש חיה למינה בהמה ורמש וחיתו ארץ למינה ויהי כן׃"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.25",
+   "text": "1:25 ויעש אלהים את חית הארץ למינה ואת הבהמה למינה ואת כל רמש האדמה למינהו וירא אלהים כי טוב׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "ground"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Fish"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "rule"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "likeness"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "image"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.26",
+   "text": "1:26 ויאמר אלהים נעשה אדם בצלמנו כדותמנו וירדו בדגת הים ובעוף השמים ובבהמה ובכל הארץ ובכל הרמש הרמש על הארץ׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1:22",
+   "osis": [
+    "Gen.1.22"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:23",
+   "osis": [
+    "Gen.1.23"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:24",
+   "osis": [
+    "Gen.1.24"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:25",
+   "osis": [
+    "Gen.1.25"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:26",
+   "osis": [
+    "Gen.1.26"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ויברך",
+   "translit": "vayevarech",
+   "gloss": "blessed",
+   "strongs": "H1288",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ורבו",
+   "translit": "urevu",
+   "gloss": "multiply",
+   "strongs": "H7235",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ומלאו",
+   "translit": "umil'u",
+   "gloss": "fill",
+   "strongs": "H4390",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "חמישי",
+   "translit": "chamishi",
+   "gloss": "fifth",
+   "strongs": "H2549",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "בהמה",
+   "translit": "behemah",
+   "gloss": "cattle",
+   "strongs": "H929",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "האדמה",
+   "translit": "ha'adamah",
+   "gloss": "ground",
+   "strongs": "H127",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "בדגת",
+   "translit": "bidgat",
+   "gloss": "fish (of the sea)",
+   "strongs": "H1710",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "וירדו",
+   "translit": "veyirdu",
+   "gloss": "rule (have dominion)",
+   "strongs": "H7287",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "כדותמנו",
+   "translit": "kidmutenu",
+   "gloss": "likeness (after our likeness)",
+   "strongs": "H1823",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "בצלמנו",
+   "translit": "betzalmenu",
+   "gloss": "image (in our image)",
+   "strongs": "H6754",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "fish",
+   "birds",
+   "cattle",
+   "ground",
+   "creeping things"
+  ],
+  "themes": [
+   "creation",
+   "image of God",
+   "blessing",
+   "Hebrew word study"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:22",
+  "Genesis 1:23",
+  "Genesis 1:24",
+  "Genesis 1:25",
+  "Genesis 1:26",
+  "Genesis 1",
+  "Let us make man in our image",
+  "after our likeness",
+  "image of God",
+  "fifth day",
+  "be fruitful and multiply",
+  "fill the waters",
+  "dominion",
+  "cattle",
+  "fish of the sea",
+  "Hebrew text of Genesis"
+ ],
+ "uncertain": [
+  "The slide spells 'likeness' as כדותמנו in 1:26; the standard text is כדמותנו (the letters מ and ו are swapped). Transcribed as shown."
+ ],
+ "confidence": 0.93
+}

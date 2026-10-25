@@ -1,0 +1,99 @@
+{
+ "id": "gods-garden-in-eden/47",
+ "kinds": [
+  "verse",
+  "comparison"
+ ],
+ "title": "1 Timothy 6:10 and 'the gold of that land is good' — yeshua is Better than Gold",
+ "summary": "1 Timothy 6:10 (the love of money is the root of all evil; some coveted and erred from the faith) with 'love' in red, 'money' in green and 'all evil' enlarged. Below, the line 'The gold of that land is good' (the verse 12 line from the Eden story, gold highlighted, check mark on 'good') leads to the conclusion 'yeshua ✔ Better than Gold!'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Timothy 6:10",
+   "osis": "1Tim.6.10"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "1 Τιμοθέῳ 6:10"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "1Tim.6.10",
+   "text": "10 For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.12",
+   "text": "12 The gold of that land is ✔ good;"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "yeshua ✔ Better than Gold!"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Timothy 6:10 / 1 Τιμοθέῳ 6:10",
+   "osis": [
+    "1Tim.6.10"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "12 The gold of that land is good (no reference shown; Genesis 2:12)",
+   "osis": [
+    "Gen.2.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "gold",
+   "money"
+  ],
+  "themes": [
+   "faith",
+   "covetousness",
+   "love of money"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "love of money",
+  "root of all evil",
+  "money is the root of all evil",
+  "yeshua better than gold",
+  "Jesus is better than gold",
+  "better than gold",
+  "gold",
+  "coveted after",
+  "erred from the faith",
+  "pierced through with many sorrows",
+  "1 Timothy 6:10",
+  "1 Timothy 6",
+  "greed",
+  "covetousness",
+  "the gold of that land is good",
+  "Genesis 2:12"
+ ],
+ "uncertain": [
+  "The 'Genesis 2:12' attribution of the 'gold of that land is good' line is inferred; the slide shows only the verse number 12 with no book reference."
+ ],
+ "confidence": 0.95
+}

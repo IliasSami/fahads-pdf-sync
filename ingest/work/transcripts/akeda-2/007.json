@@ -1,0 +1,23 @@
+{
+  "id": "akeda-2/7",
+  "kinds": ["picture"],
+  "title": "Photo: Damascus Gate, Jerusalem, Israel (2016)",
+  "summary": "Photograph of the Damascus Gate in the Old City walls of Jerusalem, taken in 2016, with people walking down the stone steps of the plaza in front of the gate.",
+  "text": [
+    {"lang": "en", "role": "caption", "text": "Damascus Gate"},
+    {"lang": "en", "role": "caption", "text": "Jerusalem, Israel"},
+    {"lang": "en", "role": "number", "text": "2016"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [
+    {"type": "photo", "description": "Daytime photo of the Damascus Gate: a massive pale limestone city gate with crenellated battlements, two flanking towers and a central arched entrance, under a cloudy sky. People walk across the stepped stone plaza and railings in front of the gate.", "subjects": ["Damascus Gate", "Jerusalem", "Old City walls", "city gate", "battlements", "stone steps", "tourists"], "text_in_picture": "", "credit": null, "box": [0.0, 0.0, 0.75, 1.0]}
+  ],
+  "entities": {"people": [], "places": ["Damascus Gate", "Jerusalem", "Israel"], "events": [], "things": ["gate", "city wall"], "themes": [], "groups": []},
+  "keywords": ["Damascus Gate", "Shechem Gate", "Jerusalem", "Old City", "city gate", "walls of Jerusalem", "Israel", "photo", "2016", "gate of their enemies"],
+  "uncertain": [],
+  "confidence": 0.95
+}

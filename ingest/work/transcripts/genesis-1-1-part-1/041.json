@@ -1,0 +1,150 @@
+{
+ "id": "genesis-1-1-part-1/41",
+ "kinds": [
+  "diagram"
+ ],
+ "title": "Perfect Triangles: 3, 6, 10, 15, 21, 28, 36, 45, 55",
+ "summary": "A grid of nine red triangle patterns titled “Perfect Triangles”, each built from rows of small triangles and labelled with its total: 3, 6, 10, 15, 21, 28, 36, 45 and 55.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Perfect Triangles"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "3"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "6"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "10"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "15"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "21"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "28"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "36"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "45"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "55"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "perfect triangle of 3 small triangles"
+  },
+  {
+   "value": 6,
+   "note": "perfect triangle of 6"
+  },
+  {
+   "value": 10,
+   "note": "perfect triangle of 10"
+  },
+  {
+   "value": 15,
+   "note": "perfect triangle of 15"
+  },
+  {
+   "value": 21,
+   "note": "perfect triangle of 21"
+  },
+  {
+   "value": 28,
+   "note": "perfect triangle of 28"
+  },
+  {
+   "value": 36,
+   "note": "perfect triangle of 36"
+  },
+  {
+   "value": 45,
+   "note": "perfect triangle of 45"
+  },
+  {
+   "value": 55,
+   "note": "perfect triangle of 55"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "Nine pyramid-shaped arrangements of small red outline triangles in a 3×3 layout, growing from 2 rows (3 triangles) to 10 rows (55 triangles), each with its total printed underneath in black.",
+   "subjects": [
+    "triangular numbers",
+    "red triangles",
+    "triangle pattern",
+    "pyramid of dots",
+    "number diagram"
+   ],
+   "text_in_picture": "3 6 10 15 21 28 36 45 55",
+   "credit": null,
+   "box": [
+    0.17,
+    0.1,
+    0.86,
+    0.97
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "triangle"
+  ],
+  "themes": [
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "perfect triangles",
+  "triangular numbers",
+  "3 6 10 15 21 28 36 45 55",
+  "number triangles",
+  "red triangles",
+  "triangle numbers",
+  "36",
+  "45",
+  "55",
+  "gematria triangles",
+  "number pattern"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,214 @@
+{
+ "id": "genesis-1-1-part-1/46",
+ "kinds": [
+  "word-study",
+  "comparison"
+ ],
+ "title": "The Hebrew plural ending -im (ים): Cherubim, Seraphim, Goyim, Elohim",
+ "summary": "Shows the Hebrew plural ending ים- (-im) in a Singular and Plural comparison: Cherub (כרב) to Cherubim (כרבים), Seraph (שרף) to Seraphim (שרפים), Goy (גוי) to Goyim (גוים) and eloah (אלוה) to elohim (אלהים), with the -im ending coloured and underlined in each plural.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "-ים"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "-im"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Singular"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Plural"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "Cherub"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כרב"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "Cherubim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כרבים"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "Seraph"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שרף"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "Seraphim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שרפים"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "Goy"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "גוי"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "Goyim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "גוים"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "eloah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אלוה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "elohim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אלהים"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "כרב",
+   "translit": "cherub",
+   "gloss": "cherub (singular)",
+   "strongs": "H3742"
+  },
+  {
+   "lang": "he",
+   "word": "כרבים",
+   "translit": "cherubim",
+   "gloss": "cherubim (plural)",
+   "strongs": "H3742"
+  },
+  {
+   "lang": "he",
+   "word": "שרף",
+   "translit": "seraph",
+   "gloss": "seraph (singular)",
+   "strongs": "H8314"
+  },
+  {
+   "lang": "he",
+   "word": "שרפים",
+   "translit": "seraphim",
+   "gloss": "seraphim (plural)",
+   "strongs": "H8314"
+  },
+  {
+   "lang": "he",
+   "word": "גוי",
+   "translit": "goy",
+   "gloss": "nation (singular)",
+   "strongs": "H1471"
+  },
+  {
+   "lang": "he",
+   "word": "גוים",
+   "translit": "goyim",
+   "gloss": "nations (plural)",
+   "strongs": "H1471"
+  },
+  {
+   "lang": "he",
+   "word": "אלוה",
+   "translit": "eloah",
+   "gloss": "God (singular)",
+   "strongs": "H433"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God (plural form)",
+   "strongs": "H430"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "im",
+   "other": "ים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "Hebrew grammar"
+  ],
+  "groups": [
+   "angels",
+   "Gentiles"
+  ]
+ },
+ "keywords": [
+  "elohim",
+  "eloah",
+  "plural",
+  "singular",
+  "-im ending",
+  "plural ending ים",
+  "cherub",
+  "cherubim",
+  "seraph",
+  "seraphim",
+  "goy",
+  "goyim",
+  "nations",
+  "Hebrew plural",
+  "why is God plural"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,175 @@
+{
+ "id": "genesis-1-1-part-2/4",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "Bereshit letter meanings: \"Son of God Destroyed with Hand on Cross\"",
+ "summary": "The six letters of בראשית (bet, resh, alef, shin, yod, tav) with their ancient pictographs and one-word meanings — Son of (bar), God, Destroy, Hand, Cross — read together as \"Son of God Destroyed with Hand on Cross\".",
+ "text": [
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ב ר א ש י ת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet resh alef shin yod tav"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Son of (bar) · God · Destroy · Hand · Cross"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Son of God Destroyed with Hand on Cross"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "בר",
+   "translit": "bar",
+   "gloss": "son of",
+   "strongs": "H1247"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Son of (bar)",
+   "other": "ב"
+  },
+  {
+   "en": "God",
+   "other": "א"
+  },
+  {
+   "en": "Destroy",
+   "other": "ש"
+  },
+  {
+   "en": "Hand",
+   "other": "י"
+  },
+  {
+   "en": "Cross",
+   "other": "ת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "son of (bar) — read together with resh"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "son of (bar) — read together with bet"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "God"
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "destroy"
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "hand"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "cross"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Row of six ancient (paleo-)Hebrew pictograph letters with coloured underlines and meanings below: cross (tav), hand (yod), teeth/destroy (shin), ox head (alef), head (resh), house (bet).",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictographs",
+    "ancient Hebrew letters",
+    "cross",
+    "hand",
+    "bereshit"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.1,
+    0.4,
+    0.88,
+    0.56
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Crucifixion"
+  ],
+  "things": [
+   "cross"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "messianic prophecy",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Son of God destroyed with hand on cross",
+  "bereshit",
+  "bar",
+  "son of",
+  "alef God",
+  "shin destroy",
+  "yod hand",
+  "tav cross",
+  "Genesis 1:1 hidden message",
+  "ancient Hebrew pictographs",
+  "paleo-Hebrew letters",
+  "crucifixion in Genesis 1:1",
+  "Hebrew letter meanings"
+ ],
+ "uncertain": [
+  "The label \"Son of (bar)\" sits between bet and resh, so it is read as the two letters together (bar)."
+ ],
+ "confidence": 0.92
+}

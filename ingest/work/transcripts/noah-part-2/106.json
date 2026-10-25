@@ -1,0 +1,151 @@
+{
+ "id": "noah-part-2/106",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Ezekiel 38:1-6: Gog of Magog, Meshech and Tubal",
+ "summary": "Ezekiel 38:1-6 in English, the prophecy against Gog of the land of Magog. Names from the earlier Table of Nations lists (Magog, Meshech, Tubal, Put, Gomer, Togarmah) are underlined and carry their list numbers in red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Ezekiel 38:1 – 6",
+   "osis": [
+    "Ezek.38.1",
+    "Ezek.38.2",
+    "Ezek.38.3",
+    "Ezek.38.4",
+    "Ezek.38.5",
+    "Ezek.38.6"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "יחזקאל לח:א – ו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ezek.38.1",
+   "text": "1 And the word of the LORD came to me saying,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ezek.38.2",
+   "text": "2 “Son of man, set your face toward Gog of the land of 2 Magog, the prince of Rosh, 6 Meshech and 5 Tubal, and prophesy against him"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ezek.38.3",
+   "text": "3 and say, ‘Thus says the LORD GOD, “Behold, I am against you, O Gog, prince of Rosh, 6 Meshech and 5 Tubal."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ezek.38.4",
+   "text": "4 “I will turn you about and put hooks into your jaws, and I will bring you out, and all your army, horses and horsemen, all of them splendidly attired, a great company with buckler and shield, all of them wielding swords;"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ezek.38.5",
+   "text": "5 Persia, Ethiopia and 3 Put with them, all of them with shield and helmet;"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ezek.38.6",
+   "text": "6 1 Gomer with all its troops; Beth-10 Togarmah from the remote parts of the north with all its troops—many peoples with you."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Ezekiel 38:1 – 6 / יחזקאל לח:א – ו",
+   "osis": [
+    "Ezek.38.1",
+    "Ezek.38.2",
+    "Ezek.38.3",
+    "Ezek.38.4",
+    "Ezek.38.5",
+    "Ezek.38.6"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2,
+   "note": "Magog's number in Japheth's list of nations"
+  },
+  {
+   "value": 6,
+   "note": "Meshech's number in Japheth's list"
+  },
+  {
+   "value": 5,
+   "note": "Tubal's number in Japheth's list"
+  },
+  {
+   "value": 3,
+   "note": "Put's number in Ham's list"
+  },
+  {
+   "value": 1,
+   "note": "Gomer's number in Japheth's list"
+  },
+  {
+   "value": 10,
+   "note": "Togarmah's number in Japheth's list"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Gog",
+   "Magog",
+   "Meshech",
+   "Tubal",
+   "Put",
+   "Gomer",
+   "Togarmah"
+  ],
+  "places": [
+   "Persia",
+   "Ethiopia"
+  ],
+  "events": [
+   "war of Gog and Magog"
+  ],
+  "things": [],
+  "themes": [
+   "prophecy",
+   "judgment",
+   "table of nations"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Ezekiel 38",
+  "Gog and Magog",
+  "Gog of the land of Magog",
+  "prince of Rosh",
+  "Meshech and Tubal",
+  "Persia Ethiopia and Put",
+  "Gomer",
+  "Togarmah",
+  "hooks in your jaws",
+  "end times prophecy",
+  "war of Gog and Magog",
+  "northern invasion",
+  "table of nations"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

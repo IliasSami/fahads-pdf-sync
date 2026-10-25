@@ -1,0 +1,97 @@
+{
+ "id": "red-heifer/109",
+ "kinds": [
+  "text",
+  "quote"
+ ],
+ "title": "Only 9 red heifers prepared; the 10th by the Messiah",
+ "summary": "Text slide stating that only nine red heifers were ever prepared, that the Jews believe the 10th and last will be prepared by the Messiah, and the teacher's contention that the 10th was the Messiah, Yeshua ha-Moshiach.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Only 9 Red Heifers were ever Prepared"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The Jews believe the 10th and last will be prepared by the Messiah."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "I contend the 10th was the Messiah,"
+  },
+  {
+   "lang": "translit",
+   "role": "body",
+   "text": "yeshua hamoshiach."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "other",
+   "word": "yeshua",
+   "translit": "yeshua",
+   "gloss": "Jesus (Yeshua)",
+   "strongs": "H3442",
+   "gematria": null
+  },
+  {
+   "lang": "other",
+   "word": "hamoshiach",
+   "translit": "ha-moshiach",
+   "gloss": "the Messiah (the anointed one)",
+   "strongs": "H4899",
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 9,
+   "note": "number of red heifers ever prepared"
+  },
+  {
+   "value": 10,
+   "note": "the 10th and last red heifer, expected to be prepared by the Messiah"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer"
+  ],
+  "themes": [
+   "messianic prophecy",
+   "purification",
+   "typology"
+  ],
+  "groups": [
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "red heifer",
+  "nine red heifers",
+  "ninth red heifer",
+  "tenth red heifer",
+  "10th and last red heifer",
+  "Messiah prepares the red heifer",
+  "Yeshua HaMashiach",
+  "Jesus is the Messiah",
+  "Jewish tradition",
+  "Numbers 19",
+  "Jews believe",
+  "last red heifer"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

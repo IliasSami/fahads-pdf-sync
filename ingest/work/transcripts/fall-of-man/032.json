@@ -1,0 +1,106 @@
+{
+ "id": "fall-of-man/32",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 3:19 and 3:14 — dust to dust; the serpent cursed to go on its belly",
+ "summary": "Two verses side by side, each with its Hebrew reference: Genesis 3:19 (by the sweat of your face you will eat bread, for you are dust and to dust you shall return) and Genesis 3:14 (the LORD God curses the serpent to go on its belly and eat dust). The letters of 'LORD God' are shown in several colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:19",
+   "osis": "Gen.3.19"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:יט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.3.19",
+   "text": "19 By the sweat of your face You will eat bread, Till you return to the ground, Because from it you were taken; For you are dust, And to dust you shall return.”"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:14",
+   "osis": "Gen.3.14"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:יד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.3.14",
+   "text": "14 The LORD God said to the serpent, “Because you have done this, Cursed are you more than all cattle, And more than every beast of the field; On your belly you will go, And dust you will eat All the days of your life;"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:19 / בראשית ג:יט",
+   "osis": [
+    "Gen.3.19"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 3:14 / בראשית ג:יד",
+   "osis": [
+    "Gen.3.14"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [
+   "serpent",
+   "dust",
+   "ground",
+   "bread",
+   "cattle",
+   "beast of the field",
+   "belly"
+  ],
+  "themes": [
+   "judgment",
+   "death",
+   "sin",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 3:19",
+  "Genesis 3:14",
+  "dust you will eat",
+  "on thy belly shalt thou go",
+  "cursed above all cattle",
+  "curse on the serpent",
+  "dust to dust",
+  "for dust thou art",
+  "sweat of thy face",
+  "LORD God",
+  "consequences of the fall",
+  "serpent cursed"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

@@ -1,0 +1,19 @@
+{
+  "id": "akeda-1/75",
+  "kinds": ["text"],
+  "title": "6 Day War",
+  "summary": "A plain slide with only the words '6 Day War' in blue, centred on a white background.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "6 Day War"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [{"value": 6, "note": "the six days of the 6 Day War"}],
+  "pictures": [],
+  "entities": {"people": [], "places": ["Israel", "Jerusalem"], "events": ["Six-Day War (1967)"], "things": [], "themes": ["prophecy"], "groups": ["Israel"]},
+  "keywords": ["6 Day War", "Six Day War", "Six-Day War", "1967", "Israel", "war", "Jerusalem", "Temple Mount", "Akedah", "Akeda"],
+  "uncertain": [],
+  "confidence": 0.97
+}

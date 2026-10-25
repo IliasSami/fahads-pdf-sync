@@ -1,0 +1,123 @@
+{
+ "id": "red-heifer/36",
+ "kinds": [
+  "title",
+  "list"
+ ],
+ "title": "Red heifer ordinance, step 4 — cleanse with the water on the 3rd and 7th day",
+ "summary": "Completes the four-step list of the red heifer ordinance: step 4 is to cleanse yourself with that water on the 3rd and 7th day after defilement. Steps 1-3 (find the heifer, burn it with cedar wood, hyssop and crimson wool, mix its ashes with spring water) remain above.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Ordinance of the Red Heifer"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "is the most mysterious of the"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "chukat"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "חקת"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "…"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1. Find a red heifer that is completely unblemished and never used as a beast of burden."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "2. Slaughter it and burn it together outside the city with some cedar wood, some hyssop, and some crimson wool."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "3. Mix its ashes with spring water."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "4. Cleanse yourself with that water on the 3rd and 7th day after defilement."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חקת",
+   "translit": "chukat",
+   "gloss": "statutes of (statute, ordinance)",
+   "strongs": "H2708",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "chukat",
+   "other": "חקת"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "third day after defilement, when the water is used for cleansing"
+  },
+  {
+   "value": 7,
+   "note": "seventh day after defilement, when the water is used for cleansing"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "cedar wood",
+   "hyssop",
+   "crimson wool",
+   "ashes",
+   "spring water"
+  ],
+  "themes": [
+   "statutes (chok)",
+   "purification",
+   "clean and unclean",
+   "death",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "red heifer",
+  "ordinance of the red heifer",
+  "cleanse yourself",
+  "third and seventh day",
+  "3rd and 7th day",
+  "defilement",
+  "uncleanness from the dead",
+  "water of purification",
+  "steps of the red heifer",
+  "four steps",
+  "step 4",
+  "chukat",
+  "Numbers 19"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

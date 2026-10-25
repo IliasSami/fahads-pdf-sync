@@ -1,0 +1,146 @@
+{
+ "id": "gods-garden-in-eden/34",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Hidden letters in Genesis 2:19-20: cassia, almond",
+ "summary": "Two Hebrew excerpts from Genesis 2:19-20, each with a few large coloured letters that spell a tree word with a number beside it: Cassia קדה (+7) and Almond (+5). Cassia highlights ק, ד, ה in verse 19; almond highlights ש, ק, ד across verses 19-20. The almond Hebrew heading appears on the slide as שקר.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Cassia"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "קדה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "+7"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.19",
+   "text": "19 ויצר יהוה אלהים מן־האדמה כל־חית השדה ואת כל־עוף השמים ויבא אל־האדם לראות מה־יקרא־לו וכל אשר יקרא־לו האדם נפש חיה הוא שמו׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Almond"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שקר"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "+5"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": [
+    "Gen.2.19",
+    "Gen.2.20"
+   ],
+   "text": "19 ויצר יהוה אלהים מן־האדמה כל־חית השדה ואת כל־עוף השמים ויבא אל־האדם לראות מה־יקרא־לו וכל אשר יקרא־לו האדם נפש חיה הוא שמו׃ 20 ויקרא האדם שמות לכל־הבהמה ולעוף השמים ולכל חית השדה ולאדם לא־מצא עזר כנגדו׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:19-20 (Hebrew text)",
+   "osis": [
+    "Gen.2.19",
+    "Gen.2.20"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "קדה",
+   "translit": "qiddah",
+   "gloss": "cassia",
+   "strongs": "H6916",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "שקד",
+   "translit": "shaqed",
+   "gloss": "almond",
+   "strongs": "H8247",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Cassia",
+   "other": "קדה"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "+7, number shown beside קדה (cassia)"
+  },
+  {
+   "value": 5,
+   "note": "+5, number shown beside the almond heading"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "cassia",
+   "almond",
+   "beasts of the field",
+   "birds of the air"
+  ],
+  "themes": [
+   "Bible codes",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "hidden letters",
+  "Bible code",
+  "ELS",
+  "cassia in Hebrew",
+  "qiddah",
+  "almond in Hebrew",
+  "shaked",
+  "trees of Eden",
+  "Genesis 2:19",
+  "Genesis 2:20",
+  "Adam named the animals",
+  "living creature",
+  "no help meet found",
+  "skip number"
+ ],
+ "uncertain": [
+  "The Hebrew heading beside Almond looks like שקר (shin-qof-resh); the almond word is שקד (shin-qof-dalet) and the highlighted letters in the verse are ש, ק, ד. Transcribed as shown on the slide (שקר).",
+  "Almond label is grey while its Hebrew heading is a tan colour, so no colour link recorded."
+ ],
+ "confidence": 0.85
+}

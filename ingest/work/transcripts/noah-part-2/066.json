@@ -1,0 +1,123 @@
+{
+ "id": "noah-part-2/66",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Matthew 2:23 — Nazareth means 'Branch Town' (netzeret)",
+ "summary": "Matthew 2:23 in English with Greek reference header: Jesus dwelt in a city called Nazareth so that he would be called a Nazarene. The slide glosses Nazareth as 'Branch Town', shows the Hebrew-sounding word netzeret and the Greek Ναζαρέτ, linking the town name to the Branch (netzer).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Matthew 2:23",
+   "osis": "Matt.2.23"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ματθαίος 2:23"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.2.23",
+   "text": "And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene."
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Branch Town"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "netzeret"
+  },
+  {
+   "lang": "el",
+   "role": "label",
+   "text": "Ναζαρέτ"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Matthew 2:23 / Ματθαίος 2:23",
+   "osis": [
+    "Matt.2.23"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "el",
+   "word": "Ναζαρέτ",
+   "translit": "Nazaret",
+   "gloss": "Nazareth (Branch Town)",
+   "strongs": "G3478"
+  },
+  {
+   "lang": "other",
+   "word": "netzeret",
+   "translit": "netzeret",
+   "gloss": "Branch Town (Nazareth)",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Nazareth",
+   "other": "Ναζαρέτ"
+  },
+  {
+   "en": "Nazarene",
+   "other": "Ναζαρέτ"
+  },
+  {
+   "en": "Branch Town",
+   "other": "Ναζαρέτ"
+  },
+  {
+   "en": "netzeret",
+   "other": "Ναζαρέτ"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [
+   "Nazareth"
+  ],
+  "events": [],
+  "things": [
+   "branch"
+  ],
+  "themes": [
+   "prophecy",
+   "messianic prophecy",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Nazareth",
+  "Branch Town",
+  "netzeret",
+  "Nazarene",
+  "Jesus of Nazareth",
+  "He shall be called a Nazarene",
+  "Matthew 2:23",
+  "fulfilled by the prophets",
+  "netzer",
+  "Branch",
+  "meaning of Nazareth",
+  "Ναζαρέτ"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

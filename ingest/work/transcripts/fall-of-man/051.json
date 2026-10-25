@@ -1,0 +1,27 @@
+{
+  "id": "fall-of-man/51",
+  "kinds": ["verse", "title"],
+  "title": "The Progression of Blood (6): Crucifixion — one substitute covers the world",
+  "summary": "Sixth and final step in “The Progression of Blood”: the Crucifixion, where one substitute sacrifice covers the entire world. John 19:17-19 is quoted — Jesus carries His cross to Golgotha, is crucified between two men, and Pilate's sign reads “Jesus the Nazarene, and King of the Jews” — with the name Jesus in red.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Progression of Blood₆"},
+    {"lang": "en", "role": "body", "text": "Crucifixion"},
+    {"lang": "en", "role": "body", "text": "One Substitute Sacrifice Covers Entire World"},
+    {"lang": "en", "role": "reference", "text": "John 19:17", "osis": "John.19.17"},
+    {"lang": "el", "role": "reference", "text": "Ἰωάνης 14:6", "osis": "John.14.6"},
+    {"lang": "en", "role": "verse", "text": "17 They took Jesus, therefore, and He went out, bearing His own cross, to the place called the Place of a Skull, which is called in Hebrew, Golgotha. There they crucified Him, and with Him two other men, one on either side, and Jesus in between. Pilate also wrote an inscription and put it on the cross. It was written, “JESUS THE NAZARENE, AND KING OF THE JEWS.”", "osis": ["John.19.17", "John.19.18", "John.19.19"]}
+  ],
+  "refs": [
+    {"shown": "John 19:17", "osis": ["John.19.17", "John.19.18", "John.19.19"], "role": "quoted"},
+    {"shown": "Ἰωάνης 14:6", "osis": ["John.14.6"], "role": "cited"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Jesus", "Pilate"], "places": ["Golgotha"], "events": ["Crucifixion"], "things": ["cross", "inscription on the cross"], "themes": ["blood", "sacrifice", "substitution", "atonement", "redemption"], "groups": ["Jews"]},
+  "keywords": ["progression of blood", "crucifixion", "one sacrifice for the whole world", "substitute sacrifice", "Golgotha", "Place of a Skull", "Calvary", "bearing his cross", "two thieves", "Pilate's inscription", "title on the cross", "King of the Jews", "Jesus of Nazareth", "John 19", "John 19:17"],
+  "uncertain": ["The Greek reference header reads Ἰωάνης 14:6, which does not match the English John 19:17; transcribed as shown.", "The verse text is labelled only “17” but runs on through John 19:18-19."],
+  "confidence": 0.9
+}

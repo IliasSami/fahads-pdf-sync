@@ -1,0 +1,267 @@
+{
+ "id": "genesis-1-1-part-2/108",
+ "kinds": [
+  "verse",
+  "gematria"
+ ],
+ "title": "Genesis 8:14 — the eight \"New Beginning\" words also add up to 2701",
+ "summary": "Genesis 8:14 (second month, 27th day, the earth was dry) in English and Hebrew, split into eight Hebrew words with their gematria values: 626 + 379 + 365 + 320 + 296 + 317 + 342 + 56 = 2701, the same total as Genesis 1:1. The slide heading calls them the 8 \"New Beginning\" words.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "8 “New Beginning” Words 8"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:14",
+   "osis": "Gen.8.14"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:יד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.14",
+   "text": "14 In the second month, on the 27th day of the month, the earth was dry."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.8.14",
+   "text": "ובחדש השני בשבעה ועשרים"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "626 + 379 + 365 + 320 +"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.8.14",
+   "text": "יום לחדש יבשה הארץ׃"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "296 + 317 + 342 + 56 = 2701"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:14 / בראשית ח:יד",
+   "osis": [
+    "Gen.8.14"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ובחדש",
+   "translit": "uvachodesh",
+   "gloss": "and in the month",
+   "strongs": "H2320",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     6,
+     2,
+     8,
+     4,
+     300
+    ],
+    "total": 320
+   }
+  },
+  {
+   "lang": "he",
+   "word": "השני",
+   "translit": "hasheni",
+   "gloss": "the second",
+   "strongs": "H8145",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     300,
+     50,
+     10
+    ],
+    "total": 365
+   }
+  },
+  {
+   "lang": "he",
+   "word": "בשבעה",
+   "translit": "bishvah",
+   "gloss": "on the seventh (seven)",
+   "strongs": "H7651",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     2,
+     300,
+     2,
+     70,
+     5
+    ],
+    "total": 379
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ועשרים",
+   "translit": "ve'esrim",
+   "gloss": "and twenty",
+   "strongs": "H6242",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     6,
+     70,
+     300,
+     200,
+     10,
+     40
+    ],
+    "total": 626
+   }
+  },
+  {
+   "lang": "he",
+   "word": "יום",
+   "translit": "yom",
+   "gloss": "day",
+   "strongs": "H3117",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     10,
+     6,
+     40
+    ],
+    "total": 56
+   }
+  },
+  {
+   "lang": "he",
+   "word": "לחדש",
+   "translit": "lachodesh",
+   "gloss": "of the month",
+   "strongs": "H2320",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     30,
+     8,
+     4,
+     300
+    ],
+    "total": 342
+   }
+  },
+  {
+   "lang": "he",
+   "word": "יבשה",
+   "translit": "yavshah",
+   "gloss": "was dry",
+   "strongs": "H3001",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     10,
+     2,
+     300,
+     5
+    ],
+    "total": 317
+   }
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     1,
+     200,
+     90
+    ],
+    "total": 296
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "earth",
+   "other": "הארץ"
+  },
+  {
+   "en": "296",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2701,
+   "note": "total gematria of the eight words of Genesis 8:14 (same as Genesis 1:1)"
+  },
+  {
+   "value": 8,
+   "note": "eight \"New Beginning\" words"
+  },
+  {
+   "value": 27,
+   "note": "the 27th day of the second month"
+  },
+  {
+   "value": 296,
+   "note": "gematria of הארץ (the earth)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "new beginning",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 8:14",
+  "2701",
+  "new beginning",
+  "eight words",
+  "earth was dry",
+  "second month 27th day",
+  "gematria of Genesis 8:14",
+  "Noah's flood",
+  "the flood waters dried up",
+  "number 8",
+  "same number as Genesis 1:1",
+  "ha'aretz 296"
+ ],
+ "uncertain": [
+  "The slide splits the Hebrew verse over two lines and the second number line shows 296 + 317 + 342 + 56 under הארץ יבשה לחדש יום; transcribed as shown."
+ ],
+ "confidence": 0.95
+}

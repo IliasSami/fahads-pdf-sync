@@ -1,0 +1,50 @@
+{
+ "id": "akeda-2/119",
+ "kinds": [
+  "text"
+ ],
+ "title": "Did Abraham truly love Isaac?",
+ "summary": "A single question on an otherwise blank slide: Did Abraham truly love Isaac?",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Did Abraham truly love Isaac?"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Abraham",
+   "Isaac"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [],
+  "themes": [
+   "love",
+   "sacrifice"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Did Abraham love Isaac",
+  "Abraham's love for Isaac",
+  "father and son",
+  "love",
+  "Akedah",
+  "Akeda",
+  "Binding of Isaac",
+  "Genesis 22",
+  "thy son whom thou lovest"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

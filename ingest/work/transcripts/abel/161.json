@@ -1,0 +1,128 @@
+{
+  "id": "abel/161",
+  "kinds": [
+    "verse",
+    "comparison"
+  ],
+  "title": "Abel and Yeshua did not defend themselves",
+  "summary": "Genesis 4:8 (Cain kills Abel) and Matthew 26:62-63 (Jesus silent before the high priest) joined by the large heading \"Abel & yeshua did not defend themselves.\"",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:8",
+      "osis": "Gen.4.8"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:ח",
+      "osis": "Gen.4.8"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "8 And Cain said to Abel his brother; and it came to pass, when they were in the field, that Cain rose up against Abel his brother and killed him.",
+      "osis": "Gen.4.8"
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Abel & yeshua did not defend themselves"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Matthew 26:62-63",
+      "osis": [
+        "Matt.26.62",
+        "Matt.26.63"
+      ]
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "Ματθαίος 26:62-63",
+      "osis": [
+        "Matt.26.62",
+        "Matt.26.63"
+      ]
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "62 And the high priest having stood up, said to Him, “Answer You nothing? What do these witness against You?”",
+      "osis": "Matt.26.62"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "63 But Jesus was silent.",
+      "osis": "Matt.26.63"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:8 / בראשית ד:ח",
+      "osis": [
+        "Gen.4.8"
+      ],
+      "role": "quoted"
+    },
+    {
+      "shown": "Matthew 26:62-63 / Ματθαίος 26:62-63",
+      "osis": [
+        "Matt.26.62",
+        "Matt.26.63"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Cain",
+      "Abel",
+      "Jesus"
+    ],
+    "places": [],
+    "events": [
+      "Murder of Abel",
+      "Trial of Jesus"
+    ],
+    "things": [],
+    "themes": [
+      "silence",
+      "typology",
+      "Abel as a type of Christ",
+      "murder"
+    ],
+    "groups": [
+      "high priest"
+    ]
+  },
+  "keywords": [
+    "Genesis 4",
+    "Genesis 4:8",
+    "Cain killed Abel",
+    "Cain rose up against Abel",
+    "murder of Abel",
+    "in the field",
+    "Cain said to Abel",
+    "brother killed brother",
+    "first murder",
+    "did not defend themselves",
+    "Yeshua",
+    "Jesus was silent",
+    "Matthew 26",
+    "Abel a type of Christ",
+    "high priest",
+    "Abel and Jesus silent"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

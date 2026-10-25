@@ -1,0 +1,86 @@
+{
+ "id": "akeda-1/122",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Exodus 3:2 — God in thorns (burning bush)",
+ "summary": "Exodus 3:2 (the angel of the LORD appears in a blazing fire in the bush, which burns but is not consumed) with the multicoloured caption GOD IN THORNS added at the bottom.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 3:2",
+   "osis": "Exod.3.2"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות ג:ב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.3.2",
+   "text": "2 The angel of the LORD appeared to him in a blazing fire from the midst of a bush; and he looked, and behold, the bush was burning with fire, yet the bush was not consumed."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "GOD IN THORNS"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 3:2 / שמות ג:ב",
+   "osis": [
+    "Exod.3.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Moses"
+  ],
+  "places": [],
+  "events": [
+   "Burning bush"
+  ],
+  "things": [
+   "burning bush",
+   "fire",
+   "thorn bush"
+  ],
+  "themes": [
+   "names of God",
+   "holiness",
+   "typology"
+  ],
+  "groups": [
+   "angels"
+  ]
+ },
+ "keywords": [
+  "God in thorns",
+  "burning bush",
+  "Exodus 3:2",
+  "angel of the LORD",
+  "bush not consumed",
+  "blazing fire",
+  "thorn bush",
+  "Moses and the bush",
+  "seneh",
+  "Exodus 3"
+ ],
+ "uncertain": [
+  "Moses is not named on the slide; 'him' refers to him in context. In the caption GOD the letters G, O, D are in different colours; only the L and R of LORD are coloured in the verse (meaning not stated)."
+ ],
+ "confidence": 0.96
+}

@@ -1,0 +1,34 @@
+{
+  "id": "abel/95",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 22:2 — first use of “love” (ahava, אהבה): the Law of First Usage",
+  "summary": "Genesis 22:2 in English and Hebrew, where God tells Abraham to take his only son Isaac, whom he loves, and offer him on Mount Moriah. The word love (ahava, אהבה) is highlighted in magenta as the first time love appears in the Bible — the “Law of 1st Usage” — tied to a father offering his only son.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22:2", "osis": "Gen.22.2"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב:ב"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.2", "text": "2 And God said, “Take now your son, your only son, whom you love, Isaac and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains, which I will show you.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.22.2", "text": "2 ויאמר קח נא את בנך את יחידך אשר אהבת את יצחק ולך לך אל ארץ המריה והעלהו שם לעלה על אחד ההרים אשר אמר אליך׃"},
+    {"lang": "translit", "role": "label", "text": "ahava"},
+    {"lang": "he", "role": "label", "text": "אהבה"},
+    {"lang": "en", "role": "label", "text": "Lo♥e"},
+    {"lang": "en", "role": "heading", "text": "Law of 1st Usage"}
+  ],
+  "refs": [{"shown": "Genesis 22:2 / בראשית כב:ב", "osis": ["Gen.22.2"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "אהבה", "translit": "ahava", "gloss": "love", "strongs": "H160"},
+    {"lang": "he", "word": "אהבת", "translit": "ahavta", "gloss": "you love", "strongs": "H157"}
+  ],
+  "color_links": [
+    {"en": "love", "other": "אהבת"},
+    {"en": "ahava", "other": "אהבה"},
+    {"en": "son", "other": "בנ"},
+    {"en": "you", "other": "ך"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham", "Isaac"], "places": ["Mount Moriah"], "events": ["Binding of Isaac (Akedah)"], "things": ["burnt offering"], "themes": ["love", "sacrifice", "law of first mention", "only son", "typology"], "groups": []},
+  "keywords": ["love", "ahava", "ahavah", "first mention of love", "law of first mention", "law of first usage", "only son", "thine only son Isaac whom thou lovest", "Moriah", "burnt offering", "Akedah", "Abraham and Isaac", "Genesis 22", "Genesis 22:2"],
+  "uncertain": [],
+  "confidence": 0.95
+}

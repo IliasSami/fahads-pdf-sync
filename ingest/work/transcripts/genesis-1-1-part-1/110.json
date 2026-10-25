@@ -1,0 +1,121 @@
+{
+ "id": "genesis-1-1-part-1/110",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:1 in Hebrew and written backwards",
+ "summary": "Genesis 1:1 in Hebrew with each word colour-coded, its transliteration above and a row of coloured left-pointing arrows below (one per letter). Underneath, under the heading \"Writing Genesis 1:1 backwards…\", the same letters appear in reverse order with the same colours and right-pointing arrows.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "translit",
+   "role": "verse",
+   "text": "ha'aretz v'et hashamayim et elohim bara bereshit",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Writing Genesis 1:1 backwards…"
+  },
+  {
+   "lang": "he",
+   "role": "body",
+   "text": "ץראה תאו םימשה תא םיהלא ארב תישארב"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [
+  {
+   "en": "bereshit",
+   "other": "בראשית"
+  },
+  {
+   "en": "bara",
+   "other": "ברא"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  },
+  {
+   "en": "et",
+   "other": "את"
+  },
+  {
+   "en": "hashamayim",
+   "other": "השמים"
+  },
+  {
+   "en": "v'et",
+   "other": "ואת"
+  },
+  {
+   "en": "ha'aretz",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "Bible codes",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "backwards",
+  "Genesis 1:1 written backwards",
+  "reverse letters",
+  "bereshit bara elohim",
+  "Hebrew word by word",
+  "colour-coded Hebrew",
+  "transliteration of Genesis 1:1",
+  "Bible code",
+  "reversed Hebrew text",
+  "arrows under letters"
+ ],
+ "uncertain": [
+  "The backwards Hebrew row is the verse's letters in reverse order; it is typed here in reading order (right to left) as ץראה תאו םימשה תא םיהלא ארב תישארב — the glyphs on the slide run left to right in the original order, with arrows pointing right."
+ ],
+ "confidence": 0.9
+}

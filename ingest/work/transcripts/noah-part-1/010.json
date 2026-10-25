@@ -1,0 +1,163 @@
+{
+ "id": "noah-part-1/10",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 5:29-32 — Noah's birth, Lamech's years, Shem, Ham and Japheth",
+ "summary": "Genesis 5:29-32 in English: Lamech names his son Noah, saying he will comfort us concerning our work and toil because of the cursed ground; Lamech lives 777 years in all; Noah at 500 begets Shem, Ham and Japheth. The name Noah is coloured green and numbered with footnote marks 1 to 4.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 5:29-32",
+   "osis": [
+    "Gen.5.29",
+    "Gen.5.30",
+    "Gen.5.31",
+    "Gen.5.32"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ה:כט-לב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.5.29",
+   "text": "29 And he called his name Noah¹, saying,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.5.29",
+   "text": "“This same shall comfort us"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.5.29",
+   "text": "concerning our work and toil of our hands,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.5.29",
+   "text": "because of the ground which the LORD hath cursed.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.5.30",
+   "text": "30 And Lamech lived after he begat Noah²"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.5.30",
+   "text": "five hundred ninety and five years,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.5.30",
+   "text": "and begat sons and daughters:"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.5.31",
+   "text": "31 And all the days of Lamech were"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.5.31",
+   "text": "seven hundred seventy and seven years: and he died."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.5.32",
+   "text": "32 And Noah ³ was five hundred years old:"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.5.32",
+   "text": "and Noah ⁴ begat Shem, Ham, and Japheth."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 5:29-32 / בראשית ה:כט-לב",
+   "osis": [
+    "Gen.5.29",
+    "Gen.5.30",
+    "Gen.5.31",
+    "Gen.5.32"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 595,
+   "note": "years Lamech lived after begetting Noah (five hundred ninety and five)"
+  },
+  {
+   "value": 777,
+   "note": "all the days of Lamech (seven hundred seventy and seven years)"
+  },
+  {
+   "value": 500,
+   "note": "Noah's age when he begat Shem, Ham and Japheth"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "Lamech",
+   "Shem",
+   "Ham",
+   "Japheth",
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "ground"
+  ],
+  "themes": [
+   "genealogy",
+   "curse",
+   "comfort",
+   "death"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 5:29",
+  "Genesis 5:32",
+  "Noah",
+  "Lamech",
+  "comfort",
+  "work and toil of our hands",
+  "ground which the LORD hath cursed",
+  "Shem Ham Japheth",
+  "Noah five hundred years old",
+  "Lamech 777",
+  "he died",
+  "begat sons and daughters",
+  "Genesis 5"
+ ],
+ "uncertain": [
+  "Superscript footnote marks 1, 2, 3, 4 appear after Noah; no footnote text is shown on the slide"
+ ],
+ "confidence": 0.96
+}

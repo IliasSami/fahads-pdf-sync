@@ -1,0 +1,221 @@
+{
+ "id": "genesis-1-1-part-2/85",
+ "kinds": [
+  "verse",
+  "gematria"
+ ],
+ "title": "Genesis 1:1 word by word: 913 + 203 + 86 + 401 + 395 + 407 + 296 = 2701",
+ "summary": "Genesis 1:1 in English and Hebrew with each Hebrew word in its own colour and its gematria value beneath: בראשית 913, ברא 203, אלהים 86, את 401, השמים 395, ואת 407, הארץ 296. The seven values add up to 2701.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "1 In beginning God created the heavens and the earth."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "296 + 407 + 395 + 401 + 86 + 203 + 913 = 2701"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     913
+    ],
+    "total": 913
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     203
+    ],
+    "total": 203
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     86
+    ],
+    "total": 86
+   }
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(object marker, alef-tav)",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     401
+    ],
+    "total": 401
+   }
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     395
+    ],
+    "total": 395
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve-et",
+   "gloss": "and (object marker, alef-tav)",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     407
+    ],
+    "total": 407
+   }
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha-aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     296
+    ],
+    "total": 296
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "earth",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 913,
+   "note": "gematria of בראשית (in the beginning)"
+  },
+  {
+   "value": 203,
+   "note": "gematria of ברא (created)"
+  },
+  {
+   "value": 86,
+   "note": "gematria of אלהים (God)"
+  },
+  {
+   "value": 401,
+   "note": "gematria of את"
+  },
+  {
+   "value": 395,
+   "note": "gematria of השמים (the heavens)"
+  },
+  {
+   "value": 407,
+   "note": "gematria of ואת"
+  },
+  {
+   "value": 296,
+   "note": "gematria of הארץ (the earth)"
+  },
+  {
+   "value": 2701,
+   "note": "total gematria of the seven words of Genesis 1:1"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "creation",
+   "names of God",
+   "triangular numbers"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "gematria of Genesis 1:1",
+  "2701",
+  "913 203 86 401 395 407 296",
+  "in the beginning God created the heaven and the earth",
+  "bereshit bara elohim",
+  "בראשית ברא אלהים את השמים ואת הארץ",
+  "value of each word",
+  "colour-coded Hebrew words",
+  "heavens and earth"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

@@ -1,0 +1,142 @@
+{
+ "id": "genesis-1-1-part-2/116",
+ "kinds": [
+  "word-study",
+  "letters",
+  "list"
+ ],
+ "title": "Names that start with yod: Yahweh, Yeshua, Yerushalayim",
+ "summary": "Headed 'Starts with yod', lists three names that begin with the letter yod: Yahweh (יהוה), Yeshua (ישוע) and Yerushalayim (ירושלים). The opening y/yod is coloured red-brown in each.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Starts with"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "י"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "yod"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "יהוה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yeshua"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ישוע"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yerushalayim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ירושלים"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the name of God (YHWH, LORD)",
+   "strongs": "H3068"
+  },
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Yeshua (Jesus), salvation",
+   "strongs": "H3442"
+  },
+  {
+   "lang": "he",
+   "word": "ירושלים",
+   "translit": "yerushalayim",
+   "gloss": "Jerusalem",
+   "strongs": "H3389"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "y (yahweh)",
+   "other": "י"
+  },
+  {
+   "en": "w (yahweh)",
+   "other": "ו"
+  },
+  {
+   "en": "y (yeshua)",
+   "other": "י"
+  },
+  {
+   "en": "y (yerushalayim)",
+   "other": "י"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "first letter of Yahweh, Yeshua and Yerushalayim"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [
+   "Jerusalem"
+  ],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "yod",
+  "Yahweh",
+  "Yeshua",
+  "Jesus Hebrew name",
+  "Jerusalem Hebrew name",
+  "Yerushalayim",
+  "YHWH",
+  "names starting with yod",
+  "Hebrew spelling",
+  "LORD",
+  "Jeshua",
+  "Y"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

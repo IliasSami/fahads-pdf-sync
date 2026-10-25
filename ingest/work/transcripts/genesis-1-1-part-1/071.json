@@ -1,0 +1,239 @@
+{
+ "id": "genesis-1-1-part-1/71",
+ "kinds": [
+  "word-study",
+  "timeline",
+  "chart"
+ ],
+ "title": "Seven words of Genesis 1:1 as seven 1000-year stages from creation to the Millenial Reign",
+ "summary": "The seven Hebrew words of Genesis 1:1 (1st to 7th, each 1000yrs) with a row beneath pairing each with a stage: In the beginning; God fills or fattens the Earth; God chooses a people; yeshua comes first time; yeshua is in the heavens; yeshua returns; Millenial Reign of yeshua.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "translit",
+   "role": "reference",
+   "text": "Bereshit 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "In beginning · created · God · (et) · the skywaters · and (et) · the land"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bereshit · bara · elohim · et · hashamayim · ve’et · ha’aretz"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1st · 2nd · 3rd · 4th · 5th · 6th · 7th"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1000yrs · 1000yrs · 1000yrs · 1000yrs · 1000yrs · 1000yrs · 1000yrs"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "In the beginning"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "God fills or fattens the Earth"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "God chooses a people"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "yeshua את comes first time"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "yeshua is in the heavens"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "yeshua את returns"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Millenial Reign of yeshua"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / Bereshit 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(et), shown in the stages 'yeshua את comes first time' and 'yeshua את returns'",
+   "strongs": "H853",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the skywaters",
+   "strongs": "H8064",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve'et",
+   "gloss": "and (et)",
+   "strongs": "H853",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the land",
+   "strongs": "H776",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "(et)",
+   "other": "את"
+  },
+  {
+   "en": "the skywaters",
+   "other": "השמים"
+  },
+  {
+   "en": "and (et)",
+   "other": "ואת"
+  },
+  {
+   "en": "the land",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1000,
+   "note": "each of the seven words is labelled 1000yrs"
+  },
+  {
+   "value": 7,
+   "note": "seven Hebrew words, numbered 1st to 7th, each matched with a stage from the beginning to the Millenial Reign of yeshua"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Creation",
+   "Second Coming"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "prophecy",
+   "millennium",
+   "biblical timeline"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "seven thousand years",
+  "1000 years each",
+  "millennial reign",
+  "millennium",
+  "yeshua returns",
+  "yeshua comes first time",
+  "aleph tav",
+  "et",
+  "God chooses a people",
+  "God fills the earth",
+  "seven days of history",
+  "second coming",
+  "prophecy timeline"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

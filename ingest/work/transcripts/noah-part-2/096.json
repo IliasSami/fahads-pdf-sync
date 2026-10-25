@@ -1,0 +1,127 @@
+{
+ "id": "noah-part-2/96",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 9:25-29 — Noah curses Canaan, blesses Shem and Japheth, and dies at 950",
+ "summary": "Genesis 9:25-29 in English: Noah says Canaan is cursed and will be a servant of servants to his brothers, blesses the LORD the God of Shem, asks God to enlarge Japheth to dwell in the tents of Shem, and the slide ends with Noah living 350 years after the flood and dying at 950 years. The names Canaan, Shem, Japheth, Noah and God are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 9:25-29",
+   "osis": [
+    "Gen.9.25",
+    "Gen.9.26",
+    "Gen.9.27",
+    "Gen.9.28",
+    "Gen.9.29"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ט:כה־כט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.25",
+   "text": "25 So he said, “Cursed be Canaan; A servant of servants He shall be to his brothers.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.26",
+   "text": "26 He also said, “Blessed be the LORD, The God of Shem; And let Canaan be his servant."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.27",
+   "text": "27 “May God enlarge Japheth, And let him dwell in the tents of Shem; And let Canaan be his servant.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.28",
+   "text": "28 Noah lived 350 years after the flood."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.29",
+   "text": "29 So all the days of Noah were 950 years, and he died."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 9:25-29 / בראשית ט:כה־כט",
+   "osis": [
+    "Gen.9.25",
+    "Gen.9.26",
+    "Gen.9.27",
+    "Gen.9.28",
+    "Gen.9.29"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 350,
+   "note": "years Noah lived after the flood"
+  },
+  {
+   "value": 950,
+   "note": "total years of Noah's life"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "Canaan",
+   "Shem",
+   "Japheth",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "the Flood",
+   "Curse of Canaan",
+   "Death of Noah"
+  ],
+  "things": [
+   "tents"
+  ],
+  "themes": [
+   "curse",
+   "blessing",
+   "prophecy",
+   "servant",
+   "genealogy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 9",
+  "Genesis 9:25-29",
+  "curse of Canaan",
+  "cursed be Canaan",
+  "servant of servants",
+  "blessed be the LORD God of Shem",
+  "God enlarge Japheth",
+  "dwell in the tents of Shem",
+  "Noah lived 350 years after the flood",
+  "Noah died at 950",
+  "950 years",
+  "Noah's blessing",
+  "Noah's prophecy"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

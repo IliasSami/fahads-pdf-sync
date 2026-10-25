@@ -1,0 +1,240 @@
+{
+ "id": "genesis-1-1-part-1/96",
+ "kinds": [
+  "gematria",
+  "list"
+ ],
+ "title": "Genesis 1:1 word values that are multiples of 37: 37 x 54 up to 37 x 73 (all seven words)",
+ "summary": "The five largest combinations of Genesis 1:1 word values that are multiples of 37: 37 x 54, 37 x 60, 37 x 62, 37 x 65 and, using all seven Hebrew words, 37 x 73. Each Hebrew word is colour-coded with its gematria value beneath.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "37"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "other",
+   "role": "list",
+   "text": "37 x 54 = בראשית + ברא + אלהים + את + השמים"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "913 203 86 401 395"
+  },
+  {
+   "lang": "other",
+   "role": "list",
+   "text": "37 x 60 = בראשית + ברא + את + ואת + הארץ"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "913 203 401 407 296"
+  },
+  {
+   "lang": "other",
+   "role": "list",
+   "text": "37 x 62 = בראשית + ברא + אלהים + את + השמים + הארץ"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "913 203 86 401 395 296"
+  },
+  {
+   "lang": "other",
+   "role": "list",
+   "text": "37 x 65 = בראשית + ברא + אלהים + את + השמים + ואת"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "913 203 86 401 395 407"
+  },
+  {
+   "lang": "other",
+   "role": "list",
+   "text": "37 x 73 = בראשית + ברא + אלהים + את + השמים + ואת + הארץ"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "913 203 86 401 395 407 296"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 913
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 203
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 86
+   }
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(et) sign of the direct object",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 401
+   }
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the skywaters (the heavens)",
+   "strongs": "H8064",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 395
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "v'et",
+   "gloss": "and (et)",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 407
+   }
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 296
+   }
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 37,
+   "note": "each combination of word values is a multiple of 37"
+  },
+  {
+   "value": 54,
+   "note": "37 x 54 = 913 + 203 + 86 + 401 + 395"
+  },
+  {
+   "value": 60,
+   "note": "37 x 60 = 913 + 203 + 401 + 407 + 296"
+  },
+  {
+   "value": 62,
+   "note": "37 x 62 = 913 + 203 + 86 + 401 + 395 + 296"
+  },
+  {
+   "value": 65,
+   "note": "37 x 65 = 913 + 203 + 86 + 401 + 395 + 407"
+  },
+  {
+   "value": 73,
+   "note": "37 x 73 = 913 + 203 + 86 + 401 + 395 + 407 + 296 (all seven words of Genesis 1:1; 37 x 73 as shown)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "37",
+  "multiples of 37",
+  "gematria of Genesis 1:1",
+  "bereshit 913",
+  "bara 203",
+  "elohim 86",
+  "et 401",
+  "hashamayim 395",
+  "v'et 407",
+  "ha'aretz 296",
+  "word combinations",
+  "Bible numerics",
+  "37 x 54",
+  "37 x 60",
+  "37 x 62",
+  "37 x 65",
+  "37 x 73",
+  "all seven words",
+  "2701"
+ ],
+ "uncertain": [],
+ "confidence": 0.94
+}

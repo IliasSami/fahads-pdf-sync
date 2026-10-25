@@ -1,0 +1,144 @@
+{
+ "id": "fall-of-man/62",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Isaiah 40:3 — Prepare ye the derek (Way) of the LORD",
+ "summary": "Isaiah 40:3 in English and Hebrew, with “derek” and the Hebrew דרך highlighted in red and explained as “Way.” LORD and God are colour-matched with the Hebrew יהוה and אלהינו.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Isaiah 40:3",
+   "osis": "Isa.40.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ישעה מ:ג",
+   "osis": "Isa.40.3"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "3 The voice of him that crieth in the wilderness, Prepare ye the derek of the LORD, make straight in the desert a highway for our God.",
+   "osis": "Isa.40.3"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "derek"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "דרך"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Way"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "3 קול קורא במדבר פנו דרך יהוה ישרו בערבה מסלה לאלהינו׃",
+   "osis": "Isa.40.3"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Isaiah 40:3 / ישעה מ:ג",
+   "osis": [
+    "Isa.40.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "דרך",
+   "translit": "derek",
+   "gloss": "way",
+   "strongs": "H1870"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the LORD",
+   "strongs": "H3068"
+  },
+  {
+   "lang": "he",
+   "word": "אלהינו",
+   "translit": "eloheinu",
+   "gloss": "our God",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "מסלה",
+   "translit": "mesillah",
+   "gloss": "highway",
+   "strongs": "H4546"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "derek",
+   "other": "דרך"
+  },
+  {
+   "en": "Way",
+   "other": "דרך"
+  },
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  },
+  {
+   "en": "God",
+   "other": "אלה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "highway"
+  ],
+  "themes": [
+   "the way",
+   "names of God",
+   "prophecy",
+   "messianic prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Isaiah 40:3",
+  "Isaiah 40",
+  "voice crying in the wilderness",
+  "prepare the way of the LORD",
+  "make straight a highway",
+  "derek",
+  "derech",
+  "the Way",
+  "YHWH",
+  "wilderness",
+  "desert",
+  "highway for our God",
+  "דרך"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

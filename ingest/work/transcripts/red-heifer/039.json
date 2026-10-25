@@ -1,0 +1,102 @@
+{
+ "id": "red-heifer/39",
+ "kinds": [
+  "list",
+  "text"
+ ],
+ "title": "Talmud rules for a valid red heifer — age, birth, mating, hair, bird",
+ "summary": "Says the Talmud states a red heifer is only valid if: it is at least three years old (younger is a calf, not a cow); it is natural-born, not by Caesarian; it has not mated with a bull sent to mate with it (but if the bull does so on its own it is still valid); it has no more than one hair that is not red; and it is disqualified if a bird lands on it. A red question mark stands at each side.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Talmud states a Red Heifer is only valid if:"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "?"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "It is at least three years old (younger is a “calf”, not a “cow”)."
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "?"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "It is natural-born (not by Caesarian)."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "It has not mated with a bull sent to mate with it (but if the bull does it on its own, it is valid)."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "It has no more than one hair that is not red."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Disqualified if a bird lands on it."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "minimum age in years for a valid red heifer (younger is a calf)"
+  },
+  {
+   "value": 1,
+   "note": "at most one non-red hair allowed"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "bull",
+   "bird",
+   "calf",
+   "cow"
+  ],
+  "themes": [
+   "purification",
+   "Talmud",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "red heifer",
+  "Talmud",
+  "valid red heifer",
+  "requirements",
+  "three years old",
+  "calf not a cow",
+  "natural-born",
+  "Caesarian",
+  "one non-red hair",
+  "bird lands",
+  "disqualified",
+  "rabbinic rules",
+  "parah adumah",
+  "red heifer qualifications"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

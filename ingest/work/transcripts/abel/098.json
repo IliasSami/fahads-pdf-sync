@@ -1,0 +1,121 @@
+{
+  "id": "abel/98",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:10 — “Blood Cries Out”: Abel's blood (dam, דם)",
+  "summary": "Genesis 4:10 in English and Hebrew with the word blood (dam, דם) highlighted in red, under the heading “Blood Cries Out” — Abel's blood calls to God from the ground.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:10",
+      "osis": "Gen.4.10"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:י"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Gen.4.10",
+      "text": "10 And He said, “What have you done? The voice of your brother’s blood cries out to Me from the ground."
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "osis": "Gen.4.10",
+      "text": "10 ויאמר מה עשית קול דמי אחיך צעקים אלי מן האדמה׃"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "dam"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "דם"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Blood"
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Blood Cries Out"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:10 / בראשית ד:י",
+      "osis": [
+        "Gen.4.10"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "דם",
+      "translit": "dam",
+      "gloss": "blood",
+      "strongs": "H1818"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "blood",
+      "other": "דמ"
+    },
+    {
+      "en": "dam",
+      "other": "דם"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "God",
+      "Cain",
+      "Abel"
+    ],
+    "places": [],
+    "events": [
+      "Murder of Abel"
+    ],
+    "things": [
+      "ground"
+    ],
+    "themes": [
+      "blood",
+      "death",
+      "judgment",
+      "justice"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "blood cries out",
+    "blood",
+    "dam",
+    "Abel's blood",
+    "voice of thy brother's blood",
+    "crieth unto me from the ground",
+    "Cain and Abel",
+    "murder",
+    "Genesis 4",
+    "Genesis 4:10",
+    "what hast thou done"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

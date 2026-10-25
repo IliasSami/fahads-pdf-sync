@@ -1,0 +1,108 @@
+{
+ "id": "noah-part-2/91",
+ "kinds": [
+  "table",
+  "comparison"
+ ],
+ "title": "Cup, Covenant, Patriarch and Position chart (Adam to Jesus)",
+ "summary": "A four-column colour-coded chart pairing a Cup (Sanctification, Dedication, Inheritance, Praise), a Covenant (Blood, Salt, Sandal, Marriage), a Patriarch (Adam, Noah, Abraham, Jacob, Moses, David) and a Position (Servant, Friend, Heir and combinations), with a grey bottom row ending in Praise, Marriage, Jesus, Groom.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Cup | Covenant | Patriarch | Position"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Sanctification | Blood | Adam | Servant"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "— | — | Noah | Servant & Friend"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Dedication | Salt | Abraham | Friend"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "— | — | Jacob | Friend & Heir"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Inheritance | Sandal | Moses | Heir"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "— | — | David | Heir & Servant"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Praise | Marriage | Jesus | Groom"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Noah",
+   "Abraham",
+   "Jacob",
+   "Moses",
+   "David",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "cup",
+   "salt",
+   "sandal",
+   "blood"
+  ],
+  "themes": [
+   "covenant",
+   "sanctification",
+   "blood",
+   "marriage",
+   "typology",
+   "redemption"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "cup",
+  "covenant",
+  "patriarch",
+  "position",
+  "sanctification",
+  "dedication",
+  "inheritance",
+  "praise",
+  "blood covenant",
+  "salt covenant",
+  "sandal",
+  "marriage covenant",
+  "servant friend heir",
+  "groom",
+  "bridegroom",
+  "four cups",
+  "chart"
+ ],
+ "uncertain": [
+  "Rows 2, 4 and 6 (Noah, Jacob, David) have no Cup or Covenant entry; the position text uses gradient colours. The slide's row alignment is transcribed as shown."
+ ],
+ "confidence": 0.92
+}

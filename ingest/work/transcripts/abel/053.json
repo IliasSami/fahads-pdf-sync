@@ -1,0 +1,40 @@
+{
+  "id": "abel/53",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:3 — the Hebrew prefix mem (מ-) meaning “from”",
+  "summary": "Genesis 4:3 in English and Hebrew, explaining that the letter mem (מ-) used as a prefix means “from-”, so miperi (מפרי) is “from fruit”.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:3", "osis": "Gen.4.3"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ג", "osis": "Gen.4.3"},
+    {"lang": "en", "role": "verse", "text": "3 So it came about in the course of time that Cain brought from the fruit of the ground an offering to yahweh.", "osis": "Gen.4.3"},
+    {"lang": "he", "role": "verse", "text": "3 ויהי מקץ ימים ויבא קין מפרי האדמה מנחה ליהוה׃", "osis": "Gen.4.3"},
+    {"lang": "en", "role": "label", "text": "Prefix"},
+    {"lang": "he", "role": "label", "text": "מ-"},
+    {"lang": "en", "role": "label", "text": "from-"},
+    {"lang": "translit", "role": "label", "text": "miperi"},
+    {"lang": "he", "role": "label", "text": "מפרי"},
+    {"lang": "en", "role": "label", "text": "from Fruit"}
+  ],
+  "refs": [{"shown": "Genesis 4:3 / בראשית ד:ג", "osis": ["Gen.4.3"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "מפרי", "translit": "miperi", "gloss": "from (the) fruit", "strongs": "H6529"},
+    {"lang": "he", "word": "פרי", "translit": "peri", "gloss": "fruit", "strongs": "H6529"}
+  ],
+  "color_links": [
+    {"en": "from", "other": "מ"},
+    {"en": "fruit", "other": "פרי"},
+    {"en": "mi (miperi)", "other": "מ"},
+    {"en": "peri (miperi)", "other": "פרי"},
+    {"en": "y (yahweh)", "other": "י"},
+    {"en": "w (yahweh)", "other": "ו"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "mem", "char": "מ", "value": 40, "meaning": "as a prefix: “from”"}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain"], "places": [], "events": ["Cain and Abel's offerings"], "things": ["offering", "fruit of the ground", "fruit"], "themes": ["sacrifice", "offering", "Hebrew grammar"], "groups": []},
+  "keywords": ["prefix mem", "mem means from", "Hebrew prefix", "miperi", "from the fruit", "peri", "fruit", "Hebrew grammar", "Cain's offering", "Cain and Abel", "Genesis 4", "Genesis 4:3"],
+  "uncertain": [],
+  "confidence": 0.95
+}

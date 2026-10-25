@@ -1,0 +1,107 @@
+{
+ "id": "akeda-2/58",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 24:8-10 — The servant swears the oath and sets out with ten camels",
+ "summary": "Genesis 24:8-10 in English: Abraham frees the servant from the oath if the woman will not follow, the servant swears with his hand under Abraham's thigh, and takes ten camels and good things to Mesopotamia, the city of Nahor. Pronouns and key words are colour-coded and underlined (camels, master).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 24",
+   "osis": [
+    "Gen.24.8",
+    "Gen.24.9",
+    "Gen.24.10"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.24.8",
+   "text": "8 “But if the woman is not willing to follow you, then you will be free from this my oath; only do not take my son back there.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.24.9",
+   "text": "9 So the servant placed his hand under the thigh of Abraham his master, and swore to him concerning this matter."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.24.10",
+   "text": "10 Then the servant took ten camels from the camels of his master, and set out with a variety of good things of his master’s in his hand; and he arose and went to Mesopotamia, to the city of Nahor."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 24 / בראשית כד (verses 8-10 shown)",
+   "osis": [
+    "Gen.24.8",
+    "Gen.24.9",
+    "Gen.24.10"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 10,
+   "note": "ten camels taken by the servant (Genesis 24:10)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Abraham",
+   "Isaac"
+  ],
+  "places": [
+   "Mesopotamia",
+   "Nahor"
+  ],
+  "events": [
+   "Isaac's marriage to Rebekah"
+  ],
+  "things": [
+   "camels",
+   "oath"
+  ],
+  "themes": [
+   "covenant",
+   "marriage",
+   "obedience",
+   "faith"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 24",
+  "ten camels",
+  "Abraham's servant",
+  "Eliezer",
+  "hand under the thigh",
+  "oath",
+  "free from my oath",
+  "Mesopotamia",
+  "city of Nahor",
+  "master",
+  "good things of his master",
+  "find a wife for Isaac",
+  "pronouns colour-coded"
+ ],
+ "uncertain": [
+  "Colour meaning (blue / gold-shadow / red / underlines) is inferred from the pattern; the slide does not state a key."
+ ],
+ "confidence": 0.95
+}

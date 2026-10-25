@@ -1,0 +1,203 @@
+{
+ "id": "red-heifer/68",
+ "kinds": [
+  "song",
+  "word-study"
+ ],
+ "title": "Hatikvah (The Hope), national anthem of Israel — opening lines",
+ "summary": "The opening four lines of Hatikvah, 'The Hope', the national anthem of Israel, in Hebrew, transliteration and English. Matching words are colour-coded: hope/tikvah (gold), heart/lev (red), Jewish/yehudi (blue) and Zion/tziyon (blue).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Nation Anthem of Israel"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hatikvah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "התקוה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "The Hope"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "כל עוד בלבב פנימה"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "נפש יהודי הומיה"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "ולפאתי מזרח קדימה"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "עין לציון עופיה"
+  },
+  {
+   "lang": "translit",
+   "role": "verse",
+   "text": "kol ‘od balevav penimah"
+  },
+  {
+   "lang": "translit",
+   "role": "verse",
+   "text": "nefesh yehudi homiyah,"
+  },
+  {
+   "lang": "translit",
+   "role": "verse",
+   "text": "ulefa’atei mizrach kadimah,"
+  },
+  {
+   "lang": "translit",
+   "role": "verse",
+   "text": "ayin letziyon tzofiyah;"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "As long as in the heart, within,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "A Jewish soul still yearns,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "And onward, towards the ends of the east,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "an eye still gazes toward Zion;"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "התקוה",
+   "translit": "hatikvah",
+   "gloss": "the hope",
+   "strongs": "H8615",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "לב",
+   "translit": "lev",
+   "gloss": "heart",
+   "strongs": "H3820",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "יהודי",
+   "translit": "yehudi",
+   "gloss": "Jewish, Jew",
+   "strongs": "H3064",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ציון",
+   "translit": "tziyon",
+   "gloss": "Zion",
+   "strongs": "H6726",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Hope",
+   "other": "תקוה"
+  },
+  {
+   "en": "tikvah",
+   "other": "תקוה"
+  },
+  {
+   "en": "heart",
+   "other": "לב"
+  },
+  {
+   "en": "lev",
+   "other": "לב"
+  },
+  {
+   "en": "Jewish",
+   "other": "יהודי"
+  },
+  {
+   "en": "yehudi",
+   "other": "יהודי"
+  },
+  {
+   "en": "Zion",
+   "other": "ציון"
+  },
+  {
+   "en": "tziyon",
+   "other": "ציון"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Zion",
+   "Israel"
+  ],
+  "events": [],
+  "things": [
+   "national anthem"
+  ],
+  "themes": [
+   "hope",
+   "prophecy"
+  ],
+  "groups": [
+   "Jews",
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Hatikvah",
+  "HaTikvah",
+  "The Hope",
+  "national anthem of Israel",
+  "Israeli anthem",
+  "tikvah",
+  "hope",
+  "Jewish soul",
+  "Zion",
+  "heart",
+  "lev",
+  "yehudi",
+  "song lyrics",
+  "Hebrew anthem"
+ ],
+ "uncertain": [
+  "Heading reads 'Nation Anthem of Israel' on the slide; transcribed as shown.",
+  "Colour split in בלבב: only the middle letters לב are red; in לציון and letziyon only ציון / tziyon are blue."
+ ],
+ "confidence": 0.95
+}

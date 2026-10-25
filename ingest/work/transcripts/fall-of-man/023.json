@@ -1,0 +1,99 @@
+{
+ "id": "fall-of-man/23",
+ "kinds": [
+  "title",
+  "text"
+ ],
+ "title": "Genesis 3:15 — “First Gospel” (Protoevangelium)",
+ "summary": "Section title slide naming Genesis 3:15 the “First Gospel” or Protoevangelium; the reference appears twice in English and Hebrew, with the chapter and verse written two different ways in Hebrew letters (ג:יה and ג:טו).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:15",
+   "osis": "Gen.3.15"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:יה"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "First Protoevangelium Gospel"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:15",
+   "osis": "Gen.3.15"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:טו"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:15 / בראשית ג:יה / בראשית ג:טו",
+   "osis": [
+    "Gen.3.15"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "other",
+   "word": "Protoevangelium",
+   "translit": "Protoevangelium",
+   "gloss": "first gospel (Genesis 3:15)",
+   "strongs": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Satan",
+   "Jesus",
+   "Eve"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [],
+  "themes": [
+   "messianic prophecy",
+   "seed",
+   "prophecy",
+   "gospel",
+   "enmity"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Protoevangelium",
+  "protevangelium",
+  "first gospel",
+  "Genesis 3:15",
+  "seed of the woman",
+  "bruise the head",
+  "enmity between serpent and woman",
+  "first messianic prophecy",
+  "gospel in Genesis",
+  "Fall of Man",
+  "proto-evangelium"
+ ],
+ "uncertain": [
+  "The first Hebrew header writes verse 15 as יה (10+5) and the second as טו (9+6); both transcribed as shown. The slide shows the words First, Protoevangelium (italic) and Gospel spread across one line."
+ ],
+ "confidence": 0.95
+}

@@ -1,0 +1,117 @@
+{
+ "id": "elijah-elisha/82",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 Kings 18:36-38 — Elijah prays and fire of the LORD falls (miracle #4)",
+ "summary": "The text of 1 Kings 18:36-38: at the evening sacrifice Elijah prays that the LORD, God of Abraham, Isaac and Israel, be known as God and answer him; then the fire of the LORD falls and consumes the burnt offering, wood, stones, dust and the water in the trench. Verse 38 is underlined and marked #4 (the fourth of Elijah's miracles). The names Elijah, LORD, God, Abraham, Isaac and Israel are coloured.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 18:36-38",
+   "osis": [
+    "1Kgs.18.36",
+    "1Kgs.18.37",
+    "1Kgs.18.38"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א יח:לו-לח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "36 At the time of the offering of the evening sacrifice, Elijah the prophet came near and said, “O LORD, the God of Abraham, Isaac and Israel, today let it be known that You are God in Israel and that I am Your servant and I have done all these things at Your word.",
+   "osis": "1Kgs.18.36"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "37 “Answer me, O LORD, answer me, that this people may know that You, O LORD, are God, and that You have turned their heart back again.”",
+   "osis": "1Kgs.18.37"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "38 Then the fire of the LORD fell and consumed the burnt offering and the wood and the stones and the dust, and licked up the water that was in the trench.",
+   "osis": "1Kgs.18.38"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "#4"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 18:36-38 / מלכים א יח:לו-לח",
+   "osis": [
+    "1Kgs.18.36",
+    "1Kgs.18.37",
+    "1Kgs.18.38"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 4,
+   "note": "#4: the fourth of Elijah's eight miracles (fire from heaven on the soaked altar)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah",
+   "God",
+   "Abraham",
+   "Isaac"
+  ],
+  "places": [
+   "Mount Carmel"
+  ],
+  "events": [
+   "contest on Mount Carmel",
+   "fire from heaven on Mount Carmel"
+  ],
+  "things": [
+   "fire",
+   "altar",
+   "burnt offering",
+   "stones",
+   "wood"
+  ],
+  "themes": [
+   "sacrifice",
+   "prophecy",
+   "faith",
+   "miracles",
+   "names of God"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "fire of the LORD fell",
+  "fire from heaven",
+  "Elijah prays",
+  "God of Abraham Isaac and Israel",
+  "answer me O LORD",
+  "turned their heart back again",
+  "licked up the water in the trench",
+  "consumed the burnt offering",
+  "Mount Carmel",
+  "1 Kings 18",
+  "Elijah miracle 4",
+  "evening sacrifice"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

@@ -1,0 +1,104 @@
+{
+ "id": "genesis-1-1-part-2/42",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Genesis 1:1-3 — the first 3 verses contain 3³ = 27 words",
+ "summary": "The Hebrew text of Genesis 1:1, 1:2 and 1:3 with verse numbers in blue, under the heading that the first 3 verses contain 3 cubed, which is 27, words.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "First 3 verses contain 3³ = 27 words"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "1 בראשית ברא אלהים את השמים ואת הארץ׃"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.2",
+   "text": "2 והארץ היתה תהו ובהו וחשך על־פני תהום ורוח אלהים מרחפת על־פני המים׃"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.3",
+   "text": "3 ויאמר אלהים יהי אור ויהי־אור׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1 / בראשית א",
+   "osis": [
+    "Gen.1.1",
+    "Gen.1.2",
+    "Gen.1.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 27,
+   "note": "words in the first 3 verses of Genesis 1 (3³)"
+  },
+  {
+   "value": 3,
+   "note": "verses counted (3 cubed = 27)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "gematria",
+   "Bible codes",
+   "light and darkness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1",
+  "Genesis 1:1-3",
+  "In the beginning",
+  "Bereshit",
+  "27 words",
+  "3 cubed",
+  "3x3x3",
+  "number 3",
+  "Hebrew text",
+  "let there be light",
+  "without form and void",
+  "Spirit of God moved upon the waters",
+  "Bible numerics"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

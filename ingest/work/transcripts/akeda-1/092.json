@@ -1,0 +1,23 @@
+{
+  "id": "akeda-1/92",
+  "kinds": ["verse"],
+  "title": "John 1:29 — “Behold, the Lamb of God”",
+  "summary": "John 1:29: seeing Jesus coming, John says, “Behold, the Lamb of God who takes away the sin of the world!” Jesus is in red, 'Lamb' in grey, and 'God' in blue, red and gold.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "John 1:29", "osis": "John.1.29"},
+    {"lang": "el", "role": "reference", "text": "ΙΩΑΝΝΗΝ 1:29", "osis": "John.1.29"},
+    {"lang": "en", "role": "verse", "osis": "John.1.29", "text": "29 The next day he saw Jesus coming to him and said, “Behold, the Lamb of God who takes away the sin of the world!"}
+  ],
+  "refs": [
+    {"shown": "John 1:29 / ΙΩΑΝΝΗΝ 1:29", "osis": ["John.1.29"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Jesus", "John the Baptist", "God"], "places": [], "events": [], "things": ["lamb"], "themes": ["sacrifice", "sin", "atonement", "typology"], "groups": []},
+  "keywords": ["John 1:29", "Lamb of God", "Behold the Lamb of God", "takes away the sin of the world", "taketh away the sin of the world", "John the Baptist", "Agnus Dei", "Jesus the Lamb", "lamb", "sin of the world"],
+  "uncertain": [],
+  "confidence": 0.96
+}

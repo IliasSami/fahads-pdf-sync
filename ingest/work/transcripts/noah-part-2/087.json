@@ -1,0 +1,98 @@
+{
+ "id": "noah-part-2/87",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 1:28-30 — God blesses mankind and gives plants for food",
+ "summary": "Genesis 1:28-30 in English: God blesses them, tells them to be fruitful, multiply, fill the earth, subdue it and rule over the animals, and gives every seed-bearing plant and tree fruit as food and every green plant to the beasts and birds. The word God and the word green are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:28-30",
+   "osis": [
+    "Gen.1.28",
+    "Gen.1.29",
+    "Gen.1.30"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:כח־ל"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.28",
+   "text": "28 God blessed them; and God said to them, “Be fruitful and multiply, and fill the earth, and subdue it; and rule over the fish of the sea and over the birds of the sky and over every living thing that moves on the earth.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.29",
+   "text": "29 And God said, “Behold, I have given you every plant yielding seed that is on the surface of all the earth, and every tree which has fruit yielding seed; it shall be food for you;"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.30",
+   "text": "30 and to every beast of the earth and to every bird of the sky and to every thing that moves on the earth which has life, I have given every green plant for food”; and it was so."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:28-30 / בראשית א:כח־ל",
+   "osis": [
+    "Gen.1.28",
+    "Gen.1.29",
+    "Gen.1.30"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam",
+   "Eve"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "plants",
+   "fruit trees",
+   "green plant"
+  ],
+  "themes": [
+   "creation",
+   "blessing",
+   "dominion",
+   "diet"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1",
+  "Genesis 1:28-30",
+  "be fruitful and multiply",
+  "fill the earth and subdue it",
+  "dominion",
+  "rule over the fish of the sea",
+  "every green herb for meat",
+  "plants for food",
+  "vegetarian diet",
+  "God blessed them",
+  "creation of man",
+  "herb yielding seed"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

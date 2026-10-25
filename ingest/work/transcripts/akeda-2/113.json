@@ -1,0 +1,71 @@
+{
+ "id": "akeda-2/113",
+ "kinds": [
+  "text"
+ ],
+ "title": "Abraham trusts his servant Eliezer so much he was his sole heir",
+ "summary": "Adds a second statement under the first: Abraham trusts his servant, Eliezer, so much that Eliezer was his sole heir. Isaac is red, father and Abraham blue, servant and Eliezer gold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Isaac trusts his father"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "by allowing himself to be tied up to be sacrificed."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Abraham trusts his servant, Eliezer"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "so much he was his sole heir."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Isaac",
+   "Abraham",
+   "Eliezer"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [],
+  "themes": [
+   "faith",
+   "obedience",
+   "sacrifice",
+   "trust",
+   "heir"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Abraham trusts Eliezer",
+  "Eliezer sole heir",
+  "servant Eliezer",
+  "Eliezer of Damascus",
+  "Isaac trusts his father",
+  "Isaac tied up",
+  "Akedah",
+  "Akeda",
+  "trust",
+  "steward of Abraham's house",
+  "Genesis 15"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

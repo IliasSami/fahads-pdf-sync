@@ -1,0 +1,115 @@
+{
+ "id": "genesis-1-1-wisdom/49",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Proverbs 8:8-13 — wisdom is better than rubies",
+ "summary": "Proverbs 8:8-13 in English: Wisdom speaks righteous, plain words; her instruction and knowledge are preferred to silver, choice gold and rubies; she dwells with prudence, and the fear of the LORD is to hate evil. Silver, gold, rubies and the divine name LORD are shown in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Proverbs 8",
+   "osis": "Prov.8.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "משלי ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "8 All the words of my mouth are with righteousness; Nothing crooked or perverse is in them.",
+   "osis": "Prov.8.8"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "9 They are all plain to him who understands, And right to those who find knowledge.",
+   "osis": "Prov.8.9"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "10 Receive my instruction, and not silver, And knowledge rather than choice gold;",
+   "osis": "Prov.8.10"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "11 For wisdom is better than rubies, And all the things one may desire cannot be compared with her.",
+   "osis": "Prov.8.11"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "12 “I, wisdom, dwell with prudence, and find out knowledge and discretion.",
+   "osis": "Prov.8.12"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "13 The fear of the LORD is to hate evil; Pride and arrogance and the evil way and the perverse mouth I hate.",
+   "osis": "Prov.8.13"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Proverbs 8 / משלי ח",
+   "osis": [
+    "Prov.8.8",
+    "Prov.8.9",
+    "Prov.8.10",
+    "Prov.8.11",
+    "Prov.8.12",
+    "Prov.8.13"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "silver",
+   "gold",
+   "rubies"
+  ],
+  "themes": [
+   "wisdom",
+   "knowledge",
+   "righteousness",
+   "prudence",
+   "fear of the LORD",
+   "pride",
+   "evil"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Proverbs 8",
+  "Proverbs 8:11",
+  "wisdom is better than rubies",
+  "better than gold and silver",
+  "receive my instruction",
+  "knowledge rather than choice gold",
+  "I wisdom dwell with prudence",
+  "fear of the LORD is to hate evil",
+  "pride and arrogance",
+  "perverse mouth",
+  "righteousness",
+  "discretion",
+  "lady wisdom"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

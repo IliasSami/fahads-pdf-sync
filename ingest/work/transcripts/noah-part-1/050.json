@@ -1,0 +1,276 @@
+{
+ "id": "noah-part-1/50",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "Tebah (ark) letter by letter: Covenant House Revealed",
+ "summary": "Breaks the Hebrew word tebah (ark, תבה) into its letters with ancient pictographs: tav (covenant, cross, 400), bet (tent, house, 2) and he (revelation, grace, 5), read together as 'Covenant House Revealed'.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tav"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "T"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Covenant, Cross"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "400"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "B"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Tent, House"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "2"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "he"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "H"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Revelation, Grace"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "tebah"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ת ב ה"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "ark"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Reveal"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "House"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Covenant"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Covenant House Revealed"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תבה",
+   "translit": "tebah",
+   "gloss": "ark",
+   "strongs": "H8392",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     400,
+     2,
+     5
+    ],
+    "total": 407
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Covenant",
+   "other": "ת"
+  },
+  {
+   "en": "House",
+   "other": "ב"
+  },
+  {
+   "en": "Revealed",
+   "other": "ה"
+  },
+  {
+   "en": "ark",
+   "other": "תבה"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "covenant, cross (cross-shaped pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "tent, house (tent/house pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "revelation, grace; reveal (figure with raised arms pictograph)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 400,
+   "note": "value of tav"
+  },
+  {
+   "value": 2,
+   "note": "value of bet"
+  },
+  {
+   "value": 5,
+   "note": "value of he"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Column of three ancient (paleo-)Hebrew pictograph letters, each over a coloured underline: a cross (tav), a tent or house shape (bet) and a stick figure with raised arms (he), beside the modern letters.",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictographs",
+    "cross",
+    "tent",
+    "house",
+    "ancient Hebrew letters"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.4,
+    0.03,
+    0.46,
+    0.38
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Row of the same three pictographs in the order of the word tebah read right to left: figure with raised arms (he) labelled Reveal, tent/house (bet) labelled House, cross (tav) labelled Covenant.",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictographs",
+    "cross",
+    "tent",
+    "ancient Hebrew letters"
+   ],
+   "text_in_picture": "Reveal House Covenant",
+   "credit": null,
+   "box": [
+    0.39,
+    0.66,
+    0.63,
+    0.75
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "covenant",
+   "grace",
+   "gematria",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "tebah",
+  "teva",
+  "ark",
+  "Noah's ark",
+  "tav",
+  "bet",
+  "beit",
+  "he",
+  "covenant house revealed",
+  "paleo-Hebrew",
+  "pictographs",
+  "Hebrew letter meanings",
+  "cross",
+  "tent",
+  "grace",
+  "revelation"
+ ],
+ "uncertain": [
+  "The word total 407 is not shown on the slide; only the letter values 400, 2 and 5 are shown."
+ ],
+ "confidence": 0.95
+}

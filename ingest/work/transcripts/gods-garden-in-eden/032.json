@@ -1,0 +1,196 @@
+{
+ "id": "gods-garden-in-eden/32",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Hidden letters in Genesis 2:14-17: fig, willow, pomegranate",
+ "summary": "Three Hebrew excerpts from Genesis 2:14-17, each with a few large coloured letters that spell a tree word with a number beside it: Fig תאנה (+14), Willow ערבה (-15) and Pomegranate רמון (+8). Highlighted letters are ת, א, ן, ה in the fig lines; ה, ב, ר, ע in the willow lines; and ר, מ, ו, ן in the pomegranate lines.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Fig"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תאנה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "+14"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": [
+    "Gen.2.14",
+    "Gen.2.15"
+   ],
+   "text": "14 ושם הנהר השלישי חדקל הוא ההלך קדמת אשור והנהר הרביעי הוא פרת׃ 15 ויקח יהוה אלהים את־האדם וינחהו בגן־עדן לעבדה ולשמרה׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Willow"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ערבה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "-15"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": [
+    "Gen.2.15",
+    "Gen.2.16"
+   ],
+   "text": "15 ויקח יהוה אלהים את־האדם וינחהו בגן־עדן לעבדה ולשמרה׃ 16 ויצו יהוה אלהים על־האדם לאמר מכל עץ־הגן אכל תאכל׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Pomegranate"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "רמון"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "+8"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.17",
+   "text": "17 ומעץ הדעת טוב ורע לא תאכל ממנו כי ביום אכלך ממנו מות תמות׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:14-17 (Hebrew text)",
+   "osis": [
+    "Gen.2.14",
+    "Gen.2.15",
+    "Gen.2.16",
+    "Gen.2.17"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תאנה",
+   "translit": "te'enah",
+   "gloss": "fig",
+   "strongs": "H8384",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ערבה",
+   "translit": "aravah",
+   "gloss": "willow",
+   "strongs": "H6155",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "רמון",
+   "translit": "rimmon",
+   "gloss": "pomegranate",
+   "strongs": "H7416",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Fig",
+   "other": "תאנה"
+  },
+  {
+   "en": "Willow",
+   "other": "ערבה"
+  },
+  {
+   "en": "Pomegranate",
+   "other": "רמון"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 14,
+   "note": "+14, number shown beside תאנה (fig)"
+  },
+  {
+   "value": -15,
+   "note": "-15, number shown beside ערבה (willow)"
+  },
+  {
+   "value": 8,
+   "note": "+8, number shown beside רמון (pomegranate)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [
+   "Garden of Eden",
+   "Tigris",
+   "Assyria",
+   "Euphrates"
+  ],
+  "events": [],
+  "things": [
+   "fig",
+   "willow",
+   "pomegranate",
+   "river",
+   "tree of the knowledge of good and evil"
+  ],
+  "themes": [
+   "Bible codes",
+   "creation",
+   "death",
+   "obedience"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "hidden letters",
+  "Bible code",
+  "ELS",
+  "fig in Hebrew",
+  "te'enah",
+  "willow in Hebrew",
+  "arava",
+  "pomegranate in Hebrew",
+  "rimmon",
+  "trees of Eden",
+  "Genesis 2:14",
+  "Genesis 2:15",
+  "Genesis 2:16",
+  "Genesis 2:17",
+  "dress and keep it",
+  "thou shalt surely die",
+  "skip number"
+ ],
+ "uncertain": [],
+ "confidence": 0.92
+}

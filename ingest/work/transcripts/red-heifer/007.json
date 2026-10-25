@@ -1,0 +1,70 @@
+{
+ "id": "red-heifer/7",
+ "kinds": [
+  "picture"
+ ],
+ "title": "Photo: Western Wall and the Dome of the Rock, Jerusalem",
+ "summary": "Photograph of Jerusalem's Western Wall with the golden Dome of the Rock rising above it and people gathered in the plaza below. No text on the slide.",
+ "text": [],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Photo of the Western Wall in Jerusalem: a long wall of large stone blocks with a crowd of people at its base in the plaza. Above it, the gold-domed Dome of the Rock with blue tile walls, cypress trees, a white minaret on the left and a blue sky with light clouds.",
+   "subjects": [
+    "Western Wall",
+    "Wailing Wall",
+    "Dome of the Rock",
+    "Temple Mount",
+    "Jerusalem",
+    "minaret",
+    "golden dome",
+    "plaza",
+    "photo"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.075,
+    0.0,
+    0.94,
+    1.0
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [
+   "Jerusalem",
+   "Temple Mount"
+  ],
+  "events": [],
+  "things": [
+   "Dome of the Rock",
+   "Western Wall"
+  ],
+  "themes": [
+   "temple"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Western Wall",
+  "Wailing Wall",
+  "Kotel",
+  "Dome of the Rock",
+  "Temple Mount",
+  "Jerusalem",
+  "photo of Jerusalem",
+  "golden dome",
+  "Mount Moriah",
+  "third Temple",
+  "Old City"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

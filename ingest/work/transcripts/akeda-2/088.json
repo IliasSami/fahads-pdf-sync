@@ -1,0 +1,26 @@
+{
+  "id": "akeda-2/88",
+  "kinds": ["verse"],
+  "title": "Genesis 24:49-52: 'The matter comes from the LORD' — Rebekah given as wife",
+  "summary": "Genesis 24:49-52 in English: the servant asks for a decision; Laban and Bethuel answer that the matter comes from the LORD and give Rebekah to be the wife of his master's son, and the servant bows to the ground before the LORD. 'Master' is underlined in red, 'son' is in red, and words for the servant are highlighted in gold.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 24", "osis": "Gen.24.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית כד", "osis": "Gen.24.1"},
+    {"lang": "en", "role": "verse", "text": "49 “So now if you are going to deal kindly and truly with my master, tell me; and if not, let me know, that I may turn to the right hand or the left.”", "osis": "Gen.24.49"},
+    {"lang": "en", "role": "verse", "text": "50 Then Laban and Bethuel replied, “The matter comes from the LORD; so we cannot speak to you bad or good.", "osis": "Gen.24.50"},
+    {"lang": "en", "role": "verse", "text": "51 “Here is Rebekah before you, take her and go, and let her be the wife of your master’s son, as the LORD has spoken.”", "osis": "Gen.24.51"},
+    {"lang": "en", "role": "verse", "text": "52 When Abraham’s servant heard their words, he bowed himself to the ground before the LORD.", "osis": "Gen.24.52"}
+  ],
+  "refs": [
+    {"shown": "Genesis 24 / בראשית כד", "osis": ["Gen.24.49", "Gen.24.50", "Gen.24.51", "Gen.24.52"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Eliezer", "Laban", "Bethuel", "Rebekah", "Abraham", "Isaac", "God"], "places": [], "events": ["Finding a bride for Isaac"], "things": [], "themes": ["marriage", "God's will", "worship", "guidance"], "groups": []},
+  "keywords": ["the thing proceedeth from the LORD", "matter comes from the LORD", "take her and go", "wife of your master's son", "Laban and Bethuel", "Rebekah", "Rebecca", "bowed to the ground", "betrothal", "bride for Isaac", "Genesis 24"],
+  "uncertain": [],
+  "confidence": 0.95
+}

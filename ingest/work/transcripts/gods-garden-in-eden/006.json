@@ -1,0 +1,138 @@
+{
+ "id": "gods-garden-in-eden/6",
+ "kinds": [
+  "word-study",
+  "comparison",
+  "verse"
+ ],
+ "title": "Genesis 1:1 — 'The Earth' (ha'aretz) compared with Latin terra and English earth",
+ "summary": "The Hebrew of Genesis 1:1 in colour, with arrows pointing to the last word הארץ (ha'aretz, \"The Earth\"). Below, the spellings of the word for earth are lined up: Hebrew a r e t s, Latin t(s) e r r a, English e a r t (h).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "The Earth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "הארץ"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ha’aretz"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Hebrew"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "a r e t s"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Latin"
+  },
+  {
+   "lang": "other",
+   "role": "label",
+   "text": "t(s) e r r a"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "English"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "e a r t (h)"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "The Earth",
+   "other": "הארץ"
+  },
+  {
+   "en": "aretz",
+   "other": "ארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "earth"
+  ],
+  "themes": [
+   "creation",
+   "wisdom"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "earth",
+  "ha'aretz",
+  "eretz",
+  "arets",
+  "terra",
+  "Latin terra",
+  "English earth",
+  "word origins",
+  "In the beginning",
+  "heavens and the earth",
+  "etymology",
+  "Hebrew Latin English comparison"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,177 @@
+{
+ "id": "akeda-2/17",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 22:10-11 — Abraham takes the knife; the angel calls from heaven",
+ "summary": "The Akedah: Genesis 22:10 in English and Hebrew, where Abraham stretches out his hand and takes the knife to slay his son, with the word את (et) before 'his hand', 'the knife' and 'his son'. Below, verse 11 in English only: the angel of the LORD calls 'Abraham, Abraham!' from heaven and Abraham answers 'Here am I'. The names Abraham and LORD have coloured letters.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22",
+   "osis": "Gen.22.1"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ה ע ק ד ה"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Akedah"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.10",
+   "text": "10 Abraham stretched out את his hand and took את the knife to slay את his son."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.22.10",
+   "text": "10 וישלח אברהם את־ידו ויקח את־המאכלת לשחט את־בנו׃"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.11",
+   "text": "11 But the angel of the LORD called to him from heaven and said, “Abraham, Abraham!” And he said, “Here am I.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22 / בראשית כב",
+   "osis": [
+    "Gen.22.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 22:10 (verse number 10)",
+   "osis": [
+    "Gen.22.10"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 22:11 (verse number 11)",
+   "osis": [
+    "Gen.22.11"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "העקדה",
+   "translit": "ha'akedah",
+   "gloss": "the Akedah (the binding)",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "alef-tav; untranslated direct-object marker before his hand, the knife and his son",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "ידו",
+   "translit": "yado",
+   "gloss": "his hand",
+   "strongs": "H3027"
+  },
+  {
+   "lang": "he",
+   "word": "המאכלת",
+   "translit": "hama'akhelet",
+   "gloss": "the knife",
+   "strongs": "H3979"
+  },
+  {
+   "lang": "he",
+   "word": "לשחט",
+   "translit": "lishchot",
+   "gloss": "to slay",
+   "strongs": "H7819"
+  },
+  {
+   "lang": "he",
+   "word": "בנו",
+   "translit": "beno",
+   "gloss": "his son",
+   "strongs": "H1121"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "his hand",
+   "other": "ידו"
+  },
+  {
+   "en": "the knife",
+   "other": "המאכלת"
+  },
+  {
+   "en": "his son",
+   "other": "בנו"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Abraham",
+   "Isaac",
+   "Angel of the LORD"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "knife"
+  ],
+  "themes": [
+   "sacrifice",
+   "obedience",
+   "faith"
+  ],
+  "groups": [
+   "angels"
+  ]
+ },
+ "keywords": [
+  "Genesis 22:10",
+  "Genesis 22:11",
+  "Genesis 22",
+  "Akedah",
+  "Akeda",
+  "binding of Isaac",
+  "העקדה",
+  "Abraham stretched out his hand",
+  "took the knife to slay his son",
+  "angel of the LORD called from heaven",
+  "Abraham Abraham",
+  "Here am I",
+  "et",
+  "alef tav",
+  "aleph tav"
+ ],
+ "uncertain": [
+  "The coloured letters in Abraham and LORD are not explained on the slide"
+ ],
+ "confidence": 0.94
+}

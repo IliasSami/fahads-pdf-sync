@@ -1,0 +1,192 @@
+{
+ "id": "gods-garden-in-eden/16",
+ "kinds": [
+  "verse",
+  "word-study",
+  "letters"
+ ],
+ "title": "Genesis 2:3 — last letters of bara, elohim, la'asot spell emet (Truth)",
+ "summary": "Genesis 2:3 in English and Hebrew, with the closing words 'had created, God, and made' (ברא אלהים לעשות) colour-matched and their final letters א ם ת pulled out below with arrows to spell emet, Truth.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:3",
+   "osis": "Gen.2.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.3",
+   "text": "3 And God blessed the seventh day and sanctified it, because in it He rested from all His work which God had created to do."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.3",
+   "text": "3 ויברך אלהים את־יום השביעי ויקדש אתו כי בו שבת מכל־מלאכתו אשר־ ברא אלהים לעשות׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "and made:"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "God"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "had created"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "לעשות׃   אלהים   ברא"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "emet"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת   ם   א"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Truth"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:3 / בראשית ב:ג",
+   "osis": [
+    "Gen.2.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אמת",
+   "translit": "emet",
+   "gloss": "truth",
+   "strongs": "H571"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "had created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "לעשות",
+   "translit": "la'asot",
+   "gloss": "to do / and made",
+   "strongs": "H6213"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "had created",
+   "other": "ברא"
+  },
+  {
+   "en": "and made:",
+   "other": "לעשות"
+  },
+  {
+   "en": "emet",
+   "other": "אמת"
+  },
+  {
+   "en": "Truth",
+   "other": "אמת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "last letter of ברא (blue, underlined)"
+  },
+  {
+   "lang": "he",
+   "letter": "mem (final)",
+   "char": "ם",
+   "value": 40,
+   "meaning": "last letter of אלהים (yellow, underlined)"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last letter of לעשות (red, underlined)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "truth",
+   "Hebrew letter meanings",
+   "Bible codes",
+   "sabbath"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 2:3",
+  "emet",
+  "truth",
+  "last letters spell truth",
+  "alef mem tav",
+  "bara elohim la'asot",
+  "God created and made",
+  "seventh day blessed",
+  "sanctified",
+  "Hebrew word study",
+  "hidden message in Genesis",
+  "colour coded Hebrew"
+ ],
+ "uncertain": [
+  "Slide's Hebrew verse shows hyphens and a colon at line end; transcribed as maqaf and sof pasuq."
+ ],
+ "confidence": 0.93
+}

@@ -1,0 +1,103 @@
+{
+ "id": "noah-part-2/51",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Leviticus 23:9-11 — wave the sheaf of firstfruits the day after the sabbath",
+ "summary": "Leviticus 23:9-11: God tells Moses that when Israel enters the land and reaps its harvest they must bring a sheaf of the first fruits to the priest, who waves it before the LORD on the day after the sabbath. The word \"sabbath\" is highlighted in large blue type.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Leviticus 23:9-11",
+   "osis": [
+    "Lev.23.9",
+    "Lev.23.10",
+    "Lev.23.11"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ויקרא כג:ט-יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.23.9",
+   "text": "9 Then the LORD spoke to Moses, saying,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.23.10",
+   "text": "10 “Speak to the sons of Israel and say to them, ‘When you enter the land which I am going to give to you and reap its harvest, then you shall bring in the sheaf of the first fruits of your harvest to the priest."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.23.11",
+   "text": "11 ‘He shall wave the sheaf before the LORD for you to be accepted; on the day after the sabbath the priest shall wave it."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Leviticus 23:9-11 / ויקרא כג:ט-יא",
+   "osis": [
+    "Lev.23.9",
+    "Lev.23.10",
+    "Lev.23.11"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Moses"
+  ],
+  "places": [
+   "Israel"
+  ],
+  "events": [
+   "Feast of First Fruits"
+  ],
+  "things": [
+   "sheaf",
+   "first fruits",
+   "harvest"
+  ],
+  "themes": [
+   "biblical feasts",
+   "firstfruits",
+   "Torah",
+   "priesthood"
+  ],
+  "groups": [
+   "Israel",
+   "priests"
+  ]
+ },
+ "keywords": [
+  "Leviticus 23",
+  "firstfruits",
+  "first fruits",
+  "sheaf",
+  "wave offering",
+  "wave the sheaf",
+  "day after the sabbath",
+  "feast of firstfruits",
+  "harvest",
+  "priest",
+  "Moses",
+  "feasts of the LORD",
+  "omer"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

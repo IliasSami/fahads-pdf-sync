@@ -1,0 +1,73 @@
+{
+ "id": "elijah-elisha/25",
+ "kinds": [
+  "word-study"
+ ],
+ "title": "Repentance: teshuva (תשובה) means Return",
+ "summary": "Word study showing 'Repentance' as teshuva (תשובה), meaning 'Return'; the letters שוב (shuv) are highlighted in gold in both the English transliteration and the Hebrew.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Repentance"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "teshuva"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תשובה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Return"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תשובה",
+   "translit": "teshuva",
+   "gloss": "repentance, return",
+   "strongs": "H8666"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "shuv",
+   "other": "שוב"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "repentance",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "repentance",
+  "teshuva",
+  "teshuvah",
+  "return",
+  "turn back",
+  "shuv",
+  "Hebrew word for repentance",
+  "תשובה",
+  "return to God"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

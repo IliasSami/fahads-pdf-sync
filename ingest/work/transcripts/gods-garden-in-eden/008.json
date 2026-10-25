@@ -1,0 +1,291 @@
+{
+ "id": "gods-garden-in-eden/8",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "Emet (truth) = first, middle and last letters of the Hebrew alefbet",
+ "summary": "Shows the Hebrew alphabet with names above and below each letter, highlighting alef (first), mem (middle) and tav (last), which make up emet (Truth). The slide says to see truth, one must see the whole picture.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "emet"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ם ת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Truth"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "א ב ג ד ה ו ז ח ט י כ ל מ נ ס ע פ צ ק ר ש ת"
+  },
+  {
+   "lang": "translit",
+   "role": "list",
+   "text": "alef bet gimel dalet hey vav zayin het tet yod kaf lamed mem nun samekh ayin pe tsadi qof resh shin tav"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ם"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tav"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "mem"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "emet consists of the 1st, middle and last letters of the Hebrew alefbet. To see truth, one must see the whole picture."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אמת",
+   "translit": "emet",
+   "gloss": "truth",
+   "strongs": "H571",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "emet",
+   "other": "אמת"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  },
+  {
+   "en": "mem",
+   "other": "מ"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "Truth",
+   "other": "אמת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "first letter of the alefbet"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "gimel",
+   "char": "ג",
+   "value": 3,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "dalet",
+   "char": "ד",
+   "value": 4,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "hey",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "zayin",
+   "char": "ז",
+   "value": 7,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "het",
+   "char": "ח",
+   "value": 8,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "tet",
+   "char": "ט",
+   "value": 9,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "kaf",
+   "char": "כ",
+   "value": 20,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "middle letter of the alefbet"
+  },
+  {
+   "lang": "he",
+   "letter": "nun",
+   "char": "נ",
+   "value": 50,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "samekh",
+   "char": "ס",
+   "value": 60,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "ayin",
+   "char": "ע",
+   "value": 70,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": 80,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "tsadi",
+   "char": "צ",
+   "value": 90,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "qof",
+   "char": "ק",
+   "value": 100,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last letter of the alefbet"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "truth",
+   "wisdom"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "emet",
+  "truth",
+  "Hebrew alphabet",
+  "alefbet",
+  "aleph bet",
+  "first middle last letters",
+  "alef mem tav",
+  "22 letters",
+  "see the whole picture",
+  "Hebrew letters chart",
+  "אמת"
+ ],
+ "uncertain": [
+  "The slide's emet letters row uses a final mem (ם) where the alphabet row shows regular mem (מ); the alphabet names are shown alternately above and below the letters; letter values are standard gematria, not shown on the slide"
+ ],
+ "confidence": 0.93
+}

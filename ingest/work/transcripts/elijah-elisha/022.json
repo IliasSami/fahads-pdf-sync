@@ -1,0 +1,52 @@
+{
+ "id": "elijah-elisha/22",
+ "kinds": [
+  "title"
+ ],
+ "title": "Elijah (section title)",
+ "summary": "A nearly blank white slide with the single word 'Elijah' in large multicoloured letters (E blue, l brown, ijah gold).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Elijah"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "en",
+   "word": "Elijah",
+   "translit": "eliyahu",
+   "gloss": "my God is Yahweh",
+   "strongs": "H452"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Elijah",
+  "Elias",
+  "Eliyahu",
+  "prophet Elijah",
+  "Elijah and Elisha",
+  "title slide",
+  "my God is Yah"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

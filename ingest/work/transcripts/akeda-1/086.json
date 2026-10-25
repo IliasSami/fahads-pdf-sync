@@ -1,0 +1,28 @@
+{
+  "id": "akeda-1/86",
+  "kinds": ["verse"],
+  "title": "Mark 14:33-36 — Jesus in distress prays “Abba! Father!”",
+  "summary": "Mark 14:33-36: Jesus takes Peter, James and John, is deeply grieved to the point of death, and prays, “Abba! Father! … remove this cup from Me; yet not what I will, but what You will.” Words for Jesus (He, Him, My, Me, I) are in red and words for the Father (Abba, Father, You) in blue.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Mark 14:33-36", "osis": ["Mark.14.33", "Mark.14.34", "Mark.14.35", "Mark.14.36"]},
+    {"lang": "el", "role": "reference", "text": "άρκον 14:33-36", "osis": ["Mark.14.33", "Mark.14.34", "Mark.14.35", "Mark.14.36"]},
+    {"lang": "en", "role": "verse", "osis": "Mark.14.33", "text": "33 And He took with Him Peter and James and John, and began to be very distressed and troubled."},
+    {"lang": "en", "role": "verse", "osis": "Mark.14.34", "text": "34 And He said to them, “My soul is deeply grieved to the point of death; remain here and keep watch.”"},
+    {"lang": "en", "role": "verse", "osis": "Mark.14.35", "text": "35 And He went a little beyond them, and fell to the ground and began to pray that if it were possible, the hour might pass Him by."},
+    {"lang": "en", "role": "verse", "osis": "Mark.14.36", "text": "36 And He was saying, “Abba! Father! All things are possible for You; remove this cup from Me; yet not what I will, but what You will.”"}
+  ],
+  "refs": [
+    {"shown": "Mark 14:33-36 / άρκον 14:33-36", "osis": ["Mark.14.33", "Mark.14.34", "Mark.14.35", "Mark.14.36"], "role": "quoted"}
+  ],
+  "words": [
+    {"lang": "en", "word": "Abba", "translit": "abba", "gloss": "father (Aramaic)", "strongs": "G5"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Jesus", "God", "Peter", "James", "John (apostle)"], "places": ["Gethsemane"], "events": ["Jesus praying in Gethsemane"], "things": ["cup"], "themes": ["obedience", "father and son", "suffering", "prayer", "typology"], "groups": ["disciples"]},
+  "keywords": ["Mark 14", "Gethsemane", "Abba Father", "remove this cup from me", "not my will but yours", "not what I will, but what thou wilt", "soul exceeding sorrowful unto death", "very distressed and troubled", "Jesus prays", "agony in the garden", "Peter James and John", "submission to the Father"],
+  "uncertain": ["The Greek book name in the header is shown as 'άρκον' (the initial Μ of Μάρκον appears to be missing on the slide)."],
+  "confidence": 0.93
+}

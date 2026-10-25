@@ -1,0 +1,192 @@
+{
+ "id": "genesis-1-1-part-2/15",
+ "kinds": [
+  "table",
+  "word-study"
+ ],
+ "title": "Torah spelled in Hebrew, with the five books in Hebrew and transliteration",
+ "summary": "Under the heading Torah, with Genesis 1:1 and Deuteronomy 34:12 at the top, the word Torah is spelled out in Hebrew as separate coloured letters (ת ו ר ה) matching the coloured English letters, above a colour-coded table of the five books: Genesis bereshit, Exodus shemot, Leviticus vayikra, Numbers bamidbar, Deuteronomy devarim.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Torah"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ת ו ר ה"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Deuteronomy 34:12",
+   "osis": "Deut.34.12"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "דברים לד:י"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Genesis\nExodus\nLeviticus\nNumbers\nDeuteronomy"
+  },
+  {
+   "lang": "he",
+   "role": "table",
+   "text": "בראשית\nשמות\nויקרא\nבמדבר\nדברים"
+  },
+  {
+   "lang": "translit",
+   "role": "table",
+   "text": "bereshit\nshemot\nvayikra\nbamidbar\ndevarim"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Deuteronomy 34:12 / דברים לד:י",
+   "osis": [
+    "Deut.34.12"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תורה",
+   "translit": "torah",
+   "gloss": "instruction, law",
+   "strongs": "H8451"
+  },
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning (Hebrew name of Genesis)",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "שמות",
+   "translit": "shemot",
+   "gloss": "names (Hebrew name of Exodus)",
+   "strongs": "H8034"
+  },
+  {
+   "lang": "he",
+   "word": "ויקרא",
+   "translit": "vayikra",
+   "gloss": "and He called (Hebrew name of Leviticus)",
+   "strongs": "H7121"
+  },
+  {
+   "lang": "he",
+   "word": "במדבר",
+   "translit": "bamidbar",
+   "gloss": "in the wilderness (Hebrew name of Numbers)",
+   "strongs": "H4057"
+  },
+  {
+   "lang": "he",
+   "word": "דברים",
+   "translit": "devarim",
+   "gloss": "words (Hebrew name of Deuteronomy)",
+   "strongs": "H1697"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "T",
+   "other": "ת"
+  },
+  {
+   "en": "o",
+   "other": "ו"
+  },
+  {
+   "en": "r",
+   "other": "ר"
+  },
+  {
+   "en": "h",
+   "other": "ה"
+  },
+  {
+   "en": "Genesis",
+   "other": "בראשית"
+  },
+  {
+   "en": "Exodus",
+   "other": "שמות"
+  },
+  {
+   "en": "Leviticus",
+   "other": "ויקרא"
+  },
+  {
+   "en": "Numbers",
+   "other": "במדבר"
+  },
+  {
+   "en": "Deuteronomy",
+   "other": "דברים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "Torah"
+  ],
+  "themes": [
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Torah",
+  "Pentateuch",
+  "five books of Moses",
+  "tav vav resh hey",
+  "Hebrew names of the Bible books",
+  "Bereshit",
+  "Shemot",
+  "Vayikra",
+  "Bamidbar",
+  "Devarim",
+  "Genesis",
+  "Exodus",
+  "Leviticus",
+  "Numbers",
+  "Deuteronomy"
+ ],
+ "uncertain": [
+  "Hebrew reference for Deuteronomy 34:12 is shown as דברים לד:י (ends with yod = 10), transcribed as shown even though the verse is 12."
+ ],
+ "confidence": 0.95
+}

@@ -1,0 +1,34 @@
+{
+  "id": "akeda-1/8",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 17:5 — Abram becomes Abraham (a letter ה added)",
+  "summary": "Genesis 17:5 in English (God renaming Abram as Abraham, father of a multitude of nations), with the Hebrew names shown below: אברם with an arrow to אברהם, where the added letter he (ה) is drawn in black.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 17:5", "osis": "Gen.17.5"},
+    {"lang": "he", "role": "reference", "text": "ב ר א ש י ת  י ז :ה"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.5", "text": "5 “No longer shall your name be called Abram,"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.5", "text": "But your name shall be Abraham;"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.5", "text": "For I have made you the father of a multitude of nations."},
+    {"lang": "he", "role": "label", "text": "אברם"},
+    {"lang": "he", "role": "label", "text": "אברהם"}
+  ],
+  "refs": [{"shown": "Genesis 17:5 / בראשית יז:ה", "osis": ["Gen.17.5"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "אברם", "translit": "Abram", "gloss": "Abram (exalted father)", "strongs": "H87"},
+    {"lang": "he", "word": "אברהם", "translit": "Abraham", "gloss": "Abraham (father of a multitude)", "strongs": "H85"}
+  ],
+  "color_links": [
+    {"en": "Abram", "other": "אברם"},
+    {"en": "Abraham", "other": "אברהם"},
+    {"en": "h", "other": "ה"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "he", "char": "ה", "value": 5, "meaning": "the letter added to Abram's name (shown in black)"}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "God"], "places": [], "events": ["Covenant of circumcision"], "things": [], "themes": ["meaning of names", "covenant", "Hebrew letter meanings"], "groups": ["Gentiles"]},
+  "keywords": ["Genesis 17:5", "Abram to Abraham", "name change", "father of many nations", "father of a multitude of nations", "Abraham", "Abram", "letter he", "added letter ה", "Genesis 17", "covenant"],
+  "uncertain": [],
+  "confidence": 0.95
+}

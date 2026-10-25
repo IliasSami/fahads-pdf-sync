@@ -1,0 +1,110 @@
+{
+  "id": "akeda-2/38",
+  "kinds": [
+    "list",
+    "word-study"
+  ],
+  "title": "Rabbinical Judaism replaced blood sacrifices: chesed (lovingkindness)",
+  "summary": "Four items so far on what Rabbinical Judaism put in place of blood sacrifices, the fourth being works of chesed and truth. Below it the word chesed is spelled in English and Hebrew (חסד) and translated as Lovingkindness, with the letters colour-matched (ches/חס in green, ed/ד in brown).",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Rabbinical Judaism Replaced Blood Sacrifices with:"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Confess the sin"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Pray for atonement"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Correct the sin however possible"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Pursue works of chesed and truth;"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "chesed"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "חסד"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Lovingkindness"
+    }
+  ],
+  "refs": [],
+  "words": [
+    {
+      "lang": "he",
+      "word": "חסד",
+      "translit": "chesed",
+      "gloss": "lovingkindness, mercy, kindness",
+      "strongs": "H2617"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "ches",
+      "other": "חס"
+    },
+    {
+      "en": "ed",
+      "other": "ד"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "things": [],
+    "themes": [
+      "sacrifice",
+      "blood",
+      "atonement",
+      "sin",
+      "repentance",
+      "Rabbinic Judaism"
+    ],
+    "groups": [
+      "Jews",
+      "rabbis"
+    ]
+  },
+  "keywords": [
+    "Rabbinical Judaism",
+    "rabbinic Judaism",
+    "replaced blood sacrifices",
+    "no more sacrifices",
+    "atonement without blood",
+    "repentance",
+    "confess sin",
+    "prayer for atonement",
+    "correct the sin",
+    "teshuvah",
+    "chesed",
+    "hesed",
+    "lovingkindness",
+    "works of kindness"
+  ],
+  "uncertain": [],
+  "confidence": 0.97
+}

@@ -1,0 +1,140 @@
+{
+ "id": "genesis-1-1-wisdom/26",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Psalm 49:3 — hagut, \"to meditate\" (הגות)",
+ "summary": "Psalm 49:3 in English and Hebrew; two colour-coded word lines: v'hagut (והגות, \"and the meditation\") and hagut (הגות, \"To Meditate\").",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 49:3",
+   "osis": "Ps.49.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים מט:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "v’hagut"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "והגות"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "and the meditation"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hagut"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "הגות"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "To Meditate"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 49:3 / תהילים מט:ג",
+   "osis": [
+    "Ps.49.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "והגות",
+   "translit": "v'hagut",
+   "gloss": "and the meditation",
+   "strongs": "H1900"
+  },
+  {
+   "lang": "he",
+   "word": "הגות",
+   "translit": "hagut",
+   "gloss": "to meditate; meditation",
+   "strongs": "H1900"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "and",
+   "other": "ו"
+  },
+  {
+   "en": "the meditation",
+   "other": "הגות"
+  },
+  {
+   "en": "v’hagut",
+   "other": "והגות"
+  },
+  {
+   "en": "hagut",
+   "other": "הגות"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "mouth",
+   "heart"
+  ],
+  "themes": [
+   "wisdom",
+   "understanding",
+   "meditation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "hagut",
+  "v'hagut",
+  "to meditate",
+  "meditate",
+  "meditation",
+  "Hebrew word for meditate",
+  "Psalm 49:3",
+  "Psalm 49",
+  "hagah",
+  "meditation of my heart",
+  "understanding"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

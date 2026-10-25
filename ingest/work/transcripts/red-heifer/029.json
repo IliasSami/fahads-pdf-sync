@@ -1,0 +1,101 @@
+{
+ "id": "red-heifer/29",
+ "kinds": [
+  "comparison",
+  "word-study"
+ ],
+ "title": "Two types of commandments: chukkim (statutes) and mishpatim (ordinances)",
+ "summary": "Explains two types of commandments, chukkim (statutes) and mishpatim (ordinances). A statute (chok) is a commandment whose rationale escapes us; an ordinance is one whose rationale is understandable, such as no murder or no stealing. The words chukkim, statute and chok are in blue.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Two types of commandments:"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "chukkim"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "and"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "mishpatim"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "statutes and ordinances"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "A “statute” (chok) is a commandment whose rationale escapes us."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "An “ordinance” is one whose rationale is understandable (no murder, no stealing, etc.)"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חקים",
+   "translit": "chukkim",
+   "gloss": "statutes: commandments whose rationale escapes us",
+   "strongs": "H2706",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "משפטים",
+   "translit": "mishpatim",
+   "gloss": "ordinances: commandments whose rationale is understandable",
+   "strongs": "H4941",
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "statutes (chok)",
+   "ordinances (mishpat)",
+   "commandments",
+   "Torah",
+   "obedience"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "chukkim",
+  "chukim",
+  "chok",
+  "chuk",
+  "mishpatim",
+  "statutes and ordinances",
+  "two types of commandments",
+  "rationale escapes us",
+  "no apparent reason",
+  "no murder",
+  "no stealing",
+  "understandable commandments",
+  "statute vs ordinance",
+  "red heifer"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

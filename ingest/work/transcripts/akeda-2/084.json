@@ -1,0 +1,27 @@
+{
+  "id": "akeda-2/84",
+  "kinds": ["verse"],
+  "title": "Genesis 24:26-30: the servant worships; Laban runs to meet him",
+  "summary": "Genesis 24:26-30 in English: the servant bows and blesses the LORD, the God of his master Abraham, for leading him to the house of his master's brothers; Rebekah tells her family and her brother Laban runs out to the man at the spring. The servant's words 'my' and 'me' are highlighted in gold, 'master' is underlined in red, and the 'h' in Abraham is set apart in black.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 24", "osis": "Gen.24.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית כד", "osis": "Gen.24.1"},
+    {"lang": "en", "role": "verse", "text": "26 Then the man bowed low and worshiped the LORD.", "osis": "Gen.24.26"},
+    {"lang": "en", "role": "verse", "text": "27 He said, “Blessed be the LORD, the God of my master Abraham, who has not forsaken His lovingkindness and His truth toward my master; as for me, the LORD has guided me in the way to the house of my master’s brothers.”", "osis": "Gen.24.27"},
+    {"lang": "en", "role": "verse", "text": "28 Then the girl ran and told her mother’s house about these things.", "osis": "Gen.24.28"},
+    {"lang": "en", "role": "verse", "text": "29 Now Rebekah had a brother whose name was Laban; and Laban ran outside to the man at the spring.", "osis": "Gen.24.29"},
+    {"lang": "en", "role": "verse", "text": "30 When he saw the ring and the bracelets on his sister’s wrists, and when he heard the words of Rebekah his sister, saying, “This is what the man said to me,” he went to the man; and behold, he was standing by the camels at the spring.", "osis": "Gen.24.30"}
+  ],
+  "refs": [
+    {"shown": "Genesis 24 / בראשית כד", "osis": ["Gen.24.26", "Gen.24.27", "Gen.24.28", "Gen.24.29", "Gen.24.30"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Eliezer", "Abraham", "Rebekah", "Laban", "God"], "places": [], "events": ["Finding a bride for Isaac"], "things": ["ring", "bracelets", "camels", "spring"], "themes": ["worship", "lovingkindness", "guidance", "marriage"], "groups": []},
+  "keywords": ["Abraham's servant", "worshiped the LORD", "bowed down", "lovingkindness and truth", "mercy and truth", "my master", "Laban", "Rebekah", "Rebecca", "the LORD led me", "bride for Isaac", "Genesis 24"],
+  "uncertain": [],
+  "confidence": 0.94
+}

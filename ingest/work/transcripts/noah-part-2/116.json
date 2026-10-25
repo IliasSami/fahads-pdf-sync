@@ -1,0 +1,68 @@
+{
+ "id": "noah-part-2/116",
+ "kinds": [
+  "humor",
+  "text"
+ ],
+ "title": "Noah's excuses: EEOC complaint, IRS seizure and state user tax",
+ "summary": "Continues the humorous modern-Noah story: Noah faces an Equal Employment Opportunity Commission complaint for not taking godless, unbelieving people aboard, an IRS seizure of his assets on suspicion of fleeing to avoid taxes, and a state user tax for not registering the Ark as a recreational water craft.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Right now, I am trying to resolve a complaint filed with the Equal Employment Opportunity Commission that I am practicing discrimination by not taking godless, unbelieving people aboard."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The IRS has seized my assets, claiming that I'm building the Ark in preparation to flee the country to avoid paying taxes."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "I just got a notice from the state that I owe them some kind of user tax and that I failed to register the Ark as a \"recreational water craft.\""
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "humor"
+  ],
+  "groups": [
+   "Equal Employment Opportunity Commission",
+   "IRS"
+  ]
+ },
+ "keywords": [
+  "Equal Employment Opportunity Commission",
+  "EEOC",
+  "discrimination",
+  "godless unbelieving people",
+  "IRS",
+  "assets seized",
+  "avoid paying taxes",
+  "user tax",
+  "recreational water craft",
+  "Noah joke",
+  "Noah humor",
+  "funny Noah story",
+  "Bible humor"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

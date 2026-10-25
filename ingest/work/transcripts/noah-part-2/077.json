@@ -1,0 +1,118 @@
+{
+ "id": "noah-part-2/77",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Genesis 7:11 and 8:14 — the flood lasted 1 year and 10 days (370 days)",
+ "summary": "The same two flood verses as the previous slide (Genesis 7:11, second month 17th day; Genesis 8:14, second month 27th day) with a new line added below: '1 Year and 10 Days → 360 + 10 = 370 days'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 7:11",
+   "osis": "Gen.7.11"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ז:יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.11",
+   "text": "11 In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on the same day all the fountains of the great deep burst open, and the floodgates of the sky were opened."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:14",
+   "osis": "Gen.8.14"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:יד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.14",
+   "text": "14 In the second month, on the twenty-seventh day of the month, the earth was dry."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "1 Year and 10 Days → 360 + 10 = 370 days"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 7:11 / בראשית ז:יא",
+   "osis": [
+    "Gen.7.11"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 8:14 / בראשית ח:יד",
+   "osis": [
+    "Gen.8.14"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 360,
+   "note": "days in one (Hebrew) year, as used in the flood calculation"
+  },
+  {
+   "value": 10,
+   "note": "extra days, from the 17th to the 27th of the second month"
+  },
+  {
+   "value": 370,
+   "note": "total days of the flood: 1 year and 10 days (360 + 10)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "fountains of the great deep",
+   "floodgates of the sky"
+  ],
+  "themes": [
+   "Flood chronology",
+   "Hebrew calendar"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "how long was the flood",
+  "370 days",
+  "1 year and 10 days",
+  "360 day year",
+  "Genesis 7:11",
+  "Genesis 8:14",
+  "flood duration",
+  "flood timeline",
+  "seventeenth day second month",
+  "twenty-seventh day second month",
+  "360 + 10 = 370",
+  "Noah's flood length"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

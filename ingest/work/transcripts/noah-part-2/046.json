@@ -1,0 +1,168 @@
+{
+ "id": "noah-part-2/46",
+ "kinds": [
+  "verse",
+  "word-study",
+  "timeline"
+ ],
+ "title": "Exodus 13:20-22 — Succoth (14 Nisan) and Etham (15 Nisan), pillar of cloud and fire",
+ "summary": "Exodus 13:20-22 in English: Israel set out from Succoth and camped at Etham, led by the LORD in a pillar of cloud by day and a pillar of fire by night. Below, the place names are shown in English and Hebrew (succoth סכות, 14 Nisan; etham אתם, 15 Nisan), colour-matched. Some letters in Succoth, Etham and LORD are multicoloured.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 13:20-22",
+   "osis": [
+    "Exod.13.20",
+    "Exod.13.21",
+    "Exod.13.22"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות יג:כ-כב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.13.20",
+   "text": "20 Then they set out from Succoth and camped in Etham on the edge of the wilderness."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.13.21",
+   "text": "21 The LORD was going before them in a pillar of cloud by day to lead them on the way, and in a pillar of fire by night to give them light, that they might travel by day and by night."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.13.22",
+   "text": "22 He did not take away the pillar of cloud by day, nor the pillar of fire by night, from before the people."
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "succoth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "סכות"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "14 nisan"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "etham"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אתם"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "15 nisan"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 13:20-22 / שמות יג:כ-כב",
+   "osis": [
+    "Exod.13.20",
+    "Exod.13.21",
+    "Exod.13.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "סכות",
+   "translit": "succoth",
+   "gloss": "Succoth (booths), first camp after leaving Egypt",
+   "strongs": "H5523"
+  },
+  {
+   "lang": "he",
+   "word": "אתם",
+   "translit": "etham",
+   "gloss": "Etham, second camp, on the edge of the wilderness",
+   "strongs": "H864"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "succoth",
+   "other": "סכות"
+  },
+  {
+   "en": "etham",
+   "other": "אתם"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 14,
+   "note": "14 Nisan, date shown for Succoth"
+  },
+  {
+   "value": 15,
+   "note": "15 Nisan, date shown for Etham"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [
+   "Succoth",
+   "Etham"
+  ],
+  "events": [
+   "Exodus"
+  ],
+  "things": [
+   "pillar of cloud",
+   "pillar of fire"
+  ],
+  "themes": [
+   "light and darkness",
+   "Hebrew calendar",
+   "redemption"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Exodus 13",
+  "Succoth",
+  "Etham",
+  "14 Nisan",
+  "15 Nisan",
+  "pillar of cloud",
+  "pillar of fire",
+  "cloud by day fire by night",
+  "edge of the wilderness",
+  "route of the Exodus",
+  "Exodus journey",
+  "camps of Israel",
+  "סכות",
+  "אתם"
+ ],
+ "uncertain": [
+  "Purpose of the multicoloured letters in Succoth, Etham and LORD is not stated on the slide"
+ ],
+ "confidence": 0.95
+}

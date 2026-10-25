@@ -1,0 +1,20 @@
+{
+  "id": "akeda-2/127",
+  "kinds": ["title"],
+  "title": "The Jewish moral of the story",
+  "summary": "Section heading “The Moral of the Story:” with the word “Jewish” inserted above it in blue with a hand-drawn caret, making it “The Jewish Moral of the Story.”",
+  "text": [
+    {"lang": "en", "role": "note", "text": "Jewish"},
+    {"lang": "en", "role": "heading", "text": "The Moral of the Story:"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": [], "things": [], "themes": ["humor"], "groups": ["Jews"]},
+  "keywords": ["moral of the story", "Jewish moral", "lesson", "punchline", "insertion caret", "conclusion"],
+  "uncertain": [],
+  "confidence": 0.95
+}

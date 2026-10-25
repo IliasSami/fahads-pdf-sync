@@ -1,0 +1,39 @@
+{
+  "id": "abel/55",
+  "kinds": ["verse", "word-study"],
+  "title": "Peri (fruit) inside the name Ephrathah (אפרתה)",
+  "summary": "Genesis 4:3 in English and Hebrew; below, arrows show that the letters פר from peri (פרי, “fruit”) appear inside the name Ephrathah (אפרתה).",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:3", "osis": "Gen.4.3"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ג", "osis": "Gen.4.3"},
+    {"lang": "en", "role": "verse", "text": "3 So it came about in the course of time that Cain brought from the fruit of the ground an offering to yahweh.", "osis": "Gen.4.3"},
+    {"lang": "he", "role": "verse", "text": "3 ויהי מקץ ימים ויבא קין מפרי האדמה מנחה ליהוה׃", "osis": "Gen.4.3"},
+    {"lang": "translit", "role": "label", "text": "peri"},
+    {"lang": "he", "role": "label", "text": "פרי"},
+    {"lang": "en", "role": "label", "text": "Fruit"},
+    {"lang": "other", "role": "label", "text": "⇓ ⇓"},
+    {"lang": "translit", "role": "label", "text": "ephratah"},
+    {"lang": "he", "role": "label", "text": "אפרתה"},
+    {"lang": "en", "role": "label", "text": "Ephrathah"}
+  ],
+  "refs": [{"shown": "Genesis 4:3 / בראשית ד:ג", "osis": ["Gen.4.3"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "פרי", "translit": "peri", "gloss": "fruit", "strongs": "H6529"},
+    {"lang": "he", "word": "אפרתה", "translit": "ephratah", "gloss": "Ephrathah", "strongs": "H672"}
+  ],
+  "color_links": [
+    {"en": "fruit", "other": "פרי"},
+    {"en": "from", "other": "מ"},
+    {"en": "peri", "other": "פרי"},
+    {"en": "Ephrathah", "other": "פר"},
+    {"en": "y (yahweh)", "other": "י"},
+    {"en": "w (yahweh)", "other": "ו"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Cain", "God"], "places": ["Ephrathah"], "events": ["Cain and Abel's offerings"], "things": ["fruit", "fruit of the ground", "offering"], "themes": ["Hebrew wordplay", "fruitfulness", "names"], "groups": []},
+  "keywords": ["Ephrathah", "Ephratah", "Ephrath", "Bethlehem Ephrathah", "meaning of Ephrathah", "fruitful", "peri", "fruit", "Hebrew root", "name meaning", "Genesis 4:3"],
+  "uncertain": [],
+  "confidence": 0.93
+}

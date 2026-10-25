@@ -1,0 +1,243 @@
+{
+ "id": "noah-part-2/126",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:26 — image (tsal, shadow) and likeness (dam, blood)",
+ "summary": "Genesis 1:26 with 'image' and 'likeness' colour-matched to the Hebrew words: בצלמנו (betsalmenu), whose blue part tsal means 'Shadow' (Spiritual), and כדמותנו (kidmutenu), whose purple part dam means 'Blood' (Physical). The 'Us/Our' endings are underlined in black. The bottom line shows 'the heavens' in blue and 'the earth' in purple with the Hebrew השמים ואת הארץ.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:26",
+   "osis": "Gen.1.26"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:כו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.26",
+   "text": "Then God said, \"Let Us make man in Our image according to Our likeness"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "betsalmenu,"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kidmutenu"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בצלמנו"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כדמותנו"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tsal"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "dam"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Shadow"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Blood"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Spiritual"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Physical"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "the heavens"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ואת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "the earth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "השמים ואת הארץ"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:26 / בראשית א:כו",
+   "osis": [
+    "Gen.1.26"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בצלמנו",
+   "translit": "betsalmenu",
+   "gloss": "in our image",
+   "strongs": "H6754"
+  },
+  {
+   "lang": "he",
+   "word": "צל",
+   "translit": "tsal",
+   "gloss": "shadow",
+   "strongs": "H6738"
+  },
+  {
+   "lang": "he",
+   "word": "כדמותנו",
+   "translit": "kidmutenu",
+   "gloss": "according to our likeness",
+   "strongs": "H1823"
+  },
+  {
+   "lang": "he",
+   "word": "דם",
+   "translit": "dam",
+   "gloss": "blood",
+   "strongs": "H1818"
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve'et",
+   "gloss": "and (object marker)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'arets",
+   "gloss": "the earth",
+   "strongs": "H776"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "image",
+   "other": "צל"
+  },
+  {
+   "en": "tsal",
+   "other": "צל"
+  },
+  {
+   "en": "Shadow",
+   "other": "צל"
+  },
+  {
+   "en": "Spiritual",
+   "other": "צל"
+  },
+  {
+   "en": "likeness",
+   "other": "דם"
+  },
+  {
+   "en": "dam",
+   "other": "דם"
+  },
+  {
+   "en": "Blood",
+   "other": "דם"
+  },
+  {
+   "en": "Physical",
+   "other": "דם"
+  },
+  {
+   "en": "Us / Our",
+   "other": "נו"
+  },
+  {
+   "en": "the heavens",
+   "other": "שמים"
+  },
+  {
+   "en": "the earth",
+   "other": "ארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "image of God",
+   "spiritual and physical"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:26",
+  "image of God",
+  "likeness of God",
+  "Let us make man",
+  "in our image",
+  "after our likeness",
+  "tselem",
+  "tsalmenu",
+  "demut",
+  "tsal shadow",
+  "dam blood",
+  "spiritual and physical",
+  "heavens and earth",
+  "us and our"
+ ],
+ "uncertain": [
+  "Exact pairing of the Hebrew letters with the coloured English words is read from colour and underlining; 'heavens'/'earth' Hebrew line (השמים ואת הארץ) carries no reference on the slide."
+ ],
+ "confidence": 0.9
+}

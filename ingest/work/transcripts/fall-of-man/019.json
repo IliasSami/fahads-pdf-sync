@@ -1,0 +1,89 @@
+{
+ "id": "fall-of-man/19",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Genesis 3:7 — “God requires RED, not Green!”",
+ "summary": "Genesis 3:7 (Adam and Eve sew fig leaves) with the added punchline in large coloured type: “God requires RED, not Green!” — contrasting their green fig-leaf coverings with the red of blood.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:7",
+   "osis": "Gen.3.7"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:ז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "7 Then the eyes of both of them were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves loin coverings.",
+   "osis": "Gen.3.7"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "God requires RED, not Green!"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:7 / בראשית ג:ז",
+   "osis": [
+    "Gen.3.7"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Eve",
+   "God"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [
+   "fig leaves",
+   "loin coverings"
+  ],
+  "themes": [
+   "blood",
+   "atonement",
+   "sin",
+   "shame",
+   "substitution",
+   "sacrifice"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "God requires red not green",
+  "fig leaves",
+  "green fig leaves",
+  "red blood",
+  "blood sacrifice",
+  "covering for sin",
+  "Adam and Eve",
+  "Genesis 3:7",
+  "atonement",
+  "man-made covering"
+ ],
+ "uncertain": [
+  "The summary's “blood” interpretation of RED is inferred from the lesson thread; the slide itself shows only the words and colours."
+ ],
+ "confidence": 0.95
+}

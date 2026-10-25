@@ -1,0 +1,122 @@
+{
+ "id": "akeda-2/93",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 24:62: Isaac at Beer-lahai-roi — beer (באר) means well",
+ "summary": "Genesis 24:62 in English: Isaac had come from going to Beer-lahai-roi, for he was living in the Negev. The name is broken out as beer-lahai-roi, with 'beer' (Hebrew באר) shown in blue as meaning 'Well'; 'hai' is picked out in green, and 'Isaac' and 'he' are red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 24",
+   "osis": "Gen.24.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כד",
+   "osis": "Gen.24.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "62 Now Isaac had come from going to Beer-lahai-roi; for he was living in the Negev.",
+   "osis": "Gen.24.62"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "beer-lahai-roi"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "beer"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "באר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Well"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 24 / בראשית כד",
+   "osis": [
+    "Gen.24.62"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "באר",
+   "translit": "beer",
+   "gloss": "well",
+   "strongs": "H875"
+  },
+  {
+   "lang": "en",
+   "word": "Beer-lahai-roi",
+   "translit": "beer-lahai-roi",
+   "gloss": "well of the Living One who sees me",
+   "strongs": "H883"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Beer",
+   "other": "באר"
+  },
+  {
+   "en": "Well",
+   "other": "באר"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Isaac"
+  ],
+  "places": [
+   "Beer-lahai-roi",
+   "Negev"
+  ],
+  "events": [],
+  "things": [
+   "well"
+  ],
+  "themes": [
+   "names of God",
+   "water",
+   "life"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Beer-lahai-roi",
+  "Beer Lahai Roi",
+  "well of the Living One who sees me",
+  "beer means well",
+  "be'er",
+  "Lahai-roi",
+  "Isaac in the Negev",
+  "south country",
+  "well",
+  "Genesis 24",
+  "Genesis 24:62",
+  "Genesis 16:14"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

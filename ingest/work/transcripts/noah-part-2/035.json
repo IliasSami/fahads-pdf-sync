@@ -1,0 +1,108 @@
+{
+ "id": "noah-part-2/35",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 7:13-15 — Noah, his sons and the animals enter the ark",
+ "summary": "Genesis 7:13-15 in English: on the very same day Noah, Shem, Ham and Japheth, Noah's wife and the three wives of his sons, and every kind of animal entered the ark by twos. Names of Noah, Shem, Ham, Japheth and the word ark are colour-highlighted.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 7:13-15",
+   "osis": [
+    "Gen.7.13",
+    "Gen.7.14",
+    "Gen.7.15"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ז:יג-יה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.13",
+   "text": "13 On the very same day Noah and Shem and Ham and Japheth, the sons of Noah, and Noah’s wife and the three wives of his sons with them, entered the ark,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.14",
+   "text": "14 they and every beast after its kind, and all the cattle after their kind, and every creeping thing that creeps on the earth after its kind, and every bird after its kind, all sorts of birds."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.15",
+   "text": "15 So they went into the ark to Noah, by twos of all flesh in which was the breath of life."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 7:13-15 / בראשית ז:יג-יה",
+   "osis": [
+    "Gen.7.13",
+    "Gen.7.14",
+    "Gen.7.15"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "the three wives of Noah's sons"
+  },
+  {
+   "value": 2,
+   "note": "animals entered by twos"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "Shem",
+   "Ham",
+   "Japheth"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "animals",
+   "birds",
+   "cattle"
+  ],
+  "themes": [
+   "salvation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 7:13",
+  "Genesis 7:14",
+  "Genesis 7:15",
+  "Genesis 7",
+  "entered the ark",
+  "Noah's sons",
+  "Shem Ham Japheth",
+  "Noah's wife",
+  "animals two by two",
+  "after its kind",
+  "breath of life",
+  "creeping thing",
+  "birds",
+  "cattle"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

@@ -1,0 +1,168 @@
+{
+ "id": "akeda-2/133",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 22:15-16 — the angel calls again: “By Myself I have sworn”",
+ "summary": "Genesis 22:15-16 in English and Hebrew with matching words in matching colours (angel, LORD, Abraham, heaven, son, only son); the phrase “By Myself I have sworn” and its Hebrew בי נשבעתי are boxed in green.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22:15-16",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב:יה-יו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.15",
+   "text": "15 Then the angel of the LORD called to Abraham a second time from heaven,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.16",
+   "text": "16 and said, “By Myself I have sworn, declares the LORD, because you have done this thing and have not withheld your son, your only son,"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.22.15",
+   "text": "15 ויקרא מלאך יהוה אל־אברהם שנית מן־השמים"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.22.16",
+   "text": "16 ויאמר בי נשבעתי נאם־יהוה כי יען אשר עשית את־הדבר הזה ולא חשכת את־בנך את־יחידך׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:15-16 / בראשית כב:יה-יו",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בי נשבעתי",
+   "translit": "bi neshbati",
+   "gloss": "by myself I have sworn",
+   "strongs": "H7650"
+  },
+  {
+   "lang": "he",
+   "word": "מלאך",
+   "translit": "malak",
+   "gloss": "angel (messenger)",
+   "strongs": "H4397"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the LORD",
+   "strongs": "H3068"
+  },
+  {
+   "lang": "he",
+   "word": "בנך",
+   "translit": "bincha",
+   "gloss": "your son",
+   "strongs": "H1121"
+  },
+  {
+   "lang": "he",
+   "word": "יחידך",
+   "translit": "yechidecha",
+   "gloss": "your only son",
+   "strongs": "H3173"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "angel",
+   "other": "מלאך"
+  },
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  },
+  {
+   "en": "Abraham",
+   "other": "אברהם"
+  },
+  {
+   "en": "heaven",
+   "other": "השמים"
+  },
+  {
+   "en": "By Myself I have sworn",
+   "other": "בי נשבעתי"
+  },
+  {
+   "en": "son",
+   "other": "בנך"
+  },
+  {
+   "en": "only son",
+   "other": "יחידך"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Abraham",
+   "Isaac"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [],
+  "themes": [
+   "oath",
+   "covenant",
+   "obedience",
+   "faith",
+   "sacrifice"
+  ],
+  "groups": [
+   "angels"
+  ]
+ },
+ "keywords": [
+  "Genesis 22:15",
+  "Genesis 22:16",
+  "angel of the LORD called a second time",
+  "by myself have I sworn",
+  "God swears by himself",
+  "oath of God",
+  "bi nishbati",
+  "your only son",
+  "thy son thine only son",
+  "have not withheld thy son",
+  "Akedah",
+  "Akeda",
+  "Genesis 22"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

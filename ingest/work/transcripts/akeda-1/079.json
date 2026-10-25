@@ -1,0 +1,28 @@
+{
+  "id": "akeda-1/79",
+  "kinds": ["comparison", "list"],
+  "title": "Abraham, Isaac and Jacob compared: who left Israel and who stayed",
+  "summary": "Three colour-coded columns compare the patriarchs. Abraham (blue) leaves Israel, was born in Ur and goes to Egypt because of a famine; Isaac (red) stays home; Jacob (green) leaves Israel, escapes Esau's wrath in his mother's native land and dies in Egypt.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Abraham"},
+    {"lang": "en", "role": "heading", "text": "Isaac"},
+    {"lang": "en", "role": "heading", "text": "Jacob"},
+    {"lang": "en", "role": "body", "text": "Leaves Israel"},
+    {"lang": "en", "role": "body", "text": "Stays Home"},
+    {"lang": "en", "role": "body", "text": "Leaves Israel"},
+    {"lang": "en", "role": "body", "text": "Born in Ur"},
+    {"lang": "en", "role": "body", "text": "Goes to Egypt because of a famine."},
+    {"lang": "en", "role": "body", "text": "Escapes Esau’s wrath in mother’s native land"},
+    {"lang": "en", "role": "body", "text": "Dies in Egypt."}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac", "Jacob", "Esau"], "places": ["Israel", "Ur", "Egypt"], "events": ["famine"], "things": [], "themes": ["patriarchs", "famine", "exile"], "groups": []},
+  "keywords": ["Abraham Isaac Jacob comparison", "patriarchs", "Isaac stays home", "leaves Israel", "born in Ur", "famine", "goes to Egypt", "Jacob flees Esau", "Esau's wrath", "dies in Egypt", "Isaac never left the land", "Akedah", "Akeda"],
+  "uncertain": [],
+  "confidence": 0.97
+}

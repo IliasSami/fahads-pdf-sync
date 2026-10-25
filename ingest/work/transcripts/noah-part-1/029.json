@@ -1,0 +1,109 @@
+{
+ "id": "noah-part-1/29",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Ruth 2:2 and 1 Samuel 16:22 — “find favor”, 5th mention of Ruth and David",
+ "summary": "Two verses about finding favor, each headed by a “5th Mention” label: Ruth 2:2 (the 5th mention of Ruth, with a small 5 after her name) and 1 Samuel 16:22 (the 5th mention of David, with a small 5 after his name). “find favor” and “found favor” are shown in larger type.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Ruth 2:2",
+   "osis": "Ruth.2.2"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "5th Mention of Ruth"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ruth.2.2",
+   "text": "2 And Ruth⁵ the Moabitess said to Naomi, “Please let me go to the field and glean among the ears of grain after one in whose sight I may find favor.” And she said to her, “Go, my daughter.”"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Samuel 16:22",
+   "osis": "1Sam.16.22"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "5th Mention of David"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "1Sam.16.22",
+   "text": "22 Saul sent to Jesse, saying, “Let David⁵ now stand before me, for he has found favor in my sight."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Ruth 2:2",
+   "osis": [
+    "Ruth.2.2"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1 Samuel 16:22",
+   "osis": [
+    "1Sam.16.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 5,
+   "note": "5th mention of Ruth (superscript 5 after Ruth in Ruth 2:2)"
+  },
+  {
+   "value": 5,
+   "note": "5th mention of David (superscript 5 after David in 1 Samuel 16:22)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Ruth",
+   "Naomi",
+   "David",
+   "Saul",
+   "Jesse"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "grace"
+  ],
+  "groups": [
+   "Moabites"
+  ]
+ },
+ "keywords": [
+  "Ruth 2:2",
+  "1 Samuel 16:22",
+  "5th mention of Ruth",
+  "5th mention of David",
+  "find favor",
+  "found favor",
+  "favor in my sight",
+  "grace",
+  "Ruth the Moabitess",
+  "gleaning",
+  "David stand before Saul",
+  "fifth mention",
+  "number 5 and grace"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

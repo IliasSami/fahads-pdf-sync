@@ -1,0 +1,82 @@
+{
+ "id": "red-heifer/59",
+ "kinds": [
+  "picture",
+  "diagram"
+ ],
+ "title": "Door with blood on lintel and doorposts, and the word hyssop",
+ "summary": "A drawing of a wooden door frame with an open door, with red blood smears on the lintel above and both doorposts and on the ground at the threshold, with the word 'hyssop' written at an angle beside it. It illustrates the Passover blood on the doorposts from Exodus 12:22.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "hyssop"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "drawing",
+   "description": "Simple flat drawing of a golden-brown wooden door frame (two doorposts and a lintel) with a darker brown door swung open, an orange doorknob, and scribbled red blood smears on the lintel, on each doorpost, and on the ground at the threshold. The word 'hyssop' is written diagonally in green (first letter dark red) to the right of the doorway.",
+   "subjects": [
+    "door",
+    "doorposts",
+    "lintel",
+    "blood on doorposts",
+    "Passover",
+    "hyssop",
+    "threshold",
+    "red blood"
+   ],
+   "text_in_picture": "hyssop",
+   "credit": null,
+   "box": [
+    0.58,
+    0.27,
+    0.96,
+    0.97
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Passover",
+   "Exodus"
+  ],
+  "things": [
+   "hyssop",
+   "blood",
+   "door",
+   "doorposts",
+   "lintel"
+  ],
+  "themes": [
+   "blood",
+   "redemption",
+   "sacrifice"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Passover door",
+  "blood on the doorposts",
+  "blood on the lintel",
+  "hyssop",
+  "Exodus 12",
+  "door drawing",
+  "doorway with blood",
+  "Passover blood",
+  "lintel and two doorposts",
+  "red heifer hyssop"
+ ],
+ "uncertain": [
+  "The first letter 'h' of 'hyssop' is dark red while the rest of the word is green; the meaning of this colouring is not stated."
+ ],
+ "confidence": 0.95
+}

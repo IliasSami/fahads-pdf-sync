@@ -1,0 +1,25 @@
+{
+  "id": "elijah-elisha/52",
+  "kinds": ["verse"],
+  "title": "1 Kings 17:12-14 — The bowl of flour and jar of oil",
+  "summary": "The text of 1 Kings 17:12-14: the widow says she has only a handful of flour and a little oil to make a last meal for herself and her son; Elijah tells her not to fear, to make him a bread cake first, and promises that the flour and oil will not run out until the LORD sends rain.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "1 Kings 17:12-14", "osis": ["1Kgs.17.12", "1Kgs.17.13", "1Kgs.17.14"]},
+    {"lang": "he", "role": "reference", "text": "מלכים א יז:יב-יד", "osis": ["1Kgs.17.12", "1Kgs.17.13", "1Kgs.17.14"]},
+    {"lang": "en", "role": "verse", "text": "12 But she said, “As the LORD your God lives, I have no bread, only a handful of flour in the bowl and a little oil in the jar; and behold, I am gathering a few sticks that I may go in and prepare for me and my son, that we may eat it and die.”", "osis": "1Kgs.17.12"},
+    {"lang": "en", "role": "verse", "text": "13 Then Elijah said to her, “Do not fear; go, do as you have said, but make me a little bread cake from it first and bring it out to me, and afterward you may make one for yourself and for your son.", "osis": "1Kgs.17.13"},
+    {"lang": "en", "role": "verse", "text": "14 “For thus says the LORD God of Israel, ‘The bowl of flour shall not be exhausted, nor shall the jar of oil be empty, until the day that the LORD sends rain on the face of the earth.’”", "osis": "1Kgs.17.14"}
+  ],
+  "refs": [
+    {"shown": "1 Kings 17:12-14 / מלכים א יז:יב-יד", "osis": ["1Kgs.17.12", "1Kgs.17.13", "1Kgs.17.14"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Elijah", "widow of Zarephath", "God"], "places": ["Zarephath", "Israel"], "events": ["three-year drought"], "things": ["flour", "oil", "bowl", "jar", "bread cake", "sticks"], "themes": ["God's provision", "faith", "miracles"], "groups": []},
+  "keywords": ["widow of Zarephath", "barrel of meal", "cruse of oil", "handful of flour", "jar of oil", "bread cake", "do not fear", "flour shall not be exhausted", "Elijah", "1 Kings 17", "widow's oil"],
+  "uncertain": [],
+  "confidence": 0.96
+}

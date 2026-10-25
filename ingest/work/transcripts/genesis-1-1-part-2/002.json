@@ -1,0 +1,327 @@
+{
+ "id": "genesis-1-1-part-2/2",
+ "kinds": [
+  "table",
+  "letters",
+  "gematria"
+ ],
+ "title": "The Hebrew alef-bet: modern and ancient letters, meanings and gematria values",
+ "summary": "A two-column chart of all 22 Hebrew letters (with final forms in brackets). Each row gives the modern letter, its name and Latin sound, the ancient pictograph, its meaning and its gematria value from 1 (alef) to 400 (tav).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Hebrew alef-bet"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "with (Final Forms)"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Modern · Ancient · Meaning · Gematria"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ב ג ד ה ו ז ח ט י כ (ך) ל מ (ם) נ (ן) ס ע פ (ף) צ (ץ) ק ר ש ת"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "1. alef A — Strength, God — 1 · 2. bet B — Tent, House — 2 · 3. gimel G — Camel — 3 · 4. dalet D — Door — 4 · 5. he H — Revelation, Grace — 5 · 6. vav V,O,W,U — Hook, Nail — 6 · 7. zayin Z — Ax, Weapon — 7 · 8. chet Ch,H — Wall, Fence — 8 · 9. tet T — Coiled Snake — 9 · 10. yod I,J,Y — Hand, Work — 10"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "11. kaf K,Kh — Open Palm — 20 · 12. lamed L — Staff, Authority — 30 · 13. mem M — Water, Chaos — 40 · 14. nun N — Fish, Life — 50 · 15. samekh S — Support — 60 · 16. ayin A,O,E — Eye — 70 · 17. pe P — Mouth — 80 · 18. tsadi Tz — Trap, Hunt — 90 · 19. kuf Q — Sunrise, East — 100 · 20. resh R — Head — 200 · 21. shin Sh,S — Teeth, Destroy — 300 · 22. tav T — Covenant, Cross — 400"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "bet",
+   "other": "ב"
+  },
+  {
+   "en": "gimel",
+   "other": "ג"
+  },
+  {
+   "en": "dalet",
+   "other": "ד"
+  },
+  {
+   "en": "vav",
+   "other": "ו"
+  },
+  {
+   "en": "tet",
+   "other": "ט"
+  },
+  {
+   "en": "yod",
+   "other": "י"
+  },
+  {
+   "en": "lamed",
+   "other": "ל"
+  },
+  {
+   "en": "mem",
+   "other": "מ"
+  },
+  {
+   "en": "nun",
+   "other": "נ"
+  },
+  {
+   "en": "samekh",
+   "other": "ס"
+  },
+  {
+   "en": "resh",
+   "other": "ר"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "strength, God (ox head pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "tent, house"
+  },
+  {
+   "lang": "he",
+   "letter": "gimel",
+   "char": "ג",
+   "value": 3,
+   "meaning": "camel"
+  },
+  {
+   "lang": "he",
+   "letter": "dalet",
+   "char": "ד",
+   "value": 4,
+   "meaning": "door"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "revelation, grace"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "hook, nail"
+  },
+  {
+   "lang": "he",
+   "letter": "zayin",
+   "char": "ז",
+   "value": 7,
+   "meaning": "ax, weapon"
+  },
+  {
+   "lang": "he",
+   "letter": "chet",
+   "char": "ח",
+   "value": 8,
+   "meaning": "wall, fence"
+  },
+  {
+   "lang": "he",
+   "letter": "tet",
+   "char": "ט",
+   "value": 9,
+   "meaning": "coiled snake"
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "hand, work"
+  },
+  {
+   "lang": "he",
+   "letter": "kaf",
+   "char": "כ",
+   "value": 20,
+   "meaning": "open palm (final form ך)"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "staff, authority"
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "water, chaos (final form ם)"
+  },
+  {
+   "lang": "he",
+   "letter": "nun",
+   "char": "נ",
+   "value": 50,
+   "meaning": "fish, life (final form ן)"
+  },
+  {
+   "lang": "he",
+   "letter": "samekh",
+   "char": "ס",
+   "value": 60,
+   "meaning": "support"
+  },
+  {
+   "lang": "he",
+   "letter": "ayin",
+   "char": "ע",
+   "value": 70,
+   "meaning": "eye"
+  },
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": 80,
+   "meaning": "mouth (final form ף)"
+  },
+  {
+   "lang": "he",
+   "letter": "tsadi",
+   "char": "צ",
+   "value": 90,
+   "meaning": "trap, hunt (final form ץ)"
+  },
+  {
+   "lang": "he",
+   "letter": "kuf",
+   "char": "ק",
+   "value": 100,
+   "meaning": "sunrise, east"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "head"
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "teeth, destroy"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "covenant, cross"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Left column of ancient (paleo-)Hebrew pictograph letters for alef through yod: ox head, house, camel, door, man with raised arms, hook/nail, ax, wall, coiled snake, hand — each over a coloured underline.",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictographs",
+    "ancient Hebrew letters",
+    "alef",
+    "bet"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.23,
+    0.2,
+    0.3,
+    0.97
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Right column of ancient (paleo-)Hebrew pictograph letters for kaf through tav: open palm, staff, water waves, fish, support, eye, mouth, trap, sunrise, head, teeth, cross.",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictographs",
+    "ancient Hebrew letters",
+    "cross",
+    "eye"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.68,
+    0.03,
+    0.75,
+    0.98
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "alef-bet"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Hebrew alphabet",
+  "alef-bet",
+  "aleph bet",
+  "alephbet",
+  "paleo-Hebrew",
+  "ancient Hebrew pictographs",
+  "letter meanings",
+  "letter values",
+  "gematria chart",
+  "final forms",
+  "sofit letters",
+  "22 letters",
+  "alphabet chart"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

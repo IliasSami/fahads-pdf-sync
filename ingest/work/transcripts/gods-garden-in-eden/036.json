@@ -1,0 +1,207 @@
+{
+ "id": "gods-garden-in-eden/36",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Hidden letters in Genesis 2:24-25 and 3:2-3: citrus, olive, gopher",
+ "summary": "Three Hebrew excerpts from Genesis 2:24-25 and 3:2-3, each with a few large coloured letters that spell a tree word with a number beside it: Citrus הדר (-3), Olive זית (+3) and Gopher גפר (+8). Highlighted letters are ר, ד, ה in the citrus lines; ז, י, ת (underlined) in the olive lines; and ג, פ, ר in the gopher lines.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Citrus"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "הדר"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "-3"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": [
+    "Gen.2.24",
+    "Gen.2.25"
+   ],
+   "text": "24 על־כן יעזב־איש את־אביו ואת־אמו ודבק באשתו והיו לבשר אחד׃ 25 ויהיו שניהם ערומים האדם ואשתו ולא יתבששו׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Olive"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "זית"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "+3"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.24",
+   "text": "24 על־כן יעזב־איש את־אביו ואת־אמו ודבק באשתו והיו לבשר אחד׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Gopher"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "גפר"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "+8"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": [
+    "Gen.3.2",
+    "Gen.3.3"
+   ],
+   "text": "3.2 ותאמר האשה אל־הנחש מפרי עץ־הגן נאכל׃ 3 ומפרי העץ אשר בתוך־הגן אמר אלהים לא תאכלו ממנו ולא תגעו בו פן־תמתון׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:24-25 (Hebrew text)",
+   "osis": [
+    "Gen.2.24",
+    "Gen.2.25"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "3.2 and 3 (Genesis 3:2-3, Hebrew text)",
+   "osis": [
+    "Gen.3.2",
+    "Gen.3.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "הדר",
+   "translit": "hadar",
+   "gloss": "citrus (citron)",
+   "strongs": "H1926",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "זית",
+   "translit": "zayit",
+   "gloss": "olive",
+   "strongs": "H2132",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "גפר",
+   "translit": "gopher",
+   "gloss": "gopher (wood)",
+   "strongs": "H1613",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Citrus",
+   "other": "הדר"
+  },
+  {
+   "en": "Olive",
+   "other": "זית"
+  },
+  {
+   "en": "Gopher",
+   "other": "גפר"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": -3,
+   "note": "-3, number shown beside הדר (citrus)"
+  },
+  {
+   "value": 3,
+   "note": "+3, number shown beside זית (olive)"
+  },
+  {
+   "value": 8,
+   "note": "+8, number shown beside גפר (gopher)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Eve"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [
+   "citrus",
+   "olive",
+   "gopher wood",
+   "serpent",
+   "fruit of the tree"
+  ],
+  "themes": [
+   "Bible codes",
+   "creation",
+   "marriage",
+   "death"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "hidden letters",
+  "Bible code",
+  "ELS",
+  "citrus in Hebrew",
+  "hadar",
+  "citron",
+  "olive in Hebrew",
+  "zayit",
+  "gopher wood",
+  "ark wood",
+  "trees of Eden",
+  "Genesis 2:24",
+  "Genesis 2:25",
+  "Genesis 3:2",
+  "Genesis 3:3",
+  "one flesh",
+  "naked and not ashamed",
+  "serpent and the woman",
+  "lest ye die",
+  "skip number"
+ ],
+ "uncertain": [
+  "In the first line of the Citrus excerpt the letters ז, י, ת in יעזב־איש את are shown small in an olive-green colour (left over from the Olive letters); not part of the Citrus highlight.",
+  "Gopher excerpt begins with the label '3.2' (chapter 3 verse 2) followed by '3' for verse 3; transcribed as shown."
+ ],
+ "confidence": 0.9
+}

@@ -1,0 +1,193 @@
+{
+  "id": "abel/100",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:10 — blood (dam), man (adam) and ground (adamah)",
+  "summary": "Genesis 4:10 in English and Hebrew with blood and ground highlighted, followed by a word study: blood is dam (דם), man is adam (אדם, alef + dam) and ground is adamah (אדמה, adam + he). The colour-coding shows the three words are built from the same letters — man is taken from the ground, and blood is in man.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:10",
+      "osis": "Gen.4.10"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:י"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Gen.4.10",
+      "text": "10 And He said, “What have you done? The voice of your brother’s blood cries out to Me from the ground."
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "osis": "Gen.4.10",
+      "text": "10 ויאמר מה עשית קול דמי אחיך צעקים אלי מן האדמה׃"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "dam"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "דם"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Blood"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "adam"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "אדם"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Man"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "adamah"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "אדמה"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Ground"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:10 / בראשית ד:י",
+      "osis": [
+        "Gen.4.10"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "דם",
+      "translit": "dam",
+      "gloss": "blood",
+      "strongs": "H1818"
+    },
+    {
+      "lang": "he",
+      "word": "אדם",
+      "translit": "adam",
+      "gloss": "man",
+      "strongs": "H120"
+    },
+    {
+      "lang": "he",
+      "word": "אדמה",
+      "translit": "adamah",
+      "gloss": "ground",
+      "strongs": "H127"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "blood",
+      "other": "דמ"
+    },
+    {
+      "en": "dam",
+      "other": "דם"
+    },
+    {
+      "en": "adam",
+      "other": "אדם"
+    },
+    {
+      "en": "adamah",
+      "other": "אדמה"
+    },
+    {
+      "en": "ground",
+      "other": "אדמ"
+    }
+  ],
+  "letters": [
+    {
+      "lang": "he",
+      "letter": "alef",
+      "char": "א",
+      "value": 1,
+      "meaning": "added to dam (blood) to form adam (man)"
+    },
+    {
+      "lang": "he",
+      "letter": "he",
+      "char": "ה",
+      "value": 5,
+      "meaning": "added to adam (man) to form adamah (ground)"
+    }
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "God",
+      "Cain",
+      "Abel",
+      "Adam"
+    ],
+    "places": [],
+    "events": [
+      "Murder of Abel"
+    ],
+    "things": [
+      "ground",
+      "earth",
+      "soil"
+    ],
+    "themes": [
+      "blood",
+      "death",
+      "Hebrew word connections",
+      "mankind"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "adamah",
+    "ground",
+    "earth",
+    "soil",
+    "adam",
+    "man",
+    "dam",
+    "blood",
+    "from the ground",
+    "Hebrew word play",
+    "Hebrew roots",
+    "dust of the ground",
+    "Genesis 4",
+    "Genesis 4:10"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

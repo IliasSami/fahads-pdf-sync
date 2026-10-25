@@ -1,0 +1,308 @@
+{
+ "id": "genesis-1-1-part-2/131",
+ "kinds": [
+  "letters",
+  "gematria"
+ ],
+ "title": "El (God) and YHWH: lamed and alef each equal 26",
+ "summary": "Shows that the Hebrew letter lamed (ל) is built from a kaph (20) with a vav (6) on top, and alef (א) from a diagonal vav (6) and two yods (10 + 10), so each equals 26, the same number as yahweh (יהוה). 'el' (אל) is labelled God.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "el"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "א ל"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "God"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The lamed ל is composed of a kaph כ with a vav ו on top."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The alef א is composed of a diagonal vav ו and 2 י י."
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "כ kaf Kh, 20 Open Palm"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "ו vav V,O,W 6 Nail"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "ו vav V,O,W 6 Nail"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "י yod I,Y 10 Hand"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "lamed ל = כ with ו on top = 6 over 20"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "alef א = ו with י י = 10 6 10 (yod 10, vav 6, yod 10)"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "ל = 26"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "א = 26"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "translit",
+   "role": "number",
+   "text": "yahweh = 26"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אל",
+   "translit": "el",
+   "gloss": "God",
+   "strongs": "H410"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the LORD (YHWH)",
+   "strongs": "H3068",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     10,
+     5,
+     6,
+     5
+    ],
+    "total": 26
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "el",
+   "other": "אל"
+  },
+  {
+   "en": "lamed",
+   "other": "ל"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "kaph",
+   "other": "כ"
+  },
+  {
+   "en": "vav",
+   "other": "ו"
+  },
+  {
+   "en": "yod",
+   "other": "י"
+  },
+  {
+   "en": "yahweh",
+   "other": "יהוה"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "on this slide: composed of a kaph (20) with a vav (6) on top = 26"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "on this slide: composed of a diagonal vav (6) and two yods (10 + 10) = 26"
+  },
+  {
+   "lang": "he",
+   "letter": "kaph",
+   "char": "כ",
+   "value": 20,
+   "meaning": "open palm"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "nail"
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "hand"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 26,
+   "note": "value the slide gives for lamed, for alef, and for yahweh (יהוה)"
+  },
+  {
+   "value": 20,
+   "note": "kaph (open palm)"
+  },
+  {
+   "value": 6,
+   "note": "vav (nail)"
+  },
+  {
+   "value": 10,
+   "note": "yod (hand)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Small black ancient pictograph of an open palm with raised fingers, beside 'Open Palm' for the letter kaph.",
+   "subjects": [
+    "open palm",
+    "kaph pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.33,
+    0.36,
+    0.37,
+    0.43
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Small ancient pictograph of a nail (a Y-shaped head on a stem above a short line), beside 'Nail' for the letter vav (left column).",
+   "subjects": [
+    "nail",
+    "vav pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.33,
+    0.45,
+    0.36,
+    0.52
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Small ancient pictograph of a nail (a Y-shaped head on a stem above a short line), beside 'Nail' for the letter vav (right column).",
+   "subjects": [
+    "nail",
+    "vav pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.73,
+    0.34,
+    0.77,
+    0.41
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Small ancient pictograph of a forearm and hand over a thick line, beside 'Hand' for the letter yod.",
+   "subjects": [
+    "hand",
+    "arm",
+    "yod pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.73,
+    0.43,
+    0.78,
+    0.49
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Hebrew letter meanings",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "El",
+  "God",
+  "YHWH",
+  "yahweh",
+  "Tetragrammaton",
+  "26",
+  "gematria 26",
+  "lamed",
+  "alef",
+  "aleph",
+  "kaph",
+  "vav",
+  "waw",
+  "yod",
+  "open palm",
+  "nail",
+  "hand",
+  "letters of the Hebrew alphabet",
+  "Hebrew letter meanings"
+ ],
+ "uncertain": [
+  "The letter values for lamed (30) and alef (1) are the standard values; the slide itself only shows each letter's component values and the total 26."
+ ],
+ "confidence": 0.9
+}

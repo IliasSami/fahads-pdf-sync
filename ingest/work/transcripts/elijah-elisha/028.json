@@ -1,0 +1,144 @@
+{
+ "id": "elijah-elisha/28",
+ "kinds": [
+  "word-study"
+ ],
+ "title": "Repentance = Return; Sabbath = Covenant + Return",
+ "summary": "Same layout as the previous slide, with the word under Sabbath changed from 'Cross' to 'Covenant' (red, linked to the final letter ת of שבת) and 'Return' in gold (linked to שב).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Repentance"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "teshuva"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תשובה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Return"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Sabbath"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shabbat"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שבת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "Sabbath"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Covenant"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Return"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תשובה",
+   "translit": "teshuva",
+   "gloss": "repentance, return",
+   "strongs": "H8666"
+  },
+  {
+   "lang": "he",
+   "word": "שבת",
+   "translit": "shabbat",
+   "gloss": "Sabbath",
+   "strongs": "H7676"
+  },
+  {
+   "lang": "he",
+   "word": "שב",
+   "translit": "shav",
+   "gloss": "return",
+   "strongs": "H7725"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "shuv",
+   "other": "שוב"
+  },
+  {
+   "en": "shabb",
+   "other": "שב"
+  },
+  {
+   "en": "Covenant",
+   "other": "ת"
+  },
+  {
+   "en": "Return",
+   "other": "שב"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "covenant (colour-linked to the word 'Covenant' on this slide)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "repentance",
+   "Sabbath",
+   "covenant",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "repentance",
+  "teshuva",
+  "Sabbath",
+  "shabbat",
+  "covenant",
+  "tav",
+  "return",
+  "shuv",
+  "Sabbath covenant return",
+  "Hebrew letter tav",
+  "sign of the covenant",
+  "שבת"
+ ],
+ "uncertain": [
+  "The slide only colour-codes ת (red, 'Covenant') and שב (gold, 'Return'); it does not spell out the connection in words."
+ ],
+ "confidence": 0.93
+}

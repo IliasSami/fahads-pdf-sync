@@ -1,0 +1,59 @@
+{
+  "id": "akeda-1/21",
+  "kinds": ["word-study", "letters"],
+  "title": "Isaiah 7:14 — the sign (אות, oat): alef = God, vav = nail, tav = cross",
+  "summary": "Opens Isaiah 7:14 ('the Lord himself shall give you a sign') and takes apart the Hebrew word for sign, אות (oat), letter by letter with ancient pictographs: alef = God, vav = nail, tav = cross, summed up as 'God nailed to cross.'",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Isaiah 7:14", "osis": "Isa.7.14"},
+    {"lang": "he", "role": "reference", "text": "ישעה ז:יד"},
+    {"lang": "en", "role": "verse", "osis": "Isa.7.14", "text": "14 Therefore adonai himself shall give you a sign;…"},
+    {"lang": "he", "role": "verse", "osis": "Isa.7.14", "text": "לכן יתן אדני הוא לכם אות …"},
+    {"lang": "en", "role": "label", "text": "Sign ↔ א ו ת ↔ oat"},
+    {"lang": "translit", "role": "label", "text": "alef"},
+    {"lang": "he", "role": "label", "text": "א"},
+    {"lang": "en", "role": "label", "text": "God"},
+    {"lang": "translit", "role": "label", "text": "vav"},
+    {"lang": "he", "role": "label", "text": "ו"},
+    {"lang": "en", "role": "label", "text": "nail"},
+    {"lang": "translit", "role": "label", "text": "tav"},
+    {"lang": "he", "role": "label", "text": "ת"},
+    {"lang": "en", "role": "label", "text": "cross"},
+    {"lang": "translit", "role": "label", "text": "o a t"},
+    {"lang": "he", "role": "label", "text": "א ו ת"},
+    {"lang": "en", "role": "body", "text": "God nailed to cross."}
+  ],
+  "refs": [{"shown": "Isaiah 7:14 / ישעה ז:יד", "osis": ["Isa.7.14"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "אות", "translit": "oat (ot)", "gloss": "sign", "strongs": "H226"},
+    {"lang": "he", "word": "אדני", "translit": "adonai", "gloss": "Lord", "strongs": "H136"}
+  ],
+  "color_links": [
+    {"en": "adonai", "other": "אדני"},
+    {"en": "sign", "other": "אות"},
+    {"en": "Sign", "other": "אות"},
+    {"en": "oat", "other": "אות"},
+    {"en": "o", "other": "א"},
+    {"en": "a", "other": "ו"},
+    {"en": "t", "other": "ת"},
+    {"en": "alef", "other": "א"},
+    {"en": "vav", "other": "ו"},
+    {"en": "tav", "other": "ת"},
+    {"en": "God", "other": "א"},
+    {"en": "nail", "other": "ו"},
+    {"en": "cross", "other": "ת"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": "God (ox-head pictograph)"},
+    {"lang": "he", "letter": "vav", "char": "ו", "value": 6, "meaning": "nail (hook pictograph)"},
+    {"lang": "he", "letter": "tav", "char": "ת", "value": 400, "meaning": "cross (crossed-sticks pictograph)"}
+  ],
+  "numbers": [],
+  "pictures": [
+    {"type": "pictograph", "description": "Three ancient (paleo-)Hebrew pictograph letters, each underlined in the colour of its letter: an ox head (alef), a hook or nail (vav) and a cross-shaped mark (tav), listed beside the words God, nail and cross.", "subjects": ["paleo-Hebrew alphabet", "pictographs", "ox head", "nail", "cross", "ancient Hebrew letters"], "text_in_picture": "", "credit": null, "box": [0.29, 0.68, 0.36, 0.93]},
+    {"type": "pictograph", "description": "A row of the same three pictographs (cross, nail, ox head) underlined in red, green and blue, shown under the letters ת ו א and the transliteration o a t, above the caption 'God nailed to cross.'", "subjects": ["paleo-Hebrew alphabet", "pictographs", "cross", "nail", "ox head"], "text_in_picture": "", "credit": null, "box": [0.6, 0.75, 0.76, 0.83]}
+  ],
+  "entities": {"people": ["God", "Jesus"], "places": [], "events": ["Crucifixion"], "things": ["cross", "nail"], "themes": ["messianic prophecy", "Hebrew letter meanings", "names of God", "virgin birth", "Hebrew letters"], "groups": []},
+  "keywords": ["Isaiah 7:14", "oat", "ot", "sign", "אות", "alef vav tav", "God nailed to cross", "nail", "cross", "tav", "pictographs", "paleo-Hebrew", "Lord himself shall give you a sign", "adonai", "Isaiah 7"],
+  "uncertain": ["The Hebrew reference heading spells the book ישעה as on the slide.", "The slide's Hebrew line ends with an ellipsis (…) after the word אות."],
+  "confidence": 0.93
+}

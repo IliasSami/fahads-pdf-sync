@@ -1,0 +1,24 @@
+{
+  "id": "genesis-1-1-wisdom/5",
+  "kinds": ["verse"],
+  "title": "1 Kings 3:12 — God gives Solomon a wise and understanding heart",
+  "summary": "1 Kings 3:12 in English and Hebrew: God says He has given a wise and understanding heart, so that none has been like him before and none shall arise like him after.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "1 Kings 3:12", "osis": "1Kgs.3.12"},
+    {"lang": "he", "role": "reference", "text": "מלכים א ג:יב"},
+    {"lang": "en", "role": "verse", "osis": "1Kgs.3.12", "text": "12 Behold, I have done according to your words; see, I have given you a wise and understanding heart, so that there has not been anyone like you before you, nor shall any like you arise after you."},
+    {"lang": "he", "role": "verse", "osis": "1Kgs.3.12", "text": "12 הנה עשיתי כדבריך הנה נתתי לך לב חכם ונבון אשר כמוך לא היה לפניך ואחריך לא יקום כמוך׃"}
+  ],
+  "refs": [{"shown": "1 Kings 3:12 / מלכים א ג:יב", "osis": ["1Kgs.3.12"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "לב חכם ונבון", "translit": "lev chakham ve-navon", "gloss": "a wise and understanding heart", "strongs": "H2450"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Solomon"], "places": [], "events": [], "things": ["heart"], "themes": ["wisdom", "understanding"], "groups": []},
+  "keywords": ["1 Kings 3", "Solomon's wisdom", "wise and understanding heart", "wise heart", "understanding heart", "none like thee", "wisest man", "King Solomon", "wisdom", "chakham"],
+  "uncertain": [],
+  "confidence": 0.95
+}

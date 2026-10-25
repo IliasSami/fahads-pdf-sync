@@ -1,0 +1,364 @@
+{
+ "id": "noah-part-1/77",
+ "kinds": [
+  "genealogy",
+  "word-study"
+ ],
+ "title": "Enoch to the Flood: Methuselah, Lamech, Noah, Shem, Ham, Japheth and ages at death",
+ "summary": "Continuation of the line of descent: Enoch (Teaching, raptured at 365), Methuselah (His death shall bring, died 969, seven days before the flood), Lamech (The despairing), Noah (Rest, starts the ark, died 950) and his sons Shem (Name), Ham and Japheth, with colour-coded arrows and ages (182, 187, 369, 500, 869, 600, 100) and 'THE FLOOD' paired with the Hebrew word המבול.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "162 ⇘ ⇒ Enoch ="
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ח נ י ך"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "= Teaching"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "⇙ ⇙ 65"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Enoch was Raptured at 365"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Methuselah ="
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ ת ו ש ל ח"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "= His death shall bring"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "⇙ ⇙ 182          ↓↓ 182"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Lamech ="
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ל מ ך"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "= The despairing"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "⇙ ⇙ 187          ↓↓ 369"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Noah ="
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "נ ח"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "= Rest"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "⇙ 500 ⇘ ⇘          ↓↓ 869"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "⇙ Noah starts ark"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Shem ="
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש ם"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "= Name"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Ham ="
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ח ם"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "&"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Japheth ="
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י פ ת"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "d.777     100 ⇘     600     100 ⇓     ↓↓     ⇙ 100"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "(7 days before flood)     d.969"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "THE FLOOD ↔"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה מ ב ו ל"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "d.950"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חניך",
+   "translit": "chanikh",
+   "gloss": "Teaching (Enoch), spelled with yod on the slide",
+   "strongs": "H2585"
+  },
+  {
+   "lang": "he",
+   "word": "מתושלח",
+   "translit": "metushelach",
+   "gloss": "His death shall bring (Methuselah)",
+   "strongs": "H4968"
+  },
+  {
+   "lang": "he",
+   "word": "למך",
+   "translit": "lemekh",
+   "gloss": "The despairing (Lamech)",
+   "strongs": "H3929"
+  },
+  {
+   "lang": "he",
+   "word": "נח",
+   "translit": "noach",
+   "gloss": "Rest (Noah)",
+   "strongs": "H5146"
+  },
+  {
+   "lang": "he",
+   "word": "שם",
+   "translit": "shem",
+   "gloss": "Name (Shem)",
+   "strongs": "H8035"
+  },
+  {
+   "lang": "he",
+   "word": "חם",
+   "translit": "cham",
+   "gloss": "Ham",
+   "strongs": "H2526"
+  },
+  {
+   "lang": "he",
+   "word": "יפת",
+   "translit": "yefet",
+   "gloss": "Japheth",
+   "strongs": "H3315"
+  },
+  {
+   "lang": "he",
+   "word": "המבול",
+   "translit": "hamabbul",
+   "gloss": "the Flood",
+   "strongs": "H3999"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Enoch",
+   "other": "חניך"
+  },
+  {
+   "en": "Methuselah",
+   "other": "מתושלח"
+  },
+  {
+   "en": "Lamech",
+   "other": "למך"
+  },
+  {
+   "en": "Noah",
+   "other": "נח"
+  },
+  {
+   "en": "Shem",
+   "other": "שם"
+  },
+  {
+   "en": "Ham",
+   "other": "חם"
+  },
+  {
+   "en": "Japheth",
+   "other": "יפת"
+  },
+  {
+   "en": "THE FLOOD",
+   "other": "המבול"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 162,
+   "note": "Jared's age when Enoch was born (as shown)"
+  },
+  {
+   "value": 65,
+   "note": "Enoch's age when Methuselah was born (as shown)"
+  },
+  {
+   "value": 365,
+   "note": "age at which Enoch was raptured"
+  },
+  {
+   "value": 182,
+   "note": "number shown between Methuselah and Lamech (in two places)"
+  },
+  {
+   "value": 187,
+   "note": "number shown between Lamech and Noah"
+  },
+  {
+   "value": 369,
+   "note": "number shown beside Lamech/Noah, in light green"
+  },
+  {
+   "value": 500,
+   "note": "Noah's age when his sons were born (as shown)"
+  },
+  {
+   "value": 869,
+   "note": "light-green number beside 'Noah starts ark'"
+  },
+  {
+   "value": 600,
+   "note": "Noah's age at the flood (blue)"
+  },
+  {
+   "value": 100,
+   "note": "number shown beside Shem, Ham and Japheth (three times)"
+  },
+  {
+   "value": 777,
+   "note": "Lamech died aged 777"
+  },
+  {
+   "value": 969,
+   "note": "Methuselah died aged 969, seven days before the flood"
+  },
+  {
+   "value": 950,
+   "note": "Noah died aged 950"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Enoch",
+   "Methuselah",
+   "Lamech",
+   "Noah",
+   "Shem",
+   "Ham",
+   "Japheth",
+   "Jared"
+  ],
+  "places": [],
+  "events": [
+   "Rapture of Enoch",
+   "the Flood"
+  ],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "genealogy",
+   "death",
+   "meaning of names"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Methuselah died 969",
+  "Methuselah died before the flood",
+  "Enoch raptured at 365",
+  "Noah starts ark",
+  "Noah 600 years old flood",
+  "Noah died 950",
+  "Lamech 777",
+  "Shem Ham Japheth meaning",
+  "Shem means Name",
+  "Noah means Rest",
+  "Lamech the despairing",
+  "his death shall bring",
+  "mabbul",
+  "the flood Hebrew",
+  "ages of the patriarchs",
+  "genealogy Adam to Noah",
+  "Genesis 5"
+ ],
+ "uncertain": [
+  "Enoch's Hebrew is shown as ח נ י ך (with yod), as on the previous slide. The slide places 182 between Methuselah and Lamech and 187 between Lamech and Noah; Genesis 5:25 and 5:28 give Methuselah 187 at Lamech's birth and Lamech 182 at Noah's birth. Transcribed as shown. The meaning of '100' beside Shem/Ham/Japheth and of the double arrows is not labelled on the slide."
+ ],
+ "confidence": 0.88
+}

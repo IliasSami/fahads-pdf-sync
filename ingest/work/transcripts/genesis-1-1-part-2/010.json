@@ -1,0 +1,150 @@
+{
+ "id": "genesis-1-1-part-2/10",
+ "kinds": [
+  "word-study",
+  "letters"
+ ],
+ "title": "The first and last letters of the Bible spell ben (Son)",
+ "summary": "Says the first and last letters of the Bible spell \"ben\" (בן, Son): a red Greek ν marked with a cross and a Hebrew ב marked with a Star of David join to make בן. Alef (blue) and tav (dark red) sit above the words First and Last. Ends with \"To God be the Glory!\"",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The First and Last letters of the Bible spell:"
+  },
+  {
+   "lang": "el",
+   "role": "label",
+   "text": "ν"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בן"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ben"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Son"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "To God be the Glory!"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בן",
+   "translit": "ben",
+   "gloss": "son",
+   "strongs": "H1121"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "First",
+   "other": "א"
+  },
+  {
+   "en": "Last",
+   "other": "ת"
+  },
+  {
+   "en": "Son",
+   "other": "בן"
+  },
+  {
+   "en": "ben",
+   "other": "בן"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "first letter of the Bible (shown with a Star of David marker)"
+  },
+  {
+   "lang": "el",
+   "letter": "nu",
+   "char": "ν",
+   "value": 50,
+   "meaning": "last letter of the Bible (shown with a cross marker); sounds as final nun ן to make בן"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "first (above the word First)"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last (above the word Last)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "messianic prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "first and last letters of the Bible",
+  "ben",
+  "son",
+  "bet",
+  "nun",
+  "nu",
+  "Greek nu",
+  "Son of God",
+  "To God be the Glory",
+  "alef and tav",
+  "alpha and omega",
+  "Old and New Testament",
+  "Genesis and Revelation",
+  "Hebrew letter meanings"
+ ],
+ "uncertain": [
+  "The red ν is read as the Greek letter nu (taken as the last letter of the Greek New Testament); the slide itself does not name it."
+ ],
+ "confidence": 0.9
+}

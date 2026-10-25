@@ -1,0 +1,100 @@
+{
+ "id": "akeda-2/107",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Genesis 8:8-9 — the first dove: hovers, but no rest",
+ "summary": "Genesis 8:8-9 quoted in English with Hebrew reference: Noah sends out a dove, it finds nowhere to perch and returns to him in the ark. The slide concludes \"1st DOVE: Hovers, but No Rest\". The words dove, Noah and ark are highlighted.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:8-9",
+   "osis": [
+    "Gen.8.8",
+    "Gen.8.9"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "1st DOVE"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:ח-ט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": [
+    "Gen.8.8"
+   ],
+   "text": "8 Then he sent out a dove to see if the water had receded from the surface of the ground."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": [
+    "Gen.8.9"
+   ],
+   "text": "9 But the dove could find nowhere to perch because there was water over all the surface of the earth; so it returned to Noah in the ark. He reached out his hand and took the dove and brought it back to himself in the ark."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "1st DOVE : Hovers, but No Rest"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:8-9 / בראשית ח:ח-ט",
+   "osis": [
+    "Gen.8.8",
+    "Gen.8.9"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "dove",
+   "ark"
+  ],
+  "themes": [
+   "typology",
+   "holy spirit",
+   "rest"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 8:8",
+  "Genesis 8:9",
+  "Noah's dove",
+  "first dove",
+  "dove sent out from the ark",
+  "no rest for the sole of her foot",
+  "found no place to perch",
+  "hovers but no rest",
+  "Noah's ark",
+  "the flood",
+  "dove as Holy Spirit"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

@@ -1,0 +1,193 @@
+{
+ "id": "noah-part-2/131",
+ "kinds": [
+  "verse",
+  "word-study",
+  "letters"
+ ],
+ "title": "Isaiah 52:10 — salvation (yeshuat) = yeshua + tav (the cross)",
+ "summary": "Isaiah 52:10 in Hebrew and English with 'Salvation' (ישועת, yeshuat) and 'our God' picked out in colour. Below, arrows divide ישועת into yeshua (four arrows) and the letter tav, shown as a red cross.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Isaiah 52:10",
+   "osis": "Isa.52.10"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ישעיה נב:י"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Isa.52.10",
+   "text": "10 חשף יהוה את־זרוע קדשו לעיני כל־הגוים וראו כל־אפסי־ארץ את ישועת אלהינו׃"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Isa.52.10",
+   "text": "10 The LORD has bared His holy arm in the sight of all the nations, that all the ends of the earth may see the Salvation of our God."
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yeshuat"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ישועת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Salvation"
+  },
+  {
+   "lang": "other",
+   "role": "label",
+   "text": "⇙ ⇘ ⇘ ⇘ ⇘"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tav † yeshua"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Isaiah 52:10 / ישעיה נב:י",
+   "osis": [
+    "Isa.52.10"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ישועת",
+   "translit": "yeshuat",
+   "gloss": "salvation",
+   "strongs": "H3444"
+  },
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Yeshua (the first four letters of ישועת)",
+   "strongs": "H3442"
+  },
+  {
+   "lang": "he",
+   "word": "ת",
+   "translit": "tav",
+   "gloss": "the letter tav, shown as a cross",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the LORD",
+   "strongs": "H3068"
+  },
+  {
+   "lang": "he",
+   "word": "אלהינו",
+   "translit": "eloheinu",
+   "gloss": "our God",
+   "strongs": "H430"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Salvation",
+   "other": "ישועת"
+  },
+  {
+   "en": "yeshuat",
+   "other": "ישועת"
+  },
+  {
+   "en": "L (LORD)",
+   "other": "י"
+  },
+  {
+   "en": "R (LORD)",
+   "other": "ו"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "cross (shown as †)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "symbol",
+   "description": "A red Latin cross (†) placed after the word 'tav', showing the Hebrew letter tav as a cross, in the line 'tav † yeshua'.",
+   "subjects": [
+    "cross",
+    "tav",
+    "symbol",
+    "red cross"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.35,
+    0.84,
+    0.48,
+    0.97
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "cross"
+  ],
+  "themes": [
+   "salvation",
+   "names of God",
+   "Hebrew letter meanings"
+  ],
+  "groups": [
+   "nations"
+  ]
+ },
+ "keywords": [
+  "Isaiah 52:10",
+  "yeshuat",
+  "yeshua",
+  "salvation",
+  "Yeshua",
+  "tav cross",
+  "tav is a cross",
+  "bared His holy arm",
+  "made bare his holy arm",
+  "all the ends of the earth",
+  "salvation of our God",
+  "all the nations",
+  "Isaiah 52",
+  "ישועה"
+ ],
+ "uncertain": [
+  "Colour split of 'our God' (red, gold, blue) and of אלהינו (blue, red, gold) is not paired letter by letter."
+ ],
+ "confidence": 0.93
+}

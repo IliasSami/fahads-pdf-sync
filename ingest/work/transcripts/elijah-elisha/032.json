@@ -1,0 +1,156 @@
+{
+ "id": "elijah-elisha/32",
+ "kinds": [
+  "word-study",
+  "letters"
+ ],
+ "title": "Elijah appears 71 times in the Tanakh (Old Testament)",
+ "summary": "Same Elijah name header (English, Hebrew אליהו, eliyahu and the letters vav he yod lamed alef), now with the statement that Elijah appears 71 times in the tanakh, which the slide equates with the Old Testament.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Elijah"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "אליהו"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "eliyahu"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "vav he yod lamed alef"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Elijah"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Appears"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "71 Times"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "in the tanakh"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "(Old Testament)"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אליהו",
+   "translit": "eliyahu",
+   "gloss": "Elijah",
+   "strongs": "H452"
+  },
+  {
+   "lang": "other",
+   "word": "tanakh",
+   "translit": "tanakh",
+   "gloss": "the Hebrew Bible (Old Testament)",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Elijah",
+   "other": "אליהו"
+  },
+  {
+   "en": "eliyahu",
+   "other": "אליהו"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 71,
+   "note": "number of times Elijah appears in the Tanakh (Old Testament)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "Tanakh"
+  ],
+  "themes": [
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Elijah",
+  "71 times",
+  "how many times Elijah appears",
+  "Elijah in the Old Testament",
+  "tanakh",
+  "Eliyahu",
+  "אליהו",
+  "Elijah occurrences",
+  "Hebrew Bible",
+  "name count",
+  "Elijah and Elisha"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

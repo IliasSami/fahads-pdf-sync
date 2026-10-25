@@ -1,0 +1,153 @@
+{
+ "id": "noah-part-1/46",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 6:14 — ha'tebah, the ark, appears 22 times in 21 Noah verses",
+ "summary": "Genesis 6:14 in English and Hebrew with the ark highlighted in red, and the Hebrew word ha'tebah (התבה, 'the ark') singled out. The slide states that it appears 22 times in 21 Noah verses and once elsewhere.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:14",
+   "osis": "Gen.6.14"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "14 “Make for yourself an ark of gopher wood; you shall make the ark with rooms, and shall cover it inside and out with pitch.",
+   "osis": "Gen.6.14"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "14 עשה לך תבת עצי־גפר קנים תעשה",
+   "osis": "Gen.6.14"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "את־התבה וכפרת אתה מבית ומחוץ בכפר׃",
+   "osis": "Gen.6.14"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "The ark"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ha’tebah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "התבה"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Appears 22 times in 21 Noah verses and once elsewhere."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:14 / בראשית ו:יד",
+   "osis": [
+    "Gen.6.14"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תבת",
+   "translit": "tevat",
+   "gloss": "ark (of)",
+   "strongs": "H8392"
+  },
+  {
+   "lang": "he",
+   "word": "התבה",
+   "translit": "ha’tebah",
+   "gloss": "the ark",
+   "strongs": "H8392"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "ark",
+   "other": "תבת"
+  },
+  {
+   "en": "The ark",
+   "other": "התבה"
+  },
+  {
+   "en": "ha’tebah",
+   "other": "התבה"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 22,
+   "note": "times ha'tebah (the ark) appears"
+  },
+  {
+   "value": 21,
+   "note": "Noah verses in which it appears"
+  },
+  {
+   "value": 1,
+   "note": "other occurrence elsewhere"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "gopher wood",
+   "pitch"
+  ],
+  "themes": [
+   "gematria",
+   "redemption"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 6:14",
+  "ha'tebah",
+  "hatebah",
+  "tebah",
+  "teva",
+  "the ark",
+  "ark appears 22 times",
+  "22 times",
+  "21 Noah verses",
+  "Noah's ark",
+  "gopher wood",
+  "התבה"
+ ],
+ "uncertain": [
+  "Small arrows above the letters of התבה (one black, two red) are not explained on the slide."
+ ],
+ "confidence": 0.93
+}

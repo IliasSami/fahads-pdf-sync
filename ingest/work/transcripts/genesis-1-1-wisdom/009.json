@@ -1,0 +1,110 @@
+{
+  "id": "genesis-1-1-wisdom/9",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Psalm 49:3 — “mouth”: peh (פה)",
+  "summary": "Psalm 49:3 with “mouth” and the Hebrew פ of פי highlighted in purple, explained by the word peh (פה), Mouth.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Psalm 49:3",
+      "osis": "Ps.49.3"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "תהילים מט:ג"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Ps.49.3",
+      "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "osis": "Ps.49.3",
+      "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "peh"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "פה"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Mouth"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Psalm 49:3 / תהילים מט:ג",
+      "osis": [
+        "Ps.49.3"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "פה",
+      "translit": "peh",
+      "gloss": "mouth",
+      "strongs": "H6310"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "mouth",
+      "other": "פ"
+    },
+    {
+      "en": "Mouth",
+      "other": "פה"
+    },
+    {
+      "en": "peh",
+      "other": "פה"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "things": [
+      "mouth",
+      "heart"
+    ],
+    "themes": [
+      "wisdom",
+      "speech"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "peh",
+    "pe",
+    "mouth",
+    "Hebrew word for mouth",
+    "Psalm 49",
+    "my mouth shall speak wisdom",
+    "speech",
+    "wisdom"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

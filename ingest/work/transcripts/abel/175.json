@@ -1,0 +1,99 @@
+{
+  "id": "abel/175",
+  "kinds": [
+    "verse"
+  ],
+  "title": "1 John 3:12 and Luke 23:47 — Cain's evil deeds, a righteous man",
+  "summary": "1 John 3:12 (Cain murdered his brother because his deeds were evil and his brother's righteous) shown above Luke 23:47, where the centurion gave glory to God and said \"Surely this was a righteous man.\"",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "1 John 3:12",
+      "osis": "1John.3.12"
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "Ἰωάνης A 3:12"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "1John.3.12",
+      "text": "12 Do not be like Cain, who belonged to the evil one and murdered his brother. And why did Cain slay him? Because his own deeds were evil, while those of his brother were righteous."
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Luke 23:47",
+      "osis": "Luke.23.47"
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "ΛΟΥΚΑΝ 23:47"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Luke.23.47",
+      "text": "47 When the centurion saw what had happened, he gave glory to God, saying, “Surely this was a righteous man.”"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "1 John 3:12 / Ἰωάνης A 3:12",
+      "osis": [
+        "1John.3.12"
+      ],
+      "role": "quoted"
+    },
+    {
+      "shown": "Luke 23:47 / ΛΟΥΚΑΝ 23:47",
+      "osis": [
+        "Luke.23.47"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Cain",
+      "Abel",
+      "God"
+    ],
+    "places": [],
+    "events": [
+      "Crucifixion"
+    ],
+    "things": [],
+    "themes": [
+      "righteousness",
+      "sin"
+    ],
+    "groups": [
+      "centurion"
+    ]
+  },
+  "keywords": [
+    "1 John 3:12",
+    "Luke 23:47",
+    "centurion",
+    "surely this was a righteous man",
+    "certainly this was a righteous man",
+    "gave glory to God",
+    "do not be like Cain",
+    "Cain slew his brother",
+    "righteous",
+    "crucifixion",
+    "Roman centurion at the cross"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

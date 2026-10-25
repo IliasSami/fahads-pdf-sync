@@ -1,0 +1,186 @@
+{
+ "id": "gods-garden-in-eden/20",
+ "kinds": [
+  "verse",
+  "word-study",
+  "letters"
+ ],
+ "title": "Genesis 5:1 (After the Fall) — toledoth missing its vav, lacking upright man",
+ "summary": "Genesis 5:1 labelled 'After the Fall', in English and Hebrew, with תולדת (toledoth, generations) spelled with only one vav, and Adam, man and God colour-matched to אדם and אלהים. The slide notes the missing vav ו and reads it as 'Lacking Upright Man'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 5:1",
+   "osis": "Gen.5.1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "After the Fall"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ה:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.5.1",
+   "text": "1 This is the book of the ת ו ל ד ת generations of Adam."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.5.1",
+   "text": "In the day when God created man,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.5.1",
+   "text": "He made him in the likeness of God."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.5.1",
+   "text": "1 זה ספר תולדת אדם"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.5.1",
+   "text": "ביום ברא אלהים אדם"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.5.1",
+   "text": "בדמות אלהים עשה אתו׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "toledoth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תולד ת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "generations"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "Missing vav ו → Lacking Upright Man"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 5:1 / בראשית ה:א",
+   "osis": [
+    "Gen.5.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תולדת",
+   "translit": "toledoth",
+   "gloss": "generations (spelled without the second vav)",
+   "strongs": "H8435"
+  },
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "Adam / man",
+   "strongs": "H120"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Adam",
+   "other": "אדם"
+  },
+  {
+   "en": "man",
+   "other": "אדם"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "generations",
+   "other": "תולדת"
+  },
+  {
+   "en": "toledoth",
+   "other": "תולדת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "nail; upright man; missing from תולדת here"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Fall of Man",
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "generations (toledoth)",
+   "genealogy",
+   "Hebrew letter meanings",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 5:1",
+  "book of the generations of Adam",
+  "After the Fall",
+  "toledoth",
+  "toledot",
+  "missing vav",
+  "lacking upright man",
+  "likeness of God",
+  "created man",
+  "Adam",
+  "vav",
+  "Hebrew word study"
+ ],
+ "uncertain": [
+  "Bottom Hebrew label תולד ת shows a gap before the final ת; the slide's arrow points to that spot."
+ ],
+ "confidence": 0.93
+}

@@ -1,0 +1,132 @@
+{
+ "id": "noah-part-1/54",
+ "kinds": [
+  "word-study",
+  "list"
+ ],
+ "title": "Genesis 6:14 — kopher means pitch (1st use) and village (1 use)",
+ "summary": "Shows the Hebrew word כפר (kopher) with two meanings: Pitch, marked as its 1st use, and Village, marked as 1 use.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:14",
+   "osis": "Gen.6.14"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יד"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kopher"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כפר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Pitch"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "1st Use"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kopher"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כפר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Village"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "1 Use"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:14 / בראשית ו:יד",
+   "osis": [
+    "Gen.6.14"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "כפר",
+   "translit": "kopher",
+   "gloss": "pitch (1st use)",
+   "strongs": "H3724",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "כפר",
+   "translit": "kopher",
+   "gloss": "village (1 use)",
+   "strongs": "H3724",
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "kopher as pitch is its 1st use (Genesis 6:14)"
+  },
+  {
+   "value": 1,
+   "note": "number of uses of kopher meaning village"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "pitch",
+   "village",
+   "ark"
+  ],
+  "themes": [
+   "atonement"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "kopher",
+  "kofer",
+  "pitch",
+  "village",
+  "kfar",
+  "first use",
+  "Genesis 6:14",
+  "Hebrew word meanings",
+  "kaphar",
+  "ark pitch"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

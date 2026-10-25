@@ -1,0 +1,139 @@
+{
+ "id": "noah-part-2/65",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Isaiah 11:1 — the Branch (netzer) from the roots of Jesse",
+ "summary": "Isaiah 11:1 in English and Hebrew: a rod comes out of the stem of Jesse and a Branch grows out of his roots. The Hebrew word נצר (netzer) is picked out and translated 'Branch', with the 'and' (ו) of ונצר underlined.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Isaiah 11:1",
+   "osis": "Isa.11.1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Branch"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ישעיה יא:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Isa.11.1",
+   "text": "1 And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots:"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Isa.11.1",
+   "text": "ויצא חטר מגזע ישי ונצר משרשיו יפרה׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Branch"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "נצר"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "netzer"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Isaiah 11:1 / ישעיה יא:א",
+   "osis": [
+    "Isa.11.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "נצר",
+   "translit": "netzer",
+   "gloss": "branch, sprout",
+   "strongs": "H5342"
+  },
+  {
+   "lang": "he",
+   "word": "ישי",
+   "translit": "Yishai",
+   "gloss": "Jesse",
+   "strongs": "H3448"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Jesse",
+   "other": "ישי"
+  },
+  {
+   "en": "and",
+   "other": "ו"
+  },
+  {
+   "en": "Branch",
+   "other": "נצר"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "'and' (prefix on ונצר, underlined)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesse"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "rod",
+   "branch",
+   "roots"
+  ],
+  "themes": [
+   "messianic prophecy",
+   "prophecy",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Branch",
+  "netzer",
+  "netzer",
+  "Isaiah 11:1",
+  "rod out of the stem of Jesse",
+  "stem of Jesse",
+  "root of Jesse",
+  "messianic branch",
+  "Messiah branch",
+  "shoot",
+  "sprout",
+  "Isaiah 11",
+  "Nazarene"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

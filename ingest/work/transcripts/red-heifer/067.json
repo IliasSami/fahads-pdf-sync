@@ -1,0 +1,174 @@
+{
+ "id": "red-heifer/67",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Joshua 2:21 — scarlet cord in the window; tikvah (cord), shani (scarlet)",
+ "summary": "Joshua 2:21 in English and Hebrew: Rahab ties the scarlet cord in the window. Scarlet (red) and cord (gold) are colour-coded to the Hebrew words השני and תקות, followed by tikvah (תקוה, cord) and shani (שני, scarlet), over a faint red cord in the background.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Joshua 2:21",
+   "osis": "Josh.2.21"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "יהושע ב:כא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Josh.2.21",
+   "text": "21 She said, “According to your words, so be it.” So she sent them away, and they departed; and she tied the scarlet cord in the window."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Josh.2.21",
+   "text": "21 ותאמר כדבריכם כן־הוא ותשלחם וילכו ותקשר את־תקות השני בחלון׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tikvah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תקוה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Cord"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shani"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שני"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Scarlet"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Joshua 2:21 / יהושע ב:כא",
+   "osis": [
+    "Josh.2.21"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תקוה",
+   "translit": "tikvah",
+   "gloss": "cord (also hope)",
+   "strongs": "H8615",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "שני",
+   "translit": "shani",
+   "gloss": "scarlet",
+   "strongs": "H8144",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "cord",
+   "other": "תקות"
+  },
+  {
+   "en": "Cord",
+   "other": "תקוה"
+  },
+  {
+   "en": "tikvah",
+   "other": "תקוה"
+  },
+  {
+   "en": "scarlet",
+   "other": "השני"
+  },
+  {
+   "en": "Scarlet",
+   "other": "שני"
+  },
+  {
+   "en": "shani",
+   "other": "שני"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "illustration",
+   "description": "A faint, translucent pink-red twisted cord winding in waves across the lower half of the slide behind the labels, from the lower left up over the middle and down to the lower right.",
+   "subjects": [
+    "scarlet cord",
+    "red rope",
+    "red thread",
+    "background illustration"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.0,
+    0.55,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Rahab"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "scarlet cord",
+   "window"
+  ],
+  "themes": [
+   "redemption",
+   "hope",
+   "covenant"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Joshua 2:21",
+  "Rahab",
+  "scarlet cord",
+  "tied the scarlet cord in the window",
+  "tikvah",
+  "tiqvah",
+  "cord",
+  "hope",
+  "shani",
+  "scarlet",
+  "red rope",
+  "according to your words so be it"
+ ],
+ "uncertain": [
+  "The slide gives tikvah (תקוה) as the word for 'Cord'; in the verse the Hebrew shows the form תקות, read as the same word."
+ ],
+ "confidence": 0.94
+}

@@ -1,0 +1,96 @@
+{
+ "id": "akeda-2/100",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 24:65-67: Rebekah veils herself and becomes Isaac's wife",
+ "summary": "Genesis 24:65-67 in English: Rebekah asks the servant who the man in the field is, he answers 'He is my master', and she covers herself with her veil; the servant tells Isaac everything, and Isaac brings Rebekah into his mother Sarah's tent, takes her as his wife and loves her, being comforted after his mother's death. 'servant' is highlighted in gold, 'Isaac' and 'his/he' are red, 'master' is underlined and 'Sara' in 'Sarah' is pink. This slide looks identical to the one before it.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 24",
+   "osis": "Gen.24.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כד",
+   "osis": "Gen.24.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "65 She said to the servant, “Who is that man walking in the field to meet us?” And the servant said, “He is my master.” Then she took her veil and covered herself.",
+   "osis": "Gen.24.65"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "66 The servant told Isaac all the things that he had done.",
+   "osis": "Gen.24.66"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "67 Then Isaac brought her into his mother Sarah’s tent, and he took Rebekah, and she became his wife, and he loved her; thus Isaac was comforted after his mother’s death.",
+   "osis": "Gen.24.67"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 24 / בראשית כד",
+   "osis": [
+    "Gen.24.65",
+    "Gen.24.66",
+    "Gen.24.67"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Rebekah",
+   "Isaac",
+   "Sarah",
+   "Eliezer"
+  ],
+  "places": [],
+  "events": [
+   "Finding a bride for Isaac",
+   "Isaac marries Rebekah"
+  ],
+  "things": [
+   "veil",
+   "tent"
+  ],
+  "themes": [
+   "marriage",
+   "love",
+   "comfort",
+   "death"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Isaac marries Rebekah",
+  "Rebekah's veil",
+  "took a vail and covered herself",
+  "Sarah's tent",
+  "he loved her",
+  "comforted after his mother's death",
+  "servant told Isaac",
+  "It is my master",
+  "bride for Isaac",
+  "Rebecca",
+  "Genesis 24",
+  "Genesis 24:67"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

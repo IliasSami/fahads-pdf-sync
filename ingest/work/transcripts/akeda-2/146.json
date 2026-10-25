@@ -1,0 +1,144 @@
+{
+ "id": "akeda-2/146",
+ "kinds": [
+  "code-grid",
+  "word-study"
+ ],
+ "title": "Genesis 22:15-16 letter grid: hidden \"yeshua\" (ישוע)",
+ "summary": "The Genesis 22:15-16 letter grid with a red box around a column of four letters, י ש ו ע, spelling yeshua (ישוע), labelled \"yeshua\" in red. The same column is boxed in the extracted letters on the right, beside the row מלאך יהוה and the blue diagonal box.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22:15-16",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב:יה-יו"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ ל א ך י ה ו ה"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ש ו ע"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yeshua"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:15-16 / בראשית כב:יה-יו",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Yeshua (Jesus)",
+   "strongs": "H3442"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "grid",
+   "description": "Grid of Hebrew letters (the text of Genesis 22:15-16 in rows) with purple מלאך, coloured letters of יהוה, a blue diagonal box, a green rectangle around one row and a tall red rectangle around a vertical column of four letters.",
+   "subjects": [
+    "Bible code",
+    "letter grid",
+    "Hebrew letters",
+    "yeshua",
+    "red box",
+    "green box"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.02,
+    0.15,
+    0.53,
+    0.97
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "Extracted letters on the right: the row מלאך יהוה, blue letters ה ש מ and ס, a blue diagonal box, a green box around ש and י, and a tall red box around the column י ש ו ע, with the red word yeshua below.",
+   "subjects": [
+    "extracted letters",
+    "yeshua",
+    "red box"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.55,
+    0.15,
+    0.98,
+    0.97
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Jesus",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "letter grid"
+  ],
+  "themes": [
+   "Bible codes",
+   "names of God",
+   "messianic prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "yeshua",
+  "Yeshua",
+  "Jesus",
+  "ישוע",
+  "Bible code",
+  "letter grid",
+  "hidden name",
+  "Genesis 22",
+  "Akedah",
+  "Akeda",
+  "messenger",
+  "angel of the LORD",
+  "Jesus in Genesis"
+ ],
+ "uncertain": [
+  "Dense letter grid not copied cell by cell; only the highlighted letters and labels are transcribed."
+ ],
+ "confidence": 0.9
+}

@@ -1,0 +1,170 @@
+{
+ "id": "gods-garden-in-eden/77",
+ "kinds": [
+  "verse",
+  "letters"
+ ],
+ "title": "Genesis 1:26 — 'Our image' and 'Our likeness', with the four letters of YHWH",
+ "summary": "Genesis 1:26 in English with 'God' in three colours, 'Us' and 'Our' underlined, and 'image' (tsal in betsalmenu) and 'likeness' (dm in kidmutenu) colour-matched to their transliterations. Below, four Hebrew letters are stacked vertically: י ה ו ה (the four letters of the name YHWH).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:26",
+   "osis": "Gen.1.26"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:כו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "Then God said, \"Let Us make man in Our image according to Our likeness…",
+   "osis": "Gen.1.26"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "betsalmenu,"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kidmutenu"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ו"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:26 / בראשית א:כו",
+   "osis": [
+    "Gen.1.26"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בצלמנו",
+   "translit": "betsalmenu",
+   "gloss": "in Our image",
+   "strongs": "H6754"
+  },
+  {
+   "lang": "he",
+   "word": "כדמותנו",
+   "translit": "kidmutenu",
+   "gloss": "according to Our likeness",
+   "strongs": "H1823"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH (Yahweh)",
+   "gloss": "the LORD (the four letters shown stacked)",
+   "strongs": "H3068"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "image",
+   "other": "tsal (betsalmenu)"
+  },
+  {
+   "en": "likeness",
+   "other": "dm (kidmutenu)"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "first letter of YHWH (shown brown)"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "second letter of YHWH (shown black)"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "third letter of YHWH (shown orange)"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "fourth letter of YHWH (shown black)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "names of God",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:26",
+  "let Us make man",
+  "our image",
+  "our likeness",
+  "image of God",
+  "betsalmenu",
+  "kidmutenu",
+  "tselem",
+  "demut",
+  "YHWH",
+  "Yahweh",
+  "tetragrammaton",
+  "yod he vav he",
+  "four letters of God's name",
+  "Genesis 1"
+ ],
+ "uncertain": [
+  "The slide does not label the four stacked letters; they are read as YHWH (י ה ו ה) from top to bottom. English quotation shown with no closing quote mark."
+ ],
+ "confidence": 0.92
+}

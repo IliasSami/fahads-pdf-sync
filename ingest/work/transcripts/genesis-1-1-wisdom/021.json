@@ -1,0 +1,209 @@
+{
+ "id": "genesis-1-1-wisdom/21",
+ "kinds": [
+  "verse",
+  "word-study",
+  "gematria"
+ ],
+ "title": "Wisdom (chokmah) — ordinate value 37 and gematria value line 5 40 20 8",
+ "summary": "Psalm 49:3 with the word line Wisdom / chokmah / חכמה. The ordinate value line 5 13 11 8 = 37 is shown, and a new red “Gematria Value” line gives the letter values 5 40 20 8, with no total yet.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 49:3",
+   "osis": "Ps.49.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים מט:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Ordinate Value"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 13 11 8 = 37"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Wisdom"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "chokmah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חכמה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Gematria Value"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 40 20 8"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 49:3 / תהילים מט:ג",
+   "osis": [
+    "Ps.49.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חכמה",
+   "translit": "chokmah",
+   "gloss": "wisdom (ordinate value)",
+   "strongs": "H2451",
+   "gematria": {
+    "method": "ordinal",
+    "values": [
+     5,
+     13,
+     11,
+     8
+    ],
+    "total": 37
+   }
+  },
+  {
+   "lang": "he",
+   "word": "חכמה",
+   "translit": "chokmah",
+   "gloss": "wisdom (gematria value)",
+   "strongs": "H2451",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     40,
+     20,
+     8
+    ],
+    "total": 73
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "wisdom",
+   "other": "חכמות"
+  },
+  {
+   "en": "Wisdom",
+   "other": "חכמה"
+  },
+  {
+   "en": "chokmah",
+   "other": "חכמה"
+  },
+  {
+   "en": "13",
+   "other": "מ"
+  },
+  {
+   "en": "40",
+   "other": "מ"
+  },
+  {
+   "en": "8",
+   "other": "ח"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "gematria value 5; ordinate value 5"
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "gematria value 40; ordinate value 13"
+  },
+  {
+   "lang": "he",
+   "letter": "kaf",
+   "char": "כ",
+   "value": 20,
+   "meaning": "gematria value 20; ordinate value 11"
+  },
+  {
+   "lang": "he",
+   "letter": "chet",
+   "char": "ח",
+   "value": 8,
+   "meaning": "gematria value 8; ordinate value 8"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 37,
+   "note": "ordinate (ordinal) gematria of חכמה (wisdom): 5 + 13 + 11 + 8"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "mouth",
+   "heart"
+  ],
+  "themes": [
+   "wisdom",
+   "understanding",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "chokmah",
+  "chochmah",
+  "wisdom",
+  "gematria of wisdom",
+  "ordinate value",
+  "ordinal value",
+  "gematria value",
+  "wisdom equals 37",
+  "5 40 20 8",
+  "Psalm 49:3",
+  "my mouth shall speak wisdom",
+  "Hebrew word for wisdom"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

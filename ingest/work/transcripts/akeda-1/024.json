@@ -1,0 +1,35 @@
+{
+  "id": "akeda-1/24",
+  "kinds": ["verse", "word-study"],
+  "title": "Song of Solomon 6:8 — almah (almaot, maidens) used of young women without number",
+  "summary": "Song of Solomon 6:8 in English and Hebrew: sixty queens, eighty concubines and maidens without number, with the plural almaot (עלמות, maidens) highlighted in green as another use of the word almah, queens (מלכות) in purple and concubines (פילגשים) underlined.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Song of Solomon 6:8", "osis": "Song.6.8"},
+    {"lang": "translit", "role": "label", "text": "almah"},
+    {"lang": "he", "role": "reference", "text": "שיר השירים  ו:ח"},
+    {"lang": "en", "role": "verse", "osis": "Song.6.8", "text": "8 “There are sixty queens and eighty concubines,"},
+    {"lang": "he", "role": "verse", "osis": "Song.6.8", "text": "עלמות"},
+    {"lang": "en", "role": "verse", "osis": "Song.6.8", "text": "And עלמות (almaot) maidens without number;"},
+    {"lang": "he", "role": "verse", "osis": "Song.6.8", "text": "ששים המה מלכות ושמנים פילגשים"},
+    {"lang": "he", "role": "verse", "osis": "Song.6.8", "text": "ועלמות אין מספר׃"}
+  ],
+  "refs": [{"shown": "Song of Solomon 6:8 / שיר השירים ו:ח", "osis": ["Song.6.8"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "עלמות", "translit": "almaot", "gloss": "maidens, young women (plural of almah)", "strongs": "H5959"},
+    {"lang": "he", "word": "מלכות", "translit": "melakhot", "gloss": "queens", "strongs": "H4436"},
+    {"lang": "he", "word": "פילגשים", "translit": "pilagshim", "gloss": "concubines", "strongs": "H6370"}
+  ],
+  "color_links": [
+    {"en": "queens", "other": "מלכות"},
+    {"en": "concubines", "other": "פילגשים"},
+    {"en": "almaot", "other": "עלמות"},
+    {"en": "maidens", "other": "עלמות"}
+  ],
+  "letters": [],
+  "numbers": [{"value": 60, "note": "sixty queens"}, {"value": 80, "note": "eighty concubines"}],
+  "pictures": [],
+  "entities": {"people": ["Solomon"], "places": [], "events": [], "things": [], "themes": ["word study", "virgin birth", "meaning of names"], "groups": []},
+  "keywords": ["Song of Solomon 6:8", "Song of Songs 6:8", "almah", "almaot", "maidens", "virgins without number", "threescore queens", "fourscore concubines", "young women", "עלמות", "queens", "concubines", "Song of Songs"],
+  "uncertain": ["The English line is transcribed as shown, with the Hebrew word עלמות inserted before '(almaot)'. The English heading includes the word 'almah' between two Stars of David."],
+  "confidence": 0.93
+}

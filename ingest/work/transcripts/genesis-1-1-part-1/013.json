@@ -1,0 +1,149 @@
+{
+ "id": "genesis-1-1-part-1/13",
+ "kinds": [
+  "letters"
+ ],
+ "title": "Resh and bet: \"Head of the House\"",
+ "summary": "Shows the two Hebrew letters bet (red, on the right) and resh (gold, on the left) with their names, Latin sounds B and R, and ancient pictographs, giving the meanings House/Tent and Head and the combined reading \"Head of the House\". A red arrow points left to show the right-to-left reading direction.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב ר"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "resh   bet"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "R   B"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Head   House, Tent"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Head of the House"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [
+  {
+   "en": "resh",
+   "other": "ר"
+  },
+  {
+   "en": "Head",
+   "other": "ר"
+  },
+  {
+   "en": "bet",
+   "other": "ב"
+  },
+  {
+   "en": "House",
+   "other": "ב"
+  },
+  {
+   "en": "Tent",
+   "other": "ב"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "head (head pictograph); sound R"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "house, tent (house/tent pictograph); sound B"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph of resh: a rough black outline of a head in profile, drawn over a grey underline.",
+   "subjects": [
+    "paleo-Hebrew",
+    "resh",
+    "head",
+    "pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.45,
+    0.49,
+    0.51,
+    0.61
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph of bet: a small black square-shaped house or tent outline, drawn over a red underline.",
+   "subjects": [
+    "paleo-Hebrew",
+    "bet",
+    "house",
+    "tent",
+    "pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.53,
+    0.5,
+    0.59,
+    0.61
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "house",
+   "tent",
+   "head"
+  ],
+  "themes": [
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "resh",
+  "bet",
+  "beth",
+  "head of the house",
+  "Hebrew letters",
+  "ancient Hebrew",
+  "paleo-Hebrew",
+  "pictograph",
+  "head",
+  "house",
+  "tent",
+  "letter meanings",
+  "bar",
+  "son"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

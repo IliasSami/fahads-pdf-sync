@@ -1,0 +1,157 @@
+{
+ "id": "elijah-elisha/34",
+ "kinds": [
+  "verse",
+  "word-study",
+  "letters"
+ ],
+ "title": "Genesis 37:34 — Jacob (ya’akob) tears his clothes and mourns for his son",
+ "summary": "Genesis 37:34 in English and Hebrew, with Jacob (יעקב) in green and 'son' (בנו) in red; below, the name Jacob is shown as ya’akob / יעקב with its four letters named bet, quf, ayin, yod, the bet in the same red as 'son'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 37:34",
+   "osis": "Gen.37.34"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית לז:לד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.37.34",
+   "text": "34 So Jacob tore his clothes, and put sackcloth on his loins and mourned for his son many days."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.37.34",
+   "text": "34 ויקרע יעקב שמלתיו וישם שק במתניו ויתאבל על־בנו ימים רבים׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ya’akob"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "יעקב"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Jacob"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet quf ayin yod"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 37:34 / בראשית לז:לד",
+   "osis": [
+    "Gen.37.34"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יעקב",
+   "translit": "ya’akob",
+   "gloss": "Jacob",
+   "strongs": "H3290"
+  },
+  {
+   "lang": "he",
+   "word": "בנו",
+   "translit": "beno",
+   "gloss": "his son",
+   "strongs": "H1121"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Jacob",
+   "other": "יעקב"
+  },
+  {
+   "en": "ya’akob",
+   "other": "יעקב"
+  },
+  {
+   "en": "son",
+   "other": "בנו"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "ayin",
+   "char": "ע",
+   "value": 70,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "quf",
+   "char": "ק",
+   "value": 100,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": ""
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jacob"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "sackcloth"
+  ],
+  "themes": [
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 37:34",
+  "Jacob",
+  "Ya'akov",
+  "Yaakov",
+  "יעקב",
+  "Jacob mourns",
+  "Jacob tore his clothes",
+  "sackcloth",
+  "mourned for his son",
+  "Joseph",
+  "rent his clothes",
+  "bet quf ayin yod",
+  "Jacob spelling"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

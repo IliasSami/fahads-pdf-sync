@@ -1,0 +1,95 @@
+{
+  "id": "abel/101",
+  "kinds": [
+    "verse"
+  ],
+  "title": "Genesis 4:11 — the ground opened its mouth to receive Abel's blood",
+  "summary": "Genesis 4:11 in English and Hebrew: Cain is cursed from the ground, which opened its mouth to receive his brother's blood from his hand. The word blood (דמי) is highlighted in red.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:11",
+      "osis": "Gen.4.11"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:יא"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Gen.4.11",
+      "text": "11 So now you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand."
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "osis": "Gen.4.11",
+      "text": "11 ועתה ארור אתה מן האדמה אשר פצתה את פיה לקחת את דמי אחיך מידך׃"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:11 / בראשית ד:יא",
+      "osis": [
+        "Gen.4.11"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "דם",
+      "translit": "dam",
+      "gloss": "blood",
+      "strongs": "H1818"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "blood",
+      "other": "דמ"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "God",
+      "Cain",
+      "Abel"
+    ],
+    "places": [],
+    "events": [
+      "Murder of Abel"
+    ],
+    "things": [
+      "ground"
+    ],
+    "themes": [
+      "blood",
+      "curse",
+      "judgment",
+      "death"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Cain cursed",
+    "cursed from the earth",
+    "ground opened her mouth",
+    "receive thy brother's blood",
+    "blood",
+    "Abel's blood",
+    "murder",
+    "Cain and Abel",
+    "Genesis 4",
+    "Genesis 4:11"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

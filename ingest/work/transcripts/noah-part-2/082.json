@@ -1,0 +1,184 @@
+{
+ "id": "noah-part-2/82",
+ "kinds": [
+  "verse",
+  "gematria",
+  "comparison"
+ ],
+ "title": "Genesis 1:1 and 8:14 together — 7 “In Beginning” and 8 “New Beginning” words, 2701",
+ "summary": "Genesis 1:1 (headed '7 “In Beginning” Words 7') and Genesis 8:14 (headed '8 “New Beginning” Words 8') shown together in English and Hebrew, with the number 2701 in large blue between them. The Hebrew of Genesis 1:1 is colour-coded word by word; in Genesis 8:14 only 'earth' / הארץ is coloured (purple).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "7 “In Beginning” Words 7"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "1 In beginning God created the heavens and the earth."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "2701"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "8 “New Beginning” Words 8"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:14",
+   "osis": "Gen.8.14"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:יד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.14",
+   "text": "14 In the second month, on the 27th day of the month, the earth was dry."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.8.14",
+   "text": "ובחדש השני בשבעה ועשרים יום לחדש יבשה הארץ׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 8:14 / בראשית ח:יד",
+   "osis": [
+    "Gen.8.14"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "Elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'arets",
+   "gloss": "the earth",
+   "strongs": "H776"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "earth",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "number of Hebrew words in Genesis 1:1 (“In Beginning” words)"
+  },
+  {
+   "value": 8,
+   "note": "number of Hebrew words in Genesis 8:14 (“New Beginning” words)"
+  },
+  {
+   "value": 2701,
+   "note": "total shown between the two verses (the sum of the word values on the previous two slides)"
+  },
+  {
+   "value": 27,
+   "note": "27th day of the second month, when the earth was dry (Genesis 8:14)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "Creation",
+   "the Flood"
+  ],
+  "things": [
+   "heavens",
+   "earth"
+  ],
+  "themes": [
+   "gematria",
+   "creation",
+   "Flood chronology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "Genesis 8:14",
+  "2701",
+  "in beginning",
+  "new beginning",
+  "7 words and 8 words",
+  "creation and flood",
+  "same gematria",
+  "Hebrew gematria",
+  "bereshit",
+  "the earth was dry",
+  "Genesis 1:1 compared with Genesis 8:14",
+  "Bible numbers",
+  "Hebrew numerology"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

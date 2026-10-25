@@ -1,0 +1,79 @@
+{
+ "id": "gods-garden-in-eden/1",
+ "kinds": [
+  "title",
+  "picture"
+ ],
+ "title": "Title slide: God's Garden in Eden (4)",
+ "summary": "Title slide for the study \"God's Garden in Eden\", numbered 4, laid over a video still of the presenter sitting on a sofa in front of a large world map.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "4"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "God’s Garden in Eden"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "video-still",
+   "description": "A man (the presenter) with glasses and a goatee sits on a tan sofa raising one finger as he speaks, wearing a white Hard Rock Cafe t-shirt. Behind him a large wall map of the world shows Africa, Europe, Asia and the Americas; a red mug is partly visible at the lower left.",
+   "subjects": [
+    "presenter",
+    "man speaking",
+    "world map",
+    "sofa",
+    "Hard Rock t-shirt",
+    "living room",
+    "video still"
+   ],
+   "text_in_picture": "Hard Rock",
+   "credit": null,
+   "box": [
+    0.0,
+    0.04,
+    1.0,
+    0.96
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [],
+  "things": [],
+  "themes": [
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "God's Garden in Eden",
+  "Garden of Eden",
+  "Eden",
+  "title slide",
+  "part 4",
+  "study 4",
+  "intro",
+  "presenter",
+  "video still",
+  "world map",
+  "man on couch",
+  "Dutch Uncle John"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

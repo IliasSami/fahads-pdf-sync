@@ -1,0 +1,219 @@
+{
+ "id": "red-heifer/122",
+ "kinds": [
+  "gematria",
+  "word-study"
+ ],
+ "title": "Gematria 495 + 154 + 351 = 1000 for the three red heifer requirements",
+ "summary": "The three red heifer requirements from Numbers 19:2 with their letter values (unblemished 495, without defect 154, no yoke 351) added up beneath a plus sign and line, giving a total of 1000 shown in blue.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:2",
+   "osis": "Num.19.2"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:ב"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Unblemished"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תמימה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 40 10 40 400 = 495"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Without Defect"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אין־בה מום"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "40 6 40 5 2 50 10 1 = 154"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "No Yoke"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "לא־עלה עליה על"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "30 70 5 10 30 70 5 30 70 1 30 = 351"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "+"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1000"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19:2 / במדבר יט:ב",
+   "osis": [
+    "Num.19.2"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תמימה",
+   "translit": "temimah",
+   "gloss": "unblemished",
+   "strongs": "H8549",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     40,
+     10,
+     40,
+     400
+    ],
+    "total": 495
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אין־בה מום",
+   "translit": "ein-bah mum",
+   "gloss": "without defect",
+   "strongs": "H3971",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     6,
+     40,
+     5,
+     2,
+     50,
+     10,
+     1
+    ],
+    "total": 154
+   }
+  },
+  {
+   "lang": "he",
+   "word": "לא־עלה עליה על",
+   "translit": "lo-alah aleiha ol",
+   "gloss": "no yoke (never yoked)",
+   "strongs": "H5923",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     30,
+     70,
+     5,
+     10,
+     30,
+     70,
+     5,
+     30,
+     70,
+     1,
+     30
+    ],
+    "total": 351
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Unblemished",
+   "other": "תמימה"
+  },
+  {
+   "en": "Without Defect",
+   "other": "אין־בה מום"
+  },
+  {
+   "en": "No Yoke",
+   "other": "לא־עלה עליה על"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 495,
+   "note": "gematria of תמימה (unblemished)"
+  },
+  {
+   "value": 154,
+   "note": "gematria of אין־בה מום (without defect)"
+  },
+  {
+   "value": 351,
+   "note": "gematria of לא־עלה עליה על (no yoke)"
+  },
+  {
+   "value": 1000,
+   "note": "sum of 495 + 154 + 351; shown as equal to alef (א')"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "yoke"
+  ],
+  "themes": [
+   "gematria",
+   "without blemish",
+   "purification"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "red heifer",
+  "unblemished",
+  "without defect",
+  "no yoke",
+  "never yoked",
+  "gematria 495",
+  "gematria 154",
+  "gematria 351",
+  "gematria 1000",
+  "1000",
+  "adding gematria values",
+  "Numbers 19:2",
+  "Numbers 19",
+  "Hebrew numerology",
+  "sum of the three requirements"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

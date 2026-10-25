@@ -1,0 +1,88 @@
+{
+ "id": "noah-part-2/10",
+ "kinds": [
+  "comparison",
+  "list"
+ ],
+ "title": "The ark and Yeshua: remains alive, gives life",
+ "summary": "Adds 'Remains Alive / Gives Life' to the list comparing the ark with yeshua.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Ark"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "yeshua"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Invitation To Come"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Ark & Cross Made Of Wood"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Resurrection & Ascension"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Remains Alive / Gives Life"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Resurrection",
+   "Ascension"
+  ],
+  "things": [
+   "ark",
+   "cross",
+   "wood"
+  ],
+  "themes": [
+   "typology",
+   "salvation",
+   "resurrection"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "ark and Jesus",
+  "Noah's ark",
+  "yeshua",
+  "Yeshua",
+  "Jesus",
+  "typology",
+  "invitation to come",
+  "come into the ark",
+  "come to Jesus",
+  "comparison ark and Christ",
+  "ark and cross made of wood",
+  "resurrection",
+  "ascension",
+  "remains alive",
+  "gives life",
+  "eternal life"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

@@ -1,0 +1,96 @@
+{
+  "id": "akeda-2/40",
+  "kinds": [
+    "list"
+  ],
+  "title": "Rabbinical Judaism replaced blood sacrifices: six steps",
+  "summary": "Six items so far on what Rabbinical Judaism put in place of blood sacrifices, adding: do not commit the same sin if opportunity arises.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Rabbinical Judaism Replaced Blood Sacrifices with:"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Confess the sin"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Pray for atonement"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Correct the sin however possible"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Pursue works of chesed and truth;"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Remember the sin for the rest of one's life;"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Do not commit same sin if opportunity arises"
+    }
+  ],
+  "refs": [],
+  "words": [
+    {
+      "lang": "he",
+      "word": "חסד",
+      "translit": "chesed",
+      "gloss": "lovingkindness, mercy, kindness",
+      "strongs": "H2617"
+    }
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "things": [],
+    "themes": [
+      "sacrifice",
+      "blood",
+      "atonement",
+      "sin",
+      "repentance",
+      "Rabbinic Judaism"
+    ],
+    "groups": [
+      "Jews",
+      "rabbis"
+    ]
+  },
+  "keywords": [
+    "Rabbinical Judaism",
+    "rabbinic Judaism",
+    "replaced blood sacrifices",
+    "no more sacrifices",
+    "atonement without blood",
+    "repentance",
+    "confess sin",
+    "prayer for atonement",
+    "correct the sin",
+    "teshuvah",
+    "chesed",
+    "hesed",
+    "lovingkindness",
+    "works of kindness",
+    "remember the sin"
+  ],
+  "uncertain": [],
+  "confidence": 0.97
+}

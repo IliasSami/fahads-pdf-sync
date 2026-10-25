@@ -1,0 +1,25 @@
+{
+  "id": "akeda-1/80",
+  "kinds": ["verse"],
+  "title": "Genesis 24:5-6 — Abraham: do not take my son back there",
+  "summary": "Genesis 24 (header gives 24:6): Abraham's servant asks whether he should take Isaac back to the land Abraham came from if the woman will not follow him, and Abraham answers, 'Beware that you do not take my son back there!' Words for the servant, 'me' and 'I' are gold; Abraham and 'your/you/my' are blue; 'son' is red.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 24:6", "osis": "Gen.24.6"},
+    {"lang": "he", "role": "reference", "text": "בראשית כד:ו"},
+    {"lang": "en", "role": "verse", "osis": "Gen.24.5", "text": "5 The servant said to him, “Suppose the woman is not willing to follow me to this land; should I take your son back to the land from where you came?”"},
+    {"lang": "en", "role": "verse", "osis": "Gen.24.6", "text": "6 Then Abraham said to him, “Beware that you do not take my son back there!"}
+  ],
+  "refs": [
+    {"shown": "Genesis 24:6 / בראשית כד:ו", "osis": ["Gen.24.6"], "role": "quoted"},
+    {"shown": "Genesis 24:5 (verse text shown under the 24:6 header)", "osis": ["Gen.24.5"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac"], "places": [], "events": [], "things": [], "themes": ["obedience", "covenant", "promised land", "marriage"], "groups": []},
+  "keywords": ["Genesis 24:5", "Genesis 24:6", "Genesis 24", "Abraham's servant", "Eliezer", "wife for Isaac", "Rebekah", "do not take my son back there", "beware that thou bring not my son thither again", "Isaac must not leave the land", "Akedah", "Akeda"],
+  "uncertain": ["Header cites Genesis 24:6 only, but the slide also shows verse 5"],
+  "confidence": 0.96
+}

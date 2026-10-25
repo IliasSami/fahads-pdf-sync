@@ -1,0 +1,109 @@
+{
+ "id": "noah-part-2/61",
+ "kinds": [
+  "title",
+  "verse"
+ ],
+ "title": "Noah's Birds: Prophetic Pointers to Yeshua — Genesis 8:6-7, the raven",
+ "summary": "Opens the section on Noah's birds, titled \"Noah's Birds: Prophetic Pointers to yeshua\", with Genesis 8:6-7: after forty days Noah opens the ark's window and sends out a raven, which flies here and there until the water dries up. \"raven\" is underlined and \"ark\" is highlighted in red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Noah’s Birds: Prophetic Pointers to yeshua"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:6-7",
+   "osis": [
+    "Gen.8.6",
+    "Gen.8.7"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:ו-ז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.6",
+   "text": "6 After forty days Noah opened a window he had made in the ark"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.7",
+   "text": "7 and he sent out a raven, and it flew here and there until the water was dried up from the earth."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:6-7 / בראשית ח:ו-ז",
+   "osis": [
+    "Gen.8.6",
+    "Gen.8.7"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "other",
+   "word": "yeshua",
+   "translit": "yeshua",
+   "gloss": "Jesus (Hebrew name)",
+   "strongs": "H3442"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 40,
+   "note": "forty days before Noah opened the window"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "raven",
+   "window"
+  ],
+  "themes": [
+   "prophecy",
+   "typology",
+   "messianic prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Noah's birds",
+  "raven",
+  "Noah sent out a raven",
+  "Genesis 8",
+  "prophetic pointers",
+  "yeshua",
+  "Jesus in Genesis",
+  "after forty days",
+  "window of the ark",
+  "flew to and fro",
+  "waters dried up",
+  "ark",
+  "Flood",
+  "typology"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

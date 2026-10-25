@@ -1,0 +1,172 @@
+{
+ "id": "genesis-1-1-part-2/63",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "Alef spelled out: pe, lamed, alef — \"From the mouth of el\" (pe in purple)",
+ "summary": "Same as the previous alef slide, but pe is now coloured purple: the word alef (אלף) is split into pe (mouth, purple), lamed (shepherd, brown) and alef (strong, blue), each with its ancient pictograph and name, giving \"From the mouth of el\" with the word mouth in purple.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אלף"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "א"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "alef"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל (ף) פ"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "pe lamed alef"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "mouth shepherd strong"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "From the mouth of el"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלף",
+   "translit": "alef",
+   "gloss": "alef (name of the first letter): strong, shepherd, mouth",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "אל",
+   "translit": "el",
+   "gloss": "God, mighty one (strong shepherd)",
+   "strongs": "H410"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "strong",
+   "other": "א"
+  },
+  {
+   "en": "lamed",
+   "other": "ל"
+  },
+  {
+   "en": "shepherd",
+   "other": "ל"
+  },
+  {
+   "en": "pe",
+   "other": "פ"
+  },
+  {
+   "en": "mouth",
+   "other": "פ"
+  },
+  {
+   "en": "el",
+   "other": "אל"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "strong (ox head pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "shepherd (staff pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": 80,
+   "meaning": "mouth (final form ף shown in parentheses)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Row of three ancient (paleo-)Hebrew pictograph letters with coloured underlines (purple, brown, blue): a flat mouth shape (pe), a slanted shepherd's staff stroke (lamed) and a looped ox-head shape (alef), under the modern letters.",
+   "subjects": [
+    "paleo-Hebrew",
+    "pictographs",
+    "ancient Hebrew letters",
+    "mouth",
+    "shepherd staff",
+    "ox head"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.39,
+    0.4,
+    0.68,
+    0.53
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "alef",
+  "aleph",
+  "אלף",
+  "pe",
+  "peh",
+  "lamed",
+  "mouth",
+  "shepherd",
+  "strong",
+  "el",
+  "from the mouth of El",
+  "pictographs",
+  "paleo-Hebrew",
+  "ancient Hebrew letters",
+  "Hebrew letter meanings",
+  "final pe"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

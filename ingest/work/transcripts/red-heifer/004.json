@@ -1,0 +1,96 @@
+{
+ "id": "red-heifer/4",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Isaiah 11:12 — Rome dispersed the Jews in 70 AD; Jews are everywhere",
+ "summary": "Isaiah 11:12 (God gathers the outcasts of Israel and dispersed of Judah) with two added statements: Rome dispersed the Jews in 70 AD, and Jews are everywhere.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Isaiah 11:12",
+   "osis": "Isa.11.12"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ישעה יא:יב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Isa.11.12",
+   "text": "12 He will set up a banner for the nations, And will assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Rome dispersed the Jews in 70 AD."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Jews are everywhere."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Isaiah 11:12 / ישעה יא:יב",
+   "osis": [
+    "Isa.11.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 70,
+   "note": "year AD in which Rome dispersed the Jews"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [
+   "Rome"
+  ],
+  "events": [
+   "Dispersion of the Jews (70 AD)"
+  ],
+  "things": [
+   "banner"
+  ],
+  "themes": [
+   "prophecy",
+   "regathering of Israel"
+  ],
+  "groups": [
+   "Israel",
+   "Jews",
+   "Romans"
+  ]
+ },
+ "keywords": [
+  "Isaiah 11:12",
+  "Rome dispersed the Jews",
+  "70 AD",
+  "AD 70",
+  "diaspora",
+  "dispersion",
+  "destruction of Jerusalem",
+  "Jews are everywhere",
+  "outcasts of Israel",
+  "four corners of the earth",
+  "regathering of Israel",
+  "Roman Empire"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

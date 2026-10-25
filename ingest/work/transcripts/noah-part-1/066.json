@@ -1,0 +1,101 @@
+{
+ "id": "noah-part-1/66",
+ "kinds": [
+  "verse",
+  "list"
+ ],
+ "title": "Salvation has three tenses (with Genesis 6:16, the ark's door)",
+ "summary": "Genesis 6:16 with the door line enlarged, followed by 'Salvation has three tenses': we have been saved from the penalty of sin, we are being saved from the power of sin, and we will be saved from the presence of sin.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:16",
+   "osis": "Gen.6.16"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.16",
+   "text": "16 “You shall make a window for the ark, and finish it to a cubit from the top; and set the door of the ark in the side of it; you shall make it with lower, second, and third decks."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Salvation has three tenses:"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "We have been saved from the penalty of sin."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "We are being saved from the power of sin."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "We will be saved from the presence of sin."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:16 / בראשית ו:יו",
+   "osis": [
+    "Gen.6.16"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "three tenses of salvation (past, present, future); three decks of the ark"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "ark",
+   "door",
+   "decks"
+  ],
+  "themes": [
+   "salvation",
+   "sin",
+   "redemption",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "three tenses of salvation",
+  "saved from the penalty of sin",
+  "saved from the power of sin",
+  "saved from the presence of sin",
+  "past present future salvation",
+  "justification sanctification glorification",
+  "Noah's ark",
+  "door of the ark",
+  "Genesis 6:16",
+  "three decks",
+  "ark of salvation"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

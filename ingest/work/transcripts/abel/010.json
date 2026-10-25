@@ -1,0 +1,35 @@
+{
+  "id": "abel/10",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:1 — yada (ידע), “he knew” (repeat)",
+  "summary": "Same as the previous slide: Genesis 4:1 reworded as “the man he knew Eve his wife”, with the Hebrew verb ידע (yada) explained as “he knew”.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:1", "osis": "Gen.4.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:א", "osis": "Gen.4.1"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.1", "text": "1 And the man he knew Eve his wife, and she conceived and gave birth to Cain, and she said, “I have obtained a man with the help of the LORD.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.1", "text": "1 והאדם ידע את חוה אשתו ותהר ותלד את קין ותאמר קניתי איש את יהוה׃"},
+    {"lang": "translit", "role": "label", "text": "yada"},
+    {"lang": "he", "role": "label", "text": "ידע"},
+    {"lang": "en", "role": "label", "text": "He knew"}
+  ],
+  "refs": [{"shown": "Genesis 4:1 / בראשית ד:א", "osis": ["Gen.4.1"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "ידע", "translit": "yada", "gloss": "he knew", "strongs": "H3045"}
+  ],
+  "color_links": [
+    {"en": "he", "other": "י"},
+    {"en": "knew", "other": "דע"},
+    {"en": "He knew", "other": "ידע"},
+    {"en": "yada", "other": "ידע"},
+    {"en": "LORD", "other": "יהוה"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "yod", "char": "י", "value": 10, "meaning": "he (verb prefix)"}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Adam", "Eve", "Cain", "God"], "places": [], "events": ["birth of Cain"], "things": [], "themes": ["marriage", "Hebrew grammar"], "groups": []},
+  "keywords": ["yada", "he knew", "knew", "to know", "Adam knew Eve", "Hebrew verb", "yod prefix", "Genesis 4:1", "Genesis 4", "Cain"],
+  "uncertain": [],
+  "confidence": 0.93
+}

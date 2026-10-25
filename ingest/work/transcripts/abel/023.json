@@ -1,0 +1,168 @@
+{
+  "id": "abel/23",
+  "kinds": [
+    "letters",
+    "word-study"
+  ],
+  "title": "Cain (קין) in ancient pictographs: Life, Hand, Back of Head",
+  "summary": "The letters of Cain's name קין (nun, yod, quf) are shown as three ancient pictograph symbols, each labelled with its picture-meaning: Life (nun), Hand (yod) and Back of Head (quf). The Hebrew alphabet row is still shown above with these letters highlighted.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "The Hebrew Alphabet (alefbet)"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "alef bet gimel dalet he vav zayin het tet yod kaph lamed mem nun samech ayin pe tzadi quf resh shin tav"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "א ב ג ד ה ו ז ח ט י כ ל מ נ ס ע פ צ ק ר ש ת"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "qayin"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "קין"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Cain"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "nun yod quf"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Life  Hand  Back of Head"
+    }
+  ],
+  "refs": [],
+  "words": [
+    {
+      "lang": "he",
+      "word": "קין",
+      "translit": "qayin",
+      "gloss": "Cain",
+      "strongs": "H7014"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "qayin",
+      "other": "קין"
+    },
+    {
+      "en": "nun",
+      "other": "נ"
+    },
+    {
+      "en": "yod",
+      "other": "י"
+    },
+    {
+      "en": "quf",
+      "other": "ק"
+    },
+    {
+      "en": "Life",
+      "other": "נ"
+    },
+    {
+      "en": "Hand",
+      "other": "י"
+    },
+    {
+      "en": "Back of Head",
+      "other": "ק"
+    }
+  ],
+  "letters": [
+    {
+      "lang": "he",
+      "letter": "nun",
+      "char": "נ",
+      "value": 50,
+      "meaning": "life (pictograph)"
+    },
+    {
+      "lang": "he",
+      "letter": "yod",
+      "char": "י",
+      "value": 10,
+      "meaning": "hand (pictograph)"
+    },
+    {
+      "lang": "he",
+      "letter": "quf",
+      "char": "ק",
+      "value": 100,
+      "meaning": "back of head (pictograph)"
+    }
+  ],
+  "numbers": [],
+  "pictures": [
+    {
+      "type": "pictograph",
+      "description": "Three ancient (paleo-)Hebrew letter glyphs drawn in black, left to right: a wavy line with a small loop at one end (nun), an angular arm-and-hand shape (yod), and a circle on a vertical stem (quf), labelled Life, Hand and Back of Head.",
+      "subjects": [
+        "paleo-Hebrew alphabet",
+        "pictographs",
+        "ancient Hebrew letters",
+        "nun",
+        "yod",
+        "quf"
+      ],
+      "text_in_picture": "",
+      "credit": null,
+      "box": [
+        0.38,
+        0.66,
+        0.59,
+        0.8
+      ]
+    }
+  ],
+  "entities": {
+    "people": [
+      "Cain"
+    ],
+    "places": [],
+    "events": [],
+    "things": [
+      "Hebrew alphabet"
+    ],
+    "themes": [
+      "Hebrew letter meanings",
+      "gematria"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Hebrew alphabet",
+    "Cain",
+    "qayin",
+    "pictographs",
+    "paleo-Hebrew",
+    "ancient Hebrew letters",
+    "nun life",
+    "yod hand",
+    "quf back of head",
+    "qof",
+    "letter meanings",
+    "name of Cain"
+  ],
+  "uncertain": [],
+  "confidence": 0.9
+}

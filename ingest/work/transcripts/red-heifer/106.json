@@ -1,0 +1,71 @@
+{
+ "id": "red-heifer/106",
+ "kinds": [
+  "list",
+  "text"
+ ],
+ "title": "Red Heifers prepared: one by Moses, one by Ezra 1,000 years later",
+ "summary": "Text slide adding the second of the nine Red Heifers: one by Moses, then one by Ezra [1,000 years later].",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Only 9 Red Heifers were ever Prepared"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "One by Moses"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "One by Ezra [1,000 years later]"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 9,
+   "note": "total number of red heifers ever prepared, according to the slide"
+  },
+  {
+   "value": 1000,
+   "note": "years between Moses and Ezra"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Moses",
+   "Ezra"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer"
+  ],
+  "themes": [
+   "purification",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "nine red heifers",
+  "9 red heifers",
+  "second red heifer",
+  "Ezra",
+  "Moses",
+  "1,000 years later",
+  "red heifer history",
+  "parah adumah",
+  "Numbers 19",
+  "red heifer ashes"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

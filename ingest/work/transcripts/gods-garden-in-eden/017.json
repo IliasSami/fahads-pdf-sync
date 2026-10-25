@@ -1,0 +1,96 @@
+{
+ "id": "gods-garden-in-eden/17",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 2:4-6 — generations of the heavens and earth, no rain, a mist rose",
+ "summary": "Genesis 2:4-6 in English: the generations of the heavens and the earth, the LORD God had not sent rain and there was no man to cultivate the ground, and a mist watered the whole surface of the ground. 'Generations' and 'LORD God' are shown in multicoloured letters.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:4-6",
+   "osis": [
+    "Gen.2.4",
+    "Gen.2.5",
+    "Gen.2.6"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:ד-ו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.4",
+   "text": "4 These are the generations of the heavens and the earth when they were created, in the day that the LORD God made earth and heaven."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.5",
+   "text": "5 Now no shrub of the field was yet in the earth, and no plant of the field had yet sprouted, for the LORD God had not sent rain upon the earth, and there was no man to cultivate the ground."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.6",
+   "text": "6 But a mist used to rise from the earth and water the whole surface of the ground."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:4-6 / בראשית ב:ד-ו",
+   "osis": [
+    "Gen.2.4",
+    "Gen.2.5",
+    "Gen.2.6"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "mist",
+   "rain",
+   "plant of the field"
+  ],
+  "themes": [
+   "creation",
+   "generations (toledoth)",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 2:4",
+  "Genesis 2:5",
+  "Genesis 2:6",
+  "generations of the heavens and the earth",
+  "toledoth",
+  "LORD God",
+  "Yahweh Elohim",
+  "no rain",
+  "mist",
+  "shrub of the field",
+  "no man to till the ground",
+  "cultivate the ground",
+  "Garden of Eden"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

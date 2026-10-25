@@ -1,0 +1,209 @@
+{
+ "id": "gods-garden-in-eden/76",
+ "kinds": [
+  "word-study",
+  "letters"
+ ],
+ "title": "Fire (aish) in Man (ish) and Woman (isha); yah joined in",
+ "summary": "Shows Fire אש (aish) with arrows pointing down to Woman אשה (isha) and Man איש (ish), with the aleph and the sounds a/i in blue. Arrows pointing up from the letters י and ה, which spell yah, show the yod added into 'man' and the he into 'woman'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Fire"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אש"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "aish"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Woman"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "isha"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אשה"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "איש"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ish"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Man"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yah"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אש",
+   "translit": "aish (esh)",
+   "gloss": "fire",
+   "strongs": "H784"
+  },
+  {
+   "lang": "he",
+   "word": "אשה",
+   "translit": "isha",
+   "gloss": "woman",
+   "strongs": "H802"
+  },
+  {
+   "lang": "he",
+   "word": "איש",
+   "translit": "ish",
+   "gloss": "man",
+   "strongs": "H376"
+  },
+  {
+   "lang": "he",
+   "word": "יה",
+   "translit": "yah",
+   "gloss": "Yah (short form of the name of the LORD)",
+   "strongs": "H3050"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "a (aish)",
+   "other": "א"
+  },
+  {
+   "en": "i (isha)",
+   "other": "א"
+  },
+  {
+   "en": "i (ish)",
+   "other": "א"
+  },
+  {
+   "en": "y (yah)",
+   "other": "י"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "shared first letter of fire, man and woman (blue)"
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "shared letter of fire, man and woman"
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "first letter of yah; the added letter in man (ish) (brown/red)"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "second letter of yah; the added letter in woman (isha) (black)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "Diagram with Fire אש at the top, arrows fanning down to Woman אשה on the left and Man איש on the right, and double-line arrows pointing up from the letters ה (black) and י (brown) forming yah at the bottom.",
+   "subjects": [
+    "arrows",
+    "Hebrew words",
+    "fire",
+    "man",
+    "woman",
+    "yah",
+    "colour-coded letters"
+   ],
+   "text_in_picture": "Fire אש aish; Woman isha אשה; איש ish Man; ה י yah",
+   "credit": null,
+   "box": [
+    0.05,
+    0.1,
+    0.95,
+    0.9
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Adam",
+   "Eve",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "fire"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "names of God",
+   "marriage",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "fire in man and woman",
+  "esh",
+  "aish",
+  "ish",
+  "isha",
+  "אש",
+  "איש",
+  "אשה",
+  "yah",
+  "yod he",
+  "man woman fire",
+  "Hebrew word study",
+  "name of God in man and woman"
+ ],
+ "uncertain": [
+  "The slide gives no spoken explanation, so the yod/he insertion reading is taken from the arrows and letter colours only."
+ ],
+ "confidence": 0.9
+}

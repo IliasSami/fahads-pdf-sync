@@ -1,0 +1,181 @@
+{
+ "id": "genesis-1-1-part-2/51",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:27-29 in Hebrew: male and female, them, subdue, behold, food",
+ "summary": "Hebrew text of Genesis 1:27–29 (no vowel points) with short English glosses above key words: female, male, them, subdue, behold, food. The glossed Hebrew words are in red and אלהים (God) is colour-coded in blue, red and gold.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.27",
+   "text": "1:27 ויברא אלהים את האדם בצלמו בצלם אלהים ברא אתו זכר ונקבה ברא אתם׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "female male"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "them"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.28",
+   "text": "1:28 ויברך אתם אלהים ויאמר להם אלהים פרו ורבו ומלאו את הארץ וכבשה ורדו בדגת הים ובעוף השמים ובכל חיה הרמשת על הארץ׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "subdue"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "behold"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.29",
+   "text": "1:29 ויאמר אלהים הנה נתתי לכם את כל עשב זרע זרע אשר על פני כל הארץ ואת כל העץ אשר בו פרי עץ זרע זרע לכם יהיה לאכלה׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "food"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1:27",
+   "osis": [
+    "Gen.1.27"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:28",
+   "osis": [
+    "Gen.1.28"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:29",
+   "osis": [
+    "Gen.1.29"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "זכר",
+   "translit": "zachar",
+   "gloss": "male",
+   "strongs": "H2145",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "נקבה",
+   "translit": "nekevah",
+   "gloss": "female",
+   "strongs": "H5347",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "להם",
+   "translit": "lahem",
+   "gloss": "them (to them)",
+   "strongs": "H1992",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "וכבשה",
+   "translit": "vechivshah",
+   "gloss": "subdue (it)",
+   "strongs": "H3533",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הנה",
+   "translit": "hineh",
+   "gloss": "behold",
+   "strongs": "H2009",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "לאכלה",
+   "translit": "le'ochlah",
+   "gloss": "food (for eating)",
+   "strongs": "H402",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "seed-bearing plants",
+   "fruit trees",
+   "fish",
+   "birds"
+  ],
+  "themes": [
+   "creation",
+   "image of God",
+   "blessing",
+   "marriage",
+   "Hebrew word study"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:27",
+  "Genesis 1:28",
+  "Genesis 1:29",
+  "Genesis 1",
+  "male and female created he them",
+  "in the image of God",
+  "be fruitful and multiply",
+  "replenish the earth",
+  "subdue the earth",
+  "dominion",
+  "every herb bearing seed",
+  "meat food",
+  "behold",
+  "Hebrew text of Genesis",
+  "zachar nekevah"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

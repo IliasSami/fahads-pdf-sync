@@ -1,0 +1,61 @@
+{
+  "id": "abel/125",
+  "kinds": ["letters", "word-study"],
+  "title": "The Hebrew alphabet (alefbet): oat means letter, 22 oatiot",
+  "summary": "The 22 letters of the Hebrew alefbet from alef to tav, each colour-coded and labelled with its name, followed by the statements that oat (אות) is Hebrew for \"Letter\" and that there are 22 oatiot (אותיות) in the Hebrew alef bet.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Hebrew Alphabet (alefbet)"},
+    {"lang": "he", "role": "label", "text": "א ב ג ד ה ו ז ח ט י כ ל מ נ ס ע פ צ ק ר ש ת"},
+    {"lang": "translit", "role": "label", "text": "alef bet gimel dalet he vav zayin het tet yod kaph lamed mem nun samech ayin pe tzadi quf resh shin tav"},
+    {"lang": "translit", "role": "body", "text": "oat"},
+    {"lang": "he", "role": "body", "text": "אות"},
+    {"lang": "en", "role": "body", "text": "is Hebrew for “Letter”"},
+    {"lang": "en", "role": "body", "text": "22"},
+    {"lang": "translit", "role": "body", "text": "oatiot"},
+    {"lang": "he", "role": "body", "text": "אותיות"},
+    {"lang": "en", "role": "body", "text": "in the Hebrew alef bet"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "אות", "translit": "oat", "gloss": "letter (also sign)", "strongs": "H226"},
+    {"lang": "he", "word": "אותיות", "translit": "oatiot", "gloss": "letters (plural of oat)", "strongs": "H226"},
+    {"lang": "he", "word": "אלף בית", "translit": "alefbet", "gloss": "Hebrew alphabet", "strongs": null}
+  ],
+  "color_links": [
+    {"en": "oat", "other": "אות"},
+    {"en": "oatiot", "other": "אותיות"},
+    {"en": "Hebrew", "other": "אות"},
+    {"en": "alef", "other": "א"},
+    {"en": "bet", "other": "ב"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": ""},
+    {"lang": "he", "letter": "bet", "char": "ב", "value": 2, "meaning": ""},
+    {"lang": "he", "letter": "gimel", "char": "ג", "value": 3, "meaning": ""},
+    {"lang": "he", "letter": "dalet", "char": "ד", "value": 4, "meaning": ""},
+    {"lang": "he", "letter": "he", "char": "ה", "value": 5, "meaning": ""},
+    {"lang": "he", "letter": "vav", "char": "ו", "value": 6, "meaning": ""},
+    {"lang": "he", "letter": "zayin", "char": "ז", "value": 7, "meaning": ""},
+    {"lang": "he", "letter": "het", "char": "ח", "value": 8, "meaning": ""},
+    {"lang": "he", "letter": "tet", "char": "ט", "value": 9, "meaning": ""},
+    {"lang": "he", "letter": "yod", "char": "י", "value": 10, "meaning": ""},
+    {"lang": "he", "letter": "kaph", "char": "כ", "value": 20, "meaning": ""},
+    {"lang": "he", "letter": "lamed", "char": "ל", "value": 30, "meaning": ""},
+    {"lang": "he", "letter": "mem", "char": "מ", "value": 40, "meaning": ""},
+    {"lang": "he", "letter": "nun", "char": "נ", "value": 50, "meaning": ""},
+    {"lang": "he", "letter": "samech", "char": "ס", "value": 60, "meaning": ""},
+    {"lang": "he", "letter": "ayin", "char": "ע", "value": 70, "meaning": ""},
+    {"lang": "he", "letter": "pe", "char": "פ", "value": 80, "meaning": ""},
+    {"lang": "he", "letter": "tzadi", "char": "צ", "value": 90, "meaning": ""},
+    {"lang": "he", "letter": "quf", "char": "ק", "value": 100, "meaning": ""},
+    {"lang": "he", "letter": "resh", "char": "ר", "value": 200, "meaning": ""},
+    {"lang": "he", "letter": "shin", "char": "ש", "value": 300, "meaning": ""},
+    {"lang": "he", "letter": "tav", "char": "ת", "value": 400, "meaning": ""}
+  ],
+  "numbers": [{"value": 22, "note": "number of letters (oatiot) in the Hebrew alef bet"}],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": [], "things": [], "themes": ["Hebrew letter meanings"], "groups": []},
+  "keywords": ["Hebrew alphabet", "alefbet", "alef bet", "aleph bet", "22 letters", "oat", "oatiot", "ot", "otiot", "letter", "Hebrew letters", "alef to tav", "aleph tav"],
+  "uncertain": ["Letter values listed are the standard gematria values; the slide itself shows only letter names and shapes."],
+  "confidence": 0.95
+}

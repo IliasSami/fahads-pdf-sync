@@ -1,0 +1,70 @@
+{
+ "id": "red-heifer/96",
+ "kinds": [
+  "text"
+ ],
+ "title": "No Temple today, so being unclean is no problem — unclean is not sinful",
+ "summary": "Adds that since there is no Temple today, it is no problem being unclean, with the reminder in parentheses that unclean is not sinful. Earlier lines say an unclean person cannot enter the Temple and a Red Heifer is required for Temple services and sacrifices.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Once unclean, one cannot enter Temple."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "So, a Red Heifer is required for attending Temple services and offering sacrifices."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Since there is no Temple today, it’s no problem being unclean."
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "(Remember, unclean is not Sinful)"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Temple Mount"
+  ],
+  "events": [],
+  "things": [
+   "red heifer",
+   "temple"
+  ],
+  "themes": [
+   "clean and unclean",
+   "purification",
+   "sin",
+   "sacrifice",
+   "temple"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "unclean is not sinful",
+  "being unclean is not a sin",
+  "no Temple today",
+  "no problem being unclean",
+  "red heifer required",
+  "ritual impurity",
+  "tamei is not sin",
+  "clean and unclean",
+  "unclean vs sin",
+  "temple services",
+  "offering sacrifices"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

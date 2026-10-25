@@ -1,0 +1,119 @@
+{
+ "id": "gods-garden-in-eden/52",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Revelation 22:1-5 — river of the water of life and the tree of life",
+ "summary": "Revelation 22 in English: a river of the water of life flows from the throne of God and of the Lamb; on either side is the tree of life bearing twelve kinds of fruit, with leaves for the healing of the nations; no more curse or night, and His servants will see His face and reign forever. The header names only 22:1-2. 'tree', 'life' and 'leaves' are in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Revelation 22:1-2",
+   "osis": [
+    "Rev.22.1",
+    "Rev.22.2"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΑΠΟΚΑΛΥΨΙΣ 22:1-2"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "1 Then he showed me a river of the water of life, clear as crystal, coming from the throne of God and of the Lamb,",
+   "osis": "Rev.22.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "2 in the middle of its street. On either side of the river was the tree of life, bearing twelve kinds of fruit, yielding its fruit every month; and the leaves of the tree were for the healing of the nations.",
+   "osis": "Rev.22.2"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "3 There will no longer be any curse; and the throne of God and of the Lamb will be in it, and His bond-servants will serve Him; 4 they will see His face, and His name will be on their foreheads. 5 And there will no longer be any night; and they will not have need of the light of a lamp nor the light of the sun, because the Lord God will illumine them; and they will reign forever and ever.",
+   "osis": [
+    "Rev.22.3",
+    "Rev.22.4",
+    "Rev.22.5"
+   ]
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Revelation 22:1-2 / ΑΠΟΚΑΛΥΨΙΣ 22:1-2",
+   "osis": [
+    "Rev.22.1",
+    "Rev.22.2"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Revelation 22:3-5 (text continues below the header's range)",
+   "osis": [
+    "Rev.22.3",
+    "Rev.22.4",
+    "Rev.22.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 12,
+   "note": "twelve kinds of fruit on the tree of life"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "tree of life",
+   "river of the water of life",
+   "throne",
+   "lamp"
+  ],
+  "themes": [
+   "tree of life",
+   "light and darkness",
+   "healing",
+   "curse",
+   "grace"
+  ],
+  "groups": [
+   "Gentiles"
+  ]
+ },
+ "keywords": [
+  "Revelation 22",
+  "river of life",
+  "water of life",
+  "tree of life",
+  "twelve fruits",
+  "healing of the nations",
+  "no more curse",
+  "no night",
+  "throne of God and of the Lamb",
+  "see his face",
+  "name on foreheads",
+  "reign forever",
+  "new Jerusalem",
+  "Eden restored"
+ ],
+ "uncertain": [
+  "Header gives 22:1-2 only; the slide text continues through verse 5."
+ ],
+ "confidence": 0.96
+}

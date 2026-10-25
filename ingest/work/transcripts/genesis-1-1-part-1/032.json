@@ -1,0 +1,92 @@
+{
+ "id": "genesis-1-1-part-1/32",
+ "kinds": [
+  "text",
+  "word-study"
+ ],
+ "title": "Jesus H. Christ restated as yeshua H. moshiach",
+ "summary": "Four lines in colour restating “Jesus H. Christ” step by step: Jesus H. Christ, yeshua H. Christ, yeshua H. Messiah, yeshua H. moshiach. The name is in red, the H. in black and the title in gold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Jesus H. Christ"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "yeshua H. Christ"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "yeshua H. Messiah"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "yeshua H. moshiach"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "other",
+   "word": "yeshua",
+   "translit": "yeshua",
+   "gloss": "Jesus",
+   "strongs": null
+  },
+  {
+   "lang": "other",
+   "word": "moshiach",
+   "translit": "moshiach",
+   "gloss": "Messiah / Christ (anointed one)",
+   "strongs": "H4899"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Jesus",
+   "other": "yeshua"
+  },
+  {
+   "en": "Christ",
+   "other": "moshiach"
+  },
+  {
+   "en": "Messiah",
+   "other": "moshiach"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Messiah",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Jesus H. Christ",
+  "yeshua",
+  "moshiach",
+  "messiah",
+  "Christ",
+  "Jesus Hebrew name",
+  "Yeshua HaMashiach",
+  "anointed one",
+  "H.",
+  "name of Jesus in Hebrew"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

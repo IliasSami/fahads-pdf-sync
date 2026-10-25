@@ -1,0 +1,175 @@
+{
+ "id": "akeda-1/124",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 22:14 — Abraham names the place The LORD Will Provide",
+ "summary": "Genesis 22:14 in English and Hebrew under the heading The Akedah: Abraham calls the place The LORD Will Provide, 'In the mount of the LORD it will be provided.' The Hebrew is broken down below into behar (in the mount), yahweh (of yahweh) and yeraeh (it will be provided), with the name of God coloured.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22",
+   "osis": "Gen.22.1"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ה ע ק ד ה"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Akedah"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.14",
+   "text": "14 Abraham called the name of that place The LORD Will Provide, as it is said to this day, “In the mount of the LORD it will be provided.”"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.22.14",
+   "text": "ויקרא אברהם שם־המקום ההוא יהוה יראה אשר יאמר היום בהר יהוה יראה׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "behar"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "In the mount"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "of yahweh"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yeraeh"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "it will be provided."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22 / בראשית כב",
+   "osis": [
+    "Gen.22.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 22:14",
+   "osis": [
+    "Gen.22.14"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בהר",
+   "translit": "behar",
+   "gloss": "in the mount",
+   "strongs": "H2022"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "of yahweh (the LORD)",
+   "strongs": "H3068"
+  },
+  {
+   "lang": "he",
+   "word": "יראה",
+   "translit": "yeraeh",
+   "gloss": "it will be provided",
+   "strongs": "H7200"
+  },
+  {
+   "lang": "he",
+   "word": "העקדה",
+   "translit": "ha-akedah",
+   "gloss": "the binding (of Isaac)",
+   "strongs": "H6123"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Abraham",
+   "other": "אברהם"
+  },
+  {
+   "en": "yahweh",
+   "other": "יהוה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Abraham",
+   "God"
+  ],
+  "places": [
+   "Mount Moriah"
+  ],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "mount"
+  ],
+  "themes": [
+   "names of God",
+   "sacrifice",
+   "faith",
+   "redemption"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "The LORD will provide",
+  "Jehovah-jireh",
+  "Yahweh Yireh",
+  "Adonai Yireh",
+  "in the mount of the LORD it shall be seen",
+  "Genesis 22:14",
+  "Akedah",
+  "Akeda",
+  "binding of Isaac",
+  "YHWH",
+  "behar yahweh yeraeh",
+  "names of God",
+  "it will be provided",
+  "העקדה"
+ ],
+ "uncertain": [
+  "Hebrew is shown without vowel points; the last line ends with a colon-like sof pasuq. The translit and English gloss lines are shown left-to-right (yeraeh, yahweh, behar) and are listed here in Hebrew reading order. Colours in yahweh/LORD (y and L brown, w and R orange) not explained on the slide."
+ ],
+ "confidence": 0.95
+}

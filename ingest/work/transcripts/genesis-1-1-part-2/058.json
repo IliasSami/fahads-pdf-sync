@@ -1,0 +1,162 @@
+{
+ "id": "genesis-1-1-part-2/58",
+ "kinds": [
+  "letters",
+  "verse"
+ ],
+ "title": "Genesis 1:1 — where alef sits in each Hebrew word",
+ "summary": "Genesis 1:1 in transliteration and Hebrew (read from the left: ha’aretz, v’et, hashamayim, et, elohim, bara, bereshit) with a large blue alef (א) at the side. Each alef in the verse is blue and marked with its position in its word: 2nd, 2nd, 1st, 1st, 3rd, 3rd. The first letter ב of bereshit is red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ha’aretz v’et hashamayim et elohim bara bereshit"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ…"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "2nd 2nd 1st 1st 3rd 3rd"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(object marker)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "v’et",
+   "gloss": "and (object marker)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha’aretz",
+   "gloss": "the earth",
+   "strongs": "H776"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "b (bereshit)",
+   "other": "ב"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "appears in six words of Genesis 1:1: 3rd letter of בראשית, 3rd of ברא, 1st of אלהים, 1st of את, 2nd of ואת, 2nd of הארץ"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "first letter of the Bible, shown in red as the b of bereshit"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "Bible codes",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "alef",
+  "aleph",
+  "bereshit",
+  "in the beginning",
+  "first letter bet",
+  "letter positions in words",
+  "ha'aretz",
+  "hashamayim",
+  "elohim bara",
+  "Hebrew transliteration",
+  "Hebrew letters in Genesis 1:1",
+  "heaven and earth"
+ ],
+ "uncertain": [
+  "Exact colour of each individual letter was judged by eye; the blue alefs are clear in בראשית, ברא, אלהים, את, ואת and הארץ."
+ ],
+ "confidence": 0.92
+}

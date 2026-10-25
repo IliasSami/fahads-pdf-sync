@@ -1,0 +1,75 @@
+{
+ "id": "akeda-2/21",
+ "kinds": [
+  "picture"
+ ],
+ "title": "Coca-Cola advertisement: “Coke is it!”",
+ "summary": "A slide with only the Coca-Cola advertising logo: white 'Coke' lettering with a wavy swoosh on a red rounded rectangle, the slogan 'is it!' in large red letters, and the script 'Coca-Cola' logo underneath. No Bible text appears on the slide.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "Coke is it!"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "Coca-Cola"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "logo",
+   "description": "Red-and-white Coca-Cola advertising logo: a red rounded rectangle holding the word 'Coke' in white with a white wave across the bottom, followed by 'is it!' in bold red letters, with the red script 'Coca-Cola' signature logo below on the right.",
+   "subjects": [
+    "Coca-Cola",
+    "Coke",
+    "logo",
+    "advertising slogan",
+    "soft drink",
+    "red and white",
+    "brand"
+   ],
+   "text_in_picture": "Coke is it! Coca-Cola",
+   "credit": "Coca-Cola logo",
+   "box": [
+    0.03,
+    0.21,
+    0.97,
+    0.76
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "Coca-Cola logo"
+  ],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "Coke is it",
+  "Coca-Cola",
+  "Coke",
+  "Coca-Cola logo",
+  "advertising slogan",
+  "soft drink advertisement",
+  "red logo",
+  "brand logo",
+  "commercial",
+  "et",
+  "it"
+ ],
+ "uncertain": [
+  "The slide gives no explanation; it follows the slides on the Hebrew word et (alef-tav) and may be a play on 'et' sounding like 'it', but the slide does not say so"
+ ],
+ "confidence": 0.93
+}

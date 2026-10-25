@@ -1,0 +1,39 @@
+{
+  "id": "abel/120",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:14 — “hidden” (ester, אסתר)",
+  "summary": "Genesis 4:14 in English and Hebrew with “hidden” in purple and the Hebrew word אסתר (ester) highlighted letter by letter, plus a word study: ester (אסתר) means “Hidden.”",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:14", "osis": "Gen.4.14"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:יד"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.14", "text": "14 Surely You have driven me out this day from the face of the ground; and from your face I shall be hidden; and I shall be a fugitive and a vagabond on the earth, and it will happen that anyone who finds me will kill me.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.14", "text": "14 הן גרשת אתי היום מעל פני האדמה ומפניך אסתר והייתי נע ונד בארץ והיה כל מצאי יהרגני׃"},
+    {"lang": "translit", "role": "label", "text": "ester"},
+    {"lang": "he", "role": "label", "text": "אסתר"},
+    {"lang": "en", "role": "label", "text": "Hidden"}
+  ],
+  "refs": [{"shown": "Genesis 4:14 / בראשית ד:יד", "osis": ["Gen.4.14"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "אסתר", "translit": "ester", "gloss": "hidden (I shall be hidden)", "strongs": "H5641"}
+  ],
+  "color_links": [
+    {"en": "hidden", "other": "אסתר"},
+    {"en": "Hidden", "other": "אסתר"},
+    {"en": "e (ester)", "other": "א"},
+    {"en": "s (ester)", "other": "ס"},
+    {"en": "t (ester)", "other": "ת"},
+    {"en": "er (ester)", "other": "ר"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": ""},
+    {"lang": "he", "letter": "samech", "char": "ס", "value": 60, "meaning": ""},
+    {"lang": "he", "letter": "tav", "char": "ת", "value": 400, "meaning": ""},
+    {"lang": "he", "letter": "resh", "char": "ר", "value": 200, "meaning": ""}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain"], "places": [], "events": ["Cain's punishment"], "things": ["ground"], "themes": ["judgment", "exile", "hiddenness", "death"], "groups": []},
+  "keywords": ["hidden", "ester", "aster", "Esther", "hide", "from thy face shall I be hid", "hidden from God's face", "Hebrew word for hidden", "Cain's punishment", "Cain and Abel", "Genesis 4", "Genesis 4:14"],
+  "uncertain": [],
+  "confidence": 0.94
+}

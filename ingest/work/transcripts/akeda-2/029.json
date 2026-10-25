@@ -1,0 +1,124 @@
+{
+ "id": "akeda-2/29",
+ "kinds": [
+  "word-study",
+  "letters"
+ ],
+ "title": "Corban (קרבן): sacrificial offering",
+ "summary": "The Hebrew word corban (קרבן), meaning sacrificial offering, with its four letters colour-matched: qof, resh, bet and nun.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "corban"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "קרבן"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Sacrificial Offering"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "nun"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "resh"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "qof"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "קרבן",
+   "translit": "corban (qorban)",
+   "gloss": "sacrificial offering",
+   "strongs": "H7133"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "corban",
+   "other": "קרבן"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "qof",
+   "char": "ק",
+   "value": 100,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "nun",
+   "char": "ן",
+   "value": 50,
+   "meaning": "(final form)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "sacrifice",
+   "offering",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "corban",
+  "qorban",
+  "korban",
+  "sacrificial offering",
+  "offering",
+  "sacrifice",
+  "qof",
+  "resh",
+  "bet",
+  "nun",
+  "Hebrew word for offering",
+  "Leviticus offering"
+ ],
+ "uncertain": [
+  "Letter values and Strong's number added from standard tables; the slide shows only the letter names and colours."
+ ],
+ "confidence": 0.95
+}

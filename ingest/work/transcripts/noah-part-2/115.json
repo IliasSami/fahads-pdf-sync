@@ -1,0 +1,82 @@
+{
+ "id": "noah-part-2/115",
+ "kinds": [
+  "humor",
+  "text"
+ ],
+ "title": "Noah's excuses: animal rights lawsuit, EPA and a globe for the Army Corps",
+ "summary": "Continues the humorous modern-Noah story: an animal rights group sues over taking only two of each kind, the EPA demands an environmental impact statement on God's flood, and the Army Corps of Engineers asks for a map of the new flood plain, so Noah sends a globe.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "When I started rounding up the other animals, I got sued by an animal rights group."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "They objected to me only taking two of each kind aboard. Just when I got the suit dismissed, the EPA notified me that I could not complete the Ark without filing an environmental impact statement on your proposed flood."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "They didn't take very kindly to the idea that they had no jurisdiction over the conduct of the Creator of the universe."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Then the Army Corps of Engineers demanded a map of the proposed new flood plain."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "I sent them a globe."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "animals",
+   "globe"
+  ],
+  "themes": [
+   "humor"
+  ],
+  "groups": [
+   "EPA",
+   "Army Corps of Engineers",
+   "animal rights group"
+  ]
+ },
+ "keywords": [
+  "animal rights group",
+  "lawsuit",
+  "two of each kind",
+  "EPA",
+  "environmental impact statement",
+  "Creator of the universe",
+  "Army Corps of Engineers",
+  "flood plain",
+  "I sent them a globe",
+  "Noah joke",
+  "Noah humor",
+  "funny Noah story",
+  "Bible humor"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

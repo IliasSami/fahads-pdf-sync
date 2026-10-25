@@ -1,0 +1,217 @@
+{
+ "id": "genesis-1-1-wisdom/47",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Isaiah 11:2 — the Spirit (ruach) of wisdom and understanding",
+ "summary": "Isaiah 11:2 in English and Hebrew: the Spirit of the LORD rests on Him — the Spirit of wisdom and understanding, counsel and might, knowledge and the fear of the LORD. The word ruach (רוח, 'Spirit, Wind') is highlighted in gold each time, with 'wisdom' and 'understanding' also highlighted.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Isaiah 11:2",
+   "osis": "Isa.11.2"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ישעה יא:ב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "2 The Spirit of the LORD shall rest upon Him,",
+   "osis": "Isa.11.2"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "The Spirit of wisdom and understanding,",
+   "osis": "Isa.11.2"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "The Spirit of counsel and might,",
+   "osis": "Isa.11.2"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "The Spirit of knowledge and of the fear of the LORD.",
+   "osis": "Isa.11.2"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "2 ונחה עליו רוח יהוה",
+   "osis": "Isa.11.2"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "רוח חכמה ובינה",
+   "osis": "Isa.11.2"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "רוח עצה וגבורה",
+   "osis": "Isa.11.2"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "רוח דעת ויראת יהוה׃",
+   "osis": "Isa.11.2"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ruach"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "רוח"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Spirit, Wind"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Isaiah 11:2 / ישעה יא:ב",
+   "osis": [
+    "Isa.11.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "רוח",
+   "translit": "ruach",
+   "gloss": "Spirit, wind, breath",
+   "strongs": "H7307"
+  },
+  {
+   "lang": "he",
+   "word": "חכמה",
+   "translit": "chokhmah",
+   "gloss": "wisdom",
+   "strongs": "H2451"
+  },
+  {
+   "lang": "he",
+   "word": "בינה",
+   "translit": "binah",
+   "gloss": "understanding",
+   "strongs": "H998"
+  },
+  {
+   "lang": "he",
+   "word": "עצה",
+   "translit": "etzah",
+   "gloss": "counsel",
+   "strongs": "H6098"
+  },
+  {
+   "lang": "he",
+   "word": "גבורה",
+   "translit": "gevurah",
+   "gloss": "might",
+   "strongs": "H1369"
+  },
+  {
+   "lang": "he",
+   "word": "דעת",
+   "translit": "da'at",
+   "gloss": "knowledge",
+   "strongs": "H1847"
+  },
+  {
+   "lang": "he",
+   "word": "יראת",
+   "translit": "yirat",
+   "gloss": "fear of",
+   "strongs": "H3374"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Spirit",
+   "other": "רוח"
+  },
+  {
+   "en": "ruach",
+   "other": "רוח"
+  },
+  {
+   "en": "Wind",
+   "other": "רוח"
+  },
+  {
+   "en": "wisdom",
+   "other": "חכמה"
+  },
+  {
+   "en": "understanding",
+   "other": "בינה"
+  },
+  {
+   "en": "and",
+   "other": "ו"
+  },
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Holy Spirit",
+   "Messiah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "wisdom",
+   "understanding",
+   "counsel",
+   "might",
+   "knowledge",
+   "fear of the LORD",
+   "messianic prophecy",
+   "Holy Spirit"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Isaiah 11:2",
+  "seven spirits of God",
+  "Spirit of the LORD",
+  "ruach",
+  "ruach hakodesh",
+  "Spirit wind breath",
+  "Spirit of wisdom and understanding",
+  "Spirit of counsel and might",
+  "Spirit of knowledge and fear of the LORD",
+  "rest upon him",
+  "Branch of Jesse",
+  "messianic prophecy",
+  "chokhmah",
+  "binah"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,103 @@
+{
+  "id": "akeda-1/96",
+  "kinds": [
+    "verse"
+  ],
+  "title": "John 8:39-41 — if you are Abraham's children, do the deeds of Abraham",
+  "summary": "John 8:39-41: the people answer that Abraham is their father; Jesus replies that if they were Abraham's children they would do Abraham's deeds, not seek to kill Him, a man who told them the truth he heard from God. They answer that they have one Father, God. Abraham is in blue, Jesus and His words (Him, Me, I, the truth) in red, and God in blue, red and yellow.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "John 8:39-41",
+      "osis": [
+        "John.8.39",
+        "John.8.40",
+        "John.8.41"
+      ]
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "Ἰωάνης 8:39-41",
+      "osis": [
+        "John.8.39",
+        "John.8.40",
+        "John.8.41"
+      ]
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.39",
+      "text": "39 They answered and said to Him, “Abraham is our father.” Jesus said to them, “If you are Abraham’s children, do the deeds of Abraham."
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.40",
+      "text": "40 “But as it is, you are seeking to kill Me, a man who has told you the truth, which I heard from God; this Abraham did not do."
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.41",
+      "text": "41 “You are doing the deeds of your father.” They said to Him, “We were not born of fornication; we have one Father: God.”"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "John 8:39-41 / Ἰωάνης 8:39-41",
+      "osis": [
+        "John.8.39",
+        "John.8.40",
+        "John.8.41"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Jesus",
+      "Abraham",
+      "God"
+    ],
+    "places": [],
+    "events": [],
+    "things": [],
+    "themes": [
+      "fatherhood",
+      "truth",
+      "seed",
+      "murder",
+      "obedience"
+    ],
+    "groups": [
+      "Jews"
+    ]
+  },
+  "keywords": [
+    "John 8:39",
+    "John 8:40",
+    "John 8:41",
+    "John 8",
+    "Abraham is our father",
+    "if ye were Abraham's children",
+    "do the works of Abraham",
+    "seek to kill me",
+    "a man that hath told you the truth",
+    "not born of fornication",
+    "we have one Father, even God",
+    "deeds of your father",
+    "children of Abraham",
+    "Akedah",
+    "Akeda"
+  ],
+  "uncertain": [],
+  "confidence": 0.97
+}

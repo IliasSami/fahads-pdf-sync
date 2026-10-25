@@ -1,0 +1,126 @@
+{
+ "id": "red-heifer/5",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Isaiah 11:12 and Ezekiel 37:12-14 — regathering Israel to the land",
+ "summary": "Isaiah 11:12 (God gathers the outcasts of Israel and dispersed of Judah) shown together with Ezekiel 37:12-14 (God opens the graves, brings His people back to the land of Israel and puts His Spirit in them). Some letters of Israel, GOD, LORD and the word Spirit are coloured.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Isaiah 11:12",
+   "osis": "Isa.11.12"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ישעה יא:יב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Isa.11.12",
+   "text": "12 He will set up a banner for the nations, And will assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Ezekiel 37:12-14",
+   "osis": [
+    "Ezek.37.12",
+    "Ezek.37.13",
+    "Ezek.37.14"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "יחזקאל לז:יב-יד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": [
+    "Ezek.37.12",
+    "Ezek.37.14"
+   ],
+   "text": "12 Therefore prophesy and tell them that this is what the Lord GOD says: ‘O My people, I will open your graves and bring you up from them, and I will bring you back to the land of Israel."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ezek.37.14",
+   "text": "14 I will put My Spirit in you and you will live, and I will settle you in your own land. Then you will know that I, the LORD, have spoken, and I will do it, declares the LORD.’ ”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Isaiah 11:12 / ישעה יא:יב",
+   "osis": [
+    "Isa.11.12"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Ezekiel 37:12-14 / יחזקאל לז:יב-יד",
+   "osis": [
+    "Ezek.37.12",
+    "Ezek.37.13",
+    "Ezek.37.14"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Holy Spirit"
+  ],
+  "places": [
+   "Israel"
+  ],
+  "events": [
+   "Regathering of Israel"
+  ],
+  "things": [
+   "banner",
+   "graves"
+  ],
+  "themes": [
+   "prophecy",
+   "resurrection",
+   "regathering of Israel",
+   "covenant"
+  ],
+  "groups": [
+   "Israel",
+   "Jews",
+   "Gentiles"
+  ]
+ },
+ "keywords": [
+  "Isaiah 11:12",
+  "Ezekiel 37:12-14",
+  "Ezekiel 37",
+  "valley of dry bones",
+  "open your graves",
+  "bring you back to the land of Israel",
+  "I will put My Spirit in you",
+  "outcasts of Israel",
+  "dispersed of Judah",
+  "regathering of Israel",
+  "return to the land",
+  "prophecy",
+  "resurrection"
+ ],
+ "uncertain": [
+  "The reference header says Ezekiel 37:12-14 but only verse numbers 12 and 14 appear; verse 13 is not displayed."
+ ],
+ "confidence": 0.95
+}

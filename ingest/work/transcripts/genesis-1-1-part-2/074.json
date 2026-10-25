@@ -1,0 +1,261 @@
+{
+ "id": "genesis-1-1-part-2/74",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "Emet (truth) in the Hebrew alphabet: first, middle and last letters",
+ "summary": "The word emet (אמת), truth, spelled alef-mem-tav in blue, gold and red. Below it is the full Hebrew alphabet in two staggered rows of letter names, with alef (first letter), mem (middle letter) and tav (last letter) highlighted in the same colours.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "emet"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "א מ ת"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "truth"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shin qof pe samekh mem kaf tet zayin he gimel alef"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "א ב ג ד ה ו ז ח ט י כ ל מ נ ס ע פ צ ק ר ש ת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tav resh tsadi ayin nun lamed yod het vav dalet bet"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אמת",
+   "translit": "emet",
+   "gloss": "truth",
+   "strongs": "H571",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "emet",
+   "other": "אמת"
+  },
+  {
+   "en": "truth",
+   "other": "אמת"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "mem",
+   "other": "מ"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "first letter of the alphabet; first letter of emet (blue)"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "gimel",
+   "char": "ג",
+   "value": 3,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "dalet",
+   "char": "ד",
+   "value": 4,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "zayin",
+   "char": "ז",
+   "value": 7,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "het",
+   "char": "ח",
+   "value": 8,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "tet",
+   "char": "ט",
+   "value": 9,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "kaf",
+   "char": "כ",
+   "value": 20,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "middle letter of the alphabet; middle letter of emet (gold)"
+  },
+  {
+   "lang": "he",
+   "letter": "nun",
+   "char": "נ",
+   "value": 50,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "samekh",
+   "char": "ס",
+   "value": 60,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "ayin",
+   "char": "ע",
+   "value": 70,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": 80,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "tsadi",
+   "char": "צ",
+   "value": 90,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "qof",
+   "char": "ק",
+   "value": 100,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last letter of the alphabet; last letter of emet (red)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "truth"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "emet",
+  "truth",
+  "אמת",
+  "Hebrew alphabet",
+  "alef bet",
+  "aleph",
+  "alef mem tav",
+  "first middle last letter",
+  "aleph-bet chart",
+  "letter names",
+  "tav",
+  "mem"
+ ],
+ "uncertain": [
+  "The letter values are not shown on the slide; they are the standard values filled in from the letters shown."
+ ],
+ "confidence": 0.93
+}

@@ -1,0 +1,35 @@
+{
+  "id": "akeda-1/12",
+  "kinds": ["letters", "word-study"],
+  "title": "YHWH in pictographs: Hand Reveals, Nail Reveals",
+  "summary": "Shows the four letters of Yahweh (he, vav, he, yod as drawn from left to right, i.e. יהוה read right to left) each over its ancient pictograph and meaning (Reveal, Nail, Reveal, Hand), summed up as 'Hand Reveals, Nail Reveals.'",
+  "text": [
+    {"lang": "he", "role": "heading", "text": "י ה ו ה"},
+    {"lang": "translit", "role": "label", "text": "he vav he yod"},
+    {"lang": "en", "role": "label", "text": "Reveal Nail Reveal Hand"},
+    {"lang": "en", "role": "heading", "text": "Hand Reveals, Nail Reveals."}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "יהוה", "translit": "yahweh", "gloss": "LORD (the name of God)", "strongs": "H3068"}
+  ],
+  "color_links": [
+    {"en": "yod", "other": "י"},
+    {"en": "vav", "other": "ו"},
+    {"en": "Hand", "other": "י"},
+    {"en": "Nail", "other": "ו"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "yod", "char": "י", "value": 10, "meaning": "Hand (arm and hand pictograph)"},
+    {"lang": "he", "letter": "he", "char": "ה", "value": 5, "meaning": "Reveal (man with raised arms pictograph)"},
+    {"lang": "he", "letter": "vav", "char": "ו", "value": 6, "meaning": "Nail (hook pictograph)"}
+  ],
+  "numbers": [],
+  "pictures": [
+    {"type": "pictograph", "description": "A row of four ancient (paleo-)Hebrew pictograph letters, each underlined and standing under its modern Hebrew letter: he (figure with raised arms), vav (hook or nail), he again, and yod (arm and hand), labelled Reveal, Nail, Reveal, Hand.", "subjects": ["paleo-Hebrew alphabet", "pictographs", "ancient Hebrew letters", "YHWH", "hand", "nail"], "text_in_picture": "", "credit": null, "box": [0.25, 0.43, 0.78, 0.57]}
+  ],
+  "entities": {"people": ["God"], "places": [], "events": [], "things": ["nail"], "themes": ["names of God", "Hebrew letter meanings", "revelation"], "groups": []},
+  "keywords": ["Yahweh", "YHWH", "LORD", "hand reveals nail reveals", "yod", "he", "vav", "nail", "hand", "reveal", "pictographs", "paleo-Hebrew", "tetragrammaton", "letter meanings", "name of God"],
+  "uncertain": ["The Hebrew letters are drawn left to right as ה ו ה י (he vav he yod); transcribed in logical order as י ה ו ה."],
+  "confidence": 0.92
+}

@@ -1,0 +1,31 @@
+{
+  "id": "akeda-1/48",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 2:24 — two become one flesh (echad, אחד)",
+  "summary": "Genesis 2:24 in English and Hebrew: a man leaves father and mother and is joined to his wife, and they become one flesh. The Hebrew word for one, echad (אחד), is highlighted, with “Two → אחד” showing two becoming one.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 2:24", "osis": "Gen.2.24"},
+    {"lang": "he", "role": "reference", "text": "בראשית ב:כד"},
+    {"lang": "en", "role": "verse", "osis": "Gen.2.24", "text": "24 For this reason a man shall leave his father and his mother, and be joined to his wife; and they shall become One flesh."},
+    {"lang": "he", "role": "verse", "osis": "Gen.2.24", "text": "24 על־כן יעזב־איש את־אביו ואת־אמו ודבק באשתו והיו לבשר אחד׃"},
+    {"lang": "he", "role": "label", "text": "אחד"},
+    {"lang": "translit", "role": "label", "text": "echad"},
+    {"lang": "en", "role": "label", "text": "One"},
+    {"lang": "en", "role": "body", "text": "Two → אחד"}
+  ],
+  "refs": [{"shown": "Genesis 2:24 / בראשית ב:כד", "osis": ["Gen.2.24"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "אחד", "translit": "echad", "gloss": "one", "strongs": "H259"}
+  ],
+  "color_links": [
+    {"en": "One", "other": "אחד"},
+    {"en": "echad", "other": "אחד"}
+  ],
+  "letters": [],
+  "numbers": [{"value": 2, "note": "two (husband and wife) become one (echad)"}],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": [], "things": [], "themes": ["marriage", "compound unity", "one flesh"], "groups": []},
+  "keywords": ["one flesh", "echad", "one", "two become one", "marriage", "leave father and mother", "cleave unto his wife", "husband and wife", "compound unity", "Genesis 2", "unity"],
+  "uncertain": ["The Hebrew joins words with hyphens on the slide; transcribed as maqaf (־)."],
+  "confidence": 0.94
+}

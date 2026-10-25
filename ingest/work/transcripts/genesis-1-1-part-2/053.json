@@ -1,0 +1,183 @@
+{
+ "id": "genesis-1-1-part-2/53",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 2:1-3 in Hebrew: completed, host, seventh day, rested, work, sanctify",
+ "summary": "Hebrew text of Genesis 2:1–3 (no vowel points) with short English glosses above key words: completed, host, rested, work, seventh, sanctify. The glossed Hebrew words are in red and אלהים (God) is colour-coded in blue, red and gold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "host"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "completed"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.1",
+   "text": "2:1 ויכלו השמים והארץ וכל צבאם׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "rested"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "work"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "seventh"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.2",
+   "text": "2:2 ויכל אלהים ביום השביעי מלאכתו אשר עשה וישבת ביום השביעי מכל מלאכתו אשר עשה׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "sanctify"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.3",
+   "text": "2:3 ויברך אלהים את יום השביעי ויקדש אתו כי בו שבת מכל מלאכתו אשר ברא אלהים לעשות׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "2:1",
+   "osis": [
+    "Gen.2.1"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "2:2",
+   "osis": [
+    "Gen.2.2"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "2:3",
+   "osis": [
+    "Gen.2.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ויכלו",
+   "translit": "vayechulu",
+   "gloss": "completed (were finished)",
+   "strongs": "H3615",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "צבאם",
+   "translit": "tzeva'am",
+   "gloss": "host (their host)",
+   "strongs": "H6635",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "וישבת",
+   "translit": "vayishbot",
+   "gloss": "rested",
+   "strongs": "H7673",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "מלאכתו",
+   "translit": "melachto",
+   "gloss": "work (his work)",
+   "strongs": "H4399",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "השביעי",
+   "translit": "hashvi'i",
+   "gloss": "seventh",
+   "strongs": "H7637",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ויקדש",
+   "translit": "vayekadesh",
+   "gloss": "sanctify (hallowed)",
+   "strongs": "H6942",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "heavens",
+   "earth",
+   "seventh day"
+  ],
+  "themes": [
+   "creation",
+   "Sabbath",
+   "holiness",
+   "Hebrew word study"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 2:1",
+  "Genesis 2:2",
+  "Genesis 2:3",
+  "Genesis 2",
+  "seventh day",
+  "Sabbath",
+  "shabbat",
+  "God rested",
+  "God ended his work",
+  "sanctified the seventh day",
+  "host of them",
+  "heavens and the earth were finished",
+  "Hebrew text of Genesis",
+  "elohim"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

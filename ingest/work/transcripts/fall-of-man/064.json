@@ -1,0 +1,155 @@
+{
+ "id": "fall-of-man/64",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Acts 24:14 — after the Way which they call heresy (Ὁδὸν, hodon)",
+ "summary": "Acts 24:14 in English and Greek, with “Way” and the Greek Ὁδὸν (hodon) in red, matched with Hebrew derek (דרך). God and Θεῷ are colour-matched. The slide shows that the early believers’ path was called “the Way.”",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Acts 24:14",
+   "osis": "Acts.24.14"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Πράξεις 24:14",
+   "osis": "Acts.24.14"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "14 But this I confess unto thee, that after the Way which they call heresy, so worship I the God of my fathers, believing all things which are written in the law and in the prophets:",
+   "osis": "Acts.24.14"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "derek"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "דרך"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Way"
+  },
+  {
+   "lang": "el",
+   "role": "label",
+   "text": "Ὁδὸν"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hodon"
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "text": "14 ὁμολογῶ δὲ τοῦτό σοι, ὅτι κατὰ τὴν Ὁδὸν ἣν λέγουσιν αἵρεσιν οὕτως λατρεύω τῷ πατρῴῳ Θεῷ, πιστεύων πᾶσι τοῖς κατὰ τὸν νόμον καὶ τοῖς ἐν τοῖς προφήταις γεγραμμένοις,",
+   "osis": "Acts.24.14"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Acts 24:14 / Πράξεις 24:14",
+   "osis": [
+    "Acts.24.14"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "el",
+   "word": "Ὁδὸν",
+   "translit": "hodon",
+   "gloss": "way",
+   "strongs": "G3598"
+  },
+  {
+   "lang": "he",
+   "word": "דרך",
+   "translit": "derek",
+   "gloss": "way",
+   "strongs": "H1870"
+  },
+  {
+   "lang": "el",
+   "word": "Θεῷ",
+   "translit": "theo",
+   "gloss": "God",
+   "strongs": "G2316"
+  },
+  {
+   "lang": "el",
+   "word": "αἵρεσιν",
+   "translit": "hairesin",
+   "gloss": "heresy, sect",
+   "strongs": "G139"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Way",
+   "other": "Ὁδὸν"
+  },
+  {
+   "en": "God",
+   "other": "Θεῷ"
+  },
+  {
+   "en": "derek",
+   "other": "דרך"
+  },
+  {
+   "en": "hodon",
+   "other": "Ὁδὸν"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Paul",
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "the way",
+   "faith",
+   "Torah",
+   "prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Acts 24:14",
+  "Acts 24",
+  "the Way",
+  "after the Way which they call heresy",
+  "hodos",
+  "hodon",
+  "odos",
+  "derek",
+  "early Christians called the Way",
+  "Paul before Felix",
+  "law and the prophets",
+  "God of my fathers",
+  "Ὁδὸν"
+ ],
+ "uncertain": [
+  "Slide shows πᾶσι (not πᾶσιν as in some editions); transcribed as shown."
+ ],
+ "confidence": 0.93
+}

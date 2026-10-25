@@ -1,0 +1,142 @@
+{
+  "id": "abel/182",
+  "kinds": [
+    "verse"
+  ],
+  "title": "Luke 11:50-51, Matthew 21:11 and John 4:19 — Jesus called a prophet",
+  "summary": "Luke 11:50-51 (the blood of the prophets from Abel to Zechariah), Matthew 21:11 (the crowds call Jesus the prophet from Nazareth) and John 4:19 (the woman says to Him \"I understand that You are a prophet\"). Blood, prophet and Abel are picked out in colour.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Luke 11:50-51",
+      "osis": [
+        "Luke.11.50",
+        "Luke.11.51"
+      ]
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "ΛΟΥΚΑΝ 11:50-51"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Luke.11.50",
+      "text": "50 As a result, this generation will be charged with the blood of all the prophets that has been shed since the foundation of the world,"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Luke.11.51",
+      "text": "51 from the blood of Abel to the blood of Zechariah, who was killed between the altar and the sanctuary. Yes, I tell you, all of it will be charged to this generation."
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Matthew 21:11",
+      "osis": "Matt.21.11"
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "Ματθαίος 21:11"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Matt.21.11",
+      "text": "11 The crowds replied, “This is Jesus, the prophet from Nazareth in Galilee.”"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "John 4:19",
+      "osis": "John.4.19"
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "Ἰωάνης 4:19"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.4.19",
+      "text": "19 The woman says to Him, \"Sir, I understand that You are a prophet."
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Luke 11:50-51 / ΛΟΥΚΑΝ 11:50-51",
+      "osis": [
+        "Luke.11.50",
+        "Luke.11.51"
+      ],
+      "role": "quoted"
+    },
+    {
+      "shown": "Matthew 21:11 / Ματθαίος 21:11",
+      "osis": [
+        "Matt.21.11"
+      ],
+      "role": "quoted"
+    },
+    {
+      "shown": "John 4:19 / Ἰωάνης 4:19",
+      "osis": [
+        "John.4.19"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Abel",
+      "Zechariah",
+      "Jesus"
+    ],
+    "places": [
+      "Nazareth",
+      "Galilee"
+    ],
+    "events": [],
+    "things": [
+      "altar",
+      "sanctuary"
+    ],
+    "themes": [
+      "blood",
+      "judgment",
+      "prophecy"
+    ],
+    "groups": [
+      "prophets",
+      "crowds"
+    ]
+  },
+  "keywords": [
+    "Luke 11:50-51",
+    "Matthew 21:11",
+    "John 4:19",
+    "Jesus a prophet",
+    "I perceive that you are a prophet",
+    "woman at the well",
+    "Samaritan woman",
+    "prophet from Nazareth",
+    "blood of Abel",
+    "blood of Zechariah",
+    "blood of the prophets",
+    "John 4"
+  ],
+  "uncertain": [
+    "The quotation mark before \"Sir\" in John 4:19 looks like two straight apostrophes, and no closing quotation mark is shown."
+  ],
+  "confidence": 0.96
+}

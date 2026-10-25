@@ -1,0 +1,272 @@
+{
+ "id": "genesis-1-1-wisdom/94",
+ "kinds": [
+  "verse",
+  "letters",
+  "word-study"
+ ],
+ "title": "Genesis 2:3 last letters spell אמת (emet, truth); Genesis 1:1 gives תאם",
+ "summary": "Genesis 2:3 now has its last letters marked: א of ברא, ם of אלהים and ת of לעשות, with arrows down to אמת (labelled tav mem alef), while Genesis 1:1 gives the same letters reversed as תאם (mem alef tav). Between them is Truth / emet / אמת.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "1 In beginning God created…",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "translit",
+   "role": "verse",
+   "text": "1 bereshit bara elohim…"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "1 בראשית ברא אלהים...",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:3",
+   "osis": "Gen.2.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "3 …which God had created and made.",
+   "osis": "Gen.2.3"
+  },
+  {
+   "lang": "translit",
+   "role": "verse",
+   "text": "3 …bara elohim lasowt."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "3 ...ברא אלהים לעשות׃",
+   "osis": "Gen.2.3"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תאם"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "mem alef tav"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אמת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tav mem alef"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Truth"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "emet"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אמת"
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "text": "“formless and void”"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "—Genesis 1:2",
+   "osis": "Gen.1.2"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Creator Week"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 2:3 / בראשית ב:ג",
+   "osis": [
+    "Gen.2.3"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 1:2",
+   "osis": [
+    "Gen.1.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "לעשות",
+   "translit": "lasowt",
+   "gloss": "to make",
+   "strongs": "H6213"
+  },
+  {
+   "lang": "he",
+   "word": "אמת",
+   "translit": "emet",
+   "gloss": "truth",
+   "strongs": "H571"
+  },
+  {
+   "lang": "he",
+   "word": "תאם",
+   "translit": "mem alef tav",
+   "gloss": "the three underlined last letters of bereshit, bara, elohim",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Truth",
+   "other": "אמת"
+  },
+  {
+   "en": "emet",
+   "other": "אמת"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "mem",
+   "other": "ם"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last letter of לעשות (lasowt), underlined in red"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "last letter of ברא (bara) in Genesis 2:3, underlined in blue"
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "ם",
+   "value": 40,
+   "meaning": "last letter of אלהים (elohim) in Genesis 2:3, underlined in light blue"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "truth",
+   "creation",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "Genesis 1:2",
+  "emet",
+  "truth",
+  "mem alef tav",
+  "last letters",
+  "final letters",
+  "hidden word",
+  "bereshit bara elohim",
+  "aleph",
+  "Creator Week",
+  "Hebrew letters",
+  "תאם",
+  "formless and void",
+  "Genesis 2:3",
+  "lasowt",
+  "tav mem alef",
+  "created and made",
+  "reverse order"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

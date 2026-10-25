@@ -1,0 +1,122 @@
+{
+  "id": "akeda-1/102",
+  "kinds": [
+    "verse"
+  ],
+  "title": "John 8:56-59 — before Abraham was born, I am",
+  "summary": "John 8:56-59: Jesus says Abraham rejoiced to see His day; the Jews object that He is not yet fifty and ask if He has seen Abraham; Jesus answers 'before Abraham was born, I am', and they pick up stones to throw at Him, but He hides Himself and goes out of the temple. The words 'I am' are enlarged and coloured blue, red and gold, like the word 'God' elsewhere on the slides.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "John 8:56-59",
+      "osis": [
+        "John.8.56",
+        "John.8.57",
+        "John.8.58",
+        "John.8.59"
+      ]
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "Ἰωάνης 8:56-59",
+      "osis": [
+        "John.8.56",
+        "John.8.57",
+        "John.8.58",
+        "John.8.59"
+      ]
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.56",
+      "text": "56 “Your father Abraham rejoiced to see My day, and he saw it and was glad.”"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.57",
+      "text": "57 So the Jews said to Him, “You are not yet fifty years old, and have You seen Abraham?”"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.58",
+      "text": "58 Jesus said to them, “Truly, truly, I say to you, before Abraham was born, I am.”"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.59",
+      "text": "59 Therefore they picked up stones to throw at Him, but Jesus hid Himself and went out of the temple."
+    }
+  ],
+  "refs": [
+    {
+      "shown": "John 8:56-59 / Ἰωάνης 8:56-59",
+      "osis": [
+        "John.8.56",
+        "John.8.57",
+        "John.8.58",
+        "John.8.59"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "en",
+      "word": "I am",
+      "translit": "ego eimi",
+      "gloss": "'I am' — Jesus' claim, enlarged and coloured like the name of God",
+      "strongs": null
+    }
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Jesus",
+      "Abraham"
+    ],
+    "places": [],
+    "events": [],
+    "things": [
+      "stones",
+      "temple"
+    ],
+    "themes": [
+      "names of God",
+      "deity of Christ",
+      "temple",
+      "judgment"
+    ],
+    "groups": [
+      "Jews"
+    ]
+  },
+  "keywords": [
+    "John 8:56",
+    "John 8:57",
+    "John 8:58",
+    "John 8:59",
+    "John 8",
+    "before Abraham was I am",
+    "before Abraham was born I am",
+    "I AM",
+    "ego eimi",
+    "Abraham rejoiced to see my day",
+    "thou art not yet fifty years old",
+    "took up stones to cast at him",
+    "Jesus hid himself",
+    "went out of the temple",
+    "Akedah",
+    "Akeda"
+  ],
+  "uncertain": [],
+  "confidence": 0.97
+}

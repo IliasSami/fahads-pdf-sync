@@ -1,0 +1,103 @@
+{
+ "id": "red-heifer/90",
+ "kinds": [
+  "text",
+  "word-study"
+ ],
+ "title": "A Paradox — Yeshua was made tamei (unclean), taking on the impurity of death",
+ "summary": "Adds a longer explanation: like those who administered purification from death became unclean, yeshua was made tamei (Hebrew טמא, 'unclean'), even taking on the contaminating impurity of spiritual death, in order to cleanse us from sin and death. The earlier two sentences stay above it.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "A Paradox"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "In order to cleanse us, yeshua became unclean."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "In order to free us from death, yeshua died."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Like those who administered purification from death became unclean, yeshua was made tamei טמא unclean, even taking on the contaminating impurity of spiritual death, in order to cleanse us from sin and death."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "טמא",
+   "translit": "tamei",
+   "gloss": "unclean",
+   "strongs": "H2931"
+  },
+  {
+   "lang": "other",
+   "word": "yeshua",
+   "translit": "yeshua",
+   "gloss": "Jesus",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "tamei",
+   "other": "טמא"
+  },
+  {
+   "en": "unclean",
+   "other": "טמא"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Crucifixion"
+  ],
+  "things": [],
+  "themes": [
+   "clean and unclean",
+   "purification",
+   "death",
+   "sin",
+   "atonement",
+   "substitution",
+   "redemption",
+   "paradox",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "paradox",
+  "tamei",
+  "tame",
+  "unclean in Hebrew",
+  "טמא",
+  "Yeshua was made unclean",
+  "Jesus made unclean",
+  "impurity of death",
+  "corpse contamination",
+  "spiritual death",
+  "cleanse us from sin and death",
+  "purification from death",
+  "Jesus as the red heifer",
+  "red heifer typology"
+ ],
+ "uncertain": [
+  "'yeshua' and 'tamei' are shown in Latin italics (transliteration); only טמא is in Hebrew script"
+ ],
+ "confidence": 0.96
+}

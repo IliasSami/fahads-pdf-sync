@@ -1,0 +1,191 @@
+{
+ "id": "noah-part-2/123",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 14:18 — Melchizedek, king of Salem, brings bread and wine",
+ "summary": "Genesis 14:18 in English and Hebrew with matching colours: Melchizedek king of Salem brought out bread and wine, and was priest of God Most High. The name Melchizedek is split into coloured parts (Melchi, i, zedek) and bread and wine are underlined.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 14:18",
+   "osis": "Gen.14.18"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Melchizedek"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית יד:יח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.14.18",
+   "text": "18 And Melchizedek king of Salem brought out bread and wine; now he was a priest of God Most High."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.14.18",
+   "text": "ומלכי־צדק מלך שלם הוציא לחם ויין והוא כהן לאל עליון׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 14:18 / בראשית יד:יח",
+   "osis": [
+    "Gen.14.18"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ומלכי־צדק",
+   "translit": "u-malki-tsedeq",
+   "gloss": "and Melchizedek (my king is righteous)",
+   "strongs": "H4442"
+  },
+  {
+   "lang": "he",
+   "word": "מלך",
+   "translit": "melekh",
+   "gloss": "king",
+   "strongs": "H4428"
+  },
+  {
+   "lang": "he",
+   "word": "שלם",
+   "translit": "shalem",
+   "gloss": "Salem",
+   "strongs": "H8004"
+  },
+  {
+   "lang": "he",
+   "word": "לחם",
+   "translit": "lechem",
+   "gloss": "bread",
+   "strongs": "H3899"
+  },
+  {
+   "lang": "he",
+   "word": "יין",
+   "translit": "yayin",
+   "gloss": "wine",
+   "strongs": "H3196"
+  },
+  {
+   "lang": "he",
+   "word": "כהן",
+   "translit": "kohen",
+   "gloss": "priest",
+   "strongs": "H3548"
+  },
+  {
+   "lang": "he",
+   "word": "אל",
+   "translit": "el",
+   "gloss": "God",
+   "strongs": "H410"
+  },
+  {
+   "lang": "he",
+   "word": "עליון",
+   "translit": "elyon",
+   "gloss": "Most High",
+   "strongs": "H5945"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "And",
+   "other": "ו"
+  },
+  {
+   "en": "Melchi",
+   "other": "מלכי"
+  },
+  {
+   "en": "i",
+   "other": "י"
+  },
+  {
+   "en": "zedek",
+   "other": "צדק"
+  },
+  {
+   "en": "king",
+   "other": "מלך"
+  },
+  {
+   "en": "Salem",
+   "other": "שלם"
+  },
+  {
+   "en": "bread",
+   "other": "לחם"
+  },
+  {
+   "en": "and",
+   "other": "ו"
+  },
+  {
+   "en": "wine",
+   "other": "יין"
+  },
+  {
+   "en": "G",
+   "other": "א"
+  },
+  {
+   "en": "od",
+   "other": "ל"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Melchizedek",
+   "God"
+  ],
+  "places": [
+   "Salem"
+  ],
+  "events": [],
+  "things": [
+   "bread",
+   "wine"
+  ],
+  "themes": [
+   "priesthood",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Melchizedek",
+  "Melchisedec",
+  "king of Salem",
+  "bread and wine",
+  "brought forth bread and wine",
+  "priest of the most high God",
+  "God Most High",
+  "El Elyon",
+  "Genesis 14",
+  "priest-king",
+  "communion",
+  "Abraham",
+  "my king is righteous"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

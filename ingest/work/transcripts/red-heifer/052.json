@@ -1,0 +1,88 @@
+{
+ "id": "red-heifer/52",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Numbers 19:6-7 — cedar, hyssop and scarlet cast into the burning heifer",
+ "summary": "Numbers 19:6-7 in English: the priest takes cedar wood, hyssop and scarlet material and casts them into the burning heifer, then washes his clothes and bathes in water, and remains unclean until evening. Key words (cedar wood, hyssop, scarlet, heifer, water, unclean) are shown in different colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:6-7",
+   "osis": [
+    "Num.19.6",
+    "Num.19.7"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:ו-ז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.6",
+   "text": "6 ‘The priest shall take cedar wood and hyssop and scarlet material and cast it into the midst of the burning heifer."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.7",
+   "text": "7 ‘The priest shall then wash his clothes and bathe his body in water, and afterward come into the camp, but the priest shall be unclean until evening."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19:6-7 / במדבר יט:ו-ז",
+   "osis": [
+    "Num.19.6",
+    "Num.19.7"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "cedar wood",
+   "hyssop",
+   "scarlet material",
+   "water"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "priesthood",
+   "sacrifice"
+  ],
+  "groups": [
+   "priests"
+  ]
+ },
+ "keywords": [
+  "Numbers 19",
+  "red heifer",
+  "cedar wood",
+  "hyssop",
+  "scarlet material",
+  "scarlet wool",
+  "cast into the burning heifer",
+  "priest unclean until evening",
+  "wash clothes and bathe in water",
+  "purification",
+  "ashes of the heifer",
+  "come into the camp"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

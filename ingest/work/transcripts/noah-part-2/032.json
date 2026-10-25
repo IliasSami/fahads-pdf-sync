@@ -1,0 +1,69 @@
+{
+ "id": "noah-part-2/32",
+ "kinds": [
+  "verse"
+ ],
+ "title": "John 6:48 — \"I am the bread of life\"",
+ "summary": "John 6:48 in English: Jesus says \"I am the bread of life.\" The word bread is highlighted in brown and Jesus in red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 6:48",
+   "osis": "John.6.48"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 6:48"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.6.48",
+   "text": "48 \"I am the bread of life.—Jesus"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 6:48 / Ἰωάνης 6:48",
+   "osis": [
+    "John.6.48"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "bread"
+  ],
+  "themes": [
+   "life",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 6:48",
+  "John 6",
+  "I am the bread of life",
+  "bread of life",
+  "Jesus",
+  "I AM",
+  "bread",
+  "manna",
+  "Gospel of John"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

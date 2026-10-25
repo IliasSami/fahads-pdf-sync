@@ -1,0 +1,195 @@
+{
+ "id": "genesis-1-1-part-2/59",
+ "kinds": [
+  "gematria",
+  "letters"
+ ],
+ "title": "The six alefs of Genesis 1:1 add up to 86, the value of Elohim",
+ "summary": "Genesis 1:1 spelled out letter by letter (28 letters, numbered 1 to 28) with its six alefs in blue at positions 3, 9, 10, 15, 23 and 26; these add up as 26 + 23 + 15 + 10 + 9 + 3 = 86. Below, elohim (אלהים) is shown letter by letter with values 1, 30, 5, 10, 40, which also total 86.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "ב ר א ש י ת ב ר א א ל ה י ם א ת ה ש מ י ם ו א ת ה א ר ץ׃"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "26 + 23 + 15 + 10 + 9 + 3 = 86"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "elohim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל ה י ם"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "40 10 5 30 1 = 86"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     10,
+     5,
+     30,
+     1
+    ],
+    "total": 86
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "e",
+   "other": "א"
+  },
+  {
+   "en": "l",
+   "other": "ל"
+  },
+  {
+   "en": "h",
+   "other": "ה"
+  },
+  {
+   "en": "i",
+   "other": "י"
+  },
+  {
+   "en": "m",
+   "other": "ם"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "final mem",
+   "char": "ם",
+   "value": 40,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 86,
+   "note": "sum of the positions of the six alefs in Genesis 1:1 (26 + 23 + 15 + 10 + 9 + 3)"
+  },
+  {
+   "value": 86,
+   "note": "gematria of אלהים (elohim, God): 1 + 30 + 5 + 10 + 40"
+  },
+  {
+   "value": 28,
+   "note": "letters in Genesis 1:1, numbered 1 to 28 on the slide"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Bible codes",
+   "names of God",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "86",
+  "Elohim 86",
+  "gematria of Elohim",
+  "alef positions",
+  "aleph",
+  "28 letters",
+  "Genesis 1:1 letters",
+  "26 23 15 10 9 3",
+  "Bible numerics",
+  "name of God",
+  "Hebrew numerology",
+  "sum of alefs"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,87 @@
+{
+  "id": "abel/184",
+  "kinds": [
+    "verse",
+    "text"
+  ],
+  "title": "Deuteronomy 18:18 — Messiah will be a Prophet like Moses and Jewish",
+  "summary": "Deuteronomy 18:18 (God will raise up a prophet like you from among their brothers) with the teacher's conclusion that Messiah will be a Prophet like Moses and will be Jewish, and that yeshua meets these requirements.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Deuteronomy 18:18",
+      "osis": "Deut.18.18"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "דברים יח:יח"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Deut.18.18",
+      "text": "18 I will raise up for them a prophet like you from among their brothers. I will put My words in his mouth, and he will tell them everything I command him."
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Messiah will be a Prophet like Moses and will be Jewish"
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "yeshua meets these requirements"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Deuteronomy 18:18 / דברים יח:יח",
+      "osis": [
+        "Deut.18.18"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Moses",
+      "Jesus",
+      "God"
+    ],
+    "places": [],
+    "events": [],
+    "things": [],
+    "themes": [
+      "messianic prophecy",
+      "prophecy",
+      "Torah"
+    ],
+    "groups": [
+      "Jews",
+      "Israel"
+    ]
+  },
+  "keywords": [
+    "Deuteronomy 18:18",
+    "prophet like Moses",
+    "a prophet like unto thee",
+    "I will raise up a prophet",
+    "from among their brethren",
+    "put my words in his mouth",
+    "Messiah will be a prophet",
+    "Messiah will be Jewish",
+    "Yeshua meets the requirements",
+    "messianic prophecy",
+    "Deuteronomy 18",
+    "the Prophet"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

@@ -1,0 +1,212 @@
+{
+ "id": "genesis-1-1-wisdom/36",
+ "kinds": [
+  "verse",
+  "word-study",
+  "gematria"
+ ],
+ "title": "Understanding: tebunot (תבונות) and binah (בינה) = 67",
+ "summary": "Psalm 49:3 with \"understanding\" highlighted, then two Hebrew words for understanding: tebunot (תבונות) and binah (בינה). The letters of binah are spelled out as he, nun, yod, bet with values 5 + 50 + 10 + 2 = 67.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 49:3",
+   "osis": "Ps.49.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים מט:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tebunot"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תבונות"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Understanding"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "binah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בינה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Understanding"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "he nun yod bet"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 50 10 2 = 67"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 49:3 / תהילים מט:ג",
+   "osis": [
+    "Ps.49.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תבונות",
+   "translit": "tebunot",
+   "gloss": "understanding",
+   "strongs": "H8394"
+  },
+  {
+   "lang": "he",
+   "word": "בינה",
+   "translit": "binah",
+   "gloss": "understanding",
+   "strongs": "H998",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     50,
+     10,
+     2
+    ],
+    "total": 67
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "understanding",
+   "other": "תבונות"
+  },
+  {
+   "en": "Understanding",
+   "other": "תבונות"
+  },
+  {
+   "en": "Understanding",
+   "other": "בינה"
+  },
+  {
+   "en": "binah",
+   "other": "בינה"
+  },
+  {
+   "en": "he",
+   "other": "ה"
+  },
+  {
+   "en": "nun",
+   "other": "נ"
+  },
+  {
+   "en": "yod",
+   "other": "י"
+  },
+  {
+   "en": "bet",
+   "other": "ב"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "letter of binah (shown first, left to right)"
+  },
+  {
+   "lang": "he",
+   "letter": "nun",
+   "char": "נ",
+   "value": 50,
+   "meaning": "letter of binah"
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "letter of binah"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "letter of binah"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 67,
+   "note": "gematria of בינה (binah, understanding)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "mouth",
+   "heart"
+  ],
+  "themes": [
+   "understanding",
+   "wisdom",
+   "gematria",
+   "meditation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "binah",
+  "bina",
+  "tebunot",
+  "tevunot",
+  "understanding",
+  "Hebrew word for understanding",
+  "gematria 67",
+  "67",
+  "בינה",
+  "Psalm 49:3",
+  "he nun yod bet"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

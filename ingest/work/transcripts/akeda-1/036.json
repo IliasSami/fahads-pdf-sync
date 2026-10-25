@@ -1,0 +1,40 @@
+{
+  "id": "akeda-1/36",
+  "kinds": ["word-study", "letters"],
+  "title": "Isaac (Yitzhak) means “He will laugh” — spelled yod, tsadi, chet, kuf",
+  "summary": "States that Abraham laughed at God's promised son, so God had him name his son Isaac, Yitzhak (יצחק), “He will laugh.” The four Hebrew letters (kuf, chet, tsadi, yod) are shown in colour, with the chet marked with the number 8.",
+  "text": [
+    {"lang": "en", "role": "body", "text": "Abraham laughed at God’s promised son"},
+    {"lang": "en", "role": "body", "text": "so God had him name his son:"},
+    {"lang": "he", "role": "label", "text": "י צ ח ק"},
+    {"lang": "translit", "role": "label", "text": "kuf   chet   tsadi   yod"},
+    {"lang": "en", "role": "number", "text": "8"},
+    {"lang": "en", "role": "label", "text": "↔ He will laugh"},
+    {"lang": "translit", "role": "label", "text": "yitzhak"},
+    {"lang": "en", "role": "label", "text": "Isaac"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "יצחק", "translit": "yitzhak", "gloss": "Isaac; “he will laugh”", "strongs": "H3327"}
+  ],
+  "color_links": [
+    {"en": "yod", "other": "י"},
+    {"en": "chet", "other": "ח"},
+    {"en": "8", "other": "ח"},
+    {"en": "Isaac", "other": "יצחק"},
+    {"en": "yitzhak", "other": "יצחק"},
+    {"en": "He will laugh", "other": "יצחק"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "kuf", "char": "ק", "value": null, "meaning": "last letter of Isaac (Yitzhak)"},
+    {"lang": "he", "letter": "chet", "char": "ח", "value": 8, "meaning": "third letter of Isaac (Yitzhak); marked 8"},
+    {"lang": "he", "letter": "tsadi", "char": "צ", "value": null, "meaning": "second letter of Isaac (Yitzhak)"},
+    {"lang": "he", "letter": "yod", "char": "י", "value": null, "meaning": "first letter of Isaac (Yitzhak)"}
+  ],
+  "numbers": [{"value": 8, "note": "number of the letter chet in Isaac (Yitzhak)"}],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "God", "Isaac"], "places": [], "events": [], "things": [], "themes": ["names of God", "Hebrew letter meanings", "laughter", "promise", "gematria"], "groups": []},
+  "keywords": ["Isaac", "Yitzhak", "Yitzchak", "he will laugh", "Abraham laughed", "meaning of Isaac", "name of Isaac", "promised son", "kuf", "chet", "tsadi", "yod", "Hebrew letters of Isaac"],
+  "uncertain": ["Letter values for kuf, tsadi and yod are not shown on this slide (only 8 for chet)."],
+  "confidence": 0.93
+}

@@ -1,0 +1,25 @@
+{
+  "id": "akeda-1/81",
+  "kinds": ["verse"],
+  "title": "Genesis 26:1-3 — famine; the LORD tells Isaac not to go down to Egypt",
+  "summary": "Genesis 26:1-3: in a famine Isaac goes to Gerar, to Abimelech king of the Philistines; the LORD appears and tells him not to go down to Egypt but to stay in the land, promising to be with him, bless him and establish the oath sworn to his father Abraham. Abraham is in blue, Isaac in red, and LORD is multicoloured.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 26:1-3", "osis": ["Gen.26.1", "Gen.26.2", "Gen.26.3"]},
+    {"lang": "he", "role": "reference", "text": "בראשית כו:א-ג"},
+    {"lang": "en", "role": "verse", "osis": "Gen.26.1", "text": "1 Now there was a famine in the land, besides the previous famine that had occurred in the days of Abraham. So Isaac went to Gerar, to Abimelech king of the Philistines."},
+    {"lang": "en", "role": "verse", "osis": "Gen.26.2", "text": "2 The LORD appeared to him and said, “Do not go down to Egypt; stay in the land of which I shall tell you."},
+    {"lang": "en", "role": "verse", "osis": "Gen.26.3", "text": "3 “Sojourn in this land and I will be with you and bless you, for to you and to your descendants I will give all these lands, and I will establish the oath which I swore to your father Abraham."}
+  ],
+  "refs": [
+    {"shown": "Genesis 26:1-3 / בראשית כו:א-ג", "osis": ["Gen.26.1", "Gen.26.2", "Gen.26.3"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Isaac", "Abraham", "God", "Abimelech"], "places": ["Gerar", "Egypt"], "events": ["famine"], "things": [], "themes": ["covenant", "blessing", "promise", "obedience", "promised land"], "groups": ["Philistines"]},
+  "keywords": ["Genesis 26:1", "Genesis 26:2", "Genesis 26:3", "Genesis 26", "famine in the land", "Isaac went to Gerar", "Abimelech king of the Philistines", "do not go down to Egypt", "sojourn in this land", "I will be with thee and will bless thee", "oath which I swore to Abraham", "Isaac stays in the land", "Akedah", "Akeda"],
+  "uncertain": [],
+  "confidence": 0.97
+}

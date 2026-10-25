@@ -1,0 +1,179 @@
+{
+  "id": "abel/21",
+  "kinds": [
+    "letters",
+    "verse",
+    "word-study"
+  ],
+  "title": "Cain (קין): quf = 100, with Genesis 26:12 (Isaac reaps a hundredfold)",
+  "summary": "The Hebrew alphabet with Cain's name קין (nun, yod, quf) highlighted and 100, the value of quf. Genesis 26:12 is shown, with \"hundredfold\" (Isaac's harvest) in the same gold colour as quf and 100.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "The Hebrew Alphabet (alefbet)"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "alef bet gimel dalet he vav zayin het tet yod kaph lamed mem nun samech ayin pe tzadi quf resh shin tav"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "א ב ג ד ה ו ז ח ט י כ ל מ נ ס ע פ צ ק ר ש ת"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "qayin"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "קין"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Cain"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "nun yod quf"
+    },
+    {
+      "lang": "en",
+      "role": "number",
+      "text": "100"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 26:12",
+      "osis": "Gen.26.12"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית כו:יב",
+      "osis": "Gen.26.12"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "12 Then Isaac sowed in that land, and reaped in the same year a hundredfold; and the LORD blessed him.",
+      "osis": "Gen.26.12"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 26:12 / בראשית כו:יב",
+      "osis": [
+        "Gen.26.12"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "קין",
+      "translit": "qayin",
+      "gloss": "Cain",
+      "strongs": "H7014"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "qayin",
+      "other": "קין"
+    },
+    {
+      "en": "nun",
+      "other": "נ"
+    },
+    {
+      "en": "yod",
+      "other": "י"
+    },
+    {
+      "en": "quf",
+      "other": "ק"
+    },
+    {
+      "en": "100",
+      "other": "ק"
+    },
+    {
+      "en": "hundredfold",
+      "other": "ק"
+    }
+  ],
+  "letters": [
+    {
+      "lang": "he",
+      "letter": "quf",
+      "char": "ק",
+      "value": 100,
+      "meaning": "first letter of קין"
+    },
+    {
+      "lang": "he",
+      "letter": "yod",
+      "char": "י",
+      "value": 10,
+      "meaning": "second letter of קין"
+    },
+    {
+      "lang": "he",
+      "letter": "nun",
+      "char": "נ",
+      "value": 50,
+      "meaning": "last letter of קין (final form ן)"
+    }
+  ],
+  "numbers": [
+    {
+      "value": 100,
+      "note": "value of the letter quf (ק), first letter of Cain; the verse's word for a hundred is highlighted in the same gold colour"
+    }
+  ],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Cain",
+      "Isaac",
+      "God"
+    ],
+    "places": [],
+    "events": [],
+    "things": [
+      "Hebrew alphabet"
+    ],
+    "themes": [
+      "gematria",
+      "Hebrew letter meanings",
+      "grace"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Hebrew alphabet",
+    "Cain",
+    "qayin",
+    "quf",
+    "qof",
+    "kuf",
+    "100",
+    "hundredfold",
+    "hundred fold harvest",
+    "gematria",
+    "Isaac sowed",
+    "the LORD blessed him",
+    "Genesis 26:12"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

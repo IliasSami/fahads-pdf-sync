@@ -1,0 +1,115 @@
+{
+ "id": "gods-garden-in-eden/66",
+ "kinds": [
+  "verse",
+  "comparison"
+ ],
+ "title": "First Adam is given a helper; Last Adam gives a Helper (Genesis 2:18, John 14:26)",
+ "summary": "Two columns. First Adam is given a helper: Genesis 2:18, 'It is not good for the man to be alone; I will make him a helper suitable for him.' Last Adam gives a Helper: John 14:26, the Helper, the Holy Spirit, whom the Father will send in My name. The words are colour-coded, with 'Helper' in gold and 'alone' double-underlined.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "First Adam"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Last Adam"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Is Given a Helper"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Gives a Helper"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "18 Then the LORD God said, “It is not good for the man to be alone; I will make him a helper suitable for him.”",
+   "osis": "Gen.2.18"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "—Genesis 2:18",
+   "osis": "Gen.2.18"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "26 \"But the Helper, the Holy Spirit, whom the Father will send in My name, He will teach you all things, and bring to your remembrance all that I said to you.",
+   "osis": "John.14.26"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "—John 14:26",
+   "osis": "John.14.26"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:18",
+   "osis": [
+    "Gen.2.18"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "John 14:26",
+   "osis": [
+    "John.14.26"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Jesus",
+   "God",
+   "Holy Spirit",
+   "Eve"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "typology",
+   "marriage",
+   "grace"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "First Adam Last Adam",
+  "helper suitable for him",
+  "helper fit for him",
+  "it is not good for the man to be alone",
+  "Holy Spirit the Helper",
+  "Comforter",
+  "Counselor",
+  "Paraclete",
+  "Genesis 2:18",
+  "John 14:26",
+  "God gives a helper",
+  "Trinity colour coding",
+  "Father Son Holy Spirit"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

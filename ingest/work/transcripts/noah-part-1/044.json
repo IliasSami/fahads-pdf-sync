@@ -1,0 +1,134 @@
+{
+ "id": "noah-part-1/44",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 6:14 — make an ark (tebah) of gopher wood",
+ "summary": "Genesis 6:14 in English and Hebrew: God tells Noah to make an ark of gopher wood with rooms and cover it inside and out with pitch. The word ark is highlighted in red in English and in the Hebrew (תבת / תבה, tebah), with arrows pointing at the letters of תבה.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:14",
+   "osis": "Gen.6.14"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "14 “Make for yourself an ark of gopher wood; you shall make the ark with rooms, and shall cover it inside and out with pitch.",
+   "osis": "Gen.6.14"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "עשה לך תבת עצי־גפר קנים תעשה",
+   "osis": "Gen.6.14"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "את־התבה וכפרת אתה מבית ומחוץ בכפר׃",
+   "osis": "Gen.6.14"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "ark"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tebah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תבה"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:14 / בראשית ו:יד",
+   "osis": [
+    "Gen.6.14"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תבת",
+   "translit": "tevat",
+   "gloss": "ark (of)",
+   "strongs": "H8392"
+  },
+  {
+   "lang": "he",
+   "word": "תבה",
+   "translit": "tebah",
+   "gloss": "ark",
+   "strongs": "H8392"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "ark",
+   "other": "תבת"
+  },
+  {
+   "en": "ark",
+   "other": "תבה"
+  },
+  {
+   "en": "tebah",
+   "other": "תבה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "gopher wood",
+   "pitch"
+  ],
+  "themes": [
+   "redemption",
+   "judgment"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 6:14",
+  "ark",
+  "tebah",
+  "teva",
+  "Noah's ark",
+  "gopher wood",
+  "make thee an ark",
+  "rooms",
+  "pitch within and without",
+  "ark of gopher wood",
+  "תבה"
+ ],
+ "uncertain": [
+  "The ark word is split in two colours (תב red, ה black; 'ar' red, 'k' black; 'teb' red, 'ah' black) with arrows above the letters; the meaning of that split is not stated on the slide."
+ ],
+ "confidence": 0.92
+}

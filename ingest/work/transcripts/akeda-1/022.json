@@ -1,0 +1,42 @@
+{
+  "id": "akeda-1/22",
+  "kinds": ["verse", "word-study"],
+  "title": "Isaiah 7:14 in Hebrew and English — Immanuel: immanu + el, 'With us is el'",
+  "summary": "Isaiah 7:14 in English and full Hebrew, with sign written as 'oat' (אות), the virgin (העלמה), the son (בן) and the name Immanuel colour-coded. Below, עמנו אל is split into immanu and el: 'With us is el.'",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Isaiah 7:14", "osis": "Isa.7.14"},
+    {"lang": "he", "role": "reference", "text": "ישעה ז:יד"},
+    {"lang": "en", "role": "verse", "osis": "Isa.7.14", "text": "14 Therefore adonai himself shall give you a oat;"},
+    {"lang": "en", "role": "verse", "osis": "Isa.7.14", "text": "Behold, the virgin shall conceive, and bear a son,"},
+    {"lang": "en", "role": "verse", "osis": "Isa.7.14", "text": "and shall call his name Immanuel."},
+    {"lang": "he", "role": "verse", "osis": "Isa.7.14", "text": "לכן יתן אדני הוא לכם אות"},
+    {"lang": "he", "role": "verse", "osis": "Isa.7.14", "text": "הנה העלמה הרה וילדת בן"},
+    {"lang": "he", "role": "verse", "osis": "Isa.7.14", "text": "וקראת שמו עמנו אל׃"},
+    {"lang": "translit", "role": "label", "text": "immanu el"},
+    {"lang": "he", "role": "label", "text": "עמנו אל"},
+    {"lang": "en", "role": "label", "text": "With us is el"}
+  ],
+  "refs": [{"shown": "Isaiah 7:14 / ישעה ז:יד", "osis": ["Isa.7.14"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "אות", "translit": "oat (ot)", "gloss": "sign", "strongs": "H226"},
+    {"lang": "he", "word": "אדני", "translit": "adonai", "gloss": "Lord", "strongs": "H136"},
+    {"lang": "he", "word": "העלמה", "translit": "ha-almah", "gloss": "the virgin / young woman", "strongs": "H5959"},
+    {"lang": "he", "word": "בן", "translit": "ben", "gloss": "son", "strongs": "H1121"},
+    {"lang": "he", "word": "עמנו אל", "translit": "immanu el", "gloss": "With us is el (God)", "strongs": "H6005"}
+  ],
+  "color_links": [
+    {"en": "adonai", "other": "אדני"},
+    {"en": "oat", "other": "אות"},
+    {"en": "virgin", "other": "העלמה"},
+    {"en": "son", "other": "בן"},
+    {"en": "el", "other": "אל"},
+    {"en": "immanu", "other": "עמנו"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Jesus"], "places": [], "events": ["Birth of Jesus"], "things": [], "themes": ["messianic prophecy", "virgin birth", "names of God", "meaning of names"], "groups": []},
+  "keywords": ["Isaiah 7:14", "Immanuel", "Emmanuel", "immanu el", "with us is el", "God with us", "virgin shall conceive", "almah", "sign", "oat", "adonai", "ha-almah", "Isaiah 7"],
+  "uncertain": ["English line reads 'a oat' (the slide's replacement for 'sign'); transcribed as shown."],
+  "confidence": 0.94
+}

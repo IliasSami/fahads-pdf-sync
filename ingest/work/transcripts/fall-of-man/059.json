@@ -1,0 +1,79 @@
+{
+ "id": "fall-of-man/59",
+ "kinds": [
+  "word-study"
+ ],
+ "title": "derek (דרך) — “Way”: from where we get…",
+ "summary": "Word-study slide showing the Hebrew word דרך (derek), meaning “Way,” in red, followed by the unfinished line “from where we get…”.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "derek"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "דרך"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Way"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "from where we get…"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "דרך",
+   "translit": "derek",
+   "gloss": "way",
+   "strongs": "H1870"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "derek",
+   "other": "דרך"
+  },
+  {
+   "en": "Way",
+   "other": "דרך"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "the way",
+   "Hebrew word study"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "derek",
+  "derech",
+  "the Way",
+  "way",
+  "road",
+  "path",
+  "דרך",
+  "Hebrew word for way",
+  "from where we get",
+  "word study",
+  "Strong's H1870"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

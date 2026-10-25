@@ -1,0 +1,97 @@
+{
+ "id": "noah-part-1/71",
+ "kinds": [
+  "humor",
+  "song"
+ ],
+ "title": "Humor: 'Irish Rover Version' lines about animals and the missing unicorns",
+ "summary": "Second slide of the song-style Noah parody headed Genesis 6:19-22: a list of animals (green alligators, long-necked geese, humpty-backed camels, chimpanzees, cats, rats, elephants) ending with a joke about not forgetting unicorns, credited as 'IRV - Irish Rover Version'. Lines are summarised here rather than copied word for word.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:19-22",
+   "osis": [
+    "Gen.6.19",
+    "Gen.6.20",
+    "Gen.6.21",
+    "Gen.6.22"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יט-כב"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "[Lyric-style lines, summarised not copied: a list of animals for the ark (alligators, geese, camels, chimpanzees, cats, rats, elephants) and a closing joke about not forgetting the unicorns. 'Green' is in green, 'caMels' in gold, 'elephants' in grey.]"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "IRV—Irish Rover Version"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:19-22 / בראשית ו:יט-כב",
+   "osis": [
+    "Gen.6.19",
+    "Gen.6.20",
+    "Gen.6.21",
+    "Gen.6.22"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "alligators",
+   "geese",
+   "camels",
+   "chimpanzees",
+   "cats",
+   "rats",
+   "elephants",
+   "unicorns",
+   "animals"
+  ],
+  "themes": [
+   "humor"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Irish Rover Version",
+  "IRV",
+  "unicorns",
+  "alligators",
+  "camels",
+  "elephants",
+  "chimpanzees",
+  "animals on the ark",
+  "Noah humor",
+  "funny Noah song",
+  "Irish Rovers",
+  "unicorn song",
+  "Genesis 6:19-22"
+ ],
+ "uncertain": [
+  "Song-lyric lines on this slide were not transcribed verbatim (summarised in a note block) because song lyrics are not reproduced. The word 'camels' is styled 'caMels' with an enlarged M on the slide."
+ ],
+ "confidence": 0.9
+}

@@ -1,0 +1,245 @@
+{
+ "id": "elijah-elisha/19",
+ "kinds": [
+  "table",
+  "comparison"
+ ],
+ "title": "A Prophet Like Unto Moses: Moses / Yeshua checklist (part 2)",
+ "summary": "Headed by 'I will raise up a prophet from their countrymen like you' (Deuteronomy 18:18), a second two-column checklist of 20 more ways Moses (moshe) and Yeshua match, from choosing 12 helpers and appointing 70 to being envied, judge, teacher, servant, prophet, priest and king. Every row has a blue tick for Moses and a red tick for Yeshua; 'He Sang' has blue and red music notes instead, and 'Teacher, Servant' has double ticks. Hebrew letters מ ש ה (Moshe) and י ש ו ע (Yeshua) run down the right edge.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "I will raise up a prophet from their countrymen like you"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "—Deuteronomy 18:18",
+   "osis": "Deut.18.18"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "דברים יח:יח",
+   "osis": "Deut.18.18"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "moshe"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yeshua"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ ש ה"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ש ו ע"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Chose 12 to Assist Him"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Says Promise Land is for Children"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Was Listened to by God"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Has his Authority Challenged"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "2 or 3 Witnesses for Truth"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "He Washed Others’ Feet"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Reappeared After his Death"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Prayed God’s People be Forgiven"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Dignitaries Interested in Corpse"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Erected a Tabernacle"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "He Finished His Work"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Appointed 70"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "He Sang"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "He Wept"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "He Sat"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "He Was envied"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Judge"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Teacher, Servant"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Prophet"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Priest"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "King"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "✔ ✔ (every row ticked blue for moshe and red for yeshua; “He Sang” shows music notes instead of ticks; “Teacher, Servant” has double ticks)"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Deuteronomy 18:18 / דברים יח:יח",
+   "osis": [
+    "Deut.18.18"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "משה",
+   "translit": "moshe",
+   "gloss": "Moses",
+   "strongs": "H4872"
+  },
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Yeshua (Jesus)",
+   "strongs": "H3442"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "moshe",
+   "other": "מ ש ה"
+  },
+  {
+   "en": "yeshua",
+   "other": "י ש ו ע"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 12,
+   "note": "Chose 12 to assist him"
+  },
+  {
+   "value": 70,
+   "note": "Appointed 70"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Moses",
+   "Jesus",
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "tabernacle"
+  ],
+  "themes": [
+   "prophecy",
+   "messianic prophecy",
+   "typology",
+   "priesthood",
+   "judgment"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "prophet like Moses",
+  "Moses and Jesus parallels",
+  "Moshe",
+  "Yeshua",
+  "Deuteronomy 18:18",
+  "appointed 70",
+  "chose 12",
+  "prophet priest king",
+  "washed feet",
+  "checklist",
+  "type of Christ",
+  "raise up a prophet"
+ ],
+ "uncertain": [
+  "The right-hand column's first row is blank (no item or ticks)."
+ ],
+ "confidence": 0.93
+}

@@ -1,0 +1,46 @@
+{
+  "id": "fall-of-man/45",
+  "kinds": ["letters", "gematria"],
+  "title": "69 in Hebrew letters: samekh (support, 60) + tet (coiled snake, 9)",
+  "summary": "The number 69 (the difference between skin and light) is written with two Hebrew letters, samekh and tet. The slide gives each letter's ancient pictograph and meaning: samekh means support (value 60) and tet means coiled snake (value 9).",
+  "text": [
+    {"lang": "en", "role": "number", "text": "69"},
+    {"lang": "he", "role": "label", "text": "ס ט"},
+    {"lang": "en", "role": "number", "text": "69"},
+    {"lang": "he", "role": "label", "text": "ס"},
+    {"lang": "translit", "role": "label", "text": "samekh"},
+    {"lang": "en", "role": "label", "text": "S"},
+    {"lang": "en", "role": "label", "text": "Support"},
+    {"lang": "en", "role": "number", "text": "60"},
+    {"lang": "he", "role": "label", "text": "ט"},
+    {"lang": "translit", "role": "label", "text": "tet"},
+    {"lang": "en", "role": "label", "text": "T"},
+    {"lang": "en", "role": "label", "text": "Coiled Snake"},
+    {"lang": "en", "role": "number", "text": "9"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [
+    {"en": "samekh", "other": "ס"},
+    {"en": "Support", "other": "ס"},
+    {"en": "tet", "other": "ט"},
+    {"en": "Coiled Snake", "other": "ט"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "samekh", "char": "ס", "value": 60, "meaning": "support (prop/thorn pictograph); sound S"},
+    {"lang": "he", "letter": "tet", "char": "ט", "value": 9, "meaning": "coiled snake (circle with an X pictograph); sound T"}
+  ],
+  "numbers": [
+    {"value": 69, "note": "written ס ט (samekh 60 + tet 9); the difference between skin (276) and light (207)"},
+    {"value": 60, "note": "value of the letter samekh (ס)"},
+    {"value": 9, "note": "value of the letter tet (ט)"}
+  ],
+  "pictures": [
+    {"type": "pictograph", "description": "Ancient (paleo-)Hebrew pictograph of the letter samekh: a black vertical stem crossed by three horizontal bars, like a prop or support, above a light-green underline.", "subjects": ["paleo-Hebrew alphabet", "pictograph", "samekh", "support", "prop"], "text_in_picture": "", "credit": null, "box": [0.45, 0.33, 0.53, 0.49]},
+    {"type": "pictograph", "description": "Ancient (paleo-)Hebrew pictograph of the letter tet: a black circle with an X inside, representing a coiled snake, above an olive-green underline.", "subjects": ["paleo-Hebrew alphabet", "pictograph", "tet", "coiled snake", "serpent"], "text_in_picture": "", "credit": null, "box": [0.45, 0.68, 0.53, 0.83]}
+  ],
+  "entities": {"people": [], "places": [], "events": ["Fall of Man"], "things": [], "themes": ["Hebrew letter meanings", "gematria", "serpent"], "groups": []},
+  "keywords": ["69", "samekh", "samech", "tet", "teth", "support", "coiled snake", "serpent", "pictographs", "paleo-Hebrew", "ancient Hebrew letters", "letter meanings", "Hebrew numbers", "skin minus light", "gematria"],
+  "uncertain": [],
+  "confidence": 0.94
+}

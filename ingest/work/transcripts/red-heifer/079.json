@@ -1,0 +1,156 @@
+{
+ "id": "red-heifer/79",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Numbers 19:17 — mayim chayim, \"Living Water\"",
+ "summary": "Same Numbers 19:17 slide with a new line added: mayim chayim, מים חיים, 'Living Water' — the Hebrew words for 'running water' in the verse, shown in matching colours (mayim/water in blue, chayim/living in green).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:17",
+   "osis": "Num.19.17"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:יז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.17",
+   "text": "17 ‘And for an unclean person they shall take some of the ashes of the heifer burnt for purification from sin, and running water shall be put on them in a vessel."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Num.19.17",
+   "text": "17 ולקחו לטמא מעפר שרפת החטאת ונתן עליו מים חיים אל־כלי׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "mayim chayim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מים חיים"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Living Water"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19:17 / במדבר יט:יז",
+   "osis": [
+    "Num.19.17"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "מים חיים",
+   "translit": "mayim chayim",
+   "gloss": "living water (running water)",
+   "strongs": "H4325"
+  },
+  {
+   "lang": "he",
+   "word": "מים",
+   "translit": "mayim",
+   "gloss": "water",
+   "strongs": "H4325"
+  },
+  {
+   "lang": "he",
+   "word": "חיים",
+   "translit": "chayim",
+   "gloss": "living / running",
+   "strongs": "H2416"
+  },
+  {
+   "lang": "he",
+   "word": "טמא",
+   "translit": "tamei",
+   "gloss": "unclean",
+   "strongs": "H2931"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "unclean",
+   "other": "טמא"
+  },
+  {
+   "en": "water",
+   "other": "מים"
+  },
+  {
+   "en": "running",
+   "other": "חיים"
+  },
+  {
+   "en": "mayim",
+   "other": "מים"
+  },
+  {
+   "en": "chayim",
+   "other": "חיים"
+  },
+  {
+   "en": "Water",
+   "other": "מים"
+  },
+  {
+   "en": "Living",
+   "other": "חיים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "ashes",
+   "running water",
+   "living water",
+   "vessel"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "sin",
+   "Torah",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Numbers 19",
+  "living water",
+  "mayim chayim",
+  "running water",
+  "מים חיים",
+  "water of life",
+  "ashes and living water",
+  "purification from sin",
+  "heifer ashes mixed with water",
+  "word study living water",
+  "Jesus living water"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

@@ -1,0 +1,88 @@
+{
+ "id": "fall-of-man/20",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 3:8-9 — Adam and Eve hide; the LORD God calls “Where are you?”",
+ "summary": "Genesis 3:8-9 in English: Adam and Eve hear the LORD God walking in the garden and hide among the trees, and the LORD God calls to the man, “Where are you?” The words LORD God and the word “trees” are highlighted in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:8-9",
+   "osis": [
+    "Gen.3.8",
+    "Gen.3.9"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:ח־ט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "8 They heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden.",
+   "osis": "Gen.3.8"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "9 Then the LORD God called to the man, and said to him, “Where are you?”",
+   "osis": "Gen.3.9"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:8-9 / בראשית ג:ח־ט",
+   "osis": [
+    "Gen.3.8",
+    "Gen.3.9"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam",
+   "Eve"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [
+   "trees"
+  ],
+  "themes": [
+   "sin",
+   "hiding from God",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Where are you",
+  "Adam where art thou",
+  "voice of the LORD God walking in the garden",
+  "cool of the day",
+  "hid themselves among the trees",
+  "hiding from God",
+  "LORD God",
+  "Genesis 3:8",
+  "Genesis 3:9",
+  "Fall of Man",
+  "presence of the LORD"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

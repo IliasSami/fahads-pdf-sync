@@ -1,0 +1,93 @@
+{
+ "id": "noah-part-2/52",
+ "kinds": [
+  "calendar",
+  "verse"
+ ],
+ "title": "Nisan calendar with Passover (Pesach) and Leviticus 23:11",
+ "summary": "A one-month calendar of Nisan (days 1–30) with Pesach / Passover marked in red where days 14–22 would be, followed by Leviticus 23:11 on waving the sheaf the day after the Sabbath.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Nisan 1 2 3 · 4 5 6 7 8 9 10 · 11 12 13 P E S A C H 17 · P A S S O V E R 23 24 · 25 26 27 28 29 30"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Leviticus 23:11",
+   "osis": "Lev.23.11"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ויקרא כג:יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.23.11",
+   "text": "11 He is to wave the sheaf before the Lord so it will be accepted on your behalf; the priest is to wave it on the day after the Sabbath."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Leviticus 23:11 / ויקרא כג:יא",
+   "osis": [
+    "Lev.23.11"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 30,
+   "note": "days in the month of Nisan as shown"
+  },
+  {
+   "value": 17,
+   "note": "day shown after the word PESACH on the Nisan calendar"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Passover",
+   "Feast of First Fruits"
+  ],
+  "things": [
+   "Hebrew calendar",
+   "sheaf"
+  ],
+  "themes": [
+   "biblical feasts",
+   "Flood chronology"
+  ],
+  "groups": [
+   "priests"
+  ]
+ },
+ "keywords": [
+  "Nisan",
+  "Hebrew calendar",
+  "Jewish calendar",
+  "Pesach",
+  "Passover",
+  "Leviticus 23:11",
+  "wave the sheaf",
+  "day after the Sabbath",
+  "firstfruits",
+  "first month",
+  "calendar of Nisan",
+  "14 Nisan"
+ ],
+ "uncertain": [
+  "The calendar hides the dates 14-16 under the word PESACH and 18-22 under PASSOVER; only 17 and 23 are visible next to them."
+ ],
+ "confidence": 0.95
+}

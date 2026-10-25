@@ -1,0 +1,164 @@
+{
+ "id": "fall-of-man/29",
+ "kinds": [
+  "list",
+  "comparison"
+ ],
+ "title": "Two Seeds from Two Trees: Knowledge of Good/Evil (hasatan) vs Life (yeshua)",
+ "summary": "Two-column list of 'Two Seeds from Two Trees'. Under 'Knowledge Good/Evil': hasatan, Cain, Ishmael, Esau, Agag, Haman, Herod. Under 'Life': yeshua, Abel (struck through), Shem, Isaac, Jacob, Samuel, Mordecai.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Two Seeds from Two Trees"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Knowledge Good/Evil"
+  },
+  {
+   "lang": "translit",
+   "role": "list",
+   "text": "hasatan"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Cain"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Ishmael"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Esau"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Agag"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Haman"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Herod"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Life"
+  },
+  {
+   "lang": "translit",
+   "role": "list",
+   "text": "yeshua"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "~~Abel~~ Shem"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Isaac"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Jacob"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Samuel"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Mordecai"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "השטן",
+   "translit": "hasatan",
+   "gloss": "the adversary (Satan)",
+   "strongs": "H7854"
+  },
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Yeshua (Jesus), 'salvation'",
+   "strongs": "H3442"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Satan",
+   "Cain",
+   "Ishmael",
+   "Esau",
+   "Agag",
+   "Haman",
+   "Herod",
+   "Jesus",
+   "Abel",
+   "Shem",
+   "Isaac",
+   "Jacob",
+   "Samuel",
+   "Mordecai"
+  ],
+  "places": [],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [
+   "tree of the knowledge of good and evil",
+   "tree of life"
+  ],
+  "themes": [
+   "seed",
+   "good and evil",
+   "typology",
+   "tree of life"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "two seeds",
+  "two trees",
+  "seed of the serpent",
+  "seed of the woman",
+  "tree of knowledge of good and evil",
+  "tree of life",
+  "hasatan",
+  "yeshua",
+  "Cain and Abel",
+  "Ishmael and Isaac",
+  "Esau and Jacob",
+  "Agag and Samuel",
+  "Haman and Mordecai",
+  "Herod",
+  "Genesis 3:15"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

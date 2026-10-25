@@ -1,0 +1,177 @@
+{
+ "id": "noah-part-2/125",
+ "kinds": [
+  "word-study"
+ ],
+ "title": "Melchizedek means 'My King is Righteous' (shadowed text)",
+ "summary": "Same breakdown of Melchizedek (מלכיצדק) as the previous slide, now with drop-shadow lettering: malki, 'my king' (מלכ plus י, 'my'), and ṣedeq, 'righteous(ness)' (צדק), giving 'My King is Righteous'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Melchizedek"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "מלכיצדק"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "צדק"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מלכ י"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ṣedeq"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "i malik"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "\"righteous(ness)\""
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "my king"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "My King is Righteous"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "מלכיצדק",
+   "translit": "malki-tsedeq",
+   "gloss": "Melchizedek: my king is righteous",
+   "strongs": "H4442"
+  },
+  {
+   "lang": "he",
+   "word": "צדק",
+   "translit": "ṣedeq",
+   "gloss": "righteousness",
+   "strongs": "H6664"
+  },
+  {
+   "lang": "he",
+   "word": "מלכ",
+   "translit": "malik",
+   "gloss": "king",
+   "strongs": "H4428"
+  },
+  {
+   "lang": "he",
+   "word": "י",
+   "translit": "i",
+   "gloss": "my (suffix)",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Melchi",
+   "other": "מלכ"
+  },
+  {
+   "en": "i",
+   "other": "י"
+  },
+  {
+   "en": "zedek",
+   "other": "צדק"
+  },
+  {
+   "en": "ṣedeq",
+   "other": "צדק"
+  },
+  {
+   "en": "righteous(ness)",
+   "other": "צדק"
+  },
+  {
+   "en": "i",
+   "other": "י"
+  },
+  {
+   "en": "malik",
+   "other": "מלכ"
+  },
+  {
+   "en": "my",
+   "other": "י"
+  },
+  {
+   "en": "king",
+   "other": "מלכ"
+  },
+  {
+   "en": "My",
+   "other": "י"
+  },
+  {
+   "en": "King",
+   "other": "מלכ"
+  },
+  {
+   "en": "Righteous",
+   "other": "צדק"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "suffix meaning 'my' (the 'i' in malki)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Melchizedek"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "Hebrew name meanings",
+   "priesthood"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Melchizedek",
+  "Melchisedec",
+  "malki-tsedeq",
+  "my king is righteous",
+  "king of righteousness",
+  "tsedeq",
+  "zedek",
+  "righteousness",
+  "name meaning",
+  "Hebrew name meaning",
+  "malik king",
+  "Genesis 14"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,99 @@
+{
+ "id": "red-heifer/107",
+ "kinds": [
+  "list",
+  "text"
+ ],
+ "title": "7 more Red Heifers since Ezra, until the 2nd Temple was destroyed",
+ "summary": "Text slide continuing the list of the nine Red Heifers: one by Moses, one by Ezra [1,000 years later], and 7 since Ezra [in the next 500 years, until the destruction of the 2nd Temple]. The 7 and the words 2nd Temple are in gold, the 2 in red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Only 9 Red Heifers were ever Prepared"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "One by Moses"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "One by Ezra [1,000 years later]"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "7 since Ezra"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "[in the next 500 years,"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "until the destruction of the 2nd Temple]"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 9,
+   "note": "total number of red heifers ever prepared, according to the slide"
+  },
+  {
+   "value": 1000,
+   "note": "years between Moses and Ezra"
+  },
+  {
+   "value": 7,
+   "note": "red heifers prepared since Ezra"
+  },
+  {
+   "value": 500,
+   "note": "years from Ezra until the destruction of the 2nd Temple"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Moses",
+   "Ezra"
+  ],
+  "places": [],
+  "events": [
+   "Destruction of the Second Temple"
+  ],
+  "things": [
+   "red heifer"
+  ],
+  "themes": [
+   "purification",
+   "temple",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "nine red heifers",
+  "9 red heifers",
+  "7 since Ezra",
+  "seven red heifers",
+  "500 years",
+  "destruction of the Second Temple",
+  "2nd Temple",
+  "70 AD",
+  "Ezra",
+  "Moses",
+  "red heifer history",
+  "Numbers 19"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

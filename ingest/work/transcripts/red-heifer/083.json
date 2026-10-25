@@ -1,0 +1,64 @@
+{
+ "id": "red-heifer/83",
+ "kinds": [
+  "text"
+ ],
+ "title": "A Paradox — the clean man who gathers the ashes becomes unclean",
+ "summary": "'A Paradox' slide with a second statement added: the clean priest who does the sacrifice becomes unclean, and the clean man who gathers the ashes becomes unclean. 'clean', 'priest', 'ashes' and 'unclean' are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "A Paradox"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The clean priest who does the sacrifice becomes unclean."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The clean man who gathers the ashes becomes unclean."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "ashes"
+  ],
+  "themes": [
+   "clean and unclean",
+   "sacrifice",
+   "priesthood",
+   "purification",
+   "typology"
+  ],
+  "groups": [
+   "priests"
+  ]
+ },
+ "keywords": [
+  "paradox",
+  "red heifer paradox",
+  "clean priest becomes unclean",
+  "clean man gathers the ashes",
+  "gatherer of the ashes unclean",
+  "sacrifice makes unclean",
+  "the paradox of the red heifer",
+  "Numbers 19",
+  "ashes of the heifer",
+  "purifying the unclean defiles the clean"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

@@ -1,0 +1,38 @@
+{
+  "id": "abel/18",
+  "kinds": ["letters", "word-study"],
+  "title": "Cain (קין): quf has the value 100",
+  "summary": "The letters of Cain's name קין (nun, yod, quf) are highlighted in the Hebrew alphabet, and the number 100 — the value of the first letter quf (ק) — is added.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Hebrew Alphabet (alefbet)"},
+    {"lang": "translit", "role": "label", "text": "alef bet gimel dalet he vav zayin het tet yod kaph lamed mem nun samech ayin pe tzadi quf resh shin tav"},
+    {"lang": "he", "role": "label", "text": "א ב ג ד ה ו ז ח ט י כ ל מ נ ס ע פ צ ק ר ש ת"},
+    {"lang": "translit", "role": "label", "text": "qayin"},
+    {"lang": "he", "role": "label", "text": "קין"},
+    {"lang": "en", "role": "label", "text": "Cain"},
+    {"lang": "translit", "role": "label", "text": "nun yod quf"},
+    {"lang": "en", "role": "number", "text": "100"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "קין", "translit": "qayin", "gloss": "Cain", "strongs": "H7014"}
+  ],
+  "color_links": [
+    {"en": "qayin", "other": "קין"},
+    {"en": "nun", "other": "נ"},
+    {"en": "yod", "other": "י"},
+    {"en": "quf", "other": "ק"},
+    {"en": "100", "other": "ק"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "quf", "char": "ק", "value": 100, "meaning": "first letter of קין"},
+    {"lang": "he", "letter": "yod", "char": "י", "value": 10, "meaning": "second letter of קין"},
+    {"lang": "he", "letter": "nun", "char": "נ", "value": 50, "meaning": "last letter of קין (final form ן)"}
+  ],
+  "numbers": [{"value": 100, "note": "value of the letter quf (ק), first letter of Cain"}],
+  "pictures": [],
+  "entities": {"people": ["Cain"], "places": [], "events": [], "things": ["Hebrew alphabet"], "themes": ["Hebrew letter meanings", "gematria"], "groups": []},
+  "keywords": ["Hebrew alphabet", "Cain", "qayin", "quf", "qof", "kuf", "100", "letter values", "gematria", "nun", "yod", "spelling of Cain"],
+  "uncertain": [],
+  "confidence": 0.93
+}

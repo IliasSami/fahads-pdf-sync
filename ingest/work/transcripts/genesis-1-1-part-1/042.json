@@ -1,0 +1,155 @@
+{
+ "id": "genesis-1-1-part-1/42",
+ "kinds": [
+  "gematria",
+  "letters",
+  "diagram"
+ ],
+ "title": "Elohim letter values with a bracket of 36 (triangle of 36)",
+ "summary": "The five letters of elohim (אלהים) with their values 40, 10, 5, 30, 1 from left to right. A gold bracket labelled 36 sits under the values 5, 30 and 1 (the letters ה ל א), with a gold triangle of 36 small triangles below it.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "elohim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל ה י ם"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "40 10 5 30 1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "|____36____|"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "36"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     10,
+     5,
+     30,
+     1
+    ],
+    "total": 86
+   }
+  }
+ ],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "ם",
+   "value": 40,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 36,
+   "note": "bracket under the values 5, 30 and 1 of ה ל א in elohim; also a perfect triangle of 36"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A small gold pyramid of 36 tiny outline triangles arranged in 8 rows, with the number 36 in gold beneath it.",
+   "subjects": [
+    "triangular number 36",
+    "gold triangles",
+    "triangle pattern",
+    "number diagram"
+   ],
+   "text_in_picture": "36",
+   "credit": null,
+   "box": [
+    0.69,
+    0.7,
+    0.83,
+    0.92
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "triangle"
+  ],
+  "themes": [
+   "names of God",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "elohim",
+  "gematria",
+  "36",
+  "perfect triangle",
+  "triangular number",
+  "40 10 5 30 1",
+  "86",
+  "אלהים",
+  "number 36",
+  "Hebrew letter values",
+  "God",
+  "Genesis 1:1"
+ ],
+ "uncertain": [
+  "a tiny stray blue triangle symbol appears near the left middle of the slide (likely an animation leftover)"
+ ],
+ "confidence": 0.93
+}

@@ -1,0 +1,224 @@
+{
+ "id": "noah-part-2/49",
+ "kinds": [
+  "timeline",
+  "word-study"
+ ],
+ "title": "Exodus camps by date, with yam (Sea) and suph (Reeds): the Sea of Reeds",
+ "summary": "The Exodus timeline from the previous slide (succoth 14 Nisan, etham 15, pi-hahiroth 16, Reed Sea Parts 17 Nisan), now with two Hebrew words explaining 'Reed Sea': yam ים = Sea and suph סוף = of Reeds, colour-matched.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "succoth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "סכות"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "14 nisan"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "etham"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אתם"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "15 nisan"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "pi-hahiroth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "פי החירת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "16 nisan"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Reed Sea Parts"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "17 nisan"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yam"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ים"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Sea"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "suph"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "סוף"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "of Reeds"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "סכות",
+   "translit": "succoth",
+   "gloss": "Succoth (booths)",
+   "strongs": "H5523"
+  },
+  {
+   "lang": "he",
+   "word": "אתם",
+   "translit": "etham",
+   "gloss": "Etham",
+   "strongs": "H864"
+  },
+  {
+   "lang": "he",
+   "word": "פי החירת",
+   "translit": "pi-hahiroth",
+   "gloss": "Pi-hahiroth",
+   "strongs": "H6367"
+  },
+  {
+   "lang": "he",
+   "word": "ים",
+   "translit": "yam",
+   "gloss": "sea",
+   "strongs": "H3220"
+  },
+  {
+   "lang": "he",
+   "word": "סוף",
+   "translit": "suph",
+   "gloss": "reeds (as in Reed Sea / Sea of Reeds)",
+   "strongs": "H5488"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "succoth",
+   "other": "סכות"
+  },
+  {
+   "en": "etham",
+   "other": "אתם"
+  },
+  {
+   "en": "pi-hahiroth",
+   "other": "פי החירת"
+  },
+  {
+   "en": "yam",
+   "other": "ים"
+  },
+  {
+   "en": "Sea",
+   "other": "ים"
+  },
+  {
+   "en": "suph",
+   "other": "סוף"
+  },
+  {
+   "en": "of Reeds",
+   "other": "סוף"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 14,
+   "note": "14 Nisan: Succoth"
+  },
+  {
+   "value": 15,
+   "note": "15 Nisan: Etham"
+  },
+  {
+   "value": 16,
+   "note": "16 Nisan: Pi-hahiroth"
+  },
+  {
+   "value": 17,
+   "note": "17 Nisan: Reed Sea parts"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Succoth",
+   "Etham",
+   "Pi-hahiroth",
+   "Red Sea"
+  ],
+  "events": [
+   "Exodus",
+   "Parting of the Red Sea"
+  ],
+  "things": [
+   "reeds"
+  ],
+  "themes": [
+   "Hebrew calendar",
+   "redemption"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "yam suph",
+  "Sea of Reeds",
+  "Reed Sea",
+  "Red Sea",
+  "suph reeds",
+  "yam sea",
+  "Red Sea parts 17 Nisan",
+  "Exodus timeline",
+  "Succoth",
+  "Etham",
+  "Pi-hahiroth",
+  "Hebrew word for Red Sea",
+  "ים סוף"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

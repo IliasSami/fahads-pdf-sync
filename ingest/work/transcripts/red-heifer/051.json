@@ -1,0 +1,95 @@
+{
+ "id": "red-heifer/51",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Numbers 19:4-5 — Eleazar sprinkles blood; the heifer is burned",
+ "summary": "Numbers 19:4-5 in English: Eleazar the priest takes some of the red heifer's blood, sprinkles it seven times toward the tent of meeting, and the heifer is burned in his sight. The words blood and heifer are in colour, and the first letters 'El' of Eleazar are coloured differently from the rest of the name.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:4-5",
+   "osis": [
+    "Num.19.4",
+    "Num.19.5"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:ד-ה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.4",
+   "text": "4 ‘Next Eleazar the priest shall take some of its blood with his finger and sprinkle some of its blood toward the front of the tent of meeting seven times."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.5",
+   "text": "5 ‘Then the heifer shall be burned in his sight; its hide and its flesh and its blood, with its refuse, shall be burned."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19:4-5 / במדבר יט:ד-ה",
+   "osis": [
+    "Num.19.4",
+    "Num.19.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "the blood is sprinkled toward the tent of meeting seven times"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Eleazar"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "blood",
+   "tent of meeting"
+  ],
+  "themes": [
+   "blood",
+   "sacrifice",
+   "purification",
+   "priesthood",
+   "atonement"
+  ],
+  "groups": [
+   "priests"
+  ]
+ },
+ "keywords": [
+  "Numbers 19",
+  "red heifer",
+  "Eleazar the priest",
+  "blood sprinkled seven times",
+  "tent of meeting",
+  "heifer burned",
+  "hide flesh blood refuse",
+  "burned in his sight",
+  "sprinkle blood with finger",
+  "purification",
+  "ashes of the heifer"
+ ],
+ "uncertain": [
+  "In 'Eleazar' the first two letters 'El' are coloured (E blue, l brown) differently from the rest; the slide does not explain why."
+ ],
+ "confidence": 0.96
+}

@@ -1,0 +1,124 @@
+{
+ "id": "fall-of-man/34",
+ "kinds": [
+  "verse",
+  "word-study",
+  "quote"
+ ],
+ "title": "Genesis 3:20 Eve (hava חוה) and the 1st Palindrome: “Madam, I’m Adam.”",
+ "summary": "Genesis 3:20 with its Hebrew reference (the man calls his wife hava, חוה, Eve, mother of all the living), followed by the heading '1st Palindrome' and the phrase “Madam, I’m Adam.”",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:20",
+   "osis": "Gen.3.20"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:כ"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.3.20",
+   "text": "20 Now the man called his wife’s name"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hava"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חוה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Eve,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.3.20",
+   "text": "because she was the mother of all the living."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "1st Palindrome"
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "text": "“Madam, I’m Adam.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:20 / בראשית ג:כ",
+   "osis": [
+    "Gen.3.20"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חוה",
+   "translit": "hava",
+   "gloss": "Eve",
+   "strongs": "H2332"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Eve",
+   "other": "חוה"
+  },
+  {
+   "en": "hava",
+   "other": "חוה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Eve"
+  ],
+  "places": [],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [],
+  "themes": [
+   "marriage",
+   "creation",
+   "humor"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 3:20",
+  "Eve",
+  "hava",
+  "chavah",
+  "mother of all living",
+  "palindrome",
+  "first palindrome",
+  "Madam I'm Adam",
+  "Madam, I'm Adam",
+  "wordplay",
+  "reads the same backwards and forwards",
+  "naming of Eve"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

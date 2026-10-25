@@ -1,0 +1,83 @@
+{
+ "id": "noah-part-2/111",
+ "kinds": [
+  "humor",
+  "text"
+ ],
+ "title": "If Noah lived in the United States today: God commands Noah to build an Ark",
+ "summary": "First slide of a humorous story imagining Noah in modern America: God tells Noah He will flood the earth, save the righteous and two of every kind of living thing, and commands him to build an Ark and finish it in one year.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "\"If Noah lived in the United States today. . ."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "And the Lord spoke to Noah and said, \"I am going to make it rain and cover the whole earth with water until all flesh is destroyed."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "But I want you to save the righteous people and two of every kind of living thing on the earth. Therefore, I am commanding you to build an Ark.\""
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "In a flash of lightning, God delivered the specifications for an Ark. In fear and trembling, Noah took the plans and agreed to build the Ark."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "\"Remember\" said the Lord, \"You must complete the Ark and bring everything aboard in one year.\""
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "one year allowed to complete the Ark and load everything aboard"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "God"
+  ],
+  "places": [
+   "United States"
+  ],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "humor",
+   "obedience"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "If Noah lived in the United States today",
+  "Noah joke",
+  "Noah humor",
+  "build an ark",
+  "ark specifications",
+  "two of every kind",
+  "righteous people",
+  "flood story",
+  "funny Noah story",
+  "one year to build the ark",
+  "modern Noah",
+  "Bible humor"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

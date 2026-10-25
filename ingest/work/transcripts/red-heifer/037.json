@@ -1,0 +1,137 @@
+{
+ "id": "red-heifer/37",
+ "kinds": [
+  "list",
+  "text"
+ ],
+ "title": "Red heifer ordinance — the five steps, ending with immersing in a mikvah",
+ "summary": "Under the heading that the red heifer ordinance is the most mysterious of the chukat (statutes), the slide lists all five steps: find an unblemished heifer never used as a beast of burden; slaughter and burn it outside the city with cedar wood, hyssop and crimson wool; mix its ashes with spring water; cleanse with that water on the 3rd and 7th day after defilement; and immerse in a mikvah.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Ordinance of the Red Heifer"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "is the most mysterious of the"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "chukat"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "חקת"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "…"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1. Find a red heifer that is completely unblemished and never used as a beast of burden."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "2. Slaughter it and burn it together outside the city with some cedar wood, some hyssop, and some crimson wool."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "3. Mix its ashes with spring water."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "4. Cleanse yourself with that water on the 3rd and 7th day after defilement."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "5. Immerse in a mikvah."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חקת",
+   "translit": "chukat",
+   "gloss": "statutes of (statute, ordinance)",
+   "strongs": "H2708",
+   "gematria": null
+  },
+  {
+   "lang": "other",
+   "word": "mikvah",
+   "translit": "mikvah",
+   "gloss": "ritual immersion pool",
+   "strongs": null,
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "chukat",
+   "other": "חקת"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "third day after defilement, when the water is used for cleansing"
+  },
+  {
+   "value": 7,
+   "note": "seventh day after defilement, when the water is used for cleansing"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "cedar wood",
+   "hyssop",
+   "crimson wool",
+   "ashes",
+   "spring water",
+   "mikvah"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "death",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "red heifer",
+  "ordinance of the red heifer",
+  "five steps",
+  "step 5",
+  "immerse in a mikvah",
+  "mikvah",
+  "ritual bath",
+  "cedar wood hyssop crimson wool",
+  "third and seventh day",
+  "defilement",
+  "water of purification",
+  "chukat",
+  "Numbers 19",
+  "beast of burden"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

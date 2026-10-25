@@ -1,0 +1,207 @@
+{
+ "id": "red-heifer/116",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Numbers 19:1-2 colour-coded in English and Hebrew",
+ "summary": "Numbers 19:1-2 in English and verse 2 in Hebrew, with matching words shown in the same colour in both languages: LORD (יהוה), sons (בני), Israel (ישראל), unblemished (תמימה), red heifer (פרה אדמה), no defect (אין־בה מום) and a yoke has never been placed (לא־עלה עליה על).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:1-2",
+   "osis": [
+    "Num.19.1",
+    "Num.19.2"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:א-ב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.1",
+   "text": "1 Then the LORD spoke to Moses and Aaron, saying,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.2",
+   "text": "2 “This is the statute of the law which the LORD has commanded, saying, ‘Speak to the sons of Israel that they bring you an unblemished red heifer in which is no defect and on which a yoke has never been placed."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:2",
+   "osis": "Num.19.2"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:ב"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Num.19.2",
+   "text": "2 זאת חקת התורה אשר־צוה יהוה לאמר דבר אל־בני ישראל ויקחו אליך פרה אדמה תמימה אשר אין־בה מום אשר לא־עלה עליה על׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19:1-2 / במדבר יט:א-ב",
+   "osis": [
+    "Num.19.1",
+    "Num.19.2"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Numbers 19:2 / במדבר יט:ב",
+   "osis": [
+    "Num.19.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the LORD",
+   "strongs": "H3068",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "בני",
+   "translit": "bnei",
+   "gloss": "sons (children) of",
+   "strongs": "H1121",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ישראל",
+   "translit": "Yisrael",
+   "gloss": "Israel",
+   "strongs": "H3478",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "תמימה",
+   "translit": "temimah",
+   "gloss": "unblemished",
+   "strongs": "H8549",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "פרה אדמה",
+   "translit": "parah adumah",
+   "gloss": "red heifer",
+   "strongs": "H6510",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אין־בה מום",
+   "translit": "ein-bah mum",
+   "gloss": "no defect (without blemish)",
+   "strongs": "H3971",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "לא־עלה עליה על",
+   "translit": "lo-alah aleiha ol",
+   "gloss": "a yoke has never been placed",
+   "strongs": "H5923",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  },
+  {
+   "en": "sons",
+   "other": "בני"
+  },
+  {
+   "en": "Israel",
+   "other": "ישראל"
+  },
+  {
+   "en": "unblemished",
+   "other": "תמימה"
+  },
+  {
+   "en": "red heifer",
+   "other": "פרה אדמה"
+  },
+  {
+   "en": "no defect",
+   "other": "אין־בה מום"
+  },
+  {
+   "en": "a yoke has never been placed",
+   "other": "לא־עלה עליה על"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Moses",
+   "Aaron"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "yoke"
+  ],
+  "themes": [
+   "without blemish",
+   "purification",
+   "statute (chok)",
+   "Torah",
+   "names of God"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Numbers 19:2",
+  "Numbers 19:1",
+  "red heifer",
+  "parah adumah",
+  "unblemished",
+  "without blemish",
+  "without spot",
+  "no defect",
+  "never yoked",
+  "statute of the law",
+  "ordinance of the law",
+  "chukat ha-Torah",
+  "sons of Israel",
+  "children of Israel",
+  "YHWH",
+  "Numbers 19"
+ ],
+ "uncertain": [
+  "Exact colour-to-letter matching inside LORD/יהוה and Israel/ישראל (e.g. the cyan e/א and olive l/ל in Israel) is partial, so those links are recorded as whole words."
+ ],
+ "confidence": 0.95
+}

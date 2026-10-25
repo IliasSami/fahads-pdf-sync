@@ -1,0 +1,85 @@
+{
+ "id": "genesis-1-1-part-2/7",
+ "kinds": [
+  "picture",
+  "diagram"
+ ],
+ "title": "Genesis 1:1 — blue, yellow and red stars locked among black hexagon patterns",
+ "summary": "Under the heading Genesis 1:1 (English and Hebrew) one large pattern of tiny stars: blue, yellow and red Star-of-David shapes fitted together, with clusters of black hexagons filling the gaps between them. No explanatory words are given.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A large snowflake-like figure made of tiny dots/stars: a blue, a yellow and a red Star of David interlock around a centre, with about ten black hexagonal clusters filling the spaces around and between them.",
+   "subjects": [
+    "Star of David",
+    "hexagon",
+    "star pattern",
+    "blue star",
+    "yellow star",
+    "red star",
+    "geometric pattern"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.29,
+    0.22,
+    0.71,
+    0.94
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "Star of David"
+  ],
+  "themes": [
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "Star of David pattern",
+  "three stars combined",
+  "hexagon",
+  "snowflake pattern",
+  "geometric design",
+  "blue yellow red stars",
+  "Magen David",
+  "1011 stars"
+ ],
+ "uncertain": [
+  "The slide gives no explanation of the pattern; the connection to the previous slide's 3 x 337 stars is not stated."
+ ],
+ "confidence": 0.85
+}

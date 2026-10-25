@@ -1,0 +1,67 @@
+{
+ "id": "noah-part-2/113",
+ "kinds": [
+  "humor",
+  "text"
+ ],
+ "title": "Noah's excuses: OSHA, zoning variance and the Spotted Owl",
+ "summary": "Continues the humorous modern-Noah story: Noah lists more bureaucratic obstacles, including a fight with OSHA over fire sprinklers and flotation devices, a zoning variance for building in his front yard, and a ban on cutting trees to protect the Spotted Owl.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Then I got into a fight with OSHA over whether or not the Ark needed a fire sprinkler system and flotation devices. Then my neighbor objected, claiming I was violating zoning ordinances by building the Ark in my front yard, so I had to get a variance from the city planning commission."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Then I had problems getting enough wood for the Ark, because there was a ban on cutting trees to protect the Spotted Owl. I finally convinced the US Forest Service that I needed the wood to save the owls. However, the Fish and Wildlife Service won't let me catch any owls. So, no owls."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "wood",
+   "Spotted Owl"
+  ],
+  "themes": [
+   "humor"
+  ],
+  "groups": [
+   "OSHA",
+   "US Forest Service",
+   "Fish and Wildlife Service"
+  ]
+ },
+ "keywords": [
+  "OSHA",
+  "fire sprinkler system",
+  "flotation devices",
+  "zoning ordinances",
+  "variance",
+  "city planning commission",
+  "Spotted Owl",
+  "US Forest Service",
+  "Fish and Wildlife Service",
+  "Noah joke",
+  "Noah humor",
+  "funny Noah story",
+  "no owls",
+  "Bible humor"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

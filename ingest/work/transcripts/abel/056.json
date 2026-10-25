@@ -1,0 +1,36 @@
+{
+  "id": "abel/56",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:4 — Abel brought the firstborn (bekor, בכר) of his flock",
+  "summary": "Genesis 4:4 in English and Hebrew: Abel brought an offering from the firstborn of his flock and their fat portions, and the LORD had regard for Abel and his offering. The word “firstborn” is highlighted and explained as bekor (בכר).",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:4", "osis": "Gen.4.4"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ד", "osis": "Gen.4.4"},
+    {"lang": "en", "role": "verse", "text": "4 And Abel, he also brought an offering, from the firstborn of his flock and from their fat portions. And the LORD had regard for Abel and his offering;", "osis": "Gen.4.4"},
+    {"lang": "he", "role": "verse", "text": "4 והבל הביא גם הוא מבכרות צאנו ומחלבהן וישע יהוה אל הבל ואל מנחתו׃", "osis": "Gen.4.4"},
+    {"lang": "translit", "role": "label", "text": "bekor"},
+    {"lang": "he", "role": "label", "text": "בכר"},
+    {"lang": "en", "role": "label", "text": "Firstborn"}
+  ],
+  "refs": [{"shown": "Genesis 4:4 / בראשית ד:ד", "osis": ["Gen.4.4"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "בכר", "translit": "bekor", "gloss": "firstborn", "strongs": "H1060"},
+    {"lang": "he", "word": "יהוה", "translit": "yahweh", "gloss": "the LORD (God's personal name)", "strongs": "H3068"}
+  ],
+  "color_links": [
+    {"en": "firstborn", "other": "ב"},
+    {"en": "Firstborn", "other": "ב"},
+    {"en": "b (bekor)", "other": "ב"},
+    {"en": "ek (bekor)", "other": "כ"},
+    {"en": "or (bekor)", "other": "ר"},
+    {"en": "L (LORD)", "other": "י"},
+    {"en": "R (LORD)", "other": "ו"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abel", "God"], "places": [], "events": ["Cain and Abel's offerings"], "things": ["offering", "flock", "fat portions"], "themes": ["firstborn", "sacrifice", "offering"], "groups": []},
+  "keywords": ["firstborn", "firstlings of his flock", "bekor", "bechor", "b'chor", "Abel's offering", "fat portions", "fat thereof", "had respect unto Abel", "LORD had regard", "Cain and Abel", "Genesis 4", "Genesis 4:4"],
+  "uncertain": [],
+  "confidence": 0.94
+}

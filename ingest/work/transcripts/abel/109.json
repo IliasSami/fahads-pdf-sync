@@ -1,0 +1,150 @@
+{
+  "id": "abel/109",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:12 — vagrant and wanderer (vanad, ונד)",
+  "summary": "Genesis 4:12 in another English translation (“a vagrant and a wanderer”) with the Hebrew, highlighting ground (האדמה) and the word vanad (ונד) — “and wandering” — whose letter vav (“and”) is coloured separately from nad (wandering).",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:12",
+      "osis": "Gen.4.12"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:יב"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Gen.4.12",
+      "text": "12 “When you cultivate the ground, it will no longer yield its strength to you; you will be a vagrant and a wanderer on the earth.”"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "osis": "Gen.4.12",
+      "text": "12 כי תעבד את־האדמה לא תסף תת כחה לך נע ונד תהיה בארץ׃"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "vanad"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "ונד"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Wandering"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:12 / בראשית ד:יב",
+      "osis": [
+        "Gen.4.12"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "ונד",
+      "translit": "vanad",
+      "gloss": "and wandering (wanderer)",
+      "strongs": "H5110"
+    },
+    {
+      "lang": "he",
+      "word": "אדמה",
+      "translit": "adamah",
+      "gloss": "ground",
+      "strongs": "H127"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "ground",
+      "other": "אדמה"
+    },
+    {
+      "en": "and",
+      "other": "ו"
+    },
+    {
+      "en": "wanderer",
+      "other": "נד"
+    },
+    {
+      "en": "v (vanad)",
+      "other": "ו"
+    },
+    {
+      "en": "anad (vanad)",
+      "other": "נד"
+    },
+    {
+      "en": "Wandering",
+      "other": "נד"
+    }
+  ],
+  "letters": [
+    {
+      "lang": "he",
+      "letter": "vav",
+      "char": "ו",
+      "value": 6,
+      "meaning": "and (conjunction prefix)"
+    }
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "God",
+      "Cain"
+    ],
+    "places": [
+      "Land of Nod"
+    ],
+    "events": [
+      "Cain's punishment"
+    ],
+    "things": [
+      "ground"
+    ],
+    "themes": [
+      "curse",
+      "judgment",
+      "exile",
+      "wandering"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "wanderer",
+    "wandering",
+    "vagrant",
+    "vagabond",
+    "fugitive",
+    "nad",
+    "nod",
+    "vanad",
+    "land of Nod",
+    "Cain's punishment",
+    "cultivate the ground",
+    "Genesis 4",
+    "Genesis 4:12"
+  ],
+  "uncertain": [],
+  "confidence": 0.93
+}

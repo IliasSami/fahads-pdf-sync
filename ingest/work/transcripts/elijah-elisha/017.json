@@ -1,0 +1,27 @@
+{
+  "id": "elijah-elisha/17",
+  "kinds": ["verse", "word-study"],
+  "title": "Deuteronomy 18:18 — “I will raise up a prophet … like you [Moses]”",
+  "summary": "Deuteronomy 18:18 in English and Hebrew: God promises to raise up a prophet like Moses from among the people and put His words in his mouth. “Prophet” and the pronouns referring to him (his, he, him) are highlighted in gold, matching the Hebrew נביא (navi, prophet).",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Deuteronomy 18:18", "osis": "Deut.18.18"},
+    {"lang": "he", "role": "reference", "text": "דברים יח:יח", "osis": "Deut.18.18"},
+    {"lang": "en", "role": "verse", "osis": "Deut.18.18", "text": "18 'I will raise up a prophet from among their countrymen like you [Moses], and I will put My words in his mouth, and he shall speak to them all that I command him."},
+    {"lang": "he", "role": "verse", "osis": "Deut.18.18", "text": "18 נביא אקים להם מקרב אחיהם כמוך ונתתי דברי בפיו ודבר אליהם את כל־אשר אצונו׃"}
+  ],
+  "refs": [{"shown": "Deuteronomy 18:18 / דברים יח:יח", "osis": ["Deut.18.18"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "נביא", "translit": "navi", "gloss": "prophet", "strongs": "H5030"},
+    {"lang": "he", "word": "כמוך", "translit": "kamocha", "gloss": "like you", "strongs": null}
+  ],
+  "color_links": [
+    {"en": "prophet", "other": "נביא"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Moses", "God", "Jesus"], "places": [], "events": [], "things": [], "themes": ["prophecy", "messianic prophecy", "Torah"], "groups": ["Israel", "prophets"]},
+  "keywords": ["Deuteronomy 18:18", "Deuteronomy 18", "a prophet like Moses", "like unto thee", "I will raise up a prophet", "put my words in his mouth", "navi", "prophet", "the Prophet", "Messiah", "Moses", "messianic prophecy"],
+  "uncertain": ["The letters of “My” are coloured blue (M) and red (y) and underlined in gold; “y” of “you” and “Mo” of “Moses” are pale blue — the meaning of these colour accents is not stated."],
+  "confidence": 0.92
+}

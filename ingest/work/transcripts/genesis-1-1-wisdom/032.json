@@ -1,0 +1,196 @@
+{
+ "id": "genesis-1-1-wisdom/32",
+ "kinds": [
+  "verse",
+  "word-study",
+  "letters"
+ ],
+ "title": "First letter ב and last letter ל of the Torah",
+ "summary": "Shows bereshit (first word) and yisrael (last word) of the Torah, then the first letter ב (red) and the last letter ל (brown) of the Torah placed side by side between the labels \"1st Letter\" and \"Last Letter\"; together they form לב (lev, heart) when read right to left.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 49:3",
+   "osis": "Ps.49.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים מט:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "First Word of the torah"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Last Word of the torah"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bereshit"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yisrael"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בראשית"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ישראל"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "1st Letter"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ל"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Last Letter"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 49:3 / תהילים מט:ג",
+   "osis": [
+    "Ps.49.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning (first word of the Torah)",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ישראל",
+   "translit": "yisrael",
+   "gloss": "Israel (last word of the Torah)",
+   "strongs": "H3478"
+  },
+  {
+   "lang": "he",
+   "word": "לב",
+   "translit": "lev",
+   "gloss": "heart (formed by the Torah's last and first letters side by side)",
+   "strongs": "H3820"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "First",
+   "other": "ב"
+  },
+  {
+   "en": "b",
+   "other": "ב"
+  },
+  {
+   "en": "1st Letter",
+   "other": "ב"
+  },
+  {
+   "en": "Last",
+   "other": "ל"
+  },
+  {
+   "en": "Last Letter",
+   "other": "ל"
+  },
+  {
+   "en": "el",
+   "other": "אל"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "1st letter of the Torah (first letter of bereshit) — red"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "last letter of the Torah (last letter of yisrael) — brown"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "Torah",
+   "heart"
+  ],
+  "themes": [
+   "Torah",
+   "Hebrew letter meanings",
+   "wisdom",
+   "understanding"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "first letter of the Torah",
+  "last letter of the Torah",
+  "bet and lamed",
+  "lev",
+  "heart of the Torah",
+  "Torah heart",
+  "bereshit",
+  "yisrael",
+  "beginning and end",
+  "Hebrew letters",
+  "Psalm 49:3"
+ ],
+ "uncertain": [
+  "The slide does not caption the pairing ב + ל as לב (heart); that reading is inferred from the layout, with ל on the right and ב on the left."
+ ],
+ "confidence": 0.9
+}

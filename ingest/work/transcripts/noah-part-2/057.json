@@ -1,0 +1,88 @@
+{
+ "id": "noah-part-2/57",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Esther 5:1 — on the third day Esther stands before the king (16 Nisan)",
+ "summary": "Esther 5:1: on the third day Esther puts on her royal robes and stands in the palace's inner court facing the king on his throne. The slide dates this as 16 Nisan and highlights \"third day\".",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Esther 5:1",
+   "osis": "Esth.5.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "אסתר ה:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Esth.5.1",
+   "text": "1 On the third day Esther put on her royal robes and stood in the inner court of the palace, in front of the king’s hall. The king was sitting on his royal throne in the hall, facing the entrance."
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "16 nisan"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Esther 5:1 / אסתר ה:א",
+   "osis": [
+    "Esth.5.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 16,
+   "note": "16 Nisan — the third day, when Esther goes before the king"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Esther",
+   "Xerxes"
+  ],
+  "places": [
+   "Persian palace"
+  ],
+  "events": [
+   "Esther approaches the king"
+  ],
+  "things": [
+   "royal robes",
+   "throne"
+  ],
+  "themes": [
+   "biblical feasts",
+   "Flood chronology",
+   "providence"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Esther 5",
+  "third day",
+  "16 Nisan",
+  "royal robes",
+  "inner court of the palace",
+  "king on his throne",
+  "Esther before the king",
+  "Xerxes",
+  "Ahasuerus",
+  "resurrection day",
+  "king's hall"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

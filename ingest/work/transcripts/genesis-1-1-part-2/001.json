@@ -1,0 +1,80 @@
+{
+ "id": "genesis-1-1-part-2/1",
+ "kinds": [
+  "title",
+  "picture"
+ ],
+ "title": "In Beginning, Part 2 — title slide with the presenter",
+ "summary": "Title slide for part 2 of the lesson on the beginning (Genesis 1:1): a video still of the presenter sitting in front of a wall world map, with a large green number 2 and the words \"In Beginning, Part 2\".",
+ "text": [
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "2"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "In Beginning, Part 2"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2,
+   "note": "part number of the lesson"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "video-still",
+   "description": "Video still of the presenter, a man with glasses and short grey hair in a white T-shirt, sitting on a brown couch and speaking with both hands open. Behind him a large wall map of the world (Africa, South America and the Indian Ocean visible). Green title text \"2\" and \"In Beginning, Part 2\" overlaid at the bottom.",
+   "subjects": [
+    "presenter",
+    "world map",
+    "couch",
+    "video",
+    "lesson title",
+    "man with glasses"
+   ],
+   "text_in_picture": "2 In Beginning, Part 2 (a small logo on the shirt is partly legible: CAFE PATTAYA)",
+   "credit": null,
+   "box": [
+    0.15,
+    0.14,
+    0.9,
+    0.83
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "In Beginning Part 2",
+  "In the beginning",
+  "Genesis 1:1",
+  "Genesis 1",
+  "bereshit",
+  "part 2",
+  "lesson title",
+  "title slide",
+  "presenter",
+  "world map",
+  "video"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,110 @@
+{
+ "id": "genesis-1-1-part-2/94",
+ "kinds": [
+  "gematria",
+  "diagram"
+ ],
+ "title": "Genesis 1:1 'First 8 Words': 2701 + 302 = 3003, a larger triangle",
+ "summary": "A tall dot triangle, mostly blue with a red band along the bottom, for the first 8 words of the Bible: the blue triangle is the 2701 of Genesis 1:1 and the red band adds 302, shown as 2701 + 302 = 3003.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "First 8 Words"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "2701 + 302 = 3003"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2701,
+   "note": "gematria of Genesis 1:1 (blue triangle)"
+  },
+  {
+   "value": 302,
+   "note": "gematria of the 8th word, והארץ (red band at the bottom)"
+  },
+  {
+   "value": 3003,
+   "note": "sum of the first 8 words: 2701 + 302"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A tall triangle of tiny dots, blue for almost its whole height with a narrow red band of extra rows along the bottom edge.",
+   "subjects": [
+    "dot triangle",
+    "blue triangle",
+    "red band",
+    "triangle number",
+    "number pyramid",
+    "gematria diagram"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.3,
+    0.12,
+    0.72,
+    0.85
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "numbers in Scripture",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "first 8 words",
+  "first eight words",
+  "2701",
+  "302",
+  "3003",
+  "triangle number",
+  "gematria",
+  "dot triangle",
+  "blue and red triangle",
+  "8th word",
+  "In the beginning"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

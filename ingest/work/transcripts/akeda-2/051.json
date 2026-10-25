@@ -1,0 +1,23 @@
+{
+  "id": "akeda-2/51",
+  "kinds": ["verse"],
+  "title": "Genesis 23:16-18 — Abraham weighs out 400 shekels; the field is deeded to him",
+  "summary": "Genesis 23:16-18: Abraham weighs out four hundred shekels of silver for Ephron, and Ephron's field in Machpelah facing Mamre, with its cave and trees, is deeded to Abraham as a possession before the sons of Heth.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 23", "osis": ["Gen.23.16", "Gen.23.17", "Gen.23.18"]},
+    {"lang": "he", "role": "reference", "text": "בראשית כג", "osis": ["Gen.23.16", "Gen.23.17", "Gen.23.18"]},
+    {"lang": "en", "role": "verse", "text": "16 Abraham listened to Ephron; and Abraham weighed out for Ephron the silver which he had named in the hearing of the sons of Heth, four hundred shekels of silver, commercial standard.", "osis": "Gen.23.16"},
+    {"lang": "en", "role": "verse", "text": "17 So Ephron’s field, which was in Machpelah, which faced Mamre, the field and cave which was in it, and all the trees which were in the field, that were within all the confines of its border, were deeded over", "osis": "Gen.23.17"},
+    {"lang": "en", "role": "verse", "text": "18 to Abraham for a possession in the presence of the sons of Heth, before all who went in at the gate of his city.", "osis": "Gen.23.18"}
+  ],
+  "refs": [{"shown": "Genesis 23 / בראשית כג", "osis": ["Gen.23.16", "Gen.23.17", "Gen.23.18"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [{"value": 400, "note": "shekels of silver Abraham paid for the field and cave"}],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Ephron"], "places": ["Cave of Machpelah", "Mamre"], "events": ["Death of Sarah"], "things": ["field", "cave", "trees", "silver", "shekel"], "themes": ["burial", "possession of the land"], "groups": ["sons of Heth (Hittites)"]},
+  "keywords": ["400 shekels of silver", "weighed out the silver", "commercial standard", "current money with the merchant", "Machpelah", "Mamre", "deeded over", "made sure", "possession", "first land owned in Canaan", "Genesis 23"],
+  "uncertain": [],
+  "confidence": 0.96
+}

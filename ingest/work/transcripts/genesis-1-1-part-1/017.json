@@ -1,0 +1,131 @@
+{
+ "id": "genesis-1-1-part-1/17",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Psalm 2:12: \"Kiss the Son\" (nashqu-bar)",
+ "summary": "Shows the start of Psalm 2:12 in Hebrew, נשקו־בר פן־יאנף, with English labels under each word: Kiss, son, lest, He be angry. The word בר (bar) is in red, with \"bar\" above it and \"son\" below, linking back to bar as the word for son.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 2:12",
+   "osis": "Ps.2.12"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים ב:יב"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bar"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.2.12",
+   "text": "נשקו־בר פן־יאנף..."
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Kiss"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "son"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "lest"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "He be angry"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 2:12 / תהילים ב:יב",
+   "osis": [
+    "Ps.2.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "נשקו",
+   "translit": "nashqu",
+   "gloss": "kiss",
+   "strongs": "H5401"
+  },
+  {
+   "lang": "he",
+   "word": "בר",
+   "translit": "bar",
+   "gloss": "son",
+   "strongs": "H1248"
+  },
+  {
+   "lang": "he",
+   "word": "פן",
+   "translit": "pen",
+   "gloss": "lest",
+   "strongs": "H6435"
+  },
+  {
+   "lang": "he",
+   "word": "יאנף",
+   "translit": "ye'enaf",
+   "gloss": "he be angry",
+   "strongs": "H599"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "bar",
+   "other": "בר"
+  },
+  {
+   "en": "son",
+   "other": "בר"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "messianic prophecy",
+   "sonship"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Psalm 2:12",
+  "Kiss the Son",
+  "nashqu bar",
+  "bar means son",
+  "lest he be angry",
+  "Psalm 2",
+  "Hebrew word for son",
+  "Aramaic bar",
+  "kiss the son lest he be angry",
+  "Tehillim 2",
+  "son"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

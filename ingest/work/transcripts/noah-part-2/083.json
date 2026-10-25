@@ -1,0 +1,96 @@
+{
+ "id": "noah-part-2/83",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 8:17-19 — Noah, his family and all the animals leave the ark",
+ "summary": "Genesis 8:17-19 in English: God tells Noah to bring out every living thing so they can breed and multiply on the earth; Noah goes out with his sons, wife and sons' wives; and every beast, creeping thing and bird goes out by families from the ark. 'Noah' is coloured green and 'ark' red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:17-19",
+   "osis": [
+    "Gen.8.17",
+    "Gen.8.18",
+    "Gen.8.19"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:יז-יט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.17",
+   "text": "17 “Bring out with you every living thing of all flesh that is with you, birds and animals and every creeping thing that creeps on the earth, that they may breed abundantly on the earth, and be fruitful and multiply on the earth.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.18",
+   "text": "18 So Noah went out, and his sons and his wife and his sons’ wives with him."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.19",
+   "text": "19 Every beast, every creeping thing, and every bird, everything that moves on the earth, went out by their families from the ark."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:17-19 / בראשית ח:יז-יט",
+   "osis": [
+    "Gen.8.17",
+    "Gen.8.18",
+    "Gen.8.19"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "birds",
+   "animals",
+   "creeping things"
+  ],
+  "themes": [
+   "Flood chronology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 8",
+  "Genesis 8:17",
+  "Genesis 8:18",
+  "Genesis 8:19",
+  "animals leave the ark",
+  "Noah leaves the ark",
+  "bring out every living thing",
+  "be fruitful and multiply",
+  "breed abundantly",
+  "creeping things",
+  "went out by their families",
+  "Noah's wife and sons' wives",
+  "after the flood"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

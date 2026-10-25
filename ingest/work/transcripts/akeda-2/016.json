@@ -1,0 +1,173 @@
+{
+ "id": "akeda-2/16",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 22:9 — Abraham builds the altar and binds Isaac on the wood",
+ "summary": "The Akedah: Genesis 22:9 in English and Hebrew. They reach the place God told Abraham of; he builds the altar, arranges the wood, binds Isaac and lays him on the altar on top of the wood. The word את (et) is shown before 'the altar', 'the wood' and 'Isaac', underlined in grey, brown and red with the matching Hebrew words; the word God (and Hebrew האלהים) has multi-coloured letters.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22",
+   "osis": "Gen.22.1"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ה ע ק ד ה"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Akedah"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.9",
+   "text": "9 Then they came to the place of which God had told him; and Abraham built את the altar there and arranged את the wood, and bound his son את Isaac and laid him on the altar, on top of the wood."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.22.9",
+   "text": "9 ויבאו אל־המקום אשר אמר־לו האלהים ויבן שם אברהם את־המזבח ויערך את־העצים ויעקד את־יצחק בנו וישם אתו על־המזבח ממעל לעצים׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22 / בראשית כב",
+   "osis": [
+    "Gen.22.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 22:9 (verse number 9)",
+   "osis": [
+    "Gen.22.9"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "העקדה",
+   "translit": "ha'akedah",
+   "gloss": "the Akedah (the binding)",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "האלהים",
+   "translit": "ha'elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "alef-tav; untranslated direct-object marker before the altar, the wood and Isaac",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "המזבח",
+   "translit": "hamizbeach",
+   "gloss": "the altar",
+   "strongs": "H4196"
+  },
+  {
+   "lang": "he",
+   "word": "העצים",
+   "translit": "ha'etzim",
+   "gloss": "the wood",
+   "strongs": "H6086"
+  },
+  {
+   "lang": "he",
+   "word": "ויעקד",
+   "translit": "va-ya'akod",
+   "gloss": "and he bound",
+   "strongs": "H6123"
+  },
+  {
+   "lang": "he",
+   "word": "יצחק",
+   "translit": "Yitzchak",
+   "gloss": "Isaac",
+   "strongs": "H3327"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "God",
+   "other": "האלהים"
+  },
+  {
+   "en": "the altar",
+   "other": "המזבח"
+  },
+  {
+   "en": "the wood",
+   "other": "העצים"
+  },
+  {
+   "en": "Isaac",
+   "other": "יצחק"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Abraham",
+   "Isaac"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "altar",
+   "wood"
+  ],
+  "themes": [
+   "sacrifice",
+   "obedience",
+   "faith",
+   "substitution"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 22:9",
+  "Genesis 22",
+  "Akedah",
+  "Akeda",
+  "binding of Isaac",
+  "העקדה",
+  "Abraham built the altar",
+  "bound his son Isaac",
+  "laid him on the altar on top of the wood",
+  "ויעקד",
+  "et",
+  "alef tav",
+  "aleph tav"
+ ],
+ "uncertain": [
+  "The coloured letters in God / האלהים are decorative or meaningful colour-coding that the slide does not explain"
+ ],
+ "confidence": 0.94
+}

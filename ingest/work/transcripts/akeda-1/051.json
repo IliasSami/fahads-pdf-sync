@@ -1,0 +1,19 @@
+{
+  "id": "akeda-1/51",
+  "kinds": ["picture"],
+  "title": "Photo: a man standing before the Dome of the Rock",
+  "summary": "A photograph of a smiling man standing on the paved Temple Mount platform in Jerusalem in front of the golden Dome of the Rock.",
+  "text": [],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [
+    {"type": "photo", "description": "A smiling man with glasses in a light sweater, with a jacket tied around his waist, stands on the stone-paved Temple Mount esplanade in front of the Dome of the Rock with its gold dome and blue-and-white tiled walls; a minaret, a small domed pavilion and a few visitors, including a man in a keffiyeh with a cane, are in the background under a grey sky.", "subjects": ["Dome of the Rock", "Temple Mount", "Jerusalem", "tourist photo", "golden dome", "minaret", "Mount Moriah"], "text_in_picture": "", "credit": null, "box": [0.125, 0.0, 0.875, 1.0]}
+  ],
+  "entities": {"people": [], "places": ["Jerusalem", "Temple Mount", "Dome of the Rock", "Mount Moriah"], "events": [], "things": [], "themes": ["temple"], "groups": []},
+  "keywords": ["Dome of the Rock", "Temple Mount", "Jerusalem", "Mount Moriah", "golden dome", "Haram al-Sharif", "photo", "visit to Jerusalem", "Israel trip", "tourist photo"],
+  "uncertain": [],
+  "confidence": 0.9
+}

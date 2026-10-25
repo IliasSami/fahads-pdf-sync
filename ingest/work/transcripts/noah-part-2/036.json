@@ -1,0 +1,109 @@
+{
+ "id": "noah-part-2/36",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 7:16-19 — the LORD shuts the door and the flood lifts the ark",
+ "summary": "Genesis 7:16-19 in English: those that entered did so as God commanded and the LORD closed the door behind them; the flood came for forty days, the water lifted the ark above the earth, and it covered all the high mountains. The words God, LORD and ark are colour-highlighted.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 7:16-19",
+   "osis": [
+    "Gen.7.16",
+    "Gen.7.17",
+    "Gen.7.18",
+    "Gen.7.19"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ז:יו-יט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.16",
+   "text": "16 Those that entered, male and female of all flesh, entered as God had commanded him; and the LORD closed it behind him."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.17",
+   "text": "17 Then the flood came upon the earth for forty days, and the water increased and lifted up the ark, so that it rose above the earth."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.18",
+   "text": "18 The water prevailed and increased greatly upon the earth, and the ark floated on the surface of the water."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.19",
+   "text": "19 The water prevailed more and more upon the earth, so that all the high mountains everywhere under the heavens were covered."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 7:16-19 / בראשית ז:יו-יט",
+   "osis": [
+    "Gen.7.16",
+    "Gen.7.17",
+    "Gen.7.18",
+    "Gen.7.19"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 40,
+   "note": "days the flood came upon the earth"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "water",
+   "mountains"
+  ],
+  "themes": [
+   "judgment",
+   "salvation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 7:16",
+  "Genesis 7:17",
+  "Genesis 7:18",
+  "Genesis 7:19",
+  "Genesis 7",
+  "LORD closed the door",
+  "God shut them in",
+  "ark floated",
+  "flood forty days",
+  "waters prevailed",
+  "high mountains covered",
+  "ark lifted above the earth",
+  "male and female"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

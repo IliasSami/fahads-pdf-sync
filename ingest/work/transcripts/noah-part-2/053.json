@@ -1,0 +1,96 @@
+{
+ "id": "noah-part-2/53",
+ "kinds": [
+  "calendar"
+ ],
+ "title": "Full Hebrew calendar, Tishri to Elul, with feasts marked",
+ "summary": "The twelve months of the Hebrew year laid out day by day from Tishri to Elul in three columns, with the feasts highlighted: Sukkot in Tishri, Chanukkah (also written in Hebrew) in Kislev, Pesach / Passover in Nisan and Shavuot in Sivan.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Tishri 1–30 (S U K K O T over 15–18, 19 20 21 22 in green) · Cheshvan 1–29 · Kislev 1–30 (Chanukkah from 25 to 30) · Tevet 3–29"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Sh’vat 2–30 · Adar 1–29 · Nisan 1–30 (PESACH 17 · PASSOVER 23 24) · Iyar 1–29"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Sivan 3–30 (6 7 and S H A V U O T highlighted) · Tamuz 1–29 · Av 1–30 · Elul 1–29"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חנכה"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חנכה",
+   "translit": "Chanukkah",
+   "gloss": "dedication (Hanukkah)",
+   "strongs": "H2598"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 12,
+   "note": "months of the Hebrew year, Tishri through Elul"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Sukkot",
+   "Chanukkah",
+   "Passover",
+   "Shavuot"
+  ],
+  "things": [
+   "Hebrew calendar"
+  ],
+  "themes": [
+   "biblical feasts",
+   "Flood chronology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Hebrew calendar",
+  "Jewish calendar",
+  "twelve months",
+  "Tishri",
+  "Cheshvan",
+  "Kislev",
+  "Tevet",
+  "Sh'vat",
+  "Adar",
+  "Nisan",
+  "Iyar",
+  "Sivan",
+  "Tamuz",
+  "Av",
+  "Elul",
+  "Sukkot",
+  "Tabernacles",
+  "Hanukkah",
+  "Passover",
+  "Pesach",
+  "Shavuot",
+  "Pentecost",
+  "feasts"
+ ],
+ "uncertain": [
+  "Dense calendar grid: individual day numbers were not transcribed cell by cell; ranges are approximate. Feast names replace some day numbers (Sukkot in place of 15-18, Pesach / Passover in place of 14-16 and 18-22, Shavuot in place of 8-12)."
+ ],
+ "confidence": 0.88
+}

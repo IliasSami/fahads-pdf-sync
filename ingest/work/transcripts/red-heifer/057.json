@@ -1,0 +1,117 @@
+{
+ "id": "red-heifer/57",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Cedar in the 1st Temple (1 Kings 6:9) and 2nd Temple (Ezra 3:7)",
+ "summary": "Two verses showing cedar used in the building of Israel's temples: 1 Kings 6:9 for the 1st Temple (the house covered with beams and planks of cedar) and Ezra 3:7 for the 2nd Temple (cedar wood brought from Lebanon to Joppa with permission from Cyrus king of Persia). The words cedar and cedar wood are highlighted in brown.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "1st Temple"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 6:9",
+   "osis": "1Kgs.6.9"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א ו:ט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "1Kgs.6.9",
+   "text": "9 So he built the house and finished it; and he covered the house with beams and planks of cedar."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "2nd Temple"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Ezra 3:7",
+   "osis": "Ezra.3.7"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "עזרא ג:ז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ezra.3.7",
+   "text": "7 Then they gave money to the masons and carpenters, and food, drink and oil to the Sidonians and to the Tyrians, to bring cedar wood from Lebanon to the sea at Joppa, according to the permission they had from Cyrus king of Persia."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 6:9 / מלכים א ו:ט",
+   "osis": [
+    "1Kgs.6.9"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Ezra 3:7 / עזרא ג:ז",
+   "osis": [
+    "Ezra.3.7"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Cyrus"
+  ],
+  "places": [
+   "Lebanon",
+   "Joppa",
+   "Persia",
+   "Sidon",
+   "Tyre"
+  ],
+  "events": [],
+  "things": [
+   "cedar wood",
+   "temple",
+   "beams and planks"
+  ],
+  "themes": [
+   "temple"
+  ],
+  "groups": [
+   "Sidonians",
+   "Tyrians"
+  ]
+ },
+ "keywords": [
+  "1 Kings 6",
+  "Ezra 3",
+  "cedar",
+  "cedar wood",
+  "first temple",
+  "second temple",
+  "Solomon's temple",
+  "cedar of Lebanon",
+  "Joppa",
+  "Cyrus king of Persia",
+  "beams and planks of cedar",
+  "masons and carpenters",
+  "red heifer cedar"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

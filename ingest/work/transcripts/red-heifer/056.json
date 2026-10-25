@@ -1,0 +1,94 @@
+{
+ "id": "red-heifer/56",
+ "kinds": [
+  "list",
+  "picture"
+ ],
+ "title": "Red heifer plus cedar wood, hyssop and scarlet thread",
+ "summary": "A summary slide with a red silhouette of a cow labelled Red Heifer, a plus sign, and three colour-coded items on the right: Cedar Wood (brown), Hyssop (green) and Scarlet Thread (red).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Red Heifer"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Cedar Wood"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Hyssop"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Scarlet Thread"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "+"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "illustration",
+   "description": "A solid red, rough hand-drawn silhouette of a cow or heifer standing in profile facing left, on a white background, drawn in a brush-like style.",
+   "subjects": [
+    "red heifer",
+    "cow",
+    "heifer",
+    "silhouette",
+    "red cow",
+    "livestock"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.08,
+    0.37,
+    0.42,
+    0.74
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "cedar wood",
+   "hyssop",
+   "scarlet thread"
+  ],
+  "themes": [
+   "purification",
+   "sacrifice"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "red heifer",
+  "cedar wood",
+  "hyssop",
+  "scarlet thread",
+  "scarlet wool",
+  "red cow",
+  "ingredients of the red heifer ritual",
+  "Numbers 19",
+  "heifer plus cedar hyssop scarlet",
+  "drawing of a red heifer",
+  "cow silhouette"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

@@ -1,0 +1,147 @@
+{
+ "id": "genesis-1-1-part-2/40",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Exodus 20:1 — 7 words and 28 letters (7 x 4)",
+ "summary": "Exodus 20:1, \"And God spoke all these words saying,\" in English and Hebrew with And and God / אלהים colour-coded. Below: the verse has 7 words and 28 letters, which equals 7 x 4, the same pattern as Genesis 1:1.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 20:1",
+   "osis": "Exod.20.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות כ:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "And God spoke all these words saying,",
+   "osis": "Exod.20.1"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "וידבר אלהים את כל הדברים האלה לאמר׃",
+   "osis": "Exod.20.1"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "7 Words"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "28 Letters = 7 x 4"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 20:1 / שמות כ:א",
+   "osis": [
+    "Exod.20.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "וידבר",
+   "translit": "vayedaber",
+   "gloss": "and spoke",
+   "strongs": "H1696",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "כל",
+   "translit": "kol",
+   "gloss": "all",
+   "strongs": "H3605",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הדברים",
+   "translit": "hadevarim",
+   "gloss": "the words",
+   "strongs": "H1697",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "לאמר",
+   "translit": "leemor",
+   "gloss": "saying",
+   "strongs": "H559",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "And",
+   "other": "ו"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "Exodus 20:1 has 7 words"
+  },
+  {
+   "value": 28,
+   "note": "Exodus 20:1 has 28 letters = 7 x 4"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Giving of the Ten Commandments"
+  ],
+  "things": [],
+  "themes": [
+   "number seven",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Exodus 20:1",
+  "God spoke all these words",
+  "God spake all these words",
+  "vayedaber elohim",
+  "7 words 28 letters",
+  "seven words",
+  "7 x 4",
+  "Ten Commandments",
+  "Exodus 20",
+  "same pattern as Genesis 1:1",
+  "Hebrew Exodus 20:1"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

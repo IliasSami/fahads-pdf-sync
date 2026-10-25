@@ -1,0 +1,63 @@
+{
+  "id": "akeda-2/36",
+  "kinds": [
+    "list"
+  ],
+  "title": "Rabbinical Judaism replaced blood sacrifices: confess and pray",
+  "summary": "Heading 'Rabbinical Judaism Replaced Blood Sacrifices with:' followed by the first two items: confess the sin and pray for atonement.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Rabbinical Judaism Replaced Blood Sacrifices with:"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Confess the sin"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Pray for atonement"
+    }
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "things": [],
+    "themes": [
+      "sacrifice",
+      "blood",
+      "atonement",
+      "sin",
+      "repentance",
+      "Rabbinic Judaism"
+    ],
+    "groups": [
+      "Jews",
+      "rabbis"
+    ]
+  },
+  "keywords": [
+    "Rabbinical Judaism",
+    "rabbinic Judaism",
+    "replaced blood sacrifices",
+    "no more sacrifices",
+    "atonement without blood",
+    "repentance",
+    "confess sin",
+    "prayer for atonement",
+    "correct the sin",
+    "teshuvah"
+  ],
+  "uncertain": [],
+  "confidence": 0.97
+}

@@ -1,0 +1,116 @@
+{
+ "id": "genesis-1-1-part-1/21",
+ "kinds": [
+  "letters",
+  "table"
+ ],
+ "title": "The Hebrew alef-bet chart: resh, shin and tav (letters 20 to 22)",
+ "summary": "Enlarged bottom of the alef-bet chart showing the last three letters: resh (R, Head, 200), shin (Sh, S, Teeth, Destroy, 300) and tav (T, Covenant, Cross, 400), each with its modern letter, name, ancient pictograph, meaning and gematria number. Resh is gold and tav is dark red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "20. ר resh R — Head — 200"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "21. ש shin Sh, S — Teeth, Destroy — 300"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "22. ת tav T — Covenant, Cross — 400"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [
+  {
+   "en": "resh",
+   "other": "ר"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "Head"
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "Teeth, Destroy"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "Covenant, Cross"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Three ancient (paleo-Hebrew) pictograph letters in a column: a head in profile over a gold underline (resh), a wavy tooth-like line over a black underline (shin) and a cross over a dark red underline (tav).",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictographs",
+    "ancient Hebrew letters",
+    "head",
+    "teeth",
+    "cross"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.5,
+    0.1,
+    0.58,
+    0.65
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "cross"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria",
+   "covenant"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "resh",
+  "shin",
+  "tav",
+  "Hebrew alphabet",
+  "alef-bet",
+  "last three letters",
+  "head",
+  "teeth destroy",
+  "covenant cross",
+  "gematria 200 300 400",
+  "ancient Hebrew",
+  "paleo-Hebrew",
+  "pictographs",
+  "letter meanings"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

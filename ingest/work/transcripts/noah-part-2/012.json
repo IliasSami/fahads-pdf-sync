@@ -1,0 +1,178 @@
+{
+ "id": "noah-part-2/12",
+ "kinds": [
+  "letters",
+  "word-study",
+  "gematria"
+ ],
+ "title": "oat (sign): tav, vav, alef = 407",
+ "summary": "The Hebrew word אות (oat, 'sign') spelled out as three colour-coded letters — tav, vav, alef — shown as ancient pictographs (a cross-shaped tav, a peg-like vav, an ox-head alef) with values 400, 6 and 1 totalling 407.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "oat"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ו ת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "sign"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "tav"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "vav"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "400"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "6"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "407"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אות",
+   "translit": "oat",
+   "gloss": "sign",
+   "strongs": "H226",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     400,
+     6,
+     1
+    ],
+    "total": 407
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "oat",
+   "other": "אות"
+  },
+  {
+   "en": "sign",
+   "other": "אות"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "cross-shaped mark (ancient tav pictograph); sign"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "peg / nail (ancient vav pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "ox head (ancient alef pictograph)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 407,
+   "note": "gematria of אות (sign): 400 + 6 + 1"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Three ancient (paleo-Hebrew) letter glyphs in black, each underlined in the colour of its modern letter: a plain cross (tav, red underline), a Y-shaped peg (vav, orange underline) and an ox-head sign (alef, blue underline).",
+   "subjects": [
+    "paleo-Hebrew",
+    "pictograph",
+    "tav",
+    "vav",
+    "alef",
+    "cross",
+    "ancient Hebrew letters"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.35,
+    0.28,
+    0.65,
+    0.43
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "cross"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "oat",
+  "ot",
+  "oth",
+  "sign",
+  "אות",
+  "aleph vav tav",
+  "alef vav tav",
+  "tav",
+  "vav",
+  "alef",
+  "407",
+  "gematria 407",
+  "paleo-Hebrew",
+  "ancient Hebrew pictograph",
+  "cross-shaped tav",
+  "sign of the covenant"
+ ],
+ "uncertain": [
+  "Slide lists letters left to right as tav, vav, alef (the reading order of the Hebrew is alef-vav-tav); the transliteration 'oat' and the word 'sign' are colour-coded letter by letter."
+ ],
+ "confidence": 0.93
+}

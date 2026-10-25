@@ -1,0 +1,87 @@
+{
+ "id": "noah-part-1/70",
+ "kinds": [
+  "humor",
+  "song"
+ ],
+ "title": "Humor: a song-style retelling of God telling Noah to build a floating zoo",
+ "summary": "A light-hearted, song-style retelling headed Genesis 6:19-22: God sees sin and pain, says He will make it rain, and tells 'Brother Noah' to build a floating zoo and take some of the animals. The lines are in a humorous folk idiom; they are summarised here rather than copied word for word.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:19-22",
+   "osis": [
+    "Gen.6.19",
+    "Gen.6.20",
+    "Gen.6.21",
+    "Gen.6.22"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יט-כב"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "[Lyric-style lines, summarised not copied: God sees sinning and it pains Him; He says He will make it rain; He tells Brother Noah to build a floating zoo and take some of the animals, ending with a trailing ellipsis. 'God' has G blue, o red, d yellow; 'No' of Noah is green.]"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:19-22 / בראשית ו:יט-כב",
+   "osis": [
+    "Gen.6.19",
+    "Gen.6.20",
+    "Gen.6.21",
+    "Gen.6.22"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "floating zoo",
+   "animals"
+  ],
+  "themes": [
+   "humor",
+   "judgment",
+   "sin"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "floating zoo",
+  "funny Noah song",
+  "Noah humor",
+  "Brother Noah",
+  "make it rain",
+  "God saw sin",
+  "song about Noah",
+  "Genesis 6:19-22",
+  "Irish Rovers",
+  "unicorn song",
+  "Noah's ark song",
+  "joke"
+ ],
+ "uncertain": [
+  "Song-lyric lines on this slide were not transcribed verbatim (summarised in a note block) because song lyrics are not reproduced. The line begins with a green '2' in front of 'Now'."
+ ],
+ "confidence": 0.9
+}

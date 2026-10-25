@@ -1,0 +1,117 @@
+{
+ "id": "genesis-1-1-wisdom/48",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Proverbs 8:1-7 — wisdom cries out, understanding lifts up her voice",
+ "summary": "Proverbs 8:1-7 in English: Wisdom and Understanding personified as a woman crying out on the high hill, by the gates and where the paths meet, calling the simple and the foolish to listen to her truth. 'Wisdom' and 'understanding' in verse 1 are highlighted in gold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Proverbs 8",
+   "osis": "Prov.8.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "משלי ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "1 Does not wisdom cry out, and understanding lift up her voice?",
+   "osis": "Prov.8.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "2 She takes her stand on the top of the high hill, Beside the way, where the paths meet.",
+   "osis": "Prov.8.2"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "3 She cries out by the gates, at the entry of the city, at the entrance of the doors:",
+   "osis": "Prov.8.3"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "4 “To you, O men, I call, And my voice is to the sons of men.",
+   "osis": "Prov.8.4"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "5 O you simple ones, understand prudence, And you fools, be of an understanding heart.",
+   "osis": "Prov.8.5"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "6 Listen, for I will speak of excellent things, And from the opening of my lips will come right things;",
+   "osis": "Prov.8.6"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "7 For my mouth will speak truth; Wickedness is an abomination to my lips.",
+   "osis": "Prov.8.7"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Proverbs 8 / משלי ח",
+   "osis": [
+    "Prov.8.1",
+    "Prov.8.2",
+    "Prov.8.3",
+    "Prov.8.4",
+    "Prov.8.5",
+    "Prov.8.6",
+    "Prov.8.7"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "gates"
+  ],
+  "themes": [
+   "wisdom",
+   "understanding",
+   "prudence",
+   "truth",
+   "wickedness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Proverbs 8",
+  "Proverbs 8:1",
+  "wisdom cries out",
+  "understanding lifts up her voice",
+  "lady wisdom",
+  "wisdom personified",
+  "simple ones",
+  "fools",
+  "prudence",
+  "excellent things",
+  "speak truth",
+  "wickedness is an abomination",
+  "top of the high hill",
+  "where the paths meet"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

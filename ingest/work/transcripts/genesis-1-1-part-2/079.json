@@ -1,0 +1,180 @@
+{
+ "id": "genesis-1-1-part-2/79",
+ "kinds": [
+  "verse",
+  "diagram"
+ ],
+ "title": "Genesis 1:1 in Hebrew written as a 28-letter colour-coded triangle",
+ "summary": "Genesis 1:1 header above all 28 Hebrew letters of the verse laid out in a seven-row triangle (rows of 1, 2, 3, 4, 5, 6 and 7 letters, read right to left). Each word is a different colour: בראשית red, ברא אלהים yellow, את green, השמים blue, ואת dark navy, הארץ purple.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ר א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש י ת"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב ר א א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ל ה י ם א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת ה ש מ י ם"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ו א ת ה א ר ץ"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(object marker, alef-tav)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve-et",
+   "gloss": "and (object marker, alef-tav)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha-aretz",
+   "gloss": "the earth",
+   "strongs": "H776"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 28,
+   "note": "total letters of Genesis 1:1 in Hebrew, arranged as a triangle of 7 rows (1+2+3+4+5+6+7)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A pyramid of 28 large Hebrew letters in seven rows. The top three rows are red (the word בראשית), then rows of yellow, green, light blue, dark navy and purple letters, each colour marking a different word of Genesis 1:1.",
+   "subjects": [
+    "Hebrew letters",
+    "triangle",
+    "pyramid",
+    "colour-coded words",
+    "Genesis 1:1",
+    "rainbow colours"
+   ],
+   "text_in_picture": "ב ר א ש י ת ב ר א א ל ה י ם א ת ה ש מ י ם ו א ת ה א ר ץ",
+   "credit": null,
+   "box": [
+    0.28,
+    0.24,
+    0.72,
+    0.9
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "triangle"
+  ],
+  "themes": [
+   "creation",
+   "Hebrew letter patterns",
+   "triangular numbers",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "Genesis 1:1 triangle",
+  "28 letters",
+  "triangle of letters",
+  "in the beginning God created the heaven and the earth",
+  "bereshit bara elohim",
+  "בראשית ברא אלהים את השמים ואת הארץ",
+  "triangular number 28",
+  "colour-coded Hebrew",
+  "Hebrew letter pyramid"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

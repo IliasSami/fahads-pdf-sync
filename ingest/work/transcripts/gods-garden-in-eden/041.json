@@ -1,0 +1,96 @@
+{
+ "id": "gods-garden-in-eden/41",
+ "kinds": [
+  "verse"
+ ],
+ "title": "The 8th Good Thing in the Bible — the gold of Havilah (Genesis 2:11-12)",
+ "summary": "Under the heading 'The 8th Good Thing in the Bible', Genesis 2:11-12 says the river Pishon flows around the whole land of Havilah, where there is gold. 'Gold' is highlighted in gold, and 'The gold of that land is good' is marked with a check mark; bdellium and the onyx stone are also there.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The 8th Good Thing in the Bible"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:11-12",
+   "osis": [
+    "Gen.2.11",
+    "Gen.2.12"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:יא-יב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.11",
+   "text": "11 The name of the first is Pishon; it flows around the whole land of Havilah, where there is gold."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.12",
+   "text": "12 The gold of that land is ✔ good; the bdellium and the onyx stone are there."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:11-12 / בראשית ב:יא-יב",
+   "osis": [
+    "Gen.2.11",
+    "Gen.2.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 8,
+   "note": "the 8th 'good' thing in the Bible (the gold of Havilah), following the first 7"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Pishon River",
+   "Havilah"
+  ],
+  "events": [],
+  "things": [
+   "gold",
+   "bdellium",
+   "onyx"
+  ],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "8th good thing",
+  "eighth good thing in the Bible",
+  "gold of Havilah",
+  "the gold of that land is good",
+  "Pishon",
+  "Pison",
+  "river Pishon",
+  "first river of Eden",
+  "Havilah",
+  "bdellium",
+  "onyx stone",
+  "Genesis 2:11",
+  "Genesis 2:12",
+  "rivers of Eden",
+  "Garden of Eden",
+  "gold"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

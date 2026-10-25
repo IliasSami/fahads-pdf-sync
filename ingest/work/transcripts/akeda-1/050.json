@@ -1,0 +1,19 @@
+{
+  "id": "akeda-1/50",
+  "kinds": ["picture"],
+  "title": "Photo: Western Wall plaza and Temple Mount, Jerusalem",
+  "summary": "A photograph of the Western Wall plaza in Jerusalem, looking toward the Temple Mount (traditionally Mount Moriah), with the golden Dome of the Rock on the left and the grey dome of the Al-Aqsa Mosque on the right.",
+  "text": [],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [
+    {"type": "photo", "description": "Wide view over the Western Wall (Kotel) plaza under a cloudy sky: the great stone wall with worshippers gathered at its base, the golden Dome of the Rock and a minaret behind on the left, the grey-domed Al-Aqsa Mosque on the right, the covered wooden Mughrabi Bridge ramp leading up to the Temple Mount, an Israeli flag, and construction fencing in the foreground.", "subjects": ["Western Wall", "Kotel", "Wailing Wall", "Temple Mount", "Dome of the Rock", "Al-Aqsa Mosque", "Jerusalem Old City", "Mughrabi Bridge"], "text_in_picture": "", "credit": null, "box": [0.125, 0.0, 0.875, 1.0]}
+  ],
+  "entities": {"people": [], "places": ["Jerusalem", "Temple Mount", "Western Wall", "Dome of the Rock", "Al-Aqsa Mosque", "Mount Moriah"], "events": [], "things": [], "themes": ["temple"], "groups": []},
+  "keywords": ["Western Wall", "Wailing Wall", "Kotel", "Temple Mount", "Dome of the Rock", "Al-Aqsa", "Jerusalem", "Mount Moriah", "photo of Jerusalem", "Old City", "plaza", "photo"],
+  "uncertain": [],
+  "confidence": 0.9
+}

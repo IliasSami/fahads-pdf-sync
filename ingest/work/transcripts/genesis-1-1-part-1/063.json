@@ -1,0 +1,155 @@
+{
+ "id": "genesis-1-1-part-1/63",
+ "kinds": [
+  "word-study",
+  "comparison"
+ ],
+ "title": "The Land: ha'aretz, compared with Latin terra and English earth",
+ "summary": "Colour-coded Hebrew of Genesis 1:1 with the final word הארץ (ha'aretz, 'The Land') picked out in purple, then the sounds of the word laid out in three languages: Hebrew a r e ts, Latin t(s) e r r a, English e a r t (h).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Land"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "הארץ"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ha’aretz"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Hebrew"
+  },
+  {
+   "lang": "translit",
+   "role": "body",
+   "text": "a r e ts"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Latin"
+  },
+  {
+   "lang": "translit",
+   "role": "body",
+   "text": "t(s) e r r a"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "English"
+  },
+  {
+   "lang": "translit",
+   "role": "body",
+   "text": "e a r t (h)"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the land / the earth",
+   "strongs": "H776",
+   "gematria": null
+  },
+  {
+   "lang": "en",
+   "word": "terra",
+   "translit": "terra",
+   "gloss": "Latin for earth",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "en",
+   "word": "earth",
+   "translit": "earth",
+   "gloss": "English word compared with arets and terra",
+   "strongs": null,
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Land",
+   "other": "ארץ"
+  },
+  {
+   "en": "aretz",
+   "other": "ארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "earth",
+   "land"
+  ],
+  "themes": [
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "ha'aretz",
+  "haaretz",
+  "arets",
+  "eretz",
+  "the land",
+  "earth",
+  "terra",
+  "Latin terra",
+  "English earth",
+  "word origins",
+  "etymology",
+  "Hebrew Latin English comparison",
+  "הארץ"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

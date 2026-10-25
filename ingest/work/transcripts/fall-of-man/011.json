@@ -1,0 +1,29 @@
+{
+  "id": "fall-of-man/11",
+  "kinds": ["verse"],
+  "title": "Luke 4:5-8 — the kingdoms of the world offered to Jesus: lust of the eyes",
+  "summary": "Luke 4:5-8 in English: the devil shows Jesus all the kingdoms of the world and offers them if Jesus will worship him; Jesus answers from Deuteronomy 6:13 that we worship and serve the LORD God only. The slide labels this temptation “Lust of the Eyes”.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Luke 4:5-8", "osis": ["Luke.4.5", "Luke.4.6", "Luke.4.7", "Luke.4.8"]},
+    {"lang": "el", "role": "reference", "text": "ΛΟΥΚΑΝ 4:5-8", "osis": ["Luke.4.5", "Luke.4.6", "Luke.4.7", "Luke.4.8"]},
+    {"lang": "en", "role": "verse", "text": "5 And he led Him up and showed Him all the kingdoms of the world in a moment of time.", "osis": "Luke.4.5"},
+    {"lang": "en", "role": "verse", "text": "6 And the devil said to Him, “I will give You all this domain and its glory; for it has been handed over to me, and I give it to whomever I wish.", "osis": "Luke.4.6"},
+    {"lang": "en", "role": "verse", "text": "7 “Therefore if You worship before me, it shall all be Yours.”", "osis": "Luke.4.7"},
+    {"lang": "en", "role": "verse", "text": "8 Jesus answered him, “It is written, ‘YOU SHALL WORSHIP THE LORD YOUR GOD AND SERVE HIM ONLY.’”", "osis": "Luke.4.8"},
+    {"lang": "en", "role": "reference", "text": "—Deuteronomy 6:13", "osis": "Deut.6.13"},
+    {"lang": "en", "role": "heading", "text": "Lust of the Eyes"}
+  ],
+  "refs": [
+    {"shown": "Luke 4:5-8 / ΛΟΥΚΑΝ 4:5-8", "osis": ["Luke.4.5", "Luke.4.6", "Luke.4.7", "Luke.4.8"], "role": "quoted"},
+    {"shown": "Deuteronomy 6:13", "osis": ["Deut.6.13"], "role": "cited"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Jesus", "Satan", "God"], "places": [], "events": ["Temptation of Jesus"], "things": ["kingdoms of the world"], "themes": ["temptation", "worship", "Scripture", "lust of the eyes"], "groups": []},
+  "keywords": ["temptation of Jesus", "kingdoms of the world", "worship me", "thou shalt worship the Lord thy God", "him only shalt thou serve", "devil", "lust of the eyes", "It is written", "Luke 4", "Deuteronomy 6:13"],
+  "uncertain": [],
+  "confidence": 0.95
+}

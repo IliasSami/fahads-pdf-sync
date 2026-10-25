@@ -1,0 +1,170 @@
+{
+ "id": "akeda-1/111",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Jerusalem, Jerusalem; Lord, Lord; My God, My God",
+ "summary": "Three more New Testament passages with doubled words: Jesus laments over 'Jerusalem, Jerusalem' (Matthew 23:37), warns that not everyone who says 'Lord, Lord' will enter the kingdom (Matthew 7:21), and cries out 'Eloi, Eloi, lama sabachthani' — 'My God, My God, why have You forsaken Me?' (Mark 15:34). Doubled words and personal pronouns are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.23.37",
+   "text": "\"Jerusalem, Jerusalem, who kills the prophets"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.23.37",
+   "text": "and stones those who are sent to her!"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.23.37",
+   "text": "How often I wanted to gather your children together,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.23.37",
+   "text": "the way a hen gathers her chicks under her wings,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.23.37",
+   "text": "and you were unwilling.—Matthew 23:37"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.7.21",
+   "text": "\"Not everyone who says to Me,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.7.21",
+   "text": "'Lord, Lord,' will enter the kingdom of heaven,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.7.21",
+   "text": "but he who does the will of My Father who is in heaven will enter."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.7.21",
+   "text": "—Matthew 7:21"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Mark.15.34",
+   "text": "At the ninth hour Jesus cried out with a loud voice,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Mark.15.34",
+   "text": "\"ELOI, ELOI, LAMA SABACHTHANI?\" which is translated,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Mark.15.34",
+   "text": "\"MY GOD, MY GOD, WHY HAVE YOU FORSAKEN ME?\""
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Mark.15.34",
+   "text": "—Mark 15:34"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Matthew 23:37",
+   "osis": [
+    "Matt.23.37"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Matthew 7:21",
+   "osis": [
+    "Matt.7.21"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Mark 15:34",
+   "osis": [
+    "Mark.15.34"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "other",
+   "word": "ELOI, ELOI, LAMA SABACHTHANI",
+   "translit": "Eloi, Eloi, lama sabachthani",
+   "gloss": "My God, My God, why have You forsaken Me?",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "ELOI",
+   "other": "MY GOD"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus",
+   "God"
+  ],
+  "places": [
+   "Jerusalem"
+  ],
+  "events": [
+   "Crucifixion"
+  ],
+  "things": [],
+  "themes": [
+   "names of God",
+   "obedience",
+   "judgment"
+  ],
+  "groups": [
+   "prophets"
+  ]
+ },
+ "keywords": [
+  "Jerusalem Jerusalem",
+  "Lord Lord",
+  "My God My God",
+  "Eloi Eloi lama sabachthani",
+  "why have You forsaken Me",
+  "hen gathers her chicks",
+  "kills the prophets",
+  "not everyone who says Lord Lord",
+  "will of My Father",
+  "Matthew 23:37",
+  "Matthew 7:21",
+  "Mark 15:34",
+  "cry from the cross",
+  "Psalm 22"
+ ],
+ "uncertain": [
+  "Eloi/Eloi are shown in two colours (blue and gold), matching MY GOD / MY GOD below"
+ ],
+ "confidence": 0.95
+}

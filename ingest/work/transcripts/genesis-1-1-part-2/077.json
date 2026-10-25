@@ -1,0 +1,152 @@
+{
+ "id": "genesis-1-1-part-2/77",
+ "kinds": [
+  "diagram"
+ ],
+ "title": "Perfect Triangles: 3, 6, 10, 15, 21, 28, 36, 45, 55",
+ "summary": "A page headed 'Perfect Triangles' showing nine triangles built from red triangle symbols, each labelled with the number of symbols it contains: 3, 6, 10, 15, 21, 28, 36, 45 and 55.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Perfect Triangles"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "3"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "6"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "10"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "15"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "21"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "28"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "36"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "45"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "55"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "triangle of 3 symbols (2 rows)"
+  },
+  {
+   "value": 6,
+   "note": "triangle of 6 symbols (3 rows)"
+  },
+  {
+   "value": 10,
+   "note": "triangle of 10 symbols (4 rows)"
+  },
+  {
+   "value": 15,
+   "note": "triangle of 15 symbols (5 rows)"
+  },
+  {
+   "value": 21,
+   "note": "triangle of 21 symbols (6 rows)"
+  },
+  {
+   "value": 28,
+   "note": "triangle of 28 symbols (7 rows)"
+  },
+  {
+   "value": 36,
+   "note": "triangle of 36 symbols (8 rows)"
+  },
+  {
+   "value": 45,
+   "note": "triangle of 45 symbols (9 rows)"
+  },
+  {
+   "value": 55,
+   "note": "triangle of 55 symbols (10 rows)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "Nine triangular arrangements of small red triangle symbols in a 3 by 3 layout, each growing by one row: 2 rows (3 symbols), 3 rows (6), 4 rows (10), 5 rows (15), 6 rows (21), 7 rows (28), 8 rows (36), 9 rows (45) and 10 rows (55). Each has its total printed in black underneath.",
+   "subjects": [
+    "triangular numbers",
+    "triangle",
+    "red triangles",
+    "number pattern",
+    "diagram",
+    "dots in a triangle"
+   ],
+   "text_in_picture": "3, 6, 10, 15, 21, 28, 36, 45, 55",
+   "credit": null,
+   "box": [
+    0.15,
+    0.05,
+    0.9,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "triangle"
+  ],
+  "themes": [
+   "perfect number",
+   "triangular numbers",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "perfect triangles",
+  "triangular numbers",
+  "3 6 10 15 21 28",
+  "triangle of numbers",
+  "28",
+  "number pattern",
+  "red triangles",
+  "Genesis 1:1 triangle",
+  "mathematics of Genesis 1:1",
+  "diagram"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

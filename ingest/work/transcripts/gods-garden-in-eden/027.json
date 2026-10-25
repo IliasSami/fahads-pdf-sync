@@ -1,0 +1,193 @@
+{
+ "id": "gods-garden-in-eden/27",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Hidden letters in Genesis 2:7-9: wheat, vine, dense forest",
+ "summary": "Three Hebrew excerpts from Genesis 2:7-9, each with a few large coloured letters that spell a tree or plant word with a number beside it: Wheat חטה (+5), Vine גפן (-18) and Dense Forest עבת (-3). The highlighted letters are ח, ט, ה in the wheat lines; ג, פ, נ in the vine lines; and ע, ב, ת in the dense-forest lines.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Wheat"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חטה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "+5"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": [
+    "Gen.2.7",
+    "Gen.2.8"
+   ],
+   "text": "7 וייצר יהוה אלהים את־האדם עפר מן־האדמה ויפח באפיו נשמת חיים ויהי האדם לנפש חיה׃ 8 ויטע יהוה אלהים גן־בעדן מקדם וישם שם את־האדם אשר יצר׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Vine"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "גפן"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "-18"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": [
+    "Gen.2.7",
+    "Gen.2.8"
+   ],
+   "text": "7 וייצר יהוה אלהים את־האדם עפר מן־האדמה ויפח באפיו נשמת חיים ויהי האדם לנפש חיה׃ 8 ויטע יהוה אלהים גן־בעדן מקדם וישם שם את־האדם אשר יצר׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Dense Forest"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "עבת"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "-3"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.9",
+   "text": "9 ויצמח יהוה אלהים מן־האדמה כל־עץ נחמד למראה וטוב למאכל ועץ החיים בתוך הגן ועץ הדעת טוב ורע׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:7-9 (Hebrew text)",
+   "osis": [
+    "Gen.2.7",
+    "Gen.2.8",
+    "Gen.2.9"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חטה",
+   "translit": "chittah",
+   "gloss": "wheat",
+   "strongs": "H2406",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "גפן",
+   "translit": "gephen",
+   "gloss": "vine",
+   "strongs": "H1612",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "עבת",
+   "translit": "avot",
+   "gloss": "dense forest (leafy, interwoven foliage)",
+   "strongs": "H5687",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Wheat",
+   "other": "חטה"
+  },
+  {
+   "en": "Vine",
+   "other": "גפן"
+  },
+  {
+   "en": "Dense Forest",
+   "other": "עבת"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 5,
+   "note": "+5, number shown beside חטה (wheat)"
+  },
+  {
+   "value": -18,
+   "note": "-18, number shown beside גפן (vine)"
+  },
+  {
+   "value": -3,
+   "note": "-3, number shown beside עבת (dense forest)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "wheat",
+   "vine",
+   "dense forest",
+   "tree of life",
+   "tree of the knowledge of good and evil"
+  ],
+  "themes": [
+   "Bible codes",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "hidden letters",
+  "Bible code",
+  "ELS",
+  "equidistant letter sequence",
+  "wheat in Hebrew",
+  "chitah",
+  "vine in Hebrew",
+  "gefen",
+  "dense forest",
+  "avot",
+  "trees of Eden",
+  "Genesis 2:7",
+  "Genesis 2:8",
+  "Genesis 2:9",
+  "Garden of Eden",
+  "skip number"
+ ],
+ "uncertain": [
+  "Hebrew verse lines are shown with sof pasuq as a colon-like mark; transcribed as ׃."
+ ],
+ "confidence": 0.93
+}

@@ -1,0 +1,217 @@
+{
+ "id": "genesis-1-1-wisdom/33",
+ "kinds": [
+  "verse",
+  "word-study",
+  "letters"
+ ],
+ "title": "The Torah begins with ב and ends with ל: lev, heart (לב)",
+ "summary": "The first word of the Torah (bereshit, בראשית, with red ב) and the last word (yisrael, ישראל, with brown ל) flank a large red heart; below, the red ב and brown ל are joined as לב, lev, \"Heart\". In the verse, \"my heart\" and לבי are colour-marked.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 49:3",
+   "osis": "Ps.49.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים מט:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "First Word of the torah"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Last Word of the torah"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bereshit"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yisrael"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בראשית"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ישראל"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "lev"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "לב"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Heart"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 49:3 / תהילים מט:ג",
+   "osis": [
+    "Ps.49.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning (first word of the Torah)",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ישראל",
+   "translit": "yisrael",
+   "gloss": "Israel (last word of the Torah)",
+   "strongs": "H3478"
+  },
+  {
+   "lang": "he",
+   "word": "לב",
+   "translit": "lev",
+   "gloss": "heart",
+   "strongs": "H3820"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "First",
+   "other": "ב"
+  },
+  {
+   "en": "b",
+   "other": "ב"
+  },
+  {
+   "en": "Last",
+   "other": "ל"
+  },
+  {
+   "en": "lev",
+   "other": "לב"
+  },
+  {
+   "en": "Heart",
+   "other": "לב"
+  },
+  {
+   "en": "heart",
+   "other": "לב"
+  },
+  {
+   "en": "my",
+   "other": "י"
+  },
+  {
+   "en": "el",
+   "other": "אל"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "1st letter of the Torah (red), first letter of bereshit"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "last letter of the Torah (brown), last letter of yisrael"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "symbol",
+   "description": "A large solid red heart shape placed between the first word (bereshit) and last word (yisrael) of the Torah, above the word lev (heart).",
+   "subjects": [
+    "heart",
+    "red heart",
+    "symbol",
+    "love"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.43,
+    0.59,
+    0.57,
+    0.83
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "Torah",
+   "heart"
+  ],
+  "themes": [
+   "Torah",
+   "Hebrew letter meanings",
+   "wisdom",
+   "understanding"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "heart of the Torah",
+  "lev",
+  "heart",
+  "first letter and last letter of the Torah",
+  "bet and lamed",
+  "bereshit",
+  "yisrael",
+  "Israel",
+  "beginning and end of the Torah",
+  "red heart",
+  "Psalm 49:3",
+  "לב"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

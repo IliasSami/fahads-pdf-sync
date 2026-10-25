@@ -1,0 +1,33 @@
+{
+  "id": "akeda-1/74",
+  "kinds": ["text", "comparison"],
+  "title": "Both options: Isaac spared and Yeshua sacrificed and resurrected",
+  "summary": "The word 'Both' in gold is added between the two options: Option 1 (Isaac / יצחק, God intervenes and stops the sacrifice) and Option 2 (yeshua / ישוע, Son is sacrificed and resurrected) are both true.",
+  "text": [
+    {"lang": "en", "role": "label", "text": "Isaac"},
+    {"lang": "en", "role": "heading", "text": "Option 1"},
+    {"lang": "he", "role": "label", "text": "יצחק"},
+    {"lang": "en", "role": "body", "text": "God intervenes & stops sacrifice"},
+    {"lang": "en", "role": "heading", "text": "Both"},
+    {"lang": "translit", "role": "label", "text": "yeshua"},
+    {"lang": "en", "role": "heading", "text": "Option 2"},
+    {"lang": "he", "role": "label", "text": "ישוע"},
+    {"lang": "en", "role": "body", "text": "Son is sacrificed & resurrected"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "יצחק", "translit": "Yitzchak", "gloss": "Isaac", "strongs": "H3327"},
+    {"lang": "he", "word": "ישוע", "translit": "yeshua", "gloss": "Yeshua (Jesus), 'he is saved'", "strongs": "H3442"}
+  ],
+  "color_links": [
+    {"en": "Isaac", "other": "יצחק"},
+    {"en": "yeshua", "other": "ישוע"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Isaac", "Jesus"], "places": [], "events": ["Binding of Isaac (Akedah)", "Resurrection", "Crucifixion"], "things": [], "themes": ["sacrifice", "resurrection", "substitution", "typology"], "groups": []},
+  "keywords": ["both options", "option 1", "option 2", "Isaac", "Yitzchak", "yeshua", "Yeshua", "Jesus", "God intervenes", "son is sacrificed and resurrected", "ישוע", "Isaac as a picture of Jesus", "Akedah", "Akeda", "binding of Isaac"],
+  "uncertain": [],
+  "confidence": 0.97
+}

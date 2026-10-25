@@ -1,0 +1,253 @@
+{
+ "id": "genesis-1-1-part-2/34",
+ "kinds": [
+  "gematria",
+  "list"
+ ],
+ "title": "Genesis 1:1: nine more sums of word values that are multiples of 37 (x35 to x52)",
+ "summary": "Nine more equations of the form 37 times a number (x35, x35, x38, x38, x41, x46, x46, x49, x52), each adding colour-coded Hebrew words of Genesis 1:1 with their values: בראשית 913, ברא 203, אלהים 86, את 401, השמים 395, ואת 407, הארץ 296.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "37"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "37 x 35 = ברא 203 + את 401 + השמים 395 + הארץ 296"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "37 x 35 = בראשית 913 + אלהים 86 + הארץ 296"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "37 x 38 = בראשית 913 + אלהים 86 + ואת 407"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "37 x 38 = ברא 203 + את 401 + השמים 395 + ואת 407"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "37 x 41 = בראשית 913 + ברא 203 + את 401"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "37 x 46 = בראשית 913 + אלהים 86 + ואת 407 + הארץ 296"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "37 x 46 = ברא 203 + את 401 + השמים 395 + ואת 407 + הארץ 296"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "37 x 49 = בראשית 913 + ברא 203 + את 401 + הארץ 296"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "37 x 52 = בראשית 913 + ברא 203 + את 401 + ואת 407"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     913
+    ],
+    "total": 913
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     203
+    ],
+    "total": 203
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     86
+    ],
+    "total": 86
+   }
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(untranslated object marker)",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     401
+    ],
+    "total": 401
+   }
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the skywaters (the heavens)",
+   "strongs": "H8064",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     395
+    ],
+    "total": 395
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve’et",
+   "gloss": "and (et)",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     407
+    ],
+    "total": 407
+   }
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha’aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     296
+    ],
+    "total": 296
+   }
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 37,
+   "note": "every sum on the slide is written as 37 times a number"
+  },
+  {
+   "value": 86,
+   "note": "gematria of אלהים (God)"
+  },
+  {
+   "value": 395,
+   "note": "gematria of השמים (the skywaters)"
+  },
+  {
+   "value": 407,
+   "note": "gematria of ואת"
+  },
+  {
+   "value": 296,
+   "note": "gematria of הארץ (the earth)"
+  },
+  {
+   "value": 203,
+   "note": "gematria of ברא (created)"
+  },
+  {
+   "value": 401,
+   "note": "gematria of את (et)"
+  },
+  {
+   "value": 913,
+   "note": "gematria of בראשית (in beginning)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "creation",
+   "Hebrew word study"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "gematria",
+  "37",
+  "multiples of 37",
+  "37 x 35",
+  "37 x 38",
+  "37 x 41",
+  "37 x 46",
+  "37 x 49",
+  "37 x 52",
+  "913",
+  "203",
+  "86",
+  "401",
+  "Bible numerics"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

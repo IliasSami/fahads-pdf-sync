@@ -1,0 +1,92 @@
+{
+ "id": "red-heifer/33",
+ "kinds": [
+  "title",
+  "list"
+ ],
+ "title": "Red heifer ordinance, step 1 — find a completely unblemished red heifer",
+ "summary": "The heading 'The Ordinance of the Red Heifer is the most mysterious of the chukat (חקת)…' followed by the first step of the ordinance: find a red heifer that is completely unblemished and never used as a beast of burden.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Ordinance of the Red Heifer"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "is the most mysterious of the"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "chukat"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "חקת"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "…"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1. Find a red heifer that is completely unblemished and never used as a beast of burden."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חקת",
+   "translit": "chukat",
+   "gloss": "statutes of (statute, ordinance)",
+   "strongs": "H2708",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "chukat",
+   "other": "חקת"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer"
+  ],
+  "themes": [
+   "statutes (chok)",
+   "purification",
+   "without blemish",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "red heifer",
+  "ordinance of the red heifer",
+  "find a red heifer",
+  "completely unblemished",
+  "without blemish",
+  "never used as a beast of burden",
+  "never yoked",
+  "no yoke",
+  "step 1",
+  "chukat",
+  "most mysterious statute",
+  "Numbers 19"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

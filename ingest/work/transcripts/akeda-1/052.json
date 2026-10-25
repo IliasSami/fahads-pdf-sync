@@ -1,0 +1,25 @@
+{
+  "id": "akeda-1/52",
+  "kinds": ["verse"],
+  "title": "Genesis 22:3 — Abraham rose early and set out with Isaac",
+  "summary": "Genesis 22:3 under the heading “The Akedah”: Abraham rises early, saddles his donkey, takes two young men and his son Isaac, splits wood for the burnt offering and goes to the place God told him of.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22", "osis": "Gen.22.3"},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב"},
+    {"lang": "en", "role": "heading", "text": "The Akedah"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.3", "text": "3 So Abraham rose early in the morning and saddled his donkey, and took two of his young men with him and Isaac his son; and he split wood for the burnt offering, and arose and went to the place of which God had told him."}
+  ],
+  "refs": [{"shown": "Genesis 22 / בראשית כב (verse 3)", "osis": ["Gen.22.3"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "העקדה", "translit": "ha-akedah", "gloss": "the binding (of Isaac)", "strongs": "H6123"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [{"value": 2, "note": "two young men taken along (highlighted in green)"}],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac", "God"], "places": ["Mount Moriah"], "events": ["Binding of Isaac (Akedah)"], "things": ["donkey", "wood", "burnt offering"], "themes": ["obedience", "faith", "sacrifice"], "groups": ["young men (servants)"]},
+  "keywords": ["Genesis 22", "Akedah", "Akeda", "binding of Isaac", "rose up early in the morning", "saddled his ass", "donkey", "two young men", "servants", "clave the wood", "wood for the burnt offering", "Abraham obeys"],
+  "uncertain": [],
+  "confidence": 0.95
+}

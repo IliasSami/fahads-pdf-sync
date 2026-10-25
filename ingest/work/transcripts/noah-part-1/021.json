@@ -1,0 +1,183 @@
+{
+ "id": "noah-part-1/21",
+ "kinds": [
+  "word-study",
+  "letters"
+ ],
+ "title": "Adam spelled vertically: Adam 930, David +70, Moshiach 1,000 years",
+ "summary": "The Hebrew name אדם (adam) is spelled out letter by letter, vertically. Alef goes with 'adam lived 930 yrs' (אדם), dalet with 'david lived +70 yrs' (דוד), and final mem with 'moshiach reigns 1,000 yrs' (משיח). The letters and names share colours (blue, brown, light blue).",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "adam"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "א ד ם"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "vertically"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אדם"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "adam lived 930 yrs"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "דוד"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ד"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "david lived +70 yrs"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "משיח"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ם"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "moshiach reigns 1,000 yrs"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "Adam, man",
+   "strongs": "H121"
+  },
+  {
+   "lang": "he",
+   "word": "דוד",
+   "translit": "david",
+   "gloss": "David",
+   "strongs": "H1732"
+  },
+  {
+   "lang": "he",
+   "word": "משיח",
+   "translit": "moshiach",
+   "gloss": "Messiah, anointed one",
+   "strongs": "H4899"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "adam",
+   "other": "אדם"
+  },
+  {
+   "en": "david",
+   "other": "דוד"
+  },
+  {
+   "en": "moshiach",
+   "other": "משיח"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "first letter of adam; goes with Adam, who lived 930 years"
+  },
+  {
+   "lang": "he",
+   "letter": "dalet",
+   "char": "ד",
+   "value": 4,
+   "meaning": "second letter of adam; goes with David, who lived 70 years"
+  },
+  {
+   "lang": "he",
+   "letter": "final mem",
+   "char": "ם",
+   "value": 40,
+   "meaning": "last letter of adam; goes with moshiach (Messiah), who reigns 1,000 years"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 930,
+   "note": "years Adam lived"
+  },
+  {
+   "value": 70,
+   "note": "years David lived (added, +70)"
+  },
+  {
+   "value": 1000,
+   "note": "years moshiach reigns (930 + 70 = 1,000)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "David",
+   "Messiah"
+  ],
+  "places": [],
+  "events": [
+   "Millennial Reign"
+  ],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "messianic prophecy",
+   "genealogy",
+   "prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "adam spelled vertically",
+  "alef dalet mem",
+  "aleph dalet mem",
+  "אדם",
+  "Adam 930 years",
+  "David 70 years",
+  "Moshiach 1000 years",
+  "Messiah reigns 1,000 years",
+  "930 + 70 = 1000",
+  "Adam David Messiah",
+  "Hebrew acronym",
+  "Yeshua reign",
+  "final mem"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

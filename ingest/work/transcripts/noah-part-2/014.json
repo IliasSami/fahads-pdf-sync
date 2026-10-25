@@ -1,0 +1,337 @@
+{
+ "id": "noah-part-2/14",
+ "kinds": [
+  "letters",
+  "word-study",
+  "gematria"
+ ],
+ "title": "oat, tebah and v'et (and et) all equal 407",
+ "summary": "Three Hebrew words, each broken into colour-coded letters and ancient pictographs, all total 407: אות (oat, 'sign'), תבה (tebah, 'ark') and ואת (v'et, 'and et') = tav 400 + alef 1 + vav 6.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "oat"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ו ת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "sign"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "tav vav alef"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "400 6 1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "407"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tebah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת ב ה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "ark"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "he bet tav"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 2 400"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "407"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "v'et"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ו א ת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "and et"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "tav alef vav"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "400 1 6"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "407"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אות",
+   "translit": "oat",
+   "gloss": "sign",
+   "strongs": "H226",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     400,
+     6,
+     1
+    ],
+    "total": 407
+   }
+  },
+  {
+   "lang": "he",
+   "word": "תבה",
+   "translit": "tebah",
+   "gloss": "ark",
+   "strongs": "H8392",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     2,
+     400
+    ],
+    "total": 407
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "v'et",
+   "gloss": "and et (and the untranslated object marker אֵת)",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     400,
+     1,
+     6
+    ],
+    "total": 407
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "oat",
+   "other": "אות"
+  },
+  {
+   "en": "sign",
+   "other": "אות"
+  },
+  {
+   "en": "tebah",
+   "other": "תבה"
+  },
+  {
+   "en": "ark",
+   "other": "תבה"
+  },
+  {
+   "en": "v'et",
+   "other": "ואת"
+  },
+  {
+   "en": "and et",
+   "other": "ואת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "cross-shaped mark (ancient tav pictograph); sign"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "peg / nail (ancient vav pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "ox head (ancient alef pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "ancient he pictograph (person with raised arms)"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "house / tent (ancient bet pictograph)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 407,
+   "note": "gematria of אות (sign): 400 + 6 + 1"
+  },
+  {
+   "value": 407,
+   "note": "gematria of תבה (ark): 5 + 2 + 400"
+  },
+  {
+   "value": 407,
+   "note": "gematria of ואת (v'et, 'and et'): 400 + 1 + 6"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Three small ancient (paleo-Hebrew) letter glyphs in black under the word oat: a cross (tav, red underline), a Y-shaped peg (vav, orange underline) and an ox-head sign (alef, blue underline).",
+   "subjects": [
+    "paleo-Hebrew",
+    "pictograph",
+    "tav",
+    "vav",
+    "alef",
+    "cross",
+    "ancient Hebrew letters"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.1,
+    0.13,
+    0.28,
+    0.25
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Three small ancient (paleo-Hebrew) letter glyphs in black under the word tebah: he (figure with raised arms, black underline), bet (house shape, red underline) and tav (cross, dark red underline).",
+   "subjects": [
+    "paleo-Hebrew",
+    "pictograph",
+    "he",
+    "bet",
+    "tav",
+    "house",
+    "cross",
+    "ancient Hebrew letters"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.11,
+    0.66,
+    0.24,
+    0.73
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Three large ancient (paleo-Hebrew) letter glyphs in black under the word v'et, each underlined in its letter colour: a cross (tav, dark red), an ox-head sign (alef, blue) and a Y-shaped peg (vav, orange).",
+   "subjects": [
+    "paleo-Hebrew",
+    "pictograph",
+    "tav",
+    "alef",
+    "vav",
+    "cross",
+    "ox head",
+    "ancient Hebrew letters"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.55,
+    0.31,
+    0.85,
+    0.45
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "ark",
+   "cross"
+  ],
+  "themes": [
+   "gematria",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "v'et",
+  "ve'et",
+  "vav alef tav",
+  "and et",
+  "et",
+  "tebah",
+  "ark",
+  "oat",
+  "sign",
+  "407",
+  "gematria 407",
+  "ark equals sign",
+  "ואת",
+  "אות",
+  "תבה",
+  "paleo-Hebrew",
+  "ancient Hebrew pictograph"
+ ],
+ "uncertain": [
+  "Hebrew letters are listed left to right on the slide (reverse of reading order); values transcribed left to right as shown. The slide does not state the connection between the three words.",
+  "Strong's H853 chosen for the 'et' part of ואת."
+ ],
+ "confidence": 0.93
+}

@@ -1,0 +1,94 @@
+{
+ "id": "akeda-2/115",
+ "kinds": [
+  "text"
+ ],
+ "title": "Trust between Isaac, Abraham and the servant Eliezer",
+ "summary": "Four colour-coded statements: Isaac trusts his father enough to be tied up for sacrifice; Abraham trusts his servant Eliezer, his sole heir; Isaac trusts Abraham and the most trusted servant to find him a bride; and the nameless servant points to Isaac, the Son.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Isaac trusts his father"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "by allowing himself to be tied up to be sacrificed."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Abraham trusts his servant, Eliezer"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "so much he was his sole heir."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Isaac trusts Abraham and most trusted servant"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "to find a bride for him."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The most trusted servant"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "remaining nameless, points to Isaac, the Son."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Isaac",
+   "Abraham",
+   "Eliezer"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "bride"
+  ],
+  "themes": [
+   "faith",
+   "sacrifice",
+   "marriage",
+   "typology",
+   "inheritance"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Isaac trusts Abraham",
+  "Abraham trusts Eliezer",
+  "most trusted servant",
+  "sole heir",
+  "find a bride for Isaac",
+  "nameless servant",
+  "tied up to be sacrificed",
+  "Akedah",
+  "Akeda",
+  "Binding of Isaac",
+  "Genesis 24",
+  "servant points to the Son"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

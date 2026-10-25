@@ -1,0 +1,159 @@
+{
+ "id": "genesis-1-1-part-2/19",
+ "kinds": [
+  "verse",
+  "word-study",
+  "letters"
+ ],
+ "title": "The first verse, first word and first letter of the torah",
+ "summary": "Genesis 1:1 in Hebrew and English is the first verse of the torah; the first word is bereshit (בראשית) and the first letter is the Hebrew bet (ב), matched with the English B. The word First is highlighted in blue, and God / אלהים and the bet are picked out in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The First Verse of the torah is Genesis 1:1"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "In beginning God created the heavens and the earth."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The First Word of the torah:"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בראשית"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bereshit"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The First Letter of the torah:"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "(English) B"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "(Hebrew)"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning (first word of the Torah)",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "B",
+   "other": "ב"
+  },
+  {
+   "en": "bet",
+   "other": "ב"
+  },
+  {
+   "en": "bereshit",
+   "other": "בראשית"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "B; first letter of the Torah"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "Torah",
+   "heavens",
+   "earth"
+  ],
+  "themes": [
+   "Torah",
+   "creation",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "In the beginning God created the heaven and the earth",
+  "first verse of the Bible",
+  "first word of the Torah",
+  "first letter of the Torah",
+  "bereshit",
+  "bet",
+  "beth",
+  "B",
+  "elohim",
+  "Hebrew first letter",
+  "beginning"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

@@ -1,0 +1,71 @@
+{
+  "id": "abel/177",
+  "kinds": [
+    "verse"
+  ],
+  "title": "Hebrews 11:4 — Abel commended as righteous, he still speaks",
+  "summary": "Hebrews 11:4 (second part) with its Greek reference: by faith he [Abel] was commended as righteous when God approved his gifts, and by faith he still speaks even though he is dead. The pronouns 'he' and 'his' and the name Abel are in blue.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Hebrews 11:4",
+      "osis": "Heb.11.4"
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "ΕΒΡΑΙΟΥΣ 11:4"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Heb.11.4",
+      "text": "4 …By faith he [Abel] was commended as righteous when God gave approval to his gifts. And by faith he still speaks, even though he is dead."
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Hebrews 11:4 / ΕΒΡΑΙΟΥΣ 11:4",
+      "osis": [
+        "Heb.11.4"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Abel",
+      "God"
+    ],
+    "places": [],
+    "events": [],
+    "things": [],
+    "themes": [
+      "faith",
+      "righteousness",
+      "death"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Hebrews 11:4",
+    "commended as righteous",
+    "obtained witness that he was righteous",
+    "God gave approval to his gifts",
+    "God testifying of his gifts",
+    "he still speaks",
+    "being dead yet speaketh",
+    "by faith Abel",
+    "Abel's gifts",
+    "Hebrews 11",
+    "righteous Abel"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

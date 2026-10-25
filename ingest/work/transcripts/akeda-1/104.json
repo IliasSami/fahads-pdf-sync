@@ -1,0 +1,26 @@
+{
+  "id": "akeda-1/104",
+  "kinds": ["verse"],
+  "title": "James 2:23 — Abraham believed God, the friend of God",
+  "summary": "James 2:23: the Scripture was fulfilled that said Abraham believed God and it was reckoned to him as righteousness, and he was called the friend of God. 'Abraham' is blue, 'God' is blue, red and gold, and 'friend' is yellow.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "James 2:23", "osis": "Jas.2.23"},
+    {"lang": "el", "role": "reference", "text": "Ἰάκωβος 2:23", "osis": "Jas.2.23"},
+    {"lang": "en", "role": "verse", "osis": "Jas.2.23", "text": "23 and the Scripture was fulfilled which says, \"AND ABRAHAM BELIEVED GOD, AND IT WAS RECKONED TO HIM AS RIGHTEOUSNESS,\" and he was called the friend of God."}
+  ],
+  "refs": [
+    {"shown": "James 2:23 / Ἰάκωβος 2:23", "osis": ["Jas.2.23"], "role": "quoted"},
+    {"shown": "capitalised quotation within James 2:23 (Genesis 15:6)", "osis": ["Gen.15.6"], "role": "cited"}
+  ],
+  "words": [
+    {"lang": "en", "word": "friend", "translit": "philos", "gloss": "friend (of God)", "strongs": "G5384"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "God"], "places": [], "events": [], "things": [], "themes": ["faith", "righteousness", "friendship with God", "names of God"], "groups": []},
+  "keywords": ["James 2:23", "James 2", "friend of God", "Abraham believed God", "reckoned as righteousness", "counted for righteousness", "imputed righteousness", "faith of Abraham", "Genesis 15:6", "Scripture fulfilled", "Akedah", "Akeda"],
+  "uncertain": [],
+  "confidence": 0.96
+}

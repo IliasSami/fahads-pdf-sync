@@ -1,0 +1,183 @@
+{
+ "id": "noah-part-2/23",
+ "kinds": [
+  "word-study",
+  "diagram"
+ ],
+ "title": "Deep, Water, Fountain, River — a chain of Hebrew words",
+ "summary": "A chain of four Hebrew words linked by arrows with colour-coded letters: Deep (תהום, tahom) leads to Water (מיים, mayim), then Fountain (מעיין (נ), maayan), then River (נחל, nachal).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Deep"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tahom"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תהום"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Water"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "mayim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מיים"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Fountain"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מעיין (נ)"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "maayan"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "River"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "נחל"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "nachal"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תהום",
+   "translit": "tahom",
+   "gloss": "deep",
+   "strongs": "H8415"
+  },
+  {
+   "lang": "he",
+   "word": "מיים",
+   "translit": "mayim",
+   "gloss": "water",
+   "strongs": "H4325"
+  },
+  {
+   "lang": "he",
+   "word": "מעיין",
+   "translit": "maayan",
+   "gloss": "fountain (spring)",
+   "strongs": "H4599"
+  },
+  {
+   "lang": "he",
+   "word": "נחל",
+   "translit": "nachal",
+   "gloss": "river (brook, torrent)",
+   "strongs": "H5158"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "tahom",
+   "other": "תהום"
+  },
+  {
+   "en": "mayim",
+   "other": "מיים"
+  },
+  {
+   "en": "maayan",
+   "other": "מעיין"
+  },
+  {
+   "en": "nachal",
+   "other": "נחל"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "Four rows of English word, transliteration and Hebrew joined by small coloured arrows: Deep (תהום) down to Water (מיים), down to Fountain (מעיין with a green (נ) in parentheses), and a green arrow down to River (נחל). Matching letters share the same colour from word to word (light-blue mem, dark-red yods, green nun, brown lamed).",
+   "subjects": [
+    "Hebrew word chain",
+    "colour-coded letters",
+    "arrows",
+    "deep",
+    "water",
+    "fountain",
+    "river"
+   ],
+   "text_in_picture": "Deep tahom Water mayim Fountain maayan River nachal",
+   "credit": null,
+   "box": [
+    0.05,
+    0.03,
+    0.95,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "the deep",
+   "water",
+   "fountain",
+   "river"
+  ],
+  "themes": [
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "tahom",
+  "deep",
+  "mayim",
+  "water",
+  "maayan",
+  "fountain",
+  "spring",
+  "nachal",
+  "river",
+  "brook",
+  "תהום",
+  "מים",
+  "מעין",
+  "נחל",
+  "colour-coded Hebrew letters",
+  "fountains of the great deep",
+  "Genesis 7:11"
+ ],
+ "uncertain": [
+  "Hebrew for water is shown as מיים (two yods) and for fountain as מעיין followed by a parenthesised (נ); transcribed as shown."
+ ],
+ "confidence": 0.92
+}

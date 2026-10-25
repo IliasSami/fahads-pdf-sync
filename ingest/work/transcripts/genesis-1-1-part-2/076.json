@@ -1,0 +1,173 @@
+{
+ "id": "genesis-1-1-part-2/76",
+ "kinds": [
+  "quote",
+  "letters",
+  "word-study"
+ ],
+ "title": "Yeshua: the Way, the Truth and the Life — truth versus falsehood (sheqer)",
+ "summary": "A quotation attributed to Yeshua hamashiach, \"I am the Way, the Truth and the Life\", above the Hebrew alphabet with alef, mem and tav (emet) highlighted as before. Below, the three bold letters shin, qof, resh spell sheqer (שקר), falsehood.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "quote",
+   "osis": "John.14.6",
+   "text": "\"I am the Way, the Truth and the Life…\"—yeshua hamashiach"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shin qof pe samekh mem kaf tet zayin he gimel alef"
+  },
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "א ב ג ד ה ו ז ח ט י כ ל מ נ ס ע פ צ ק ר ש ת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tav resh tsadi ayin nun lamed yod het vav dalet bet"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "sheqir"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש ק ר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Falsehood"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "\"I am the Way, the Truth and the Life…\" (John 14:6; reference not printed on the slide)",
+   "osis": [
+    "John.14.6"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שקר",
+   "translit": "sheqir (sheqer)",
+   "gloss": "falsehood, lie",
+   "strongs": "H8267",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אמת",
+   "translit": "emet",
+   "gloss": "truth",
+   "strongs": "H571",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Truth",
+   "other": "אמת"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "mem",
+   "other": "מ"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "first letter of emet (blue)"
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "middle letter of emet (gold)"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last letter of emet (red)"
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "first letter of sheqer (falsehood); bold in the alphabet"
+  },
+  {
+   "lang": "he",
+   "letter": "qof",
+   "char": "ק",
+   "value": 100,
+   "meaning": "second letter of sheqer; bold in the alphabet"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "last letter of sheqer; bold in the alphabet"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "truth",
+   "Hebrew letter meanings",
+   "falsehood"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "I am the way the truth and the life",
+  "John 14:6",
+  "Yeshua",
+  "hamashiach",
+  "sheqer",
+  "sheqir",
+  "falsehood",
+  "lie",
+  "שקר",
+  "emet",
+  "truth",
+  "Hebrew alphabet",
+  "truth versus lie"
+ ],
+ "uncertain": [
+  "The slide transliterates שקר as \"sheqir\" (usual spelling is sheqer); transcribed as shown.",
+  "John 14:6 is not cited on the slide; the reference is inferred from the quotation."
+ ],
+ "confidence": 0.93
+}

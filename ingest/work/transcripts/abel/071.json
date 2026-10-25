@@ -1,0 +1,158 @@
+{
+  "id": "abel/71",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:7 — tov (good): “do well” comes from the root of good",
+  "summary": "Genesis 4:7 with the English word “well” (twice) in blue, and the Hebrew word tov (טוב, good) shown beside it with its letters t-o-v coloured to match. The Hebrew verb תיטיב, “you do well”, has its letters yod, tet and bet coloured the same way.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:7",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:ז",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "7 If you do well, will you not be accepted?",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "And if you do not do well, sin lies at the door.",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "And its desire is for you, but you should rule over it.”",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "7 הלוא אם תיטיב שאת",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ואם לא תיטיב לפתח חטאת רבץ",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ואליך תשוקתו ואתה תמשל בו׃",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "tov"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "טוב"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Good"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:7 / בראשית ד:ז",
+      "osis": [
+        "Gen.4.7"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "טוב",
+      "translit": "tov",
+      "gloss": "good",
+      "strongs": "H2896"
+    },
+    {
+      "lang": "he",
+      "word": "תיטיב",
+      "translit": "teitiv",
+      "gloss": "you do well",
+      "strongs": "H3190"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "t (tov)",
+      "other": "ט"
+    },
+    {
+      "en": "o (tov)",
+      "other": "ו"
+    },
+    {
+      "en": "v (tov)",
+      "other": "ב"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Cain",
+      "God"
+    ],
+    "places": [],
+    "events": [
+      "Cain and Abel's offerings"
+    ],
+    "things": [
+      "door"
+    ],
+    "themes": [
+      "sin",
+      "obedience",
+      "temptation"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "if you do well",
+    "if thou doest well",
+    "shalt thou not be accepted",
+    "sin lieth at the door",
+    "sin lies at the door",
+    "sin crouching at the door",
+    "its desire is for you",
+    "rule over it",
+    "master sin",
+    "Genesis 4:7",
+    "Cain and Abel",
+    "Genesis 4",
+    "tov",
+    "good",
+    "do well",
+    "Hebrew word for good",
+    "good and evil"
+  ],
+  "uncertain": [
+    "Colour matching between the English word well (blue) and the Hebrew is not clear; only the Hebrew letters yod, tet and bet in תיטיב are coloured (maroon, olive, red)."
+  ],
+  "confidence": 0.92
+}

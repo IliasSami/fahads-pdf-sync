@@ -1,0 +1,199 @@
+{
+ "id": "genesis-1-1-wisdom/56",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:1-2 — ruach is a feminine noun, elohim a masculine noun",
+ "summary": "Same Genesis 1:1-2 slide with elohim (God) and ruach elohim (Spirit of God), now adding grammar labels: both words are marked 'Noun', with 'Masculine' under אלהים (elohim) and 'Feminine' under רוח (ruach), colour-coded blue and pink.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1-2",
+   "osis": [
+    "Gen.1.1",
+    "Gen.1.2"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א-ב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "1 In beginning God created the heavens and the earth.",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "2 Now the earth was formless and void, and darkness was over the surface of the deep. And the Spirit of God was hovering over the surface of the waters.",
+   "osis": "Gen.1.2"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "elohim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אלהים"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "God"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ruach elohim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "רוח אלהים"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Spirit of God"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Noun"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Noun"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Masculine"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Feminine"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1-2 / בראשית א:א-ב",
+   "osis": [
+    "Gen.1.1",
+    "Gen.1.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God (masculine noun)",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "רוח",
+   "translit": "ruach",
+   "gloss": "Spirit, wind, breath (feminine noun)",
+   "strongs": "H7307"
+  },
+  {
+   "lang": "he",
+   "word": "רוח אלהים",
+   "translit": "ruach elohim",
+   "gloss": "Spirit of God",
+   "strongs": "H7307"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  },
+  {
+   "en": "Spirit",
+   "other": "רוח"
+  },
+  {
+   "en": "ruach",
+   "other": "רוח"
+  },
+  {
+   "en": "Spirit of God",
+   "other": "רוח אלהים"
+  },
+  {
+   "en": "ruach elohim",
+   "other": "רוח אלהים"
+  },
+  {
+   "en": "Feminine",
+   "other": "רוח"
+  },
+  {
+   "en": "Masculine",
+   "other": "אלהים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Holy Spirit"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "heavens",
+   "earth",
+   "deep",
+   "waters"
+  ],
+  "themes": [
+   "creation",
+   "names of God",
+   "Spirit of God",
+   "Hebrew grammar",
+   "grammatical gender"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1-2",
+  "ruach feminine",
+  "Spirit is feminine in Hebrew",
+  "elohim masculine",
+  "Hebrew noun gender",
+  "masculine and feminine",
+  "Spirit of God",
+  "ruach elohim",
+  "Hebrew grammar",
+  "grammatical gender",
+  "feminine Spirit",
+  "masculine God"
+ ],
+ "uncertain": [
+  "Which Noun label belongs to which word is read from position and colour: pink 'Noun' under ruach, blue 'Noun' under elohim; pink 'Feminine' under רוח, blue 'Masculine' under אלהים."
+ ],
+ "confidence": 0.92
+}

@@ -1,0 +1,113 @@
+{
+ "id": "noah-part-2/75",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 7:11 and 8:14 — flood begins 17th, earth dry 27th of second month",
+ "summary": "Two verses side by side: Genesis 7:11 (in Noah's 600th year, second month, 17th day, the fountains of the great deep burst open and the floodgates of the sky opened) and Genesis 8:14 (second month, 27th day, the earth was dry). 'Second month' is orange, 'seventeenth day' yellow, and 'twenty-seventh day' and 'the earth was dry' brown.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 7:11",
+   "osis": "Gen.7.11"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ז:יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.11",
+   "text": "11 In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on the same day all the fountains of the great deep burst open, and the floodgates of the sky were opened."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:14",
+   "osis": "Gen.8.14"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:יד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.14",
+   "text": "14 In the second month, on the twenty-seventh day of the month, the earth was dry."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 7:11 / בראשית ז:יא",
+   "osis": [
+    "Gen.7.11"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 8:14 / בראשית ח:יד",
+   "osis": [
+    "Gen.8.14"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 600,
+   "note": "Noah's 600th year when the flood began"
+  },
+  {
+   "value": 17,
+   "note": "seventeenth day of the second month: the fountains of the deep burst open"
+  },
+  {
+   "value": 27,
+   "note": "twenty-seventh day of the second month: the earth was dry"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "fountains of the great deep",
+   "floodgates of the sky"
+  ],
+  "themes": [
+   "Flood chronology",
+   "Hebrew calendar"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 7:11",
+  "Genesis 8:14",
+  "fountains of the great deep",
+  "floodgates of the sky",
+  "windows of heaven",
+  "seventeenth day second month",
+  "twenty-seventh day second month",
+  "flood began",
+  "flood ended",
+  "six hundredth year of Noah's life",
+  "earth was dry",
+  "Flood timeline",
+  "length of the flood"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

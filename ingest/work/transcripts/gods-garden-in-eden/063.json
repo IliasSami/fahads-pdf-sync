@@ -1,0 +1,97 @@
+{
+ "id": "gods-garden-in-eden/63",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 11:1 and 11:7 — one language, then God confuses it",
+ "summary": "Two English verses from Genesis 11, each with a Hebrew reference header: the whole earth had one language and one speech, and then 'Come, let Us go down and there confuse their language, so that they will not understand one another's speech.'",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 11:1",
+   "osis": "Gen.11.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית יא:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "1 And the whole earth was of one language, and of one speech.",
+   "osis": "Gen.11.1"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 11:7",
+   "osis": "Gen.11.7"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית יא:ז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "7 \"Come, let Us go down and there confuse their language, so that they will not understand one another's speech.\"",
+   "osis": "Gen.11.7"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 11:1 / בראשית יא:א",
+   "osis": [
+    "Gen.11.1"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 11:7 / בראשית יא:ז",
+   "osis": [
+    "Gen.11.7"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [
+   "Babel"
+  ],
+  "events": [
+   "Tower of Babel"
+  ],
+  "things": [],
+  "themes": [
+   "judgment",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 11",
+  "Tower of Babel",
+  "Babel",
+  "one language",
+  "one speech",
+  "confuse their language",
+  "confound their language",
+  "let Us go down",
+  "Us plural God",
+  "languages",
+  "dispersion of nations"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

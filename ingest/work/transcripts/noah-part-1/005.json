@@ -1,0 +1,194 @@
+{
+ "id": "noah-part-1/5",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 4:25 — Seth: God has appointed me another offspring",
+ "summary": "Genesis 4:25 in English and Hebrew, with matching words in the same colour: Adam (אדם), son (בן), Seth (שת), appointed (שת in שת־לי) and God (אלהים).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 4:25",
+   "osis": "Gen.4.25"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ד:כה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.4.25",
+   "text": "25 Adam had relations with his wife again;"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.4.25",
+   "text": "and she gave birth to a son,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.4.25",
+   "text": "and named him Seth, for, she said, “God has appointed me"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.4.25",
+   "text": "another offspring in place of Abel, for Cain killed him.”"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.4.25",
+   "text": "25 וידע אדם עוד את־אשתו"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.4.25",
+   "text": "ותלד בן"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.4.25",
+   "text": "ותקרא את־שמו שת כי שת־לי אלהים"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.4.25",
+   "text": "זרע אחר תחת הבל כי הרגו קין׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 4:25 / בראשית ד:כה",
+   "osis": [
+    "Gen.4.25"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "Adam / man",
+   "strongs": "H120",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "בן",
+   "translit": "ben",
+   "gloss": "son",
+   "strongs": "H1121",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "שת",
+   "translit": "shet",
+   "gloss": "Seth",
+   "strongs": "H8352",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "שת־לי",
+   "translit": "shat-li",
+   "gloss": "has appointed me",
+   "strongs": "H7896",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "Elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "זרע",
+   "translit": "zera",
+   "gloss": "offspring (seed)",
+   "strongs": "H2233",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Adam",
+   "other": "אדם"
+  },
+  {
+   "en": "and",
+   "other": "ו"
+  },
+  {
+   "en": "son",
+   "other": "בן"
+  },
+  {
+   "en": "Seth",
+   "other": "שת"
+  },
+  {
+   "en": "appointed",
+   "other": "שת"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Seth",
+   "God",
+   "Abel",
+   "Cain"
+  ],
+  "places": [],
+  "events": [
+   "Birth of Seth"
+  ],
+  "things": [],
+  "themes": [
+   "genealogy",
+   "seed",
+   "death"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 4:25",
+  "Seth",
+  "Sheth",
+  "appointed",
+  "another seed",
+  "instead of Abel",
+  "whom Cain slew",
+  "Adam knew his wife",
+  "birth of Seth",
+  "offspring",
+  "name meaning",
+  "Hebrew word play"
+ ],
+ "uncertain": [],
+ "confidence": 0.94
+}

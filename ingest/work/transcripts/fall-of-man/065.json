@@ -1,0 +1,160 @@
+{
+ "id": "fall-of-man/65",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "John 14:6 — Jesus: “I am the way (ὁδὸς, hodos)”",
+ "summary": "John 14:6 in English and Greek: Jesus says “I am the way, the truth, and the life.” “Jesus” and “way” are in red and matched to Ἰησοῦς and ὁδὸς, with Hebrew derek (דרך) and Greek hodos shown as “Way.”",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 14:6",
+   "osis": "John.14.6"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 14:6",
+   "osis": "John.14.6"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "6 Jesus saith unto him, I am the way, the truth, and the life: no man comes unto the Father, but by me.",
+   "osis": "John.14.6"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "derek"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "דרך"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Way"
+  },
+  {
+   "lang": "el",
+   "role": "label",
+   "text": "ὁδὸς"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hodos"
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "text": "6 λέγει αὐτῷ Ἰησοῦς Ἐγώ εἰμι ἡ ὁδὸς καὶ ἡ ἀλήθεια καὶ ἡ ζωή· οὐδεὶς ἔρχεται πρὸς τὸν Πατέρα εἰ μὴ δι’ ἐμοῦ.",
+   "osis": "John.14.6"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 14:6 / Ἰωάνης 14:6",
+   "osis": [
+    "John.14.6"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "el",
+   "word": "ὁδὸς",
+   "translit": "hodos",
+   "gloss": "way",
+   "strongs": "G3598"
+  },
+  {
+   "lang": "he",
+   "word": "דרך",
+   "translit": "derek",
+   "gloss": "way",
+   "strongs": "H1870"
+  },
+  {
+   "lang": "el",
+   "word": "Ἰησοῦς",
+   "translit": "Iesous",
+   "gloss": "Jesus",
+   "strongs": "G2424"
+  },
+  {
+   "lang": "el",
+   "word": "ἀλήθεια",
+   "translit": "aletheia",
+   "gloss": "truth",
+   "strongs": "G225"
+  },
+  {
+   "lang": "el",
+   "word": "ζωή",
+   "translit": "zoe",
+   "gloss": "life",
+   "strongs": "G2222"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Jesus",
+   "other": "Ἰησοῦς"
+  },
+  {
+   "en": "way",
+   "other": "ὁδὸς"
+  },
+  {
+   "en": "derek",
+   "other": "דרך"
+  },
+  {
+   "en": "hodos",
+   "other": "ὁδὸς"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus",
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "the way",
+   "truth",
+   "life",
+   "redemption"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 14:6",
+  "John 14",
+  "I am the way the truth and the life",
+  "no man comes unto the Father but by me",
+  "Jesus is the Way",
+  "hodos",
+  "odos",
+  "derek",
+  "the Way",
+  "Yeshua",
+  "ὁδὸς"
+ ],
+ "uncertain": [
+  "English line reads “no man comes unto the Father” (not “cometh”); transcribed as shown."
+ ],
+ "confidence": 0.95
+}

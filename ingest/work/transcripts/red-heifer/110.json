@@ -1,0 +1,109 @@
+{
+ "id": "red-heifer/110",
+ "kinds": [
+  "text",
+  "quote"
+ ],
+ "title": "Finding a red heifer today a harbinger of the 2nd Coming",
+ "summary": "Same text as the previous slide (nine red heifers prepared; the Jews expect the 10th by the Messiah; the teacher says the 10th was Yeshua ha-Moshiach) with a new line added: finding a red heifer today would be a harbinger of the Messiah's 2nd Coming.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Only 9 Red Heifers were ever Prepared"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The Jews believe the 10th and last will be prepared by the Messiah."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "I contend the 10th was the Messiah,"
+  },
+  {
+   "lang": "translit",
+   "role": "body",
+   "text": "yeshua hamoshiach."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Finding a Red Heifer today would be a harbinger of the Messiah’s 2nd Coming!"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "other",
+   "word": "yeshua",
+   "translit": "yeshua",
+   "gloss": "Jesus (Yeshua)",
+   "strongs": "H3442",
+   "gematria": null
+  },
+  {
+   "lang": "other",
+   "word": "hamoshiach",
+   "translit": "ha-moshiach",
+   "gloss": "the Messiah (the anointed one)",
+   "strongs": "H4899",
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 9,
+   "note": "number of red heifers ever prepared"
+  },
+  {
+   "value": 10,
+   "note": "the 10th and last red heifer, expected to be prepared by the Messiah"
+  },
+  {
+   "value": 2,
+   "note": "the Messiah's 2nd Coming"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Second Coming"
+  ],
+  "things": [
+   "red heifer"
+  ],
+  "themes": [
+   "messianic prophecy",
+   "purification",
+   "typology",
+   "prophecy"
+  ],
+  "groups": [
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "red heifer",
+  "harbinger of the Second Coming",
+  "finding a red heifer today",
+  "2nd Coming",
+  "return of Jesus",
+  "tenth red heifer",
+  "nine red heifers",
+  "Yeshua HaMashiach",
+  "Messiah prepares the red heifer",
+  "end times sign",
+  "Numbers 19",
+  "last red heifer"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

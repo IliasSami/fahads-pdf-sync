@@ -1,0 +1,104 @@
+{
+ "id": "noah-part-2/64",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Genesis 8:10-11 — the 2nd dove returns with an olive leaf",
+ "summary": "Genesis 8:10-11: after seven more days Noah sends the dove out again and it returns in the evening with a freshly plucked olive leaf, so Noah knows the water has receded. The slide concludes: 2nd dove lands on a branch / branch broken.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:10-11",
+   "osis": [
+    "Gen.8.10",
+    "Gen.8.11"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "2nd DOVE"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:י-יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.10",
+   "text": "10 He waited seven more days and again sent out the dove from the ark."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.11",
+   "text": "11 When the dove returned to him in the evening, there in its beak was a freshly plucked olive leaf! Then Noah knew that the water had receded from the earth."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "2nd DOVE : Lands on Branch / Branch Broken"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:10-11 / בראשית ח:י-יא",
+   "osis": [
+    "Gen.8.10",
+    "Gen.8.11"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "Noah waited seven more days before sending the dove again"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "dove",
+   "ark",
+   "olive leaf",
+   "branch"
+  ],
+  "themes": [
+   "typology",
+   "messianic prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "second dove",
+  "2nd dove",
+  "olive leaf",
+  "olive branch",
+  "freshly plucked",
+  "branch broken",
+  "lands on branch",
+  "dove returned in the evening",
+  "seven more days",
+  "Genesis 8:10",
+  "Genesis 8:11",
+  "waters receded",
+  "Noah's ark"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

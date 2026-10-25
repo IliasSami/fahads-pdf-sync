@@ -1,0 +1,113 @@
+{
+  "id": "akeda-1/98",
+  "kinds": [
+    "verse"
+  ],
+  "title": "John 8:45-48 — whoever is of God hears God's words; 'you are a Samaritan and have a demon'",
+  "summary": "John 8:45-48: Jesus says that because He speaks the truth they do not believe Him, asks which of them convicts Him of sin, and says whoever is of God hears God's words. The Jews answer by calling Him a Samaritan who has a demon. Jesus' words (I, Me, truth) and the verse numbers are in red; 'God' is in blue, red and yellow.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "John 8:45-48",
+      "osis": [
+        "John.8.45",
+        "John.8.46",
+        "John.8.47",
+        "John.8.48"
+      ]
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "Ἰωάνης 8:45-48",
+      "osis": [
+        "John.8.45",
+        "John.8.46",
+        "John.8.47",
+        "John.8.48"
+      ]
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.45",
+      "text": "45 “But because I speak the truth, you do not believe Me."
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.46",
+      "text": "46 “Which one of you convicts Me of sin? If I speak truth, why do you not believe Me?"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.47",
+      "text": "47 “He who is of God hears the words of God; for this reason you do not hear them, because you are not of God.”"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.48",
+      "text": "48 The Jews answered and said to Him, “Do we not say rightly that You are a Samaritan and have a demon?”"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "John 8:45-48 / Ἰωάνης 8:45-48",
+      "osis": [
+        "John.8.45",
+        "John.8.46",
+        "John.8.47",
+        "John.8.48"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Jesus",
+      "God"
+    ],
+    "places": [],
+    "events": [],
+    "things": [
+      "demon"
+    ],
+    "themes": [
+      "truth",
+      "sin",
+      "belief",
+      "sinlessness"
+    ],
+    "groups": [
+      "Jews",
+      "Samaritans"
+    ]
+  },
+  "keywords": [
+    "John 8:45",
+    "John 8:46",
+    "John 8:47",
+    "John 8:48",
+    "John 8",
+    "I tell you the truth ye believe me not",
+    "which of you convinceth me of sin",
+    "he that is of God heareth God's words",
+    "ye are not of God",
+    "thou art a Samaritan and hast a devil",
+    "Samaritan",
+    "demon",
+    "sinless Jesus",
+    "Akedah",
+    "Akeda"
+  ],
+  "uncertain": [],
+  "confidence": 0.97
+}

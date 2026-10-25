@@ -1,0 +1,188 @@
+{
+ "id": "genesis-1-1-part-2/18",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "Torah in pictographs: Behold the Head Man Nailed to Cross",
+ "summary": "Torah is called the Pentateuch, the Books of Moses. Its four Hebrew letters (ת ו ר ה) are shown in colour, with the ancient pictograph for each (he, resh, vav, tav) underneath, and the slide reads them as \"Behold the Head Man Nailed to Cross\".",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Pentateuch"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "torah"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Books of"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "משה"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ת ו ר ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "he resh vav tav"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Behold the Head Man Nailed to Cross"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תורה",
+   "translit": "torah",
+   "gloss": "instruction, law; the Pentateuch, Books of Moses",
+   "strongs": "H8451"
+  },
+  {
+   "lang": "he",
+   "word": "משה",
+   "translit": "mosheh",
+   "gloss": "Moses",
+   "strongs": "H4872"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "he",
+   "other": "ה"
+  },
+  {
+   "en": "Behold",
+   "other": "ה"
+  },
+  {
+   "en": "resh",
+   "other": "ר"
+  },
+  {
+   "en": "Head Man",
+   "other": "ר"
+  },
+  {
+   "en": "vav",
+   "other": "ו"
+  },
+  {
+   "en": "Nailed",
+   "other": "ו"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  },
+  {
+   "en": "Cross",
+   "other": "ת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "behold (man with raised arms pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "head (head pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "nailed (nail/peg pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "cross (crossed-sticks pictograph)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Row of four ancient (paleo-)Hebrew letter pictographs, each on a coloured underline with its letter name below: he (figure with raised arms, black), resh (head in profile, olive), vav (nail or peg Y-shape, orange), tav (cross, red). Read together they spell torah backwards on the screen, left to right.",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictographs",
+    "ancient Hebrew letters",
+    "cross",
+    "nail",
+    "head"
+   ],
+   "text_in_picture": "he resh vav tav",
+   "credit": null,
+   "box": [
+    0.3,
+    0.52,
+    0.7,
+    0.74
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Moses"
+  ],
+  "places": [],
+  "events": [
+   "Crucifixion"
+  ],
+  "things": [
+   "Torah",
+   "Pentateuch",
+   "cross",
+   "nail"
+  ],
+  "themes": [
+   "Torah",
+   "Hebrew letter meanings",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Torah",
+  "Pentateuch",
+  "Books of Moses",
+  "Behold the Head Man Nailed to Cross",
+  "tav vav resh hey",
+  "paleo-Hebrew pictographs",
+  "ancient Hebrew letters",
+  "cross",
+  "nailed",
+  "head",
+  "he resh vav tav",
+  "Hebrew letter meanings",
+  "hidden meaning of torah"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

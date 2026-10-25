@@ -1,0 +1,135 @@
+{
+  "id": "abel/102",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:11 — the ground's mouth (peh, פה)",
+  "summary": "Genesis 4:11 in English and Hebrew with mouth (פיה) highlighted in purple and blood in red, then the word study peh (פה) = mouth: the ground opened its mouth to receive Abel's blood.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:11",
+      "osis": "Gen.4.11"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:יא"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Gen.4.11",
+      "text": "11 So now you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand."
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "osis": "Gen.4.11",
+      "text": "11 ועתה ארור אתה מן האדמה אשר פצתה את פיה לקחת את דמי אחיך מידך׃"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "peh"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "פיה"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Mouth"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:11 / בראשית ד:יא",
+      "osis": [
+        "Gen.4.11"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "פה",
+      "translit": "peh",
+      "gloss": "mouth",
+      "strongs": "H6310"
+    },
+    {
+      "lang": "he",
+      "word": "פיה",
+      "translit": "piha",
+      "gloss": "her (its) mouth",
+      "strongs": "H6310"
+    },
+    {
+      "lang": "he",
+      "word": "דם",
+      "translit": "dam",
+      "gloss": "blood",
+      "strongs": "H1818"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "blood",
+      "other": "דמ"
+    },
+    {
+      "en": "mouth",
+      "other": "פיה"
+    },
+    {
+      "en": "peh",
+      "other": "פיה"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "God",
+      "Cain",
+      "Abel"
+    ],
+    "places": [],
+    "events": [
+      "Murder of Abel"
+    ],
+    "things": [
+      "ground",
+      "mouth"
+    ],
+    "themes": [
+      "blood",
+      "curse",
+      "judgment",
+      "death"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "mouth",
+    "peh",
+    "pe",
+    "ground opened her mouth",
+    "mouth of the earth",
+    "Cain cursed",
+    "blood",
+    "Abel's blood",
+    "Hebrew word study",
+    "Genesis 4",
+    "Genesis 4:11"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

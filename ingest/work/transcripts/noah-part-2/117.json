@@ -1,0 +1,70 @@
+{
+ "id": "noah-part-2/117",
+ "kinds": [
+  "humor",
+  "text"
+ ],
+ "title": "Noah's excuses end: ACLU injunction, rainbow, and \"The government already has\"",
+ "summary": "Punchline of the humorous modern-Noah story: the ACLU gets an injunction against building the Ark as an unconstitutional religious event; then the sky clears and a rainbow appears, Noah hopefully asks if God will not destroy the earth, and the Lord sadly answers that He does not have to because the government already has.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Finally, the ACLU got the courts to issue an injunction against further construction of the Ark, saying that since God is flooding the earth, it is a religious event and therefore, unconstitutional. I really don’t know if I will ever be able to finish the Ark,\" Noah wailed."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The sky began to clear, the sun began to shine and the seas began to calm. A rainbow arched across the sky. Noah looked up hopefully. \"You mean You are not going to destroy the earth Lord?\""
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "\"No,\" said the Lord sadly. \"I don't have to. The government already has.\""
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "rainbow"
+  ],
+  "themes": [
+   "humor",
+   "judgment"
+  ],
+  "groups": [
+   "ACLU"
+  ]
+ },
+ "keywords": [
+  "ACLU",
+  "injunction",
+  "unconstitutional",
+  "religious event",
+  "rainbow",
+  "The government already has",
+  "not going to destroy the earth",
+  "Noah wailed",
+  "Noah joke",
+  "Noah humor",
+  "funny Noah story",
+  "punchline",
+  "Bible humor"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

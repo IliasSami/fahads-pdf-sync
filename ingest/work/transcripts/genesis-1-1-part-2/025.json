@@ -1,0 +1,192 @@
+{
+ "id": "genesis-1-1-part-2/25",
+ "kinds": [
+  "verse",
+  "letters"
+ ],
+ "title": "Deuteronomy 1:5-8 with the letters of Torah highlighted",
+ "summary": "Deuteronomy 1:5-8 in English and Hebrew under the heading Deuteronomy 1 / תורה. One letter is picked out in colour in each verse: ה (black) in verse 5, ר (olive) in verse 6, ו (orange) in verse 7 and ת (red) in verse 8, so that the four verses together spell Torah (backwards). The letters of LORD in verse 6 and 8 are also coloured.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Deuteronomy 1",
+   "osis": "Deut.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ת ו ר ה"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "דברים א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Deut.1.5",
+   "text": "5 On this side Jordan, in the land of Moab, began Moses to declare this law, saying,"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Deut.1.5",
+   "text": "בעבר הירדן בארץ מואב הואיל משה באר את התורה הזאת לאמר"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Deut.1.6",
+   "text": "6 The LORD our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mount:"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Deut.1.6",
+   "text": "יהוה אלהינו דבר אלינו בחרב לאמר רב לכם שבת בהר הזה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Deut.1.7",
+   "text": "7 Turn you, and take your journey, and go to the mount of the Amorites, and unto all the places nigh thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and unto Lebanon, unto the great river, the river Euphrates."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Deut.1.7",
+   "text": "פנו וסעו לכם ובאו הר האמרי ואל כל שכניו בערבה בהר ובשפלה"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Deut.1.7",
+   "text": "ובנגב ובחוף הים ארץ הכנעני והלבנון עד הנהר הגדל נהר פרת"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Deut.1.8",
+   "text": "8 Behold, I have set the land before you: go in and possess the land which the LORD swore unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Deut.1.8",
+   "text": "ראה נתתי לפניכם את הארץ באו ורשו את הארץ אשר נשבע יהוה לאבתיכם לאברהם ליצחק וליעקב לתת להם ולזרעם אחריהם"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Deuteronomy 1:5-8 / דברים א:ה-ח",
+   "osis": [
+    "Deut.1.5",
+    "Deut.1.6",
+    "Deut.1.7",
+    "Deut.1.8"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תורה",
+   "translit": "torah",
+   "gloss": "law, instruction",
+   "strongs": "H8451",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "דברים",
+   "translit": "devarim",
+   "gloss": "words (Deuteronomy)",
+   "strongs": "H1697",
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "black letter highlighted in התורה (Deut 1:5); last letter of Torah"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "olive letter highlighted in בהר (Deut 1:6); third letter of Torah"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "orange letter highlighted at the start of ובנגב (Deut 1:7); second letter of Torah"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "red letter highlighted in נתתי (Deut 1:8); first letter of Torah"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Moses",
+   "Abraham",
+   "Isaac",
+   "Jacob"
+  ],
+  "places": [
+   "Moab",
+   "Horeb",
+   "Lebanon",
+   "Euphrates River",
+   "Jordan River"
+  ],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Torah",
+   "Bible codes",
+   "Hebrew letter meanings",
+   "covenant"
+  ],
+  "groups": [
+   "Amorites",
+   "Canaanites"
+  ]
+ },
+ "keywords": [
+  "Deuteronomy 1",
+  "Deuteronomy 1:5",
+  "Deuteronomy 1:6",
+  "Deuteronomy 1:7",
+  "Deuteronomy 1:8",
+  "Torah spelled backwards",
+  "devarim",
+  "hidden letters",
+  "Bible code",
+  "ELS",
+  "ת ו ר ה",
+  "Moses declare this law",
+  "Horeb",
+  "land of Moab",
+  "Ye have dwelt long enough in this mount",
+  "coloured letters"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

@@ -1,0 +1,36 @@
+{
+  "id": "abel/4",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:1 — v'ha'adam, “and the man”",
+  "summary": "Genesis 4:1 with the first Hebrew word והאדם (v'ha'adam) broken down by colour: ו = “and”, ה = “the”, אדם = “man”.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:1", "osis": "Gen.4.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:א", "osis": "Gen.4.1"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.1", "text": "1 And the man had relations with Eve his wife, and she conceived and gave birth to Cain, and she said, “I have obtained a man with the help of the LORD.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.1", "text": "1 והאדם ידע את חוה אשתו ותהר ותלד את קין ותאמר קניתי איש את יהוה׃"},
+    {"lang": "translit", "role": "label", "text": "v’ha’adam"},
+    {"lang": "he", "role": "label", "text": "והאדם"},
+    {"lang": "en", "role": "label", "text": "And the man"}
+  ],
+  "refs": [{"shown": "Genesis 4:1 / בראשית ד:א", "osis": ["Gen.4.1"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "והאדם", "translit": "v'ha'adam", "gloss": "and the man", "strongs": "H120"}
+  ],
+  "color_links": [
+    {"en": "And", "other": "ו"},
+    {"en": "the", "other": "ה"},
+    {"en": "man", "other": "אדם"},
+    {"en": "v’ha’adam", "other": "והאדם"},
+    {"en": "LORD", "other": "יהוה"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "vav", "char": "ו", "value": 6, "meaning": "and (prefix)"},
+    {"lang": "he", "letter": "he", "char": "ה", "value": 5, "meaning": "the (definite article prefix)"}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Adam", "Eve", "Cain", "God"], "places": [], "events": ["birth of Cain"], "things": [], "themes": ["Hebrew grammar"], "groups": []},
+  "keywords": ["v'ha'adam", "veha'adam", "and the man", "adam", "Adam", "man", "mankind", "Hebrew prefix", "vav", "definite article", "Genesis 4:1", "Genesis 4"],
+  "uncertain": [],
+  "confidence": 0.93
+}

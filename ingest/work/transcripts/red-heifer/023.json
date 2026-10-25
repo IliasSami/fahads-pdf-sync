@@ -1,0 +1,293 @@
+{
+ "id": "red-heifer/23",
+ "kinds": [
+  "table",
+  "list"
+ ],
+ "title": "Torah portions 13-23 — Exodus (shemot to pequdei)",
+ "summary": "Table of weekly Torah portions 13 to 23, all from Exodus, with Scripture ranges, transliterated and Hebrew names and English meanings (shemot / שמות / Names through pequdei / פקודי / Counting). Portion 20, tetzaveh (Ex 27:20 - 30:10, 'You will command'), is shown in bold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "13 Ex 1:1 - 6:1 | shemot | שמות | Names"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "14 Ex 6:2 - 9:35 | va’eira | וארא | I appeared"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "15 Ex 10:1- 13:16 | bo | בו | Come"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "16 Ex 13:17- 17:16 | beshalach | בשלח | He sent"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "17 Ex 18:1 - 20:23 | yitro | יתרו | Jethro"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "18 Ex 21:1 - 24:18 | mishpatim | משפטים | Judgments"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "19 Ex 25:1 - 27:19 | terumah | תרומה | Offering"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "20 Ex 27:20 - 30:10 | tetzaveh | תצוה | You will command"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "21 Ex 30:11- 34:35 | ki tisa | כי תשא | Lift up"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "22 Ex 35:1 - 38:20 | vayaqhel | ויקהל | Gathered"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "23 Ex 38:21 - 40:38 | pequdei | פקודי | Counting"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Ex 1:1 - 6:1",
+   "osis": [
+    "Exod.1.1",
+    "Exod.6.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Ex 6:2 - 9:35",
+   "osis": [
+    "Exod.6.2",
+    "Exod.9.35"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Ex 10:1- 13:16",
+   "osis": [
+    "Exod.10.1",
+    "Exod.13.16"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Ex 13:17- 17:16",
+   "osis": [
+    "Exod.13.17",
+    "Exod.17.16"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Ex 18:1 - 20:23",
+   "osis": [
+    "Exod.18.1",
+    "Exod.20.23"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Ex 21:1 - 24:18",
+   "osis": [
+    "Exod.21.1",
+    "Exod.24.18"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Ex 25:1 - 27:19",
+   "osis": [
+    "Exod.25.1",
+    "Exod.27.19"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Ex 27:20 - 30:10",
+   "osis": [
+    "Exod.27.20",
+    "Exod.30.10"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Ex 30:11- 34:35",
+   "osis": [
+    "Exod.30.11",
+    "Exod.34.35"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Ex 35:1 - 38:20",
+   "osis": [
+    "Exod.35.1",
+    "Exod.38.20"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Ex 38:21 - 40:38",
+   "osis": [
+    "Exod.38.21",
+    "Exod.40.38"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שמות",
+   "translit": "shemot",
+   "gloss": "Names",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "וארא",
+   "translit": "va’eira",
+   "gloss": "I appeared",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "בו",
+   "translit": "bo",
+   "gloss": "Come",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "בשלח",
+   "translit": "beshalach",
+   "gloss": "He sent",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "יתרו",
+   "translit": "yitro",
+   "gloss": "Jethro",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "משפטים",
+   "translit": "mishpatim",
+   "gloss": "Judgments",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "תרומה",
+   "translit": "terumah",
+   "gloss": "Offering",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "תצוה",
+   "translit": "tetzaveh",
+   "gloss": "You will command",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "כי תשא",
+   "translit": "ki tisa",
+   "gloss": "Lift up",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ויקהל",
+   "translit": "vayaqhel",
+   "gloss": "Gathered",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "פקודי",
+   "translit": "pequdei",
+   "gloss": "Counting",
+   "strongs": null,
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 20,
+   "note": "portion 20, tetzaveh, shown in bold"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jethro"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "Torah portions"
+  ],
+  "themes": [
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Exodus Torah portions",
+  "parashot Exodus",
+  "shemot",
+  "va'eira",
+  "vaera",
+  "bo",
+  "beshalach",
+  "yitro",
+  "jethro",
+  "mishpatim",
+  "terumah",
+  "tetzaveh",
+  "ki tisa",
+  "vayakhel",
+  "vayaqhel",
+  "pekudei",
+  "pequdei",
+  "weekly portions list"
+ ],
+ "uncertain": [
+  "Portion 15 is written בו on the slide (transliterated bo); transcribed as shown."
+ ],
+ "confidence": 0.94
+}

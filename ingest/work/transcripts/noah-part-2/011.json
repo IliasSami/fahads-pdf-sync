@@ -1,0 +1,98 @@
+{
+ "id": "noah-part-2/11",
+ "kinds": [
+  "comparison",
+  "list"
+ ],
+ "title": "The ark and Yeshua: gets an everlasting covenant",
+ "summary": "Completes the invitation list with 'Gets an Everlasting Covenant'. On this slide 'Come', 'Ark', 'Cross', 'Wood' and 'Covenant' are picked out in colour (red and brown).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Ark"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "yeshua"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Invitation To Come"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Ark & Cross Made Of Wood"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Resurrection & Ascension"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Remains Alive / Gives Life"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Gets an Everlasting Covenant"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Resurrection",
+   "Ascension"
+  ],
+  "things": [
+   "ark",
+   "cross",
+   "wood"
+  ],
+  "themes": [
+   "typology",
+   "salvation",
+   "covenant",
+   "resurrection"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "ark and Jesus",
+  "Noah's ark",
+  "yeshua",
+  "Yeshua",
+  "Jesus",
+  "typology",
+  "invitation to come",
+  "come into the ark",
+  "come to Jesus",
+  "comparison ark and Christ",
+  "everlasting covenant",
+  "covenant with Noah",
+  "Genesis 9",
+  "Genesis 9:16",
+  "ark and cross made of wood",
+  "resurrection",
+  "ascension",
+  "gives life"
+ ],
+ "uncertain": [
+  "The word 'Covenant' is shaded in several colours (red, olive, dark red); Come is red; Ark, Cross and Wood are brown."
+ ],
+ "confidence": 0.95
+}

@@ -1,0 +1,21 @@
+{
+  "id": "fall-of-man/7",
+  "kinds": ["text", "humor"],
+  "title": "Poem: “Eve's Genesis Nemesis”",
+  "summary": "A short rhyming poem in which Satan, the Evil one, slithers up to Eve, asks “Want to see light?” and coaxes her to wander over to the tree's bough and take a bite.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Eve’s Genesis Nemesis"},
+    {"lang": "en", "role": "body", "text": "Vilefully, Wilefully, Satan, the Evil one, slithers to Eve and says, “Want to see light?”"},
+    {"lang": "en", "role": "body", "text": "No need to ponder how, why don’t you wander now, over to yonder bough, and take a bite."}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Satan", "Eve"], "places": ["Garden of Eden"], "events": ["Fall of Man"], "things": ["serpent", "tree of the knowledge of good and evil"], "themes": ["temptation", "deception", "humor"], "groups": []},
+  "keywords": ["poem", "rhyme", "Eve's Genesis Nemesis", "nemesis", "Satan tempts Eve", "the Evil one", "serpent slithers", "take a bite", "want to see light", "temptation of Eve", "forbidden fruit", "Genesis 3"],
+  "uncertain": [],
+  "confidence": 0.96
+}

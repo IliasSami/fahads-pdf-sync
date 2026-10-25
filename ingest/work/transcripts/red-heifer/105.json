@@ -1,0 +1,60 @@
+{
+ "id": "red-heifer/105",
+ "kinds": [
+  "list",
+  "text"
+ ],
+ "title": "Only 9 Red Heifers were ever prepared — one by Moses",
+ "summary": "Text slide stating that only 9 Red Heifers were ever prepared, starting with the first: one by Moses. Red Heifers is in red; the letters Mo of Moses are in light blue.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Only 9 Red Heifers were ever Prepared"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "One by Moses"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 9,
+   "note": "total number of red heifers ever prepared, according to the slide"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Moses"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer"
+  ],
+  "themes": [
+   "purification",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "nine red heifers",
+  "9 red heifers",
+  "only nine ever prepared",
+  "first red heifer",
+  "Moses",
+  "red heifer history",
+  "parah adumah",
+  "Numbers 19",
+  "red heifer ashes"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

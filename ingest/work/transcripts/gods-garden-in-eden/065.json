@@ -1,0 +1,143 @@
+{
+ "id": "gods-garden-in-eden/65",
+ "kinds": [
+  "verse",
+  "comparison",
+  "list"
+ ],
+ "title": "Genesis 2:21 — First Adam and Last Adam compared (deep sleep, side opened, bride)",
+ "summary": "Genesis 2:21 (God causes a deep sleep to fall on the man and takes one of his sides) with two matching lists beneath it, First Adam and Last Adam. Each list reads: Son of God, Miraculous birth, Put to sleep, Side opened, Wakes up with bride.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:21",
+   "osis": "Gen.2.21"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:כא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "21 So the LORD God caused a deep sleep to fall upon the man, and he slept; then He took one of his sides and closed up the flesh at that place.",
+   "osis": "Gen.2.21"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "First Adam"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Son of God"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Miraculous birth"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Put to sleep"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Side opened"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Wakes up with bride"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Last Adam"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Son of God"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Miraculous birth"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Put to Sleep"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Side opened"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Wakes up with bride"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:21 / בראשית ב:כא",
+   "osis": [
+    "Gen.2.21"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Jesus",
+   "God",
+   "Eve"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "typology",
+   "marriage",
+   "redemption"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "First Adam Last Adam",
+  "Jesus is the last Adam",
+  "Adam and Christ parallel",
+  "deep sleep",
+  "Adam put to sleep",
+  "side opened",
+  "one of his ribs",
+  "took one of his sides",
+  "bride of Christ",
+  "wakes up with bride",
+  "miraculous birth",
+  "Son of God",
+  "Genesis 2:21",
+  "typology",
+  "Eve from Adam's side"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

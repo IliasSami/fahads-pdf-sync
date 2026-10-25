@@ -1,0 +1,218 @@
+{
+ "id": "genesis-1-1-part-2/111",
+ "kinds": [
+  "letters",
+  "gematria",
+  "picture"
+ ],
+ "title": "The lamed is built from a kaf and a vav, adding to 26 like YHWH",
+ "summary": "Shows that the Hebrew letter lamed (ל) can be seen as a kaf (value 20, open palm) with a vav (value 6, nail) on top: 6 + 20 = 26, so lamed is equated with 26. The four letters of YHWH are shown again at the bottom.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The lamed ל is composed of a kaph כ with a vav ו on top."
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "כ kaf Kh, 20 Open Palm"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "ו vav V,O,W 6 Nail"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "lamed ל = [kaf with a vav on top] = 6 20"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "ל = 26"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "lamed"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ל"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the LORD (the name of God)",
+   "strongs": "H3068"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "lamed",
+   "other": "ל"
+  },
+  {
+   "en": "vav",
+   "other": "ו"
+  },
+  {
+   "en": "6",
+   "other": "ו"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 26,
+   "meaning": "built from a kaf with a vav on top (20 + 6 = 26)"
+  },
+  {
+   "lang": "he",
+   "letter": "kaf",
+   "char": "כ",
+   "value": 20,
+   "meaning": "open palm (sounds Kh)"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "nail (sounds V, O, W)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 26,
+   "note": "lamed (made of kaf 20 + vav 6)"
+  },
+  {
+   "value": 20,
+   "note": "value of kaf (open palm)"
+  },
+  {
+   "value": 6,
+   "note": "value of vav (nail)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "symbol",
+   "description": "Large brown Hebrew letter lamed (ל) next to the brown italic word lamed.",
+   "subjects": [
+    "lamed",
+    "Hebrew letter",
+    "brown letter"
+   ],
+   "text_in_picture": "lamed ל",
+   "credit": null,
+   "box": [
+    0.55,
+    0.04,
+    0.93,
+    0.29
+   ]
+  },
+  {
+   "type": "illustration",
+   "description": "The lamed taken apart: a large black kaf (כ) with a smaller orange vav standing on top of it, showing the lamed as a kaf with a vav on top.",
+   "subjects": [
+    "lamed",
+    "kaf",
+    "vav",
+    "letter taken apart",
+    "black and orange letters"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.7,
+    0.36,
+    0.89,
+    0.94
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Small ancient (paleo-Hebrew) pictograph of an open palm, drawn in black, beside the kaf line.",
+   "subjects": [
+    "paleo-Hebrew",
+    "open palm",
+    "kaf pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.255,
+    0.26,
+    0.295,
+    0.33
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Small ancient (paleo-Hebrew) pictograph of a nail, drawn in orange with an underline, beside the vav line.",
+   "subjects": [
+    "paleo-Hebrew",
+    "nail",
+    "vav pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.265,
+    0.35,
+    0.295,
+    0.43
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "gematria",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "lamed",
+  "lamed composed of kaf and vav",
+  "kaf open palm",
+  "vav nail",
+  "26",
+  "gematria 26",
+  "yahweh",
+  "paleo-Hebrew open palm",
+  "Hebrew letter meanings",
+  "name of God",
+  "letter taken apart"
+ ],
+ "uncertain": [
+  "Slide spells the letter both 'kaph' (in the sentence) and 'kaf' (in the list); transcribed as shown."
+ ],
+ "confidence": 0.93
+}

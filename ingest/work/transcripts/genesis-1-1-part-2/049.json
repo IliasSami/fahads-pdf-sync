@@ -1,0 +1,218 @@
+{
+ "id": "genesis-1-1-part-2/49",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:18-21 in Hebrew: fourth day, birds, living creature, sea creature",
+ "summary": "Hebrew text of Genesis 1:18–21 (no vowel points) with short English glosses above key words: fourth, birds, living creature, teem, moves, every, sea creature, winged. The glossed Hebrew words are in red and the name אלהים (God) is colour-coded in blue, red and gold in each verse.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.18",
+   "text": "1:18 ולמשל ביום ובלילה ולהבדיל בין האור ובין החשך וירא אלהים כי טוב׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "fourth"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.19",
+   "text": "1:19 ויהי ערב ויהי בקר יום רביעי׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "birds living creature"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "teem"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.20",
+   "text": "1:20 ויאמר אלהים ישרצו המים שרץ נפש חיה ועוף יעופף על הארץ על פני רקיע השמים׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "moves"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "every"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "sea creature"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "winged"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.21",
+   "text": "1:21 ויברא אלהים את התנינם הגדלים ואת כל נפש החיה הרמשת אשר שרצו המים למינהם ואת כל עוף כנף למינהו וירא אלהים כי טוב׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1:18",
+   "osis": [
+    "Gen.1.18"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:19",
+   "osis": [
+    "Gen.1.19"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:20",
+   "osis": [
+    "Gen.1.20"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:21",
+   "osis": [
+    "Gen.1.21"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "רביעי",
+   "translit": "revi'i",
+   "gloss": "fourth",
+   "strongs": "H7243",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "עוף",
+   "translit": "of",
+   "gloss": "birds (fowl)",
+   "strongs": "H5775",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "נפש חיה",
+   "translit": "nefesh chayah",
+   "gloss": "living creature",
+   "strongs": "H5315",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ישרצו",
+   "translit": "yishretzu",
+   "gloss": "teem (swarm)",
+   "strongs": "H8317",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הרמשת",
+   "translit": "haromeset",
+   "gloss": "moves (creeps)",
+   "strongs": "H7430",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "כל",
+   "translit": "kol",
+   "gloss": "every (all)",
+   "strongs": "H3605",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "התנינם",
+   "translit": "hatanninim",
+   "gloss": "sea creatures (great whales)",
+   "strongs": "H8577",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "כנף",
+   "translit": "kanaf",
+   "gloss": "winged",
+   "strongs": "H3671",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "birds",
+   "sea creatures",
+   "sun, moon and stars"
+  ],
+  "themes": [
+   "creation",
+   "light and darkness",
+   "Hebrew word study"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:18",
+  "Genesis 1:19",
+  "Genesis 1:20",
+  "Genesis 1:21",
+  "Genesis 1",
+  "fourth day",
+  "fifth day creation",
+  "birds",
+  "fowl",
+  "winged fowl",
+  "great whales",
+  "sea creatures",
+  "living creature",
+  "nefesh chayah",
+  "Hebrew text of Genesis",
+  "elohim"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

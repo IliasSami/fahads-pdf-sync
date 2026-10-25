@@ -1,0 +1,32 @@
+{
+  "id": "abel/14",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:1 — Cain is qayin (קין), pronounced “Ky-een”",
+  "summary": "Genesis 4:1 with Cain highlighted; the Hebrew name קין is shown with its transliteration qayin and the pronunciation guide “Ky-een′”.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:1", "osis": "Gen.4.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:א", "osis": "Gen.4.1"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.1", "text": "1 And the man knew Eve [chava] his wife, and she conceived and gave birth to Cain, and she said, “I have obtained a man with the help of the LORD.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.1", "text": "1 והאדם ידע את חוה אשתו ותהר ותלד את קין ותאמר קניתי איש את יהוה׃"},
+    {"lang": "translit", "role": "label", "text": "Ky-een′"},
+    {"lang": "translit", "role": "label", "text": "qayin"},
+    {"lang": "he", "role": "label", "text": "קין"},
+    {"lang": "en", "role": "label", "text": "Cain"}
+  ],
+  "refs": [{"shown": "Genesis 4:1 / בראשית ד:א", "osis": ["Gen.4.1"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "קין", "translit": "qayin", "gloss": "Cain", "strongs": "H7014"}
+  ],
+  "color_links": [
+    {"en": "Cain", "other": "קין"},
+    {"en": "qayin", "other": "קין"},
+    {"en": "LORD", "other": "יהוה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Adam", "Eve", "Cain", "God"], "places": [], "events": ["birth of Cain"], "things": [], "themes": ["names"], "groups": []},
+  "keywords": ["Cain", "qayin", "Kayin", "Qayin", "Ky-een", "pronunciation", "Cain's Hebrew name", "Genesis 4:1", "Genesis 4", "birth of Cain"],
+  "uncertain": [],
+  "confidence": 0.94
+}

@@ -1,0 +1,134 @@
+{
+ "id": "genesis-1-1-part-1/7",
+ "kinds": [
+  "letters",
+  "picture"
+ ],
+ "title": "Bet: tent, house (2)",
+ "summary": "Close-up study of the letter bet in red: three styles of the modern letter, its name, sound B, value 2, ancient tent/house pictograph and meaning \"Tent, House\", with a row showing the pictograph turning into an older rotated form and then into the Latin letters B and b.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב ב ב"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "B"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "2"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Tent, House"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "B b"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [
+  {
+   "en": "bet",
+   "other": "ב"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "Tent, House (tent/house pictograph; becomes the Latin letters B and b)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 2,
+   "note": "gematria value of bet"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Small ancient (paleo-Hebrew) pictograph of a tent or house floor plan, drawn above a red underline, shown between the number 2 and the words \"Tent, House\".",
+   "subjects": [
+    "tent",
+    "house",
+    "bet pictograph",
+    "paleo-Hebrew",
+    "ancient Hebrew letters"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.48,
+    0.45,
+    0.56,
+    0.58
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Evolution of the letter bet: the ancient tent/house pictograph on a red line, an arrow to an older rotated, simplified form, then arrows to a large red capital B and lower-case b.",
+   "subjects": [
+    "tent",
+    "house",
+    "bet to B",
+    "letter evolution",
+    "alphabet history",
+    "pictograph"
+   ],
+   "text_in_picture": "B b",
+   "credit": null,
+   "box": [
+    0.09,
+    0.68,
+    0.9,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "tent",
+   "house"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "bet",
+  "beth",
+  "tent",
+  "house",
+  "letter B",
+  "bet pictograph",
+  "ancient Hebrew",
+  "paleo-Hebrew",
+  "Hebrew letter meanings",
+  "second letter of the Hebrew alphabet",
+  "gematria 2"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

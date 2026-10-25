@@ -1,0 +1,97 @@
+{
+ "id": "gods-garden-in-eden/50",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 2:15-17 — God puts man in the garden and forbids the tree of knowledge",
+ "summary": "Genesis 2:15-17 in English: the LORD God puts the man in the garden of Eden to cultivate and keep it, tells him he may eat freely from any tree, but not from the tree of the knowledge of good and evil, for in the day he eats he will surely die. Key words (LORD God, tree, knowledge, good, evil) are shown in colour and the last lines grow larger.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:15-17",
+   "osis": [
+    "Gen.2.15",
+    "Gen.2.16",
+    "Gen.2.17"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:טו-יז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "15 Then the LORD God took the man and put him into the garden of Eden to cultivate it and keep it.",
+   "osis": "Gen.2.15"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "16 The LORD God commanded the man, saying, “From any tree of the garden you may eat freely;",
+   "osis": "Gen.2.16"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "17 but from the tree of the knowledge of good and evil you shall not eat, for in the day that you eat from it you will surely die.”",
+   "osis": "Gen.2.17"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:15-17 / בראשית ב:טו-יז",
+   "osis": [
+    "Gen.2.15",
+    "Gen.2.16",
+    "Gen.2.17"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [
+   "tree of the knowledge of good and evil"
+  ],
+  "themes": [
+   "obedience",
+   "death",
+   "sin",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "tree of the knowledge of good and evil",
+  "forbidden tree",
+  "do not eat",
+  "thou shalt surely die",
+  "you will surely die",
+  "dress and keep it",
+  "cultivate",
+  "garden of Eden",
+  "LORD God commanded",
+  "first commandment",
+  "Genesis 2",
+  "Adam in the garden"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

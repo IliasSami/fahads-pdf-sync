@@ -1,0 +1,291 @@
+{
+ "id": "gods-garden-in-eden/12",
+ "kinds": [
+  "gematria",
+  "letters",
+  "word-study"
+ ],
+ "title": "Sheqer (falsehood) = 600, 6 + 0 + 0 = 6 — out of order in the alefbet",
+ "summary": "Shows the Hebrew alphabet and the word sheqer (שקר, Falsehood) with letters resh, qof, shin = 200 + 100 + 300 = 600, and 6 + 0 + 0 = 6, called the number of Falsehood. The slide says sheqir is seen with tunnel vision in the alefbet and is out of order.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "list",
+   "text": "א ב ג ד ה ו ז ח ט י כ ל מ נ ס ע פ צ ק ר ש ת"
+  },
+  {
+   "lang": "translit",
+   "role": "list",
+   "text": "alef bet gimel dalet hey vav zayin het tet yod kaf lamed mem nun samekh ayin pe tsadi qof resh shin tav"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "she·qir’"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שקר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Falsehood"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "resh qof shin"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "200 + 100 + 300 = 600"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "6 + 0 + 0 = 6 = the # of Falsehood"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "sheqir"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שקר"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "is seen with tunnel vision in the alefbet, and it’s out of order."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שקר",
+   "translit": "sheqer",
+   "gloss": "falsehood",
+   "strongs": "H8267",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     200,
+     100,
+     300
+    ],
+    "total": 600
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "alef",
+   "other": "א"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "first letter of the alefbet (highlighted blue)"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "gimel",
+   "char": "ג",
+   "value": 3,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "dalet",
+   "char": "ד",
+   "value": 4,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "hey",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "zayin",
+   "char": "ז",
+   "value": 7,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "het",
+   "char": "ח",
+   "value": 8,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "tet",
+   "char": "ט",
+   "value": 9,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "kaf",
+   "char": "כ",
+   "value": 20,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "highlighted yellow"
+  },
+  {
+   "lang": "he",
+   "letter": "nun",
+   "char": "נ",
+   "value": 50,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "samekh",
+   "char": "ס",
+   "value": 60,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "ayin",
+   "char": "ע",
+   "value": 70,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": 80,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "tsadi",
+   "char": "צ",
+   "value": 90,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "qof",
+   "char": "ק",
+   "value": 100,
+   "meaning": "letter of שקר (sheqer, falsehood)"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "letter of שקר (sheqer, falsehood)"
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "letter of שקר (sheqer, falsehood)"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last letter of the alefbet (highlighted red)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 600,
+   "note": "gematria of שקר (sheqer, falsehood) = 200 + 100 + 300"
+  },
+  {
+   "value": 6,
+   "note": "6 + 0 + 0, called the number of Falsehood"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Hebrew letter meanings",
+   "truth",
+   "sin"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "sheqer",
+  "sheqir",
+  "falsehood",
+  "lie",
+  "שקר",
+  "gematria 600",
+  "number 6",
+  "resh qof shin",
+  "tunnel vision",
+  "out of order",
+  "alefbet",
+  "truth vs falsehood",
+  "Hebrew alphabet"
+ ],
+ "uncertain": [
+  "Letter values in the letters list are standard gematria, not all shown on the slide; the alef/mem/tav highlight colours in the alphabet row (blue/yellow/red) are as shown"
+ ],
+ "confidence": 0.92
+}

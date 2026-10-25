@@ -1,0 +1,126 @@
+{
+ "id": "gods-garden-in-eden/69",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 2:22 — God fashioned the side into a woman (ve'yiben)",
+ "summary": "Genesis 2:22 in English and Hebrew with matching colours: God 'fashioned' the side taken from the man into a woman and brought her to the man. The Hebrew verb ויבן (ve’yiben, 'And fashioned') is pulled out and shown in the same colours as the English.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:22",
+   "osis": "Gen.2.22"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:כב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "22 And the LORD God fashioned the side which He had taken from the man into a woman, and brought her to the man.",
+   "osis": "Gen.2.22"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "And fashioned"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ויבן"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ve’yiben"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "22 ויבן יהוה אלהים את־הצלע אשר לקח מן־האדם לאשה ויבאה אל־האדם",
+   "osis": "Gen.2.22"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:22 / בראשית ב:כב",
+   "osis": [
+    "Gen.2.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ויבן",
+   "translit": "ve’yiben",
+   "gloss": "and fashioned",
+   "strongs": "H1129"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "And fashioned",
+   "other": "ויבן"
+  },
+  {
+   "en": "ve’yiben",
+   "other": "ויבן"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "man",
+   "other": "האדם"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam",
+   "Eve"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "marriage",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 2:22",
+  "fashioned woman",
+  "made he a woman",
+  "the rib which the LORD God had taken",
+  "side taken from man",
+  "built a woman",
+  "vayiven",
+  "ve yiben",
+  "yiben",
+  "ויבן",
+  "creation of Eve",
+  "brought her to the man",
+  "Hebrew word study"
+ ],
+ "uncertain": [
+  "Which English and Hebrew words share colours was judged from the image (God/אלהים, man/האדם, And fashioned/ויבן)."
+ ],
+ "confidence": 0.93
+}

@@ -1,0 +1,158 @@
+{
+ "id": "fall-of-man/28",
+ "kinds": [
+  "letters",
+  "text"
+ ],
+ "title": "Genesis 3:15 reference written two ways in Hebrew letters: ג:יה and ג:טו",
+ "summary": "Genesis 3:15 (First Gospel, Protoevangelium) with its Hebrew reference shown twice, once as בראשית ג:יה and once as בראשית ג:טו, then enlarged with the letter names spelled out: 'he yod : gimel' (yod coloured brown) and 'vav tet : gimel' (vav coloured orange).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:15",
+   "osis": "Gen.3.15"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "First"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Protoevangelium"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Gospel"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:יה"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:טו"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ג:יה"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ג:טו"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "he yod : gimel"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "vav tet : gimel"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:15 / בראשית ג:יה / בראשית ג:טו",
+   "osis": [
+    "Gen.3.15"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [
+  {
+   "en": "yod",
+   "other": "י"
+  },
+  {
+   "en": "vav",
+   "other": "ו"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "gimel",
+   "char": "ג",
+   "value": 3,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "tet",
+   "char": "ט",
+   "value": 9,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 15,
+   "note": "verse number 15, written in Hebrew letters two ways: יה (yod-he) and טו (tet-vav)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria",
+   "messianic prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 3:15",
+  "Protoevangelium",
+  "First Gospel",
+  "בראשית ג:טו",
+  "בראשית ג:יה",
+  "Hebrew numerals",
+  "yod he",
+  "tet vav",
+  "15 in Hebrew",
+  "gimel yod he",
+  "verse number in Hebrew letters",
+  "yod",
+  "vav",
+  "tet"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

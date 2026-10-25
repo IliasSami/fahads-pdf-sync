@@ -1,0 +1,132 @@
+{
+ "id": "noah-part-1/53",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 6:14 — kopher, the Hebrew word for pitch",
+ "summary": "Genesis 6:13-14 in English and Hebrew with the Hebrew word כפר (kopher) highlighted in the last word of the verse and defined as 'Pitch'; the word ark is partly red in the English.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:14",
+   "osis": "Gen.6.14"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.13",
+   "text": "13 Then God said to Noah, “The end of all flesh has come before Me; for the earth is filled with violence because of them; and behold, I am about to destroy them with the earth."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.14",
+   "text": "14 “Make for yourself an ark of gopher wood; you shall make the ark with rooms, and shall cover it inside and out with pitch."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.6.14",
+   "text": "14 עשה לך תבת עצי־גפר קנים תעשה את־התבה וכפרת אתה מבית ומחוץ בכפר"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kopher"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כפר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Pitch"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:14 / בראשית ו:יד",
+   "osis": [
+    "Gen.6.14"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 6:13 (verse 13 text shown under the Genesis 6:14 heading)",
+   "osis": [
+    "Gen.6.13"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "כפר",
+   "translit": "kopher",
+   "gloss": "pitch",
+   "strongs": "H3724",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Pitch",
+   "other": "כפר"
+  },
+  {
+   "en": "kopher",
+   "other": "כפר"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "gopher wood",
+   "pitch"
+  ],
+  "themes": [
+   "atonement",
+   "judgment"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "kopher",
+  "kofer",
+  "pitch",
+  "Genesis 6:14",
+  "Genesis 6:13",
+  "ark of gopher wood",
+  "cover with pitch",
+  "inside and out",
+  "Noah's ark",
+  "Hebrew word for pitch",
+  "atonement",
+  "kaphar"
+ ],
+ "uncertain": [
+  "Only part of the final Hebrew word בכפר is coloured (כפר highlighted)."
+ ],
+ "confidence": 0.95
+}

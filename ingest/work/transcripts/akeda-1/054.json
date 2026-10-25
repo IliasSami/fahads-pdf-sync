@@ -1,0 +1,43 @@
+{
+  "id": "akeda-1/54",
+  "kinds": ["word-study", "verse"],
+  "title": "naar (נער) in Exodus 2:6 and 2 Samuel 16:1: baby, boy, young man, servant, soldier",
+  "summary": "Word study of naar (נער), shown in green with its range of meanings: baby, boy, young man, servant, soldier. Two examples are quoted in English and Hebrew: Exodus 2:6 (the baby Moses crying, “boy”) and 2 Samuel 16:1 (Ziba, steward or servant of Mephibosheth).",
+  "text": [
+    {"lang": "translit", "role": "heading", "text": "naar"},
+    {"lang": "he", "role": "heading", "text": "נער"},
+    {"lang": "en", "role": "list", "text": "Baby"},
+    {"lang": "en", "role": "list", "text": "Boy"},
+    {"lang": "en", "role": "list", "text": "Young man"},
+    {"lang": "en", "role": "list", "text": "Servant"},
+    {"lang": "en", "role": "list", "text": "Soldier"},
+    {"lang": "en", "role": "reference", "text": "Exodus 2:6", "osis": "Exod.2.6"},
+    {"lang": "he", "role": "reference", "text": "שמות ב:ו"},
+    {"lang": "en", "role": "verse", "osis": "Exod.2.6", "text": "6 When she opened it, she saw the child, and behold, the boy was crying. And she had pity on him and said, “This is one of the Hebrews’ children.”"},
+    {"lang": "he", "role": "verse", "osis": "Exod.2.6", "text": "6 ותפתח ותראהו את־הילד והנה־נער בכה ותחמל עליו ותאמר מילדי העברים זה׃"},
+    {"lang": "en", "role": "reference", "text": "2 Samuel 16:1", "osis": "2Sam.16.1"},
+    {"lang": "he", "role": "reference", "text": "שמואל ב יו:א"},
+    {"lang": "en", "role": "verse", "osis": "2Sam.16.1", "text": "1 And David had gone a short distance beyond the summit, there was Ziba, the steward of Mephibosheth,…"},
+    {"lang": "he", "role": "verse", "osis": "2Sam.16.1", "text": "1 ודוד עבר מעט מהראש והנה ציבא נער מפי־בשת..."}
+  ],
+  "refs": [
+    {"shown": "Exodus 2:6 / שמות ב:ו", "osis": ["Exod.2.6"], "role": "quoted"},
+    {"shown": "2 Samuel 16:1 / שמואל ב יו:א", "osis": ["2Sam.16.1"], "role": "quoted"}
+  ],
+  "words": [
+    {"lang": "he", "word": "נער", "translit": "naar", "gloss": "baby, boy, young man, servant, soldier", "strongs": "H5288"}
+  ],
+  "color_links": [
+    {"en": "boy", "other": "נער"},
+    {"en": "steward", "other": "נער"},
+    {"en": "naar", "other": "נער"},
+    {"en": "David", "other": "ודוד"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Moses", "David", "Ziba", "Mephibosheth"], "places": [], "events": [], "things": [], "themes": ["Hebrew word study", "servant"], "groups": ["Hebrews"]},
+  "keywords": ["naar", "na'ar", "boy", "young man", "servant", "soldier", "baby", "lad", "steward", "Exodus 2:6", "2 Samuel 16:1", "baby Moses crying", "Ziba", "Mephibosheth", "meaning of naar"],
+  "uncertain": ["The 2 Samuel reference is written in Hebrew on the slide as שמואל ב יו:א (chapter 16 written יו)."],
+  "confidence": 0.93
+}

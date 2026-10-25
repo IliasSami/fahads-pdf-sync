@@ -1,0 +1,29 @@
+{
+  "id": "abel/85",
+  "kinds": ["verse"],
+  "title": "Genesis 4:9 — “brother” underlined twice (אחיך, אחי)",
+  "summary": "Genesis 4:9 in English and Hebrew, with the word “brother” underlined in blue in both of its English occurrences and the matching Hebrew words אחיך (your brother) and אחי (my brother) underlined at their first letters.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:9", "osis": "Gen.4.9"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ט"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.9", "text": "9 And the LORD said to Cain, “Where is Abel your brother?” And he said, “I do not know. The keeper of my brother am I?”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.9", "text": "9 ויאמר יהוה אל קין אי הבל אחיך ויאמר לא ידעתי השמר אחי אנכי׃"}
+  ],
+  "refs": [{"shown": "Genesis 4:9 / בראשית ד:ט", "osis": ["Gen.4.9"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "אחיך", "translit": "achicha", "gloss": "your brother", "strongs": "H251"},
+    {"lang": "he", "word": "אחי", "translit": "achi", "gloss": "my brother", "strongs": "H251"}
+  ],
+  "color_links": [
+    {"en": "brother", "other": "אח"},
+    {"en": "Cain", "other": "קין"},
+    {"en": "Abel", "other": "הבל"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain", "Abel"], "places": [], "events": ["Murder of Abel"], "things": [], "themes": ["names of God", "sin", "judgment"], "groups": []},
+  "keywords": ["brother", "thy brother", "my brother", "ach", "achicha", "achi", "the keeper of my brother", "am I my brother's keeper", "where is Abel thy brother", "Cain and Abel", "Genesis 4", "Genesis 4:9"],
+  "uncertain": ["The LORD in English and יהוה in Hebrew have individually coloured letters (decorative: red L/yod, orange R/vav), meaning not explained on this slide."],
+  "confidence": 0.94
+}

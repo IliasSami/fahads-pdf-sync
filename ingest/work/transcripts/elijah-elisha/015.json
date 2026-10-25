@@ -1,0 +1,116 @@
+{
+  "id": "elijah-elisha/15",
+  "kinds": [
+    "comparison",
+    "list"
+  ],
+  "title": "Joseph / Yeshua parallels: raised to #2 in Egypt / Heaven",
+  "summary": "The Joseph–Yeshua parallels list adds that each was raised to second place — Joseph in Egypt (green), Yeshua in Heaven (red) — after the earlier items (sent, betrayed, sold, accused, sentenced, bread and wine).",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Joseph / yeshua Parallels"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sent by Father to check on brothers"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Betrayed by his brothers"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sold for 20/30 pieces of silver"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Falsely accused"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sentenced to prison / death"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Baker & Cup Bearer / Bread & Wine"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Raised to #2 in Egypt / Heaven"
+    }
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {
+      "value": 20,
+      "note": "pieces of silver Joseph was sold for"
+    },
+    {
+      "value": 30,
+      "note": "pieces of silver paid to betray Yeshua"
+    },
+    {
+      "value": 2,
+      "note": "raised to #2 — Joseph in Egypt, Yeshua in Heaven"
+    }
+  ],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Joseph",
+      "Jesus",
+      "Jacob",
+      "God"
+    ],
+    "places": [
+      "Egypt",
+      "Heaven"
+    ],
+    "events": [],
+    "things": [
+      "silver",
+      "prison",
+      "bread",
+      "wine"
+    ],
+    "themes": [
+      "typology",
+      "betrayal",
+      "death"
+    ],
+    "groups": [
+      "Joseph's brothers"
+    ]
+  },
+  "keywords": [
+    "Joseph",
+    "Yeshua",
+    "Jesus",
+    "parallels",
+    "Joseph as a type of Christ",
+    "baker and cupbearer",
+    "butler",
+    "bread and wine",
+    "Last Supper",
+    "communion",
+    "Genesis 40",
+    "second in command",
+    "ruler over Egypt",
+    "right hand of God",
+    "exalted"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

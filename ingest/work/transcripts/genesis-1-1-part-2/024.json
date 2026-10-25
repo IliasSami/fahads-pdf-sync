@@ -1,0 +1,168 @@
+{
+ "id": "genesis-1-1-part-2/24",
+ "kinds": [
+  "verse",
+  "letters"
+ ],
+ "title": "Numbers 1:1-4 with the letters of torah highlighted in the Hebrew",
+ "summary": "Numbers 1:1-4 in English and letter-spaced Hebrew under the heading torah (ת ו ר ה) in colour. Four Hebrew letters are enlarged, coloured and underlined: ה in משה, ר in מצרים, ו in שמות and ת in אתם, which in order spell torah backwards. The Hebrew lines sit one line lower than the English verses and stop at Numbers 1:3 (ואהרן).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 1",
+   "osis": [
+    "Num.1.1",
+    "Num.1.2",
+    "Num.1.3",
+    "Num.1.4"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ת ו ר ה"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.1.1",
+   "text": "1 And the LORD spoke unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Num.1.1",
+   "text": "וידבר יהוה אל משה במדבר סיני באהל מועד באחד לחדש"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.1.2",
+   "text": "2 \"Take a census of all the congregation of the sons of Israel, by their families, by their fathers' households, according to the number of names, every male, head by head"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Num.1.1",
+   "text": "השני בשנה השנית לצאתם מארץ מצרים לאמר"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.1.3",
+   "text": "3 from twenty years old and upward, whoever is able to go out to war in Israel, you and Aaron shall number them by their armies."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Num.1.2",
+   "text": "שאו את ראש כל עדת בני ישראל למשפחתם לבית אבתם"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Num.1.2",
+   "text": "במספר שמות כל זכר לגלגלתם"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.1.4",
+   "text": "4 And with you there shall be a man of every tribe; every one head of the house of his fathers."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Num.1.3",
+   "text": "מבן עשרים שנה ומעלה כל יצא צבא בישראל תפקדו"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Num.1.3",
+   "text": "אתם לצבאתם אתה ואהרן"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 1 / במדבר א",
+   "osis": [
+    "Num.1.1",
+    "Num.1.2",
+    "Num.1.3",
+    "Num.1.4"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תורה",
+   "translit": "torah",
+   "gloss": "instruction, law",
+   "strongs": "H8451"
+  },
+  {
+   "lang": "he",
+   "word": "במדבר",
+   "translit": "bamidbar",
+   "gloss": "in the wilderness (Hebrew name of Numbers)",
+   "strongs": "H4057"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Moses",
+   "Aaron"
+  ],
+  "places": [
+   "Egypt",
+   "Wilderness of Sinai"
+  ],
+  "events": [
+   "Exodus"
+  ],
+  "things": [
+   "Torah",
+   "tabernacle"
+  ],
+  "themes": [
+   "Torah",
+   "Bible codes"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Numbers 1",
+  "Numbers 1:1-4",
+  "Bamidbar",
+  "census of Israel",
+  "take a census",
+  "wilderness of Sinai",
+  "tabernacle of the congregation",
+  "Moses and Aaron number them",
+  "twenty years old and upward",
+  "head of the house of his fathers",
+  "torah letters hidden in Numbers",
+  "Torah code",
+  "tav vav resh hey"
+ ],
+ "uncertain": [
+  "Hebrew lines are offset one line below their English verses on the slide, and no Hebrew is shown for Numbers 1:4; transcribed in the order shown, with osis tagged by the verse each Hebrew line actually contains."
+ ],
+ "confidence": 0.9
+}

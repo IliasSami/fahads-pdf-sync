@@ -1,0 +1,22 @@
+{
+  "id": "fall-of-man/1",
+  "kinds": ["title", "picture"],
+  "title": "Title slide: Fall of Man (part 5)",
+  "summary": "Opening title slide of the Fall of Man lesson, a video still of the presenter sitting on a couch in front of a world map, with the green title “Fall of Man” and the number 5.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Fall of Man"},
+    {"lang": "en", "role": "number", "text": "5"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [{"value": 5, "note": "number shown under the title (lesson/part number in the series)"}],
+  "pictures": [
+    {"type": "video-still", "description": "Video still of the presenter, a man with glasses in a white T-shirt, seated on a brown couch with his hand raised to his face, in front of a large wall map of the world showing the Americas, the Atlantic Ocean and Africa. The green title text “Fall of Man” and a large green “5” are overlaid at the lower left.", "subjects": ["presenter", "world map", "couch", "video still", "title card", "Bible teacher"], "text_in_picture": "Fall of Man 5", "credit": null, "box": [0.12, 0.0, 0.88, 1.0]}
+  ],
+  "entities": {"people": [], "places": [], "events": ["Fall of Man"], "things": [], "themes": ["sin"], "groups": []},
+  "keywords": ["Fall of Man", "the Fall", "title slide", "Genesis 3", "Adam and Eve", "original sin", "lesson 5", "part 5", "video", "presenter", "world map"],
+  "uncertain": [],
+  "confidence": 0.93
+}

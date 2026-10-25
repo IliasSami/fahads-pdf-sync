@@ -1,0 +1,183 @@
+{
+ "id": "genesis-1-1-part-1/9",
+ "kinds": [
+  "word-study",
+  "verse"
+ ],
+ "title": "Bethlehem = house of bread; John 6:48 bread of life",
+ "summary": "Breaks the name Bethlehem (בית־לחם) into bet (house, in red) and lechem (bread, in brown), then quotes John 6:48, \"I am the bread of life,\" and concludes that the Bread of Life was born in the House of Bread.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Bethlehem"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "בית־לחם"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בית"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "↔ bet ↔ house"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "לחם"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "↔ lechem ↔ bread"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 6:48",
+   "osis": "John.6.48"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ωάνης 6:48"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.6.48",
+   "text": "“I am the bread of life.”"
+  },
+  {
+   "lang": "translit",
+   "role": "quote",
+   "text": "—yeshua"
+  },
+  {
+   "lang": "he",
+   "role": "quote",
+   "text": "ישוע"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The Bread of Life was born in the House of Bread"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 6:48 / ωάνης 6:48",
+   "osis": [
+    "John.6.48"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בית־לחם",
+   "translit": "bet-lechem",
+   "gloss": "Bethlehem, house of bread",
+   "strongs": "H1035"
+  },
+  {
+   "lang": "he",
+   "word": "בית",
+   "translit": "bet",
+   "gloss": "house",
+   "strongs": "H1004"
+  },
+  {
+   "lang": "he",
+   "word": "לחם",
+   "translit": "lechem",
+   "gloss": "bread",
+   "strongs": "H3899"
+  },
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Yeshua (Jesus)",
+   "strongs": "H3442"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Beth",
+   "other": "בית"
+  },
+  {
+   "en": "lehem",
+   "other": "לחם"
+  },
+  {
+   "en": "house",
+   "other": "בית"
+  },
+  {
+   "en": "bet",
+   "other": "בית"
+  },
+  {
+   "en": "bread",
+   "other": "לחם"
+  },
+  {
+   "en": "lechem",
+   "other": "לחם"
+  },
+  {
+   "en": "yeshua",
+   "other": "ישוע"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [
+   "Bethlehem"
+  ],
+  "events": [
+   "Birth of Jesus"
+  ],
+  "things": [
+   "bread",
+   "house"
+  ],
+  "themes": [
+   "word study",
+   "messianic prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Bethlehem",
+  "house of bread",
+  "bread of life",
+  "John 6:48",
+  "bet lechem",
+  "Beth-lehem",
+  "Yeshua born in Bethlehem",
+  "Jesus",
+  "בית לחם",
+  "Hebrew meaning of Bethlehem",
+  "bread",
+  "house"
+ ],
+ "uncertain": [
+  "Greek reference header reads \"ωάνης 6:48\" on the slide (first letter appears missing); transcribed as shown"
+ ],
+ "confidence": 0.95
+}

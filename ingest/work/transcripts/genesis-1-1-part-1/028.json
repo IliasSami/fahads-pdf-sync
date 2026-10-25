@@ -1,0 +1,161 @@
+{
+ "id": "genesis-1-1-part-1/28",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "Fire (aish) inside brit (covenant) inside bereshit",
+ "summary": "Under the heading Abrahamic Covenant (ברית אברהם), shows aish (fire, אש) with its two letters, and arrows pointing down to brit (covenant, ברית) and then bereshit (in beginning, בראשית). The letters shin and alef of fire sit inside the words for covenant and beginning.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Abrahamic Covenant"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ברית אברהם"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Fire"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ש"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "aish"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Covenant"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב ר י ת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "brit"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "In beginning"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בראשית"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bereshit"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אש",
+   "translit": "aish",
+   "gloss": "fire",
+   "strongs": "H784"
+  },
+  {
+   "lang": "he",
+   "word": "ברית",
+   "translit": "brit",
+   "gloss": "covenant",
+   "strongs": "H1285"
+  },
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "אברהם",
+   "translit": "avraham",
+   "gloss": "Abraham",
+   "strongs": "H85"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Fire",
+   "other": "אש"
+  },
+  {
+   "en": "aish",
+   "other": "אש"
+  },
+  {
+   "en": "Covenant",
+   "other": "ברית"
+  },
+  {
+   "en": "brit",
+   "other": "ברית"
+  },
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "bereshit",
+   "other": "בראשית"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Abraham",
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "fire"
+  ],
+  "themes": [
+   "covenant",
+   "Hebrew letter meanings",
+   "fire"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Abrahamic covenant",
+  "brit",
+  "berit",
+  "covenant",
+  "aish",
+  "fire",
+  "bereshit",
+  "in the beginning",
+  "ברית אברהם",
+  "covenant of Abraham",
+  "fire in covenant",
+  "Hebrew word study"
+ ],
+ "uncertain": [
+  "The letters in the brit line are drawn with a gap between resh and yod (where the shin and alef of aish are 'removed'); transcribed as ב ר י ת."
+ ],
+ "confidence": 0.92
+}

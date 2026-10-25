@@ -1,0 +1,129 @@
+{
+ "id": "genesis-1-1-part-2/115",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "The letter yod: value 10, ancient hand pictograph, Y and I",
+ "summary": "Introduces the Hebrew letter yod (value 10, sounds Y or I) whose ancient pictograph is an arm and hand and means 'Hand, Work'. Arrows trace the ancient glyph into a later letterform and then into the Latin letters Y and I.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yod"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Y, I"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "10"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Hand, Work"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Y, I"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "hand, work (arm and hand pictograph); letter sound Y, I"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 10,
+   "note": "numerical value of the letter yod"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of the letter yod: a black arm and hand drawn as a bent horizontal arm with a small hand, underlined in orange, shown beside the words 'Hand, Work'.",
+   "subjects": [
+    "yod",
+    "paleo-Hebrew",
+    "pictograph",
+    "arm and hand",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.47,
+    0.46,
+    0.55,
+    0.54
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Evolution chain in black: the large ancient arm-and-hand pictograph (orange underline), an arrow to a later upright yod-like letterform, an arrow to the Latin letters Y, I in red-brown.",
+   "subjects": [
+    "yod",
+    "alphabet evolution",
+    "paleo-Hebrew",
+    "arm and hand",
+    "Y and I",
+    "pictograph"
+   ],
+   "text_in_picture": "Y, I",
+   "credit": null,
+   "box": [
+    0.23,
+    0.62,
+    0.78,
+    0.87
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "yod",
+  "yud",
+  "jod",
+  "hand",
+  "work",
+  "ancient Hebrew pictograph",
+  "paleo-Hebrew yod",
+  "letter value 10",
+  "Y and I",
+  "origin of the letter Y",
+  "arm and hand",
+  "Hebrew alphabet"
+ ],
+ "uncertain": [
+  "Three red-brown glyphs at the top (modern Hebrew yod, a second curved yod-like letterform, and a plain vertical bar) sit above a long horizontal line; their exact meaning was not clear.",
+  "The middle glyph in the arrow chain is a later upright letterform whose exact script was not identified."
+ ],
+ "confidence": 0.85
+}

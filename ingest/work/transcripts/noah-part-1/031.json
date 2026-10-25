@@ -1,0 +1,174 @@
+{
+ "id": "noah-part-1/31",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Noah (נח) spelled backwards is grace (חן)",
+ "summary": "Genesis 6:8 in English and Hebrew with colour matching, then a word study: favor / grace is chen (חן) and Noah is noach (נח); the bottom line shows Noah נח, “SDRAWKCAB” (backwards written backwards), then חן Grace — Noah's name reversed gives the word for grace.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:8",
+   "osis": "Gen.6.8"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.8",
+   "text": "And Noah⁵ found FAVOR in the eyes of the LORD."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.6.8",
+   "text": "ונח מצא חן בעיני יהוה׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Favor / Grace"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "chen"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חן"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Noah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "נח"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "noach"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Noah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "נח"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "SDRAWKCAB"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חן"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Grace."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:8 / בראשית ו:ח",
+   "osis": [
+    "Gen.6.8"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חן",
+   "translit": "chen",
+   "gloss": "favor, grace",
+   "strongs": "H2580"
+  },
+  {
+   "lang": "he",
+   "word": "נח",
+   "translit": "noach",
+   "gloss": "Noah",
+   "strongs": "H5146"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Noah",
+   "other": "נח"
+  },
+  {
+   "en": "Favor / Grace",
+   "other": "חן"
+  },
+  {
+   "en": "Grace",
+   "other": "חן"
+  },
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 5,
+   "note": "small superscript 5 after Noah in the English verse"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [],
+  "themes": [
+   "grace",
+   "names of God",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Noah backwards is grace",
+  "Noah spelled backwards",
+  "noach",
+  "chen",
+  "grace",
+  "favor",
+  "נח",
+  "חן",
+  "Noah found grace",
+  "Genesis 6:8",
+  "palindrome",
+  "reverse spelling",
+  "Noah means rest"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

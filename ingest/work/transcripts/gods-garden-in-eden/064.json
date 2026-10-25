@@ -1,0 +1,116 @@
+{
+ "id": "gods-garden-in-eden/64",
+ "kinds": [
+  "word-study",
+  "list"
+ ],
+ "title": "Hebrew words: digger, plower and scruff of neck",
+ "summary": "Three Hebrew words shown with English meanings and capitalised transliterations: Digger חפר (KHoPHeR), Plower חורש (HoReSh), and Scruff of neck עורף (GHoReF). No explanation is given on this slide.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Digger"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חפר"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "KHoPHeR"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Plower"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חורש"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "HoReSh"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Scruff of neck"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "עורף"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "GHoReF"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חפר",
+   "translit": "KHoPHeR",
+   "gloss": "digger",
+   "strongs": "H2658"
+  },
+  {
+   "lang": "he",
+   "word": "חורש",
+   "translit": "HoReSh",
+   "gloss": "plower",
+   "strongs": "H2790"
+  },
+  {
+   "lang": "he",
+   "word": "עורף",
+   "translit": "GHoReF",
+   "gloss": "scruff of neck",
+   "strongs": "H6203"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "plow"
+  ],
+  "themes": [
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "digger",
+  "plower",
+  "scruff of the neck",
+  "nape of neck",
+  "Hebrew word study",
+  "khopher",
+  "choresh",
+  "oref",
+  "חפר",
+  "חורש",
+  "עורף",
+  "dig",
+  "plow",
+  "neck"
+ ],
+ "uncertain": [
+  "Strong's numbers are base-form matches (verb roots for digger and plower); the slide gives no explanation of how the three words relate."
+ ],
+ "confidence": 0.93
+}

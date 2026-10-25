@@ -1,0 +1,31 @@
+{
+  "id": "abel/13",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:1 — Eve is chava (חוה) in Hebrew",
+  "summary": "Genesis 4:1 with Eve's Hebrew name added as “Eve [chava]”; the word חוה is highlighted and spelled out letter by letter as chava.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:1", "osis": "Gen.4.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:א", "osis": "Gen.4.1"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.1", "text": "1 And the man knew Eve [chava] his wife, and she conceived and gave birth to Cain, and she said, “I have obtained a man with the help of the LORD.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.1", "text": "1 והאדם ידע את חוה אשתו ותהר ותלד את קין ותאמר קניתי איש את יהוה׃"},
+    {"lang": "translit", "role": "label", "text": "chava"},
+    {"lang": "he", "role": "label", "text": "חוה"},
+    {"lang": "en", "role": "label", "text": "Eve"}
+  ],
+  "refs": [{"shown": "Genesis 4:1 / בראשית ד:א", "osis": ["Gen.4.1"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "חוה", "translit": "chava", "gloss": "Eve", "strongs": "H2332"}
+  ],
+  "color_links": [
+    {"en": "Eve", "other": "חוה"},
+    {"en": "chava", "other": "חוה"},
+    {"en": "LORD", "other": "יהוה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Adam", "Eve", "Cain", "God"], "places": [], "events": ["birth of Cain"], "things": [], "themes": ["names"], "groups": []},
+  "keywords": ["Eve", "chava", "chavah", "Havah", "Hava", "Eve's Hebrew name", "mother of all living", "Genesis 4:1", "Genesis 4", "Adam knew Eve"],
+  "uncertain": [],
+  "confidence": 0.94
+}

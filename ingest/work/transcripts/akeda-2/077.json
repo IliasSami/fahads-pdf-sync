@@ -1,0 +1,147 @@
+{
+ "id": "akeda-2/77",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 24:11 — the well (beer באר) and the water (mayim מים)",
+ "summary": "Same Genesis 24:11 slide with a second word added: mayim, מים, Water, in light blue next to beer, באר, Well in darker blue. \"Well\" and \"water\" are colour-matched in the English and Hebrew lines.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 24:11",
+   "osis": "Gen.24.11"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כד:יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.24.11",
+   "text": "11 And He made the camels kneel down outside the city by the well of water at evening time…"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.24.11",
+   "text": "11 ויברך הגמלים מחוץ לעיר אל־באר המים לעת ערב…"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "beer"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "באר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Well"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "mayim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מים"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Water"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 24:11 / בראשית כד:יא",
+   "osis": [
+    "Gen.24.11"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "באר",
+   "translit": "beer",
+   "gloss": "well",
+   "strongs": "H875",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "מים",
+   "translit": "mayim",
+   "gloss": "water",
+   "strongs": "H4325",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "well",
+   "other": "באר"
+  },
+  {
+   "en": "beer",
+   "other": "באר"
+  },
+  {
+   "en": "water",
+   "other": "מים"
+  },
+  {
+   "en": "mayim",
+   "other": "מים"
+  },
+  {
+   "en": "camels",
+   "other": "הגמלים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "well",
+   "water",
+   "camels"
+  ],
+  "themes": [
+   "water"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "well",
+  "water",
+  "beer",
+  "mayim",
+  "Hebrew word for water",
+  "Hebrew word for well",
+  "באר",
+  "מים",
+  "Genesis 24:11",
+  "Genesis 24",
+  "well of water",
+  "camels kneel",
+  "evening time"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

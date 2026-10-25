@@ -1,0 +1,260 @@
+{
+ "id": "fall-of-man/67",
+ "kinds": [
+  "letters",
+  "word-study",
+  "gematria"
+ ],
+ "title": "Satan (שטן) letter by letter: shin, tet, nun = 359",
+ "summary": "Breaks the Hebrew name Satan (שטן) into its three letters with ancient pictographs: shin (300) teeth or destruction, tet (9) coiled serpent, nun (50) sperm, fish or life; added together nun + tet + shin gives 50 + 9 + 300 = 359.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Satan"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "שטן"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "satan"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shin"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "300"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Teeth, Destruction"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tet"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "9"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ט"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Coiled Serpent"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "nun"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "50"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ן"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Sperm, Fish, Life"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "nun tet shin"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "50 + 9 + 300 = 359"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שטן",
+   "translit": "satan",
+   "gloss": "Satan, adversary",
+   "strongs": "H7854",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     50,
+     9,
+     300
+    ],
+    "total": 359
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Satan",
+   "other": "שטן"
+  },
+  {
+   "en": "shin",
+   "other": "ש"
+  },
+  {
+   "en": "tet",
+   "other": "ט"
+  },
+  {
+   "en": "nun",
+   "other": "ן"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "teeth, destruction (pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "tet",
+   "char": "ט",
+   "value": 9,
+   "meaning": "coiled serpent (pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "nun",
+   "char": "ן",
+   "value": 50,
+   "meaning": "sperm, fish, life (pictograph)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 359,
+   "note": "gematria of שטן (Satan): 50 + 9 + 300"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph for shin: a wavy, tooth-like curve above a heavy horizontal line, drawn in black.",
+   "subjects": [
+    "shin pictograph",
+    "teeth",
+    "paleo-Hebrew",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.41,
+    0.29,
+    0.47,
+    0.38
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph for tet: a circle with a cross inside above a short olive-coloured line.",
+   "subjects": [
+    "tet pictograph",
+    "coiled serpent",
+    "paleo-Hebrew",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.41,
+    0.45,
+    0.47,
+    0.56
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph for nun: a snake-like, sprouting curve rising from a green horizontal line.",
+   "subjects": [
+    "nun pictograph",
+    "fish",
+    "seed",
+    "paleo-Hebrew",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.39,
+    0.62,
+    0.47,
+    0.72
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Satan"
+  ],
+  "places": [],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [
+   "serpent"
+  ],
+  "themes": [
+   "gematria",
+   "Hebrew letter meanings",
+   "death",
+   "sin"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Satan",
+  "satan Hebrew",
+  "שטן",
+  "gematria 359",
+  "359",
+  "shin tet nun",
+  "shin 300",
+  "tet 9",
+  "nun 50",
+  "coiled serpent",
+  "teeth destruction",
+  "sperm fish life",
+  "pictographs",
+  "paleo-Hebrew",
+  "Hebrew letter meanings"
+ ],
+ "uncertain": [
+  "Nun is shown in its final form ן with value 50; the number order 50 + 9 + 300 follows the slide (nun, tet, shin shown left to right)."
+ ],
+ "confidence": 0.94
+}

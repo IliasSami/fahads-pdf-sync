@@ -1,0 +1,27 @@
+{
+  "id": "fall-of-man/40",
+  "kinds": ["word-study", "comparison"],
+  "title": "Skin (עור) and Light (אור) — both pronounced “ore”",
+  "summary": "Compares two Hebrew words that sound alike, “ore”: עור (skin) and אור (light). They share the last two letters (vav, resh) and differ only in the first letter — ayin in skin, alef in light.",
+  "text": [
+    {"lang": "translit", "role": "label", "text": "ore"},
+    {"lang": "he", "role": "label", "text": "עור"},
+    {"lang": "en", "role": "label", "text": "Skin"},
+    {"lang": "translit", "role": "label", "text": "ore"},
+    {"lang": "he", "role": "label", "text": "אור"},
+    {"lang": "en", "role": "label", "text": "Light"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "עור", "translit": "ore", "gloss": "skin", "strongs": "H5785"},
+    {"lang": "he", "word": "אור", "translit": "ore", "gloss": "light", "strongs": "H216"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": ["Fall of Man"], "things": ["skin", "light"], "themes": ["light and darkness", "covering", "Hebrew wordplay"], "groups": []},
+  "keywords": ["skin and light", "garments of skin", "garments of light", "coats of skins", "homophones", "sound alike", "ore", "or", "ohr", "ayin", "alef", "aleph", "Hebrew wordplay", "Genesis 3:21", "Genesis 1:3"],
+  "uncertain": [],
+  "confidence": 0.93
+}

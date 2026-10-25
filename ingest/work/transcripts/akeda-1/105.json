@@ -1,0 +1,29 @@
+{
+  "id": "akeda-1/105",
+  "kinds": ["verse"],
+  "title": "John 15:12-15 — no longer servants but friends",
+  "summary": "John 15:12-15: Jesus commands His disciples to love one another, says there is no greater love than laying down one's life for one's friends, and calls them friends rather than servants. The word 'friends' is highlighted yellow, 'servant(s)' red, and 'yeshua' is written in large red italics at the end.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "John 15:12-15", "osis": ["John.15.12", "John.15.13", "John.15.14", "John.15.15"]},
+    {"lang": "el", "role": "reference", "text": "Ἰωάνης 15:12-15", "osis": ["John.15.12", "John.15.13", "John.15.14", "John.15.15"]},
+    {"lang": "en", "role": "verse", "osis": "John.15.12", "text": "12 “This is My commandment, that you love one another, just as I have loved you."},
+    {"lang": "en", "role": "verse", "osis": "John.15.13", "text": "13 “Greater love has no one than this, that one lay down his life for his friends."},
+    {"lang": "en", "role": "verse", "osis": "John.15.14", "text": "14 “You are My friends if you do what I command you."},
+    {"lang": "en", "role": "verse", "osis": "John.15.15", "text": "15 “No longer do I call you servants, for the servant does not know what his master is doing; but I have called you friends, for all things that I have heard from My Father I have made known to you.”—"},
+    {"lang": "translit", "role": "label", "text": "yeshua"}
+  ],
+  "refs": [{"shown": "John 15:12-15 / Ἰωάνης 15:12-15", "osis": ["John.15.12", "John.15.13", "John.15.14", "John.15.15"], "role": "quoted"}],
+  "words": [
+    {"lang": "en", "word": "yeshua", "translit": "yeshua", "gloss": "Jesus (Hebrew name), signing the quoted words", "strongs": "H3442"},
+    {"lang": "en", "word": "friends", "translit": "philoi", "gloss": "friends", "strongs": "G5384"},
+    {"lang": "en", "word": "servants", "translit": "douloi", "gloss": "servants (slaves)", "strongs": "G1401"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Jesus", "God"], "places": [], "events": [], "things": [], "themes": ["love", "friendship with God", "obedience", "substitution", "sacrifice"], "groups": ["disciples"]},
+  "keywords": ["John 15:12-15", "John 15", "greater love has no man than this", "lay down his life for his friends", "no longer servants but friends", "I have called you friends", "love one another", "Yeshua", "Jesus friends", "commandment to love", "friend of God", "Akedah", "Akeda"],
+  "uncertain": [],
+  "confidence": 0.97
+}

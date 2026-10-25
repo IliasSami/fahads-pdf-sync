@@ -1,0 +1,23 @@
+{
+  "id": "akeda-2/47",
+  "kinds": ["verse"],
+  "title": "Genesis 23:5-7 — the sons of Heth call Abraham a mighty prince",
+  "summary": "Genesis 23:5-7: the sons of Heth tell Abraham he is a mighty prince among them and offer him the choicest of their graves; Abraham bows to the people of the land.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 23", "osis": ["Gen.23.5", "Gen.23.6", "Gen.23.7"]},
+    {"lang": "he", "role": "reference", "text": "בראשית כג", "osis": ["Gen.23.5", "Gen.23.6", "Gen.23.7"]},
+    {"lang": "en", "role": "verse", "text": "5 The sons of Heth answered Abraham, saying to him,", "osis": "Gen.23.5"},
+    {"lang": "en", "role": "verse", "text": "6 “Hear us, my lord, you are a mighty prince among us; bury your dead in the choicest of our graves; none of us will refuse you his grave for burying your dead.”", "osis": "Gen.23.6"},
+    {"lang": "en", "role": "verse", "text": "7 So Abraham rose and bowed to the people of the land, the sons of Heth.", "osis": "Gen.23.7"}
+  ],
+  "refs": [{"shown": "Genesis 23 / בראשית כג", "osis": ["Gen.23.5", "Gen.23.6", "Gen.23.7"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Sarah"], "places": ["Hebron", "Canaan"], "events": ["Death of Sarah"], "things": ["grave"], "themes": ["death", "burial"], "groups": ["sons of Heth (Hittites)"]},
+  "keywords": ["mighty prince", "prince of God", "sons of Heth", "Hittites", "choicest of our graves", "choice of our sepulchres", "burial of Sarah", "Abraham bowed", "people of the land", "Genesis 23"],
+  "uncertain": [],
+  "confidence": 0.96
+}

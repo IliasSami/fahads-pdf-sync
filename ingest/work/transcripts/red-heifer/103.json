@@ -1,0 +1,123 @@
+{
+ "id": "red-heifer/103",
+ "kinds": [
+  "picture"
+ ],
+ "title": "Screenshot of the Temple Institute website, Red Heifer Update",
+ "summary": "Screenshot of a web browser showing templeinstitute.org, the Temple Institute of Jerusalem home page, with a photo of a brown calf headed RED HEIFER UPDATE in stencil lettering. The Windows taskbar shows 8:40 AM, 7/12/2022, 79°F Partly sunny.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "The Temple Institute of Jerusalen"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "templeinstitute.org"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "TEMPLE INSTITUTE"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "HOME   ABOUT US   STUDY TOOLS   VISITOR'S CENTER   DONATE"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "RED HEIFER UPDATE"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Desktop   79°F Partly sunny   ENG   8:40 AM   7/12/2022"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "screenshot",
+   "description": "Full browser window (Chrome on Windows) showing the Temple Institute website at templeinstitute.org with a gold navigation bar, and the Windows taskbar along the bottom with weather and clock.",
+   "subjects": [
+    "screenshot",
+    "web browser",
+    "Temple Institute",
+    "templeinstitute.org",
+    "website",
+    "Windows taskbar",
+    "Chrome"
+   ],
+   "text_in_picture": "The Temple Institute of Jerusalen; templeinstitute.org; TEMPLE INSTITUTE; HOME; ABOUT US; STUDY TOOLS; VISITOR'S CENTER; DONATE; 79°F Partly sunny; ENG; 8:40 AM 7/12/2022",
+   "credit": null,
+   "box": [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "type": "photo",
+   "description": "Close-up photo of a reddish-brown calf looking straight at the camera, with a dark brown animal behind it and grass below. Large red stencil letters read RED HEIFER at the top and UPDATE at the bottom.",
+   "subjects": [
+    "red heifer",
+    "calf",
+    "cow",
+    "reddish-brown cattle",
+    "red stencil lettering",
+    "update banner"
+   ],
+   "text_in_picture": "RED HEIFER UPDATE",
+   "credit": null,
+   "box": [
+    0.28,
+    0.19,
+    0.71,
+    0.94
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [
+   "Jerusalem"
+  ],
+  "events": [],
+  "things": [
+   "red heifer",
+   "website"
+  ],
+  "themes": [
+   "temple",
+   "purification"
+  ],
+  "groups": [
+   "Temple Institute"
+  ]
+ },
+ "keywords": [
+  "Temple Institute",
+  "templeinstitute.org",
+  "Red Heifer Update",
+  "red heifer photo",
+  "calf",
+  "website screenshot",
+  "Temple Institute of Jerusalem",
+  "red cow",
+  "parah adumah",
+  "2022",
+  "browser screenshot"
+ ],
+ "uncertain": [
+  "tab title is cut off after 'Jerusalen'"
+ ],
+ "confidence": 0.95
+}

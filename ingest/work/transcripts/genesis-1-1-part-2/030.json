@@ -1,0 +1,200 @@
+{
+ "id": "genesis-1-1-part-2/30",
+ "kinds": [
+  "gematria",
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:1: first and last letter place values of the seven words add to 133 = 7 x 19",
+ "summary": "Genesis 1:1 with each of the seven Hebrew words colour-coded and its first and last letters given their place value in the alphabet (e.g. 22 and 2 for בראשית). The fourteen numbers are added: 18+5+22+6+13+5+22+1+13+1+1+2+22+2 = 133, which equals 7 x 19.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "In the beginning God created the heavens and the earth."
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "In beginning | created | God | (et) | the skywaters | and (et) | the earth"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "2 22 | 2 1 | 1 13 | 1 22 | 5 13 | 6 22 | 5 18"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Place Values of the 1st & Last Letters of all 7 Words."
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "18 + 5 + 22 + 6 + 13 + 5 + 22 + 1 + 13 + 1 + 1 + 2 + 22 + 2"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 133 = 7 x 19"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(untranslated object marker)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the skywaters (the heavens)",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "v’et",
+   "gloss": "and (et)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha’aretz",
+   "gloss": "the earth",
+   "strongs": "H776"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "(et)",
+   "other": "את"
+  },
+  {
+   "en": "the skywaters",
+   "other": "השמים"
+  },
+  {
+   "en": "and (et)",
+   "other": "ואת"
+  },
+  {
+   "en": "the earth",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 133,
+   "note": "sum of the place values of the first and last letters of all seven words of Genesis 1:1"
+  },
+  {
+   "value": 7,
+   "note": "number of words in Genesis 1:1; 133 = 7 x 19"
+  },
+  {
+   "value": 19,
+   "note": "133 = 7 x 19"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "creation",
+   "Hebrew word study"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "gematria",
+  "place values",
+  "first and last letters",
+  "133",
+  "7 x 19",
+  "seven words",
+  "Bereshit",
+  "Bible numerics",
+  "alphabet position",
+  "In the beginning",
+  "skywaters",
+  "et",
+  "Hebrew numbers"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

@@ -1,0 +1,104 @@
+{
+ "id": "genesis-1-1-part-1/91",
+ "kinds": [
+  "gematria",
+  "diagram"
+ ],
+ "title": "Gematria of the odd words 1690 = 10 x 169: ten hexagons of stars",
+ "summary": "Title slide \"Genesis 1:1 Gematria of the Odd Words\" with 1690 = 10 x 169, surrounded by ten hexagon-shaped clusters of small black stars arranged in three columns (four, two and four).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "GENESIS 1:1 GEMATRIA of the ODD WORDS"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1690"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "10 x 169"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "GENESIS 1:1",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1690,
+   "note": "gematria total of the odd words of Genesis 1:1"
+  },
+  {
+   "value": 10,
+   "note": "1690 = 10 x 169 (ten hexagons)"
+  },
+  {
+   "value": 169,
+   "note": "1690 = 10 x 169"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "Ten hexagon-shaped clusters of tiny black Star of David symbols: four stacked in a left column, two in the middle column below the title, and four in a right column.",
+   "subjects": [
+    "Star of David",
+    "hexagons",
+    "black stars",
+    "dot pattern",
+    "ten hexagons"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.22,
+    0.04,
+    0.8,
+    0.91
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "Star of David"
+  ],
+  "themes": [
+   "gematria",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "odd words",
+  "1690",
+  "10 x 169",
+  "169",
+  "ten hexagons",
+  "hexagon pattern",
+  "gematria of Genesis 1:1",
+  "star pattern",
+  "Bible numerics"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

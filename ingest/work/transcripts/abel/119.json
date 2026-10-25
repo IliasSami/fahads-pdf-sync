@@ -1,0 +1,42 @@
+{
+  "id": "abel/119",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:14 — “and from your face” (v’mipaneka, ומפניך)",
+  "summary": "Genesis 4:14 in English and Hebrew with “and from your face” colour-coded word by word to ומפניך (v’mipaneka): “and” (ו) in orange, “from” (מ) in light blue, “face” (פנ) in purple/green, and “your” (ך) in black.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:14", "osis": "Gen.4.14"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:יד"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.14", "text": "14 Surely You have driven me out this day from the face of the ground; and from your face I shall be hidden; and I shall be a fugitive and a vagabond on the earth, and it will happen that anyone who finds me will kill me.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.14", "text": "14 הן גרשת אתי היום מעל פני האדמה ומפניך אסתר והייתי נע ונד בארץ והיה כל מצאי יהרגני׃"},
+    {"lang": "translit", "role": "label", "text": "v’mipaneka"},
+    {"lang": "he", "role": "label", "text": "ומפניך"},
+    {"lang": "en", "role": "label", "text": "And from your face"}
+  ],
+  "refs": [{"shown": "Genesis 4:14 / בראשית ד:יד", "osis": ["Gen.4.14"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "ומפניך", "translit": "v’mipaneka", "gloss": "and from your face", "strongs": "H6440"}
+  ],
+  "color_links": [
+    {"en": "and", "other": "ו"},
+    {"en": "from", "other": "מ"},
+    {"en": "face", "other": "פני"},
+    {"en": "your", "other": "ך"},
+    {"en": "And", "other": "ו"},
+    {"en": "from", "other": "מ"},
+    {"en": "face", "other": "פני"},
+    {"en": "v (v’mipaneka)", "other": "ו"},
+    {"en": "mi (v’mipaneka)", "other": "מ"},
+    {"en": "ka (v’mipaneka)", "other": "ך"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "vav", "char": "ו", "value": 6, "meaning": "“and” (prefix)"},
+    {"lang": "he", "letter": "mem", "char": "מ", "value": 40, "meaning": "“from” (prefix)"},
+    {"lang": "he", "letter": "kaf (final)", "char": "ך", "value": 20, "meaning": "“your” (pronoun ending)"}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain"], "places": [], "events": ["Cain's punishment"], "things": ["ground"], "themes": ["judgment", "exile", "wandering", "death"], "groups": []},
+  "keywords": ["and from your face", "from thy face", "face", "panim", "mipaneka", "v'mipaneka", "your face", "hidden from God's face", "Hebrew word for face", "Cain's punishment", "Cain and Abel", "Genesis 4", "Genesis 4:14"],
+  "uncertain": ["The letter-by-letter colouring of the middle letters (פ purple, נ green, י dark red) does not map cleanly onto the English words; “face” is shown in purple and linked to פני as a whole."],
+  "confidence": 0.9
+}

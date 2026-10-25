@@ -1,0 +1,147 @@
+{
+ "id": "genesis-1-1-part-1/114",
+ "kinds": [
+  "letters",
+  "text"
+ ],
+ "title": "First and last letters of the Bible spell ben, \"Son\" — To God be the Glory!",
+ "summary": "The first letter of the Bible (Hebrew bet, ב) and the last letter (Greek nu, ν, like Hebrew final nun ן) spell ben (בן), meaning Son, ending with \"To God be the Glory!\". A blue alef and a dark-red tav are shown above the heading.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The First and Last letters of the Bible spell:"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב"
+  },
+  {
+   "lang": "el",
+   "role": "label",
+   "text": "ν"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בן"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ben"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Son"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "To God be the Glory!"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בן",
+   "translit": "ben",
+   "gloss": "Son",
+   "strongs": "H1121"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "ben",
+   "other": "בן"
+  },
+  {
+   "en": "Son",
+   "other": "בן"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": null,
+   "meaning": "first letter of the Bible"
+  },
+  {
+   "lang": "el",
+   "letter": "nu",
+   "char": "ν",
+   "value": null,
+   "meaning": "last letter of the Bible; sounds as N, like Hebrew nun"
+  },
+  {
+   "lang": "he",
+   "letter": "nun (final)",
+   "char": "ן",
+   "value": null,
+   "meaning": "final nun, in בן"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": null,
+   "meaning": "shown above the word First (blue), unexplained"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": null,
+   "meaning": "shown above the word Last (dark red), unexplained"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "glory of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "ben",
+  "son",
+  "Son of God",
+  "first and last letters of the Bible",
+  "bet and nu",
+  "בן",
+  "to God be the glory",
+  "Genesis to Revelation",
+  "Hebrew ben",
+  "alef tav",
+  "Old Testament and New Testament",
+  "glory"
+ ],
+ "uncertain": [
+  "The blue alef (א) and dark-red tav (ת) above the heading are not explained on the slide; the small red cross and blue Star of David under the letters are decoration (NT/OT markers)."
+ ],
+ "confidence": 0.88
+}

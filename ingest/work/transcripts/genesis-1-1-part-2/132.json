@@ -1,0 +1,83 @@
+{
+ "id": "genesis-1-1-part-2/132",
+ "kinds": [
+  "gematria"
+ ],
+ "title": "GOD in English letter numbers: 4 + 7 + 15 = 26",
+ "summary": "Spells G O D, then shows the English alphabet A to Z with D, G and O highlighted and their alphabet positions added: 4 + 7 + 15 = 26.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "G O D"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "4 + 7 + 15 = 26"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "en",
+   "word": "GOD",
+   "translit": "",
+   "gloss": "God",
+   "strongs": null,
+   "gematria": {
+    "method": "ordinal",
+    "values": [
+     7,
+     15,
+     4
+    ],
+    "total": 26
+   }
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 26,
+   "note": "G (7) + O (15) + D (4) in the English alphabet; same number as yahweh (יהוה) on the previous slide"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "GOD 26",
+  "English gematria",
+  "alphabet numbers",
+  "G 7",
+  "O 15",
+  "D 4",
+  "26",
+  "ordinal value",
+  "God equals 26",
+  "YHWH 26",
+  "A to Z"
+ ],
+ "uncertain": [
+  "Slide shows the sum as 4 + 7 + 15 (D, G, O order); the three letters appear in the word as G O D (7, 15, 4)."
+ ],
+ "confidence": 0.95
+}

@@ -1,0 +1,101 @@
+{
+ "id": "noah-part-2/40",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 7:23-24 — only Noah left; the water prevailed 150 days (5 Hebrew months)",
+ "summary": "Genesis 7:23-24 in English: God blotted out every living thing and only Noah and those in the ark remained; the water prevailed 150 days, marked with an asterisk and the note '5 Hebrew Months'. In the text, 'No' of Noah is green and 'ar' of ark is red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 7:23-24",
+   "osis": [
+    "Gen.7.23",
+    "Gen.7.24"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ז:כג-כד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.23",
+   "text": "23 Thus He blotted out every living thing that was upon the face of the land, from man to animals to creeping things and to birds of the sky, and they were blotted out from the earth; and only Noah was left, together with those that were with him in the ark."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.24",
+   "text": "24 The water prevailed upon the earth 150 days*."
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "*5 Hebrew Months"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 7:23-24 / בראשית ז:כג-כד",
+   "osis": [
+    "Gen.7.23",
+    "Gen.7.24"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 150,
+   "note": "days the water prevailed on the earth"
+  },
+  {
+   "value": 5,
+   "note": "Hebrew months (equal to the 150 days)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "judgment",
+   "Hebrew calendar"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 7",
+  "Noah's flood",
+  "only Noah left",
+  "blotted out every living thing",
+  "150 days",
+  "five months",
+  "5 Hebrew months",
+  "water prevailed",
+  "ark",
+  "Noah",
+  "flood timeline",
+  "Hebrew calendar"
+ ],
+ "uncertain": [
+  "Purpose of the green 'No' in Noah and red 'ar' in ark is not stated on the slide"
+ ],
+ "confidence": 0.96
+}

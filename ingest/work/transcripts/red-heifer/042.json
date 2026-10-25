@@ -1,0 +1,117 @@
+{
+ "id": "red-heifer/42",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "1 Peter 1:18-19 — the precious blood of Christ, a lamb unblemished and spotless",
+ "summary": "1 Peter 1:18-19 in English with key words coloured: silver, gold, blood, lamb, unblemished, spotless, Christ. The text says believers were redeemed not with silver or gold but with the precious blood of Christ, a lamb unblemished and spotless. The slide adds that the Messiah was a Lamb without blemish and without spot (ἀμώμου, amomos).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Peter 1:18-19",
+   "osis": [
+    "1Pet.1.18",
+    "1Pet.1.19"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΠΕΤΡΟΥ Α 1:18-19"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "1Pet.1.18",
+   "text": "18 knowing that you were not redeemed with perishable things like silver or gold from your futile way of life inherited from your forefathers,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "1Pet.1.19",
+   "text": "19 but with precious blood, as of a lamb unblemished and spotless, the blood of Christ."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The Messiah was a Lamb without blemish and without spot (ἀμώμου, amomos.)"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Peter 1:18-19 / ΠΕΤΡΟΥ Α 1:18-19",
+   "osis": [
+    "1Pet.1.18",
+    "1Pet.1.19"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "el",
+   "word": "ἀμώμου",
+   "translit": "amomos",
+   "gloss": "without blemish, without spot",
+   "strongs": "G299",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "without blemish and without spot",
+   "other": "ἀμώμου"
+  },
+  {
+   "en": "amomos",
+   "other": "ἀμώμου"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Crucifixion"
+  ],
+  "things": [
+   "lamb",
+   "blood",
+   "silver",
+   "gold"
+  ],
+  "themes": [
+   "redemption",
+   "blood",
+   "sacrifice",
+   "without blemish",
+   "typology",
+   "atonement"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "1 Peter 1",
+  "1 Peter 1:19",
+  "lamb without blemish",
+  "lamb without spot",
+  "unblemished and spotless",
+  "precious blood of Christ",
+  "redeemed not with silver or gold",
+  "amomos",
+  "amomos Greek",
+  "perishable things",
+  "futile way of life",
+  "Messiah was a lamb",
+  "red heifer",
+  "without spot"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

@@ -1,0 +1,140 @@
+{
+ "id": "noah-part-1/55",
+ "kinds": [
+  "word-study",
+  "list"
+ ],
+ "title": "Kopher as 'village': Cana (kfar cana) and Capernaum (kfar nahum)",
+ "summary": "Kopher (כפר) meaning village, with two place names that begin with it: Kfar Cana (Village of Cana, כפר קנה) and Kfar Nahum (Village of Nahum, Capernaum, כפר נחום).",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kopher"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כפר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Village"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Village of Cana"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kfar cana"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כפר קנה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Cana"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Village of Nahum"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kfar nahum"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כפר נחום"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Capernaum"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "כפר",
+   "translit": "kopher",
+   "gloss": "village",
+   "strongs": "H3724",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "כפר קנה",
+   "translit": "kfar cana",
+   "gloss": "village of Cana",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "כפר נחום",
+   "translit": "kfar nahum",
+   "gloss": "village of Nahum (Capernaum)",
+   "strongs": null,
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Village",
+   "other": "כפר"
+  },
+  {
+   "en": "Village of Cana",
+   "other": "כפר קנה"
+  },
+  {
+   "en": "Village of Nahum",
+   "other": "כפר נחום"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Cana",
+   "Capernaum"
+  ],
+  "events": [],
+  "things": [
+   "village"
+  ],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "kopher",
+  "kfar",
+  "kfar nahum",
+  "kfar cana",
+  "Capernaum",
+  "Cana",
+  "village",
+  "Village of Nahum",
+  "Kfar Nahum",
+  "Hebrew place names",
+  "Galilee"
+ ],
+ "uncertain": [
+  "Only the כפר part of each Hebrew phrase is in colour; the matching of whole phrases to the English headings is inferred from layout."
+ ],
+ "confidence": 0.95
+}

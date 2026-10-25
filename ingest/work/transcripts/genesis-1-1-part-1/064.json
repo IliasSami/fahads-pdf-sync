@@ -1,0 +1,217 @@
+{
+ "id": "genesis-1-1-part-1/64",
+ "kinds": [
+  "word-study",
+  "list"
+ ],
+ "title": "Earth, Water, Sky, Fire hidden in the Hebrew of Genesis 1:1",
+ "summary": "Heads the slide with four elements — Earth, Water, Sky, Fire — and uses coloured arrows from the Hebrew of Genesis 1:1 to pull out the words ארץ (aretz, earth) from הארץ, מים (mayim, water) and שמים (hashamayim, sky) from השמים, and אש (aish, fire) from בראשית.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Earth"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Water"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Sky"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Fire"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ארץ"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מים"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שמים"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אש"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Earth"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Water"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Sky"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Fire"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "aretz"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "mayim"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hashamayim"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "aish"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "בראשית ברא אלהים את השמים ואת הארץ",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ארץ",
+   "translit": "aretz",
+   "gloss": "earth",
+   "strongs": "H776",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "מים",
+   "translit": "mayim",
+   "gloss": "water",
+   "strongs": "H4325",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "שמים",
+   "translit": "hashamayim",
+   "gloss": "sky / heavens",
+   "strongs": "H8064",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אש",
+   "translit": "aish",
+   "gloss": "fire",
+   "strongs": "H784",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Earth",
+   "other": "ארץ"
+  },
+  {
+   "en": "Water",
+   "other": "מים"
+  },
+  {
+   "en": "Sky",
+   "other": "שמים"
+  },
+  {
+   "en": "Fire",
+   "other": "אש"
+  },
+  {
+   "en": "aretz",
+   "other": "ארץ"
+  },
+  {
+   "en": "mayim",
+   "other": "מים"
+  },
+  {
+   "en": "hashamayim",
+   "other": "שמים"
+  },
+  {
+   "en": "aish",
+   "other": "אש"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "earth",
+   "water",
+   "sky",
+   "fire"
+  ],
+  "themes": [
+   "creation",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "four elements",
+  "earth water sky fire",
+  "aretz",
+  "mayim",
+  "shamayim",
+  "hashamayim",
+  "aish",
+  "esh",
+  "fire",
+  "water",
+  "sky",
+  "heavens",
+  "words hidden in words",
+  "hidden words in Genesis 1:1",
+  "בראשית"
+ ],
+ "uncertain": [
+  "Exact number of each set of arrows (3 purple under הארץ, 2 red under בראשית, about 7 blue under השמים) is approximate"
+ ],
+ "confidence": 0.9
+}

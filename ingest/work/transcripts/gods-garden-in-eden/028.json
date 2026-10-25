@@ -1,0 +1,190 @@
+{
+ "id": "gods-garden-in-eden/28",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Hidden letters in Genesis 2:9-12: grape, date, nut",
+ "summary": "Three Hebrew excerpts from Genesis 2:9-12, each with a few large coloured letters that spell a fruit word with a number beside it: Grape ענב (-6), Date תמר (+5) and Nut בטן (+13). Highlighted letters are ב, ן, ע in the grape lines; ת, מ, ר in the date lines; and ב, ט, ן in the nut lines.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Grape"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ענב"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "-6"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.9",
+   "text": "9 ויצמח יהוה אלהים מן־האדמה כל־עץ נחמד למראה וטוב למאכל ועץ החיים בתוך הגן ועץ הדעת טוב ורע׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Date"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תמר"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "+5"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.10",
+   "text": "10 ונהר יצא מעדן להשקות את־הגן ומשם יפרד והיה לארבעה ראשים׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Nut"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בטן"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "+13"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": [
+    "Gen.2.11",
+    "Gen.2.12"
+   ],
+   "text": "11 שם האחד פישון הוא הסבב את כל־ארץ החוילה אשר־שם הזהב׃ 12 וזהב הארץ ההוא טוב שם הבדלח ואבן השהם׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:9-12 (Hebrew text)",
+   "osis": [
+    "Gen.2.9",
+    "Gen.2.10",
+    "Gen.2.11",
+    "Gen.2.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ענב",
+   "translit": "enav",
+   "gloss": "grape",
+   "strongs": "H6025",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "תמר",
+   "translit": "tamar",
+   "gloss": "date (date palm)",
+   "strongs": "H8558",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "בטן",
+   "translit": "boten",
+   "gloss": "nut (pistachio)",
+   "strongs": "H992",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Grape",
+   "other": "ענב"
+  },
+  {
+   "en": "Date",
+   "other": "תמר"
+  },
+  {
+   "en": "Nut",
+   "other": "בטן"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": -6,
+   "note": "-6, number shown beside ענב (grape)"
+  },
+  {
+   "value": 5,
+   "note": "+5, number shown beside תמר (date)"
+  },
+  {
+   "value": 13,
+   "note": "+13, number shown beside בטן (nut)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [
+   "Garden of Eden",
+   "Pishon",
+   "Havilah"
+  ],
+  "events": [],
+  "things": [
+   "grape",
+   "date",
+   "nut",
+   "river",
+   "gold",
+   "bdellium",
+   "onyx stone"
+  ],
+  "themes": [
+   "Bible codes",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "hidden letters",
+  "Bible code",
+  "ELS",
+  "grape in Hebrew",
+  "date palm in Hebrew",
+  "tamar",
+  "nut in Hebrew",
+  "trees of Eden",
+  "Genesis 2:9",
+  "Genesis 2:10",
+  "Genesis 2:11",
+  "Genesis 2:12",
+  "river out of Eden",
+  "Pison",
+  "Havilah gold",
+  "skip number"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

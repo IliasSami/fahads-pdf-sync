@@ -1,0 +1,230 @@
+{
+ "id": "genesis-1-1-part-1/70",
+ "kinds": [
+  "verse",
+  "word-study",
+  "timeline"
+ ],
+ "title": "Psalm 90:4 and the seven words of Genesis 1:1, each 1000 years",
+ "summary": "Quotes Psalm 90:4 ('a thousand years in Your sight are like yesterday') in English and Hebrew, then lays out the seven Hebrew words of Genesis 1:1 with English glosses and transliteration, numbered 1st to 7th, with every word labelled 1000yrs.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 90:4",
+   "osis": "Ps.90.4"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים צ:ד",
+   "osis": "Ps.90.4"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "For a thousand years in Your sight Are like yesterday when it passes by, Or as a watch in the night.",
+   "osis": "Ps.90.4"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "כי אלף שנים בעיניך כיום אתמול כי יעבר ואשמורה בלילה׃",
+   "osis": "Ps.90.4"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "translit",
+   "role": "reference",
+   "text": "Bereshit 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "In beginning · created · God · (et) · the skywaters · and (et) · the land"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bereshit · bara · elohim · et · hashamayim · ve’et · ha’aretz"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1st · 2nd · 3rd · 4th · 5th · 6th · 7th"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1000yrs · 1000yrs · 1000yrs · 1000yrs · 1000yrs · 1000yrs · 1000yrs"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 90:4 / תהילים צ:ד",
+   "osis": [
+    "Ps.90.4"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 1:1 / Bereshit 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(et), untranslated object-marking word",
+   "strongs": "H853",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the skywaters",
+   "strongs": "H8064",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve'et",
+   "gloss": "and (et)",
+   "strongs": "H853",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the land",
+   "strongs": "H776",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "(et)",
+   "other": "את"
+  },
+  {
+   "en": "the skywaters",
+   "other": "השמים"
+  },
+  {
+   "en": "and (et)",
+   "other": "ואת"
+  },
+  {
+   "en": "the land",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1000,
+   "note": "each of the seven words of Genesis 1:1 is labelled 1000yrs (Psalm 90:4: a thousand years)"
+  },
+  {
+   "value": 7,
+   "note": "seven Hebrew words, numbered 1st to 7th"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "prophecy",
+   "biblical timeline"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Psalm 90:4",
+  "a thousand years",
+  "a thousand years like a day",
+  "yesterday when it is past",
+  "watch in the night",
+  "Genesis 1:1",
+  "seven words",
+  "1000 years",
+  "seven thousand years",
+  "bereshit",
+  "skywaters",
+  "thousand year days",
+  "time",
+  "millennium"
+ ],
+ "uncertain": [],
+ "confidence": 0.94
+}

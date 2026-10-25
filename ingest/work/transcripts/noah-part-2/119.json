@@ -1,0 +1,71 @@
+{
+ "id": "noah-part-2/119",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Matthew 24:30: it will be the same on the day the Son of Man is revealed",
+ "summary": "Matthew 24:30 header (English and Greek) with verse 30: it will be just the same on the day that the Son of Man is revealed.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Matthew 24:30",
+   "osis": "Matt.24.30"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Μαθθαῖον 24:30"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "30 “It will be just the same on the day that the Son of Man is revealed.",
+   "osis": "Matt.24.30"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Matthew 24:30 / Μαθθαῖον 24:30",
+   "osis": [
+    "Matt.24.30"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Second Coming"
+  ],
+  "things": [],
+  "themes": [
+   "judgment",
+   "prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Son of Man is revealed",
+  "day the Son of Man is revealed",
+  "just the same",
+  "Matthew 24:30",
+  "Luke 17:30",
+  "second coming",
+  "end times",
+  "days of Noah",
+  "revealed"
+ ],
+ "uncertain": [
+  "The header reads Matthew 24:30, but the wording matches the verse normally numbered Luke 17:30; transcribed as shown."
+ ],
+ "confidence": 0.95
+}

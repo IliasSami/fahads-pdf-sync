@@ -1,0 +1,171 @@
+{
+ "id": "genesis-1-1-part-2/97",
+ "kinds": [
+  "word-study",
+  "gematria",
+  "diagram"
+ ],
+ "title": "Israel (ישראל) = 541, shown with the 541-object Star of David",
+ "summary": "The name Israel in English and Hebrew with matching colours for each letter and the letter values 30, 1, 200, 300, 10 adding up to 541 (in blue). Underneath is a large blue six-pointed Star of David made of tiny stars.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Israel"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ישראל"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "30 1 200 300 10 = 541"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ישראל",
+   "translit": "yisrael",
+   "gloss": "Israel",
+   "strongs": "H3478",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     30,
+     1,
+     200,
+     300,
+     10
+    ],
+    "total": 541
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "I",
+   "other": "י"
+  },
+  {
+   "en": "s",
+   "other": "ש"
+  },
+  {
+   "en": "ra",
+   "other": "ר"
+  },
+  {
+   "en": "e",
+   "other": "א"
+  },
+  {
+   "en": "l",
+   "other": "ל"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 541,
+   "note": "gematria of ישראל (Israel); also the size of the largest Star of David on the previous slide"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A large light-blue six-pointed Star of David made of hundreds of tiny six-pointed stars arranged in rows.",
+   "subjects": [
+    "Star of David",
+    "hexagram",
+    "blue stars",
+    "dot pattern",
+    "541",
+    "Israel"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.32,
+    0.27,
+    0.68,
+    0.98
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [
+   "Israel"
+  ],
+  "events": [],
+  "things": [
+   "Star of David"
+  ],
+  "themes": [
+   "gematria",
+   "numbers in Scripture",
+   "Hebrew letter meanings"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Israel",
+  "yisrael",
+  "ישראל",
+  "541",
+  "gematria of Israel",
+  "Star of David",
+  "mogen david",
+  "hexagram",
+  "Hebrew name",
+  "30 1 200 300 10",
+  "blue star",
+  "number 541"
+ ],
+ "uncertain": [
+  "Slide shows the letter values but no letter names or meanings; letter names were supplied by the transcriber."
+ ],
+ "confidence": 0.95
+}

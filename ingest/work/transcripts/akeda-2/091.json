@@ -1,0 +1,24 @@
+{
+  "id": "akeda-2/91",
+  "kinds": ["verse"],
+  "title": "Genesis 24:60-61: the blessing on Rebekah — 'thousands of ten thousands'",
+  "summary": "Genesis 24:60-61 in English: Rebekah's family blesses her that she may become thousands of ten thousands and that her descendants possess the gate of those who hate them; she and her maids mount the camels and the servant takes her away. The blessing is shown in large type, 'servant' is highlighted in gold and 'camels' is underlined.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 24", "osis": "Gen.24.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית כד", "osis": "Gen.24.1"},
+    {"lang": "en", "role": "verse", "text": "60 They blessed Rebekah and said to her, “May you, our sister, Become thousands of ten thousands, And may your descendants possess The gate of those who hate them.”", "osis": "Gen.24.60"},
+    {"lang": "en", "role": "verse", "text": "61 Then Rebekah arose with her maids, and they mounted the camels and followed the man. So the servant took Rebekah and departed.", "osis": "Gen.24.61"}
+  ],
+  "refs": [
+    {"shown": "Genesis 24 / בראשית כד", "osis": ["Gen.24.60", "Gen.24.61"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Rebekah", "Eliezer"], "places": [], "events": ["Finding a bride for Isaac"], "things": ["camels"], "themes": ["blessing", "seed", "marriage"], "groups": []},
+  "keywords": ["blessing of Rebekah", "thousands of millions", "thousands of ten thousands", "possess the gate of those which hate them", "gate of their enemies", "descendants", "seed", "Rebecca", "camels", "bride for Isaac", "Genesis 24", "Genesis 22:17"],
+  "uncertain": [],
+  "confidence": 0.95
+}

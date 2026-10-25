@@ -1,0 +1,239 @@
+{
+ "id": "elijah-elisha/72",
+ "kinds": [
+  "title",
+  "word-study"
+ ],
+ "title": "Ahab split into ab and ach (אב אח)",
+ "summary": "Same slide on 1 Kings 18:1-16 with a new line under ahab: the Hebrew name אחאב is split into אב (ab) and אח (ach), in matching colours, next to Obadiah's split into yah and obed with yahweh and Servant.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 18:1-16",
+   "osis": [
+    "1Kgs.18.1",
+    "1Kgs.18.2",
+    "1Kgs.18.3",
+    "1Kgs.18.4",
+    "1Kgs.18.5",
+    "1Kgs.18.6",
+    "1Kgs.18.7",
+    "1Kgs.18.8",
+    "1Kgs.18.9",
+    "1Kgs.18.10",
+    "1Kgs.18.11",
+    "1Kgs.18.12",
+    "1Kgs.18.13",
+    "1Kgs.18.14",
+    "1Kgs.18.15",
+    "1Kgs.18.16"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א יח:א-יו"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "King Ahab and Obadiah search for Elijah"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ahab"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אחאב"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "obadiah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "עבדיה"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אב אח"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ab ach"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "עבד יה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yah obed"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Servant"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 18:1-16 / מלכים א יח:א-יו",
+   "osis": [
+    "1Kgs.18.1",
+    "1Kgs.18.2",
+    "1Kgs.18.3",
+    "1Kgs.18.4",
+    "1Kgs.18.5",
+    "1Kgs.18.6",
+    "1Kgs.18.7",
+    "1Kgs.18.8",
+    "1Kgs.18.9",
+    "1Kgs.18.10",
+    "1Kgs.18.11",
+    "1Kgs.18.12",
+    "1Kgs.18.13",
+    "1Kgs.18.14",
+    "1Kgs.18.15",
+    "1Kgs.18.16"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אחאב",
+   "translit": "ahab",
+   "gloss": "Ahab (king of Israel)",
+   "strongs": "H256"
+  },
+  {
+   "lang": "he",
+   "word": "אב",
+   "translit": "ab",
+   "gloss": "father",
+   "strongs": "H1"
+  },
+  {
+   "lang": "he",
+   "word": "אח",
+   "translit": "ach",
+   "gloss": "brother",
+   "strongs": "H251"
+  },
+  {
+   "lang": "he",
+   "word": "עבדיה",
+   "translit": "obadiah",
+   "gloss": "Obadiah, servant of Yahweh",
+   "strongs": "H5662"
+  },
+  {
+   "lang": "he",
+   "word": "עבד",
+   "translit": "obed",
+   "gloss": "servant",
+   "strongs": "H5650"
+  },
+  {
+   "lang": "he",
+   "word": "יה",
+   "translit": "yah",
+   "gloss": "Yah (short form of Yahweh)",
+   "strongs": "H3050"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "Yahweh, the LORD",
+   "strongs": "H3068"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "ahab",
+   "other": "אחאב"
+  },
+  {
+   "en": "obadiah",
+   "other": "עבדיה"
+  },
+  {
+   "en": "ab",
+   "other": "אב"
+  },
+  {
+   "en": "ach",
+   "other": "אח"
+  },
+  {
+   "en": "obed",
+   "other": "עבד"
+  },
+  {
+   "en": "yah",
+   "other": "יה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Ahab",
+   "Obadiah",
+   "Elijah",
+   "God"
+  ],
+  "places": [
+   "Samaria"
+  ],
+  "events": [
+   "drought and famine in Israel"
+  ],
+  "things": [],
+  "themes": [
+   "names of God",
+   "Hebrew name meanings",
+   "prophecy"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Ahab",
+  "ab ach",
+  "father brother",
+  "Ahab name meaning",
+  "Obadiah",
+  "servant of Yahweh",
+  "yah obed",
+  "1 Kings 18",
+  "Hebrew name meaning",
+  "אחאב",
+  "Elijah"
+ ],
+ "uncertain": [
+  "The words Father and Brother are in the PDF text but are not visibly shown on this slide image; only ab and ach appear",
+  "The word yahweh is shown in transliteration only, not in Hebrew letters"
+ ],
+ "confidence": 0.9
+}

@@ -1,0 +1,417 @@
+{
+ "id": "noah-part-1/76",
+ "kinds": [
+  "genealogy",
+  "word-study"
+ ],
+ "title": "Names from Adam to Noah: Hebrew name meanings, ages at fatherhood and at death",
+ "summary": "A colour-coded line of descent from Adam through Seth, Enosh, Kenan, Mahalalel, Jared, Enoch, Methuselah and Lamech to Noah and his sons Shem, Ham and Japheth. Each name has its Hebrew spelling and meaning (Man, Appointed, Mortal, Spear, Praised God, Shall Come Down, Teaching, His death shall bring, The Despairing, Rest) with the father's age at the son's birth (130, 105, 90, 70, 65, 162, 65, 182, 187, 500) and ages at death.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Adam"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ד ם"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Man"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "130 ⇘ ⇒ Seth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש ת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Appointed"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "↓ 105 ⇘ ⇒ Enosh"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א נ ו ש"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Mortal"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "↓ ↓ 90 ⇘ ⇒ Kenan"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ק י נ ן"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Spear"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "↓ ↓ ↓ 70 ⇘ ⇒ Mahalalel"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ ה ל ל א ל"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Praised God"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "↓ ↓ ↓ ↓ 65 ⇘ ⇒ Jared"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ר ד"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Shall Come Down"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Raptured at 365  162 ⇘ ⇒ Enoch"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ח נ י ך"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Teaching"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Methuselah 65 ⇘ ⇒"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ ת ו ש ל ח"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "His death shall bring"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "d.930  Lamech 182 ⇘ ⇒"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ל מ ך"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "The Despairing"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "d. 912  369  Noah 187 ⇘ ⇒"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "נ ח"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Rest"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "↓869  d.905 d.910 d.895 d.962 d. 777  500 ⇘ ⇒ Shem Ham Japheth"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "Man",
+   "strongs": "H121"
+  },
+  {
+   "lang": "he",
+   "word": "שת",
+   "translit": "shet",
+   "gloss": "Appointed (Seth)",
+   "strongs": "H8352"
+  },
+  {
+   "lang": "he",
+   "word": "אנוש",
+   "translit": "enosh",
+   "gloss": "Mortal (Enosh)",
+   "strongs": "H583"
+  },
+  {
+   "lang": "he",
+   "word": "קינן",
+   "translit": "qenan",
+   "gloss": "Spear (Kenan)",
+   "strongs": "H7018"
+  },
+  {
+   "lang": "he",
+   "word": "מהללאל",
+   "translit": "mahalalel",
+   "gloss": "Praised God (Mahalalel)",
+   "strongs": "H4111"
+  },
+  {
+   "lang": "he",
+   "word": "ירד",
+   "translit": "yered",
+   "gloss": "Shall Come Down (Jared)",
+   "strongs": "H3382"
+  },
+  {
+   "lang": "he",
+   "word": "חניך",
+   "translit": "chanikh",
+   "gloss": "Teaching (Enoch), spelled with yod on the slide",
+   "strongs": "H2585"
+  },
+  {
+   "lang": "he",
+   "word": "מתושלח",
+   "translit": "metushelach",
+   "gloss": "His death shall bring (Methuselah)",
+   "strongs": "H4968"
+  },
+  {
+   "lang": "he",
+   "word": "למך",
+   "translit": "lemekh",
+   "gloss": "The Despairing (Lamech)",
+   "strongs": "H3929"
+  },
+  {
+   "lang": "he",
+   "word": "נח",
+   "translit": "noach",
+   "gloss": "Rest (Noah)",
+   "strongs": "H5146"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Adam",
+   "other": "אדם"
+  },
+  {
+   "en": "Seth",
+   "other": "שת"
+  },
+  {
+   "en": "Enosh",
+   "other": "אנוש"
+  },
+  {
+   "en": "Kenan",
+   "other": "קינן"
+  },
+  {
+   "en": "Mahalalel",
+   "other": "מהללאל"
+  },
+  {
+   "en": "Jared",
+   "other": "ירד"
+  },
+  {
+   "en": "Enoch",
+   "other": "חניך"
+  },
+  {
+   "en": "Methuselah",
+   "other": "מתושלח"
+  },
+  {
+   "en": "Lamech",
+   "other": "למך"
+  },
+  {
+   "en": "Noah",
+   "other": "נח"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 130,
+   "note": "Adam's age when Seth was born (as shown)"
+  },
+  {
+   "value": 105,
+   "note": "Seth's age when Enosh was born (as shown)"
+  },
+  {
+   "value": 90,
+   "note": "Enosh's age when Kenan was born (as shown)"
+  },
+  {
+   "value": 70,
+   "note": "Kenan's age when Mahalalel was born (as shown)"
+  },
+  {
+   "value": 65,
+   "note": "Mahalalel's age when Jared was born (as shown)"
+  },
+  {
+   "value": 162,
+   "note": "Jared's age when Enoch was born (as shown)"
+  },
+  {
+   "value": 365,
+   "note": "age at which Enoch was raptured"
+  },
+  {
+   "value": 65,
+   "note": "Enoch's age when Methuselah was born (as shown)"
+  },
+  {
+   "value": 182,
+   "note": "number shown by Lamech"
+  },
+  {
+   "value": 187,
+   "note": "number shown by Noah"
+  },
+  {
+   "value": 500,
+   "note": "age when Shem, Ham and Japheth were born (as shown)"
+  },
+  {
+   "value": 930,
+   "note": "Adam died aged 930"
+  },
+  {
+   "value": 912,
+   "note": "Seth died aged 912"
+  },
+  {
+   "value": 905,
+   "note": "Enosh died aged 905"
+  },
+  {
+   "value": 910,
+   "note": "Kenan died aged 910"
+  },
+  {
+   "value": 895,
+   "note": "Mahalalel died aged 895"
+  },
+  {
+   "value": 962,
+   "note": "Jared died aged 962"
+  },
+  {
+   "value": 777,
+   "note": "Lamech died aged 777"
+  },
+  {
+   "value": 369,
+   "note": "black number beside Noah, not explained on the slide"
+  },
+  {
+   "value": 869,
+   "note": "black number at the bottom left, not explained on the slide"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Seth",
+   "Enosh",
+   "Kenan",
+   "Mahalalel",
+   "Jared",
+   "Enoch",
+   "Methuselah",
+   "Lamech",
+   "Noah",
+   "Shem",
+   "Ham",
+   "Japheth"
+  ],
+  "places": [],
+  "events": [
+   "Rapture of Enoch"
+  ],
+  "things": [],
+  "themes": [
+   "genealogy",
+   "death",
+   "meaning of names"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "genealogy Adam to Noah",
+  "Genesis 5",
+  "meaning of Hebrew names",
+  "Man Appointed Mortal",
+  "Seth appointed",
+  "Enosh mortal",
+  "Kenan",
+  "Mahalalel praised God",
+  "Jared shall come down",
+  "Enoch teaching",
+  "Methuselah his death shall bring",
+  "Lamech despairing",
+  "Noah rest",
+  "ages of the patriarchs",
+  "Enoch raptured at 365",
+  "antediluvian patriarchs",
+  "ten generations",
+  "Shem Ham Japheth"
+ ],
+ "uncertain": [
+  "The Hebrew for Enoch is shown as ח נ י ך (with a yod) where Genesis 5:18 has חנוך. The black numbers 369 and 869 are not explained on the slide. Ages are placed as the slide shows them (e.g. 182 beside Lamech, 187 beside Noah); the slide gives no labels explaining the arrow layout. Strong's for חניך given as the Enoch entry H2585."
+ ],
+ "confidence": 0.88
+}

@@ -1,0 +1,91 @@
+{
+ "id": "red-heifer/75",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Numbers 19:11-12 — touching a corpse: unclean seven days, purify on day 3 and 7",
+ "summary": "Numbers 19:11-12 in English: whoever touches a human corpse is unclean seven days and must purify himself with the water on the third and seventh day to be clean, otherwise he will not be clean. Key words (unclean, water, third, seventh, clean, not be clean) are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:11-12",
+   "osis": [
+    "Num.19.11",
+    "Num.19.12"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:יא-יב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.11",
+   "text": "11 ‘The one who touches the corpse of any person shall be unclean for seven days."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.12",
+   "text": "12 That one shall purify himself with the water on the third day and on the seventh day, and then he will be clean; but if he does not purify himself on the third day and on the seventh day, he will not be clean."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19:11-12 / במדבר יט:יא-יב",
+   "osis": [
+    "Num.19.11",
+    "Num.19.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "seven days unclean after touching a corpse"
+  },
+  {
+   "value": 3,
+   "note": "third day of purification with the water"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "corpse",
+   "water of purification"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "death",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Numbers 19",
+  "touches a dead body",
+  "corpse uncleanness",
+  "unclean seven days",
+  "purify on the third day",
+  "purify on the seventh day",
+  "third and seventh day",
+  "water of separation",
+  "dead body of any man",
+  "death defilement",
+  "he shall be clean"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

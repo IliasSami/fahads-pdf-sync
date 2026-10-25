@@ -1,0 +1,93 @@
+{
+ "id": "gods-garden-in-eden/42",
+ "kinds": [
+  "picture"
+ ],
+ "title": "Bdellium and onyx — photos of the two stones",
+ "summary": "Two captioned photographs: bdellium (dark brown lumps of resin) on the left and onyx (polished oval red-and-white banded stones) on the right.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "Bdellium"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "Onyx"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Close-up photo of a small pile of dark brown to black, lumpy, crusty chunks of aromatic gum resin, with one translucent amber-coloured piece in the middle, resting on a pale cloth.",
+   "subjects": [
+    "bdellium",
+    "resin",
+    "gum resin",
+    "dark lumps",
+    "amber",
+    "aromatic gum"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.016,
+    0.077,
+    0.478,
+    0.64
+   ]
+  },
+  {
+   "type": "photo",
+   "description": "Two rows of polished oval stones in glossy red-brown with white and cream wavy bands, laid side by side on a white background.",
+   "subjects": [
+    "onyx",
+    "banded stone",
+    "red stone",
+    "polished gemstone",
+    "oval beads",
+    "agate"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.505,
+    0.138,
+    0.983,
+    0.66
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "bdellium",
+   "onyx"
+  ],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "bdellium",
+  "onyx",
+  "onyx stone",
+  "photo of bdellium",
+  "photo of onyx",
+  "gemstone",
+  "resin",
+  "red banded stone",
+  "agate",
+  "stones of Havilah",
+  "Genesis 2:12"
+ ],
+ "uncertain": [],
+ "confidence": 0.92
+}

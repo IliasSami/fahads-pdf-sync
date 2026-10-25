@@ -1,0 +1,136 @@
+{
+ "id": "noah-part-2/121",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "2 Peter 2:4-5: Noah the eighth person, a preacher of righteousness (KJV and Greek)",
+ "summary": "2 Peter 2:5 header (English and Greek) with KJV verses 4 and 5 and the Greek of verse 5: God spared not the angels that sinned, nor the old world, but saved Noah the eighth person, a preacher of righteousness. \"The eighth person\" is underlined in orange and matches the large orange Greek word ὄγδοον; the N of Νῶε is green like the No of Noah.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "2 Peter 2:5",
+   "osis": "2Pet.2.5"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "2 Πέτρος 2:5"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "4 For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment;",
+   "osis": "2Pet.2.4"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "5 And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;",
+   "osis": "2Pet.2.5"
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "text": "5 καὶ ἀρχαίου κόσμου οὐκ ἐφείσατο, ἀλλὰ ὄγδοον Νῶε δικαιοσύνης κήρυκα ἐφύλαξεν, κατακλυσμὸν κόσμῳ ἀσεβῶν ἐπάξας,",
+   "osis": "2Pet.2.5"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "2 Peter 2:5 / 2 Πέτρος 2:5",
+   "osis": [
+    "2Pet.2.4",
+    "2Pet.2.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "el",
+   "word": "ὄγδοον",
+   "translit": "ogdoon",
+   "gloss": "eighth",
+   "strongs": "G3590",
+   "gematria": null
+  },
+  {
+   "lang": "el",
+   "word": "Νῶε",
+   "translit": "Noe",
+   "gloss": "Noah",
+   "strongs": "G3575",
+   "gematria": null
+  },
+  {
+   "lang": "el",
+   "word": "κήρυκα",
+   "translit": "kerux",
+   "gloss": "preacher (herald)",
+   "strongs": "G2783",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "the eighth person",
+   "other": "ὄγδοον"
+  },
+  {
+   "en": "Noah",
+   "other": "Νῶε"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 8,
+   "note": "Noah the eighth person (ὄγδοον) saved in the flood"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "God"
+  ],
+  "places": [
+   "hell"
+  ],
+  "events": [
+   "the Flood",
+   "Fall of the angels"
+  ],
+  "things": [
+   "chains of darkness"
+  ],
+  "themes": [
+   "judgment",
+   "righteousness",
+   "salvation"
+  ],
+  "groups": [
+   "angels"
+  ]
+ },
+ "keywords": [
+  "2 Peter 2:5",
+  "2 Peter 2:4",
+  "Noah the eighth person",
+  "preacher of righteousness",
+  "ogdoon",
+  "eighth",
+  "angels that sinned",
+  "chains of darkness",
+  "reserved unto judgment",
+  "old world",
+  "world of the ungodly",
+  "bringing in the flood",
+  "KJV",
+  "Greek"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

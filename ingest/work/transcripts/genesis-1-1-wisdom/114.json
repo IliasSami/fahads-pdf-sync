@@ -1,0 +1,117 @@
+{
+ "id": "genesis-1-1-wisdom/114",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 3:5 — “knowing good and evil” is understanding / discernment",
+ "summary": "Genesis 3:5 in English and Hebrew (God / אלהים colour-matched), with the added note that “knowing good and evil” means Understanding / Discernment; the word Understanding is shown with a gold shadow behind it.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:5",
+   "osis": "Gen.3.5"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:ה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.3.5",
+   "text": "5 For God knows that in the day you eat of it your eyes will be opened, and you will be like God, knowing good and evil.”"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.3.5",
+   "text": "5 כי ידע אלהים כי ביום אכלכם ממנו ונפקחו עיניכם והייתם כאלהים ידעי טוב ורע׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Understanding / Discernment"
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "text": "“knowing good and evil”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:5 / בראשית ג:ה",
+   "osis": [
+    "Gen.3.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ידעי טוב ורע",
+   "translit": "yod'ei tov vara",
+   "gloss": "knowing good and evil (understanding / discernment)",
+   "strongs": "H3045",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "God",
+   "other": "כאלהים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [],
+  "themes": [
+   "wisdom",
+   "understanding",
+   "discernment",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 3:5",
+  "Genesis 3",
+  "knowing good and evil",
+  "understanding",
+  "discernment",
+  "binah",
+  "wisdom and understanding",
+  "ye shall be as gods",
+  "elohim",
+  "knowledge of good and evil",
+  "Fall of Man",
+  "Hebrew verse"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

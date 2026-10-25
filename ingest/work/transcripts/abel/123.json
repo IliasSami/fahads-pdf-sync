@@ -1,0 +1,49 @@
+{
+  "id": "abel/123",
+  "kinds": ["letters", "word-study"],
+  "title": "Oat (אות) means Sign: alef = God, vav = Nail, tav = Cross",
+  "summary": "Spells the Hebrew word oat (אות), \"Sign\", letter by letter with each letter's ancient pictograph and meaning: alef (A) = God, vav (O) = Nail, tav (T) = Cross. Letters and meanings are colour-matched.",
+  "text": [
+    {"lang": "translit", "role": "heading", "text": "oat"},
+    {"lang": "he", "role": "heading", "text": "אות"},
+    {"lang": "en", "role": "heading", "text": "Sign"},
+    {"lang": "he", "role": "label", "text": "א"},
+    {"lang": "translit", "role": "label", "text": "alef"},
+    {"lang": "en", "role": "label", "text": "A"},
+    {"lang": "en", "role": "label", "text": "God"},
+    {"lang": "he", "role": "label", "text": "ו"},
+    {"lang": "translit", "role": "label", "text": "vav"},
+    {"lang": "en", "role": "label", "text": "O"},
+    {"lang": "en", "role": "label", "text": "Nail"},
+    {"lang": "he", "role": "label", "text": "ת"},
+    {"lang": "translit", "role": "label", "text": "tav"},
+    {"lang": "en", "role": "label", "text": "T"},
+    {"lang": "en", "role": "label", "text": "Cross"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "אות", "translit": "oat", "gloss": "sign", "strongs": "H226"}
+  ],
+  "color_links": [
+    {"en": "oat", "other": "אות"},
+    {"en": "alef", "other": "א"},
+    {"en": "God", "other": "א"},
+    {"en": "vav", "other": "ו"},
+    {"en": "Nail", "other": "ו"},
+    {"en": "tav", "other": "ת"},
+    {"en": "Cross", "other": "ת"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": "God (ox head pictograph)"},
+    {"lang": "he", "letter": "vav", "char": "ו", "value": 6, "meaning": "nail (nail/peg pictograph)"},
+    {"lang": "he", "letter": "tav", "char": "ת", "value": 400, "meaning": "cross (crossed-sticks pictograph)"}
+  ],
+  "numbers": [],
+  "pictures": [
+    {"type": "pictograph", "description": "Three ancient (paleo-)Hebrew pictograph letters, each in black with a coloured underline matching its row: an ox-head shape for alef (blue line), a nail or peg shape for vav (green line), and a plain cross for tav (red line).", "subjects": ["paleo-Hebrew alphabet", "pictographs", "ancient Hebrew letters", "ox head", "nail", "cross"], "text_in_picture": "", "credit": null, "box": [0.5, 0.2, 0.6, 0.58]}
+  ],
+  "entities": {"people": ["God"], "places": [], "events": ["Crucifixion"], "things": ["nail", "cross"], "themes": ["Hebrew letter meanings", "names of God", "typology"], "groups": []},
+  "keywords": ["oat", "ot", "aleph tav", "sign", "alef vav tav", "God nail cross", "paleo-Hebrew", "pictographs", "ancient Hebrew letters", "letter meanings", "Hebrew word for letter", "aleph"],
+  "uncertain": [],
+  "confidence": 0.93
+}

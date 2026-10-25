@@ -1,0 +1,303 @@
+{
+ "id": "genesis-1-1-wisdom/143",
+ "kinds": [
+  "verse",
+  "gematria",
+  "letters"
+ ],
+ "title": "Genesis 3:5 — Alef-tav as ancient pictographs: Cross and God",
+ "summary": "Same equation (Man 45 + 22 = Understanding 67, middle term את, tav alef). Beneath it the two letters now appear as ancient Hebrew pictographs: a cross (tav, labelled “Cross” in red) and an ox-head glyph (alef, labelled “God” in blue, red and yellow).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:5",
+   "osis": "Gen.3.5"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:ה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.3.5",
+   "text": "5 For God knows that in the day you eat of it your eyes will be opened, and you will be like God, knowing good and evil.”"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.3.5",
+   "text": "5 כי ידע אלהים כי ביום אכלכם ממנו ונפקחו עיניכם והייתם כאלהים ידעי טוב ורע׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Man"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "adam"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אדם"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "40 4 1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "45"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "+"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "את"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tav alef"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Cross"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "God"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "22"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "="
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Understanding"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "binah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בינה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 50 10 2"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "67"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:5 / בראשית ג:ה",
+   "osis": [
+    "Gen.3.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "man",
+   "strongs": "H120",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     4,
+     1
+    ],
+    "total": 45
+   }
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et (tav alef)",
+   "gloss": "cross + God (pictographs)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "בינה",
+   "translit": "binah",
+   "gloss": "understanding",
+   "strongs": "H998",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     50,
+     10,
+     2
+    ],
+    "total": 67
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Man",
+   "other": "אדם"
+  },
+  {
+   "en": "adam",
+   "other": "אדם"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "Cross",
+   "other": "ת"
+  },
+  {
+   "en": "God",
+   "other": "א"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "God (ancient ox-head pictograph, shown on the right)"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "cross (ancient cross-shaped pictograph, shown on the left)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 45,
+   "note": "gematria of אדם (adam, man)"
+  },
+  {
+   "value": 22,
+   "note": "middle term of the equation 45 + 22 = 67"
+  },
+  {
+   "value": 67,
+   "note": "gematria of בינה (binah, understanding)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Two black ancient (paleo-)Hebrew letter glyphs side by side: a plain upright cross (tav) on the left and a tilted ox-head shape (alef) on the right, with the labels Cross and God beneath them.",
+   "subjects": [
+    "paleo-Hebrew",
+    "pictograph",
+    "cross",
+    "ox head",
+    "alef",
+    "tav",
+    "ancient Hebrew letters"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.34,
+    0.67,
+    0.52,
+    0.85
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God",
+   "Adam",
+   "Eve",
+   "Satan"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [
+   "cross"
+  ],
+  "themes": [
+   "gematria",
+   "Hebrew letter meanings",
+   "pictographs",
+   "wisdom",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 3:5",
+  "Genesis 3",
+  "alef tav",
+  "aleph tav",
+  "את",
+  "tav alef",
+  "cross",
+  "paleo-Hebrew",
+  "ancient Hebrew pictographs",
+  "tav is a cross",
+  "alef is God",
+  "45 + 22 = 67",
+  "man plus alef-tav equals understanding",
+  "adam binah"
+ ],
+ "uncertain": [
+  "Understanding appears double-printed (yellow shadow behind black text); transcribed once.",
+  "The right-hand pictograph is a tilted ox-head glyph; identified as alef from the label God and the order of את."
+ ],
+ "confidence": 0.9
+}

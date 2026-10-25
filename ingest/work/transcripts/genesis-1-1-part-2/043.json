@@ -1,0 +1,137 @@
+{
+ "id": "genesis-1-1-part-2/43",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Genesis 1:4-10 — the next 7 verses contain 7³ = 343 letters",
+ "summary": "The Hebrew text of Genesis 1:4 through 1:10 with blue verse numbers, under the heading that the next 7 verses contain 7 cubed, which is 343, letters.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1",
+   "osis": "Gen.1.4"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Next 7 verses contain 7³ = 343 letters"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.4",
+   "text": "4 וירא אלהים את־האור כי־טוב ויבדל אלהים בין האור ובין החשך׃"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.5",
+   "text": "5 ויקרא אלהים ׀ לאור יום ולחשך קרא לילה ויהי־ערב ויהי־בקר יום אחד׃"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.6",
+   "text": "6 ויאמר אלהים יהי רקיע בתוך המים ויהי מבדיל בין מים למים׃"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.7",
+   "text": "7 ויעש אלהים את־הרקיע ויבדל בין המים אשר מתחת לרקיע ובין המים אשר מעל לרקיע ויהי־כן׃"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.8",
+   "text": "8 ויקרא אלהים לרקיע שמים ויהי־ערב ויהי־בקר יום שני׃"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.9",
+   "text": "9 ויאמר אלהים יקוו המים מתחת השמים אל־מקום אחד ותראה היבשה ויהי־כן׃"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.10",
+   "text": "10 ויקרא אלהים ׀ ליבשה ארץ ולמקוה המים קרא ימים וירא אלהים כי־טוב׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1 / בראשית א",
+   "osis": [
+    "Gen.1.4",
+    "Gen.1.5",
+    "Gen.1.6",
+    "Gen.1.7",
+    "Gen.1.8",
+    "Gen.1.9",
+    "Gen.1.10"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 343,
+   "note": "letters in Genesis 1:4-10 (7³)"
+  },
+  {
+   "value": 7,
+   "note": "verses counted (7 cubed = 343)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "firmament",
+   "waters"
+  ],
+  "themes": [
+   "creation",
+   "gematria",
+   "Bible codes",
+   "light and darkness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1",
+  "Genesis 1:4-10",
+  "343 letters",
+  "7 cubed",
+  "7x7x7",
+  "number 7",
+  "seven verses",
+  "God divided the light from the darkness",
+  "first day",
+  "second day",
+  "firmament",
+  "heaven",
+  "dry land",
+  "seas",
+  "Hebrew text"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

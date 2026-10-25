@@ -1,0 +1,40 @@
+{
+  "id": "akeda-1/2",
+  "kinds": ["letters", "table"],
+  "title": "The Hebrew alef-bet: alef, bet and gimel with ancient pictographs",
+  "summary": "Start of a Hebrew alphabet table showing, for the first three letters, the modern letter, its name, English equivalent, ancient pictograph, meaning and gematria value: alef (strength, God, 1), bet (tent, house, 2) and gimel (camel, 3).",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Hebrew alef-bet"},
+    {"lang": "en", "role": "label", "text": "with (Final Forms)"},
+    {"lang": "en", "role": "table", "text": "Modern · Ancient · Meaning · Gematria"},
+    {"lang": "he", "role": "table", "text": "1. א"},
+    {"lang": "translit", "role": "table", "text": "alef  A"},
+    {"lang": "en", "role": "table", "text": "Strength, God · 1"},
+    {"lang": "he", "role": "table", "text": "2. ב"},
+    {"lang": "translit", "role": "table", "text": "bet  B"},
+    {"lang": "en", "role": "table", "text": "Tent, House · 2"},
+    {"lang": "he", "role": "table", "text": "3. ג"},
+    {"lang": "translit", "role": "table", "text": "gimel  G"},
+    {"lang": "en", "role": "table", "text": "Camel · 3"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [
+    {"en": "alef", "other": "א"},
+    {"en": "bet", "other": "ב"},
+    {"en": "gimel", "other": "ג"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": "strength, God (ox-head pictograph)"},
+    {"lang": "he", "letter": "bet", "char": "ב", "value": 2, "meaning": "tent, house (tent/house floor-plan pictograph)"},
+    {"lang": "he", "letter": "gimel", "char": "ג", "value": 3, "meaning": "camel (camel/foot pictograph)"}
+  ],
+  "numbers": [],
+  "pictures": [
+    {"type": "pictograph", "description": "Column of three ancient (paleo-)Hebrew pictograph letters, each underlined in its letter's colour: an ox head for alef (blue), a tent or house shape for bet (red), and a check-mark-like camel/foot sign for gimel (yellow).", "subjects": ["paleo-Hebrew alphabet", "pictographs", "ancient Hebrew letters", "ox head", "tent", "camel"], "text_in_picture": "", "credit": null, "box": [0.41, 0.44, 0.49, 0.95]}
+  ],
+  "entities": {"people": [], "places": [], "events": [], "things": ["Hebrew alphabet"], "themes": ["Hebrew letter meanings", "gematria"], "groups": []},
+  "keywords": ["Hebrew alphabet", "alef-bet", "aleph-bet", "aleph", "alef", "bet", "beth", "gimel", "pictographs", "ancient Hebrew letters", "paleo-Hebrew", "letter meanings", "gematria values", "final forms"],
+  "uncertain": [],
+  "confidence": 0.93
+}

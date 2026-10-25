@@ -1,0 +1,46 @@
+{
+  "id": "akeda-1/10",
+  "kinds": ["verse", "word-study"],
+  "title": "Abram becomes Abraham and Sarai becomes Sarah (Genesis 17:5, 17:15)",
+  "summary": "Genesis 17:5 (Abram renamed Abraham) above the Hebrew name changes אברם to אברהם and שרי to שרה, with a second quotation of God telling Abraham that Sarai shall be called Sarah; the added letter he (ה) is drawn in black in both names. The second heading on the slide reads Genesis 17:5 although the quoted text is from Genesis 17:15.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 17:5", "osis": "Gen.17.5"},
+    {"lang": "he", "role": "reference", "text": "ב ר א ש י ת  י ז :ה"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.5", "text": "5 “No longer shall your name be called Abram,"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.5", "text": "But your name shall be Abraham;"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.5", "text": "For I have made you the father of a multitude of nations."},
+    {"lang": "he", "role": "label", "text": "אברם → אברהם"},
+    {"lang": "he", "role": "label", "text": "שרי → שרה"},
+    {"lang": "en", "role": "reference", "text": "Genesis 17:5", "osis": "Gen.17.15"},
+    {"lang": "he", "role": "reference", "text": "ב ר א ש י ת  י ז :ה"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.15", "text": "Then God said to Abraham, “As for Sarai your wife,"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.15", "text": "you shall not call her name Sarai,"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.15", "text": "but Sarah shall be her name."}
+  ],
+  "refs": [
+    {"shown": "Genesis 17:5 / בראשית יז:ה", "osis": ["Gen.17.5"], "role": "quoted"},
+    {"shown": "Genesis 17:5 / בראשית יז:ה (heading above the Sarai/Sarah quotation; text is Genesis 17:15)", "osis": ["Gen.17.15"], "role": "quoted"}
+  ],
+  "words": [
+    {"lang": "he", "word": "אברם", "translit": "Abram", "gloss": "Abram (exalted father)", "strongs": "H87"},
+    {"lang": "he", "word": "אברהם", "translit": "Abraham", "gloss": "Abraham (father of a multitude)", "strongs": "H85"},
+    {"lang": "he", "word": "שרי", "translit": "Sarai", "gloss": "Sarai (my princess)", "strongs": "H8297"},
+    {"lang": "he", "word": "שרה", "translit": "Sarah", "gloss": "Sarah (princess)", "strongs": "H8283"}
+  ],
+  "color_links": [
+    {"en": "Abram", "other": "אברם"},
+    {"en": "Abraham", "other": "אברהם"},
+    {"en": "Sarai", "other": "שרי"},
+    {"en": "Sarah", "other": "שרה"},
+    {"en": "h", "other": "ה"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "he", "char": "ה", "value": 5, "meaning": "the letter added to both Abram's and Sarai's names (shown in black)"}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Sarah", "God"], "places": [], "events": ["Covenant of circumcision"], "things": [], "themes": ["meaning of names", "covenant", "Hebrew letter meanings"], "groups": ["Gentiles"]},
+  "keywords": ["Genesis 17:5", "Genesis 17:15", "Abram to Abraham", "Sarai to Sarah", "name change", "letter he", "added letter ה", "father of a multitude of nations", "Abraham", "Sarah", "Genesis 17"],
+  "uncertain": ["The second reference heading says Genesis 17:5 but the quoted words (Sarai to Sarah) are Genesis 17:15; transcribed as shown."],
+  "confidence": 0.94
+}

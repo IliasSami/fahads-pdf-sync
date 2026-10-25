@@ -1,0 +1,24 @@
+{
+  "id": "elijah-elisha/54",
+  "kinds": ["verse"],
+  "title": "1 Kings 17:15-16 — The flour and oil did not run out",
+  "summary": "The text of 1 Kings 17:15-16: the widow did as Elijah said, and she, Elijah and her household ate for many days; the bowl of flour was not used up and the jar of oil did not run dry, just as the LORD had spoken through Elijah.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "1 Kings 17:15-16", "osis": ["1Kgs.17.15", "1Kgs.17.16"]},
+    {"lang": "he", "role": "reference", "text": "מלכים א יז:יה-יו", "osis": ["1Kgs.17.15", "1Kgs.17.16"]},
+    {"lang": "en", "role": "verse", "text": "15 So she went and did according to the word of Elijah, and she and he and her household ate for many days.", "osis": "1Kgs.17.15"},
+    {"lang": "en", "role": "verse", "text": "16 The bowl of flour was not exhausted nor did the jar of oil become empty, according to the word of the LORD which He spoke through Elijah.", "osis": "1Kgs.17.16"}
+  ],
+  "refs": [
+    {"shown": "1 Kings 17:15-16 / מלכים א יז:יה-יו", "osis": ["1Kgs.17.15", "1Kgs.17.16"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Elijah", "widow of Zarephath", "God"], "places": ["Zarephath"], "events": ["three-year drought"], "things": ["flour", "oil", "bowl", "jar"], "themes": ["miracles", "God's provision", "faith", "obedience", "word of God"], "groups": []},
+  "keywords": ["widow of Zarephath", "flour not exhausted", "barrel of meal wasted not", "cruse of oil did not fail", "jar of oil", "ate for many days", "Elijah", "word of the LORD", "1 Kings 17", "widow's oil multiplied"],
+  "uncertain": ["Hebrew reference writes the verse numbers as יה-יו (15-16) rather than the customary טו-טז; transcribed as shown"],
+  "confidence": 0.95
+}

@@ -1,0 +1,40 @@
+{
+  "id": "abel/50",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:3 — yom (day) and yamim (days, time)",
+  "summary": "Genesis 4:3 in English and Hebrew with “time” and ימים highlighted: yom (יום) means day, and its plural yamim (ימים) means days or time — the word behind “in the course of time”.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:3", "osis": "Gen.4.3"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ג", "osis": "Gen.4.3"},
+    {"lang": "en", "role": "verse", "text": "3 So it came about in the course of time that Cain brought from the fruit of the ground an offering to yahweh.", "osis": "Gen.4.3"},
+    {"lang": "he", "role": "verse", "text": "3 ויהי מקץ ימים ויבא קין מפרי האדמה מנחה ליהוה׃", "osis": "Gen.4.3"},
+    {"lang": "translit", "role": "label", "text": "yom"},
+    {"lang": "he", "role": "label", "text": "יום"},
+    {"lang": "en", "role": "label", "text": "Day"},
+    {"lang": "translit", "role": "label", "text": "yamim"},
+    {"lang": "he", "role": "label", "text": "ימים"},
+    {"lang": "en", "role": "label", "text": "Days, Time"}
+  ],
+  "refs": [{"shown": "Genesis 4:3 / בראשית ד:ג", "osis": ["Gen.4.3"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "יום", "translit": "yom", "gloss": "day", "strongs": "H3117"},
+    {"lang": "he", "word": "ימים", "translit": "yamim", "gloss": "days, time", "strongs": "H3117"},
+    {"lang": "he", "word": "יהוה", "translit": "yahweh", "gloss": "the LORD (God's personal name)", "strongs": "H3068"}
+  ],
+  "color_links": [
+    {"en": "yom", "other": "יום"},
+    {"en": "Day", "other": "יום"},
+    {"en": "yamim", "other": "ימים"},
+    {"en": "Days, Time", "other": "ימים"},
+    {"en": "time", "other": "ימים"},
+    {"en": "y (yahweh)", "other": "י"},
+    {"en": "w (yahweh)", "other": "ו"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain"], "places": [], "events": ["Cain and Abel's offerings"], "things": ["offering", "fruit of the ground"], "themes": ["sacrifice", "offering", "time"], "groups": []},
+  "keywords": ["yom", "yamim", "day", "days", "time", "Hebrew word for day", "course of time", "in process of time", "end of days", "Cain's offering", "Cain and Abel", "Genesis 4", "Genesis 4:3"],
+  "uncertain": [],
+  "confidence": 0.93
+}

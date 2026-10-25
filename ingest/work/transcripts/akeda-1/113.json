@@ -1,0 +1,97 @@
+{
+ "id": "akeda-1/113",
+ "kinds": [
+  "picture"
+ ],
+ "title": "Christophany: The Road to Damascus (icon painting)",
+ "summary": "An icon-style painting of Saul on the road to Damascus, kneeling on a rocky hillside as Christ appears in the sky, with the red caption 'Christophany' and 'The Road to Damascus'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "Christophany"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "The Road to Damascus"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "en",
+   "word": "Christophany",
+   "translit": "Christophany",
+   "gloss": "an appearance of Christ",
+   "strongs": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "painting",
+   "description": "Byzantine-style icon or fresco on a blue background: two standing men in blue, pink and green robes beside a white horse, and a third man kneeling and covering his face with a cloak on a rocky golden hillside. In a circle of light at upper right a haloed figure in blue and gold robes reaches toward them, with a beam of light shining down. A walled city with red-tiled roofs stands in the background and a small tree grows at right.",
+   "subjects": [
+    "Road to Damascus",
+    "Saul",
+    "Paul",
+    "conversion",
+    "Christ appearing",
+    "icon",
+    "fresco",
+    "white horse",
+    "halo",
+    "Byzantine art"
+   ],
+   "text_in_picture": "THE ROAD TO DAMASCUS; IC XC (Christ monogram, top right)",
+   "credit": null,
+   "box": [
+    0.165,
+    0.016,
+    0.837,
+    0.818
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Jesus",
+   "Paul"
+  ],
+  "places": [
+   "Damascus"
+  ],
+  "events": [
+   "Conversion of Paul",
+   "Christophany"
+  ],
+  "things": [
+   "white horse"
+  ],
+  "themes": [
+   "light and darkness",
+   "grace"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Christophany",
+  "Road to Damascus",
+  "Damascus road",
+  "Saul",
+  "Paul's conversion",
+  "Saul Saul why are you persecuting Me",
+  "icon",
+  "painting",
+  "fresco",
+  "appearance of Christ",
+  "Acts 9",
+  "vision of Jesus",
+  "light from heaven"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

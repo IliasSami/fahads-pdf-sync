@@ -1,0 +1,145 @@
+{
+ "id": "genesis-1-1-part-2/39",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "Genesis 1:1 — 7 words and 28 letters (7 x 4)",
+ "summary": "Genesis 1:1 in English (with \"the\" struck through) and in Hebrew, with the word God / אלהים colour-coded. Below: the verse has 7 words and 28 letters, which equals 7 x 4.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "In ~~the~~ beginning God created the heavens and the earth.",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "7 Words"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "28 Letters = 7 x 4"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "haaretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "God",
+   "other": "אלהים"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "Genesis 1:1 has 7 words"
+  },
+  {
+   "value": 28,
+   "note": "Genesis 1:1 has 28 letters = 7 x 4"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "number seven",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "in the beginning",
+  "bereshit",
+  "bereshith",
+  "elohim",
+  "7 words 28 letters",
+  "seven words",
+  "7 x 4",
+  "Hebrew Genesis 1:1",
+  "heavens and the earth",
+  "struck-through the",
+  "number seven in Genesis 1:1"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

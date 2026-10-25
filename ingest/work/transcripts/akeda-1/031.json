@@ -1,0 +1,34 @@
+{
+  "id": "akeda-1/31",
+  "kinds": ["letters", "list"],
+  "title": "Chet (het), 8: represents new beginnings",
+  "summary": "The letter chet (het, ח), number 8, represents new beginnings. Examples: after 7 days of Creation comes a new beginning; 8 people on the Ark (Noah, Shem, Ham, Japheth and their wives); the musical scale Do Re Mi Fa Sol La Ti begins a new octave; and the seven-day week (Su to Sa) begins a new week.",
+  "text": [
+    {"lang": "translit", "role": "heading", "text": "het"},
+    {"lang": "en", "role": "number", "text": "8"},
+    {"lang": "he", "role": "heading", "text": "ח"},
+    {"lang": "en", "role": "heading", "text": "Represents new beginnings."},
+    {"lang": "en", "role": "list", "text": "After 7 days of Creation → A New Beginning."},
+    {"lang": "en", "role": "list", "text": "8 people on the Ark"},
+    {"lang": "en", "role": "list", "text": "Noah, Shem, Ham, Japheth & their Wives"},
+    {"lang": "en", "role": "list", "text": "Do, Re, Mi, Fa, Sol, La Ti → A New Octave."},
+    {"lang": "en", "role": "list", "text": "Su, Mo, Tu, We, Th, Fr, Sa → A New Week."}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "ח", "translit": "chet (het)", "gloss": "the letter chet; number 8; new beginnings", "strongs": null}
+  ],
+  "color_links": [],
+  "letters": [
+    {"lang": "he", "letter": "chet", "char": "ח", "value": 8, "meaning": "new beginnings"}
+  ],
+  "numbers": [
+    {"value": 8, "note": "chet (ח); 8 people on the Ark; the eighth step after 7 days, notes or weekdays marks a new beginning"},
+    {"value": 7, "note": "days of Creation, weekdays and notes before a new start"}
+  ],
+  "pictures": [],
+  "entities": {"people": ["Noah", "Shem", "Ham", "Japheth"], "places": [], "events": ["Creation", "the Flood"], "things": ["ark"], "themes": ["Hebrew letter meanings", "gematria", "creation", "new beginnings", "redemption"], "groups": []},
+  "keywords": ["chet", "het", "ח", "number 8", "new beginnings", "eight people on the ark", "8 on the ark", "Noah Shem Ham Japheth", "new octave", "Do Re Mi", "new week", "7 days of Creation", "Hebrew letter meanings", "eighth day"],
+  "uncertain": [],
+  "confidence": 0.96
+}

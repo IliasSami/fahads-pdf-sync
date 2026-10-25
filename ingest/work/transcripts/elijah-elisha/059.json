@@ -1,0 +1,104 @@
+{
+ "id": "elijah-elisha/59",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 Kings 17:17-19 — the widow's son dies; Elijah takes him upstairs",
+ "summary": "The text of 1 Kings 17:17-19: the widow's son becomes so sick that no breath is left in him, the woman blames Elijah, the man of God, and Elijah takes the boy from her bosom to the upper room and lays him on his own bed. The names Elijah and God are lettered in colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 17:17-19",
+   "osis": [
+    "1Kgs.17.17",
+    "1Kgs.17.18",
+    "1Kgs.17.19"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א יז:יו-יט",
+   "osis": [
+    "1Kgs.17.17",
+    "1Kgs.17.18",
+    "1Kgs.17.19"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "17 Now it came about after these things that the son of the woman, the mistress of the house, became sick; and his sickness was so severe that there was no breath left in him.",
+   "osis": "1Kgs.17.17"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "18 So she said to Elijah, “What do I have to do with you, O man of God? You have come to me to bring my iniquity to remembrance and to put my son to death!”",
+   "osis": "1Kgs.17.18"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "19 He said to her, “Give me your son.” Then he took him from her bosom and carried him up to the upper room where he was living and laid him on his own bed.",
+   "osis": "1Kgs.17.19"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 17:17-19 / מלכים א יז:יו-יט",
+   "osis": [
+    "1Kgs.17.17",
+    "1Kgs.17.18",
+    "1Kgs.17.19"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah",
+   "God",
+   "widow of Zarephath"
+  ],
+  "places": [
+   "Zarephath"
+  ],
+  "events": [
+   "death of the widow's son"
+  ],
+  "things": [
+   "upper room",
+   "bed"
+  ],
+  "themes": [
+   "death",
+   "iniquity",
+   "prophecy",
+   "miracles"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Elijah",
+  "widow of Zarephath",
+  "widow's son",
+  "son dies",
+  "no breath left in him",
+  "man of God",
+  "my iniquity to remembrance",
+  "upper room",
+  "1 Kings 17",
+  "Elijah raises widow's son",
+  "death of child",
+  "give me your son"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

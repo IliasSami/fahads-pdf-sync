@@ -1,0 +1,30 @@
+{
+  "id": "akeda-2/3",
+  "kinds": ["letters", "picture"],
+  "title": "Alef (strength, God) pointing to a monarch's crown",
+  "summary": "The letter alef (א), with its ox-head pictograph meaning \"strength, God\" and value 1, is linked by a red arrow to the crown on a coronation portrait of a queen.",
+  "text": [
+    {"lang": "he", "role": "label", "text": "א"},
+    {"lang": "translit", "role": "label", "text": "alef"},
+    {"lang": "en", "role": "label", "text": "A"},
+    {"lang": "en", "role": "label", "text": "Strength, God"},
+    {"lang": "en", "role": "number", "text": "1"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [
+    {"en": "alef", "other": "א"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": "strength, God (ox head pictograph); linked to a crown"}
+  ],
+  "numbers": [],
+  "pictures": [
+    {"type": "photo", "description": "Colour coronation portrait of a queen seated in a palace setting, wearing a jewelled imperial crown and an ermine-trimmed robe, holding a long golden sceptre in one hand and a jewelled orb in the other. A red arrow points from the letter alef to the crown.", "subjects": ["queen", "coronation", "crown", "sceptre", "orb", "royalty", "ermine robe"], "text_in_picture": "", "credit": null, "box": [0.0, 0.0, 0.355, 0.99]},
+    {"type": "pictograph", "description": "Ancient (paleo-)Hebrew pictograph of the letter alef: an ox head with two horns, drawn in black above a short blue line.", "subjects": ["paleo-Hebrew alphabet", "pictograph", "alef", "ox head"], "text_in_picture": "", "credit": null, "box": [0.6, 0.15, 0.68, 0.28]}
+  ],
+  "entities": {"people": ["God"], "places": [], "events": [], "things": ["crown", "sceptre", "orb"], "themes": ["Hebrew letter meanings", "kingship"], "groups": []},
+  "keywords": ["alef", "aleph", "strength", "God", "crown", "queen", "coronation", "royal", "king", "pictograph", "ox head", "photo"],
+  "uncertain": [],
+  "confidence": 0.93
+}

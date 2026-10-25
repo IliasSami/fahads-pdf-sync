@@ -1,0 +1,65 @@
+{
+ "id": "gods-garden-in-eden/73",
+ "kinds": [
+  "picture"
+ ],
+ "title": "Photo: hand holding an unlit candle",
+ "summary": "A full-slide photograph of a hand holding a tall, thin, unlit candle with a dark wick, casting a shadow of the hand and candle on a plain wall. No words on the slide.",
+ "text": [],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Close photograph of a man's hand gripping a slender, hand-dipped taper candle with swirls of orange, yellow and purple colour in the wax. The wick is dark and unlit. The hand and candle cast a shadow on a plain beige wall behind.",
+   "subjects": [
+    "candle",
+    "unlit candle",
+    "hand",
+    "wick",
+    "shadow",
+    "taper",
+    "wax"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.29,
+    0.03,
+    0.69,
+    0.97
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "candle",
+   "wick"
+  ],
+  "themes": [
+   "light and darkness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "candle",
+  "unlit candle",
+  "hand holding candle",
+  "photo of a candle",
+  "wick",
+  "shadow",
+  "taper candle",
+  "before the flame",
+  "light",
+  "darkness",
+  "object lesson"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

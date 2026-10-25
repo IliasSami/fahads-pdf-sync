@@ -1,0 +1,19 @@
+{
+  "id": "abel/132",
+  "kinds": ["title"],
+  "title": "Bonus",
+  "summary": "Section divider slide showing only the word \"Bonus\" in large gold letters, introducing extra material after the end of the main lesson.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Bonus"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": [], "things": [], "themes": [], "groups": []},
+  "keywords": ["Bonus", "bonus material", "extra", "section title", "additional teaching", "divider slide"],
+  "uncertain": [],
+  "confidence": 0.98
+}

@@ -1,0 +1,148 @@
+{
+ "id": "elijah-elisha/24",
+ "kinds": [
+  "verse",
+  "comparison"
+ ],
+ "title": "The first and last verses of the Tanakh: Genesis 1:1 and Malachi 4:5-6 (Elijah)",
+ "summary": "Pairs the first verse of the tanakh (Genesis 1:1) with the last verse of the tanakh (Old Testament), Malachi 4:5-6, in which God promises to send Elijah the prophet before the great and terrible day of the LORD and to restore the hearts of fathers and children.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The First Verse of the tanakh (תנך)"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "1 In beginning, God created the heavens and the earth."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Last Verse of the tanakh (Old Testament)"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Malachi 4:5-6",
+   "osis": [
+    "Mal.4.5",
+    "Mal.4.6"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלאכי ד:ה-ו",
+   "osis": [
+    "Mal.4.5",
+    "Mal.4.6"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Mal.4.5",
+   "text": "5 “Behold, I am going to send you Elijah the prophet before the coming of the great and terrible day of the LORD."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Mal.4.6",
+   "text": "6 “He will restore the hearts of the fathers to their children and the hearts of the children to their fathers, so that I will not come and smite the land with a curse.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Malachi 4:5-6 / מלאכי ד:ה-ו",
+   "osis": [
+    "Mal.4.5",
+    "Mal.4.6"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תנך",
+   "translit": "tanakh",
+   "gloss": "the Hebrew Bible (Old Testament)",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "t",
+   "other": "ת"
+  },
+  {
+   "en": "an",
+   "other": "נ"
+  },
+  {
+   "en": "akh",
+   "other": "ך"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Elijah"
+  ],
+  "places": [],
+  "events": [
+   "Creation",
+   "Day of the LORD"
+  ],
+  "things": [],
+  "themes": [
+   "prophecy",
+   "creation",
+   "judgment",
+   "restoration of families",
+   "curse"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "tanakh",
+  "Tanach",
+  "first verse of the Bible",
+  "last verse of the Old Testament",
+  "Malachi 4:5-6",
+  "Malachi 4",
+  "Genesis 1:1",
+  "Elijah the prophet",
+  "send you Elijah",
+  "great and terrible day of the LORD",
+  "hearts of the fathers to the children",
+  "smite the land with a curse"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

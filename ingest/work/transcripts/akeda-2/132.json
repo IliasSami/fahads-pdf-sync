@@ -1,0 +1,125 @@
+{
+  "id": "akeda-2/132",
+  "kinds": [
+    "comparison",
+    "text"
+  ],
+  "title": "The Binding of Isaac and Yeshua: ram in the thorn bush, Yeshua in a crown of thorns",
+  "summary": "Side-by-side comparison under העקדה (The Akedah): both are first-born sons who willingly obey their father; for Isaac a substitute sacrifice is provided — a ram caught by its horns in the thorn bush — and Yeshua, our substitute sacrifice, appears in the middle of… a crown of thorns. “thorn” and “thorns” are both in green.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "The Binding of Isaac"
+    },
+    {
+      "lang": "he",
+      "role": "heading",
+      "text": "ה ע ק ד ה"
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "The Akedah"
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "The Binding of yeshua"
+    },
+    {
+      "lang": "en",
+      "role": "body",
+      "text": "Isaac, a first-born male, willingly follows his father’s instructions."
+    },
+    {
+      "lang": "en",
+      "role": "body",
+      "text": "yeshua, a first-born male, willingly follows His Father’s instructions."
+    },
+    {
+      "lang": "en",
+      "role": "body",
+      "text": "For Isaac, a substitute blood sacrifice is provided, a ram whose horns are caught in the thorn bush;"
+    },
+    {
+      "lang": "en",
+      "role": "body",
+      "text": "yeshua becomes our substitute sacrifice and appears in the middle of…wait for it… a crown of thorns."
+    }
+  ],
+  "refs": [],
+  "words": [
+    {
+      "lang": "he",
+      "word": "העקדה",
+      "translit": "ha-akedah",
+      "gloss": "the binding",
+      "strongs": "H6123",
+      "gematria": null
+    }
+  ],
+  "color_links": [
+    {
+      "en": "The",
+      "other": "ה"
+    },
+    {
+      "en": "Akedah",
+      "other": "עקדה"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Abraham",
+      "Isaac",
+      "God",
+      "Jesus"
+    ],
+    "places": [],
+    "events": [
+      "Binding of Isaac (Akedah)",
+      "Crucifixion"
+    ],
+    "things": [
+      "ram",
+      "thorn bush",
+      "crown of thorns"
+    ],
+    "themes": [
+      "typology",
+      "sacrifice",
+      "firstborn",
+      "obedience",
+      "substitution",
+      "blood",
+      "atonement"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Akedah",
+    "Akeda",
+    "binding of Isaac",
+    "binding of Yeshua",
+    "Yeshua",
+    "Jesus",
+    "Isaac as a type of Christ",
+    "Isaac and Jesus compared",
+    "parallels",
+    "first-born male",
+    "willing sacrifice",
+    "substitute sacrifice",
+    "ram caught in a thicket",
+    "ram caught by his horns",
+    "thorn bush",
+    "thicket",
+    "crown of thorns",
+    "thorns"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

@@ -1,0 +1,102 @@
+{
+ "id": "red-heifer/13",
+ "kinds": [
+  "verse",
+  "picture"
+ ],
+ "title": "Mark 7:5 — Pharisees ask about eating with impure hands",
+ "summary": "Mark 7:5 in English, with the Pharisees and scribes asking why Jesus' disciples eat bread with impure hands instead of keeping the tradition of the elders. Below the verse is a photo of a beige two-handled hand-washing cup beside a bathroom sink.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Mark 7:5",
+   "osis": "Mark.7.5"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Μάρκου 7:5"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Mark.7.5",
+   "text": "5 The Pharisees and the scribes asked Him, “Why do Your disciples not walk according to the tradition of the elders, but eat their bread with impure hands?”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Mark 7:5 / Μάρκου 7:5",
+   "osis": [
+    "Mark.7.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Close-up photo of a beige plastic two-handled hand-washing cup (a netilat yadayim cup) with a pouring lip, sitting on a white bathroom shelf beside a mirror, with a beige marble-tiled wall behind it and a small tassel or cord hanging above.",
+   "subjects": [
+    "hand-washing cup",
+    "netilat yadayim",
+    "washing cup",
+    "bathroom sink",
+    "ritual hand washing",
+    "beige plastic cup",
+    "mirror",
+    "tiled wall"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.03,
+    0.37,
+    0.51,
+    0.96
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "hand-washing cup",
+   "bread"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "tradition"
+  ],
+  "groups": [
+   "Pharisees",
+   "scribes",
+   "disciples"
+  ]
+ },
+ "keywords": [
+  "Mark 7:5",
+  "Mark 7",
+  "tradition of the elders",
+  "impure hands",
+  "unwashed hands",
+  "defiled hands",
+  "wash hands before eating",
+  "hand washing",
+  "netilat yadayim",
+  "Pharisees and scribes",
+  "photo of washing cup",
+  "eat bread"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

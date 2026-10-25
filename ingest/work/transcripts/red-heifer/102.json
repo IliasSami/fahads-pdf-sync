@@ -1,0 +1,103 @@
+{
+ "id": "red-heifer/102",
+ "kinds": [
+  "text"
+ ],
+ "title": "Preparations for the Temple: instruments, blueprints, priests and High Priest",
+ "summary": "Grey text slide listing Temple preparations: Temple instruments and furnishings have been created, building blueprints are being drafted, the kohanim (priests) have been genetically identified and are being trained in the Temple's school, and a High Priest (Kohen Gadol) has been appointed by the nascent Sanhedrin council in anticipation of Yom Kippur. The words blueprints, Temple's school, Sanhedrin council and Yom Kippur are underlined.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Temple instruments and furnishings have been created."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The building blueprints are being drafted."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The kohanim (priests) have been genetically identified and are being trained in the Temple’s school."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The High Priest (Kohen Gadol) has been appointed by the nascent Sanhedrin council in anticipation of Yom Kippur (Day of Atonement), the one day of the year when the High Priest enters the Holy of Holies in the Temple to make atonement for the nation of Israel."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "other",
+   "word": "kohanim",
+   "translit": "kohanim",
+   "gloss": "priests",
+   "strongs": "H3548"
+  },
+  {
+   "lang": "other",
+   "word": "Kohen Gadol",
+   "translit": "kohen gadol",
+   "gloss": "High Priest",
+   "strongs": "H3548"
+  },
+  {
+   "lang": "other",
+   "word": "Yom Kippur",
+   "translit": "yom kippur",
+   "gloss": "Day of Atonement",
+   "strongs": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Holy of Holies",
+   "Israel"
+  ],
+  "events": [
+   "Yom Kippur (Day of Atonement)"
+  ],
+  "things": [
+   "Temple furnishings",
+   "blueprints"
+  ],
+  "themes": [
+   "temple",
+   "priesthood",
+   "atonement"
+  ],
+  "groups": [
+   "priests",
+   "kohanim",
+   "High Priest",
+   "Sanhedrin",
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Temple preparations",
+  "Temple instruments",
+  "Temple furnishings",
+  "blueprints",
+  "kohanim",
+  "priests genetically identified",
+  "Temple school",
+  "Kohen Gadol",
+  "High Priest",
+  "Sanhedrin",
+  "Yom Kippur",
+  "Day of Atonement",
+  "Holy of Holies",
+  "Third Temple",
+  "make atonement"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

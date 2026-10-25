@@ -1,0 +1,130 @@
+{
+ "id": "red-heifer/71",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Numbers 19:8-9 — burner is unclean until evening; ashes kept as water of purification",
+ "summary": "Numbers 19:8 in English and Hebrew (the one who burns the heifer washes his clothes and bathes in water and is unclean until evening), plus Numbers 19:9 in English (a clean man gathers the ashes outside the camp, kept as water to remove impurity, purification from sin). Water, unclean, clean, ashes and heifer are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:8",
+   "osis": "Num.19.8"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.8",
+   "text": "8 ‘The one who burns it shall also wash his clothes in water and bathe his body in water and shall be unclean until evening."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Num.19.8",
+   "text": "8 והשרף אתה יכבס בגדיו במים ורחץ בשרו במים וטמא עד־הערב׃"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.9",
+   "text": "9 ‘Now a man who is clean shall gather up the ashes of the heifer and deposit them outside the camp in a clean place, and the congregation of the sons of Israel shall keep it as water to remove impurity; it is purification from sin."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19:8 / במדבר יט:ח",
+   "osis": [
+    "Num.19.8"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Numbers 19:9 (verse text below the reference header)",
+   "osis": [
+    "Num.19.9"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "מים",
+   "translit": "mayim",
+   "gloss": "water",
+   "strongs": "H4325",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "טמא",
+   "translit": "tame",
+   "gloss": "unclean",
+   "strongs": "H2930",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "water",
+   "other": "מים"
+  },
+  {
+   "en": "unclean",
+   "other": "וטמא"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "ashes",
+   "water",
+   "clothes",
+   "camp",
+   "clean place"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "sin",
+   "death"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Numbers 19:8",
+  "Numbers 19:9",
+  "red heifer",
+  "ashes of the heifer",
+  "unclean until evening",
+  "wash his clothes",
+  "bathe in water",
+  "water of purification",
+  "water for impurity",
+  "outside the camp",
+  "clean place",
+  "purification from sin",
+  "burns the heifer",
+  "mayim",
+  "tamei"
+ ],
+ "uncertain": [
+  "In the English of verse 9, the letters 'el' of Israel are coloured (blue and gold); not explained on the slide."
+ ],
+ "confidence": 0.95
+}

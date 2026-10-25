@@ -1,0 +1,84 @@
+{
+ "id": "akeda-1/125",
+ "kinds": [
+  "comparison",
+  "text"
+ ],
+ "title": "God's Plan — physical side (Isaac) and spiritual side (yeshua)",
+ "summary": "Two-column slide titled God's Plan. Under Physical: if Isaac is sacrificed, no physical side of God's plan can occur. Under Spiritual: if yeshua is not sacrificed, no spiritual side of God's plan can occur.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "God’s Plan"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Physical"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Spiritual"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "If Isaac is Sacrificed, No Physical Side of God’s Plan can occur."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "If yeshua is not Sacrificed, No Spiritual Side of God’s Plan can occur."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Isaac",
+   "Jesus",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)",
+   "Crucifixion"
+  ],
+  "things": [],
+  "themes": [
+   "sacrifice",
+   "substitution",
+   "typology",
+   "redemption",
+   "covenant"
+  ],
+  "groups": [
+   "Israel",
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "God's plan",
+  "physical and spiritual",
+  "Isaac sacrificed",
+  "yeshua not sacrificed",
+  "physical side of God's plan",
+  "spiritual side of God's plan",
+  "Akedah",
+  "binding of Isaac",
+  "Isaac and Jesus",
+  "sacrifice",
+  "Jewish and Christian",
+  "typology"
+ ],
+ "uncertain": [
+  "The small Star of David over Physical and cross over Spiritual are decorative OT/NT markers, not transcribed. Colour meanings (G-o-d letters in blue/red/gold) not stated."
+ ],
+ "confidence": 0.96
+}

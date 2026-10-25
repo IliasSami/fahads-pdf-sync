@@ -1,0 +1,164 @@
+{
+  "id": "abel/38",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:2 — havel (הבל) = Abel",
+  "summary": "Genesis 4:2 with every occurrence of Abel's name highlighted in blue, in English (Abel) and Hebrew (הבל). Large below: havel, הבל, Abel, and the pronunciation ha’-vel; the letters are colour-coded to the sounds.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:2",
+      "osis": "Gen.4.2"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:ב"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "2 And again, she gave birth to his brother Abel. And Abel was a keeper of flocks, but Cain was a cultivator of the ground.",
+      "osis": "Gen.4.2"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "2 ותסף ללדת את אחיו את הבל",
+      "osis": "Gen.4.2"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ויהי הבל רעה צאן וקין היה עבד אדמה׃",
+      "osis": "Gen.4.2"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "havel"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "הבל"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Abel"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "ha’-vel"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:2 / בראשית ד:ב",
+      "osis": [
+        "Gen.4.2"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "הבל",
+      "translit": "havel",
+      "gloss": "Abel",
+      "strongs": "H1893"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "Abel",
+      "other": "הבל"
+    },
+    {
+      "en": "havel",
+      "other": "הבל"
+    },
+    {
+      "en": "ha (havel)",
+      "other": "ה"
+    },
+    {
+      "en": "v (havel)",
+      "other": "ב"
+    },
+    {
+      "en": "el (havel)",
+      "other": "ל"
+    }
+  ],
+  "letters": [
+    {
+      "lang": "he",
+      "letter": "he",
+      "char": "ה",
+      "value": 5,
+      "meaning": "first letter of הבל"
+    },
+    {
+      "lang": "he",
+      "letter": "bet",
+      "char": "ב",
+      "value": 2,
+      "meaning": "second letter of הבל (sounded v)"
+    },
+    {
+      "lang": "he",
+      "letter": "lamed",
+      "char": "ל",
+      "value": 30,
+      "meaning": "third letter of הבל"
+    }
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Abel",
+      "Cain",
+      "Eve"
+    ],
+    "places": [],
+    "events": [
+      "Cain and Abel's birth"
+    ],
+    "things": [
+      "flocks",
+      "ground"
+    ],
+    "themes": [
+      "brother",
+      "shepherd"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Genesis 4:2",
+    "Abel",
+    "Cain",
+    "keeper of flocks",
+    "keeper of sheep",
+    "tiller of the ground",
+    "cultivator of the ground",
+    "second son",
+    "his brother Abel",
+    "havel",
+    "hevel",
+    "ha’-vel",
+    "הבל",
+    "name Abel",
+    "Hebrew name Abel"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

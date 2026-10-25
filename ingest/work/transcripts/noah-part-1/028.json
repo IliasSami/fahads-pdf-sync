@@ -1,0 +1,114 @@
+{
+ "id": "noah-part-1/28",
+ "kinds": [
+  "word-study",
+  "text"
+ ],
+ "title": "Jesus H. Christ = Yeshua ha-Moshiach (ישוע המשיח)",
+ "summary": "Four colour-coded lines: “Jesus H. Christ”, “yeshua the messiah”, Hebrew ישוע המשיח and “yeshua hamoshiach”. Jesus/yeshua/ישוע are red, the H./the/ה (the Hebrew letter he) is black, and Christ/messiah/משיח/moshiach are gold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Jesus H. Christ"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "yeshua the messiah"
+  },
+  {
+   "lang": "he",
+   "role": "body",
+   "text": "ישוע המשיח"
+  },
+  {
+   "lang": "translit",
+   "role": "body",
+   "text": "yeshua hamoshiach"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Jesus (Yeshua)",
+   "strongs": "H3442"
+  },
+  {
+   "lang": "he",
+   "word": "ה",
+   "translit": "ha",
+   "gloss": "the (the Hebrew letter he, H)",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "משיח",
+   "translit": "moshiach",
+   "gloss": "messiah, anointed one, Christ",
+   "strongs": "H4899"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Jesus",
+   "other": "ישוע"
+  },
+  {
+   "en": "yeshua",
+   "other": "ישוע"
+  },
+  {
+   "en": "H.",
+   "other": "ה"
+  },
+  {
+   "en": "the",
+   "other": "ה"
+  },
+  {
+   "en": "Christ",
+   "other": "משיח"
+  },
+  {
+   "en": "messiah",
+   "other": "משיח"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Jesus H. Christ",
+  "Yeshua",
+  "Yeshua HaMashiach",
+  "Yeshua hamoshiach",
+  "Jesus the Messiah",
+  "Hebrew name of Jesus",
+  "ישוע המשיח",
+  "Christ",
+  "Messiah",
+  "moshiach",
+  "mashiach",
+  "the letter he",
+  "H in Jesus H. Christ"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

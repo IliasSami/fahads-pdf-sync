@@ -1,0 +1,107 @@
+{
+ "id": "genesis-1-1-part-1/105",
+ "kinds": [
+  "gematria",
+  "chart"
+ ],
+ "title": "Genesis 1:1 formula equals 3.1415E x 10^17, or pi E x 10^17",
+ "summary": "Genesis 1:1: (28 x 23,887,872 followed by 27 zeros) divided by (7 x 304,153,525,784,176,000) = 3.1415E x 10^17, or pi E x 10^17 — the slide presents the result as the number pi.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "(28 x 23,887,872,000,000,000,000,000,000,000,000,000)"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "d_i_v_i_d_e_d b_y"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "(7 x 304,153,525,784,176,000)"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 3.1415E x 10^17"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "or π E x 10^17"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3.1415,
+   "note": "result 3.1415E x 10^17, presented as pi"
+  },
+  {
+   "value": 28,
+   "note": "number of letters in Genesis 1:1"
+  },
+  {
+   "value": 7,
+   "note": "number of words in Genesis 1:1"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Bible codes",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "pi",
+  "π",
+  "3.1415",
+  "Genesis 1:1",
+  "pi in Genesis 1:1",
+  "number pi in the Bible",
+  "10^17",
+  "mathematics of Genesis 1:1",
+  "gematria",
+  "circle constant",
+  "Bible math",
+  "3.14159"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

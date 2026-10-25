@@ -1,0 +1,217 @@
+{
+ "id": "elijah-elisha/44",
+ "kinds": [
+  "list",
+  "title"
+ ],
+ "title": "Elijah: his 8 miracles — #1 shutting heaven and stopping rain",
+ "summary": "Title and list of Elijah's eight miracles from 1st and 2nd Kings, each with its Scripture reference. Only the first, shutting heaven and stopping rain for 3 years (1 Kings 17:1), is highlighted; the other seven are greyed out. Elijah is shown in English and Hebrew (אליהו) in matching colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Elijah"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "HIS 8 MIRACLES"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "אליהו"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "from 1st and 2nd Kings"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Shutting heaven & stopping rain for 3 years. (1 Kings 17:1)",
+   "osis": "1Kgs.17.1"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "2 Widow’s Oil multiplied & grain increased daily. (1 Kings 17:2)",
+   "osis": "1Kgs.17.2"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "3 Widow's son raised from the dead. (1 Kings 17:22)",
+   "osis": "1Kgs.17.22"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "4 Fire from heaven on the soaked altar. (1 Kings 18:38)",
+   "osis": "1Kgs.18.38"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "5 Outran Ahab’s chariot (1 Kings 18:46)",
+   "osis": "1Kgs.18.46"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "6 Fire brought down on the 51 soldiers. (2 Kings 1:10)",
+   "osis": "2Kgs.1.10"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "7 Fire brought down on another 51 soldiers. (2 Kings 1:12)",
+   "osis": "2Kgs.1.12"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "8 The parting of the river Jordan. (2 Kings 2:8)",
+   "osis": "2Kgs.2.8"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 17:1",
+   "osis": [
+    "1Kgs.17.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "1 Kings 17:2",
+   "osis": [
+    "1Kgs.17.2"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "1 Kings 17:22",
+   "osis": [
+    "1Kgs.17.22"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "1 Kings 18:38",
+   "osis": [
+    "1Kgs.18.38"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "1 Kings 18:46",
+   "osis": [
+    "1Kgs.18.46"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "2 Kings 1:10",
+   "osis": [
+    "2Kgs.1.10"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "2 Kings 1:12",
+   "osis": [
+    "2Kgs.1.12"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "2 Kings 2:8",
+   "osis": [
+    "2Kgs.2.8"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אליהו",
+   "translit": "Eliyahu",
+   "gloss": "Elijah (my God is YHWH)",
+   "strongs": "H452"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Elijah",
+   "other": "אליהו"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 8,
+   "note": "number of Elijah's miracles in the list"
+  },
+  {
+   "value": 3,
+   "note": "years of no rain (miracle #1)"
+  },
+  {
+   "value": 51,
+   "note": "soldiers in each company destroyed by fire (miracles #6 and #7)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah",
+   "Ahab",
+   "God"
+  ],
+  "places": [
+   "Jordan River"
+  ],
+  "events": [
+   "three-year drought",
+   "parting of the Jordan"
+  ],
+  "things": [
+   "altar",
+   "chariot",
+   "oil",
+   "grain",
+   "fire from heaven"
+  ],
+  "themes": [
+   "miracles",
+   "prophecy",
+   "judgment"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Elijah",
+  "eight miracles of Elijah",
+  "8 miracles",
+  "Elijah's miracles",
+  "Eliyahu",
+  "shutting heaven",
+  "stopping rain",
+  "three years drought",
+  "widow's oil",
+  "widow's son raised",
+  "fire from heaven",
+  "outran Ahab's chariot",
+  "fire on 51 soldiers",
+  "parting of the Jordan",
+  "1 Kings 17",
+  "2 Kings 2"
+ ],
+ "uncertain": [
+  "Reference shown for miracle #2 is (1 Kings 17:2), transcribed as shown."
+ ],
+ "confidence": 0.96
+}

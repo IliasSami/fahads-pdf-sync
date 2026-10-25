@@ -1,0 +1,37 @@
+{
+  "id": "akeda-1/17",
+  "kinds": ["verse", "comparison"],
+  "title": "Isaac named before birth beside Jesus named before birth (Gen 17:19, Matt 1:20-21)",
+  "summary": "Pairs God's instruction to name Abraham's son Isaac (Genesis 17:19, headed 18:19) with the angel's instruction to Joseph to name Mary's Son yeshua because He will save His people from their sins (Matthew 1:20-21). Matching colours link the sons, the mothers and the Holy Spirit.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 18:19", "osis": "Gen.17.19"},
+    {"lang": "he", "role": "reference", "text": "בראשית יז:יט"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.19", "text": "19 But God said, “No, but Sarah your wife will bear you a"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.19", "text": "son, and you shall call his name Isaac; and I will establish"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.19", "text": "My covenant with him for an everlasting covenant for his"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.19", "text": "descendants after him."},
+    {"lang": "en", "role": "reference", "text": "Matthew 1:20-21", "osis": ["Matt.1.20", "Matt.1.21"]},
+    {"lang": "el", "role": "reference", "text": "Μαθθαῖον 1:20-21"},
+    {"lang": "en", "role": "verse", "osis": "Matt.1.20", "text": "20 But when he had considered this, behold, an angel of the"},
+    {"lang": "en", "role": "verse", "osis": "Matt.1.20", "text": "Lord appeared to him in a dream, saying, “Joseph, son of"},
+    {"lang": "en", "role": "verse", "osis": "Matt.1.20", "text": "David, do not be afraid to take Mary as your wife; for the"},
+    {"lang": "en", "role": "verse", "osis": "Matt.1.20", "text": "Child who has been conceived in her is of the Holy Spirit."},
+    {"lang": "en", "role": "verse", "osis": "Matt.1.21", "text": "21“She will bear a Son; and you shall call His name"},
+    {"lang": "en", "role": "verse", "osis": "Matt.1.21", "text": "yeshua, for He will save His people from their sins.”"}
+  ],
+  "refs": [
+    {"shown": "Genesis 18:19 / בראשית יז:יט (English heading says 18:19; Hebrew heading and quoted text are 17:19)", "osis": ["Gen.17.19"], "role": "quoted"},
+    {"shown": "Matthew 1:20-21 / Μαθθαῖον 1:20-21", "osis": ["Matt.1.20", "Matt.1.21"], "role": "quoted"}
+  ],
+  "words": [
+    {"lang": "en", "word": "yeshua", "translit": "yeshua", "gloss": "Jesus (Yeshua), 'salvation'", "strongs": "H3444"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham", "Sarah", "Isaac", "Joseph", "David", "Mary", "Holy Spirit", "Jesus"], "places": [], "events": ["Birth of Isaac", "Birth of Jesus"], "things": [], "themes": ["typology", "covenant", "meaning of names", "salvation", "messianic prophecy", "sin"], "groups": ["angels"]},
+  "keywords": ["Genesis 17:19", "Matthew 1:20-21", "named before birth", "Isaac", "Yeshua", "Jesus", "Joseph", "angel appeared in a dream", "He will save His people from their sins", "Isaac and Jesus", "typology", "conceived of the Holy Spirit", "everlasting covenant"],
+  "uncertain": ["English reference heading says Genesis 18:19 but the Hebrew heading (יז:יט) and the quoted text are Genesis 17:19; transcribed as shown."],
+  "confidence": 0.95
+}

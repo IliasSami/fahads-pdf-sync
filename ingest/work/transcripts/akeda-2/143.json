@@ -1,0 +1,126 @@
+{
+ "id": "akeda-2/143",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Exodus 3:14 — \"I AM WHO I AM\" (ehyeh asher ehyeh)",
+ "summary": "Exodus 3:14 in English and Hebrew: God tells Moses \"I AM WHO I AM\" and \"I AM has sent me to you.\" The Hebrew אהיה (ehyeh, \"I AM\") is highlighted with the א in blue and the י in dark red each time it occurs, and certain letters of the English words are coloured to match. The bottom shows ehyeh, אהיה and I AM.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 3:14",
+   "osis": "Exod.3.14"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות ג:יד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.3.14",
+   "text": "14 God said to Moses, \"I AM WHO I AM\"; and He said, \"Thus you shall say to the sons of Israel, ' I AM has sent me to you.'\""
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Exod.3.14",
+   "text": "ויאמר אלהים אל־משה אהיה אשר אהיה ויאמר כה תאמר לבני ישראל אהיה שלחני אליכם׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ehyeh"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אהיה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "I AM"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 3:14 / שמות ג:יד",
+   "osis": [
+    "Exod.3.14"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אהיה",
+   "translit": "ehyeh",
+   "gloss": "I AM (I will be)",
+   "strongs": "H1961"
+  },
+  {
+   "lang": "he",
+   "word": "אהיה אשר אהיה",
+   "translit": "ehyeh asher ehyeh",
+   "gloss": "I AM WHO I AM",
+   "strongs": "H1961"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "I AM",
+   "other": "אהיה"
+  },
+  {
+   "en": "ehyeh",
+   "other": "אהיה"
+  },
+  {
+   "en": "I AM WHO I AM",
+   "other": "אהיה אשר אהיה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Moses"
+  ],
+  "places": [],
+  "events": [
+   "Burning bush"
+  ],
+  "things": [],
+  "themes": [
+   "names of God"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Exodus 3:14",
+  "I AM WHO I AM",
+  "I AM THAT I AM",
+  "ehyeh asher ehyeh",
+  "ehyeh",
+  "אהיה",
+  "burning bush",
+  "name of God",
+  "Moses",
+  "I AM has sent me",
+  "sons of Israel",
+  "children of Israel"
+ ],
+ "uncertain": [
+  "The meaning of the individually coloured letters inside the English words (God, Moses, He, Israel) is not stated on the slide."
+ ],
+ "confidence": 0.92
+}

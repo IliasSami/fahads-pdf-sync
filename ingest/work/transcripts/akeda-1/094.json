@@ -1,0 +1,25 @@
+{
+  "id": "akeda-1/94",
+  "kinds": ["verse"],
+  "title": "John 8:31-33 — “The truth will make you free”; “We are Abraham’s descendants”",
+  "summary": "John 8:31-33: Jesus tells believing Jews that if they continue in His word they will know the truth and the truth will make them free; they answer that they are Abraham’s descendants and have never been enslaved. Jesus' words and 'the truth' are in red, Abraham in blue.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "John 8:31-33", "osis": ["John.8.31", "John.8.32", "John.8.33"]},
+    {"lang": "el", "role": "reference", "text": "Ἰωάνης 8:31-33", "osis": ["John.8.31", "John.8.32", "John.8.33"]},
+    {"lang": "en", "role": "verse", "osis": "John.8.31", "text": "31 So Jesus was saying to those Jews who had believed Him, “If you continue in My word, then you are truly disciples of Mine;"},
+    {"lang": "en", "role": "verse", "osis": "John.8.32", "text": "32 and you will know the truth, and the truth will make you free.”"},
+    {"lang": "en", "role": "verse", "osis": "John.8.33", "text": "33 They answered Him, “We are Abraham’s descendants and have never yet been enslaved to anyone; how is it that You say, ‘You will become free’?”"}
+  ],
+  "refs": [
+    {"shown": "John 8:31-33 / Ἰωάνης 8:31-33", "osis": ["John.8.31", "John.8.32", "John.8.33"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Jesus", "Abraham"], "places": [], "events": [], "things": [], "themes": ["truth", "freedom", "faith", "discipleship", "seed"], "groups": ["Jews", "disciples"]},
+  "keywords": ["John 8", "John 8:32", "the truth shall make you free", "the truth will set you free", "continue in my word", "disciples indeed", "Abraham's seed", "Abraham's descendants", "never in bondage", "enslaved", "freedom", "children of Abraham"],
+  "uncertain": [],
+  "confidence": 0.96
+}

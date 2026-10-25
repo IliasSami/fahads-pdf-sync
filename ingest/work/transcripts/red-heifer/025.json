@@ -1,0 +1,140 @@
+{
+ "id": "red-heifer/25",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Leviticus 26:3 — chuk (חק), a statute beyond understanding",
+ "summary": "Leviticus 26:3-4 in English and Hebrew (\"If you walk in My statutes and keep My commandments...\"), with matching colours linking in, My, statutes and commandments to their Hebrew parts. Below it the word chuk (חק), 'statute', is defined as a decree that surpasses understanding and is of absolute Divine origin.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Leviticus 26:3",
+   "osis": "Lev.26.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ויקרא כו:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": [
+    "Lev.26.3",
+    "Lev.26.4"
+   ],
+   "text": "3 “If you walk in My statutes and keep My commandments so as to carry them out, 4 then I shall…"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": [
+    "Lev.26.3",
+    "Lev.26.4"
+   ],
+   "text": "3 אם־בחקתי תלכו ואת־מצותי תשמרו ועשיתם אתם׃ 4 ונתתי..."
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "chuk"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חק"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Statute"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "A statute, ordinance or decree that surpasses understanding."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "As there is no apparent logic; therefore, it is of absolute Divine origin."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Leviticus 26:3 / ויקרא כו:ג",
+   "osis": [
+    "Lev.26.3",
+    "Lev.26.4"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חק",
+   "translit": "chuk",
+   "gloss": "statute, ordinance, decree that surpasses understanding",
+   "strongs": "H2706",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "in",
+   "other": "ב"
+  },
+  {
+   "en": "My",
+   "other": "י"
+  },
+  {
+   "en": "statutes",
+   "other": "חק"
+  },
+  {
+   "en": "commandments",
+   "other": "מצו"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "statutes (chok)",
+   "commandments",
+   "obedience",
+   "Torah",
+   "holiness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "chuk",
+  "chok",
+  "chukim",
+  "statute",
+  "statutes",
+  "ordinance",
+  "decree",
+  "beyond understanding",
+  "no apparent logic",
+  "Divine origin",
+  "Leviticus 26:3",
+  "walk in my statutes",
+  "keep my commandments",
+  "red heifer statute"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

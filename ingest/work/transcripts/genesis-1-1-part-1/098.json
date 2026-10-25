@@ -1,0 +1,252 @@
+{
+ "id": "genesis-1-1-part-1/98",
+ "kinds": [
+  "letters",
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:1 — the letters of alef (alef, lamed, pe) and their pictures",
+ "summary": "Genesis 1:1 in Hebrew with its transliteration and the alefs in the verse highlighted in blue (the first letter of bereshit shown in red). Below, the three letters that spell alef (א ל ף) are listed with their ancient pictographs, meanings and values: alef = strength/God (1), lamed = shepherd's crook (30), pe = mouth (80).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "translit",
+   "role": "verse",
+   "text": "ha'aretz v'et hashamayim et elohim bara bereshit",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל ף"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1. א alef A — Strength, God — 1"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "12. ל lamed L — Shepherd's Crook — 30"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "17. פ (ף) pe P — Mouth — 80"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלף",
+   "translit": "alef",
+   "gloss": "alef (name of the first Hebrew letter)",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "Strength, God",
+   "other": "א"
+  },
+  {
+   "en": "lamed",
+   "other": "ל"
+  },
+  {
+   "en": "Shepherd's Crook",
+   "other": "ל"
+  },
+  {
+   "en": "pe",
+   "other": "פ"
+  },
+  {
+   "en": "Mouth",
+   "other": "פ"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "strength, God (1st letter)"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "shepherd's crook (12th letter)"
+  },
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": 80,
+   "meaning": "mouth (17th letter; final form ף)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "value of alef"
+  },
+  {
+   "value": 30,
+   "note": "value of lamed"
+  },
+  {
+   "value": 80,
+   "note": "value of pe"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Small black hand-drawn ancient pictograph for alef: a looped, ox-head-like squiggle sitting on a blue underline.",
+   "subjects": [
+    "alef pictograph",
+    "paleo-Hebrew",
+    "ox head",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.47,
+    0.54,
+    0.53,
+    0.63
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Small black hand-drawn ancient pictograph for lamed: a slanted hooked stroke (shepherd's crook) above a dark green underline.",
+   "subjects": [
+    "lamed pictograph",
+    "shepherd's crook",
+    "paleo-Hebrew",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.47,
+    0.66,
+    0.53,
+    0.76
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Small black hand-drawn ancient pictograph for pe: a mouth-like shape above a black underline.",
+   "subjects": [
+    "pe pictograph",
+    "mouth",
+    "paleo-Hebrew",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.47,
+    0.82,
+    0.54,
+    0.89
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria",
+   "names of God",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "alef",
+  "aleph",
+  "Genesis 1:1",
+  "in the beginning",
+  "bereshit",
+  "alef lamed pe",
+  "strength",
+  "God",
+  "shepherd's crook",
+  "mouth",
+  "pictographs",
+  "Hebrew letter meanings",
+  "paleo-Hebrew",
+  "bara elohim"
+ ],
+ "uncertain": [
+  "Exact wording of the pictograph shapes is a description only; the slide does not explain them beyond the listed meanings."
+ ],
+ "confidence": 0.93
+}

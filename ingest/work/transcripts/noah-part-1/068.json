@@ -1,0 +1,118 @@
+{
+ "id": "noah-part-1/68",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Mercy and Judgment: the flood (Genesis 6:17) and the covenant (Genesis 6:18)",
+ "summary": "Genesis 6:17 (the flood to destroy all flesh) and Genesis 6:18 (God establishes His covenant and Noah's family enters the ark), separated by the line '↓ Mercy ↓ God ↑ Judgment ↑' with God written in blue, red and yellow letters.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:17",
+   "osis": "Gen.6.17"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.17",
+   "text": "17 “Behold, I, even I am bringing the flood of water upon the earth, to destroy all flesh in which is the breath of life, from under heaven; everything that is on the earth shall perish."
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "↓ Mercy ↓"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "God"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "↑ Judgment ↑"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:18",
+   "osis": "Gen.6.18"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.18",
+   "text": "18 “But I will establish My covenant with you; and you shall enter the ark — you and your sons and your wife, and your sons’ wives with you."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:17 / בראשית ו:יז",
+   "osis": [
+    "Gen.6.17"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 6:18 / בראשית ו:יח",
+   "osis": [
+    "Gen.6.18"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "judgment",
+   "grace",
+   "covenant",
+   "salvation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "mercy and judgment",
+  "God's mercy",
+  "God's judgment",
+  "Genesis 6:17",
+  "Genesis 6:18",
+  "establish My covenant",
+  "enter the ark",
+  "you and your sons and your wife",
+  "sons' wives",
+  "Noah's family",
+  "covenant with Noah",
+  "the flood"
+ ],
+ "uncertain": [
+  "'God' has the G in blue, o in red and d in yellow; the arrows point down toward Mercy and up toward Judgment. Verse text is drawn from the slide; 'ark' has 'ar' in red."
+ ],
+ "confidence": 0.96
+}

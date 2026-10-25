@@ -1,0 +1,115 @@
+{
+ "id": "red-heifer/113",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Golden Calf burned, ground to powder, drunk (Exodus 32:20, Deut 9:21)",
+ "summary": "Two verses in English describing how the golden calf was burned in the fire, ground to powder or dust and scattered on the water or stream, with the children of Israel made to drink it (Exodus 32:20 and Deuteronomy 9:21). Key words such as calf, powder, dust, water and stream are colour-highlighted.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 32:20",
+   "osis": "Exod.32.20"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות לב:כ"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.32.20",
+   "text": "20 Then he [Moses] took the calf which they had made, burned it in the fire, and ground it to powder; and he scattered it on the water and made the children of Israel drink it."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Deuteronomy 9:21",
+   "osis": "Deut.9.21"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "דברים ט:כא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Deut.9.21",
+   "text": "21 And I took your sinful thing which you had made, the calf, and burned it in the fire and crushed it, grinding it thoroughly until it was as fine as dust; and I threw its dust into the stream that came down from the mountain."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 32:20 / שמות לב:כ",
+   "osis": [
+    "Exod.32.20"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Deuteronomy 9:21 / דברים ט:כא",
+   "osis": [
+    "Deut.9.21"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [
+  {
+   "en": "Exodus",
+   "other": "שמות"
+  },
+  {
+   "en": "Deuteronomy",
+   "other": "דברים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Moses"
+  ],
+  "places": [],
+  "events": [
+   "Golden Calf"
+  ],
+  "things": [
+   "golden calf",
+   "fire",
+   "powder",
+   "dust",
+   "water"
+  ],
+  "themes": [
+   "sin",
+   "idolatry",
+   "purification"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "golden calf",
+  "burned the calf",
+  "ground to powder",
+  "made Israel drink",
+  "drink the powder",
+  "Exodus 32",
+  "Deuteronomy 9",
+  "your sinful thing",
+  "scattered on the water",
+  "dust into the stream",
+  "calf crushed",
+  "Moses and the calf",
+  "idol destroyed"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

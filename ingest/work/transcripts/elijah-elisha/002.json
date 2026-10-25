@@ -1,0 +1,19 @@
+{
+  "id": "elijah-elisha/2",
+  "kinds": ["title"],
+  "title": "Parallels",
+  "summary": "Section title slide reading “Parallels”, with the two letter l's picked out in red and blue (as if standing side by side); it introduces a series of side-by-side comparisons.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Parallels"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": [], "things": [], "themes": ["typology"], "groups": []},
+  "keywords": ["parallels", "comparison", "side by side", "types and shadows", "typology", "foreshadowing", "Elijah and Elisha"],
+  "uncertain": [],
+  "confidence": 0.95
+}

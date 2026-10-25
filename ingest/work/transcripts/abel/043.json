@@ -1,0 +1,130 @@
+{
+  "id": "abel/43",
+  "kinds": [
+    "verse",
+    "comparison"
+  ],
+  "title": "Genesis 4:1-2: 1 conception, 2 births (Cain and Abel)",
+  "summary": "Genesis 4:1-2 with \"conceived\" in green and \"birth\" in red (twice), Cain and Abel colour-coded and the Hebrew את inserted before \"the LORD\". The totals below read 1 Conception and 2 Births, in contrast with Leah's 4 and 4.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:1-2",
+      "osis": [
+        "Gen.4.1",
+        "Gen.4.2"
+      ]
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:א-ב"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "1 And the man knew Eve [chava] his wife, and she conceived and gave birth to Cain, and she said, “I have obtained a man את the LORD.”",
+      "osis": "Gen.4.1"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "2 And again, she gave birth to his brother Abel. And Abel was a keeper of flocks, but Cain was a cultivator of the ground.",
+      "osis": "Gen.4.2"
+    },
+    {
+      "lang": "en",
+      "role": "number",
+      "text": "1"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Conception"
+    },
+    {
+      "lang": "en",
+      "role": "number",
+      "text": "2"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Births"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:1-2 / בראשית ד:א-ב",
+      "osis": [
+        "Gen.4.1",
+        "Gen.4.2"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "את",
+      "translit": "et",
+      "gloss": "alef tav (untranslated word before the object of the verb)",
+      "strongs": "H853"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "Cain",
+      "other": "קין"
+    },
+    {
+      "en": "Abel",
+      "other": "הבל"
+    }
+  ],
+  "letters": [],
+  "numbers": [
+    {
+      "value": 1,
+      "note": "one conception in Genesis 4:1-2"
+    },
+    {
+      "value": 2,
+      "note": "two births in Genesis 4:1-2 (Cain and Abel)"
+    }
+  ],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Eve",
+      "Adam",
+      "Cain",
+      "Abel",
+      "God"
+    ],
+    "places": [],
+    "events": [
+      "Cain and Abel's birth"
+    ],
+    "things": [],
+    "themes": [
+      "twins",
+      "marriage"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Genesis 4:1-2",
+    "1 conception 2 births",
+    "one conception two births",
+    "Cain and Abel twins",
+    "conceived once",
+    "twins",
+    "Eve conceived",
+    "gave birth to Cain",
+    "gave birth to his brother Abel"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

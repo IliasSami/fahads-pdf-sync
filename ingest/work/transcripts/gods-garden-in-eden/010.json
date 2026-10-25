@@ -1,0 +1,219 @@
+{
+ "id": "gods-garden-in-eden/10",
+ "kinds": [
+  "verse",
+  "gematria",
+  "word-study"
+ ],
+ "title": "Exodus 3:14 — I Am (21) that I Am (21): 21 x 21 = 441 = emet",
+ "summary": "Exodus 3:14's \"I Am that I Am\" (אהיה אשר אהיה, eh-yeh asher eh-yeh) with each eh-yeh adding to 5 + 10 + 5 + 1 = 21; 21 x 21 = 441, and 4 + 4 + 1 = 9, equated with Truth (אמת).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 3:14",
+   "osis": "Exod.3.14"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות ג:יד"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "I Am²¹"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "eh-yeh"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "that"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "asher"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "I Am²¹"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "eh-yeh"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "אהיה אשר אהיה",
+   "osis": "Exod.3.14"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 10 5 1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 10 5 1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "21 x 21 = 441"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "4 + 4 + 1 = 9 = Truth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אמת"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 3:14 / שמות ג:יד",
+   "osis": [
+    "Exod.3.14"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אהיה",
+   "translit": "eh-yeh",
+   "gloss": "I Am",
+   "strongs": "H1961",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     10,
+     5,
+     1
+    ],
+    "total": 21
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אשר",
+   "translit": "asher",
+   "gloss": "that",
+   "strongs": "H834",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אמת",
+   "translit": "emet",
+   "gloss": "truth",
+   "strongs": "H571",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     400,
+     40,
+     1
+    ],
+    "total": 441
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Truth",
+   "other": "אמת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "first letter of אהיה and אשר (shown in blue)"
+  },
+  {
+   "lang": "he",
+   "letter": "hey",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 21,
+   "note": "gematria of אהיה (eh-yeh, I Am) = 5 + 10 + 5 + 1"
+  },
+  {
+   "value": 441,
+   "note": "21 x 21; the value of אמת (emet, truth)"
+  },
+  {
+   "value": 9,
+   "note": "4 + 4 + 1, digit sum of 441, equated with Truth"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Moses"
+  ],
+  "places": [],
+  "events": [
+   "Burning bush"
+  ],
+  "things": [],
+  "themes": [
+   "names of God",
+   "gematria",
+   "truth",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Exodus 3:14",
+  "I AM THAT I AM",
+  "I am that I am",
+  "eh-yeh asher eh-yeh",
+  "ehyeh",
+  "name of God",
+  "21",
+  "21 x 21",
+  "441",
+  "gematria",
+  "truth",
+  "emet",
+  "burning bush",
+  "אהיה אשר אהיה",
+  "Moses"
+ ],
+ "uncertain": [
+  "Slide shows only part of Exodus 3:14 (אהיה אשר אהיה), not the full verse"
+ ],
+ "confidence": 0.95
+}

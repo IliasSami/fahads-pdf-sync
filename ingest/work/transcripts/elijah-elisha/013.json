@@ -1,0 +1,94 @@
+{
+  "id": "elijah-elisha/13",
+  "kinds": [
+    "comparison",
+    "list"
+  ],
+  "title": "Joseph / Yeshua parallels: sentenced to prison / death",
+  "summary": "The Joseph–Yeshua parallels list adds that each was sentenced — Joseph to prison (green), Yeshua to death (red) — after being sent, betrayed, sold for silver and falsely accused.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Joseph / yeshua Parallels"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sent by Father to check on brothers"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Betrayed by his brothers"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sold for 20/30 pieces of silver"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Falsely accused"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sentenced to prison / death"
+    }
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {
+      "value": 20,
+      "note": "pieces of silver Joseph was sold for"
+    },
+    {
+      "value": 30,
+      "note": "pieces of silver paid to betray Yeshua"
+    }
+  ],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Joseph",
+      "Jesus",
+      "Jacob",
+      "God"
+    ],
+    "places": [],
+    "events": [],
+    "things": [
+      "silver",
+      "prison"
+    ],
+    "themes": [
+      "typology",
+      "betrayal",
+      "death"
+    ],
+    "groups": [
+      "Joseph's brothers"
+    ]
+  },
+  "keywords": [
+    "Joseph",
+    "Yeshua",
+    "Jesus",
+    "parallels",
+    "Joseph as a type of Christ",
+    "falsely accused",
+    "Potiphar's wife",
+    "false witnesses",
+    "prison",
+    "sentenced to death",
+    "Joseph in prison",
+    "foreshadowing"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

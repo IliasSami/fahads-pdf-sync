@@ -1,0 +1,21 @@
+{
+  "id": "akeda-2/126",
+  "kinds": ["humor", "quote", "picture"],
+  "title": "Cross-stitch saying: a cat can have kittens in an oven, but that don't make them biscuits",
+  "summary": "A humorous folk saying shown as a cross-stitch sampler with two Stars of David: “A cat can have kittens in an oven, but that don't make them biscuits” — being born somewhere does not change what you are.",
+  "text": [
+    {"lang": "en", "role": "quote", "text": "A cat can have kittens in an oven, but that don't make them biscuits."}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [
+    {"type": "illustration", "description": "Cross-stitch sampler on pale yellow fabric with a blue and yellow stitched border; the saying is stitched in red cross-stitch letters, with two light-blue Stars of David on either side of the last word.", "subjects": ["cross-stitch", "embroidery sampler", "needlework", "Star of David", "folk saying", "cat", "kittens", "biscuits"], "text_in_picture": "A cat can have kittens in an oven, but that don't make them biscuits.", "credit": null, "box": [0, 0, 1, 1]}
+  ],
+  "entities": {"people": [], "places": [], "events": [], "things": ["Star of David"], "themes": ["humor", "identity"], "groups": []},
+  "keywords": ["cat kittens oven biscuits", "folk saying", "proverb", "joke", "humor", "cross-stitch", "embroidery", "sampler", "needlepoint", "Star of David", "identity", "birthplace doesn't change what you are"],
+  "uncertain": [],
+  "confidence": 0.95
+}

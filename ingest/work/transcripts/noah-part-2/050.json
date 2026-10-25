@@ -1,0 +1,75 @@
+{
+ "id": "noah-part-2/50",
+ "kinds": [
+  "picture"
+ ],
+ "title": "Photo of five men posing on a mountain overlook (23.11.2011)",
+ "summary": "A full-slide photograph of five men standing side by side with arms around each other at a brick-walled overlook, with bare desert mountains and a blue inlet of water behind them. An orange date stamp reads 23.11.2011 15:55.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "23.11.2011 15:55"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "TEXAS A&M"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Color snapshot of five men standing in a row at a low brick-and-tile railing in front of dry, rocky desert mountains and a blue bay or sea inlet, with late-afternoon sun and a lens flare at upper right. From left: an older bald man with a white beard in a blue-and-white jacket; a man in a baseball cap and grey T-shirt; a man in a black shirt and khaki trousers with a small waist bag; a young man in a black T-shirt with an astronaut graphic; and a man in a grey Texas A&M sweatshirt. An orange camera date stamp is in the lower right.",
+   "subjects": [
+    "group photo",
+    "five men",
+    "desert mountains",
+    "overlook",
+    "brick wall",
+    "blue water",
+    "travel photo",
+    "snapshot"
+   ],
+   "text_in_picture": "TEXAS A&M (sweatshirt); 23.11.2011 15:55 (date stamp)",
+   "credit": null,
+   "box": [
+    0.125,
+    0.05,
+    0.875,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "photo",
+  "group photo",
+  "five men",
+  "men on mountain",
+  "desert mountains",
+  "overlook",
+  "trip photo",
+  "2011",
+  "23 November 2011",
+  "snapshot",
+  "travel",
+  "mountains and sea"
+ ],
+ "uncertain": [
+  "Location and the identities of the men are not stated on the slide; they are not identified."
+ ],
+ "confidence": 0.95
+}

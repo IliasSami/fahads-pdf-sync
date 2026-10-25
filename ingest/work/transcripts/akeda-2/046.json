@@ -1,0 +1,24 @@
+{
+  "id": "akeda-2/46",
+  "kinds": ["verse"],
+  "title": "Genesis 23:1-4 — Sarah dies at Hebron; Abraham asks for a burial site",
+  "summary": "Genesis 23:1-4: Sarah lived 127 years and died at Kiriath-arba (Hebron) in Canaan; Abraham mourned her and asked the sons of Heth for a burial site, calling himself a stranger and sojourner. Sarah's and Abraham's names are coloured with the final “h” set apart.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 23", "osis": ["Gen.23.1", "Gen.23.2", "Gen.23.3", "Gen.23.4"]},
+    {"lang": "he", "role": "reference", "text": "בראשית כג", "osis": ["Gen.23.1", "Gen.23.2", "Gen.23.3", "Gen.23.4"]},
+    {"lang": "en", "role": "verse", "text": "1 Now Sarah lived one hundred and twenty-seven years; these were the years of the life of Sarah.", "osis": "Gen.23.1"},
+    {"lang": "en", "role": "verse", "text": "2 Sarah died in Kiriath-arba (that is, Hebron) in the land of Canaan; and Abraham went in to mourn for Sarah and to weep for her.", "osis": "Gen.23.2"},
+    {"lang": "en", "role": "verse", "text": "3 Then Abraham rose from before his dead, and spoke to the sons of Heth, saying,", "osis": "Gen.23.3"},
+    {"lang": "en", "role": "verse", "text": "4 “I am a stranger and a sojourner among you; give me a burial site among you that I may bury my dead out of my sight.”", "osis": "Gen.23.4"}
+  ],
+  "refs": [{"shown": "Genesis 23 / בראשית כג", "osis": ["Gen.23.1", "Gen.23.2", "Gen.23.3", "Gen.23.4"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [{"value": 127, "note": "years of Sarah's life"}],
+  "pictures": [],
+  "entities": {"people": ["Sarah", "Abraham"], "places": ["Kiriath-arba", "Hebron", "Canaan"], "events": ["Death of Sarah"], "things": ["burial site"], "themes": ["death", "mourning"], "groups": ["sons of Heth (Hittites)"]},
+  "keywords": ["death of Sarah", "Sarah died", "127 years", "Hebron", "Kiriath-arba", "Kirjath-arba", "Canaan", "Abraham mourned", "weep for Sarah", "sons of Heth", "Hittites", "stranger and sojourner", "burial place", "Genesis 23"],
+  "uncertain": [],
+  "confidence": 0.96
+}

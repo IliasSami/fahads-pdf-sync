@@ -1,0 +1,27 @@
+{
+  "id": "akeda-1/95",
+  "kinds": ["verse"],
+  "title": "John 8:34-38 — the slave of sin and the Son who makes you free",
+  "summary": "John 8:34-38: Jesus says everyone who commits sin is the slave of sin; the slave does not remain in the house forever but the son does, so if the Son makes you free you will be free indeed. He tells Abraham’s descendants they seek to kill Him and that He speaks what He has seen with His Father. 'son/Son' and Jesus' words are in red, Abraham and 'Father' in blue.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "John 8:34-38", "osis": ["John.8.34", "John.8.35", "John.8.36", "John.8.37", "John.8.38"]},
+    {"lang": "el", "role": "reference", "text": "Ἰωάνης 8:34-38", "osis": ["John.8.34", "John.8.35", "John.8.36", "John.8.37", "John.8.38"]},
+    {"lang": "en", "role": "verse", "osis": "John.8.34", "text": "34 Jesus answered them, “Truly, truly, I say to you, everyone who commits sin is the slave of sin."},
+    {"lang": "en", "role": "verse", "osis": "John.8.35", "text": "35 “The slave does not remain in the house forever; the son does remain forever."},
+    {"lang": "en", "role": "verse", "osis": "John.8.36", "text": "36 “So if the Son makes you free, you will be free indeed."},
+    {"lang": "en", "role": "verse", "osis": "John.8.37", "text": "37 “I know that you are Abraham’s descendants; yet you seek to kill Me, because My word has no place in you."},
+    {"lang": "en", "role": "verse", "osis": "John.8.38", "text": "38 “I speak the things which I have seen with My Father; therefore you also do the things which you heard from your father.”"}
+  ],
+  "refs": [
+    {"shown": "John 8:34-38 / Ἰωάνης 8:34-38", "osis": ["John.8.34", "John.8.35", "John.8.36", "John.8.37", "John.8.38"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Jesus", "Abraham", "God"], "places": [], "events": [], "things": [], "themes": ["sin", "freedom", "slavery", "father and son", "seed"], "groups": ["Jews"]},
+  "keywords": ["John 8", "John 8:36", "if the Son makes you free", "if the Son therefore shall make you free", "free indeed", "slave of sin", "servant of sin", "the son abideth ever", "Abraham's seed", "Abraham's descendants", "seek to kill me", "my Father"],
+  "uncertain": [],
+  "confidence": 0.96
+}

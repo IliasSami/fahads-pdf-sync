@@ -1,0 +1,51 @@
+{
+ "id": "red-heifer/94",
+ "kinds": [
+  "text"
+ ],
+ "title": "Once unclean, one cannot enter the Temple",
+ "summary": "A single statement: once unclean, one cannot enter Temple.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Once unclean, one cannot enter Temple."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Temple Mount"
+  ],
+  "events": [],
+  "things": [
+   "temple"
+  ],
+  "themes": [
+   "clean and unclean",
+   "temple",
+   "purification",
+   "holiness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "unclean cannot enter Temple",
+  "cannot enter the temple",
+  "ritual impurity",
+  "tamei",
+  "clean and unclean",
+  "temple entry",
+  "temple purity",
+  "red heifer purpose",
+  "why the red heifer"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

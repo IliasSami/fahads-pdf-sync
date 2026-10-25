@@ -1,0 +1,90 @@
+{
+ "id": "red-heifer/9",
+ "kinds": [
+  "picture",
+  "humor"
+ ],
+ "title": "Cartoon: the Dome of the Rock as a smiling character with arms and legs",
+ "summary": "The photo of the Western Wall and Dome of the Rock again, now with a hand-drawn smiley face on the golden dome and drawn arms and legs, so the dome looks like a cartoon figure sitting on the wall. No text on the slide.",
+ "text": [],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Photo of the Western Wall in Jerusalem with the gold-domed Dome of the Rock above it, a white minaret on the left, cypress trees on the right and a crowd in the plaza below.",
+   "subjects": [
+    "Western Wall",
+    "Dome of the Rock",
+    "Temple Mount",
+    "Jerusalem",
+    "minaret",
+    "photo"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.07,
+    0.0,
+    0.94,
+    1.0
+   ]
+  },
+  {
+   "type": "cartoon",
+   "description": "Black hand-drawn cartoon overlay on the photo: a smiling face with eyebrows drawn on the golden dome, two raised arms with hands, and two legs with feet dangling down the wall, making the dome look like a smiling character sitting on the wall.",
+   "subjects": [
+    "cartoon",
+    "smiley face",
+    "Dome of the Rock",
+    "arms and legs",
+    "humor",
+    "Humpty Dumpty style"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.38,
+    0.22,
+    0.67,
+    0.69
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [
+   "Jerusalem",
+   "Temple Mount"
+  ],
+  "events": [],
+  "things": [
+   "Dome of the Rock",
+   "Western Wall"
+  ],
+  "themes": [
+   "humor",
+   "temple"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Dome of the Rock",
+  "cartoon",
+  "smiling dome",
+  "smiley face",
+  "humor",
+  "joke",
+  "Western Wall",
+  "Temple Mount",
+  "Jerusalem",
+  "Humpty Dumpty",
+  "drawing on photo",
+  "wall"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

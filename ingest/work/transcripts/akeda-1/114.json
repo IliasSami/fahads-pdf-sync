@@ -1,0 +1,182 @@
+{
+ "id": "akeda-1/114",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 22:12-13 — the ram in the thicket; naar means lad",
+ "summary": "Genesis 22:12-13 under the heading 'The Akedah' (העקדה): the LORD tells Abraham not to harm the lad, Abraham sees a ram caught in the thicket and offers it up as a burnt offering in place of his son. The footer highlights the Hebrew word naar (נער), 'boy, young man, servant', in green like 'lad'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22",
+   "osis": "Gen.22.1"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ה ע ק ד ה"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Akedah"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.12",
+   "text": "12 He said, “Do not stretch out your hand against the lad,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.12",
+   "text": "and do nothing to him; for now I know that you fear God,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.12",
+   "text": "since you have not withheld your son,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.12",
+   "text": "your only son, from Me.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.13",
+   "text": "13 Then Abraham raised his eyes and looked,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.13",
+   "text": "and behold, behind him a ram caught in the thicket"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.13",
+   "text": "by his horns; and Abraham went and took the ram and"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.13",
+   "text": "offered him up for a burnt offering in the place of his son."
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "naar"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "נער"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "boy, young man, servant"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:12-13 / בראשית כב",
+   "osis": [
+    "Gen.22.12",
+    "Gen.22.13"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "נער",
+   "translit": "naar",
+   "gloss": "boy, young man, servant (lad)",
+   "strongs": "H5288"
+  },
+  {
+   "lang": "he",
+   "word": "העקדה",
+   "translit": "ha-akedah",
+   "gloss": "the binding",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "lad",
+   "other": "נער"
+  },
+  {
+   "en": "naar",
+   "other": "נער"
+  },
+  {
+   "en": "boy, young man, servant",
+   "other": "נער"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Abraham",
+   "Isaac"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "ram",
+   "thicket",
+   "burnt offering"
+  ],
+  "themes": [
+   "sacrifice",
+   "substitution",
+   "obedience",
+   "faith",
+   "atonement"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Akedah",
+  "Akeda",
+  "Genesis 22",
+  "Genesis 22:12",
+  "Genesis 22:13",
+  "ram caught in the thicket",
+  "ram",
+  "burnt offering",
+  "in the place of his son",
+  "substitution",
+  "lad",
+  "naar",
+  "na'ar",
+  "fear God",
+  "only son",
+  "do not lay your hand on the lad"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

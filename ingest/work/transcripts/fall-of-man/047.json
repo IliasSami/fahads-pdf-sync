@@ -1,0 +1,24 @@
+{
+  "id": "fall-of-man/47",
+  "kinds": ["verse", "title"],
+  "title": "The Progression of Blood (2): Cain & Abel — God requires blood",
+  "summary": "Second step in “The Progression of Blood”: Cain and Abel, where God requires blood. Genesis 4:3-5 is quoted, with Abel's offering of the firstlings of his flock and their fat portions highlighted in red; God accepts Abel's offering but not Cain's.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Progression of Blood₂"},
+    {"lang": "en", "role": "body", "text": "Cain & Abel"},
+    {"lang": "en", "role": "body", "text": "God Requires Blood"},
+    {"lang": "en", "role": "reference", "text": "Genesis 4:3-5", "osis": ["Gen.4.3", "Gen.4.4", "Gen.4.5"]},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ג-ה", "osis": ["Gen.4.3", "Gen.4.4", "Gen.4.5"]},
+    {"lang": "en", "role": "verse", "text": "3 So it came about in the course of time that Cain brought an offering to the LORD of the fruit of the ground. Abel, on his part also brought of the firstlings of his flock and of their fat portions. And the LORD had regard for Abel and for his offering; but for Cain and for his offering He had no regard. So Cain became very angry and his countenance fell.", "osis": ["Gen.4.3", "Gen.4.4", "Gen.4.5"]}
+  ],
+  "refs": [{"shown": "Genesis 4:3-5 / בראשית ד:ג-ה", "osis": ["Gen.4.3", "Gen.4.4", "Gen.4.5"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain", "Abel"], "places": [], "events": ["Cain and Abel's offerings"], "things": ["firstlings of the flock", "fruit of the ground"], "themes": ["blood", "sacrifice", "offering", "firstborn"], "groups": []},
+  "keywords": ["progression of blood", "God requires blood", "Cain and Abel", "Abel's offering", "Cain's offering", "firstlings of his flock", "fat portions", "fat thereof", "had respect unto Abel", "blood sacrifice", "fruit of the ground", "Genesis 4", "Genesis 4:3-5"],
+  "uncertain": [],
+  "confidence": 0.96
+}

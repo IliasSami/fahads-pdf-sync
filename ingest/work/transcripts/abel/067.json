@@ -1,0 +1,344 @@
+{
+  "id": "abel/67",
+  "kinds": [
+    "letters",
+    "word-study"
+  ],
+  "title": "The Hebrew alphabet (alefbet) with final forms; paneka and the suffix ך",
+  "summary": "A colour-coded chart of the 22 Hebrew letters with their names, plus the five final (sofit) forms, laid over the earlier Genesis 4:6 slide. Below it still show paneka (פניך, your face) and the suffix ך- meaning “your”.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "The Hebrew Alphabet (alefbet)"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "alef bet gimel dalet he vav zayin het tet yod kaph lamed mem nun samech ayin pe tzadi quf resh shin tav"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "א ב ג ד ה ו ז ח ט י כ ל מ נ ס ע פ צ ק ר ש ת"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "ך ם ן ף ץ"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Sofit"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Final Forms"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "paneka"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "פניך"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Your Face"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Suffix"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "ך-"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Your -"
+    }
+  ],
+  "refs": [],
+  "words": [
+    {
+      "lang": "he",
+      "word": "פניך",
+      "translit": "paneka",
+      "gloss": "your face",
+      "strongs": "H6440"
+    },
+    {
+      "lang": "he",
+      "word": "ך-",
+      "translit": "-ka",
+      "gloss": "your (suffix)",
+      "strongs": null
+    }
+  ],
+  "color_links": [
+    {
+      "en": "Face (Your Face)",
+      "other": "פני"
+    },
+    {
+      "en": "pan (paneka)",
+      "other": "פני"
+    }
+  ],
+  "letters": [
+    {
+      "lang": "he",
+      "letter": "alef",
+      "char": "א",
+      "value": 1,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "bet",
+      "char": "ב",
+      "value": 2,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "gimel",
+      "char": "ג",
+      "value": 3,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "dalet",
+      "char": "ד",
+      "value": 4,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "he",
+      "char": "ה",
+      "value": 5,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "vav",
+      "char": "ו",
+      "value": 6,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "zayin",
+      "char": "ז",
+      "value": 7,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "het",
+      "char": "ח",
+      "value": 8,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "tet",
+      "char": "ט",
+      "value": 9,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "yod",
+      "char": "י",
+      "value": 10,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "kaph",
+      "char": "כ",
+      "value": 20,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "lamed",
+      "char": "ל",
+      "value": 30,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "mem",
+      "char": "מ",
+      "value": 40,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "nun",
+      "char": "נ",
+      "value": 50,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "samech",
+      "char": "ס",
+      "value": 60,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "ayin",
+      "char": "ע",
+      "value": 70,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "pe",
+      "char": "פ",
+      "value": 80,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "tzadi",
+      "char": "צ",
+      "value": 90,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "quf",
+      "char": "ק",
+      "value": 100,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "resh",
+      "char": "ר",
+      "value": 200,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "shin",
+      "char": "ש",
+      "value": 300,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "tav",
+      "char": "ת",
+      "value": 400,
+      "meaning": ""
+    },
+    {
+      "lang": "he",
+      "letter": "kaph (final)",
+      "char": "ך",
+      "value": 20,
+      "meaning": "final form (sofit)"
+    },
+    {
+      "lang": "he",
+      "letter": "mem (final)",
+      "char": "ם",
+      "value": 40,
+      "meaning": "final form (sofit)"
+    },
+    {
+      "lang": "he",
+      "letter": "nun (final)",
+      "char": "ן",
+      "value": 50,
+      "meaning": "final form (sofit)"
+    },
+    {
+      "lang": "he",
+      "letter": "pe (final)",
+      "char": "ף",
+      "value": 80,
+      "meaning": "final form (sofit)"
+    },
+    {
+      "lang": "he",
+      "letter": "tzadi (final)",
+      "char": "ץ",
+      "value": 90,
+      "meaning": "final form (sofit)"
+    }
+  ],
+  "numbers": [],
+  "pictures": [
+    {
+      "type": "chart",
+      "description": "Colour-coded chart of the Hebrew alphabet running right to left: each of the 22 letters in its own colour with its name written in matching colour above it. Below is a second small row of the five final (sofit) letters ך ם ן ף ץ, labelled “Sofit” and “Final Forms”.",
+      "subjects": [
+        "Hebrew alphabet",
+        "alefbet",
+        "final letters",
+        "sofit",
+        "colour chart",
+        "letter names"
+      ],
+      "text_in_picture": "The Hebrew Alphabet (alefbet); alef bet gimel dalet he vav zayin het tet yod kaph lamed mem nun samech ayin pe tzadi quf resh shin tav; Sofit; Final Forms",
+      "credit": null,
+      "box": [
+        0.0,
+        0.0,
+        1.0,
+        0.58
+      ]
+    }
+  ],
+  "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "things": [
+      "Hebrew alphabet"
+    ],
+    "themes": [
+      "Hebrew letter meanings"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Hebrew alphabet",
+    "alefbet",
+    "aleph-bet",
+    "alphabet chart",
+    "letter names",
+    "final forms",
+    "sofit",
+    "final kaf",
+    "final mem",
+    "final nun",
+    "final pe",
+    "final tzadi",
+    "suffix",
+    "paneka"
+  ],
+  "uncertain": [
+    "The chart's letter values are not shown on the slide; standard gematria values were filled in. The slide overlays the earlier Genesis 4:6 slide, so only its lower rows (paneka and suffix) remain visible."
+  ],
+  "confidence": 0.9
+}

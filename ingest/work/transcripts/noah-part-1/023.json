@@ -1,0 +1,114 @@
+{
+ "id": "noah-part-1/23",
+ "kinds": [
+  "verse",
+  "comparison"
+ ],
+ "title": "God saw wickedness (Genesis 6:5) vs God saw 'very good' (Genesis 1:31)",
+ "summary": "Two verses side by side that both use 'saw': Genesis 6:5, where the LORD saw that man's wickedness was great, and Genesis 1:31, where God saw all He had made and it was very good. 'saw' is large and green in both; 'very good' is blue with a small superscript 7.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:5",
+   "osis": "Gen.6.5"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:ה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.5",
+   "text": "5 Then the LORD saw that the wickedness of man was great on the earth, and that every intent of the thoughts of his heart was only evil continually."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:31",
+   "osis": "Gen.1.31"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:לא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.31",
+   "text": "31 God saw all that He had made, and behold, it was very good⁷."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:5 / בראשית ו:ה",
+   "osis": [
+    "Gen.6.5"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 1:31 / בראשית א:לא",
+   "osis": [
+    "Gen.1.31"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "en",
+   "word": "saw",
+   "translit": "ra'ah",
+   "gloss": "saw, looked, perceived",
+   "strongs": "H7200"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "small superscript 7 after 'very good' in Genesis 1:31 (not explained on the slide)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation",
+   "the Flood"
+  ],
+  "things": [],
+  "themes": [
+   "sin",
+   "judgment",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "God saw",
+  "the LORD saw",
+  "very good",
+  "it was very good",
+  "Genesis 1:31",
+  "Genesis 6:5",
+  "wickedness of man",
+  "evil continually",
+  "creation was good",
+  "contrast good and evil",
+  "saw all that He had made",
+  "before the flood"
+ ],
+ "uncertain": [
+  "A small blue superscript 7 follows 'very good'; the slide does not explain it."
+ ],
+ "confidence": 0.96
+}

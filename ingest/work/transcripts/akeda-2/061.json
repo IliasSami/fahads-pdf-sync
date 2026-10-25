@@ -1,0 +1,88 @@
+{
+ "id": "akeda-2/61",
+ "kinds": [
+  "picture"
+ ],
+ "title": "Mt. Sinai, Sinai Peninsula, Egypt, 2011 — man riding a camel",
+ "summary": "A photo of a man in a white T-shirt riding a camel along a rocky desert path near Mt. Sinai, captioned Mt. Sinai, Sinai Peninsula, Egypt, 2011.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Mt. Sinai"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "Sinai Peninsula, Egypt"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "2011"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2011,
+   "note": "year shown for the photo"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Colour photograph of a man with glasses, in a white T-shirt and jeans, seated on a camel with a striped, colourful saddle blanket. They are on a stony desert track between rocky brown mountains under a blue sky; another camel and rider are further down the path and the camel's long shadow falls across the ground in front.",
+   "subjects": [
+    "camel",
+    "camel rider",
+    "Mt. Sinai",
+    "Sinai Peninsula",
+    "Egypt",
+    "desert",
+    "rocky mountains",
+    "wilderness path"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.07,
+    0.0,
+    0.49,
+    1.0
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [
+   "Mount Sinai",
+   "Sinai Peninsula",
+   "Egypt"
+  ],
+  "events": [],
+  "things": [
+   "camel"
+  ],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "Mount Sinai",
+  "Mt. Sinai",
+  "Sinai Peninsula",
+  "Egypt",
+  "2011",
+  "camel",
+  "camel ride",
+  "photo of a camel",
+  "desert",
+  "wilderness",
+  "Genesis 24 camels"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

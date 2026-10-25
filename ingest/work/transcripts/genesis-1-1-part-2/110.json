@@ -1,0 +1,246 @@
+{
+ "id": "genesis-1-1-part-2/110",
+ "kinds": [
+  "letters",
+  "gematria",
+  "picture"
+ ],
+ "title": "The alef is built from a vav and two yods, adding to 26 like YHWH",
+ "summary": "Shows that the Hebrew letter alef (א) can be seen as a diagonal vav (value 6, nail) with a yod (value 10, hand) at each end: 10 + 6 + 10 = 26, so alef is equated with 26, the same as yahweh = 26.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The alef א is composed of a diagonal vav ו and 2 י י."
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "ו vav V,O,W 6 Nail"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "י yod I,Y 10 Hand"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "alef א = [diagonal vav with two yods] = 10 6 10"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "א = 26"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "yahweh = 26"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the LORD (the name of God)",
+   "strongs": "H3068",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     10,
+     5,
+     6,
+     5
+    ],
+    "total": 26
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "vav",
+   "other": "ו"
+  },
+  {
+   "en": "yod",
+   "other": "י"
+  },
+  {
+   "en": "y",
+   "other": "י"
+  },
+  {
+   "en": "w",
+   "other": "ו"
+  },
+  {
+   "en": "6",
+   "other": "ו"
+  },
+  {
+   "en": "10",
+   "other": "י"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 26,
+   "meaning": "built from a diagonal vav and two yods (10 + 6 + 10 = 26)"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "nail (sounds V, O, W)"
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "hand (sounds I, Y)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 26,
+   "note": "alef (made of yod 10 + vav 6 + yod 10) and also the gematria of yahweh"
+  },
+  {
+   "value": 6,
+   "note": "value of vav (nail)"
+  },
+  {
+   "value": 10,
+   "note": "value of yod (hand)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "symbol",
+   "description": "A very large blue Hebrew letter alef (א) next to the blue italic word alef.",
+   "subjects": [
+    "alef",
+    "Hebrew letter",
+    "aleph",
+    "blue letter"
+   ],
+   "text_in_picture": "א alef",
+   "credit": null,
+   "box": [
+    0.07,
+    0.08,
+    0.5,
+    0.38
+   ]
+  },
+  {
+   "type": "illustration",
+   "description": "The alef taken apart: a large orange diagonal vav stroke with a small brown yod at its upper right and another brown yod at its lower left, showing the alef as a vav with two yods.",
+   "subjects": [
+    "alef",
+    "vav",
+    "yod",
+    "letter taken apart",
+    "diagonal vav",
+    "orange and brown letters"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.2,
+    0.45,
+    0.4,
+    0.88
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Small ancient (paleo-Hebrew) pictograph of a nail, drawn in orange with an underline, beside the vav line.",
+   "subjects": [
+    "paleo-Hebrew",
+    "nail",
+    "vav pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.815,
+    0.23,
+    0.855,
+    0.31
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Small ancient (paleo-Hebrew) pictograph of a hand, drawn in brown, beside the yod line.",
+   "subjects": [
+    "paleo-Hebrew",
+    "hand",
+    "yod pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.815,
+    0.34,
+    0.855,
+    0.4
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "gematria",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "alef",
+  "aleph",
+  "alef composed of vav and yod",
+  "vav nail",
+  "yod hand",
+  "yahweh",
+  "26",
+  "gematria 26",
+  "diagonal vav",
+  "paleo-Hebrew nail",
+  "paleo-Hebrew hand",
+  "Hebrew letter meanings",
+  "name of God"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

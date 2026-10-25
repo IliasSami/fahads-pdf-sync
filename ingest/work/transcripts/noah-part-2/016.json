@@ -1,0 +1,84 @@
+{
+ "id": "noah-part-2/16",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 7:11 — the fountains of the great deep burst open",
+ "summary": "Genesis 7:11 in English with the Hebrew reference: in Noah's six hundredth year, in the second month on the seventeenth day, the fountains of the great deep burst open and the floodgates of the sky opened. 'second month' and 'seventeenth day' are highlighted in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 7:11",
+   "osis": "Gen.7.11"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ז:יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.11",
+   "text": "11 In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on the same day all the fountains of the great deep burst open, and the floodgates of the sky were opened."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 7:11 / בראשית ז:יא",
+   "osis": [
+    "Gen.7.11"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 600,
+   "note": "Noah's age (six hundredth year of his life) when the flood began"
+  },
+  {
+   "value": 17,
+   "note": "seventeenth day of the second month"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "fountains of the great deep",
+   "floodgates of the sky"
+  ],
+  "themes": [
+   "judgment",
+   "Flood chronology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 7:11",
+  "Genesis 7",
+  "fountains of the great deep",
+  "great deep",
+  "windows of heaven",
+  "floodgates of the sky",
+  "second month",
+  "seventeenth day",
+  "17th day",
+  "Noah 600 years old",
+  "the flood begins",
+  "date of the flood"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

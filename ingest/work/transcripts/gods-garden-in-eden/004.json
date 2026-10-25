@@ -1,0 +1,70 @@
+{
+ "id": "gods-garden-in-eden/4",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 Timothy 6:10 — the love of money is the root of all evil",
+ "summary": "1 Timothy 6:10 in English (KJV wording) with \"love\" in red, \"money\" in green and \"all evil\" enlarged: the love of money is the root of all evil; some who coveted it have erred from the faith and pierced themselves with many sorrows.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Timothy 6:10",
+   "osis": "1Tim.6.10"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "1 Τιμοθέῳ 6:10"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "10 For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.",
+   "osis": "1Tim.6.10"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Timothy 6:10 / 1 Τιμοθέῳ 6:10",
+   "osis": [
+    "1Tim.6.10"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "sin",
+   "faith",
+   "covetousness",
+   "love of money"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "1 Timothy 6:10",
+  "love of money",
+  "root of all evil",
+  "money",
+  "covetousness",
+  "coveted",
+  "erred from the faith",
+  "pierced through with many sorrows",
+  "gold",
+  "riches",
+  "greed",
+  "Paul to Timothy"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

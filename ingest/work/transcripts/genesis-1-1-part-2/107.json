@@ -1,0 +1,260 @@
+{
+ "id": "genesis-1-1-part-2/107",
+ "kinds": [
+  "verse",
+  "gematria"
+ ],
+ "title": "Genesis 1:1 — the seven words add up to 2701",
+ "summary": "Genesis 1:1 in English and Hebrew with each of its seven Hebrew words in its own colour and the gematria value of each word below in the matching colour: 296 + 407 + 395 + 401 + 86 + 203 + 913 = 2701. The slide heading calls them the 7 \"In Beginning\" words.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "7 “In Beginning” Words 7"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "1 In beginning God created the heavens and the earth."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "296 + 407 + 395 + 401 + 86 + 203 + 913 = 2701"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     1,
+     200,
+     90
+    ],
+    "total": 296
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve'et",
+   "gloss": "and (object marker)",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     6,
+     1,
+     400
+    ],
+    "total": 407
+   }
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     300,
+     40,
+     10,
+     40
+    ],
+    "total": 395
+   }
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(object marker, untranslated)",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     1,
+     400
+    ],
+    "total": 401
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     1,
+     30,
+     5,
+     10,
+     40
+    ],
+    "total": 86
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     2,
+     200,
+     1
+    ],
+    "total": 203
+   }
+  },
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     2,
+     200,
+     1,
+     300,
+     10,
+     400
+    ],
+    "total": 913
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "earth",
+   "other": "הארץ"
+  },
+  {
+   "en": "296",
+   "other": "הארץ"
+  },
+  {
+   "en": "407",
+   "other": "ואת"
+  },
+  {
+   "en": "395",
+   "other": "השמים"
+  },
+  {
+   "en": "401",
+   "other": "את"
+  },
+  {
+   "en": "86",
+   "other": "אלהים"
+  },
+  {
+   "en": "203",
+   "other": "ברא"
+  },
+  {
+   "en": "913",
+   "other": "בראשית"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2701,
+   "note": "total gematria of the seven words of Genesis 1:1"
+  },
+  {
+   "value": 7,
+   "note": "seven \"In Beginning\" words"
+  },
+  {
+   "value": 913,
+   "note": "gematria of בראשית (in the beginning)"
+  },
+  {
+   "value": 86,
+   "note": "gematria of אלהים (God)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "creation",
+   "Bible codes"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "gematria of Genesis 1:1",
+  "2701",
+  "seven words",
+  "in the beginning",
+  "bereshit 913",
+  "elohim 86",
+  "ha'aretz 296",
+  "total value of verse",
+  "heavens and the earth",
+  "number 7",
+  "In Beginning words"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

@@ -1,0 +1,153 @@
+{
+ "id": "akeda-2/15",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 22:6 — Abraham takes the wood, the fire and the knife",
+ "summary": "The Akedah (the binding of Isaac): Genesis 22:6 in English and Hebrew. Abraham takes the wood of the burnt offering, lays it on Isaac, and takes the fire and the knife; the untranslated word את (et) is shown before each object, and 'the wood', 'the fire' and 'the knife' are underlined in brown, gold and grey with the matching Hebrew words.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22",
+   "osis": "Gen.22.1"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ה ע ק ד ה"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Akedah"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.6",
+   "text": "6 Abraham took את the wood of the burnt offering and laid it on Isaac his son, and he took in his hand את the fire and את the knife. So the two of them walked on together."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.22.6",
+   "text": "6 ויקח אברהם את־עצי העלה וישם על־יצחק בנו ויקח בידו את־האש ואת־המאכלת וילכו שניהם יחדו׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22 / בראשית כב",
+   "osis": [
+    "Gen.22.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 22:6 (verse number 6)",
+   "osis": [
+    "Gen.22.6"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "העקדה",
+   "translit": "ha'akedah",
+   "gloss": "the Akedah (the binding)",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "alef-tav; untranslated direct-object marker before wood, fire and knife",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "עצי",
+   "translit": "atzei",
+   "gloss": "the wood (of)",
+   "strongs": "H6086"
+  },
+  {
+   "lang": "he",
+   "word": "האש",
+   "translit": "ha'esh",
+   "gloss": "the fire",
+   "strongs": "H784"
+  },
+  {
+   "lang": "he",
+   "word": "המאכלת",
+   "translit": "hama'akhelet",
+   "gloss": "the knife",
+   "strongs": "H3979"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "the wood",
+   "other": "עצי"
+  },
+  {
+   "en": "the fire",
+   "other": "האש"
+  },
+  {
+   "en": "the knife",
+   "other": "המאכלת"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Abraham",
+   "Isaac"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "wood",
+   "fire",
+   "knife",
+   "burnt offering"
+  ],
+  "themes": [
+   "sacrifice",
+   "obedience",
+   "faith"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 22:6",
+  "Genesis 22",
+  "Akedah",
+  "Akeda",
+  "binding of Isaac",
+  "העקדה",
+  "wood of the burnt offering",
+  "the fire and the knife",
+  "the two of them walked on together",
+  "Isaac carries the wood",
+  "et",
+  "alef tav",
+  "aleph tav"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

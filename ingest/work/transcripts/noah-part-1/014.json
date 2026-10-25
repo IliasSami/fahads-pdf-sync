@@ -1,0 +1,164 @@
+{
+ "id": "noah-part-1/14",
+ "kinds": [
+  "verse",
+  "comparison"
+ ],
+ "title": "Ages at death: Noah 950, Sarah 127, Abraham 175",
+ "summary": "Three verses giving long lifespans: Noah lived 350 years after the flood and 950 years in all (Genesis 9:28-29), Sarah lived 127 years (Genesis 23:1), and Abraham lived 175 years (Genesis 25:7). Parts of each name and number are colour-highlighted.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 9:28-29",
+   "osis": [
+    "Gen.9.28",
+    "Gen.9.29"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ט:כח-כט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.28",
+   "text": "28 Noah lived 350 years after the flood."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.29",
+   "text": "29 So all the days of Noah were 950 years, and he died."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 23:1",
+   "osis": "Gen.23.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כג:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.23.1",
+   "text": "1 Now Sarah lived 127 years; these were the years of the life of Sarah."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 25:7 - 8",
+   "osis": [
+    "Gen.25.7",
+    "Gen.25.8"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כה:ז-ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.25.7",
+   "text": "7 These are all the years of Abraham’s life that he lived, 175 years."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 9:28-29 / בראשית ט:כח-כט",
+   "osis": [
+    "Gen.9.28",
+    "Gen.9.29"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 23:1 / בראשית כג:א",
+   "osis": [
+    "Gen.23.1"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 25:7 - 8 / בראשית כה:ז-ח",
+   "osis": [
+    "Gen.25.7"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 25:7 - 8 / בראשית כה:ז-ח",
+   "osis": [
+    "Gen.25.8"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 350,
+   "note": "years Noah lived after the flood"
+  },
+  {
+   "value": 950,
+   "note": "total years of Noah's life"
+  },
+  {
+   "value": 127,
+   "note": "years of Sarah's life"
+  },
+  {
+   "value": 175,
+   "note": "years of Abraham's life"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "Sarah",
+   "Abraham"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [],
+  "themes": [
+   "death",
+   "genealogy",
+   "Flood chronology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Noah 950 years",
+  "Sarah 127 years",
+  "Abraham 175 years",
+  "age at death",
+  "how long did Noah live",
+  "how old was Sarah",
+  "how old was Abraham",
+  "lifespans",
+  "Genesis 9:29",
+  "Genesis 23:1",
+  "Genesis 25:7",
+  "350 years after the flood",
+  "ages of the patriarchs"
+ ],
+ "uncertain": [
+  "The Genesis 25 heading says 7 - 8, but only verse 7 is shown on the slide (verse 8 is not displayed)."
+ ],
+ "confidence": 0.96
+}

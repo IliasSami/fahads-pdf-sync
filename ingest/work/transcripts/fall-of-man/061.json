@@ -1,0 +1,133 @@
+{
+ "id": "fall-of-man/61",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Isaiah 35:8 — the Highway of Holiness (derek)",
+ "summary": "Isaiah 35:8 in English and Hebrew, with the word “way” in “roadway,” “High-derek” and the Hebrew דרך (derek) shown in red and explained as “Way.” The verse speaks of a highway called the Way of Holiness on which the unclean will not travel.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Isaiah 35:8",
+   "osis": "Isa.35.8"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ישעה לה:ח",
+   "osis": "Isa.35.8"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "8 A highway will be there, a roadway, and it will be called the Highderek of Holiness. The unclean will not travel on it, but it will be for him who walks that דרך, And fools will not wander on it.",
+   "osis": "Isa.35.8"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "derek"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "דרך"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Way"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "8 והיה־שם מסלול ודרך ודרך הקדש יקרא לה לא־יעברנו טמא והוא־למו הלך דרך ואוילים לא יתעו׃",
+   "osis": "Isa.35.8"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Isaiah 35:8 / ישעה לה:ח",
+   "osis": [
+    "Isa.35.8"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "דרך",
+   "translit": "derek",
+   "gloss": "way",
+   "strongs": "H1870"
+  },
+  {
+   "lang": "he",
+   "word": "דרך הקדש",
+   "translit": "derek ha-kodesh",
+   "gloss": "the Way of Holiness",
+   "strongs": "H1870"
+  },
+  {
+   "lang": "he",
+   "word": "מסלול",
+   "translit": "maslul",
+   "gloss": "highway",
+   "strongs": "H4547"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "way",
+   "other": "דרך"
+  },
+  {
+   "en": "derek",
+   "other": "דרך"
+  },
+  {
+   "en": "Way",
+   "other": "דרך"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "highway"
+  ],
+  "themes": [
+   "the way",
+   "holiness",
+   "clean and unclean",
+   "messianic prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Isaiah 35:8",
+  "Isaiah 35",
+  "highway of holiness",
+  "way of holiness",
+  "derek",
+  "derech",
+  "the Way",
+  "the unclean shall not pass over it",
+  "wayfaring men",
+  "fools shall not err",
+  "highway",
+  "roadway",
+  "דרך"
+ ],
+ "uncertain": [
+  "The first Hebrew word דרך in 'ודרך' (line 1) appears to have its vav black and דרך red; transcribed as plain text."
+ ],
+ "confidence": 0.93
+}

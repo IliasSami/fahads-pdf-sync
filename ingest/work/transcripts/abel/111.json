@@ -1,0 +1,22 @@
+{
+  "id": "abel/111",
+  "kinds": ["verse"],
+  "title": "Genesis 4:13 — “My punishment is greater than I can bear”",
+  "summary": "Genesis 4:13 in English and Hebrew: Cain says to the LORD that his punishment is greater than he can bear. No highlighting yet.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:13", "osis": "Gen.4.13"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:יג"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.13", "text": "13 And Cain said to the LORD, “My punishment is greater than I can bear!"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.13", "text": "13 ויאמר קין אל יהוה גדול עוני מנשא׃"}
+  ],
+  "refs": [{"shown": "Genesis 4:13 / בראשית ד:יג", "osis": ["Gen.4.13"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain"], "places": [], "events": ["Cain's punishment"], "things": [], "themes": ["judgment", "sin", "names of God"], "groups": []},
+  "keywords": ["my punishment is greater than I can bear", "Cain's punishment", "Cain said to the LORD", "too great to bear", "Cain's complaint", "Cain and Abel", "Genesis 4", "Genesis 4:13"],
+  "uncertain": ["The LORD in English and יהוה in Hebrew have individually coloured letters (decorative: red L/yod, orange R/vav), meaning not explained on this slide."],
+  "confidence": 0.96
+}

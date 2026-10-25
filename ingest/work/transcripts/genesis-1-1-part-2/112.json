@@ -1,0 +1,143 @@
+{
+ "id": "genesis-1-1-part-2/112",
+ "kinds": [
+  "gematria",
+  "word-study"
+ ],
+ "title": "El (God): lamed = 26 and alef = 26, same as yahweh = 26",
+ "summary": "The Hebrew word El (אל, God) is split into its two letters, each given the value 26 (lamed ל = 26 and alef א = 26), set beside the four letters of YHWH and yahweh = 26.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "el"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אל"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "God"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "ל = 26"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "א = 26"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "yahweh = 26"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אל",
+   "translit": "el",
+   "gloss": "God",
+   "strongs": "H410"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the LORD (the name of God)",
+   "strongs": "H3068",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     10,
+     5,
+     6,
+     5
+    ],
+    "total": 26
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "e",
+   "other": "א"
+  },
+  {
+   "en": "l",
+   "other": "ל"
+  },
+  {
+   "en": "y",
+   "other": "י"
+  },
+  {
+   "en": "w",
+   "other": "ו"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 26,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 26,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 26,
+   "note": "lamed, alef and yahweh are each given the value 26"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "El",
+  "el God",
+  "Hebrew word for God",
+  "alef lamed",
+  "lamed 26",
+  "alef 26",
+  "yahweh 26",
+  "26",
+  "gematria 26",
+  "names of God",
+  "YHWH",
+  "El and Yahweh"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

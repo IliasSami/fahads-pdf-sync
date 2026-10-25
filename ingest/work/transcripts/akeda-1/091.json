@@ -1,0 +1,28 @@
+{
+  "id": "akeda-1/91",
+  "kinds": ["verse"],
+  "title": "Isaiah 53:7 — like a lamb led to slaughter",
+  "summary": "Isaiah 53:7 in English and Hebrew: the servant was oppressed and afflicted yet did not open His mouth, like a lamb led to slaughter. 'He/His' is in red, and 'lamb' and its Hebrew שה are in grey.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Isaiah 53:7", "osis": "Isa.53.7"},
+    {"lang": "he", "role": "reference", "text": "ישעה נג:ז", "osis": "Isa.53.7"},
+    {"lang": "en", "role": "verse", "osis": "Isa.53.7", "text": "7 He was oppressed and He was afflicted, Yet He did not open His mouth; Like a lamb that is led to slaughter, And like a sheep that is silent before its shearers, So He did not open His mouth."},
+    {"lang": "he", "role": "verse", "osis": "Isa.53.7", "text": "7 נגש והוא נענה ולא יפתח־פיו כשה לטבח יובל וכרחל לפני גזזיה נאלמה ולא יפתח פיו׃"}
+  ],
+  "refs": [
+    {"shown": "Isaiah 53:7 / ישעה נג:ז", "osis": ["Isa.53.7"], "role": "quoted"}
+  ],
+  "words": [
+    {"lang": "he", "word": "שה", "translit": "seh", "gloss": "lamb", "strongs": "H7716"}
+  ],
+  "color_links": [
+    {"en": "lamb", "other": "שה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Jesus"], "places": [], "events": [], "things": ["lamb", "sheep"], "themes": ["messianic prophecy", "suffering servant", "sacrifice", "typology"], "groups": []},
+  "keywords": ["Isaiah 53", "Isaiah 53:7", "suffering servant", "lamb to the slaughter", "as a lamb to the slaughter", "sheep before her shearers", "opened not his mouth", "oppressed and afflicted", "seh", "messianic prophecy", "Lamb of God"],
+  "uncertain": [],
+  "confidence": 0.95
+}

@@ -1,0 +1,318 @@
+{
+ "id": "akeda-2/26",
+ "kinds": [
+  "verse",
+  "letters",
+  "word-study"
+ ],
+ "title": "Genesis 2:2 — Sabbath: \"and He rested\" (shin, bet, tav)",
+ "summary": "Genesis 2:2 in Hebrew with colour-coded English, focusing on the word וישבת (\"and He rested\", shabbat), and a table of its letters shin (300, teeth/destruction), bet (2, tent/house) and tav (400, covenant/cross) shown with their ancient pictographs.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:2",
+   "osis": "Gen.2.2"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Sabbath"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:ב"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "He had made"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "His Work"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "on the 7th"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "and He rested"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.2",
+   "text": "וישבת ביום השביעי מכל מלאכתו אשר עשה׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "which"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "from all"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "day"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "and He rested"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shabbat"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "וישבת"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "21. ש shin Sh, S 300 — Teeth, Destruction"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "2. ב bet B 2 — Tent, House"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "22. ת tav T 400 — Covenant, Cross"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:2 / בראשית ב:ב",
+   "osis": [
+    "Gen.2.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "וישבת",
+   "translit": "vayishbot (shabbat)",
+   "gloss": "and He rested",
+   "strongs": "H7673"
+  },
+  {
+   "lang": "he",
+   "word": "ביום",
+   "translit": "bayom",
+   "gloss": "on the day",
+   "strongs": "H3117"
+  },
+  {
+   "lang": "he",
+   "word": "השביעי",
+   "translit": "hashvi'i",
+   "gloss": "the seventh",
+   "strongs": "H7637"
+  },
+  {
+   "lang": "he",
+   "word": "מכל",
+   "translit": "mikol",
+   "gloss": "from all",
+   "strongs": "H3605"
+  },
+  {
+   "lang": "he",
+   "word": "מלאכתו",
+   "translit": "melachto",
+   "gloss": "His work",
+   "strongs": "H4399"
+  },
+  {
+   "lang": "he",
+   "word": "אשר",
+   "translit": "asher",
+   "gloss": "which",
+   "strongs": "H834"
+  },
+  {
+   "lang": "he",
+   "word": "עשה",
+   "translit": "asah",
+   "gloss": "He had made",
+   "strongs": "H6213"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "He had made",
+   "other": "עשה"
+  },
+  {
+   "en": "which",
+   "other": "אשר"
+  },
+  {
+   "en": "His Work",
+   "other": "מלאכתו"
+  },
+  {
+   "en": "and He rested",
+   "other": "וישבת"
+  },
+  {
+   "en": "shabbat",
+   "other": "וישבת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "teeth, destruction (21st letter; sounds Sh, S)"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "tent, house (2nd letter; sounds B)"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "covenant, cross (22nd letter; sounds T)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 300,
+   "note": "value of shin"
+  },
+  {
+   "value": 2,
+   "note": "value of bet"
+  },
+  {
+   "value": 400,
+   "note": "value of tav"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph of the letter shin: a wavy line of teeth above a flat bar, in black.",
+   "subjects": [
+    "paleo-Hebrew",
+    "shin",
+    "teeth",
+    "pictograph"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.43,
+    0.57,
+    0.49,
+    0.65
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph of the letter bet: a tent or house shape above a red bar.",
+   "subjects": [
+    "paleo-Hebrew",
+    "bet",
+    "house",
+    "tent",
+    "pictograph"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.43,
+    0.69,
+    0.48,
+    0.77
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph of the letter tav: a black cross (plus sign) above a dark red bar.",
+   "subjects": [
+    "paleo-Hebrew",
+    "tav",
+    "cross",
+    "covenant",
+    "pictograph"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.43,
+    0.82,
+    0.48,
+    0.91
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "Sabbath"
+  ],
+  "themes": [
+   "Sabbath",
+   "rest",
+   "Hebrew letter meanings",
+   "covenant",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Sabbath",
+  "shabbat",
+  "shabbos",
+  "and He rested",
+  "seventh day",
+  "Genesis 2:2",
+  "rested from his work",
+  "shin",
+  "bet",
+  "tav",
+  "letter meanings",
+  "pictographs",
+  "paleo-Hebrew",
+  "teeth",
+  "tent house",
+  "covenant cross"
+ ],
+ "uncertain": [
+  "Five small red/pink/black check-mark arrows under the word 'day' are decorative pointers to the colours in וישבת."
+ ],
+ "confidence": 0.93
+}

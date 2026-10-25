@@ -1,0 +1,158 @@
+{
+ "id": "genesis-1-1-part-2/16",
+ "kinds": [
+  "table",
+  "word-study"
+ ],
+ "title": "The five Torah book names read as a sentence",
+ "summary": "A colour-coded table of the five books of the Torah in English, Hebrew and transliteration, followed by the five Hebrew names strung together and read as one sentence: \"In beginning, these are the names the LORD called out in the wilderness & these are His words.\"",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Torah"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Genesis\nExodus\nLeviticus\nNumbers\nDeuteronomy"
+  },
+  {
+   "lang": "he",
+   "role": "table",
+   "text": "בראשית\nשמות\nויקרא\nבמדבר\nדברים"
+  },
+  {
+   "lang": "translit",
+   "role": "table",
+   "text": "bereshit\nshemot\nvayikra\nbamidbar\ndevarim"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bereshit shemot vayikra bamidbar devarim"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "In beginning, these are the names the LORD called out in the wilderness & these are His words."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning (Hebrew name of Genesis)",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "שמות",
+   "translit": "shemot",
+   "gloss": "names (Hebrew name of Exodus)",
+   "strongs": "H8034"
+  },
+  {
+   "lang": "he",
+   "word": "ויקרא",
+   "translit": "vayikra",
+   "gloss": "and He called (Hebrew name of Leviticus)",
+   "strongs": "H7121"
+  },
+  {
+   "lang": "he",
+   "word": "במדבר",
+   "translit": "bamidbar",
+   "gloss": "in the wilderness (Hebrew name of Numbers)",
+   "strongs": "H4057"
+  },
+  {
+   "lang": "he",
+   "word": "דברים",
+   "translit": "devarim",
+   "gloss": "words (Hebrew name of Deuteronomy)",
+   "strongs": "H1697"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Genesis",
+   "other": "בראשית"
+  },
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "Exodus",
+   "other": "שמות"
+  },
+  {
+   "en": "these are the names",
+   "other": "שמות"
+  },
+  {
+   "en": "Leviticus",
+   "other": "ויקרא"
+  },
+  {
+   "en": "the LORD called out",
+   "other": "ויקרא"
+  },
+  {
+   "en": "Numbers",
+   "other": "במדבר"
+  },
+  {
+   "en": "in the wilderness",
+   "other": "במדבר"
+  },
+  {
+   "en": "Deuteronomy",
+   "other": "דברים"
+  },
+  {
+   "en": "these are His words",
+   "other": "דברים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "Torah"
+  ],
+  "themes": [
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Torah",
+  "Pentateuch",
+  "five books of Moses",
+  "In beginning these are the names the LORD called out in the wilderness and these are His words",
+  "Hebrew names of the Bible books",
+  "Bereshit",
+  "Shemot",
+  "Vayikra",
+  "Bamidbar",
+  "Devarim",
+  "meaning of the book names",
+  "Genesis",
+  "Exodus",
+  "Leviticus",
+  "Numbers",
+  "Deuteronomy"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

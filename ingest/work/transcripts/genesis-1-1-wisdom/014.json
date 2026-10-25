@@ -1,0 +1,205 @@
+{
+ "id": "genesis-1-1-wisdom/14",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Psalm 49:3 — tsachaq “to laugh” and yitschaq “he will laugh” (Isaac)",
+ "summary": "Same slide as before with one more line: tsachaq (צחק), To laugh, and yitschaq (יצחק), He will laugh, shown with matching colours, in parallel to dabar and yadabar (to speak / he will speak). Yitschaq is the Hebrew spelling of the name Isaac.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 49:3",
+   "osis": "Ps.49.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים מט:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "dabar"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "דבר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "To Speak"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yadabar"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ידבר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "He will Speak"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "(tsachaq"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "צחק"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "To laugh"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yitschaq"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "יצחק"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "He will laugh)"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 49:3 / תהילים מט:ג",
+   "osis": [
+    "Ps.49.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "דבר",
+   "translit": "dabar",
+   "gloss": "to speak",
+   "strongs": "H1696"
+  },
+  {
+   "lang": "he",
+   "word": "ידבר",
+   "translit": "yadabar",
+   "gloss": "he will speak",
+   "strongs": "H1696"
+  },
+  {
+   "lang": "he",
+   "word": "צחק",
+   "translit": "tsachaq",
+   "gloss": "to laugh",
+   "strongs": "H6711"
+  },
+  {
+   "lang": "he",
+   "word": "יצחק",
+   "translit": "yitschaq",
+   "gloss": "he will laugh (Isaac)",
+   "strongs": "H3327"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "shall",
+   "other": "י"
+  },
+  {
+   "en": "He",
+   "other": "י"
+  },
+  {
+   "en": "speak",
+   "other": "דבר"
+  },
+  {
+   "en": "dabar",
+   "other": "דבר"
+  },
+  {
+   "en": "yadabar",
+   "other": "ידבר"
+  },
+  {
+   "en": "tsachaq",
+   "other": "צחק"
+  },
+  {
+   "en": "yitschaq",
+   "other": "יצחק"
+  },
+  {
+   "en": "He will laugh",
+   "other": "יצחק"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Isaac"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "mouth"
+  ],
+  "themes": [
+   "wisdom",
+   "speech",
+   "laughter",
+   "names meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "yitschaq",
+  "yitzchak",
+  "Isaac",
+  "he will laugh",
+  "tsachaq",
+  "to laugh",
+  "laughter",
+  "dabar",
+  "yadabar",
+  "he will speak",
+  "Hebrew verb prefix",
+  "Hebrew future tense",
+  "meaning of the name Isaac",
+  "Psalm 49"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

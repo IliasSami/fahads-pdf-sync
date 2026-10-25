@@ -1,0 +1,24 @@
+{
+  "id": "akeda-1/43",
+  "kinds": ["verse"],
+  "title": "Genesis 22:2 — Take your son, your only son, whom you love",
+  "summary": "Genesis 22:2 in English: God tells Abraham to take his only son Isaac, whom he loves, to the land of Moriah and offer him as a burnt offering. The word “love” is drawn with a heart and marked with a superscript 1, the first time love appears in the Bible.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22", "osis": "Gen.22.2"},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.2", "text": "2 He said, “Take now your son, your only son, whom you lo♥e¹, Isaac, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I will tell you.”"}
+  ],
+  "refs": [{"shown": "Genesis 22 / בראשית כב (verse 2)", "osis": ["Gen.22.2"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "העקדה", "translit": "ha-akedah", "gloss": "the binding (of Isaac)", "strongs": "H6123"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [{"value": 1, "note": "superscript on “love” — first mention of love in the Bible"}],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham", "Isaac"], "places": ["Moriah"], "events": ["Binding of Isaac (Akedah)"], "things": ["burnt offering"], "themes": ["sacrifice", "love", "father and son", "only son", "law of first mention"], "groups": []},
+  "keywords": ["Genesis 22", "Akedah", "Akeda", "binding of Isaac", "take now thy son", "thine only son", "whom thou lovest", "first mention of love", "land of Moriah", "burnt offering", "Abraham and Isaac", "only begotten son"],
+  "uncertain": ["The superscript 1 after “love” is not explained on the slide; it most likely marks the first occurrence of “love” in the Bible."],
+  "confidence": 0.93
+}

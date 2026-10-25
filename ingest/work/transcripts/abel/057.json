@@ -1,0 +1,41 @@
+{
+  "id": "abel/57",
+  "kinds": ["verse", "word-study", "gematria"],
+  "title": "Genesis 4:4 — bekor (בכר, firstborn) has gematria 222",
+  "summary": "Genesis 4:4 in English and Hebrew with “firstborn” highlighted; the word bekor (בכר) is given its letter values 200, 20 and 2, totalling 222.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:4", "osis": "Gen.4.4"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ד", "osis": "Gen.4.4"},
+    {"lang": "en", "role": "verse", "text": "4 And Abel, he also brought an offering, from the firstborn of his flock and from their fat portions. And the LORD had regard for Abel and his offering;", "osis": "Gen.4.4"},
+    {"lang": "he", "role": "verse", "text": "4 והבל הביא גם הוא מבכרות צאנו ומחלבהן וישע יהוה אל הבל ואל מנחתו׃", "osis": "Gen.4.4"},
+    {"lang": "translit", "role": "label", "text": "bekor"},
+    {"lang": "he", "role": "label", "text": "בכר"},
+    {"lang": "en", "role": "label", "text": "Firstborn"},
+    {"lang": "en", "role": "number", "text": "200 20 2 = 222"}
+  ],
+  "refs": [{"shown": "Genesis 4:4 / בראשית ד:ד", "osis": ["Gen.4.4"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "בכר", "translit": "bekor", "gloss": "firstborn", "strongs": "H1060", "gematria": {"method": "standard", "values": [200, 20, 2], "total": 222}},
+    {"lang": "he", "word": "יהוה", "translit": "yahweh", "gloss": "the LORD (God's personal name)", "strongs": "H3068"}
+  ],
+  "color_links": [
+    {"en": "firstborn", "other": "ב"},
+    {"en": "Firstborn", "other": "ב"},
+    {"en": "b (bekor)", "other": "ב"},
+    {"en": "ek (bekor)", "other": "כ"},
+    {"en": "or (bekor)", "other": "ר"},
+    {"en": "L (LORD)", "other": "י"},
+    {"en": "R (LORD)", "other": "ו"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "bet", "char": "ב", "value": 2, "meaning": ""},
+    {"lang": "he", "letter": "kaf", "char": "כ", "value": 20, "meaning": ""},
+    {"lang": "he", "letter": "resh", "char": "ר", "value": 200, "meaning": ""}
+  ],
+  "numbers": [{"value": 222, "note": "gematria of בכר (bekor, firstborn)"}],
+  "pictures": [],
+  "entities": {"people": ["Abel", "God"], "places": [], "events": ["Cain and Abel's offerings"], "things": ["offering", "flock", "fat portions"], "themes": ["firstborn", "gematria", "sacrifice", "offering"], "groups": []},
+  "keywords": ["firstborn", "bekor", "bechor", "gematria 222", "222", "numerical value of firstborn", "firstlings of his flock", "Abel's offering", "Cain and Abel", "Genesis 4", "Genesis 4:4"],
+  "uncertain": [],
+  "confidence": 0.95
+}

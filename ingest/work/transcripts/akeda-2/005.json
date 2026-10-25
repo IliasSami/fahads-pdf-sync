@@ -1,0 +1,36 @@
+{
+  "id": "akeda-2/5",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 22:14 — The LORD Will Provide: \"In the mount of the LORD\"",
+  "summary": "Genesis 22:14 in English and Hebrew: Abraham names the place \"The LORD Will Provide\" (Jehovah-jireh), and the closing words behar yahweh yeraeh are glossed \"In the mount of yahweh it will be provided.\"",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22", "osis": "Gen.22.14"},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב"},
+    {"lang": "en", "role": "heading", "text": "The Akedah"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.14", "text": "14 Abraham called the name of that place The LORD Will Provide, as it is said to this day, \"In the mount of the LORD it will be provided.\""},
+    {"lang": "he", "role": "verse", "osis": "Gen.22.14", "text": "ויקרא אברהם שם־המקום ההוא יהוה יראה אשר יאמר היום בהר יהוה יראה׃"},
+    {"lang": "translit", "role": "label", "text": "behar · yahweh · yeraeh"},
+    {"lang": "en", "role": "label", "text": "In the mount · of yahweh · it will be provided."}
+  ],
+  "refs": [{"shown": "Genesis 22 / בראשית כב (verse 14)", "osis": ["Gen.22.14"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "בהר", "translit": "behar", "gloss": "in the mount", "strongs": "H2022"},
+    {"lang": "he", "word": "יהוה", "translit": "yahweh", "gloss": "the LORD", "strongs": "H3068"},
+    {"lang": "he", "word": "יראה", "translit": "yeraeh", "gloss": "it will be provided (seen)", "strongs": "H7200"},
+    {"lang": "he", "word": "אברהם", "translit": "Abraham", "gloss": "Abraham", "strongs": "H85"},
+    {"lang": "he", "word": "העקדה", "translit": "ha-akedah", "gloss": "the binding", "strongs": null}
+  ],
+  "color_links": [
+    {"en": "Abraham", "other": "אברהם"},
+    {"en": "LORD", "other": "יהוה"},
+    {"en": "yahweh", "other": "יהוה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "God"], "places": ["Mount Moriah"], "events": ["Binding of Isaac (Akedah)"], "things": [], "themes": ["names of God", "provision", "sacrifice"], "groups": []},
+  "keywords": ["Genesis 22:14", "Jehovah Jireh", "Jehovah-jireh", "Yahweh Yireh", "the LORD will provide", "in the mount of the LORD", "it shall be seen", "Akedah", "binding of Isaac", "Abraham", "Mount Moriah", "Genesis 22"],
+  "uncertain": [],
+  "confidence": 0.93
+}

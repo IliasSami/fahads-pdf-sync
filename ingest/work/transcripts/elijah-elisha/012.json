@@ -1,0 +1,88 @@
+{
+  "id": "elijah-elisha/12",
+  "kinds": [
+    "comparison",
+    "list"
+  ],
+  "title": "Joseph / Yeshua parallels: falsely accused",
+  "summary": "The Joseph–Yeshua parallels list adds “Falsely accused” after: sent by the Father, betrayed by his brothers, sold for 20/30 pieces of silver.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Joseph / yeshua Parallels"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sent by Father to check on brothers"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Betrayed by his brothers"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sold for 20/30 pieces of silver"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Falsely accused"
+    }
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {
+      "value": 20,
+      "note": "pieces of silver Joseph was sold for"
+    },
+    {
+      "value": 30,
+      "note": "pieces of silver paid to betray Yeshua"
+    }
+  ],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Joseph",
+      "Jesus",
+      "Jacob",
+      "God"
+    ],
+    "places": [],
+    "events": [],
+    "things": [
+      "silver"
+    ],
+    "themes": [
+      "typology",
+      "betrayal"
+    ],
+    "groups": [
+      "Joseph's brothers"
+    ]
+  },
+  "keywords": [
+    "Joseph",
+    "Yeshua",
+    "Jesus",
+    "parallels",
+    "Joseph as a type of Christ",
+    "sold for twenty pieces of silver",
+    "thirty pieces of silver",
+    "Genesis 37:28",
+    "Matthew 26:15",
+    "falsely accused",
+    "Potiphar's wife",
+    "false witnesses",
+    "foreshadowing"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

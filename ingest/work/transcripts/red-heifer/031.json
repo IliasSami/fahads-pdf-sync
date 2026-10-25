@@ -1,0 +1,127 @@
+{
+ "id": "red-heifer/31",
+ "kinds": [
+  "title",
+  "word-study",
+  "picture"
+ ],
+ "title": "The Ordinance of the Red Heifer — parah adumah (פרה אדמה), with Red Cow Steak House cushion",
+ "summary": "Heading 'The Ordinance of the Red Heifer' with the Hebrew phrase parah adumah (פרה אדמה), 'Red Heifer', colour-matched in red and black. Below is a photo of a cushion printed with a red butcher's-cut cow and the words RED COW STEAK HOUSE, a visual play on 'red cow'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Ordinance of the Red Heifer"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "parah adumah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "פרה אדמה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Red Heifer"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "פרה אדמה",
+   "translit": "parah adumah",
+   "gloss": "red heifer",
+   "strongs": "H6510",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אדמה",
+   "translit": "adumah",
+   "gloss": "red",
+   "strongs": "H122",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "parah",
+   "other": "פרה"
+  },
+  {
+   "en": "Heifer",
+   "other": "פרה"
+  },
+  {
+   "en": "adumah",
+   "other": "אדמה"
+  },
+  {
+   "en": "Red",
+   "other": "אדמה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "A cream-coloured woven cushion leaning on a couch, printed with a red silhouette of a cow divided into butcher's cuts and the words RED COW above the smaller words STEAK HOUSE. A small red-and-white BigLife logo sits in the top-left corner of the photo.",
+   "subjects": [
+    "red cow",
+    "cushion",
+    "pillow",
+    "steak house",
+    "butcher cuts",
+    "cow diagram",
+    "restaurant logo",
+    "couch"
+   ],
+   "text_in_picture": "RED COW STEAK HOUSE; BigLife (logo in corner)",
+   "credit": null,
+   "box": [
+    0.23,
+    0.28,
+    0.83,
+    0.99
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "cow"
+  ],
+  "themes": [
+   "ordinances (mishpat)",
+   "purification",
+   "Torah",
+   "humor"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "red heifer",
+  "parah adumah",
+  "red cow",
+  "Red Cow Steak House",
+  "cow cushion",
+  "pillow",
+  "photo of red cow",
+  "ordinance of the red heifer",
+  "Numbers 19",
+  "adumah red",
+  "parah heifer",
+  "butcher cuts diagram"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

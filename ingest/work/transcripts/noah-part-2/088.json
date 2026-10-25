@@ -1,0 +1,105 @@
+{
+ "id": "noah-part-2/88",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 9:8-11 — God establishes His covenant with Noah and every living creature",
+ "summary": "Genesis 9:8-11 in English: God speaks to Noah and his sons and establishes His covenant with them, their descendants and every living creature that came out of the ark, promising that all flesh will never again be cut off by the waters of a flood. The word covenant is highlighted in red, and God and the start of Noah are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 9:8-11",
+   "osis": [
+    "Gen.9.8",
+    "Gen.9.9",
+    "Gen.9.10",
+    "Gen.9.11"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ט:ח־יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.8",
+   "text": "8 And God spoke to Noah and his sons with him, saying,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.9",
+   "text": "9 “Now behold, I Myself do establish My covenant with you, and with your descendants after you;"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.10",
+   "text": "10 and with every living creature that is with you, the birds, the cattle, and every beast of the earth with you; of all that comes out of the ark, even every beast of the earth."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.11",
+   "text": "11 “I establish My covenant with you; and all flesh shall never again be cut off by the water of the flood, neither shall there again be a flood to destroy the earth.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 9:8-11 / בראשית ט:ח־יא",
+   "osis": [
+    "Gen.9.8",
+    "Gen.9.9",
+    "Gen.9.10",
+    "Gen.9.11"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "birds",
+   "cattle",
+   "beasts of the earth"
+  ],
+  "themes": [
+   "covenant",
+   "promise",
+   "grace"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 9",
+  "Genesis 9:8-11",
+  "Noahic covenant",
+  "covenant with Noah",
+  "I establish my covenant",
+  "never again a flood",
+  "all flesh shall never again be cut off",
+  "water of the flood",
+  "ark",
+  "descendants",
+  "every living creature",
+  "God's promise"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

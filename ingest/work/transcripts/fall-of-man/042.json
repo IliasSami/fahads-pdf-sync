@@ -1,0 +1,50 @@
+{
+  "id": "fall-of-man/42",
+  "kinds": ["letters", "word-study", "comparison"],
+  "title": "Light (אור) vs Skin (עור): alef = strength, God; ayin = eye, knowledge",
+  "summary": "Light (אור) and skin (עור) are both pronounced “ore” and differ only in the first letter. The slide gives the meaning of each: alef (ox-head pictograph) means strength, God, value 1; ayin (eye pictograph) means eye, knowledge, value 70.",
+  "text": [
+    {"lang": "translit", "role": "label", "text": "ore"},
+    {"lang": "he", "role": "label", "text": "א ו ר"},
+    {"lang": "en", "role": "label", "text": "Light"},
+    {"lang": "he", "role": "label", "text": "א"},
+    {"lang": "translit", "role": "label", "text": "alef"},
+    {"lang": "en", "role": "label", "text": "A"},
+    {"lang": "en", "role": "label", "text": "Strength, God"},
+    {"lang": "en", "role": "number", "text": "1"},
+    {"lang": "translit", "role": "label", "text": "ore"},
+    {"lang": "he", "role": "label", "text": "ע ו ר"},
+    {"lang": "en", "role": "label", "text": "Skin"},
+    {"lang": "he", "role": "label", "text": "ע"},
+    {"lang": "translit", "role": "label", "text": "ayin"},
+    {"lang": "en", "role": "label", "text": "A,O"},
+    {"lang": "en", "role": "label", "text": "Eye, Knowledge"},
+    {"lang": "en", "role": "number", "text": "70"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "אור", "translit": "ore", "gloss": "light", "strongs": "H216"},
+    {"lang": "he", "word": "עור", "translit": "ore", "gloss": "skin", "strongs": "H5785"}
+  ],
+  "color_links": [
+    {"en": "alef", "other": "א"},
+    {"en": "Strength, God", "other": "א"},
+    {"en": "ayin", "other": "ע"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": "strength, God (ox head pictograph); sound A"},
+    {"lang": "he", "letter": "ayin", "char": "ע", "value": 70, "meaning": "eye, knowledge (eye pictograph); sound A, O"}
+  ],
+  "numbers": [
+    {"value": 1, "note": "value of the letter alef (א)"},
+    {"value": 70, "note": "value of the letter ayin (ע)"}
+  ],
+  "pictures": [
+    {"type": "pictograph", "description": "Ancient (paleo-)Hebrew pictograph of the letter alef: a simple black line drawing of an ox head with horns, above a blue underline.", "subjects": ["paleo-Hebrew alphabet", "pictograph", "alef", "ox head"], "text_in_picture": "", "credit": null, "box": [0.41, 0.19, 0.51, 0.37]},
+    {"type": "pictograph", "description": "Ancient (paleo-)Hebrew pictograph of the letter ayin: a black outline drawing of an eye with a pupil, above a black underline.", "subjects": ["paleo-Hebrew alphabet", "pictograph", "ayin", "eye"], "text_in_picture": "", "credit": null, "box": [0.41, 0.75, 0.51, 0.9]}
+  ],
+  "entities": {"people": ["God"], "places": [], "events": ["Fall of Man"], "things": ["light", "skin"], "themes": ["Hebrew letter meanings", "light and darkness", "knowledge", "Hebrew wordplay"], "groups": []},
+  "keywords": ["alef", "aleph", "ayin", "letter meanings", "pictographs", "ancient Hebrew letters", "paleo-Hebrew", "ox head", "eye", "strength", "knowledge", "light and skin", "garments of light", "garments of skin", "ore", "or", "ohr"],
+  "uncertain": [],
+  "confidence": 0.94
+}

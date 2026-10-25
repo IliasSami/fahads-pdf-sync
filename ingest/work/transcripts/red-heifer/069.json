@@ -1,0 +1,127 @@
+{
+ "id": "red-heifer/69",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Isaiah 1:18 — sins as scarlet become white as snow",
+ "summary": "Isaiah 1:18 in English and Hebrew: though your sins are as scarlet and red like crimson, they will be white as snow and like wool. LORD is coloured letter by letter to match the four Hebrew letters of יהוה, and scarlet and crimson are colour-coded to their Hebrew words.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Isaiah 1:18",
+   "osis": "Isa.1.18"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ישעה א:יח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Isa.1.18",
+   "text": "18 “Come now, and let us reason together,” says the LORD, “Though your sins are as scarlet, They will be as white as snow; Though they are red like crimson, They will be like wool."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Isa.1.18",
+   "text": "18 לכו־נא ונוכחה יאמר יהוה אם־יהיו חטאיכם כשנים כשלג ילבינו אם־יאדימו כתולע כצמר יהיו׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Isaiah 1:18 / ישעה א:יח",
+   "osis": [
+    "Isa.1.18"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the LORD",
+   "strongs": "H3068",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "שנים",
+   "translit": "shanim",
+   "gloss": "scarlet",
+   "strongs": "H8144",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "תולע",
+   "translit": "tola",
+   "gloss": "crimson",
+   "strongs": "H8438",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  },
+  {
+   "en": "scarlet",
+   "other": "שנים"
+  },
+  {
+   "en": "crimson",
+   "other": "כתולע"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "scarlet",
+   "crimson",
+   "snow",
+   "wool"
+  ],
+  "themes": [
+   "sin",
+   "purification",
+   "redemption",
+   "atonement",
+   "names of God",
+   "grace"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Isaiah 1:18",
+  "though your sins be as scarlet",
+  "white as snow",
+  "crimson",
+  "wool",
+  "come let us reason together",
+  "sins forgiven",
+  "scarlet to snow",
+  "shani",
+  "tola",
+  "cleansing from sin",
+  "YHWH",
+  "LORD"
+ ],
+ "uncertain": [
+  "Colour split inside שנים: only שני appears red; in the LORD / יהוה the letters are coloured individually (י maroon, ו orange)."
+ ],
+ "confidence": 0.95
+}

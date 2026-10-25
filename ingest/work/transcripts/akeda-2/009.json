@@ -1,0 +1,40 @@
+{
+  "id": "akeda-2/9",
+  "kinds": ["letters", "word-study"],
+  "title": "Et (את): alef-tav — strength/God and covenant/cross",
+  "summary": "Explains the Hebrew word et (את), spelled alef-tav: alef (A, ox-head pictograph) means \"strength, God\" and tav (T, cross-mark pictograph) means \"covenant, cross.\"",
+  "text": [
+    {"lang": "translit", "role": "heading", "text": "et"},
+    {"lang": "he", "role": "heading", "text": "את"},
+    {"lang": "translit", "role": "heading", "text": "alef tav"},
+    {"lang": "he", "role": "label", "text": "א"},
+    {"lang": "translit", "role": "label", "text": "alef"},
+    {"lang": "en", "role": "label", "text": "A"},
+    {"lang": "en", "role": "label", "text": "Strength, God"},
+    {"lang": "he", "role": "label", "text": "ת"},
+    {"lang": "translit", "role": "label", "text": "tav"},
+    {"lang": "en", "role": "label", "text": "T"},
+    {"lang": "en", "role": "label", "text": "Covenant, Cross"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "את", "translit": "et", "gloss": "alef-tav (untranslated direct-object marker)", "strongs": "H853"}
+  ],
+  "color_links": [
+    {"en": "alef", "other": "א"},
+    {"en": "tav", "other": "ת"},
+    {"en": "et", "other": "את"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": "strength, God (ox head pictograph)"},
+    {"lang": "he", "letter": "tav", "char": "ת", "value": 400, "meaning": "covenant, cross (cross-mark pictograph)"}
+  ],
+  "numbers": [],
+  "pictures": [
+    {"type": "pictograph", "description": "Ancient (paleo-)Hebrew pictographs: the ox-head sign for alef above a blue line, and below it the cross-shaped mark (+) for tav above a red line.", "subjects": ["paleo-Hebrew alphabet", "pictograph", "alef", "tav", "ox head", "cross mark"], "text_in_picture": "", "credit": null, "box": [0.48, 0.44, 0.55, 0.75]}
+  ],
+  "entities": {"people": ["God"], "places": [], "events": [], "things": [], "themes": ["Hebrew letter meanings", "covenant", "cross"], "groups": []},
+  "keywords": ["et", "aleph tav", "alef tav", "את", "first and last letters", "Alpha and Omega", "covenant", "cross", "strength", "pictograph", "paleo-Hebrew", "tav", "aleph"],
+  "uncertain": [],
+  "confidence": 0.95
+}

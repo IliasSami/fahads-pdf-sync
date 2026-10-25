@@ -1,0 +1,109 @@
+{
+ "id": "genesis-1-1-part-2/66",
+ "kinds": [
+  "letters"
+ ],
+ "title": "Large alef, lamed, pe with a red bet inside the pe",
+ "summary": "The same three large letters — alef (blue), lamed (brown) and pe (purple) — now with a smaller red letter (ב, bet) sitting inside the open part of the purple pe.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל פ"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלף",
+   "translit": "alef",
+   "gloss": "alef (name of the first letter)",
+   "strongs": null
+  }
+ ],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "strong"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "shepherd"
+  },
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": 80,
+   "meaning": "mouth"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "house (red letter inside the pe)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "illustration",
+   "description": "Large coloured Hebrew letters with a small red bet (ב) placed inside the bowl of the purple pe (פ), as if the bet were inside the mouth.",
+   "subjects": [
+    "Hebrew letters",
+    "bet inside pe",
+    "red letter",
+    "purple letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.17,
+    0.2,
+    0.37,
+    0.68
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "alef",
+  "aleph",
+  "אלף",
+  "alef lamed pe",
+  "bet inside pe",
+  "red bet",
+  "ב",
+  "pe",
+  "mouth",
+  "large Hebrew letters",
+  "Hebrew letters"
+ ],
+ "uncertain": [
+  "The small red letter inside the pe is read as ב (bet), matching the red first letter of בראשית on the following slides."
+ ],
+ "confidence": 0.88
+}

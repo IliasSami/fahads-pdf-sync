@@ -1,0 +1,191 @@
+{
+ "id": "genesis-1-1-part-2/119",
+ "kinds": [
+  "gematria",
+  "letters",
+  "word-study"
+ ],
+ "title": "Yahweh spelled out letter by letter = 45",
+ "summary": "Yahweh's four letters add to 26, but when each letter's name is spelled out in Hebrew (הא, ואו, הא, יוד) the values 1+5, 6+1+6, 1+5 and 4+6+10 add up to 45.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 + 6 + 5 + 10 = 26"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "he vav he yod"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "יוד הא ואו הא"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1+5 6+1+6 1+5 4+6+10 = 45"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the name of God (YHWH, LORD)",
+   "strongs": "H3068",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     6,
+     5,
+     10
+    ],
+    "total": 26
+   }
+  },
+  {
+   "lang": "he",
+   "word": "הא ואו הא יוד",
+   "translit": "he vav he yod",
+   "gloss": "the letters of Yahweh spelled out in full",
+   "strongs": null,
+   "gematria": {
+    "method": "standard",
+    "values": [
+     1,
+     5,
+     6,
+     1,
+     6,
+     1,
+     5,
+     4,
+     6,
+     10
+    ],
+    "total": 45
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "he",
+   "other": "ה"
+  },
+  {
+   "en": "vav",
+   "other": "ו"
+  },
+  {
+   "en": "yod",
+   "other": "י"
+  },
+  {
+   "en": "y",
+   "other": "י"
+  },
+  {
+   "en": "w",
+   "other": "ו"
+  },
+  {
+   "en": "ah / eh",
+   "other": "ה"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "blue letter inside the spelled-out names הא and ואו"
+  },
+  {
+   "lang": "he",
+   "letter": "dalet",
+   "char": "ד",
+   "value": 4,
+   "meaning": "inside the spelled-out name יוד"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 26,
+   "note": "Yahweh letters 5+6+5+10"
+  },
+  {
+   "value": 45,
+   "note": "Yahweh with each letter spelled out: 1+5, 6+1+6, 1+5, 4+6+10"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "names of God",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Yahweh 45",
+  "YHWH 45",
+  "spelled out gematria",
+  "letter names",
+  "1+5 6+1+6 1+5 4+6+10",
+  "tetragrammaton",
+  "he vav he yod",
+  "hidden value",
+  "milui",
+  "45",
+  "gematria",
+  "name of God"
+ ],
+ "uncertain": [
+  "Sub-totals per letter-name are shown only as sums (1+5, 6+1+6, 1+5, 4+6+10); in the arithmetic they total 6+13+6+20 = 45, which matches the slide."
+ ],
+ "confidence": 0.95
+}

@@ -1,0 +1,199 @@
+{
+ "id": "genesis-1-1-wisdom/91",
+ "kinds": [
+  "verse",
+  "letters",
+  "word-study"
+ ],
+ "title": "Last letters of bereshit, bara, elohim spell תאם (mem alef tav)",
+ "summary": "Genesis 1:1 opening words with the final letter of each Hebrew word underlined in colour — ת of בראשית, א of ברא, ם of אלהים — and arrows pointing down to the three letters תאם, labelled mem alef tav. Their colours match the letters of emet (אמת, truth) shown below.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "1 In beginning God created…"
+  },
+  {
+   "lang": "translit",
+   "role": "verse",
+   "text": "1 bereshit bara elohim…"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "1 בראשית ברא אלהים..."
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תאם"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "mem alef tav"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Truth"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "emet"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אמת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Creator Week"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "אמת",
+   "translit": "emet",
+   "gloss": "truth",
+   "strongs": "H571"
+  },
+  {
+   "lang": "he",
+   "word": "תאם",
+   "translit": "mem alef tav",
+   "gloss": "the three underlined last letters",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "Truth",
+   "other": "אמת"
+  },
+  {
+   "en": "emet",
+   "other": "אמת"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "mem",
+   "other": "ם"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last letter of בראשית (bereshit), underlined in red"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "last letter of ברא (bara), underlined in blue"
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "ם",
+   "value": 40,
+   "meaning": "last letter of אלהים (elohim), underlined in light blue"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "truth",
+   "creation",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "emet",
+  "truth",
+  "mem alef tav",
+  "last letters",
+  "final letters",
+  "hidden word",
+  "bereshit bara elohim",
+  "aleph",
+  "Creator Week",
+  "Hebrew letters",
+  "תאם"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

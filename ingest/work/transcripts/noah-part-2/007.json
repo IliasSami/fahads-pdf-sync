@@ -1,0 +1,63 @@
+{
+ "id": "noah-part-2/7",
+ "kinds": [
+  "comparison",
+  "list"
+ ],
+ "title": "The ark and Yeshua: invitation to come",
+ "summary": "A second ark-and-yeshua comparison begins with the line 'Invitation To Come'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Ark"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "yeshua"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Invitation To Come"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "typology",
+   "salvation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "ark and Jesus",
+  "Noah's ark",
+  "yeshua",
+  "Yeshua",
+  "Jesus",
+  "typology",
+  "invitation to come",
+  "come into the ark",
+  "come to Jesus",
+  "comparison ark and Christ",
+  "Genesis 7:1",
+  "Come thou and all thy house into the ark"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

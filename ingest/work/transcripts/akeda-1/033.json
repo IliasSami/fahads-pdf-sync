@@ -1,0 +1,36 @@
+{
+  "id": "akeda-1/33",
+  "kinds": ["word-study", "letters", "gematria"],
+  "title": "Chay (חי), life: yod 10 + chet 8 = 18",
+  "summary": "Shows that the Hebrew word for life, chay (חי), is spelled with two letters, yod and chet, and that their values add up as 10 + 8 = 18.",
+  "text": [
+    {"lang": "en", "role": "label", "text": "Life"},
+    {"lang": "he", "role": "label", "text": "חי"},
+    {"lang": "translit", "role": "label", "text": "chay"},
+    {"lang": "translit", "role": "label", "text": "yod"},
+    {"lang": "translit", "role": "label", "text": "het"},
+    {"lang": "en", "role": "number", "text": "10 + 8 = 18"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "חי", "translit": "chay", "gloss": "life, living", "strongs": "H2416", "gematria": {"method": "standard", "values": [10, 8], "total": 18}}
+  ],
+  "color_links": [
+    {"en": "Life", "other": "חי"},
+    {"en": "chay", "other": "חי"},
+    {"en": "yod", "other": "י"},
+    {"en": "het", "other": "ח"},
+    {"en": "10", "other": "י"},
+    {"en": "8", "other": "ח"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "yod", "char": "י", "value": 10, "meaning": "second letter of chay (life)"},
+    {"lang": "he", "letter": "chet", "char": "ח", "value": 8, "meaning": "first letter of chay (life); written “het” on this slide"}
+  ],
+  "numbers": [{"value": 18, "note": "gematria of חי (chay, life): yod 10 + chet 8"}],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": [], "things": [], "themes": ["life", "gematria", "Hebrew letter meanings"], "groups": []},
+  "keywords": ["chay", "chai", "life", "18", "gematria 18", "yod", "het", "chet", "10 plus 8", "Hebrew word for life", "number 18", "L'chaim"],
+  "uncertain": [],
+  "confidence": 0.96
+}

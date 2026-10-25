@@ -1,0 +1,280 @@
+{
+ "id": "gods-garden-in-eden/13",
+ "kinds": [
+  "letters",
+  "gematria",
+  "word-study"
+ ],
+ "title": "Hebrew alphabet positions: sheker (falsehood) adds to 60, reduced to 6",
+ "summary": "Shows the 22 Hebrew letters in order with their names (alef in blue, mem in yellow, tav in red), then counts the letters of שקר (sheker, falsehood) by alphabet position: shin 21st, resh 20th, qof 19th, 21 + 19 + 20 = 60, and 6 + 0 = 6, called the number of falsehood. It adds that each letter of שקר stands on one leg.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ב ג ד ה ו ז ח ט י כ ל מ נ ס ע פ צ ק ר ש ת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef bet gimel dalet hey vav zayin het tet yod kaf lamed mem nun samekh ayin pe tsadi qof resh shin tav"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "21st 20th 19th"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "ש is 21st, ק is 19th, ר is 20th"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "21 + 19 + 20 = 60"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "6 + 0 = 6 = the # of Falsehood"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Each letter of שקר stands on one leg."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שקר",
+   "translit": "sheker",
+   "gloss": "falsehood",
+   "strongs": "H8267",
+   "gematria": {
+    "method": "ordinal",
+    "values": [
+     21,
+     19,
+     20
+    ],
+    "total": 60
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "mem",
+   "other": "מ"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "1st letter of the alphabet (shown in blue)"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "2nd letter"
+  },
+  {
+   "lang": "he",
+   "letter": "gimel",
+   "char": "ג",
+   "value": 3,
+   "meaning": "3rd letter"
+  },
+  {
+   "lang": "he",
+   "letter": "dalet",
+   "char": "ד",
+   "value": 4,
+   "meaning": "4th letter"
+  },
+  {
+   "lang": "he",
+   "letter": "hey",
+   "char": "ה",
+   "value": 5,
+   "meaning": "5th letter"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "6th letter"
+  },
+  {
+   "lang": "he",
+   "letter": "zayin",
+   "char": "ז",
+   "value": 7,
+   "meaning": "7th letter"
+  },
+  {
+   "lang": "he",
+   "letter": "het",
+   "char": "ח",
+   "value": 8,
+   "meaning": "8th letter"
+  },
+  {
+   "lang": "he",
+   "letter": "tet",
+   "char": "ט",
+   "value": 9,
+   "meaning": "9th letter"
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "10th letter"
+  },
+  {
+   "lang": "he",
+   "letter": "kaf",
+   "char": "כ",
+   "value": 20,
+   "meaning": "11th letter"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "12th letter"
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "13th letter (shown in yellow)"
+  },
+  {
+   "lang": "he",
+   "letter": "nun",
+   "char": "נ",
+   "value": 50,
+   "meaning": "14th letter"
+  },
+  {
+   "lang": "he",
+   "letter": "samekh",
+   "char": "ס",
+   "value": 60,
+   "meaning": "15th letter"
+  },
+  {
+   "lang": "he",
+   "letter": "ayin",
+   "char": "ע",
+   "value": 70,
+   "meaning": "16th letter"
+  },
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": 80,
+   "meaning": "17th letter"
+  },
+  {
+   "lang": "he",
+   "letter": "tsadi",
+   "char": "צ",
+   "value": 90,
+   "meaning": "18th letter"
+  },
+  {
+   "lang": "he",
+   "letter": "qof",
+   "char": "ק",
+   "value": 100,
+   "meaning": "19th letter; stands on one leg in שקר"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "20th letter; stands on one leg in שקר"
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "21st letter; stands on one leg in שקר"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "22nd letter (shown in red)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 60,
+   "note": "sum of the alphabet positions of שקר (21 + 19 + 20)"
+  },
+  {
+   "value": 6,
+   "note": "6 + 0, called the number of falsehood"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Hebrew letter meanings",
+   "numbers in Scripture",
+   "falsehood"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "sheker",
+  "falsehood",
+  "lie",
+  "number 6",
+  "number of falsehood",
+  "Hebrew alphabet",
+  "alef bet",
+  "aleph",
+  "alphabet order",
+  "letter positions",
+  "one leg",
+  "shin qof resh",
+  "ordinal gematria",
+  "21 19 20 = 60"
+ ],
+ "uncertain": [
+  "Slide counts letter positions (ordinal values); 'value' fields in letters list use standard gematria values."
+ ],
+ "confidence": 0.95
+}

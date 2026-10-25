@@ -1,0 +1,32 @@
+{
+  "id": "fall-of-man/56",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 3:24 — Garden of Eden (גן־עדן, gan eden) and the Way",
+  "summary": "Genesis 3:24 in English and Hebrew: God drives out the man and places cherubim and a flaming sword to keep the Way of the tree of life. The Hebrew for Garden of Eden, גן־עדן (gan eden), is highlighted in green, and “Way” (דרך) in red.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 3:24", "osis": "Gen.3.24"},
+    {"lang": "he", "role": "reference", "text": "בראשית ג:כד", "osis": "Gen.3.24"},
+    {"lang": "en", "role": "verse", "text": "24 So He drove out the man; and He placed at the east of the garden of Eden Cherubim, and a flaming sword which turned every way, to keep the Way of the tree of life.", "osis": "Gen.3.24"},
+    {"lang": "en", "role": "label", "text": "Garden of Eden"},
+    {"lang": "he", "role": "label", "text": "גן־עדן"},
+    {"lang": "translit", "role": "label", "text": "gan eden"},
+    {"lang": "he", "role": "verse", "text": "ויגרש את־האדם וישכן מקדם לגן־עדן את־הכרבים ואת להט החרב המתהפכת לשמר את־דרך עץ החיים׃", "osis": "Gen.3.24"}
+  ],
+  "refs": [{"shown": "Genesis 3:24 / בראשית ג:כד", "osis": ["Gen.3.24"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "גן־עדן", "translit": "gan eden", "gloss": "Garden of Eden", "strongs": "H1588"},
+    {"lang": "he", "word": "דרך", "translit": "derek", "gloss": "way", "strongs": "H1870"}
+  ],
+  "color_links": [
+    {"en": "garden", "other": "גן"},
+    {"en": "Eden", "other": "עדן"},
+    {"en": "Way", "other": "דרך"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Adam"], "places": ["Garden of Eden"], "events": ["Fall of Man", "Expulsion from Eden"], "things": ["tree of life", "cherubim", "flaming sword"], "themes": ["the way", "eternal life"], "groups": ["angels"]},
+  "keywords": ["Garden of Eden", "gan eden", "Gan Eden", "paradise", "the Way", "derek", "way of the tree of life", "cherubim", "flaming sword", "drove out the man", "east of Eden", "Genesis 3", "Genesis 3:24"],
+  "uncertain": [],
+  "confidence": 0.95
+}

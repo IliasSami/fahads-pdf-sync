@@ -1,0 +1,99 @@
+{
+ "id": "red-heifer/101",
+ "kinds": [
+  "picture",
+  "title"
+ ],
+ "title": "Jerusalem Jewish Quarter, 2012 — man beside a golden menorah",
+ "summary": "Caption slide reading Jerusalem, Israel, Jewish Quarter, 2012, beside a photo of a smiling man standing next to a large golden seven-branched menorah in a glass case outdoors in Jerusalem's Jewish Quarter. The last two letters of Israel (el) and the word Jewish are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "Jerusalem,"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "Israel"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "Jewish Quarter"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "2012"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2012,
+   "note": "year the photo was taken"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Photo of a smiling man with glasses and grey hair, in a pink long-sleeved shirt, standing with one hand on a metal railing in front of a tall golden seven-branched menorah displayed inside a curved glass enclosure. Old stone buildings, trees and a blue sky are behind.",
+   "subjects": [
+    "golden menorah",
+    "seven-branched lampstand",
+    "glass case",
+    "Jewish Quarter",
+    "Jerusalem",
+    "stone buildings",
+    "man in pink shirt",
+    "tourist photo"
+   ],
+   "text_in_picture": "small signs near the base of the menorah (too small to read)",
+   "credit": null,
+   "box": [
+    0.25,
+    0.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [
+   "Jerusalem",
+   "Israel",
+   "Jewish Quarter"
+  ],
+  "events": [],
+  "things": [
+   "menorah"
+  ],
+  "themes": [
+   "temple"
+  ],
+  "groups": [
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "Jerusalem",
+  "Jewish Quarter",
+  "Israel",
+  "2012",
+  "golden menorah",
+  "menorah in glass case",
+  "Temple menorah replica",
+  "seven branches",
+  "photo of Jerusalem",
+  "Old City"
+ ],
+ "uncertain": [
+  "small signs beside the menorah are unreadable"
+ ],
+ "confidence": 0.95
+}

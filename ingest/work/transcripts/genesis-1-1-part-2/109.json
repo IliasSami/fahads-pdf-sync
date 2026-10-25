@@ -1,0 +1,140 @@
+{
+ "id": "genesis-1-1-part-2/109",
+ "kinds": [
+  "gematria",
+  "letters",
+  "word-study"
+ ],
+ "title": "YHWH (yahweh) letter values: 5 + 6 + 5 + 10 = 26",
+ "summary": "The four Hebrew letters of the name YHWH (yod, he, vav, he) shown in colour with their number values, he 5 + vav 6 + he 5 + yod 10, adding up to 26, matched to the transliteration yahweh.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 + 6 + 5 + 10   =   26"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "he   vav   he   yod"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the LORD (the name of God)",
+   "strongs": "H3068",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     6,
+     5,
+     10
+    ],
+    "total": 26
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "y",
+   "other": "י"
+  },
+  {
+   "en": "w",
+   "other": "ו"
+  },
+  {
+   "en": "yod",
+   "other": "י"
+  },
+  {
+   "en": "vav",
+   "other": "ו"
+  },
+  {
+   "en": "10",
+   "other": "י"
+  },
+  {
+   "en": "6",
+   "other": "ו"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 26,
+   "note": "gematria of יהוה (yahweh): 5 + 6 + 5 + 10"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "gematria",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "yahweh",
+  "YHWH",
+  "Jehovah",
+  "tetragrammaton",
+  "name of God",
+  "LORD",
+  "gematria 26",
+  "26",
+  "yod he vav he",
+  "Hebrew letters of God's name",
+  "he vav yod",
+  "four-letter name"
+ ],
+ "uncertain": [
+  "The numbers are shown left to right (5, 6, 5, 10), which is the reverse of the right-to-left reading order of the name יהוה."
+ ],
+ "confidence": 0.96
+}

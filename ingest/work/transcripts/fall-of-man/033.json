@@ -1,0 +1,112 @@
+{
+ "id": "fall-of-man/33",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 3:20 — the man called his wife Eve (hava חוה), mother of all the living",
+ "summary": "Genesis 3:20 with its Hebrew reference: the man named his wife hava (חוה), Eve, because she was the mother of all the living. The name is shown in transliteration, Hebrew and English.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:20",
+   "osis": "Gen.3.20"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:כ"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.3.20",
+   "text": "20 Now the man called his wife’s name"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hava"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חוה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Eve,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.3.20",
+   "text": "because she was the mother of all the living."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:20 / בראשית ג:כ",
+   "osis": [
+    "Gen.3.20"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חוה",
+   "translit": "hava",
+   "gloss": "Eve",
+   "strongs": "H2332"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Eve",
+   "other": "חוה"
+  },
+  {
+   "en": "hava",
+   "other": "חוה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Eve"
+  ],
+  "places": [],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [],
+  "themes": [
+   "marriage",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 3:20",
+  "Eve",
+  "hava",
+  "chavah",
+  "chavvah",
+  "Havah",
+  "חוה",
+  "mother of all living",
+  "Adam called his wife's name Eve",
+  "naming of Eve",
+  "meaning of Eve",
+  "name of the first woman"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

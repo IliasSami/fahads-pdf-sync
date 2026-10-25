@@ -1,0 +1,217 @@
+{
+ "id": "genesis-1-1-part-1/30",
+ "kinds": [
+  "verse",
+  "word-study",
+  "letters"
+ ],
+ "title": "Bara (created) in Genesis 1:1 — bet, resh, alef",
+ "summary": "Genesis 1:1 in Hebrew with the word bara (ברא, created) highlighted in colour. Lists meanings of bara (created, fattened, filled, ex nihilo) and breaks it into bet, resh and alef with an ancient pictograph for each.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "bara"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Created / Fattened"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Filled / Ex nihilo"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "created"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "In beginning"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bara"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bereshit"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "b a r a"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב ר א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "resh"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1 / בראשית א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created / fattened / filled / ex nihilo",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "bara",
+   "other": "ברא"
+  },
+  {
+   "en": "b",
+   "other": "ב"
+  },
+  {
+   "en": "a",
+   "other": "ר"
+  },
+  {
+   "en": "a",
+   "other": "א"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "first letter of bara (ancient pictograph shown)"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "second letter of bara (ancient pictograph shown)"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "third letter of bara (ancient pictograph shown)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Three ancient (paleo-)Hebrew glyphs in black over coloured lines, under the letters alef, resh and bet: an ox head (alef), a head shape (resh) and a house/box shape (bet).",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictographs",
+    "ancient Hebrew letters",
+    "ox head"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.37,
+    0.82,
+    0.68,
+    0.94
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "heavens",
+   "earth"
+  ],
+  "themes": [
+   "creation",
+   "Hebrew letter meanings",
+   "pictographs"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "bara",
+  "created",
+  "Genesis 1:1",
+  "God created",
+  "bereshit",
+  "in the beginning",
+  "fattened",
+  "filled",
+  "ex nihilo",
+  "creation out of nothing",
+  "bet resh alef",
+  "ancient Hebrew letters",
+  "paleo-Hebrew",
+  "H1254"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,163 @@
+{
+ "id": "gods-garden-in-eden/87",
+ "kinds": [
+  "comparison",
+  "letters"
+ ],
+ "title": "Creation #1 vs #2: letters, days, samekh and pi",
+ "summary": "Side-by-side comparison: Creation #1 (Genesis 1) has fewer than 22 letters and 7 days; Creation #2 (Genesis 2) has 22 letters and not 7 days. Three green samekh (ס) glyphs sit between them, and below is the equation (< 22) / 7 = π = 22 / (≠ 7), with π written as 3.14159267…",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Creation #1"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "< 22 letters"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "7 days"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Creation #2"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2",
+   "osis": "Gen.2.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "22 letters"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "≠ 7 days"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ס ס ס"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "< 22 / 7 = π = 22 / ≠ 7"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "3.14159267…"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1 / בראשית א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 2 / בראשית ב",
+   "osis": [
+    "Gen.2.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ס",
+   "translit": "samekh",
+   "gloss": "the Hebrew letter samekh, shown in green between the two columns",
+   "strongs": null
+  }
+ ],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "samekh",
+   "char": "ס",
+   "value": 60,
+   "meaning": "absent from Genesis 1, present in Genesis 2; drawn here as three green glyphs, one a circle"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 22,
+   "note": "letters in the Hebrew alphabet (Creation #2 uses all 22; Creation #1 fewer than 22)"
+  },
+  {
+   "value": 7,
+   "note": "days of Creation #1; Creation #2 is 'not 7 days'"
+  },
+  {
+   "value": 3.14159267,
+   "note": "pi as written on the slide (3.14159267…)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "Hebrew alphabet"
+  ],
+  "themes": [
+   "creation",
+   "Hebrew letter meanings",
+   "pi"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Creation #1 and Creation #2",
+  "Genesis 1 and Genesis 2",
+  "pi",
+  "22/7",
+  "3.14159",
+  "circle",
+  "samekh",
+  "22 letters",
+  "7 days",
+  "two creation accounts",
+  "less than 22 over 7",
+  "pi equals 22/7",
+  "Hebrew letter samekh and circle"
+ ],
+ "uncertain": [
+  "The slide writes pi as 3.14159267… (the usual value begins 3.14159265…); transcribed as shown. The three green samekh glyphs are in different font styles; transcribed as ס ס ס."
+ ],
+ "confidence": 0.93
+}

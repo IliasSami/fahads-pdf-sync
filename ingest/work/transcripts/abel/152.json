@@ -1,0 +1,28 @@
+{
+  "id": "abel/152",
+  "kinds": ["verse", "comparison"],
+  "title": "Abel and Yeshua were betrayed out of envy",
+  "summary": "Genesis 4:5 (Cain was very angry when his offering was not respected) and Matthew 27:18 (\"for envy they had delivered Him\") frame the conclusion that Abel and Yeshua (Jesus) were both betrayed out of envy.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:5", "osis": "Gen.4.5"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ה", "osis": "Gen.4.5"},
+    {"lang": "en", "role": "verse", "text": "5 And He did not respect Cain and his offering. And Cain was very angry, and his countenance fell.", "osis": "Gen.4.5"},
+    {"lang": "en", "role": "heading", "text": "Abel & yeshua were betrayed out of envy."},
+    {"lang": "en", "role": "reference", "text": "Matthew 27:18", "osis": "Matt.27.18"},
+    {"lang": "el", "role": "reference", "text": "Ματθαίος 27:18", "osis": "Matt.27.18"},
+    {"lang": "en", "role": "verse", "text": "18 For He knew that for envy they had delivered Him.", "osis": "Matt.27.18"}
+  ],
+  "refs": [
+    {"shown": "Genesis 4:5 / בראשית ד:ה", "osis": ["Gen.4.5"], "role": "quoted"},
+    {"shown": "Matthew 27:18 / Ματθαίος 27:18", "osis": ["Matt.27.18"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abel", "Cain", "God", "Jesus"], "places": [], "events": ["Cain and Abel's offerings", "Trial of Jesus"], "things": [], "themes": ["envy", "betrayal", "anger", "typology", "Abel as a type of Christ"], "groups": []},
+  "keywords": ["betrayed out of envy", "envy", "jealousy", "betrayal", "Abel", "Yeshua", "Jesus", "delivered for envy", "Cain was very angry", "Genesis 4", "Matthew 27", "Abel a type of Christ"],
+  "uncertain": [],
+  "confidence": 0.95
+}

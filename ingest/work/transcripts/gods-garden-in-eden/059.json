@@ -1,0 +1,126 @@
+{
+ "id": "gods-garden-in-eden/59",
+ "kinds": [
+  "word-study",
+  "text"
+ ],
+ "title": "God formed man with two hands — וייצר with two yods",
+ "summary": "Animation step: 'When the LORD God formed adam/man, He used 2 Hands.' The Hebrew word וייצר (formed, marked **) has two yods (י י), which the slide pairs with 'Hands' (2 hands), ending 'To God be the glory!'",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "When the LORD God"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "formed"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "וייצר**"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "adam/man,"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "He used"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "2 י י Hands"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "To God be the glory!"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "וייצר",
+   "translit": "vayyitser",
+   "gloss": "and (he) formed",
+   "strongs": "H3335",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "man / Adam",
+   "strongs": "H120",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "formed",
+   "other": "וייצר"
+  },
+  {
+   "en": "Hands",
+   "other": "י י"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "hand (two yods = 2 hands)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 2,
+   "note": "two hands — two yods in וייצר"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "hand"
+  ],
+  "themes": [
+   "creation",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "God formed man",
+  "two hands",
+  "2 hands",
+  "two yods",
+  "double yod",
+  "yod means hand",
+  "adam man",
+  "vayyitzer",
+  "וייצר",
+  "to God be the glory",
+  "Genesis 2:7",
+  "creation of Adam",
+  "formed with two hands"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

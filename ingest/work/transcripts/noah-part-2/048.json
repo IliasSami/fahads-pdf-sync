@@ -1,0 +1,162 @@
+{
+ "id": "noah-part-2/48",
+ "kinds": [
+  "timeline",
+  "word-study"
+ ],
+ "title": "Exodus camps by date: Succoth 14 Nisan, Etham 15, Pi-hahiroth 16, Reed Sea parts 17 Nisan",
+ "summary": "A colour-coded timeline of the Exodus journey: succoth סכות on 14 Nisan, etham אתם on 15 Nisan, pi-hahiroth פי החירת on 16 Nisan, and 'Reed Sea Parts' on 17 Nisan.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "succoth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "סכות"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "14 nisan"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "etham"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אתם"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "15 nisan"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "pi-hahiroth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "פי החירת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "16 nisan"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Reed Sea Parts"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "17 nisan"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "סכות",
+   "translit": "succoth",
+   "gloss": "Succoth (booths)",
+   "strongs": "H5523"
+  },
+  {
+   "lang": "he",
+   "word": "אתם",
+   "translit": "etham",
+   "gloss": "Etham",
+   "strongs": "H864"
+  },
+  {
+   "lang": "he",
+   "word": "פי החירת",
+   "translit": "pi-hahiroth",
+   "gloss": "Pi-hahiroth",
+   "strongs": "H6367"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "succoth",
+   "other": "סכות"
+  },
+  {
+   "en": "etham",
+   "other": "אתם"
+  },
+  {
+   "en": "pi-hahiroth",
+   "other": "פי החירת"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 14,
+   "note": "14 Nisan: Succoth"
+  },
+  {
+   "value": 15,
+   "note": "15 Nisan: Etham"
+  },
+  {
+   "value": 16,
+   "note": "16 Nisan: Pi-hahiroth"
+  },
+  {
+   "value": 17,
+   "note": "17 Nisan: Reed Sea parts"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Succoth",
+   "Etham",
+   "Pi-hahiroth",
+   "Red Sea"
+  ],
+  "events": [
+   "Exodus",
+   "Parting of the Red Sea"
+  ],
+  "things": [],
+  "themes": [
+   "Hebrew calendar",
+   "redemption"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Exodus timeline",
+  "Succoth",
+  "Etham",
+  "Pi-hahiroth",
+  "Reed Sea",
+  "Red Sea parts",
+  "14 Nisan",
+  "15 Nisan",
+  "16 Nisan",
+  "17 Nisan",
+  "crossing the Red Sea",
+  "date of the Red Sea crossing",
+  "route of the Exodus"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

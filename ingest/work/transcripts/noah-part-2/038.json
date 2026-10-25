@@ -1,0 +1,154 @@
+{
+ "id": "noah-part-2/38",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "YHWH (Jehovah) in ancient Hebrew letters: Hand Reveals, Nail Reveals",
+ "summary": "The divine name y-a-h-w-e-h (Jehovah) shown as the four Hebrew letters he, vav, he, yod, each with its ancient picture sign and meaning: he = Reveal, vav = Nail, yod = Hand. The slide concludes 'Hand Reveals, Nail Reveals.' The yod/Hand and vav/Nail are colour-coded.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "y a h w e h (Jehovah)"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "he vav he yod"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Reveal Nail Reveal Hand"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Hand Reveals, Nail Reveals."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH (yahweh)",
+   "gloss": "the name of God, shown as 'Jehovah'",
+   "strongs": "H3068"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "y",
+   "other": "י"
+  },
+  {
+   "en": "w",
+   "other": "ו"
+  },
+  {
+   "en": "Hand",
+   "other": "י"
+  },
+  {
+   "en": "Nail",
+   "other": "ו"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "reveal"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "nail"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "reveal"
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "hand"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Four ancient (paleo-Hebrew) letter signs in a row, each with a coloured underline: he (a figure with raised arms, black), vav (a nail or peg shape, orange), he again (black), and yod (a hand/arm shape, dark red). Below each sign is its meaning: Reveal, Nail, Reveal, Hand.",
+   "subjects": [
+    "paleo-Hebrew",
+    "pictograph",
+    "he",
+    "vav",
+    "yod",
+    "Hand",
+    "Nail",
+    "Reveal",
+    "YHWH"
+   ],
+   "text_in_picture": "Reveal Nail Reveal Hand",
+   "credit": null,
+   "box": [
+    0.25,
+    0.48,
+    0.73,
+    0.69
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "Hebrew letter meanings",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "YHWH",
+  "Yahweh",
+  "Jehovah",
+  "tetragrammaton",
+  "name of God",
+  "paleo-Hebrew",
+  "ancient Hebrew letters",
+  "pictographs",
+  "hand reveals nail reveals",
+  "yod hand",
+  "vav nail",
+  "he reveal",
+  "Hebrew letter meanings",
+  "Jesus nailed hand"
+ ],
+ "uncertain": [
+  "Hebrew letters are shown left to right as he, vav, he, yod (as in the slide's labels); the Hebrew block is written in logical right-to-left order as the name YHWH"
+ ],
+ "confidence": 0.93
+}

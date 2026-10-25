@@ -1,0 +1,149 @@
+{
+ "id": "noah-part-2/47",
+ "kinds": [
+  "verse",
+  "word-study",
+  "timeline"
+ ],
+ "title": "Exodus 14:1-4 — camp at Pi-hahiroth (16 Nisan); God will harden Pharaoh's heart",
+ "summary": "Exodus 14:1-4 in English: the LORD tells Moses to have Israel turn back and camp before Pi-hahiroth between Migdol and the sea, saying He will harden Pharaoh's heart and be honored through Pharaoh and his army. Below, pi-hahiroth פי החירת is shown with the date 16 Nisan, colour-matched.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 14:1-4",
+   "osis": [
+    "Exod.14.1",
+    "Exod.14.2",
+    "Exod.14.3",
+    "Exod.14.4"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות יד:א-ד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.14.1",
+   "text": "1 Now the LORD spoke to Moses, saying,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.14.2",
+   "text": "2 “Tell the sons of Israel to turn back and camp before Pi-hahiroth, between Migdol and the sea; you shall camp in front of Baal-zephon, opposite it, by the sea."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.14.3",
+   "text": "3 “For Pharaoh will say of the sons of Israel, ‘They are wandering aimlessly in the land; the wilderness has shut them in.’"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.14.4",
+   "text": "4 “Thus I will harden Pharaoh’s heart, and he will chase after them; and I will be honored through Pharaoh and all his army, and the Egyptians will know that I am the LORD.” And they did so."
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "pi-hahiroth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "פי החירת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "16 nisan"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 14:1-4 / שמות יד:א-ד",
+   "osis": [
+    "Exod.14.1",
+    "Exod.14.2",
+    "Exod.14.3",
+    "Exod.14.4"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "פי החירת",
+   "translit": "pi-hahiroth",
+   "gloss": "Pi-hahiroth, camp by the sea before Baal-zephon",
+   "strongs": "H6367"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "pi-hahiroth",
+   "other": "פי החירת"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 16,
+   "note": "16 Nisan, date shown for Pi-hahiroth"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Moses",
+   "Pharaoh"
+  ],
+  "places": [
+   "Pi-hahiroth",
+   "Migdol",
+   "Baal-zephon",
+   "Egypt"
+  ],
+  "events": [
+   "Exodus"
+  ],
+  "things": [
+   "army"
+  ],
+  "themes": [
+   "judgment",
+   "Hebrew calendar",
+   "redemption"
+  ],
+  "groups": [
+   "Israel",
+   "Egyptians"
+  ]
+ },
+ "keywords": [
+  "Exodus 14",
+  "Pi-hahiroth",
+  "Migdol",
+  "Baal-zephon",
+  "16 Nisan",
+  "turn back and camp",
+  "harden Pharaoh's heart",
+  "Pharaoh's army",
+  "honored through Pharaoh",
+  "I am the LORD",
+  "wilderness has shut them in",
+  "route of the Exodus",
+  "פי החירת"
+ ],
+ "uncertain": [
+  "Purpose of the multicoloured letters in Pi-hahiroth and LORD is not stated on the slide"
+ ],
+ "confidence": 0.95
+}

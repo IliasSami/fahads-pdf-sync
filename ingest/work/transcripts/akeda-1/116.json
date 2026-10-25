@@ -1,0 +1,140 @@
+{
+ "id": "akeda-1/116",
+ "kinds": [
+  "verse",
+  "title"
+ ],
+ "title": "Genesis 23:1 (Sarah's death) and Genesis 22:6 — The Akedah, Abraham and Isaac walk together",
+ "summary": "Section-heading slide for the Akedah (the Binding of Isaac). Top: Genesis 23:1, the years of Sarah's life (127), with the heading Genesis 23 in English and Hebrew. Below: Genesis 22 headed 'The Akedah' (העקדה), quoting verse 6 where Abraham lays the wood of the burnt offering on Isaac and the two walk on together; names and key words are colour-highlighted.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Genesis 23",
+   "osis": "Gen.23.1"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "בראשית כג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.23.1",
+   "text": "1 Now Sarah lived one hundred and twenty-seven years; these were the years of the life of Sarah."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Genesis 22",
+   "osis": "Gen.22.1"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ה ע ק ד ה"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "בראשית כב"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Akedah"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.6",
+   "text": "6 Abraham took the wood of the burnt offering and laid it on Isaac his son, and he took in his hand the fire and the knife. So the two of them walked on together."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 23:1 / בראשית כג",
+   "osis": [
+    "Gen.23.1"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 22 / בראשית כב",
+   "osis": [
+    "Gen.22.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 22:6",
+   "osis": [
+    "Gen.22.6"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "העקדה",
+   "translit": "ha-akedah",
+   "gloss": "the binding (of Isaac)",
+   "strongs": "H6123"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 127,
+   "note": "years of the life of Sarah (Genesis 23:1)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Sarah",
+   "Abraham",
+   "Isaac"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)",
+   "Death of Sarah"
+  ],
+  "things": [
+   "wood",
+   "burnt offering",
+   "fire",
+   "knife"
+  ],
+  "themes": [
+   "sacrifice",
+   "obedience",
+   "faith",
+   "death"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Akedah",
+  "Akeda",
+  "Akedat Yitzchak",
+  "binding of Isaac",
+  "Genesis 22",
+  "Genesis 23",
+  "Sarah's death",
+  "Sarah lived 127 years",
+  "wood of the burnt offering",
+  "fire and the knife",
+  "the two of them walked on together",
+  "Abraham and Isaac",
+  "העקדה"
+ ],
+ "uncertain": [
+  "The first English verse text is shown in italics with Sarah's name partly coloured pink; Abraham, wood, Isaac and son are colour-highlighted in the second verse (colour meaning not stated on the slide)."
+ ],
+ "confidence": 0.95
+}

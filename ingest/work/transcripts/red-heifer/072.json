@@ -1,0 +1,177 @@
+{
+ "id": "red-heifer/72",
+ "kinds": [
+  "verse",
+  "letters"
+ ],
+ "title": "Numbers 19:8 — every 7th letter spells Yeshua",
+ "summary": "Numbers 19:8 in English and Hebrew with four letters in red (י, ש, ו, ע) picked out every 7 letters, joined by red arrows to the large red word ישוע (yeshua), under the caption 'Every 7 letters spells yeshua'. The word מים (water) is in light blue as on the previous slide.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:8",
+   "osis": "Num.19.8"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.8",
+   "text": "8 ‘The one who burns it shall also wash his clothes in water and bathe his body in water and shall be unclean until evening."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Num.19.8",
+   "text": "8 והשרף אתה יכבס בגדיו במים ורחץ בשרו במים וטמא עד־הערב׃"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ישוע"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Every 7 letters spells yeshua"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19:8 / במדבר יט:ח",
+   "osis": [
+    "Num.19.8"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Yeshua (Jesus), spelled by every 7th letter",
+   "strongs": "H3442",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "מים",
+   "translit": "mayim",
+   "gloss": "water",
+   "strongs": "H4325",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "water",
+   "other": "מים"
+  },
+  {
+   "en": "yeshua",
+   "other": "ישוע"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "first red letter, in the first במים; first letter of ישוע"
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "second red letter, in בשרו; second letter of ישוע"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "third red letter, the first letter of וטמא; third letter of ישוע"
+  },
+  {
+   "lang": "he",
+   "letter": "ayin",
+   "char": "ע",
+   "value": 70,
+   "meaning": "fourth red letter, in הערב; last letter of ישוע"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "letter interval: every 7th letter spells ישוע (yeshua)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "Four red arrows below the Hebrew verse line, two pointing down-right and two down-left, running from the four red letters toward the large red word ישוע.",
+   "subjects": [
+    "red arrows",
+    "equidistant letter sequence",
+    "ELS",
+    "Yeshua",
+    "Bible code"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.12,
+    0.44,
+    0.56,
+    0.51
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "water"
+  ],
+  "themes": [
+   "Bible codes",
+   "typology",
+   "purification",
+   "clean and unclean",
+   "messianic prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Bible code",
+  "ELS",
+  "equidistant letter sequence",
+  "every 7 letters",
+  "skip 7",
+  "Yeshua in Numbers 19:8",
+  "Jesus hidden in the red heifer",
+  "ישוע",
+  "yeshua",
+  "Numbers 19:8",
+  "red heifer",
+  "unclean until evening",
+  "hidden name of Jesus",
+  "Torah code"
+ ],
+ "uncertain": [
+  "Skip-7 count checked against the verse: י (20th letter), ש (27th), ו (34th), ע (41st) reading right to left; slide's own wording is transcribed unchanged."
+ ],
+ "confidence": 0.93
+}

@@ -1,0 +1,400 @@
+{
+ "id": "genesis-1-1-part-1/38",
+ "kinds": [
+  "letters",
+  "word-study",
+  "gematria"
+ ],
+ "title": "Elohim letter by letter: meaning and value of א ל ה י ם",
+ "summary": "Colour-coded table spelling elohim (GOD, אלהים) one letter at a time: each row gives the letter, its name, Latin equivalent and value, its ancient pictograph and its meaning — alef (head of an ox, strength, GOD), lamed (shepherd’s crook, authority), he (behold, open window, revelation), yod (hand) and mem (waters, chaos).",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "elohim"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "GOD"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "אלהים"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "A 1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Head of an Ox, Strength, GOD"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "12"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ל"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "lamed"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "L 30"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Shepherd’s Crook, Authority"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "he"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "H 5"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "BEHOLD!, Open Window, Revelation"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "10"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yod"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "I, Y 10"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Hand"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "13"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ(ם)"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "mem"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "M 40"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Waters, Chaos"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "e",
+   "other": "א"
+  },
+  {
+   "en": "l",
+   "other": "ל"
+  },
+  {
+   "en": "h",
+   "other": "ה"
+  },
+  {
+   "en": "i",
+   "other": "י"
+  },
+  {
+   "en": "m",
+   "other": "ם"
+  },
+  {
+   "en": "Head of an Ox, Strength",
+   "other": "א"
+  },
+  {
+   "en": "Shepherd’s Crook, Authority",
+   "other": "ל"
+  },
+  {
+   "en": "BEHOLD!, Open Window, Revelation",
+   "other": "ה"
+  },
+  {
+   "en": "Hand",
+   "other": "י"
+  },
+  {
+   "en": "Waters, Chaos",
+   "other": "מ"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "head of an ox, strength, GOD"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "shepherd’s crook, authority"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "behold!, open window, revelation"
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "hand"
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "waters, chaos"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "number shown left of alef (and value A 1)"
+  },
+  {
+   "value": 12,
+   "note": "number shown left of lamed (value L 30)"
+  },
+  {
+   "value": 5,
+   "note": "number shown left of he (and value H 5)"
+  },
+  {
+   "value": 10,
+   "note": "number shown left of yod (and value 10)"
+  },
+  {
+   "value": 13,
+   "note": "number shown left of mem (value M 40)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of alef: a head of an ox with horns, drawn in black over a cyan line.",
+   "subjects": [
+    "alef pictograph",
+    "ox head",
+    "paleo-Hebrew",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.44,
+    0.15,
+    0.49,
+    0.25
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of lamed: a shepherd’s crook or staff drawn as an angled stroke in black over a brown line.",
+   "subjects": [
+    "lamed pictograph",
+    "shepherd's crook",
+    "staff",
+    "paleo-Hebrew"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.44,
+    0.29,
+    0.49,
+    0.39
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of he: a figure with raised arms (a window-like sign), drawn in black over a black line.",
+   "subjects": [
+    "he pictograph",
+    "man with raised arms",
+    "open window",
+    "paleo-Hebrew"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.44,
+    0.44,
+    0.49,
+    0.54
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of yod: a small arm and hand sign in black over an orange-brown line.",
+   "subjects": [
+    "yod pictograph",
+    "hand",
+    "arm",
+    "paleo-Hebrew"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.44,
+    0.61,
+    0.49,
+    0.69
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient pictograph of mem: a black zigzag wavy line like water, over a pale blue line.",
+   "subjects": [
+    "mem pictograph",
+    "water waves",
+    "wavy line",
+    "paleo-Hebrew"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.45,
+    0.76,
+    0.49,
+    0.85
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "ox",
+   "shepherd's crook",
+   "hand",
+   "water"
+  ],
+  "themes": [
+   "names of God",
+   "Hebrew letter meanings",
+   "gematria",
+   "revelation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "elohim",
+  "God",
+  "אלהים",
+  "alef",
+  "aleph",
+  "lamed",
+  "he",
+  "yod",
+  "mem",
+  "pictographs",
+  "paleo-Hebrew",
+  "letter meanings",
+  "head of an ox",
+  "shepherd's crook",
+  "hand",
+  "waters",
+  "chaos",
+  "behold",
+  "Genesis 1:1"
+ ],
+ "uncertain": [
+  "the left-hand numbers 1, 12, 5, 10, 13 are not labelled on the slide (they match each letter’s place in the alphabet)"
+ ],
+ "confidence": 0.93
+}

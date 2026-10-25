@@ -1,0 +1,23 @@
+{
+  "id": "fall-of-man/55",
+  "kinds": ["verse"],
+  "title": "Genesis 3:22-24 — driven out of Eden; cherubim guard the way to the tree of life",
+  "summary": "Genesis 3:22-24: the man has become like God, knowing good and evil, so God sends him out of the garden of Eden and stations the cherubim and a flaming sword to guard the way to the tree of life. “Garden,” “Eden” and “way” are highlighted in colour.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 3:22-24", "osis": ["Gen.3.22", "Gen.3.23", "Gen.3.24"]},
+    {"lang": "he", "role": "reference", "text": "בראשית ג:כב-כד", "osis": ["Gen.3.22", "Gen.3.23", "Gen.3.24"]},
+    {"lang": "en", "role": "verse", "text": "22 Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil; and now, he might stretch out his hand, and take also from the tree of life, and eat, and live forever”", "osis": "Gen.3.22"},
+    {"lang": "en", "role": "verse", "text": "23 therefore the LORD God sent him out from the garden of Eden, to cultivate the ground from which he was taken.", "osis": "Gen.3.23"},
+    {"lang": "en", "role": "verse", "text": "24 So He drove the man out; and at the east of the garden of Eden He stationed the cherubim and the flaming sword which turned every direction to guard the way to the tree of life.", "osis": "Gen.3.24"}
+  ],
+  "refs": [{"shown": "Genesis 3:22-24 / בראשית ג:כב-כד", "osis": ["Gen.3.22", "Gen.3.23", "Gen.3.24"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Adam"], "places": ["Garden of Eden"], "events": ["Fall of Man", "Expulsion from Eden"], "things": ["tree of life", "cherubim", "flaming sword"], "themes": ["knowledge of good and evil", "eternal life", "judgment", "the way"], "groups": ["angels"]},
+  "keywords": ["driven out of Eden", "expulsion from the garden", "banished from paradise", "cherubim", "cherubims", "flaming sword", "tree of life", "live forever", "like one of us", "knowing good and evil", "the way of the tree of life", "east of Eden", "Genesis 3", "Genesis 3:22-24"],
+  "uncertain": [],
+  "confidence": 0.96
+}

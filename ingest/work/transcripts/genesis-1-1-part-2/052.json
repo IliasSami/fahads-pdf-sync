@@ -1,0 +1,132 @@
+{
+ "id": "genesis-1-1-part-2/52",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:30-31 in Hebrew: green herb, very good, sixth day",
+ "summary": "Hebrew text of Genesis 1:30–31 (no vowel points) with English glosses above key words: green (in green, over ירק), sixth and very. The glossed Hebrew words are in red (green for ירק) and אלהים (God) is colour-coded in blue, red and gold in verse 31.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.30",
+   "text": "1:30 ולכל חית הארץ ולכל עוף השמים ולכל רומש על הארץ אשר בו נפש חיה את כל ירק עשב לאכלה ויהי כן׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "green"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.31",
+   "text": "1:31 וירא אלהים את כל אשר עשה והנה טוב מאד ויהי ערב ויהי בקר יום הששי׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "sixth"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "very"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1:30",
+   "osis": [
+    "Gen.1.30"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "1:31",
+   "osis": [
+    "Gen.1.31"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ירק",
+   "translit": "yereq",
+   "gloss": "green",
+   "strongs": "H3418",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "מאד",
+   "translit": "me'od",
+   "gloss": "very",
+   "strongs": "H3966",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הששי",
+   "translit": "hashishi",
+   "gloss": "sixth",
+   "strongs": "H8345",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "green",
+   "other": "ירק"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "green herb",
+   "beasts of the earth",
+   "birds"
+  ],
+  "themes": [
+   "creation",
+   "Hebrew word study"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:30",
+  "Genesis 1:31",
+  "Genesis 1",
+  "every green herb for meat",
+  "God saw every thing that he had made",
+  "it was very good",
+  "sixth day",
+  "evening and the morning",
+  "tov me'od",
+  "green",
+  "yereq",
+  "Hebrew text of Genesis"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

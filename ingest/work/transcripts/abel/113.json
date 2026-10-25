@@ -1,0 +1,37 @@
+{
+  "id": "abel/113",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:13 — “iniquity” (avon, עון) instead of “punishment”",
+  "summary": "Genesis 4:13 re-translated as “My iniquity is greater than I can bear!” with a word study: avon (עון) means “Iniquity,” its letters coloured to match the Hebrew word עוני in the verse.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:13", "osis": "Gen.4.13"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:יג"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.13", "text": "13 And Cain said to the LORD, “My iniquity is greater than I can bear!"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.13", "text": "13 ויאמר קין אל יהוה גדול עוני מנשא׃"},
+    {"lang": "translit", "role": "label", "text": "avon"},
+    {"lang": "he", "role": "label", "text": "עון"},
+    {"lang": "en", "role": "label", "text": "Iniquity"}
+  ],
+  "refs": [{"shown": "Genesis 4:13 / בראשית ד:יג", "osis": ["Gen.4.13"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "עון", "translit": "avon", "gloss": "iniquity", "strongs": "H5771"}
+  ],
+  "color_links": [
+    {"en": "iniquity", "other": "עון"},
+    {"en": "Iniquity", "other": "עון"},
+    {"en": "avon", "other": "עון"},
+    {"en": "v (avon)", "other": "ו"},
+    {"en": "on (avon)", "other": "ון"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "ayin", "char": "ע", "value": 70, "meaning": ""},
+    {"lang": "he", "letter": "vav", "char": "ו", "value": 6, "meaning": ""},
+    {"lang": "he", "letter": "nun (final)", "char": "ן", "value": 50, "meaning": ""}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain"], "places": [], "events": ["Cain's punishment"], "things": [], "themes": ["sin", "judgment", "iniquity", "names of God"], "groups": []},
+  "keywords": ["iniquity", "avon", "awon", "my iniquity is greater than I can bear", "my punishment is greater than I can bear", "Hebrew word for iniquity", "guilt", "Cain said to the LORD", "Cain and Abel", "Genesis 4", "Genesis 4:13"],
+  "uncertain": ["The LORD in English and יהוה in Hebrew have individually coloured letters (decorative: red L/yod, orange R/vav), meaning not explained on this slide."],
+  "confidence": 0.93
+}

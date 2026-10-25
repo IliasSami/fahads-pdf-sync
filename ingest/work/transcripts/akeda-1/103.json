@@ -1,0 +1,31 @@
+{
+  "id": "akeda-1/103",
+  "kinds": ["verse", "word-study"],
+  "title": "Isaiah 41:8 — Abraham My friend",
+  "summary": "Isaiah 41:8 in English and Hebrew: God calls Israel His servant, Jacob His chosen, and Abraham 'My friend'. 'Abraham' is coloured blue in both languages, and 'My friend' (אהבי, ohavi) is underlined in blue and yellow and repeated large at the bottom.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Isaiah 41:8", "osis": "Isa.41.8"},
+    {"lang": "he", "role": "reference", "text": "ישעיה מא:ח", "osis": "Isa.41.8"},
+    {"lang": "en", "role": "verse", "osis": "Isa.41.8", "text": "8 \"But you, Israel, My servant, Jacob whom I have chosen, Descendant of Abraham My friend,"},
+    {"lang": "he", "role": "verse", "osis": "Isa.41.8", "text": "8 ואתה ישראל עבדי יעקב אשר בחרתיך זרע אברהם אהבי׃"},
+    {"lang": "en", "role": "label", "text": "My friend"},
+    {"lang": "he", "role": "label", "text": "אהבי"}
+  ],
+  "refs": [{"shown": "Isaiah 41:8 / ישעיה מא:ח", "osis": ["Isa.41.8"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "אהבי", "translit": "ohavi", "gloss": "My friend (My lover, the one who loves Me)", "strongs": "H157"},
+    {"lang": "he", "word": "אברהם", "translit": "Avraham", "gloss": "Abraham", "strongs": "H85"},
+    {"lang": "he", "word": "עבדי", "translit": "avdi", "gloss": "My servant", "strongs": "H5650"}
+  ],
+  "color_links": [
+    {"en": "Abraham", "other": "אברהם"},
+    {"en": "My friend", "other": "אהבי"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham", "Jacob"], "places": [], "events": [], "things": [], "themes": ["friendship with God", "covenant", "faith"], "groups": ["Israel"]},
+  "keywords": ["Isaiah 41:8", "Isaiah 41", "Abraham my friend", "friend of God", "ohavi", "seed of Abraham", "Jacob whom I have chosen", "my servant Israel", "descendant of Abraham", "Akedah", "Akeda", "ohev", "beloved"],
+  "uncertain": ["Only part of the Hebrew word אברהם is blue (the letters אבר and the final ם); read as the whole name Abraham being highlighted."],
+  "confidence": 0.95
+}

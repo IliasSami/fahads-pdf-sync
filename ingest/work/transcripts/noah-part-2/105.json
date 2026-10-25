@@ -1,0 +1,211 @@
+{
+ "id": "noah-part-2/105",
+ "kinds": [
+  "genealogy",
+  "list"
+ ],
+ "title": "Selected names from Japheth, Ham and Shem",
+ "summary": "Three columns showing only a selection of names from the earlier Table of Nations lists: eight from Japheth, nine from Ham and five from Shem, keeping their original numbers. The slide does not say why these were chosen. Small star-of-David symbols mark Shem, Elam, Arpachshad, Shelah, Eber and Peleg.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Japheth"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Gomer,"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "8 Ashkenaz"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "10 Togarmah"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "2 Magog,"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "4 Javan,"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "12 Tarshish"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "5 Tubal,"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "6 Meshech,"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Ham"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Cush,"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "10 Sheba"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "11 Dedan"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "12 Nimrod"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "2 Mizraim,"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "3 Put,"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "4 Canaan."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "20 Sidon"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "22 Jebusite"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Shem✡"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "2 Elam✡,"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "4 Arpachshad✡,"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "11 Shelah✡"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Eber✡"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "12 Peleg✡"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Japheth",
+   "Ham",
+   "Shem",
+   "Gomer",
+   "Ashkenaz",
+   "Togarmah",
+   "Magog",
+   "Javan",
+   "Tarshish",
+   "Tubal",
+   "Meshech",
+   "Cush",
+   "Sheba",
+   "Dedan",
+   "Nimrod",
+   "Mizraim",
+   "Put",
+   "Canaan",
+   "Sidon",
+   "Elam",
+   "Arpachshad",
+   "Shelah",
+   "Eber",
+   "Peleg"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "genealogy",
+   "table of nations",
+   "messianic line"
+  ],
+  "groups": [
+   "Jebusites"
+  ]
+ },
+ "keywords": [
+  "Japheth",
+  "Ham",
+  "Shem",
+  "table of nations",
+  "Genesis 10",
+  "selected nations",
+  "Gomer",
+  "Ashkenaz",
+  "Togarmah",
+  "Magog",
+  "Javan",
+  "Tarshish",
+  "Tubal",
+  "Meshech",
+  "Cush",
+  "Nimrod",
+  "Mizraim",
+  "Canaan",
+  "Sidon",
+  "Jebusite",
+  "Elam",
+  "Arpachshad",
+  "Peleg",
+  "Eber"
+ ],
+ "uncertain": [
+  "The slide does not say why these particular names were selected from the full lists."
+ ],
+ "confidence": 0.9
+}

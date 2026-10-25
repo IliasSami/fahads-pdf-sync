@@ -1,0 +1,240 @@
+{
+ "id": "noah-part-2/37",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "YHWH (LORD): the four letters yod, he, vav, he and their pictures",
+ "summary": "The name yahweh written in Hebrew as יהוה, with the English word LORD, shown letter by letter with values and ancient pictographs: yod (10, hand), he (5, behold, open window, revelation), vav (6, hook, nail, attach, upright man) and he again (5). The letters are colour-matched to the Y/W of yahweh and the L/R of LORD.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "y a h w e h"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "יהוה"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "L O R D"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "10. י yod I, Y 10 — Hand"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "5. ה he H 5 — BEHOLD!, Open Window, Revelation"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "6. ו vav V, O, W, U 6 — Hook, Nail, Attach / Upright Man"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "5. ה he H 5 — BEHOLD!, Open Window, Revelation"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "LORD (the name of God)",
+   "strongs": "H3068",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     10,
+     5,
+     6,
+     5
+    ],
+    "total": 26
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "yahweh",
+   "other": "יהוה"
+  },
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "hand"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "behold! / open window / revelation"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "hook, nail, attach / upright man"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "behold! / open window / revelation"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 10,
+   "note": "value of yod"
+  },
+  {
+   "value": 5,
+   "note": "value of he"
+  },
+  {
+   "value": 6,
+   "note": "value of vav"
+  },
+  {
+   "value": 26,
+   "note": "sum of the four letters of יהוה (10+5+6+5); total not shown on the slide"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph of the letter yod: a small hand-shaped sign above a red-brown baseline, shown beside the value 10.",
+   "subjects": [
+    "yod",
+    "hand",
+    "paleo-Hebrew",
+    "pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.38,
+    0.29,
+    0.45,
+    0.38
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph of the letter he: a figure with raised arms above a black baseline, shown beside the value 5.",
+   "subjects": [
+    "he",
+    "man with raised arms",
+    "behold",
+    "paleo-Hebrew",
+    "pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.38,
+    0.42,
+    0.45,
+    0.52
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph of the letter vav: a hook- or nail-shaped upright sign above an orange baseline, shown beside the value 6.",
+   "subjects": [
+    "vav",
+    "hook",
+    "nail",
+    "paleo-Hebrew",
+    "pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.38,
+    0.55,
+    0.45,
+    0.66
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph of the final letter he: a figure with raised arms above a black baseline, shown beside the value 5.",
+   "subjects": [
+    "he",
+    "man with raised arms",
+    "behold",
+    "paleo-Hebrew",
+    "pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.38,
+    0.7,
+    0.45,
+    0.8
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "Hebrew letter meanings",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "YHWH",
+  "Yahweh",
+  "Jehovah",
+  "tetragrammaton",
+  "LORD",
+  "name of God",
+  "yod he vav he",
+  "yod",
+  "hand",
+  "he",
+  "behold",
+  "vav",
+  "hook",
+  "nail",
+  "paleo-Hebrew",
+  "pictographs",
+  "Hebrew letter meanings"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

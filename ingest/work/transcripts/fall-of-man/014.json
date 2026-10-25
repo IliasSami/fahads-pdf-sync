@@ -1,0 +1,97 @@
+{
+ "id": "fall-of-man/14",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Psalm 91:11-13 — angels guard you; you will tread on the lion and the serpent",
+ "summary": "Psalm 91:11-13 in English: angels guard and lift you up so you do not strike your foot on a stone, and verse 13 adds that you will tread on the lion and the cobra and trample the great lion and the serpent. Verse 13 appears in larger type below verses 11-12 (the part the devil left out).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 91:11-13",
+   "osis": [
+    "Ps.91.11",
+    "Ps.91.12",
+    "Ps.91.13"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים צא:יא־יג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "11 For he will command his angels concerning you to guard you in all your ways;",
+   "osis": "Ps.91.11"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "12 they will lift you up in their hands, so that you will not strike your foot against a stone.",
+   "osis": "Ps.91.12"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "13 You will tread on the lion and the cobra; you will trample the great lion and the serpent.",
+   "osis": "Ps.91.13"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 91:11-13 / תהילים צא:יא־יג",
+   "osis": [
+    "Ps.91.11",
+    "Ps.91.12",
+    "Ps.91.13"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Satan"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "angels",
+   "lion",
+   "cobra",
+   "serpent",
+   "stone"
+  ],
+  "themes": [
+   "protection",
+   "Scripture",
+   "victory over the serpent",
+   "prophecy"
+  ],
+  "groups": [
+   "angels"
+  ]
+ },
+ "keywords": [
+  "Psalm 91:13",
+  "tread upon the lion and adder",
+  "trample the serpent",
+  "young lion and the dragon",
+  "serpent crushed",
+  "angels guard you",
+  "Psalm 91",
+  "victory over Satan",
+  "dash thy foot against a stone",
+  "cobra"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

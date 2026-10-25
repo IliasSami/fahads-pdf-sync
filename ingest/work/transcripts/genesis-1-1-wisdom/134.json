@@ -1,0 +1,215 @@
+{
+ "id": "genesis-1-1-wisdom/134",
+ "kinds": [
+  "verse",
+  "gematria",
+  "word-study"
+ ],
+ "title": "Genesis 3:5 — Man (45) is not equal to Understanding (67)",
+ "summary": "Back to Genesis 3:5 in English and Hebrew. Man (adam, 45) and Understanding (binah, 67) are shown side by side with not-equal signs between the words and between the numbers 45 and 67.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:5",
+   "osis": "Gen.3.5"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:ה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.3.5",
+   "text": "5 For God knows that in the day you eat of it your eyes will be opened, and you will be like God, knowing good and evil.”"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.3.5",
+   "text": "5 כי ידע אלהים כי ביום אכלכם ממנו ונפקחו עיניכם והייתם כאלהים ידעי טוב ורע׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Man"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "adam"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אדם"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "40 4 1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "45"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "≠"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Understanding"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "binah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בינה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 50 10 2"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "≠"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "67"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:5 / בראשית ג:ה",
+   "osis": [
+    "Gen.3.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "man",
+   "strongs": "H120",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     4,
+     1
+    ],
+    "total": 45
+   }
+  },
+  {
+   "lang": "he",
+   "word": "בינה",
+   "translit": "binah",
+   "gloss": "understanding",
+   "strongs": "H998",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     50,
+     10,
+     2
+    ],
+    "total": 67
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Man",
+   "other": "אדם"
+  },
+  {
+   "en": "adam",
+   "other": "אדם"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 45,
+   "note": "gematria of אדם (adam, man)"
+  },
+  {
+   "value": 67,
+   "note": "gematria of בינה (binah, understanding); shown as not equal to 45"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam",
+   "Eve",
+   "Satan"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "wisdom",
+   "sin",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 3:5",
+  "Genesis 3",
+  "man not equal understanding",
+  "adam binah",
+  "not equal sign",
+  "gematria 45",
+  "gematria 67",
+  "ye shall be as gods",
+  "knowing good and evil",
+  "eyes opened",
+  "understanding vs man"
+ ],
+ "uncertain": [
+  "Understanding appears double-printed (yellow shadow behind black text); transcribed once."
+ ],
+ "confidence": 0.93
+}

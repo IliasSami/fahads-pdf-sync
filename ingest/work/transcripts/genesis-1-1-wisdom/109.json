@@ -1,0 +1,304 @@
+{
+ "id": "genesis-1-1-wisdom/109",
+ "kinds": [
+  "gematria",
+  "word-study"
+ ],
+ "title": "Jesus 888 and Christ 1480: Greek name totals",
+ "summary": "The Greek name totals are added: Ιησούς (Iēsous) 888 plus Χριστός (Chrīstós) 1480, shown beneath their letter values and under the Hebrew phrase total of 2368. The labels run right to left, like the Hebrew: Thirty, and Seven, Times, Seventy, and Three.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "73 x 37"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Thirty · and Seven · Times · Seventy · and Three"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "sheloshim · v’sheba · pa’amim · shibim · v’shalosh"
+  },
+  {
+   "lang": "he",
+   "role": "body",
+   "text": "שלושים ושבע פעמים שבעים ושלוש"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "40 10 300 6 30 300  ·  70 2 300 6  ·  40 10 40 70 80  ·  40 10 70 2 300  ·  300 6 30 300 6"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "642 + 422 + 240 + 378 + 686"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 2368"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "Iēsous · Chrīstós"
+  },
+  {
+   "lang": "el",
+   "role": "body",
+   "text": "Ιησούς Χριστός"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "10 8 200 70 400 200  ·  600 100 10 200 300 70 200"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "888 + 1480"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שלושים",
+   "translit": "sheloshim",
+   "gloss": "thirty",
+   "strongs": "H7970",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     10,
+     300,
+     6,
+     30,
+     300
+    ],
+    "total": 686
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ושבע",
+   "translit": "v'sheba",
+   "gloss": "and seven",
+   "strongs": "H7651",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     70,
+     2,
+     300,
+     6
+    ],
+    "total": 378
+   }
+  },
+  {
+   "lang": "he",
+   "word": "פעמים",
+   "translit": "pa'amim",
+   "gloss": "times",
+   "strongs": "H6471",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     10,
+     40,
+     70,
+     80
+    ],
+    "total": 240
+   }
+  },
+  {
+   "lang": "he",
+   "word": "שבעים",
+   "translit": "shibim",
+   "gloss": "seventy",
+   "strongs": "H7657",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     10,
+     70,
+     2,
+     300
+    ],
+    "total": 422
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ושלוש",
+   "translit": "v'shalosh",
+   "gloss": "and three",
+   "strongs": "H7969",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     300,
+     6,
+     30,
+     300,
+     6
+    ],
+    "total": 642
+   }
+  },
+  {
+   "lang": "el",
+   "word": "Ιησούς",
+   "translit": "Iēsous",
+   "gloss": "Jesus",
+   "strongs": "G2424",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     10,
+     8,
+     200,
+     70,
+     400,
+     200
+    ],
+    "total": 888
+   }
+  },
+  {
+   "lang": "el",
+   "word": "Χριστός",
+   "translit": "Chrīstós",
+   "gloss": "Christ (anointed one)",
+   "strongs": "G5547",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     600,
+     100,
+     10,
+     200,
+     300,
+     70,
+     200
+    ],
+    "total": 1480
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Thirty",
+   "other": "שלושים"
+  },
+  {
+   "en": "and Seven",
+   "other": "ושבע"
+  },
+  {
+   "en": "Times",
+   "other": "פעמים"
+  },
+  {
+   "en": "Seventy",
+   "other": "שבעים"
+  },
+  {
+   "en": "and Three",
+   "other": "ושלוש"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 73,
+   "note": "73 x 37 shown at the top of the slide"
+  },
+  {
+   "value": 37,
+   "note": "37, the other factor in 73 x 37"
+  },
+  {
+   "value": 686,
+   "note": "gematria of שלושים (thirty)"
+  },
+  {
+   "value": 378,
+   "note": "gematria of ושבע (and seven)"
+  },
+  {
+   "value": 240,
+   "note": "gematria of פעמים (times)"
+  },
+  {
+   "value": 422,
+   "note": "gematria of שבעים (seventy)"
+  },
+  {
+   "value": 642,
+   "note": "gematria of ושלוש (and three)"
+  },
+  {
+   "value": 2368,
+   "note": "sum of the five Hebrew word totals (642 + 422 + 240 + 378 + 686)"
+  },
+  {
+   "value": 888,
+   "note": "gematria (isopsephy) of Ιησούς (Jesus)"
+  },
+  {
+   "value": 1480,
+   "note": "gematria (isopsephy) of Χριστός (Christ)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "73 x 37",
+  "37 x 73",
+  "thirty and seven",
+  "seventy times",
+  "and three",
+  "sheloshim",
+  "shibim",
+  "v'shalosh",
+  "Hebrew number words",
+  "gematria",
+  "Genesis 1:1",
+  "2701",
+  "2368",
+  "Hebrew letter values",
+  "word totals",
+  "Jesus Christ",
+  "Iesous",
+  "Christos",
+  "Greek gematria",
+  "isopsephy",
+  "Jesus Christ 2368",
+  "Ιησούς Χριστός",
+  "888",
+  "1480"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

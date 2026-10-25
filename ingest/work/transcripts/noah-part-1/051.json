@@ -1,0 +1,118 @@
+{
+ "id": "noah-part-1/51",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 6:13-14 — God tells Noah to build an ark; Romans 5:20 grace abounds",
+ "summary": "Genesis 6:13-14 in English (God tells Noah the end of all flesh has come and to make an ark of gopher wood with rooms, covered inside and out with pitch), paired with Romans 5:20 (the Law increased transgression, but where sin increased grace abounded all the more). The word ark is partly in red and the letters of God and Noah are in different colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:13-14",
+   "osis": [
+    "Gen.6.13",
+    "Gen.6.14"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יג-יד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.13",
+   "text": "13 Then God said to Noah, “The end of all flesh has come before Me; for the earth is filled with violence because of them; and behold, I am about to destroy them with the earth."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.14",
+   "text": "14 “Make for yourself an ark of gopher wood; you shall make the ark with rooms, and shall cover it inside and out with pitch."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Romans 5:20",
+   "osis": "Rom.5.20"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΡΩΜΑΙΟΥΣ 5:20"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Rom.5.20",
+   "text": "20 The Law came in so that the transgression would increase; but where sin increased, grace abounded all the more,"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:13-14 / בראשית ו:יג-יד",
+   "osis": [
+    "Gen.6.13",
+    "Gen.6.14"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Romans 5:20 / ΡΩΜΑΙΟΥΣ 5:20",
+   "osis": [
+    "Rom.5.20"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "gopher wood",
+   "pitch"
+  ],
+  "themes": [
+   "judgment",
+   "grace",
+   "sin",
+   "Torah",
+   "obedience"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 6:13",
+  "Genesis 6:14",
+  "Romans 5:20",
+  "ark of gopher wood",
+  "make yourself an ark",
+  "end of all flesh",
+  "earth filled with violence",
+  "destroy them with the earth",
+  "pitch",
+  "rooms",
+  "grace abounded",
+  "where sin abounded",
+  "the Law came in",
+  "Noah"
+ ],
+ "uncertain": [
+  "The letters of 'God' (blue, red, yellow) and 'Noah' ('No' green) are multi-coloured; the slide gives no explanation for the colours."
+ ],
+ "confidence": 0.95
+}

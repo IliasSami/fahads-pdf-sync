@@ -1,0 +1,37 @@
+{
+  "id": "akeda-1/20",
+  "kinds": ["verse", "comparison"],
+  "title": "Birth of Isaac (Gen 21:1-3) beside the virgin's sign, Immanuel (Isa 7:14)",
+  "summary": "Genesis 21:1-3 (Sarah bears Isaac at the appointed time) placed above Isaiah 7:14, where the Lord Himself gives a sign: the virgin shall conceive, bear a son and call his name Immanuel. Key words (Lord, sign, virgin, son, Immanuel) are shown in distinct colours.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 21:1-3", "osis": ["Gen.21.1", "Gen.21.2", "Gen.21.3"]},
+    {"lang": "he", "role": "reference", "text": "בראשית כא:א-ג"},
+    {"lang": "en", "role": "verse", "osis": "Gen.21.1", "text": "1 Then the LORD took note of Sarah as He had said,"},
+    {"lang": "en", "role": "verse", "osis": "Gen.21.1", "text": "and the LORD did for Sarah as He had promised."},
+    {"lang": "en", "role": "verse", "osis": "Gen.21.2", "text": "2 So Sarah conceived and bore a son to Abraham"},
+    {"lang": "en", "role": "verse", "osis": "Gen.21.2", "text": "in his old age, at the appointed time"},
+    {"lang": "en", "role": "verse", "osis": "Gen.21.2", "text": "of which God had spoken to him."},
+    {"lang": "en", "role": "verse", "osis": "Gen.21.3", "text": "3 Abraham called the name of his son"},
+    {"lang": "en", "role": "verse", "osis": "Gen.21.3", "text": "who was born to him, whom Sarah bore to him, Isaac."},
+    {"lang": "en", "role": "reference", "text": "Isaiah 7:14", "osis": "Isa.7.14"},
+    {"lang": "he", "role": "reference", "text": "ישעה ז:יד"},
+    {"lang": "en", "role": "verse", "osis": "Isa.7.14", "text": "14 Therefore the Lord himself shall give you a sign;"},
+    {"lang": "en", "role": "verse", "osis": "Isa.7.14", "text": "Behold, the virgin shall conceive, and bear a son,"},
+    {"lang": "en", "role": "verse", "osis": "Isa.7.14", "text": "and shall call his name Immanuel."}
+  ],
+  "refs": [
+    {"shown": "Genesis 21:1-3 / בראשית כא:א-ג", "osis": ["Gen.21.1", "Gen.21.2", "Gen.21.3"], "role": "quoted"},
+    {"shown": "Isaiah 7:14 / ישעה ז:יד", "osis": ["Isa.7.14"], "role": "quoted"}
+  ],
+  "words": [
+    {"lang": "en", "word": "Immanuel", "translit": "Immanuel", "gloss": "God with us", "strongs": "H6005"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham", "Sarah", "Isaac", "Jesus"], "places": [], "events": ["Birth of Isaac", "Birth of Jesus"], "things": [], "themes": ["messianic prophecy", "typology", "promise", "virgin birth", "prophecy"], "groups": []},
+  "keywords": ["Genesis 21:1-3", "Isaiah 7:14", "virgin shall conceive", "Immanuel", "Emmanuel", "sign", "virgin birth", "birth of Isaac", "miraculous birth", "Sarah bore a son", "God with us", "Isaiah 7"],
+  "uncertain": ["Hebrew reference heading for Isaiah is spelled ישעה as on the slide."],
+  "confidence": 0.95
+}

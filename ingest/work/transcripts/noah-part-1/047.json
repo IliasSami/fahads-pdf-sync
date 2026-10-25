@@ -1,0 +1,132 @@
+{
+ "id": "noah-part-1/47",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Exodus 2:3 — tebah: the ark of bulrushes for baby Moses",
+ "summary": "Exodus 2:3 in English and Hebrew, headed 'tebah': Moses' mother takes an ark (tebah) of bulrushes, daubs it with slime and pitch, puts the child in it and lays it in the reeds by the river. The word ark / תבת is highlighted in red and [Moses] is shown in blue brackets.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 2:3",
+   "osis": "Exod.2.3"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tebah"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות ב:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "3 And when she could not longer hide [Moses] him, she took for him an ark of bulrushes, and daubed it with slime and with pitch, and put the child therein; and she laid it in the reeds by the river's brink.",
+   "osis": "Exod.2.3"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "ולא־יכלה עוד הצפינו",
+   "osis": "Exod.2.3"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "ותקח־לו תבת גמא",
+   "osis": "Exod.2.3"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "ותחמרה בחמר ובזפת",
+   "osis": "Exod.2.3"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "ותשם בה את־הילד",
+   "osis": "Exod.2.3"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "ותשם בסוף על־שפת היאר׃",
+   "osis": "Exod.2.3"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 2:3 / שמות ב:ג",
+   "osis": [
+    "Exod.2.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תבת",
+   "translit": "tevat",
+   "gloss": "ark (of)",
+   "strongs": "H8392"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "ark",
+   "other": "תבת"
+  },
+  {
+   "en": "tebah",
+   "other": "תבת"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Moses"
+  ],
+  "places": [],
+  "events": [
+   "Birth of Moses"
+  ],
+  "things": [
+   "ark",
+   "bulrushes",
+   "pitch",
+   "slime",
+   "reeds"
+  ],
+  "themes": [
+   "typology",
+   "redemption"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Exodus 2:3",
+  "tebah",
+  "teva",
+  "ark of bulrushes",
+  "Moses basket",
+  "baby Moses",
+  "daubed with slime and pitch",
+  "river's brink",
+  "reeds",
+  "the other ark",
+  "ark in Exodus",
+  "Moses in the ark",
+  "תבת גמא"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

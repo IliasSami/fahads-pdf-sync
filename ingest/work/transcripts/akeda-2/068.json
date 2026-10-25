@@ -1,0 +1,178 @@
+{
+ "id": "akeda-2/68",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Three verses read with \"kneel\": Psalm 104:1, Numbers 6:24, Genesis 24:11",
+ "summary": "Three Hebrew verses with English where the root barak (ברך) is rendered \"kneel\": \"Kneel before the LORD, O my soul!\" (Psalm 104:1), \"The LORD kneel before you and keep you\" (Numbers 6:24), and \"And He made the camels kneel outside the city\" (Genesis 24:11). The matching Hebrew letters are colour-coded and \"camels\" is underlined.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 104:1",
+   "osis": "Ps.104.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים קד:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.104.1",
+   "text": "1 Kneel before the LORD, O my soul!"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.104.1",
+   "text": "1 ברכי נפשי את־יהוה"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 6:24",
+   "osis": "Num.6.24"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר ו:כד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.6.24",
+   "text": "24 The LORD kneel before you and keep you."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Num.6.24",
+   "text": "24 יברכך יהוה וישמרך׃"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 24:11",
+   "osis": "Gen.24.11"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כד:יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.24.11",
+   "text": "11 And He made the camels kneel outside the city…"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.24.11",
+   "text": "11 ויברך הגמלים מחוץ לעיר"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 104:1 / תהילים קד:א",
+   "osis": [
+    "Ps.104.1"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Numbers 6:24 / במדבר ו:כד",
+   "osis": [
+    "Num.6.24"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 24:11 / בראשית כד:יא",
+   "osis": [
+    "Gen.24.11"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ברך",
+   "translit": "barak",
+   "gloss": "to kneel, to bless",
+   "strongs": "H1288",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the LORD",
+   "strongs": "H3068",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הגמלים",
+   "translit": "hagemalim",
+   "gloss": "the camels",
+   "strongs": "H1581",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  },
+  {
+   "en": "camels",
+   "other": "הגמלים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "camels"
+  ],
+  "themes": [
+   "names of God",
+   "blessing",
+   "kneeling"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "kneel",
+  "bless",
+  "barak",
+  "baruch",
+  "Hebrew root ברך",
+  "Psalm 104:1",
+  "Numbers 6:24",
+  "priestly blessing",
+  "Aaronic blessing",
+  "Genesis 24:11",
+  "camels kneel",
+  "Bless the LORD O my soul",
+  "The LORD bless thee and keep thee",
+  "kneel before the LORD"
+ ],
+ "uncertain": [
+  "A stray slash mark appears after \"keep you.\" in the Numbers 6:24 English line and was not transcribed."
+ ],
+ "confidence": 0.93
+}

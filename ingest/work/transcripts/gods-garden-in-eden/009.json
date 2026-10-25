@@ -1,0 +1,206 @@
+{
+ "id": "gods-garden-in-eden/9",
+ "kinds": [
+  "word-study",
+  "letters",
+  "quote"
+ ],
+ "title": "Emet minus alef (God) = met (death)",
+ "summary": "Each letter of emet (אמת, truth) stands on two legs, followed by Deuteronomy 19:15 on two or three witnesses. The slide shows Truth (אמת) minus alef (א, God) equals met (מת), Death, and quotes \"I am the Way, the Truth and the Life\".",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Each letter of emet stands on two legs"
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "text": "“on the evidence of two or three witnesses a matter shall be confirmed.”",
+   "osis": "Deut.19.15"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Deuteronomy 19:15",
+   "osis": "Deut.19.15"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "emet"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "met"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אמת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "-"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "="
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Truth minus God is Death"
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "text": "“I am the Way, the Truth and the Life…”"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "—yeshua hamashiach"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Deuteronomy 19:15",
+   "osis": [
+    "Deut.19.15"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "“I am the Way, the Truth and the Life…” (no reference shown on slide)",
+   "osis": [
+    "John.14.6"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אמת",
+   "translit": "emet",
+   "gloss": "truth",
+   "strongs": "H571",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "מת",
+   "translit": "met",
+   "gloss": "death",
+   "strongs": "H4191",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "emet",
+   "other": "אמת"
+  },
+  {
+   "en": "Truth",
+   "other": "אמת"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "God",
+   "other": "א"
+  },
+  {
+   "en": "met",
+   "other": "מת"
+  },
+  {
+   "en": "Death",
+   "other": "מת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "God (removing alef from emet leaves met, death)"
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "letter of emet and met; stands on two legs"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "letter of emet and met; stands on two legs"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "truth",
+   "death",
+   "Hebrew letter meanings",
+   "gematria",
+   "witnesses"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "emet",
+  "met",
+  "truth minus God is death",
+  "alef",
+  "Deuteronomy 19:15",
+  "two or three witnesses",
+  "I am the way the truth and the life",
+  "John 14:6",
+  "Yeshua",
+  "death",
+  "stands on two legs",
+  "אמת",
+  "מת",
+  "God is truth"
+ ],
+ "uncertain": [
+  "Slide gives no verse reference for the 'I am the Way, the Truth and the Life' quote; John 14:6 inferred"
+ ],
+ "confidence": 0.94
+}

@@ -1,0 +1,168 @@
+{
+ "id": "noah-part-2/70",
+ "kinds": [
+  "verse",
+  "comparison"
+ ],
+ "title": "The raven (Genesis 8:6-7) compared with Satan cast out (Ezekiel 28:16)",
+ "summary": "Genesis 8:6-7 (Noah sends out a raven that flies to and fro until the water dries up) is set beside Ezekiel 28:16 (the covering cherub cast out of the mountain of God). The slide labels the raven as sent out / to and fro / doesn't return, and Satan as cast out / to and fro / doesn't return. A row of six symbols (hammer and sickle, yin-yang, skull and crossbones, peace sign, crescent and star, swastika) sits between the two passages.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:6-7",
+   "osis": [
+    "Gen.8.6",
+    "Gen.8.7"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "RAVEN"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:ו-ז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.6",
+   "text": "6 After forty days Noah opened a window he had made in the ark"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.7",
+   "text": "7 and sent out a raven, and it kept flying back and forth until the water had dried up from the earth."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "RAVEN: Sent out / To & Fro / Doesn’t Return"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Ezekiel 28:16",
+   "osis": "Ezek.28.16"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "יחזקאל כח:יו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ezek.28.16",
+   "text": "16…and thou hast sinned: therefore I will cast thee as profane out of the mountain of God: and I will destroy thee, O covering cherub, from the midst of the stones of fire."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "SATAN: Cast out / To & Fro / Doesn’t Return"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:6-7 / בראשית ח:ו-ז",
+   "osis": [
+    "Gen.8.6",
+    "Gen.8.7"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Ezekiel 28:16 / יחזקאל כח:יו",
+   "osis": [
+    "Ezek.28.16"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 40,
+   "note": "after forty days Noah opened the window and sent out the raven"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "symbol",
+   "description": "A row of six small black symbols: hammer and sickle, yin-yang, skull and crossbones, peace sign, crescent moon with star, and a swastika, set between the raven passage and the Ezekiel passage.",
+   "subjects": [
+    "hammer and sickle",
+    "yin yang",
+    "skull and crossbones",
+    "peace sign",
+    "crescent and star",
+    "swastika",
+    "symbols"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.32,
+    0.47,
+    0.67,
+    0.55
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Noah",
+   "Satan",
+   "God"
+  ],
+  "places": [
+   "mountain of God"
+  ],
+  "events": [
+   "the Flood",
+   "Fall of Satan"
+  ],
+  "things": [
+   "raven",
+   "ark",
+   "window",
+   "covering cherub",
+   "stones of fire"
+  ],
+  "themes": [
+   "typology",
+   "judgment",
+   "sin"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "raven",
+  "Noah sent out a raven",
+  "raven does not return",
+  "to and fro",
+  "Satan",
+  "covering cherub",
+  "cast out of the mountain of God",
+  "Ezekiel 28:16",
+  "Genesis 8:7",
+  "stones of fire",
+  "fall of Satan",
+  "Lucifer",
+  "hammer and sickle",
+  "swastika",
+  "peace sign",
+  "yin yang",
+  "skull and crossbones"
+ ],
+ "uncertain": [
+  "Hebrew reference for Ezekiel 28:16 is shown on the slide as כח:יו"
+ ],
+ "confidence": 0.93
+}

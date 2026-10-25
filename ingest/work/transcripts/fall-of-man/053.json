@@ -1,0 +1,52 @@
+{
+  "id": "fall-of-man/53",
+  "kinds": ["verse", "word-study", "letters"],
+  "title": "The first letters of the Hebrew sign on the cross spell YHWH",
+  "summary": "John 19:22, “What I have written I have written.” The first letters of the four Hebrew words of Pilate's sign — ישוע הנצרי ומלך היהודים (Yeshua the Nazarene and King of the Jews) — are underlined and pulled down: yod, he, vav, he, spelling יהוה (yahweh), the Name of God.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "John 19:22", "osis": "John.19.22"},
+    {"lang": "el", "role": "reference", "text": "Ἰωάνης 19:22", "osis": "John.19.22"},
+    {"lang": "en", "role": "verse", "text": "22 Pilate answered, “What I have written I have written.”", "osis": "John.19.22"},
+    {"lang": "translit", "role": "label", "text": "yeshua"},
+    {"lang": "he", "role": "label", "text": "י ש ו ע"},
+    {"lang": "en", "role": "label", "text": "the Nazarene"},
+    {"lang": "he", "role": "label", "text": "ה נ צ ר י"},
+    {"lang": "en", "role": "label", "text": "and King"},
+    {"lang": "he", "role": "label", "text": "ו מ ל ך"},
+    {"lang": "en", "role": "label", "text": "of the Jews"},
+    {"lang": "he", "role": "label", "text": "ה י ה ו ד י ם"},
+    {"lang": "he", "role": "label", "text": "י ה ו ה"},
+    {"lang": "translit", "role": "label", "text": "yod he vav he"},
+    {"lang": "en", "role": "label", "text": "The Name of God"},
+    {"lang": "translit", "role": "label", "text": "y a h w e h"},
+    {"lang": "he", "role": "label", "text": "השם אלהים"}
+  ],
+  "refs": [{"shown": "John 19:22 / Ἰωάνης 19:22", "osis": ["John.19.22"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "יהוה", "translit": "yahweh", "gloss": "the LORD, the Name of God", "strongs": "H3068"},
+    {"lang": "he", "word": "ישוע", "translit": "yeshua", "gloss": "Jesus (Yeshua)", "strongs": "H3442"},
+    {"lang": "he", "word": "הנצרי", "translit": "ha-notsri", "gloss": "the Nazarene", "strongs": null},
+    {"lang": "he", "word": "ומלך", "translit": "u-melech", "gloss": "and King", "strongs": "H4428"},
+    {"lang": "he", "word": "היהודים", "translit": "ha-yehudim", "gloss": "of the Jews", "strongs": "H3064"},
+    {"lang": "he", "word": "השם", "translit": "ha-shem", "gloss": "the Name", "strongs": "H8034"},
+    {"lang": "he", "word": "אלהים", "translit": "elohim", "gloss": "God", "strongs": "H430"}
+  ],
+  "color_links": [
+    {"en": "yeshua", "other": "י"},
+    {"en": "yod", "other": "י"},
+    {"en": "and", "other": "ו"},
+    {"en": "vav", "other": "ו"},
+    {"en": "God", "other": "אלהים"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "yod", "char": "י", "value": 10, "meaning": "first letter of ישוע (yeshua); y of yahweh"},
+    {"lang": "he", "letter": "he", "char": "ה", "value": 5, "meaning": "first letter of הנצרי (the Nazarene) and of היהודים (of the Jews); h of yahweh"},
+    {"lang": "he", "letter": "vav", "char": "ו", "value": 6, "meaning": "first letter of ומלך (and King); w of yahweh"}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Jesus", "Pilate", "God"], "places": [], "events": ["Crucifixion"], "things": ["cross", "inscription on the cross"], "themes": ["names of God", "Hebrew letter meanings", "kingship of Jesus", "hidden acrostic"], "groups": ["Jews"]},
+  "keywords": ["YHWH on the cross", "Tetragrammaton", "yahweh", "Jehovah", "Name of God", "HaShem", "acrostic", "first letters", "INRI in Hebrew", "Yeshua HaNotzri", "King of the Jews", "What I have written I have written", "Pilate", "John 19:22"],
+  "uncertain": [],
+  "confidence": 0.93
+}

@@ -1,0 +1,162 @@
+{
+ "id": "gods-garden-in-eden/60",
+ "kinds": [
+  "word-study",
+  "comparison"
+ ],
+ "title": "One hand for the beasts, two hands for man — ויצר vs וייצר",
+ "summary": "Both animation steps together: 'When the LORD God formed the beasts, He used 1 Hand' (ויצר*, one yod) beside 'formed adam/man, He used 2 Hands' (וייצר**, two yods), ending 'To God be the glory!' The slide compares the single-yod and double-yod spellings of 'formed'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "When the LORD God"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ויצר*"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "formed"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "וייצר**"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "the beasts,"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "adam/man,"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "He used"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "1 י Hand"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "2 י י Hands"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "To God be the glory!"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ויצר",
+   "translit": "vayyitser",
+   "gloss": "and (he) formed (the beasts)",
+   "strongs": "H3335",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "וייצר",
+   "translit": "vayyitser",
+   "gloss": "and (he) formed (man)",
+   "strongs": "H3335",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "man / Adam",
+   "strongs": "H120",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "formed",
+   "other": "ויצר"
+  },
+  {
+   "en": "formed",
+   "other": "וייצר"
+  },
+  {
+   "en": "Hand",
+   "other": "י"
+  },
+  {
+   "en": "Hands",
+   "other": "י י"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "hand (one yod = 1 hand, two yods = 2 hands)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "one hand — one yod in ויצר (beasts)"
+  },
+  {
+   "value": 2,
+   "note": "two hands — two yods in וייצר (man)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "beast of the field",
+   "hand"
+  ],
+  "themes": [
+   "creation",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "one hand two hands",
+  "1 hand 2 hands",
+  "God formed beasts and man",
+  "yod means hand",
+  "double yod",
+  "single yod",
+  "vayyitzer",
+  "ויצר וייצר",
+  "man formed with two hands",
+  "to God be the glory",
+  "Genesis 2:7",
+  "Genesis 2:19",
+  "creation of animals and Adam"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

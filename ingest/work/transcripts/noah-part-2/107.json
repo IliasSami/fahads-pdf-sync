@@ -1,0 +1,88 @@
+{
+ "id": "noah-part-2/107",
+ "kinds": [
+  "genealogy",
+  "text"
+ ],
+ "title": "Shemite, Hebrew, Jew: descendants of Shem, Eber and Judah",
+ "summary": "Three lines tracing the terms from ancestor to name: a descendant of Shem is a Shemite, a descendant of Eber (number 1 in Shem's list) is a Hebrew, and a descendant of Judah is a Jew. Small star-of-David symbols follow Shem, Eber and Judah.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Descendant of Shem✡"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Shemite"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Descendant of 1 Eber✡"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Hebrew"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Descendant of Judah✡"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Jew"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "Eber's number in Shem's list of descendants"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Shem",
+   "Eber",
+   "Judah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "genealogy",
+   "messianic line"
+  ],
+  "groups": [
+   "Jews",
+   "Hebrews",
+   "Shemites"
+  ]
+ },
+ "keywords": [
+  "Shemite",
+  "Semite",
+  "Hebrew",
+  "Jew",
+  "descendant of Shem",
+  "descendant of Eber",
+  "descendant of Judah",
+  "who is a Hebrew",
+  "who is a Jew",
+  "difference between Hebrew and Jew",
+  "origin of the word Hebrew",
+  "messianic line",
+  "Genesis 10"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

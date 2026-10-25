@@ -1,0 +1,214 @@
+{
+ "id": "genesis-1-1-part-2/71",
+ "kinds": [
+  "gematria",
+  "word-study"
+ ],
+ "title": "Yahweh 26 + Elohim 86 + Jesus 888 = 1000 = alef",
+ "summary": "Three names with their letter values: Yahweh (Jehovah) יהוה = 26, Elohim אלהים = 86 and Jesus in Greek Ιησους = 888. Added together they make 1000, shown equal to alef (a large blue א and the number 1000 down the left side).",
+ "text": [
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "א"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1000"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "y a h w e h"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "(Jehovah)"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 6 5 10 → 26"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "elohim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל ה י ם"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "40 10 5 30 1 → 86"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Jesus"
+  },
+  {
+   "lang": "el",
+   "role": "label",
+   "text": "Ι η σ ο υ ς"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "10 8 200 70 400 200 → 888"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "א = alef = 1000"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "Yahweh (Jehovah), the LORD",
+   "strongs": "H3068",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     6,
+     5,
+     10
+    ],
+    "total": 26
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     10,
+     5,
+     30,
+     1
+    ],
+    "total": 86
+   }
+  },
+  {
+   "lang": "el",
+   "word": "Ιησους",
+   "translit": "Iesous",
+   "gloss": "Jesus",
+   "strongs": "G2424",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     10,
+     8,
+     200,
+     70,
+     400,
+     200
+    ],
+    "total": 888
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Jesus",
+   "other": "Ι η σ ο υ ς"
+  },
+  {
+   "en": "y",
+   "other": "י"
+  },
+  {
+   "en": "w",
+   "other": "ו"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "equated on the slide with 1000"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 26,
+   "note": "gematria of יהוה (Yahweh, Jehovah)"
+  },
+  {
+   "value": 86,
+   "note": "gematria of אלהים (Elohim)"
+  },
+  {
+   "value": 888,
+   "note": "isopsephy of Ιησους (Jesus) in Greek"
+  },
+  {
+   "value": 1000,
+   "note": "26 + 86 + 888 = alef"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "names of God",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Yahweh",
+  "Jehovah",
+  "YHWH",
+  "Elohim",
+  "Jesus",
+  "Iesous",
+  "Ιησους",
+  "gematria",
+  "26",
+  "86",
+  "888",
+  "1000",
+  "alef equals 1000",
+  "names of God",
+  "isopsephy",
+  "Greek numerology"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

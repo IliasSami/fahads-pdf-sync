@@ -1,0 +1,204 @@
+{
+ "id": "gods-garden-in-eden/51",
+ "kinds": [
+  "word-study",
+  "text"
+ ],
+ "title": "Adam, David, Moshiach — the letters אדם read vertically (930 + 70 = 1,000 years)",
+ "summary": "The Hebrew letters א ד ם (adam) are read vertically: alef begins אדם (Adam, who lived 930 years), dalet begins דוד (David, who lived +70 years), and mem begins משיח (Moshiach, who reigns 1,000 years). Letters and names are colour-matched.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "adam"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "א ד ם"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "vertically"
+  },
+  {
+   "lang": "he",
+   "role": "table",
+   "text": "אדם"
+  },
+  {
+   "lang": "he",
+   "role": "table",
+   "text": "א"
+  },
+  {
+   "lang": "translit",
+   "role": "table",
+   "text": "adam lived"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "930 yrs"
+  },
+  {
+   "lang": "he",
+   "role": "table",
+   "text": "דוד"
+  },
+  {
+   "lang": "he",
+   "role": "table",
+   "text": "ד"
+  },
+  {
+   "lang": "translit",
+   "role": "table",
+   "text": "david lived"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "+ 70 yrs"
+  },
+  {
+   "lang": "he",
+   "role": "table",
+   "text": "משיח"
+  },
+  {
+   "lang": "he",
+   "role": "table",
+   "text": "ם"
+  },
+  {
+   "lang": "translit",
+   "role": "table",
+   "text": "moshiach reigns"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "1,000 yrs"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "Adam / man",
+   "strongs": "H121",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "דוד",
+   "translit": "david",
+   "gloss": "David",
+   "strongs": "H1732",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "משיח",
+   "translit": "moshiach",
+   "gloss": "Messiah, anointed one",
+   "strongs": "H4899",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "a (adam)",
+   "other": "א"
+  },
+  {
+   "en": "david",
+   "other": "דוד"
+  },
+  {
+   "en": "d (david)",
+   "other": "ד"
+  },
+  {
+   "en": "mo (moshiach)",
+   "other": "מ"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "first letter of אדם (adam)"
+  },
+  {
+   "lang": "he",
+   "letter": "dalet",
+   "char": "ד",
+   "value": 4,
+   "meaning": "first letter of דוד (david)"
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "ם",
+   "value": 40,
+   "meaning": "first letter of משיח (moshiach); shown in its final form ם on the slide"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 930,
+   "note": "years Adam lived"
+  },
+  {
+   "value": 70,
+   "note": "years David lived (added to Adam's 930)"
+  },
+  {
+   "value": 1000,
+   "note": "years Moshiach reigns"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "David",
+   "Messiah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "messianic prophecy",
+   "wisdom"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Adam David Messiah",
+  "adam acrostic",
+  "alef dalet mem",
+  "אדם",
+  "930 years",
+  "70 years",
+  "1000 years",
+  "millennium",
+  "Moshiach",
+  "Mashiach",
+  "Adam gave David 70 years",
+  "Adam lived 930 years",
+  "vertical reading"
+ ],
+ "uncertain": [
+  "The slide shows the middle column's third letter as final mem ם while משיח begins with an ordinary mem מ (light blue in the word)."
+ ],
+ "confidence": 0.9
+}

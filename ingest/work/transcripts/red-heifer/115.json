@@ -1,0 +1,39 @@
+{
+ "id": "red-heifer/115",
+ "kinds": [
+  "title"
+ ],
+ "title": "Bonus (section title)",
+ "summary": "A title slide with the single word 'Bonus' in large gold letters on a white background.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Bonus"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "bonus",
+  "bonus slide",
+  "extra teaching",
+  "bonus section",
+  "red heifer bonus",
+  "title slide"
+ ],
+ "uncertain": [],
+ "confidence": 0.99
+}

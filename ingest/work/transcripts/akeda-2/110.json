@@ -1,0 +1,166 @@
+{
+ "id": "akeda-2/110",
+ "kinds": [
+  "letters",
+  "text"
+ ],
+ "title": "Aleph, bet, gimel = 1, 2, 3 — Father and Son and Holy Spirit: G-O-D",
+ "summary": "Shows aleph א = 1, bet ב = 2, gimel ג = 3, then matches them in colour to Father (1), Son (2) and Holy Spirit (3) — \"1 and 2 are 3\" — and to the letters G, O, D spelling GOD.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "aleph"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 1"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 2"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "gimel"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ג"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 3"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Father and Son and Holy Spirit"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "1 and 2 are 3"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "G"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "O"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "D"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [
+  {
+   "en": "aleph",
+   "other": "א"
+  },
+  {
+   "en": "bet",
+   "other": "ב"
+  },
+  {
+   "en": "gimel",
+   "other": "ג"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "aleph",
+   "char": "א",
+   "value": 1,
+   "meaning": "Father (1)"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "Son (2)"
+  },
+  {
+   "lang": "he",
+   "letter": "gimel",
+   "char": "ג",
+   "value": 3,
+   "meaning": "Holy Spirit (3)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "aleph; Father (blue) and G"
+  },
+  {
+   "value": 2,
+   "note": "bet; Son (red) and O"
+  },
+  {
+   "value": 3,
+   "note": "gimel; Holy Spirit (gold) and D; \"1 and 2 are 3\""
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus",
+   "Holy Spirit"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Trinity",
+   "Hebrew letter meanings",
+   "gematria",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "aleph bet gimel",
+  "alef 1 bet 2 gimel 3",
+  "Father Son Holy Spirit",
+  "Trinity",
+  "1 and 2 are 3",
+  "GOD letters G O D",
+  "Hebrew alphabet numbers",
+  "Hebrew letter values",
+  "triune God",
+  "Godhead"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

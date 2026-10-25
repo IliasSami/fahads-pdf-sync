@@ -1,0 +1,184 @@
+{
+ "id": "gods-garden-in-eden/72",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:26 — 'Us' and 'Our'; fire (esh) in man (ish) and woman (isha)",
+ "summary": "Genesis 1:26 in English with 'Us' and 'Our' underlined, and the transliterations betsalmenu ('in Our image') and kidmutenu ('according to Our likeness') highlighted. Below, Fire אש (aish) sits above Woman אשה (isha) and Man איש (ish), with arrows linking them; the aleph/'a'/'i' is blue throughout.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:26",
+   "osis": "Gen.1.26"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:כו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "Then God said, \"Let Us make man in Our image according to Our likeness",
+   "osis": "Gen.1.26"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "betsalmenu,"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kidmutenu"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Fire"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אש"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "aish"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Woman"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "isha"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אשה"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "איש"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ish"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Man"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:26 / בראשית א:כו",
+   "osis": [
+    "Gen.1.26"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אש",
+   "translit": "aish",
+   "gloss": "fire",
+   "strongs": "H784"
+  },
+  {
+   "lang": "he",
+   "word": "אשה",
+   "translit": "isha",
+   "gloss": "woman",
+   "strongs": "H802"
+  },
+  {
+   "lang": "he",
+   "word": "איש",
+   "translit": "ish",
+   "gloss": "man",
+   "strongs": "H376"
+  },
+  {
+   "lang": "he",
+   "word": "בצלמנו",
+   "translit": "betsalmenu",
+   "gloss": "in Our image",
+   "strongs": "H6754"
+  },
+  {
+   "lang": "he",
+   "word": "כדמותנו",
+   "translit": "kidmutenu",
+   "gloss": "according to Our likeness",
+   "strongs": "H1823"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "image",
+   "other": "tsal (betsalmenu)"
+  },
+  {
+   "en": "likeness",
+   "other": "dm (kidmutenu)"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam",
+   "Eve"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "fire"
+  ],
+  "themes": [
+   "creation",
+   "Hebrew letter meanings",
+   "names of God",
+   "marriage"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:26",
+  "let Us make man",
+  "our image",
+  "our likeness",
+  "tselem",
+  "demut",
+  "betsalmenu",
+  "kidmutenu",
+  "fire in man and woman",
+  "esh fire",
+  "ish isha",
+  "man woman fire",
+  "אש",
+  "image of God",
+  "plural Us"
+ ],
+ "uncertain": [
+  "English quotation is shown without a closing quote mark; the slide gives no Hebrew script for betsalmenu and kidmutenu (transliteration only); the Hebrew in words is the standard spelling."
+ ],
+ "confidence": 0.92
+}

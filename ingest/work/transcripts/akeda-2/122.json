@@ -1,0 +1,27 @@
+{
+  "id": "akeda-2/122",
+  "kinds": ["verse"],
+  "title": "Did Abraham truly love Isaac? Genesis 22:1-2 — “your only son, whom you love”",
+  "summary": "Opens Genesis 22, the Akedah (העקדה, the binding), with verses 1–2: God tests Abraham and tells him to offer his only son Isaac, whom he loves, as a burnt offering in the land of Moriah. The word “love” is enlarged in red with a heart for the “o” and marked with a superscript 1.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Did Abraham truly love Isaac?"},
+    {"lang": "en", "role": "reference", "text": "Genesis 22", "osis": "Gen.22.1"},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב", "osis": "Gen.22.1"},
+    {"lang": "en", "role": "heading", "text": "The Akedah"},
+    {"lang": "en", "role": "verse", "text": "1 Now it came about after these things, that God tested Abraham, and said to him, “Abraham!” And he said, “Here am I.”", "osis": "Gen.22.1"},
+    {"lang": "en", "role": "verse", "text": "2 He said, “Take now your son, your only son, whom you love¹, Isaac, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I will tell you.”", "osis": "Gen.22.2"}
+  ],
+  "refs": [{"shown": "Genesis 22 / בראשית כב", "osis": ["Gen.22.1", "Gen.22.2"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "העקדה", "translit": "ha-akedah", "gloss": "the binding", "strongs": "H6123", "gematria": null}
+  ],
+  "color_links": [{"en": "The Akedah", "other": "העקדה"}],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham", "Isaac"], "places": ["Mount Moriah"], "events": ["Binding of Isaac (Akedah)"], "things": ["burnt offering"], "themes": ["love", "sacrifice", "testing", "obedience", "only son"], "groups": []},
+  "keywords": ["Akedah", "Akeda", "Aqedah", "binding of Isaac", "God tested Abraham", "God did tempt Abraham", "Here am I", "only son", "whom you love", "whom thou lovest", "first mention of love", "land of Moriah", "burnt offering", "Genesis 22"],
+  "uncertain": ["The superscript 1 after “love” is not explained on this slide (possibly marking the first use of “love” in the Bible)."],
+  "confidence": 0.93
+}

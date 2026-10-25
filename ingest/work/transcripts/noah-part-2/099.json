@@ -1,0 +1,156 @@
+{
+ "id": "noah-part-2/99",
+ "kinds": [
+  "list",
+  "word-study"
+ ],
+ "title": "The 7 Noachide Laws listed",
+ "summary": "Same Noachide Laws slide as before, now listing the seven laws: do not deny God, do not blaspheme God, do not murder, do not engage in illicit sexual relations, do not steal, do not eat from a live animal, and establish courts/a legal system to ensure obedience. The word 'God' is shown in multi-coloured letters.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The 7 Noachide Laws"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "sheva mitzvot b'nei noah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שבע מצוות בני נח"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The Torah* gives seven laws מצוות mitzvot for Gentiles to observe. These seven laws apply to all mankind who are all descended from Noah; ergo, Noachide Laws."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Do not deny God."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Do not blaspheme God."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Do not murder."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Do not engage in illicit sexual relations."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Do not steal."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Do not eat from a live animal."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Establish courts/legal system to ensure obedience to laws."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שבע",
+   "translit": "sheva",
+   "gloss": "seven",
+   "strongs": "H7651",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "מצוות",
+   "translit": "mitzvot",
+   "gloss": "commandments, laws",
+   "strongs": "H4687",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "בני נח",
+   "translit": "b'nei noah",
+   "gloss": "sons of Noah",
+   "strongs": "H5146",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "sheva",
+   "other": "שבע"
+  },
+  {
+   "en": "seven",
+   "other": "שבע"
+  },
+  {
+   "en": "7",
+   "other": "שבע"
+  },
+  {
+   "en": "No (in Noah)",
+   "other": "נ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "the seven Noachide Laws"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "Talmud",
+   "Torah"
+  ],
+  "themes": [
+   "Torah",
+   "obedience",
+   "holiness",
+   "judgment"
+  ],
+  "groups": [
+   "Gentiles"
+  ]
+ },
+ "keywords": [
+  "Noachide Laws",
+  "Noahide Laws",
+  "seven laws of Noah",
+  "do not deny God",
+  "do not blaspheme",
+  "do not murder",
+  "illicit sexual relations",
+  "do not steal",
+  "do not eat from a live animal",
+  "courts",
+  "legal system",
+  "commandments for Gentiles"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

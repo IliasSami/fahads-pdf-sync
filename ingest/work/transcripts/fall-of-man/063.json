@@ -1,0 +1,149 @@
+{
+ "id": "fall-of-man/63",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Malachi 3:1 — he shall prepare the derek (Way) before me",
+ "summary": "Malachi 3:1 in English and Hebrew, with “derek” and the Hebrew דרך highlighted in red and explained as “Way.” The LORD of hosts is colour-matched with the Hebrew name יהוה.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Malachi 3:1",
+   "osis": "Mal.3.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלאכי ג:א",
+   "osis": "Mal.3.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "1 Behold, I will send my messenger, and he shall prepare the derek before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the LORD of hosts.",
+   "osis": "Mal.3.1"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "derek"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "דרך"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Way"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "1 הנני שלח מלאכי ופנה־דרך לפני ופתאם יבוא אל־היכלו האדון ׀ אשר־אתם מבקשים ומלאך הברית אשר־אתם חפצים הנה־בא אמר יהוה צבאות׃",
+   "osis": "Mal.3.1"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Malachi 3:1 / מלאכי ג:א",
+   "osis": [
+    "Mal.3.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "דרך",
+   "translit": "derek",
+   "gloss": "way",
+   "strongs": "H1870"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the LORD",
+   "strongs": "H3068"
+  },
+  {
+   "lang": "he",
+   "word": "מלאכי",
+   "translit": "malachi",
+   "gloss": "my messenger",
+   "strongs": "H4397"
+  },
+  {
+   "lang": "he",
+   "word": "מלאך הברית",
+   "translit": "malak ha-brit",
+   "gloss": "messenger of the covenant",
+   "strongs": "H4397"
+  },
+  {
+   "lang": "he",
+   "word": "צבאות",
+   "translit": "tzevaot",
+   "gloss": "hosts",
+   "strongs": "H6635"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "derek",
+   "other": "דרך"
+  },
+  {
+   "en": "Way",
+   "other": "דרך"
+  },
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [
+   "Temple Mount"
+  ],
+  "events": [],
+  "things": [
+   "temple"
+  ],
+  "themes": [
+   "the way",
+   "covenant",
+   "names of God",
+   "prophecy",
+   "messianic prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Malachi 3:1",
+  "Malachi 3",
+  "I will send my messenger",
+  "prepare the way before me",
+  "messenger of the covenant",
+  "suddenly come to his temple",
+  "LORD of hosts",
+  "derek",
+  "derech",
+  "the Way",
+  "Malachi",
+  "דרך"
+ ],
+ "uncertain": [],
+ "confidence": 0.94
+}

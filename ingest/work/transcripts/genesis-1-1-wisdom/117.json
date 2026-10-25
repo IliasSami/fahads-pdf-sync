@@ -1,0 +1,214 @@
+{
+ "id": "genesis-1-1-wisdom/117",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Man + Understanding = LORD God, with the Hebrew words (Genesis 3:5)",
+ "summary": "Same Genesis 3:5 slide with the Hebrew words now added under the equation: אדם (adam, man), בינה (binah, understanding) and יהוה אלהים (yahweh elohim, LORD God), colour-matched to the English.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:5",
+   "osis": "Gen.3.5"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:ה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "5 For God knows that in the day you eat of it your eyes will be opened, and you will be like God, knowing good and evil.”",
+   "osis": "Gen.3.5"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "5 כי ידע אלהים כי ביום אכלכם ממנו ונפקחו עיניכם והייתם כאלהים ידעי טוב ורע׃",
+   "osis": "Gen.3.5"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Man"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "+"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Understanding"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "="
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "LORD God"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "adam"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "binah"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh elohim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אדם"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בינה"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אלהים יהוה"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:5 / בראשית ג:ה",
+   "osis": [
+    "Gen.3.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "man",
+   "strongs": "H120",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "בינה",
+   "translit": "binah",
+   "gloss": "understanding",
+   "strongs": "H998",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "LORD",
+   "strongs": "H3068",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלהים יהוה",
+   "translit": "yahweh elohim",
+   "gloss": "LORD God",
+   "strongs": "H430",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "God",
+   "other": "כאלהים"
+  },
+  {
+   "en": "Man",
+   "other": "אדם"
+  },
+  {
+   "en": "adam",
+   "other": "אדם"
+  },
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  },
+  {
+   "en": "yahweh",
+   "other": "יהוה"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [],
+  "themes": [
+   "wisdom",
+   "understanding",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Man plus Understanding equals LORD God",
+  "Genesis 3:5",
+  "Genesis 3",
+  "man",
+  "understanding",
+  "LORD God",
+  "Yahweh Elohim",
+  "adam",
+  "binah",
+  "knowing good and evil",
+  "elohim",
+  "equation",
+  "wisdom and understanding",
+  "you will be like God"
+ ],
+ "uncertain": [
+  "Hebrew labels are laid out so יהוה sits under 'yahweh' (left) and אלהים under 'elohim' (right); read right to left this is אלהים יהוה."
+ ],
+ "confidence": 0.95
+}

@@ -1,0 +1,102 @@
+{
+ "id": "noah-part-2/122",
+ "kinds": [
+  "genealogy",
+  "list"
+ ],
+ "title": "The Tenth Man: Adam to Noah, Shem to Abraham, Isaac to Boaz",
+ "summary": "Under the heading 'The Tenth Man', three columns of ten names each: Adam to Noah, Shem to Abraham, and Isaac to Boaz. The tenth name in each column (Noah, Abraham, Boaz) is shown larger, and a few names are coloured.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Tenth Man"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Adam · Seth · Enosh · Kenan · Mahalalel · Jared · Enoch · Methuselah · Lamech · Noah"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Shem · Arphaxad · Shelah · Eber · Peleg · Reu · Serug · Nahor · Terah · Abraham"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Isaac · Jacob · Judah · Perez · Hezron · Ram · Amminadab · Nahshon · Salmon · Boaz"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 10,
+   "note": "each column lists ten names; the tenth is Noah, Abraham and Boaz"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Seth",
+   "Enosh",
+   "Kenan",
+   "Mahalalel",
+   "Jared",
+   "Enoch",
+   "Methuselah",
+   "Lamech",
+   "Noah",
+   "Shem",
+   "Arphaxad",
+   "Shelah",
+   "Eber",
+   "Peleg",
+   "Reu",
+   "Serug",
+   "Nahor",
+   "Terah",
+   "Abraham",
+   "Isaac",
+   "Jacob",
+   "Judah",
+   "Perez",
+   "Hezron",
+   "Ram",
+   "Amminadab",
+   "Nahshon",
+   "Salmon",
+   "Boaz"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "genealogy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "tenth man",
+  "ten generations",
+  "Adam to Noah",
+  "Shem to Abraham",
+  "Isaac to Boaz",
+  "genealogy",
+  "family tree",
+  "lineage",
+  "Noah",
+  "Abraham",
+  "Boaz",
+  "Genesis 5",
+  "Genesis 11",
+  "Ruth 4",
+  "generations"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

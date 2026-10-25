@@ -1,0 +1,98 @@
+{
+ "id": "red-heifer/17",
+ "kinds": [
+  "text"
+ ],
+ "title": "\"Impure\" (tamei) is too negative — not a punishment",
+ "summary": "Explains that calling someone 'impure' (tamei) is too negative: it simply means not allowed while in service to God's manifestation (e.g. entering the Temple, eating sacrificial foods). One can become impure by doing a mitzvah such as tending a dead person or giving birth; no wrongdoing is implied and it is not a punishment.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "“Impure” is too negative."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "It simply means not allowed while in service to God’s manifestation"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "e.g. Entering the Temple, eating sacrificial foods."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "There is no rule in Judaism never to become “tamei”."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "In fact, one can become impure by performing the mitzvah of tending to a dead person, or giving birth, or having a period. No wrongdoing is implied. It is not intended as punishment."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "other",
+   "word": "tamei",
+   "translit": "tamei",
+   "gloss": "impure, ritually unclean",
+   "strongs": "H2931",
+   "gematria": null
+  },
+  {
+   "lang": "other",
+   "word": "mitzvah",
+   "translit": "mitzvah",
+   "gloss": "commandment, good deed",
+   "strongs": null,
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [
+   "Temple Mount"
+  ],
+  "events": [],
+  "things": [
+   "sacrificial foods"
+  ],
+  "themes": [
+   "clean and unclean",
+   "purification",
+   "holiness",
+   "temple",
+   "sin"
+  ],
+  "groups": [
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "tamei",
+  "impure",
+  "impurity",
+  "unclean",
+  "ritual impurity",
+  "not a sin",
+  "not punishment",
+  "no wrongdoing",
+  "mitzvah",
+  "tending to the dead",
+  "giving birth",
+  "entering the Temple",
+  "sacrificial foods",
+  "tumah"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

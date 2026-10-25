@@ -1,0 +1,67 @@
+{
+ "id": "red-heifer/74",
+ "kinds": [
+  "text"
+ ],
+ "title": "The ashes could last a long time — none left since Rome sacked Jerusalem",
+ "summary": "A text slide saying the red heifer ashes could last a very long time because large amounts of water could be added to them (Torah specifies no density), and that although some ashes may have been left after Rome sacked Jerusalem in 70 AD, there are none left now.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The ashes could last a very long time, since large amounts of water could be added to them (no density is specified in Torah)."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "In 70 AD, Rome sacked Jerusalem. Some ashes may have been left, but there are none left now."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 70,
+   "note": "70 AD — year Rome sacked Jerusalem"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Jerusalem",
+   "Rome"
+  ],
+  "events": [
+   "Destruction of Jerusalem (70 AD)"
+  ],
+  "things": [
+   "ashes",
+   "water",
+   "red heifer"
+  ],
+  "themes": [
+   "purification",
+   "Torah"
+  ],
+  "groups": [
+   "Romans"
+  ]
+ },
+ "keywords": [
+  "red heifer ashes",
+  "ashes last a long time",
+  "no ashes left",
+  "70 AD",
+  "Rome sacked Jerusalem",
+  "destruction of the Temple",
+  "diluted with water",
+  "Torah density",
+  "ashes of the heifer today",
+  "Second Temple destroyed"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

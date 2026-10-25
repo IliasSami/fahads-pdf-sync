@@ -1,0 +1,187 @@
+{
+ "id": "genesis-1-1-part-1/14",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "Resh and bet spell \"bar\": Son",
+ "summary": "Repeats the resh and bet letter teaching (head, house/tent, \"Head of the House\") and adds a final line equating the two letters, read right to left, with the word bar and with the English word Son.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב ר"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "resh   bet"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "R   B"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Head   House, Tent"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Head of the House"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בר"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bar"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Son"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בר",
+   "translit": "bar",
+   "gloss": "son",
+   "strongs": "H1247",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "resh",
+   "other": "ר"
+  },
+  {
+   "en": "Head",
+   "other": "ר"
+  },
+  {
+   "en": "bet",
+   "other": "ב"
+  },
+  {
+   "en": "House",
+   "other": "ב"
+  },
+  {
+   "en": "Tent",
+   "other": "ב"
+  },
+  {
+   "en": "b",
+   "other": "ב"
+  },
+  {
+   "en": "ar",
+   "other": "ר"
+  },
+  {
+   "en": "Son",
+   "other": "ב"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "head (head pictograph); sound R"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "house, tent (house/tent pictograph); sound B"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph of resh: a rough black outline of a head in profile, drawn over a grey underline.",
+   "subjects": [
+    "paleo-Hebrew",
+    "resh",
+    "head",
+    "pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.45,
+    0.49,
+    0.51,
+    0.61
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) pictograph of bet: a small black square-shaped house or tent outline, drawn over a red underline.",
+   "subjects": [
+    "paleo-Hebrew",
+    "bet",
+    "house",
+    "tent",
+    "pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.53,
+    0.5,
+    0.59,
+    0.61
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "house",
+   "tent",
+   "head"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "sonship"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "bar",
+  "son",
+  "Aramaic son",
+  "bar means son",
+  "resh",
+  "bet",
+  "beth",
+  "head of the house",
+  "Hebrew letters",
+  "ancient Hebrew",
+  "paleo-Hebrew",
+  "pictograph",
+  "letter meanings",
+  "son of"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

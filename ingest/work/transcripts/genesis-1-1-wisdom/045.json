@@ -1,0 +1,180 @@
+{
+ "id": "genesis-1-1-wisdom/45",
+ "kinds": [
+  "verse",
+  "word-study",
+  "gematria"
+ ],
+ "title": "Exodus 31:1-5 — Bezalel, with 'understanding' highlighted",
+ "summary": "Exodus 31:1-5 again: God fills Bezalel of the tribe of Judah with the Spirit of God in wisdom, understanding, knowledge and all manner of workmanship. Below, bezalel (בצלאל) is shown as 'In the shadow of God' with the letter values 30 1 30 90 20 under the Hebrew letters; 'understanding' is highlighted in gold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 31:1-5",
+   "osis": [
+    "Exod.31.1",
+    "Exod.31.2",
+    "Exod.31.3",
+    "Exod.31.4",
+    "Exod.31.5"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות לא:א-ה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "1 Then the LORD spoke to Moses, saying:",
+   "osis": "Exod.31.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "2 “See, I have called by name Bezalel the son of Uri, the son of Hur, of the tribe of Judah.",
+   "osis": "Exod.31.2"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "3 And I have filled him with the Spirit of God, in wisdom, in understanding, in knowledge, and in all manner of workmanship,",
+   "osis": "Exod.31.3"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "4 to design artistic works, to work in gold, in silver, in bronze,",
+   "osis": "Exod.31.4"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "5 in cutting jewels for setting, in carving wood, and to work in all manner of workmanship.",
+   "osis": "Exod.31.5"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bezalel"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בצלאל"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "In the shadow of God"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "30 1 30 90 20"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 31:1-5 / שמות לא:א-ה",
+   "osis": [
+    "Exod.31.1",
+    "Exod.31.2",
+    "Exod.31.3",
+    "Exod.31.4",
+    "Exod.31.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בצלאל",
+   "translit": "bezalel",
+   "gloss": "In the shadow of God (Bezalel)",
+   "strongs": "H1212",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     30,
+     1,
+     30,
+     90,
+     20
+    ],
+    "total": 153
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "bezalel",
+   "other": "בצלאל"
+  },
+  {
+   "en": "Bezalel",
+   "other": "בצלאל"
+  },
+  {
+   "en": "In",
+   "other": "ב"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Moses",
+   "Bezalel",
+   "Uri",
+   "Hur"
+  ],
+  "places": [],
+  "events": [
+   "building of the Tabernacle"
+  ],
+  "things": [
+   "gold",
+   "silver",
+   "bronze",
+   "jewels",
+   "wood"
+  ],
+  "themes": [
+   "wisdom",
+   "understanding",
+   "knowledge",
+   "craftsmanship",
+   "names and their meanings",
+   "gematria"
+  ],
+  "groups": [
+   "tribe of Judah"
+  ]
+ },
+ "keywords": [
+  "Bezalel",
+  "Bezaleel",
+  "Betzalel",
+  "in the shadow of God",
+  "meaning of the name Bezalel",
+  "Exodus 31",
+  "Spirit of God",
+  "wisdom understanding knowledge",
+  "craftsman",
+  "workmanship",
+  "tribe of Judah",
+  "Tabernacle builder",
+  "cunning works",
+  "gematria of Bezalel"
+ ],
+ "uncertain": [
+  "The slide shows 20 under the letter bet (ב), whose standard value is 2; the numbers as shown (30 1 30 90 20) add to 171 and the 153 total is not yet displayed on this slide (it appears on the next)."
+ ],
+ "confidence": 0.93
+}

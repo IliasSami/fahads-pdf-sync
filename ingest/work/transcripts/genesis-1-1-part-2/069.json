@@ -1,0 +1,120 @@
+{
+ "id": "genesis-1-1-part-2/69",
+ "kinds": [
+  "letters",
+  "gematria"
+ ],
+ "title": "Gematria of alef: pe 80 + lamed 30 + alef 1 = 111",
+ "summary": "The word alef (אלף) spelled with its three letters — pe, lamed, alef — and their values added: 80 + 30 + 1 = 111, with a large blue alef at the top.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "א"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "alef"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל פ (ף)"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "pe + lamed + alef"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "80 + 30 + 1 = 111"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלף",
+   "translit": "alef",
+   "gloss": "alef (name of the first letter)",
+   "strongs": null,
+   "gematria": {
+    "method": "standard",
+    "values": [
+     80,
+     30,
+     1
+    ],
+    "total": 111
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "lamed",
+   "other": "ל"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "first letter"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": 80,
+   "meaning": "final form ף shown in parentheses"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 111,
+   "note": "gematria of אלף (alef): 80 + 30 + 1"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "alef",
+  "aleph",
+  "אלף",
+  "gematria",
+  "111",
+  "80 + 30 + 1",
+  "pe lamed alef",
+  "Hebrew numerology",
+  "letter values",
+  "number 111"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

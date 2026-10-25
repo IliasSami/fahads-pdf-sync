@@ -1,0 +1,30 @@
+{
+  "id": "akeda-1/85",
+  "kinds": ["verse"],
+  "title": "Genesis 22:6 — Abraham lays the wood on Isaac his son",
+  "summary": "Genesis 22:6: Abraham lays the wood of the burnt offering on Isaac his son, takes the fire and the knife, and the two walk on together. Abraham is in blue (with the 'h' set apart in black), the wood in brown, and Isaac and 'son' in red.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22", "osis": "Gen.22.1"},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב"},
+    {"lang": "en", "role": "heading", "text": "The Akedah"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.6", "text": "6 Abraham took the wood of the burnt offering and laid it on Isaac his son, and he took in his hand the fire and the knife. So the two of them walked on together."}
+  ],
+  "refs": [
+    {"shown": "Genesis 22 / בראשית כב", "osis": ["Gen.22.1"], "role": "cited"},
+    {"shown": "Genesis 22:6", "osis": ["Gen.22.6"], "role": "quoted"}
+  ],
+  "words": [
+    {"lang": "he", "word": "העקדה", "translit": "ha-Akedah", "gloss": "the binding", "strongs": "H6123"}
+  ],
+  "color_links": [
+    {"en": "The Akedah", "other": "ה ע ק ד ה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac"], "places": [], "events": ["Binding of Isaac (Akedah)"], "things": ["wood", "fire", "knife", "burnt offering"], "themes": ["sacrifice", "typology", "father and son"], "groups": []},
+  "keywords": ["Akedah", "Akeda", "binding of Isaac", "Genesis 22", "Genesis 22:6", "Isaac carried the wood", "wood of the burnt offering", "laid it upon Isaac his son", "fire and the knife", "they went both of them together", "father and son", "Abraham and Isaac"],
+  "uncertain": [],
+  "confidence": 0.96
+}

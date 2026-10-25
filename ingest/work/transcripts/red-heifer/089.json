@@ -1,0 +1,78 @@
+{
+ "id": "red-heifer/89",
+ "kinds": [
+  "text"
+ ],
+ "title": "A Paradox — Yeshua became unclean to cleanse us, and died to free us from death",
+ "summary": "Under the heading 'A Paradox', two sentences: in order to cleanse us, yeshua became unclean; in order to free us from death, yeshua died.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "A Paradox"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "In order to cleanse us, yeshua became unclean."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "In order to free us from death, yeshua died."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "other",
+   "word": "yeshua",
+   "translit": "yeshua",
+   "gloss": "Jesus",
+   "strongs": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Crucifixion"
+  ],
+  "things": [],
+  "themes": [
+   "clean and unclean",
+   "purification",
+   "death",
+   "atonement",
+   "substitution",
+   "redemption",
+   "paradox",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "paradox",
+  "Yeshua became unclean",
+  "Yeshua died",
+  "Jesus died to free us from death",
+  "free us from death",
+  "cleanse us",
+  "in order to cleanse us",
+  "Jesus as the red heifer",
+  "purification from death",
+  "clean and unclean",
+  "red heifer typology",
+  "substitution"
+ ],
+ "uncertain": [
+  "'yeshua' is shown in lower-case red italic Latin letters (a transliteration, no Hebrew script on the slide)"
+ ],
+ "confidence": 0.97
+}

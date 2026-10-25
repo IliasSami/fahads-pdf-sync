@@ -1,0 +1,145 @@
+{
+ "id": "red-heifer/112",
+ "kinds": [
+  "picture",
+  "text"
+ ],
+ "title": "Magazine ad: Hunt for the Red Heifer - add your herd",
+ "summary": "A photo of a magazine advertisement headed 'Hunt for the Red Heifer' inviting ranchers to add their herd to the hunt, listing the requirements (100% red, no scars, no wounds, no tattoos, no blemishes, no tags, no brands, never haltered), the $15,000 payment for the one selected to go to Israel, and a website to visit.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "HUNT FOR THE RED HEIFER"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "ADD YOUR HERD TO THE HUNT"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Be part of something amazing! Help find the perfect red heifer!"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "– 100% red, no scars, no wounds, no tattoos – – No blemishes, no tags, no brands, never haltered –"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "$15,000 paid to the one selected to be transported to Israel. Top market price paid for all red heifers selected."
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "VISIT:"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "www.ranchers.huntfortheredheifer.com"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Add yourself to our system and we will provide information about how to contact us, when you have a calf that meets the criteria."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 15000,
+   "note": "dollars paid to the rancher whose heifer is selected to be transported to Israel"
+  },
+  {
+   "value": 100,
+   "note": "100% red required"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Photograph of a magazine page lying open: a full-page advertisement with an orange-red sunset sky, a white silhouette of a calf standing on a grassy hill between a small Israeli flag and an American flag, and silhouettes of cattle on the horizon, with bold white and gold text on a dark brown lower half.",
+   "subjects": [
+    "magazine ad",
+    "advertisement",
+    "red heifer",
+    "calf",
+    "cattle ranch",
+    "Israeli flag",
+    "American flag",
+    "sunset",
+    "ranchers"
+   ],
+   "text_in_picture": "HUNT FOR THE RED HEIFER; ADD YOUR HERD TO THE HUNT; Be part of something amazing! Help find the perfect red heifer!; 100% red, no scars, no wounds, no tattoos; No blemishes, no tags, no brands, never haltered; $15,000 paid to the one selected to be transported to Israel.; Top market price paid for all red heifers selected.; VISIT: www.ranchers.huntfortheredheifer.com",
+   "credit": null,
+   "box": [
+    0.3,
+    0.0,
+    0.7,
+    1.0
+   ]
+  },
+  {
+   "type": "logo",
+   "description": "Round-arched 'Hunt for the Red Heifer' logo showing a white calf silhouette between an Israeli flag on the left and an American flag on the right.",
+   "subjects": [
+    "logo",
+    "calf silhouette",
+    "Israeli flag",
+    "American flag",
+    "Hunt for the Red Heifer"
+   ],
+   "text_in_picture": "HUNT FOR THE RED HEIFER",
+   "credit": null,
+   "box": [
+    0.4,
+    0.04,
+    0.61,
+    0.33
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [
+   "Israel"
+  ],
+  "events": [],
+  "things": [
+   "red heifer",
+   "calf",
+   "cattle"
+  ],
+  "themes": [
+   "purification",
+   "temple"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Hunt for the Red Heifer",
+  "magazine advertisement",
+  "ranchers",
+  "add your herd",
+  "perfect red heifer",
+  "100% red",
+  "never haltered",
+  "no blemishes",
+  "no brands",
+  "$15,000 reward",
+  "calf for Israel",
+  "www.ranchers.huntfortheredheifer.com",
+  "huntfortheredheifer",
+  "red heifer criteria",
+  "cattle ranchers ad"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

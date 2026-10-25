@@ -1,0 +1,126 @@
+{
+ "id": "noah-part-1/33",
+ "kinds": [
+  "verse",
+  "title"
+ ],
+ "title": "Genesis 22:1–2 — The Akedah, the Binding of Isaac",
+ "summary": "Heading “The Akedah / The Binding of Isaac” with the Hebrew העקדה spaced out in red, and Genesis 22:1-2 in English: God tests Abraham and tells him to take his only son Isaac to the land of Moriah to offer him as a burnt offering. God, Abraham, son, Isaac and Moriah are in colour; in “lo♥e” the v is a heart with a small 1 after it.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ה ע ק ד ה"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Akedah"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Binding of Isaac"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.1",
+   "text": "1 Now it came about after these things, that God tested Abraham, and said to him, “Abraham!” And he said, “Here am I.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.2",
+   "text": "2 He said, “Take now your son, your only son, whom you lo♥e¹, Isaac, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I will tell you.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22 / בראשית כב",
+   "osis": [
+    "Gen.22.1",
+    "Gen.22.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "העקדה",
+   "translit": "ha-akedah",
+   "gloss": "the binding (of Isaac)",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "The Akedah",
+   "other": "העקדה"
+  },
+  {
+   "en": "The Binding of Isaac",
+   "other": "העקדה"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "small superscript 1 after “love” in Genesis 22:2"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Abraham",
+   "Isaac"
+  ],
+  "places": [
+   "Mount Moriah"
+  ],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "burnt offering"
+  ],
+  "themes": [
+   "sacrifice",
+   "obedience",
+   "faith",
+   "love",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Akedah",
+  "Akeda",
+  "Binding of Isaac",
+  "Genesis 22",
+  "Abraham and Isaac",
+  "God tested Abraham",
+  "take your son your only son",
+  "whom you love",
+  "land of Moriah",
+  "burnt offering",
+  "Here am I",
+  "first mention of love",
+  "העקדה"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

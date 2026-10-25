@@ -1,0 +1,24 @@
+{
+  "id": "fall-of-man/46",
+  "kinds": ["verse", "title"],
+  "title": "The Progression of Blood (1): the Fall — God introduces first blood atonement",
+  "summary": "Genesis 3:21 (the LORD God made garments of skin for Adam and his wife) introduces a new section, “The Progression of Blood.” Its first step is the Fall, where God introduces the first blood atonement.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 3:21", "osis": "Gen.3.21"},
+    {"lang": "he", "role": "reference", "text": "בראשית ג:כא", "osis": "Gen.3.21"},
+    {"lang": "en", "role": "verse", "text": "21 The LORD God made garments of skin for Adam and his wife, and clothed them.", "osis": "Gen.3.21"},
+    {"lang": "en", "role": "heading", "text": "The Progression of Blood"},
+    {"lang": "en", "role": "body", "text": "The Fall"},
+    {"lang": "en", "role": "body", "text": "God Introduces First Blood Atonement"}
+  ],
+  "refs": [{"shown": "Genesis 3:21 / בראשית ג:כא", "osis": ["Gen.3.21"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Adam", "Eve"], "places": [], "events": ["Fall of Man"], "things": ["garments of skin"], "themes": ["blood", "atonement", "sacrifice", "covering"], "groups": []},
+  "keywords": ["progression of blood", "first blood atonement", "first sacrifice", "garments of skin", "coats of skins", "God clothed Adam and Eve", "animal skins", "atonement", "blood sacrifice", "the Fall", "Genesis 3", "Genesis 3:21"],
+  "uncertain": [],
+  "confidence": 0.96
+}

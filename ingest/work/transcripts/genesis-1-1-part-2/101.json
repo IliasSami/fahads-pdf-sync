@@ -1,0 +1,183 @@
+{
+ "id": "genesis-1-1-part-2/101",
+ "kinds": [
+  "gematria",
+  "word-study"
+ ],
+ "title": "Gematria of \"I Am that I Am\" (543), Moses (345) and Jesus (888)",
+ "summary": "Shows the letter-number values (gematria) of three names: \"I Am that I Am\" in Hebrew (אהיה אשר אהיה) adds up to 543, Moses (משה) to 345, and Jesus in Greek (Ιησους) to 888. The I and A of the English phrase are colour-matched to the yod and aleph in the Hebrew.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "I Am that I Am"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אהיה אשר אהיה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 10 5 1   200 300 1   5 10 5 1   =   543"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "moshe"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "(Moses)"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "משה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 300 40   =   345"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Jesus"
+  },
+  {
+   "lang": "el",
+   "role": "label",
+   "text": "Ι η σ ο υ ς"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "10 8 200 70 400 200   =   888"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אהיה אשר אהיה",
+   "translit": "ehyeh asher ehyeh",
+   "gloss": "I Am that I Am",
+   "strongs": "H1961",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     10,
+     5,
+     1,
+     200,
+     300,
+     1,
+     5,
+     10,
+     5,
+     1
+    ],
+    "total": 543
+   }
+  },
+  {
+   "lang": "he",
+   "word": "משה",
+   "translit": "moshe",
+   "gloss": "Moses",
+   "strongs": "H4872",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     300,
+     40
+    ],
+    "total": 345
+   }
+  },
+  {
+   "lang": "el",
+   "word": "Ιησους",
+   "translit": "Iesous",
+   "gloss": "Jesus",
+   "strongs": "G2424",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     10,
+     8,
+     200,
+     70,
+     400,
+     200
+    ],
+    "total": 888
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "I",
+   "other": "י"
+  },
+  {
+   "en": "A",
+   "other": "א"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 543,
+   "note": "gematria of אהיה אשר אהיה (I Am that I Am)"
+  },
+  {
+   "value": 345,
+   "note": "gematria of משה (Moses)"
+  },
+  {
+   "value": 888,
+   "note": "Greek isopsephy of Ιησους (Jesus)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Moses",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "I Am that I Am",
+  "ehyeh asher ehyeh",
+  "Exodus 3:14",
+  "burning bush",
+  "name of God",
+  "Moses",
+  "moshe",
+  "Jesus",
+  "Iesous",
+  "888",
+  "543",
+  "345",
+  "gematria",
+  "Greek isopsephy",
+  "numerical value of Jesus"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

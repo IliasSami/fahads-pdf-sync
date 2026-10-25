@@ -1,0 +1,191 @@
+{
+ "id": "genesis-1-1-part-2/3",
+ "kinds": [
+  "word-study",
+  "letters",
+  "verse"
+ ],
+ "title": "Genesis 1:1 — bereshit (in the beginning) spelled out letter by letter",
+ "summary": "Genesis 1:1 in Hebrew with the first word bereshit (בראשית, \"In the beginning\") colour-coded letter by letter — bet, resh, alef, shin, yod, tav — each shown with its ancient pictograph. In the English the word \"the\" is struck through.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "bereshit"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "In ~~the~~ beginning"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב ר א ש י ת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet resh alef shin yod tav"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1 / בראשית א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "bet",
+   "other": "ב"
+  },
+  {
+   "en": "resh",
+   "other": "ר"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "shin",
+   "other": "ש"
+  },
+  {
+   "en": "yod",
+   "other": "י"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "house (ancient house-shaped pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "head (ancient head pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "ox head (ancient pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "teeth (ancient pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "hand (ancient pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "cross (ancient pictograph)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Row of six ancient (paleo-)Hebrew pictograph letters, each with a coloured underline, under the letter names: cross (tav), hand (yod), teeth (shin), ox head (alef), head (resh), house (bet).",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictographs",
+    "ancient Hebrew letters",
+    "cross",
+    "hand",
+    "bereshit"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.18,
+    0.76,
+    0.83,
+    0.91
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "bereshit",
+  "bereshith",
+  "in the beginning",
+  "Genesis 1:1",
+  "Genesis 1",
+  "bet resh alef shin yod tav",
+  "Hebrew letters",
+  "ancient Hebrew pictographs",
+  "paleo-Hebrew",
+  "struck through the",
+  "~~the~~",
+  "first word of the Bible"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

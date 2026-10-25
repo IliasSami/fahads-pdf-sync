@@ -1,0 +1,29 @@
+{
+  "id": "fall-of-man/37",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 3:21 — God made garments of skin (עור, ore)",
+  "summary": "Genesis 3:21 in English and Hebrew: the LORD God made garments of skin for Adam and his wife. The word for skin, עור, is highlighted and shown with its pronunciation “ore”.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 3:21", "osis": "Gen.3.21"},
+    {"lang": "he", "role": "reference", "text": "בראשית ג:כא", "osis": "Gen.3.21"},
+    {"lang": "en", "role": "verse", "text": "21 The LORD God made garments of skin for Adam and his wife, and clothed them.", "osis": "Gen.3.21"},
+    {"lang": "he", "role": "verse", "text": "ויעש יהוה אלהים לאדם ולאשתו כתנות עור וילבשם׃", "osis": "Gen.3.21"},
+    {"lang": "translit", "role": "label", "text": "ore"},
+    {"lang": "he", "role": "label", "text": "עור"},
+    {"lang": "en", "role": "label", "text": "Skin"}
+  ],
+  "refs": [{"shown": "Genesis 3:21 / בראשית ג:כא", "osis": ["Gen.3.21"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "עור", "translit": "ore", "gloss": "skin, hide", "strongs": "H5785"}
+  ],
+  "color_links": [
+    {"en": "skin", "other": "עור"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Adam", "Eve"], "places": [], "events": ["Fall of Man"], "things": ["garments of skin"], "themes": ["covering", "Hebrew wordplay"], "groups": []},
+  "keywords": ["garments of skin", "coats of skins", "clothed them", "animal skins", "God clothed Adam and Eve", "skin", "ore", "or", "ohr", "Hebrew word for skin", "Genesis 3", "Genesis 3:21"],
+  "uncertain": [],
+  "confidence": 0.95
+}

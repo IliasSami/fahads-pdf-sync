@@ -1,0 +1,94 @@
+{
+ "id": "noah-part-1/57",
+ "kinds": [
+  "word-study"
+ ],
+ "title": "Day of Atonement (Yom HaKippurim) and the root kopher",
+ "summary": "Shows the Hebrew name of the Day of Atonement, יום הכיפורים (yom hakippurim), with the prefix 'ha' and the ending 'im' underlined, and arrows picking out the letters כ פ ר inside הכיפורים to give kopher (כפר), atonement.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Day of Atonement"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hakippurim yom"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "יום הכיפורים"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kopher"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כפר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Atonement"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יום הכיפורים",
+   "translit": "yom hakippurim",
+   "gloss": "Day of Atonement",
+   "strongs": "H3725",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "כפר",
+   "translit": "kopher",
+   "gloss": "atonement",
+   "strongs": "H3724",
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Day of Atonement"
+  ],
+  "things": [],
+  "themes": [
+   "atonement",
+   "biblical feasts",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Day of Atonement",
+  "Yom Kippur",
+  "yom hakippurim",
+  "kippurim",
+  "kopher",
+  "atonement",
+  "kafar",
+  "ha prefix",
+  "plural ending im",
+  "Hebrew word root",
+  "biblical feasts"
+ ],
+ "uncertain": [
+  "Hebrew הכיפורים is shown without vowel points; the underline under ה (and double underline under ים) marks the prefix 'ha' and ending 'im' as in the transliteration."
+ ],
+ "confidence": 0.94
+}

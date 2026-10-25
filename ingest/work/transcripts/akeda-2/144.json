@@ -1,0 +1,183 @@
+{
+ "id": "akeda-2/144",
+ "kinds": [
+  "code-grid",
+  "word-study"
+ ],
+ "title": "Genesis 22:15-16 letter grid: hidden \"ehyah\" (I AM)",
+ "summary": "The Genesis 22:15-16 letter grid with a blue diagonal box through the letters א ה י ה spelling ehyah (אהיה), labelled \"I AM\". The hashem letters, the green-boxed ש and the Name יהוה are repeated on the right, and the big word אהיה is shown at the bottom right.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22:15-16",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב:יה-יו"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "ehyah"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "I AM"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה ש ם"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש י"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אהיה"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:15-16 / בראשית כב:יה-יו",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אהיה",
+   "translit": "ehyah",
+   "gloss": "I AM (I will be)",
+   "strongs": "H1961"
+  },
+  {
+   "lang": "he",
+   "word": "השם",
+   "translit": "hashem",
+   "gloss": "the Name (a title for God)",
+   "strongs": "H8034"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the Name of God, LORD",
+   "strongs": "H3068"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "ehyah",
+   "other": "אהיה"
+  },
+  {
+   "en": "I AM",
+   "other": "אהיה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "grid",
+   "description": "Grid of Hebrew letters (the text of Genesis 22:15-16 in rows) with blue, red and orange letters picked out, a blue diagonal box running down through four letters, and a green rectangle around one row.",
+   "subjects": [
+    "Bible code",
+    "letter grid",
+    "Hebrew letters",
+    "ehyah",
+    "I AM",
+    "blue diagonal box",
+    "green box"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.03,
+    0.15,
+    0.55,
+    0.97
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "Extracted letters on the right: ה ש ם column and ה ש מ row in blue, a blue diagonal box through א, ה, י, ה, a green box around ש and י, the Name יהוה below, and the large word אהיה at the bottom.",
+   "subjects": [
+    "extracted letters",
+    "diagonal word",
+    "ehyah",
+    "I AM"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.55,
+    0.15,
+    0.98,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "letter grid"
+  ],
+  "themes": [
+   "Bible codes",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "ehyah",
+  "ehyeh",
+  "I AM",
+  "I am who I am",
+  "אהיה",
+  "name of God",
+  "Bible code",
+  "letter grid",
+  "hidden word",
+  "Genesis 22",
+  "Akedah",
+  "Akeda",
+  "hashem",
+  "YHWH"
+ ],
+ "uncertain": [
+  "Dense letter grid not copied cell by cell; only the highlighted letters and labels are transcribed."
+ ],
+ "confidence": 0.9
+}

@@ -1,0 +1,230 @@
+{
+ "id": "genesis-1-1-part-1/97",
+ "kinds": [
+  "list",
+  "gematria"
+ ],
+ "title": "In the 23 multiples of 37, each Genesis 1:1 word is used 12 times",
+ "summary": "Of the 23 combinations of Genesis 1:1 words whose gematria is a multiple of 37, each of the seven Hebrew words - bereshit 913, bara 203, elohim 86, et 401, hashamayim 395, v'et 407 and ha'aretz 296 - is used exactly 12 times. The heading's word \"God\" is coloured to match the colours of elohim.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "In the 23 combinations of Genesis 1:1 words which are multiples of 37, God uses:"
+  },
+  {
+   "lang": "other",
+   "role": "table",
+   "text": "bereshit | בראשית | 913 | 12 times"
+  },
+  {
+   "lang": "other",
+   "role": "table",
+   "text": "bara | ברא | 203 | 12 times"
+  },
+  {
+   "lang": "other",
+   "role": "table",
+   "text": "elohim | אלהים | 86 | 12 times"
+  },
+  {
+   "lang": "other",
+   "role": "table",
+   "text": "et | את | 401 | 12 times"
+  },
+  {
+   "lang": "other",
+   "role": "table",
+   "text": "hashamayim | השמים | 395 | 12 times"
+  },
+  {
+   "lang": "other",
+   "role": "table",
+   "text": "v'et | ואת | 407 | 12 times"
+  },
+  {
+   "lang": "other",
+   "role": "table",
+   "text": "ha'aretz | הארץ | 296 | 12 times"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 913
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 203
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 86
+   }
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(et) sign of the direct object",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 401
+   }
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the skywaters (the heavens)",
+   "strongs": "H8064",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 395
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "v'et",
+   "gloss": "and (et)",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 407
+   }
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 296
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "bereshit",
+   "other": "בראשית"
+  },
+  {
+   "en": "bara",
+   "other": "ברא"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  },
+  {
+   "en": "et",
+   "other": "את"
+  },
+  {
+   "en": "hashamayim",
+   "other": "השמים"
+  },
+  {
+   "en": "v'et",
+   "other": "ואת"
+  },
+  {
+   "en": "ha'aretz",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 23,
+   "note": "number of combinations of Genesis 1:1 words that are multiples of 37"
+  },
+  {
+   "value": 37,
+   "note": "the common factor"
+  },
+  {
+   "value": 12,
+   "note": "each of the seven words is used 12 times"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "23 combinations",
+  "multiples of 37",
+  "37",
+  "12 times",
+  "bereshit 913",
+  "bara 203",
+  "elohim 86",
+  "et 401",
+  "hashamayim 395",
+  "v'et 407",
+  "ha'aretz 296",
+  "gematria of Genesis 1:1",
+  "each word used 12 times",
+  "Bible numerics"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

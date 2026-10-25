@@ -1,0 +1,102 @@
+{
+ "id": "noah-part-1/24",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 6:6-8 — God grieved, will blot out man; Noah finds favor",
+ "summary": "Genesis 6:6-8 in English: the LORD was sorry He made man and grieved in His heart, said He would blot out man and the animals, creeping things and birds, but Noah found favor in the eyes of the LORD. Parts of 'And Noah' and 'favor' are highlighted in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:6-8",
+   "osis": [
+    "Gen.6.6",
+    "Gen.6.7",
+    "Gen.6.8"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:ו-ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.6",
+   "text": "6 The LORD was sorry that He had made man on the earth, and He was grieved in His heart"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.7",
+   "text": "7 The LORD said, “I will blot out man whom I have created from the face of the land, from man to animals to creeping things and to birds of the sky; for I am sorry that I have made them.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.8",
+   "text": "8 And Noah found favor in the eyes of the LORD."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:6-8 / בראשית ו:ו-ח",
+   "osis": [
+    "Gen.6.6",
+    "Gen.6.7",
+    "Gen.6.8"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "en",
+   "word": "favor",
+   "translit": "chen",
+   "gloss": "favor, grace",
+   "strongs": "H2580"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [],
+  "themes": [
+   "judgment",
+   "grace",
+   "sin",
+   "death"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Noah found favor",
+  "found grace in the eyes of the LORD",
+  "Genesis 6:6",
+  "Genesis 6:7",
+  "Genesis 6:8",
+  "blot out man",
+  "the LORD was sorry",
+  "grieved in His heart",
+  "repented that He had made man",
+  "creeping things",
+  "birds of the sky",
+  "judgment on mankind",
+  "before the flood"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

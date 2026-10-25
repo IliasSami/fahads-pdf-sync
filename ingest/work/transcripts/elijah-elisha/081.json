@@ -1,0 +1,109 @@
+{
+ "id": "elijah-elisha/81",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 Kings 18:33-35 — Elijah drenches the sacrifice with twelve pitchers of water",
+ "summary": "The text of 1 Kings 18:33-35: Elijah arranges the wood, cuts the ox in pieces and lays it on the wood, has four pitchers of water poured on the burnt offering and wood three times over, until the water flows around the altar and fills the trench.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 18:33-35",
+   "osis": [
+    "1Kgs.18.33",
+    "1Kgs.18.34",
+    "1Kgs.18.35"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א יח:לג-לה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "33 Then he arranged the wood and cut the ox in pieces and laid it on the wood.",
+   "osis": "1Kgs.18.33"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "34 And he said, “Fill four pitchers with water and pour it on the burnt offering and on the wood.” And he said, “Do it a second time,” and they did it a second time. And he said, “Do it a third time,” and they did it a third time.",
+   "osis": "1Kgs.18.34"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "35 The water flowed around the altar and he also filled the trench with water.",
+   "osis": "1Kgs.18.35"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 18:33-35 / מלכים א יח:לג-לה",
+   "osis": [
+    "1Kgs.18.33",
+    "1Kgs.18.34",
+    "1Kgs.18.35"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 4,
+   "note": "four pitchers of water"
+  },
+  {
+   "value": 3,
+   "note": "the water was poured three times (first, second, third time)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah"
+  ],
+  "places": [
+   "Mount Carmel"
+  ],
+  "events": [
+   "contest on Mount Carmel"
+  ],
+  "things": [
+   "altar",
+   "wood",
+   "ox",
+   "burnt offering",
+   "water",
+   "pitchers",
+   "trench"
+  ],
+  "themes": [
+   "sacrifice",
+   "faith",
+   "miracles"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "four pitchers of water",
+  "pour water on the burnt offering",
+  "do it a second time",
+  "do it a third time",
+  "water flowed around the altar",
+  "filled the trench with water",
+  "soaked altar",
+  "Elijah Mount Carmel",
+  "1 Kings 18",
+  "drenched sacrifice",
+  "barrels of water"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

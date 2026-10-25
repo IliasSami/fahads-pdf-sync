@@ -1,0 +1,30 @@
+{
+  "id": "akeda-1/83",
+  "kinds": ["comparison", "list"],
+  "title": "Abraham, Isaac and Jacob compared: leaving Israel, wives and name changes",
+  "summary": "Three colour-coded columns compare the patriarchs on three points: Abraham and Jacob leave Israel, have extra wives and had their names changed; Isaac stays home, has one wife and keeps the same name.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Abraham"},
+    {"lang": "en", "role": "heading", "text": "Isaac"},
+    {"lang": "en", "role": "heading", "text": "Jacob"},
+    {"lang": "en", "role": "body", "text": "Leaves Israel"},
+    {"lang": "en", "role": "body", "text": "Stays Home"},
+    {"lang": "en", "role": "body", "text": "Leaves Israel"},
+    {"lang": "en", "role": "body", "text": "Extra Wives"},
+    {"lang": "en", "role": "body", "text": "One Wife"},
+    {"lang": "en", "role": "body", "text": "Extra Wives"},
+    {"lang": "en", "role": "body", "text": "Name Changed"},
+    {"lang": "en", "role": "body", "text": "Same Name"},
+    {"lang": "en", "role": "body", "text": "Name Changed"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac", "Jacob"], "places": ["Israel"], "events": [], "things": [], "themes": ["patriarchs", "marriage", "names"], "groups": []},
+  "keywords": ["Abraham Isaac Jacob comparison", "patriarchs", "name changed", "same name", "Abram to Abraham", "Jacob to Israel", "Isaac keeps his name", "one wife", "extra wives", "stays home", "leaves Israel", "Akedah", "Akeda"],
+  "uncertain": [],
+  "confidence": 0.97
+}

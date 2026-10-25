@@ -1,0 +1,40 @@
+{
+  "id": "akeda-1/25",
+  "kinds": ["verse", "word-study"],
+  "title": "Isaiah 7:14 — adonai (אדני) means Lord",
+  "summary": "Isaiah 7:14 in English and Hebrew with the word sign restored and colour-coded; the caption highlights adonai (אדני), translated 'Lord', in purple.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Isaiah 7:14", "osis": "Isa.7.14"},
+    {"lang": "he", "role": "reference", "text": "ישעה ז:יד"},
+    {"lang": "en", "role": "verse", "osis": "Isa.7.14", "text": "14 Therefore the Lord himself shall give you a sign;"},
+    {"lang": "en", "role": "verse", "osis": "Isa.7.14", "text": "Behold, the virgin shall conceive, and bear a son,"},
+    {"lang": "en", "role": "verse", "osis": "Isa.7.14", "text": "and shall call his name Immanuel."},
+    {"lang": "he", "role": "verse", "osis": "Isa.7.14", "text": "לכן יתן אדני הוא לכם אות"},
+    {"lang": "he", "role": "verse", "osis": "Isa.7.14", "text": "הנה העלמה הרה וילדת בן"},
+    {"lang": "he", "role": "verse", "osis": "Isa.7.14", "text": "וקראת שמו עמנו אל׃"},
+    {"lang": "translit", "role": "label", "text": "adonai"},
+    {"lang": "he", "role": "label", "text": "אדני"},
+    {"lang": "en", "role": "label", "text": "Lord"}
+  ],
+  "refs": [{"shown": "Isaiah 7:14 / ישעה ז:יד", "osis": ["Isa.7.14"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "אדני", "translit": "adonai", "gloss": "Lord", "strongs": "H136"},
+    {"lang": "he", "word": "אות", "translit": "oat (ot)", "gloss": "sign", "strongs": "H226"},
+    {"lang": "he", "word": "העלמה", "translit": "ha-almah", "gloss": "the virgin / young woman", "strongs": "H5959"}
+  ],
+  "color_links": [
+    {"en": "Lord", "other": "אדני"},
+    {"en": "adonai", "other": "אדני"},
+    {"en": "sign", "other": "אות"},
+    {"en": "virgin", "other": "העלמה"},
+    {"en": "son", "other": "בן"},
+    {"en": "el", "other": "אל"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Jesus"], "places": [], "events": ["Birth of Jesus"], "things": [], "themes": ["messianic prophecy", "virgin birth", "names of God"], "groups": []},
+  "keywords": ["Isaiah 7:14", "adonai", "Lord", "אדני", "name of God", "sign", "virgin shall conceive", "Immanuel", "Emmanuel", "Lord himself shall give you a sign", "Isaiah 7"],
+  "uncertain": [],
+  "confidence": 0.95
+}

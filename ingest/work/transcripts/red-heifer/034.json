@@ -1,0 +1,102 @@
+{
+ "id": "red-heifer/34",
+ "kinds": [
+  "title",
+  "list"
+ ],
+ "title": "Red heifer ordinance, step 2 — slaughter and burn with cedar, hyssop and crimson wool",
+ "summary": "Adds step 2 of the red heifer ordinance: slaughter the heifer and burn it together outside the city with some cedar wood, some hyssop, and some crimson wool. Step 1 (find an unblemished red heifer) is still shown above.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Ordinance of the Red Heifer"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "is the most mysterious of the"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "chukat"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "חקת"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "…"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1. Find a red heifer that is completely unblemished and never used as a beast of burden."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "2. Slaughter it and burn it together outside the city with some cedar wood, some hyssop, and some crimson wool."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חקת",
+   "translit": "chukat",
+   "gloss": "statutes of (statute, ordinance)",
+   "strongs": "H2708",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "chukat",
+   "other": "חקת"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "cedar wood",
+   "hyssop",
+   "crimson wool"
+  ],
+  "themes": [
+   "statutes (chok)",
+   "purification",
+   "sacrifice",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "red heifer",
+  "ordinance of the red heifer",
+  "slaughter the heifer",
+  "burn the heifer",
+  "outside the city",
+  "outside the camp",
+  "cedar wood",
+  "hyssop",
+  "crimson wool",
+  "scarlet wool",
+  "scarlet thread",
+  "step 2",
+  "chukat",
+  "Numbers 19"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

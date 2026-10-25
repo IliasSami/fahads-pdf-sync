@@ -1,0 +1,183 @@
+{
+ "id": "akeda-2/145",
+ "kinds": [
+  "code-grid",
+  "word-study"
+ ],
+ "title": "Genesis 22:15-16 letter grid: \"malak\" (messenger) before the Name",
+ "summary": "The Genesis 22:15-16 letter grid now shows the word מלאך (malak, \"messenger\") in purple in a row ahead of the letters of the Name יהוה, with the same blue diagonal box through א ה י ה. The right side repeats the row, the hashem letters and the green-boxed ש, with the large purple word מלאך and the labels \"malak\" and \"messenger\" at the bottom.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22:15-16",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב:יה-יו"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ ל א ך י ה ו ה"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה ש מ"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש י"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מלאך"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "malak"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "messenger"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:15-16 / בראשית כב:יה-יו",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "מלאך",
+   "translit": "malak",
+   "gloss": "messenger (angel)",
+   "strongs": "H4397"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the Name of God, LORD",
+   "strongs": "H3068"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "malak",
+   "other": "מלאך"
+  },
+  {
+   "en": "messenger",
+   "other": "מלאך"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "grid",
+   "description": "Grid of Hebrew letters (the text of Genesis 22:15-16 in rows) with the word מלאך in purple, the letters of יהוה in red, blue and orange, a blue diagonal box, and a green rectangle around one row.",
+   "subjects": [
+    "Bible code",
+    "letter grid",
+    "Hebrew letters",
+    "malak",
+    "messenger",
+    "purple letters",
+    "green box"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.02,
+    0.15,
+    0.53,
+    0.97
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "Extracted letters on the right: the row מלאך יהוה with מלאך in purple, the blue letters ה ש מ and ס, a blue diagonal box through four letters, a green box around ש and י, and the large purple word מלאך below.",
+   "subjects": [
+    "extracted letters",
+    "malak",
+    "messenger",
+    "purple word"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.55,
+    0.15,
+    0.98,
+    0.97
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "letter grid"
+  ],
+  "themes": [
+   "Bible codes",
+   "names of God"
+  ],
+  "groups": [
+   "angels"
+  ]
+ },
+ "keywords": [
+  "malak",
+  "malach",
+  "messenger",
+  "angel of the LORD",
+  "angel of YHWH",
+  "מלאך",
+  "Bible code",
+  "letter grid",
+  "hidden word",
+  "Genesis 22",
+  "Akedah",
+  "Akeda",
+  "name of God"
+ ],
+ "uncertain": [
+  "Dense letter grid not copied cell by cell; only the highlighted letters and labels are transcribed.",
+  "The final letter of מלאך in the grid is drawn like ך (final kaf)."
+ ],
+ "confidence": 0.88
+}

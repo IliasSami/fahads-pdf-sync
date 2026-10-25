@@ -1,0 +1,115 @@
+{
+ "id": "red-heifer/78",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Numbers 19:17 — ashes and running water in a vessel for the unclean",
+ "summary": "Numbers 19:17 in English and Hebrew: for an unclean person they take some of the ashes of the heifer burnt for purification from sin and put running water on them in a vessel. Matching colours link unclean (טמא), water (מים) and running (חיים) between the English and the Hebrew.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:17",
+   "osis": "Num.19.17"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:יז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.17",
+   "text": "17 ‘And for an unclean person they shall take some of the ashes of the heifer burnt for purification from sin, and running water shall be put on them in a vessel."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Num.19.17",
+   "text": "17 ולקחו לטמא מעפר שרפת החטאת ונתן עליו מים חיים אל־כלי׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19:17 / במדבר יט:יז",
+   "osis": [
+    "Num.19.17"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "טמא",
+   "translit": "tamei",
+   "gloss": "unclean",
+   "strongs": "H2931"
+  },
+  {
+   "lang": "he",
+   "word": "מים",
+   "translit": "mayim",
+   "gloss": "water",
+   "strongs": "H4325"
+  },
+  {
+   "lang": "he",
+   "word": "חיים",
+   "translit": "chayim",
+   "gloss": "living / running",
+   "strongs": "H2416"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "unclean",
+   "other": "טמא"
+  },
+  {
+   "en": "water",
+   "other": "מים"
+  },
+  {
+   "en": "running",
+   "other": "חיים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer",
+   "ashes",
+   "running water",
+   "vessel"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "sin",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Numbers 19",
+  "running water",
+  "living water",
+  "mayim chayim",
+  "ashes of the burnt heifer",
+  "purification for sin",
+  "unclean person",
+  "water in a vessel",
+  "burnt heifer",
+  "water of separation",
+  "heifer ashes mixed with water"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

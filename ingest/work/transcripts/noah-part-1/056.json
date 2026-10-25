@@ -1,0 +1,168 @@
+{
+ "id": "noah-part-1/56",
+ "kinds": [
+  "word-study",
+  "list"
+ ],
+ "title": "Kopher: pitch, village, and ransom / atonement / bribe (15 uses)",
+ "summary": "Summary of the Hebrew word kopher (כפר) in three rows: Pitch (1st use), Village (1 use), and Ransom, Atonement, Bribe (15 uses).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:14",
+   "osis": "Gen.6.14"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יד"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kopher"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כפר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Pitch"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "1st Use"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kopher"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כפר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Village"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "1 Use"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kopher"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כפר"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Ransom · Atonement · Bribe"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "15 Uses"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:14 / בראשית ו:יד",
+   "osis": [
+    "Gen.6.14"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "כפר",
+   "translit": "kopher",
+   "gloss": "pitch (1st use)",
+   "strongs": "H3724",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "כפר",
+   "translit": "kopher",
+   "gloss": "village (1 use)",
+   "strongs": "H3724",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "כפר",
+   "translit": "kopher",
+   "gloss": "ransom, atonement, bribe (15 uses)",
+   "strongs": "H3724",
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "kopher meaning pitch is its 1st use"
+  },
+  {
+   "value": 1,
+   "note": "number of uses of kopher meaning village"
+  },
+  {
+   "value": 15,
+   "note": "number of uses of kopher meaning ransom, atonement or bribe"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "pitch",
+   "village"
+  ],
+  "themes": [
+   "atonement",
+   "redemption",
+   "sacrifice"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "kopher",
+  "kofer",
+  "ransom",
+  "atonement",
+  "bribe",
+  "pitch",
+  "village",
+  "Genesis 6:14",
+  "15 uses",
+  "kaphar",
+  "kippur",
+  "covering",
+  "Hebrew word meanings"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

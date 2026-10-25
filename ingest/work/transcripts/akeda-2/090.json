@@ -1,0 +1,25 @@
+{
+  "id": "akeda-2/90",
+  "kinds": ["verse"],
+  "title": "Genesis 24:57-59: 'Will you go with this man?' — 'I will go.'",
+  "summary": "Genesis 24:57-59 in English: Rebekah's family asks her whether she will go with the man; she answers 'I will go,' and they send her and her nurse away with Abraham's servant. 'Servant' and 'his' are highlighted in gold, and the 'h' in Abraham is set apart in black.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 24", "osis": "Gen.24.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית כד", "osis": "Gen.24.1"},
+    {"lang": "en", "role": "verse", "text": "57 And they said, “We will call the girl and consult her wishes.”", "osis": "Gen.24.57"},
+    {"lang": "en", "role": "verse", "text": "58 Then they called Rebekah and said to her, “Will you go with this man?” And she said, “I will go.”", "osis": "Gen.24.58"},
+    {"lang": "en", "role": "verse", "text": "59 Thus they sent away their sister Rebekah and her nurse with Abraham’s servant and his men.", "osis": "Gen.24.59"}
+  ],
+  "refs": [
+    {"shown": "Genesis 24 / בראשית כד", "osis": ["Gen.24.57", "Gen.24.58", "Gen.24.59"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Rebekah", "Eliezer", "Abraham"], "places": [], "events": ["Finding a bride for Isaac"], "things": [], "themes": ["marriage", "consent", "faith", "obedience"], "groups": []},
+  "keywords": ["Wilt thou go with this man", "will you go with this man", "I will go", "Rebekah's consent", "Rebecca", "her nurse", "sent away", "Abraham's servant", "bride for Isaac", "Genesis 24"],
+  "uncertain": [],
+  "confidence": 0.95
+}

@@ -1,0 +1,129 @@
+{
+  "id": "abel/34",
+  "kinds": [
+    "verse",
+    "text"
+  ],
+  "title": "Genesis 3:15 — enmity between the seeds; the Protoevangelium (First Gospel)",
+  "summary": "Genesis 3:15 in English with the pronouns colour-coded (you, the woman, your seed, her seed, He, him), and below it the label Protoevangelium, \"First Gospel\" (Proto = First, evangelium = Gospel). The slide shows the Hebrew reference twice, once as בראשית ג:יה and once as בראשית ג:טו.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 3:15",
+      "osis": "Gen.3.15"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ג:יה"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "15 And I will put enmity between you and the woman, and between your seed and her seed; He shall bruise you on the head, and you shall bruise him on the heel.”",
+      "osis": "Gen.3.15"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 3:15",
+      "osis": "Gen.3.15"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ג:טו"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "First"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "Protoevangelium"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Gospel"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 3:15 / בראשית ג:יה",
+      "osis": [
+        "Gen.3.15"
+      ],
+      "role": "quoted"
+    },
+    {
+      "shown": "Genesis 3:15 / בראשית ג:טו",
+      "osis": [
+        "Gen.3.15"
+      ],
+      "role": "cited"
+    }
+  ],
+  "words": [
+    {
+      "lang": "other",
+      "word": "Protoevangelium",
+      "translit": "protoevangelium",
+      "gloss": "first gospel",
+      "strongs": null
+    }
+  ],
+  "color_links": [
+    {
+      "en": "First",
+      "other": "Proto"
+    },
+    {
+      "en": "Gospel",
+      "other": "evangelium"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Eve",
+      "Satan"
+    ],
+    "places": [],
+    "events": [
+      "Fall of Man"
+    ],
+    "things": [],
+    "themes": [
+      "seed",
+      "messianic prophecy",
+      "enmity",
+      "gospel"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Genesis 3:15",
+    "Protoevangelium",
+    "protoevangelium",
+    "first gospel",
+    "enmity",
+    "seed of the woman",
+    "her seed",
+    "bruise your head",
+    "bruise his heel",
+    "serpent",
+    "woman",
+    "gospel in Genesis"
+  ],
+  "uncertain": [
+    "The first Hebrew reference reads בראשית ג:יה (15 written as yod-he) while the second reads בראשית ג:טו — transcribed as shown.",
+    "The closing quotation mark after 'heel.' has no opening quote on the slide."
+  ],
+  "confidence": 0.93
+}

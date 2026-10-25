@@ -1,0 +1,97 @@
+{
+ "id": "genesis-1-1-part-1/104",
+ "kinds": [
+  "gematria",
+  "chart"
+ ],
+ "title": "Formula: (letters x product of letters) divided by (words x product of words)",
+ "summary": "Shows the formula (Number of Letters x Product of Letters) divided by (Number of Words x Product of Words), then fills it in with Genesis 1:1 figures: (28 x 23,887,872 followed by 27 zeros) divided by (7 x 304,153,525,784,176,000). The result is not yet shown.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "(Number of Letters x Product of Letters)"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "d_i_v_i_d_e_d b_y"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "="
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "(Number of Words x Product of Words)"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "(28 x 23,887,872,000,000,000,000,000,000,000,000,000)"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "d_i_v_i_d_e_d b_y"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "(7 x 304,153,525,784,176,000)"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 28,
+   "note": "number of letters in Genesis 1:1"
+  },
+  {
+   "value": 7,
+   "note": "number of words in Genesis 1:1"
+  },
+  {
+   "value": 23887872,
+   "note": "product of letter values (23,887,872 followed by 27 zeros)"
+  },
+  {
+   "value": 304153525784176000,
+   "note": "product of word values"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "themes": [
+   "gematria"
+  ],
+  "things": [],
+  "groups": []
+ },
+ "keywords": [
+  "formula",
+  "number of letters",
+  "product of letters",
+  "number of words",
+  "product of words",
+  "divided by",
+  "Genesis 1:1 mathematics",
+  "28",
+  "7",
+  "gematria",
+  "pi in Genesis 1:1",
+  "Bible math"
+ ],
+ "uncertain": [
+  "The slide shows no Genesis 1:1 header; the numbers (28 letters, 7 words) are those of Genesis 1:1 from the previous slides."
+ ],
+ "confidence": 0.93
+}

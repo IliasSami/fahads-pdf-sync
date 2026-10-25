@@ -1,0 +1,125 @@
+{
+  "id": "akeda-1/42",
+  "kinds": [
+    "title",
+    "verse"
+  ],
+  "title": "Genesis 22:1-2 — The Akedah, the Binding of Isaac (God tests Abraham)",
+  "summary": "Title and opening verses of the Akedah: Genesis 22:1-2 in English, in which God tests Abraham, Abraham answers “Here am I,” and God tells him to take his only son Isaac to the land of Moriah to offer him as a burnt offering. “Love” is drawn with a heart and a superscript 1. (Identical to the previous slide.)",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 22",
+      "osis": [
+        "Gen.22.1",
+        "Gen.22.2"
+      ]
+    },
+    {
+      "lang": "he",
+      "role": "heading",
+      "text": "ה ע ק ד ה"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית כב"
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "The Akedah"
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "The Binding of Isaac"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Gen.22.1",
+      "text": "1 Now it came about after these things, that God tested Abraham, and said to him, “Abraham!” And he said, “Here am I.”"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Gen.22.2",
+      "text": "2 He said, “Take now your son, your only son, whom you lo♥e¹, Isaac, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I will tell you.”"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 22 / בראשית כב (verses 1-2)",
+      "osis": [
+        "Gen.22.1",
+        "Gen.22.2"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "העקדה",
+      "translit": "ha-akedah",
+      "gloss": "the binding (of Isaac)",
+      "strongs": "H6123"
+    }
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {
+      "value": 1,
+      "note": "superscript on “love” — first mention of love in the Bible"
+    }
+  ],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "God",
+      "Abraham",
+      "Isaac"
+    ],
+    "places": [
+      "Moriah"
+    ],
+    "events": [
+      "Binding of Isaac (Akedah)"
+    ],
+    "things": [
+      "burnt offering"
+    ],
+    "themes": [
+      "sacrifice",
+      "faith",
+      "obedience",
+      "love",
+      "only son",
+      "testing",
+      "law of first mention"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Genesis 22",
+    "Akedah",
+    "Akeda",
+    "Akedat Yitzchak",
+    "binding of Isaac",
+    "God tested Abraham",
+    "God did tempt Abraham",
+    "here am I",
+    "take now thy son",
+    "thine only son",
+    "whom thou lovest",
+    "land of Moriah",
+    "burnt offering"
+  ],
+  "uncertain": [
+    "The superscript 1 after “love” is not explained on the slide; it most likely marks the first occurrence of “love” in the Bible."
+  ],
+  "confidence": 0.95
+}

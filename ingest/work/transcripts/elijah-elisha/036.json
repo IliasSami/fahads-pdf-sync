@@ -1,0 +1,398 @@
+{
+ "id": "elijah-elisha/36",
+ "kinds": [
+  "word-study",
+  "comparison",
+  "list"
+ ],
+ "title": "Elijah missing a vav, Jacob with an extra vav (side by side)",
+ "summary": "Two columns side by side: on the left, Elijah is missing a vav five times (אליה instead of אליהו) with the verses 2 Kings 1:3, 1:4, 1:8, 1:12 and Malachi 4:5; on the right, Jacob has an extra vav five times (יעקוב instead of יעקב) with Leviticus 26:42 and Jeremiah 30:18, 33:26, 46:27 and 51:19.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "5 Times אליהו Elijah is missing a vav ו"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "eliyahu"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אליה_"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Elijah"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "vav he yod lamed alef"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "2 Kings 1:3",
+   "osis": "2Kgs.1.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים ב א:ג"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "2 Kings 1:4",
+   "osis": "2Kgs.1.4"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים ב א:ד"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "2 Kings 1:8",
+   "osis": "2Kgs.1.8"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים ב א:ח"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "2 Kings 1:12",
+   "osis": "2Kgs.1.12"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים ב א:יב"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Malachi 4:5",
+   "osis": "Mal.4.5"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלאכי ד:ה"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "5 Times יעקב Jacob has an extra vav ו"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ya’akob"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "יעקוב"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Jacob"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet vav quf ayin yod"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Leviticus 26:42",
+   "osis": "Lev.26.42"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ויקרא ח:י"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Jeremiah 30:18",
+   "osis": "Jer.30.18"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ירמיה ל:יח"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Jeremiah 33:26",
+   "osis": "Jer.33.26"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ירמיה לג:כו"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Jeremiah 46:27",
+   "osis": "Jer.46.27"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ירמיה מו:כז"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Jeremiah 51:19",
+   "osis": "Jer.51.19"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ירמיה נא:יט"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "2 Kings 1:3 / מלכים ב א:ג",
+   "osis": [
+    "2Kgs.1.3"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "2 Kings 1:4 / מלכים ב א:ד",
+   "osis": [
+    "2Kgs.1.4"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "2 Kings 1:8 / מלכים ב א:ח",
+   "osis": [
+    "2Kgs.1.8"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "2 Kings 1:12 / מלכים ב א:יב",
+   "osis": [
+    "2Kgs.1.12"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Malachi 4:5 / מלאכי ד:ה",
+   "osis": [
+    "Mal.4.5"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Leviticus 26:42 / ויקרא ח:י",
+   "osis": [
+    "Lev.26.42"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Jeremiah 30:18 / ירמיה ל:יח",
+   "osis": [
+    "Jer.30.18"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Jeremiah 33:26 / ירמיה לג:כו",
+   "osis": [
+    "Jer.33.26"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Jeremiah 46:27 / ירמיה מו:כז",
+   "osis": [
+    "Jer.46.27"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Jeremiah 51:19 / ירמיה נא:יט",
+   "osis": [
+    "Jer.51.19"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אליהו",
+   "translit": "eliyahu",
+   "gloss": "Elijah (full spelling, with vav)",
+   "strongs": "H452"
+  },
+  {
+   "lang": "he",
+   "word": "אליה",
+   "translit": "eliyah",
+   "gloss": "Elijah (short spelling, missing the vav)",
+   "strongs": "H452"
+  },
+  {
+   "lang": "he",
+   "word": "יעקב",
+   "translit": "ya’akob",
+   "gloss": "Jacob (usual spelling)",
+   "strongs": "H3290"
+  },
+  {
+   "lang": "he",
+   "word": "יעקוב",
+   "translit": "ya’akob",
+   "gloss": "Jacob (spelled with an extra vav)",
+   "strongs": "H3290"
+  },
+  {
+   "lang": "he",
+   "word": "ו",
+   "translit": "vav",
+   "gloss": "the letter vav (missing from Elijah, extra in Jacob)",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "vav",
+   "other": "ו"
+  },
+  {
+   "en": "bet",
+   "other": "ב"
+  },
+  {
+   "en": "yod",
+   "other": "י"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "missing from Elijah, extra in Jacob"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "quf",
+   "char": "ק",
+   "value": 100,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "ayin",
+   "char": "ע",
+   "value": 70,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 5,
+   "note": "times Elijah is spelled without a vav"
+  },
+  {
+   "value": 5,
+   "note": "times Jacob is spelled with an extra vav"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah",
+   "Jacob"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Elijah missing vav",
+  "Jacob extra vav",
+  "vav",
+  "Elijah and Jacob",
+  "spelling differences",
+  "אליה",
+  "יעקוב",
+  "2 Kings 1:3",
+  "Malachi 4:5",
+  "Leviticus 26:42",
+  "Jeremiah 30:18",
+  "5 times",
+  "Hebrew spelling variation",
+  "side by side comparison"
+ ],
+ "uncertain": [
+  "The Hebrew reference beside Leviticus 26:42 reads ויקרא ח:י (8:10) as shown on the slide; it does not match the English reference."
+ ],
+ "confidence": 0.94
+}

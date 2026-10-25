@@ -1,0 +1,273 @@
+{
+ "id": "genesis-1-1-wisdom/140",
+ "kinds": [
+  "verse",
+  "gematria",
+  "letters"
+ ],
+ "title": "Genesis 3:5 — Man (45) + alef-tav (the 22 letters) = Understanding (67)",
+ "summary": "Genesis 3:5 with the equation Man (adam, 45) + את (tav alef) = Understanding (binah, 67), where the 22 sits under the middle term and the whole Hebrew alphabet is displayed in colour (alef through tav, in two lines).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:5",
+   "osis": "Gen.3.5"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:ה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.3.5",
+   "text": "5 For God knows that in the day you eat of it your eyes will be opened, and you will be like God, knowing good and evil.”"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.3.5",
+   "text": "5 כי ידע אלהים כי ביום אכלכם ממנו ונפקחו עיניכם והייתם כאלהים ידעי טוב ורע׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Man"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "adam"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אדם"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "40 4 1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "45"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "+"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "את"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tav alef"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אבגדהוזחטיכ"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "למנסעפצקרשת"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "22"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "="
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Understanding"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "binah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בינה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 50 10 2"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "67"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:5 / בראשית ג:ה",
+   "osis": [
+    "Gen.3.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "man",
+   "strongs": "H120",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     4,
+     1
+    ],
+    "total": 45
+   }
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et (tav alef)",
+   "gloss": "alef-tav, first and last letters of the Hebrew alphabet",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "בינה",
+   "translit": "binah",
+   "gloss": "understanding",
+   "strongs": "H998",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     50,
+     10,
+     2
+    ],
+    "total": 67
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Man",
+   "other": "אדם"
+  },
+  {
+   "en": "adam",
+   "other": "אדם"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "first letter of the alphabet; shown in blue"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last letter of the alphabet; shown in red"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 45,
+   "note": "gematria of אדם (adam, man)"
+  },
+  {
+   "value": 22,
+   "note": "middle term of the equation 45 + 22 = 67; the 22 letters of the Hebrew alphabet are shown"
+  },
+  {
+   "value": 67,
+   "note": "gematria of בינה (binah, understanding)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam",
+   "Eve",
+   "Satan"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "Hebrew letter meanings",
+   "Torah",
+   "wisdom"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 3:5",
+  "Genesis 3",
+  "alef tav",
+  "aleph tav",
+  "את",
+  "tav alef",
+  "Hebrew alphabet",
+  "22 letters",
+  "45 + 22 = 67",
+  "man plus alef-tav equals understanding",
+  "adam binah",
+  "gematria 67",
+  "first and last letters",
+  "alpha and omega"
+ ],
+ "uncertain": [
+  "Understanding appears double-printed (yellow shadow behind black text); transcribed once."
+ ],
+ "confidence": 0.93
+}

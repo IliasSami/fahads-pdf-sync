@@ -1,0 +1,135 @@
+{
+ "id": "noah-part-2/27",
+ "kinds": [
+  "chart",
+  "humor"
+ ],
+ "title": "Weather forecast for the Flood: 49 days of rain, 100% precipitation",
+ "summary": "A mock weather-app forecast for Earth on a Sunday in 2000 B.C. showing 100% precipitation, 100% humidity and 100+ mph wind, a 49-day extended forecast of rain every day except the first and last two days, and an hourly bar of 100%.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Earth"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Sunday, 2000 B.C."
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Sunny"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Precipitation: 100%"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Humidity: 100%"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Wind: 100+ mph"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "49-Day Extended Forecast"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Sun Mon Tue Wed Thu Fri Sat"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "100% 100% 100% 100% 100% 100% 100% 100%"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "1 PM 4 PM 7 PM 10 PM 1 AM 4 AM 7 AM 10 AM"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 49,
+   "note": "days in the extended forecast (seven weeks of weather icons)"
+  },
+  {
+   "value": 100,
+   "note": "percent precipitation, humidity and hourly chance"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "screenshot",
+   "description": "Mock weather-app screen in grey tones: a large sun-and-cloud icon beside the Earth forecast text, a yellow hourly bar chart where every time slot reads 100%, and a 7-column by 7-row grid of weather icons. The first row (Sunday to Saturday) shows sun with cloud, then rain clouds fill the grid until the last two cells (Friday and Saturday of the final row) return to sun with cloud.",
+   "subjects": [
+    "weather forecast",
+    "rain clouds",
+    "sun and cloud icons",
+    "calendar grid",
+    "hourly chart",
+    "weather app"
+   ],
+   "text_in_picture": "Earth; Sunday, 2000 B.C.; Sunny; Precipitation 100%; Humidity 100%; Wind 100+ mph; 49-Day Extended Forecast; Sun Mon Tue Wed Thu Fri Sat; 100%; 1 PM 4 PM 7 PM 10 PM 1 AM 4 AM 7 AM 10 AM",
+   "credit": null,
+   "box": [
+    0.03,
+    0.08,
+    0.98,
+    0.9
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [
+   "Earth"
+  ],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "rain"
+  ],
+  "themes": [
+   "humor",
+   "judgment"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "weather forecast",
+  "Flood forecast",
+  "49 days",
+  "100% precipitation",
+  "rain",
+  "forty days and forty nights",
+  "2000 B.C.",
+  "Noah's flood",
+  "extended forecast",
+  "humor",
+  "weather app",
+  "wind 100 mph",
+  "humidity"
+ ],
+ "uncertain": [
+  "The 49-day grid shows rain icons in every cell except the first row and the last two cells; exact count of rain cells not counted individually."
+ ],
+ "confidence": 0.9
+}

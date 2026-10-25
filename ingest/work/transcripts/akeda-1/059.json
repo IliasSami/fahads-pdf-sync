@@ -1,0 +1,61 @@
+{
+  "id": "akeda-1/59",
+  "kinds": ["list", "word-study"],
+  "title": "The five books of the Torah: Genesis to Deuteronomy, in English, Hebrew and transliteration",
+  "summary": "Shows that the Torah (תורה) runs from Genesis 1:1 to Deuteronomy 34:12 and lists its five books in colour, each with its Hebrew name and transliteration: Genesis (bereshit), Exodus (shemot), Leviticus (vayikra), Numbers (bamidbar), Deuteronomy (devarim).",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 1:1", "osis": "Gen.1.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית א:א"},
+    {"lang": "en", "role": "heading", "text": "Torah"},
+    {"lang": "he", "role": "heading", "text": "ת ו ר ה"},
+    {"lang": "en", "role": "reference", "text": "Deuteronomy 34:12", "osis": "Deut.34.12"},
+    {"lang": "he", "role": "reference", "text": "דברים לד:י"},
+    {"lang": "en", "role": "list", "text": "Genesis"},
+    {"lang": "he", "role": "list", "text": "בראשית"},
+    {"lang": "translit", "role": "list", "text": "bereshit"},
+    {"lang": "en", "role": "list", "text": "Exodus"},
+    {"lang": "he", "role": "list", "text": "שמות"},
+    {"lang": "translit", "role": "list", "text": "shemot"},
+    {"lang": "en", "role": "list", "text": "Leviticus"},
+    {"lang": "he", "role": "list", "text": "ויקרא"},
+    {"lang": "translit", "role": "list", "text": "vayikra"},
+    {"lang": "en", "role": "list", "text": "Numbers"},
+    {"lang": "he", "role": "list", "text": "במדבר"},
+    {"lang": "translit", "role": "list", "text": "bamidbar"},
+    {"lang": "en", "role": "list", "text": "Deuteronomy"},
+    {"lang": "he", "role": "list", "text": "דברים"},
+    {"lang": "translit", "role": "list", "text": "devarim"}
+  ],
+  "refs": [
+    {"shown": "Genesis 1:1 / בראשית א:א", "osis": ["Gen.1.1"], "role": "cited"},
+    {"shown": "Deuteronomy 34:12 / דברים לד:י", "osis": ["Deut.34.12"], "role": "cited"}
+  ],
+  "words": [
+    {"lang": "he", "word": "תורה", "translit": "torah", "gloss": "law, instruction", "strongs": "H8451"},
+    {"lang": "he", "word": "בראשית", "translit": "bereshit", "gloss": "in the beginning (Genesis)", "strongs": "H7225"},
+    {"lang": "he", "word": "שמות", "translit": "shemot", "gloss": "names (Exodus)", "strongs": "H8034"},
+    {"lang": "he", "word": "ויקרא", "translit": "vayikra", "gloss": "and He called (Leviticus)", "strongs": "H7121"},
+    {"lang": "he", "word": "במדבר", "translit": "bamidbar", "gloss": "in the wilderness (Numbers)", "strongs": "H4057"},
+    {"lang": "he", "word": "דברים", "translit": "devarim", "gloss": "words (Deuteronomy)", "strongs": "H1697"}
+  ],
+  "color_links": [
+    {"en": "Torah", "other": "תורה"},
+    {"en": "Genesis", "other": "בראשית"},
+    {"en": "bereshit", "other": "בראשית"},
+    {"en": "Exodus", "other": "שמות"},
+    {"en": "shemot", "other": "שמות"},
+    {"en": "Leviticus", "other": "ויקרא"},
+    {"en": "vayikra", "other": "ויקרא"},
+    {"en": "Numbers", "other": "במדבר"},
+    {"en": "bamidbar", "other": "במדבר"},
+    {"en": "Deuteronomy", "other": "דברים"},
+    {"en": "devarim", "other": "דברים"}
+  ],
+  "letters": [],
+  "numbers": [{"value": 5, "note": "five books of the Torah"}],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": [], "things": [], "themes": ["Torah", "Hebrew names of the books"], "groups": []},
+  "keywords": ["Torah", "five books of Moses", "Pentateuch", "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "bereshit", "shemot", "vayikra", "bamidbar", "devarim", "Hebrew names of the Bible books", "Genesis 1:1 to Deuteronomy 34:12"],
+  "uncertain": ["The Deuteronomy reference is written in Hebrew as דברים לד:י followed by a small stray mark (likely the start of יב for verse 12); the English reads 34:12."],
+  "confidence": 0.93
+}

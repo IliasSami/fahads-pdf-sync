@@ -1,0 +1,129 @@
+{
+ "id": "genesis-1-1-part-2/102",
+ "kinds": [
+  "diagram"
+ ],
+ "title": "Pythagorean Theorem worked example: 3-4-5 right triangle",
+ "summary": "Shows a right triangle with sides a = 3 and b = 4 and works the Pythagorean theorem a² + b² = c² step by step to get c² = 25, so c = 5.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Pythagorean Theorem"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "a² + b² = c²"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "3"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "a"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "c"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "b"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "4"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "c² = 3² + 4²"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "c² = 9 + 16"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "c² = 25"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "c = 5"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "length of side a"
+  },
+  {
+   "value": 4,
+   "note": "length of side b"
+  },
+  {
+   "value": 5,
+   "note": "length of hypotenuse c (square root of 25)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "Black line drawing of a right triangle with the right angle at the bottom left marked by a small square. The vertical side is labelled a, the horizontal base is labelled b and the sloping hypotenuse is labelled c; blue numbers 3 and 4 sit beside sides a and b.",
+   "subjects": [
+    "right triangle",
+    "Pythagorean theorem",
+    "hypotenuse",
+    "geometry",
+    "3-4-5 triangle",
+    "math diagram"
+   ],
+   "text_in_picture": "a b c",
+   "credit": null,
+   "box": [
+    0.07,
+    0.36,
+    0.6,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "mathematics"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Pythagorean theorem",
+  "a squared plus b squared equals c squared",
+  "right triangle",
+  "3 4 5 triangle",
+  "hypotenuse",
+  "geometry",
+  "math",
+  "square root of 25",
+  "c equals 5",
+  "diagram of a triangle"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

@@ -1,0 +1,155 @@
+{
+ "id": "noah-part-1/6",
+ "kinds": [
+  "word-study",
+  "genealogy"
+ ],
+ "title": "Adam, Seth, Enosh: Man, Appointed, Mortal",
+ "summary": "The name chain begins: Adam (Man), 130 then Seth (Appointed), 105 then Enosh (Mortal), with the Hebrew spelled out letter by letter and each name colour-matched to its meaning.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Adam"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ד ם"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Man"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "130 ⇘ Seth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש ת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Appointed"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "↓ 105 ⇘ Enosh"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א נ ו ש"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Mortal"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "man",
+   "strongs": "H120",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "שת",
+   "translit": "shet",
+   "gloss": "appointed (Seth)",
+   "strongs": "H8352",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אנוש",
+   "translit": "enosh",
+   "gloss": "mortal (Enosh)",
+   "strongs": "H583",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Adam",
+   "other": "אדם"
+  },
+  {
+   "en": "Man",
+   "other": "אדם"
+  },
+  {
+   "en": "Seth",
+   "other": "שת"
+  },
+  {
+   "en": "Appointed",
+   "other": "שת"
+  },
+  {
+   "en": "Enosh",
+   "other": "אנוש"
+  },
+  {
+   "en": "Mortal",
+   "other": "אנוש"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 130,
+   "note": "number beside the arrow from Adam to Seth"
+  },
+  {
+   "value": 105,
+   "note": "number beside the arrow from Seth to Enosh"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Seth",
+   "Enosh"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "genealogy",
+   "Hebrew letter meanings",
+   "death"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Adam",
+  "Seth",
+  "Enosh",
+  "Enos",
+  "man",
+  "appointed",
+  "mortal",
+  "name meanings",
+  "130",
+  "105",
+  "genealogy",
+  "Genesis 5",
+  "Hebrew names",
+  "line of Seth"
+ ],
+ "uncertain": [],
+ "confidence": 0.94
+}

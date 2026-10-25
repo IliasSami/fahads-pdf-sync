@@ -1,0 +1,251 @@
+{
+  "id": "abel/27",
+  "kinds": [
+    "word-study",
+    "list"
+  ],
+  "title": "6 Words for Man in the Bible: adam, ish, enosh, gever, aner, anthropos",
+  "summary": "A list of six Hebrew and Greek words for \"man\", each with an example verse: adam (Gen 1:26), ish (Gen 2:24), enosh (Job 15:14), gever (Job 34:7), aner (1 Cor 11:7) and anthropos (Matt 26:24).",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "6 Words for Man in the Bible"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "adam"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "אדם"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Gen 1:26",
+      "osis": "Gen.1.26"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "ish"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "איש"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Gen 2:24",
+      "osis": "Gen.2.24"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "enosh"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "אנוש"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Job 15:14",
+      "osis": "Job.15.14"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "gever"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "גבר"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Job 34:7",
+      "osis": "Job.34.7"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "Aner"
+    },
+    {
+      "lang": "el",
+      "role": "label",
+      "text": "ἀνὴρ"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "1 Cor 11:7",
+      "osis": "1Cor.11.7"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "Anthropos"
+    },
+    {
+      "lang": "el",
+      "role": "label",
+      "text": "ἄνθρωπος"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Matt 26:24",
+      "osis": "Matt.26.24"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Gen 1:26",
+      "osis": [
+        "Gen.1.26"
+      ],
+      "role": "cited"
+    },
+    {
+      "shown": "Gen 2:24",
+      "osis": [
+        "Gen.2.24"
+      ],
+      "role": "cited"
+    },
+    {
+      "shown": "Job 15:14",
+      "osis": [
+        "Job.15.14"
+      ],
+      "role": "cited"
+    },
+    {
+      "shown": "Job 34:7",
+      "osis": [
+        "Job.34.7"
+      ],
+      "role": "cited"
+    },
+    {
+      "shown": "1 Cor 11:7",
+      "osis": [
+        "1Cor.11.7"
+      ],
+      "role": "cited"
+    },
+    {
+      "shown": "Matt 26:24",
+      "osis": [
+        "Matt.26.24"
+      ],
+      "role": "cited"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "אדם",
+      "translit": "adam",
+      "gloss": "man, mankind",
+      "strongs": "H120"
+    },
+    {
+      "lang": "he",
+      "word": "איש",
+      "translit": "ish",
+      "gloss": "man",
+      "strongs": "H376"
+    },
+    {
+      "lang": "he",
+      "word": "אנוש",
+      "translit": "enosh",
+      "gloss": "man, mortal man",
+      "strongs": "H582"
+    },
+    {
+      "lang": "he",
+      "word": "גבר",
+      "translit": "gever",
+      "gloss": "man, strong man",
+      "strongs": "H1397"
+    },
+    {
+      "lang": "el",
+      "word": "ἀνήρ",
+      "translit": "aner",
+      "gloss": "man (male)",
+      "strongs": "G435"
+    },
+    {
+      "lang": "el",
+      "word": "ἄνθρωπος",
+      "translit": "anthropos",
+      "gloss": "man, human being",
+      "strongs": "G444"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "a (adam)",
+      "other": "א"
+    },
+    {
+      "en": "dam (adam)",
+      "other": "דם"
+    },
+    {
+      "en": "ish",
+      "other": "איש"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "things": [
+      "man"
+    ],
+    "themes": [
+      "word studies",
+      "humanity"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "words for man",
+    "six words for man",
+    "adam",
+    "ish",
+    "enosh",
+    "gever",
+    "aner",
+    "anthropos",
+    "Hebrew words for man",
+    "Greek words for man",
+    "Strong's H120",
+    "Strong's H376",
+    "Strong's H582",
+    "Strong's H1397",
+    "man in the Bible"
+  ],
+  "uncertain": [
+    "In adam (אדם) the 'a'/א is blue and 'dam'/דם is red — colour-coded on the slide but no explanation given on this slide."
+  ],
+  "confidence": 0.93
+}

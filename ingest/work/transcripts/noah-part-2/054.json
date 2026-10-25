@@ -1,0 +1,133 @@
+{
+ "id": "noah-part-2/54",
+ "kinds": [
+  "verse",
+  "timeline"
+ ],
+ "title": "Joshua 5:10-12 — Passover on 14 Nisan, produce of the land on 15, manna ceases on 16",
+ "summary": "Joshua 5:10-12 with each verse tied to a date: Israel keeps the Passover at Gilgal on 14 Nisan, eats the produce of the land the day after on 15 Nisan, and the manna stops on 16 Nisan.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Joshua 5:10-12",
+   "osis": [
+    "Josh.5.10",
+    "Josh.5.11",
+    "Josh.5.12"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "יהושע ה:י-יב"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "14 nisan"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Josh.5.10",
+   "text": "10 While the sons of Israel camped at Gilgal they observed the Passover on the evening of the fourteenth day of the month on the desert plains of Jericho."
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "15 nisan"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Josh.5.11",
+   "text": "11 On the day after the Passover, on that very day, they ate some of the produce of the land, unleavened cakes and parched grain."
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "16 nisan"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Josh.5.12",
+   "text": "12 The manna ceased on the day after they had eaten some of the produce of the land, so that the sons of Israel no longer had manna, but they ate some of the yield of the land of Canaan during that year."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Joshua 5:10-12 / יהושע ה:י-יב",
+   "osis": [
+    "Josh.5.10",
+    "Josh.5.11",
+    "Josh.5.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 14,
+   "note": "14 Nisan — Passover observed at Gilgal"
+  },
+  {
+   "value": 15,
+   "note": "15 Nisan — day after Passover, they ate produce of the land"
+  },
+  {
+   "value": 16,
+   "note": "16 Nisan — the manna ceased"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Gilgal",
+   "Jericho",
+   "Canaan"
+  ],
+  "events": [
+   "Passover",
+   "Crossing the Jordan",
+   "Cessation of the manna"
+  ],
+  "things": [
+   "manna",
+   "unleavened bread",
+   "parched grain"
+  ],
+  "themes": [
+   "biblical feasts",
+   "Flood chronology",
+   "firstfruits"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Joshua 5",
+  "Gilgal",
+  "Passover",
+  "14 Nisan",
+  "15 Nisan",
+  "16 Nisan",
+  "manna ceased",
+  "manna stopped",
+  "produce of the land",
+  "old corn",
+  "unleavened cakes",
+  "parched grain",
+  "plains of Jericho",
+  "promised land",
+  "day after the Passover"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

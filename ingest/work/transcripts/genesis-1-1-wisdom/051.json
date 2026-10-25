@@ -1,0 +1,119 @@
+{
+ "id": "genesis-1-1-wisdom/51",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Proverbs 8:22-27 — wisdom was there before the earth was made",
+ "summary": "Proverbs 8:22-27 in English: Wisdom says the LORD possessed her at the beginning of His way, before His works of old, before the earth, depths, mountains and hills, and that she was there when He prepared the heavens and drew a circle on the face of the deep. 'LORD' and 'water' are shown in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Proverbs 8",
+   "osis": "Prov.8.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "משלי ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "22 “The LORD possessed me at the beginning of His way, before His works of old.",
+   "osis": "Prov.8.22"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "23 I have been established from everlasting, from the beginning, before there was ever an earth.",
+   "osis": "Prov.8.23"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "24 When there were no depths I was brought forth, when there were no fountains abounding with water.",
+   "osis": "Prov.8.24"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "25 Before the mountains were settled, before the hills, I was brought forth;",
+   "osis": "Prov.8.25"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "26 While as yet He had not made the earth or the fields, or the primal dust of the world.",
+   "osis": "Prov.8.26"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "27 When He prepared the heavens, I was there, when He drew a circle on the face of the deep,",
+   "osis": "Prov.8.27"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Proverbs 8 / משלי ח",
+   "osis": [
+    "Prov.8.22",
+    "Prov.8.23",
+    "Prov.8.24",
+    "Prov.8.25",
+    "Prov.8.26",
+    "Prov.8.27"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "depths",
+   "fountains",
+   "water",
+   "mountains",
+   "hills",
+   "heavens",
+   "circle on the face of the deep"
+  ],
+  "themes": [
+   "wisdom",
+   "creation",
+   "beginning",
+   "everlasting",
+   "light and darkness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Proverbs 8",
+  "Proverbs 8:22",
+  "the LORD possessed me at the beginning of His way",
+  "wisdom before creation",
+  "from everlasting",
+  "before there was ever an earth",
+  "brought forth",
+  "no depths",
+  "when He prepared the heavens I was there",
+  "circle on the face of the deep",
+  "wisdom at creation",
+  "beginning",
+  "primal dust of the world"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

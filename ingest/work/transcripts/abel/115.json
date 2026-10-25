@@ -1,0 +1,22 @@
+{
+  "id": "abel/115",
+  "kinds": ["verse"],
+  "title": "Genesis 4:14 — “I shall be hidden… a fugitive and a vagabond”",
+  "summary": "Genesis 4:14 in English and Hebrew: Cain says God has driven him from the face of the ground, he will be hidden from God’s face and be a fugitive and vagabond, and anyone who finds him will kill him.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:14", "osis": "Gen.4.14"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:יד"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.14", "text": "14 Surely You have driven me out this day from the face of the ground; and from your face I shall be hidden; and I shall be a fugitive and a vagabond on the earth, and it will happen that anyone who finds me will kill me.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.14", "text": "14 הן גרשת אתי היום מעל פני האדמה ומפניך אסתר והייתי נע ונד בארץ והיה כל מצאי יהרגני׃"}
+  ],
+  "refs": [{"shown": "Genesis 4:14 / בראשית ד:יד", "osis": ["Gen.4.14"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain"], "places": [], "events": ["Cain's punishment"], "things": ["ground"], "themes": ["judgment", "exile", "wandering", "death"], "groups": []},
+  "keywords": ["driven me out this day", "from thy face shall I be hid", "fugitive and a vagabond", "every one that findeth me shall slay me", "face of the ground", "Cain's fear", "Cain's punishment", "Cain and Abel", "Genesis 4", "Genesis 4:14"],
+  "uncertain": [],
+  "confidence": 0.96
+}

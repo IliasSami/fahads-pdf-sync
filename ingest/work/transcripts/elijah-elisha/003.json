@@ -1,0 +1,32 @@
+{
+  "id": "elijah-elisha/3",
+  "kinds": ["comparison", "word-study"],
+  "title": "The Akedah parallel: Abraham offered Isaac, God offered Yeshua",
+  "summary": "Compares the Binding of Isaac (the Akedah, העקדה) with the binding of Yeshua: as Abraham the father offered his son Isaac as a sacrifice, God the Father offered His Son Yeshua as a sacrifice.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Binding of"},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "en", "role": "heading", "text": "The Binding of"},
+    {"lang": "en", "role": "label", "text": "Isaac"},
+    {"lang": "en", "role": "label", "text": "The Akedah"},
+    {"lang": "en", "role": "label", "text": "yeshua"},
+    {"lang": "en", "role": "body", "text": "Abraham the father offered his son, Isaac, as a sacrifice;"},
+    {"lang": "en", "role": "body", "text": "GOD the father offered His Son, yeshua, as a sacrifice."}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "העקדה", "translit": "ha-akedah", "gloss": "the binding", "strongs": "H6123"},
+    {"lang": "he", "word": "ישוע", "translit": "yeshua", "gloss": "Jesus (Yeshua, “salvation”)", "strongs": null}
+  ],
+  "color_links": [
+    {"en": "The", "other": "ה"},
+    {"en": "Akedah", "other": "עקדה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac", "God", "Jesus"], "places": [], "events": ["Binding of Isaac (Akedah)", "Crucifixion"], "things": [], "themes": ["sacrifice", "typology", "substitution", "firstborn"], "groups": []},
+  "keywords": ["Akedah", "Akeda", "Binding of Isaac", "Abraham offered Isaac", "God gave His Son", "Yeshua", "Jesus", "father and son", "sacrifice", "Genesis 22", "parallels", "type of Christ"],
+  "uncertain": [],
+  "confidence": 0.94
+}

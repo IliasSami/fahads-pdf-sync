@@ -1,0 +1,47 @@
+{
+ "id": "noah-part-2/2",
+ "kinds": [
+  "title"
+ ],
+ "title": "Noah — Part 2",
+ "summary": "Plain title slide reading 'Noah' (green and black letters) with 'Part 2' in blue beneath it.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Noah"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Part 2"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "Noah",
+  "Noah Part 2",
+  "title slide",
+  "Genesis 6",
+  "What You Should Know About Noah",
+  "flood",
+  "ark"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

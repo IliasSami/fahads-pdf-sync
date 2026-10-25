@@ -1,0 +1,152 @@
+{
+ "id": "gods-garden-in-eden/61",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 2:20 — Hebrew kelev (dog) is built from kol (all) and lev (heart)",
+ "summary": "Genesis 2:20 in English (the man names the animals but finds no suitable helper), with the Hebrew word כלב kelev shown in colour. Arrows show its letters splitting into לב lev (heart) and כל kol (all), sharing the middle letter lamed.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:20",
+   "osis": "Gen.2.20"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:כ"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "20 The man gave names to all the cattle, and to the birds of the sky, and to every beast of the field, but for Adam there was not found a helper suitable for him.",
+   "osis": "Gen.2.20"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כלב"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kelev"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Heart"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "lev"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "לב"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כל"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kol"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "All"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:20 / בראשית ב:כ",
+   "osis": [
+    "Gen.2.20"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "כלב",
+   "translit": "kelev",
+   "gloss": "dog",
+   "strongs": "H3611"
+  },
+  {
+   "lang": "he",
+   "word": "לב",
+   "translit": "lev",
+   "gloss": "heart",
+   "strongs": "H3820"
+  },
+  {
+   "lang": "he",
+   "word": "כל",
+   "translit": "kol",
+   "gloss": "all",
+   "strongs": "H3605"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "lev",
+   "other": "לב"
+  },
+  {
+   "en": "kol",
+   "other": "כל"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "dog",
+   "cattle",
+   "birds"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "marriage"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "kelev",
+  "dog in Hebrew",
+  "lev heart",
+  "kol all",
+  "dog is all heart",
+  "Genesis 2:20",
+  "Adam names the animals",
+  "helper suitable for him",
+  "helper fit for him",
+  "Hebrew word study",
+  "כלב",
+  "cattle birds beasts"
+ ],
+ "uncertain": [
+  "Exact colours of each letter (kaf black, lamed brown, bet red) read from the image; arrows are decorative pointers."
+ ],
+ "confidence": 0.93
+}

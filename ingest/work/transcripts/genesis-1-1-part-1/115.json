@@ -1,0 +1,78 @@
+{
+ "id": "genesis-1-1-part-1/115",
+ "kinds": [
+  "title",
+  "picture"
+ ],
+ "title": "In Beginning, Part 1 — title slide with presenter video still",
+ "summary": "Title slide for the teaching \"In Beginning, Part 1\": a video still of a man in a white T-shirt gesturing with both hands in front of a large world map, with the title in green text and a large green number 1.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "In Beginning, Part 1"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "part number of the teaching (Part 1)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "video-still",
+   "description": "A middle-aged man with glasses and a moustache, wearing a white T-shirt, sits on a tan couch in front of a large wall map of the world (South America, the Atlantic and Indian Oceans, southern Africa and Australia visible), with both arms raised and hands open as he talks. Green title text 'In Beginning, Part 1' is slanted across his arm and a large green '1' sits at the left.",
+   "subjects": [
+    "presenter",
+    "man talking",
+    "world map",
+    "couch",
+    "white T-shirt",
+    "video still",
+    "title slide"
+   ],
+   "text_in_picture": "1  In Beginning, Part 1",
+   "credit": null,
+   "box": [
+    0,
+    0,
+    1,
+    0.8
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "In Beginning Part 1",
+  "title slide",
+  "Genesis 1:1",
+  "part 1",
+  "presenter",
+  "world map",
+  "video still",
+  "man in front of world map",
+  "Bible study intro",
+  "Genesis"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

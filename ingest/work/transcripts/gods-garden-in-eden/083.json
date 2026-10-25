@@ -1,0 +1,144 @@
+{
+ "id": "gods-garden-in-eden/83",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Deuteronomy 6:4 — 1 x 1 x 1 = ONE",
+ "summary": "The same colour-coded Shema as the previous slide (LORD, God, LORD each marked 1), now with an added equation: 1 x 1 x 1 = ONE.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Deuteronomy 6:4",
+   "osis": "Deut.6.4"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "דברים ו:ד"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "שמע ישראל יהוה אלהינו יהוה ׀ אחד׃",
+   "osis": "Deut.6.4"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1 1 1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "Hear, O Israel: The LORD our God, the LORD is ONE.",
+   "osis": "Deut.6.4"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1 x 1 x 1 = ONE"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Deuteronomy 6:4 / דברים ו:ד",
+   "osis": [
+    "Deut.6.4"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the LORD",
+   "strongs": "H3068"
+  },
+  {
+   "lang": "he",
+   "word": "אלהינו",
+   "translit": "Eloheinu",
+   "gloss": "our God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "אחד",
+   "translit": "echad",
+   "gloss": "one",
+   "strongs": "H259"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "LORD (first, gold)",
+   "other": "יהוה (gold)"
+  },
+  {
+   "en": "God",
+   "other": "אלהינו"
+  },
+  {
+   "en": "LORD (second, blue)",
+   "other": "יהוה (blue)"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "the first LORD (gold), counted as one"
+  },
+  {
+   "value": 1,
+   "note": "God (red), counted as one"
+  },
+  {
+   "value": 1,
+   "note": "the second LORD (blue), counted as one"
+  },
+  {
+   "value": 1,
+   "note": "1 x 1 x 1 = ONE (the product is still one)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "unity",
+   "Torah"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Deuteronomy 6:4",
+  "Shema",
+  "1 x 1 x 1 = ONE",
+  "one times one times one",
+  "three ones make one",
+  "Trinity",
+  "Godhead",
+  "echad",
+  "oneness of God",
+  "multiplication",
+  "names of God",
+  "Deuteronomy 6"
+ ],
+ "uncertain": [
+  "The colours in the Hebrew line run right to left (blue, red, gold), while the English reads left to right (gold, red, blue)."
+ ],
+ "confidence": 0.93
+}

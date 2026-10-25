@@ -1,0 +1,35 @@
+{
+  "id": "abel/86",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:9 — brother (ach, אח)",
+  "summary": "Genesis 4:9 in English and Hebrew with “brother” underlined in blue, plus a word study of ach (אח) meaning “brother,” whose letters alef (blue) and chet (green) are colour-matched to the first two letters of אחיך and אחי in the verse.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:9", "osis": "Gen.4.9"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ט"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.9", "text": "9 And the LORD said to Cain, “Where is Abel your brother?” And he said, “I do not know. The keeper of my brother am I?”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.9", "text": "9 ויאמר יהוה אל קין אי הבל אחיך ויאמר לא ידעתי השמר אחי אנכי׃"},
+    {"lang": "translit", "role": "label", "text": "ach"},
+    {"lang": "he", "role": "label", "text": "אח"},
+    {"lang": "en", "role": "label", "text": "brother"}
+  ],
+  "refs": [{"shown": "Genesis 4:9 / בראשית ד:ט", "osis": ["Gen.4.9"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "אח", "translit": "ach", "gloss": "brother", "strongs": "H251"}
+  ],
+  "color_links": [
+    {"en": "brother", "other": "אח"},
+    {"en": "ach", "other": "אח"},
+    {"en": "a (ach)", "other": "א"},
+    {"en": "ch (ach)", "other": "ח"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": ""},
+    {"lang": "he", "letter": "chet", "char": "ח", "value": 8, "meaning": ""}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain", "Abel"], "places": [], "events": ["Murder of Abel"], "things": [], "themes": ["names of God", "Hebrew letter meanings", "sin"], "groups": []},
+  "keywords": ["brother", "ach", "achi", "achicha", "alef chet", "aleph chet", "Hebrew word for brother", "the keeper of my brother", "am I my brother's keeper", "Cain and Abel", "Genesis 4", "Genesis 4:9"],
+  "uncertain": ["The LORD in English and יהוה in Hebrew have individually coloured letters (decorative: red L/yod, orange R/vav), meaning not explained on this slide."],
+  "confidence": 0.93
+}

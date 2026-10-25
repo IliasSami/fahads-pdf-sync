@@ -1,0 +1,138 @@
+{
+ "id": "elijah-elisha/30",
+ "kinds": [
+  "word-study",
+  "diagram"
+ ],
+ "title": "Elijah (אליה) means 'yahweh is God'",
+ "summary": "Same breakdown of Elijah (אליה, eliyah) into yah (יה) and el (אל, God), now with the meaning added underneath: 'yahweh is God', with the letters of yah, el and God colour-matched.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Elijah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אליה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "eliyah"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "⇙ ⇙   ⇘ ⇘ (arrows pointing from the name down to its two parts)"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "יה"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אל"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "el"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "God"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "yahweh is God"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אליה",
+   "translit": "eliyah",
+   "gloss": "Elijah (yahweh is God)",
+   "strongs": "H452"
+  },
+  {
+   "lang": "he",
+   "word": "יה",
+   "translit": "yah",
+   "gloss": "Yah (short form of Yahweh)",
+   "strongs": "H3050"
+  },
+  {
+   "lang": "he",
+   "word": "אל",
+   "translit": "el",
+   "gloss": "God",
+   "strongs": "H410"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Elijah",
+   "other": "אליה"
+  },
+  {
+   "en": "eliyah",
+   "other": "אליה"
+  },
+  {
+   "en": "yah",
+   "other": "יה"
+  },
+  {
+   "en": "el",
+   "other": "אל"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah",
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "meaning of names"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Elijah",
+  "Eliyah",
+  "Eliyahu",
+  "meaning of Elijah",
+  "Yahweh is God",
+  "my God is Yahweh",
+  "El God",
+  "Yah",
+  "name of Elijah",
+  "Hebrew name",
+  "אליה",
+  "Elias"
+ ],
+ "uncertain": [
+  "The PDF text layer gives אליהו / eliyahu, but the image shows אליה / eliyah; transcribed as shown in the image."
+ ],
+ "confidence": 0.93
+}

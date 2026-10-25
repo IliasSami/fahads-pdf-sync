@@ -1,0 +1,26 @@
+{
+  "id": "elijah-elisha/58",
+  "kinds": ["verse"],
+  "title": "Luke 4:24-27 — Jesus on Elijah, the widow of Zarephath and Naaman",
+  "summary": "The same slide as before: Luke 4:24-27, where Jesus says no prophet is welcome in his hometown and recalls that Elijah was sent only to a widow in Zarephath of Sidon during the three-and-a-half-year famine, and that in Elisha's time only Naaman the Syrian was cleansed. Jesus' words “He” and “I” are in red; Sidon and Syrian are in green.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Luke 4:24-27", "osis": ["Luke.4.24", "Luke.4.25", "Luke.4.26", "Luke.4.27"]},
+    {"lang": "el", "role": "reference", "text": "ΛΟΥΚΑΝ 4:24-27", "osis": ["Luke.4.24", "Luke.4.25", "Luke.4.26", "Luke.4.27"]},
+    {"lang": "en", "role": "verse", "text": "24 And He said, “Truly I say to you, no prophet is welcome in his hometown.", "osis": "Luke.4.24"},
+    {"lang": "en", "role": "verse", "text": "25 “But I say to you in truth, there were many widows in Israel in the days of Elijah, when the sky was shut up for three years and six months, when a great famine came over all the land;", "osis": "Luke.4.25"},
+    {"lang": "en", "role": "verse", "text": "26 and yet Elijah was sent to none of them, but only to Zarephath, in the land of Sidon, to a woman who was a widow.", "osis": "Luke.4.26"},
+    {"lang": "en", "role": "verse", "text": "27 “And there were many lepers in Israel in the time of Elisha the prophet; and none of them was cleansed, but only Naaman the Syrian.”", "osis": "Luke.4.27"}
+  ],
+  "refs": [
+    {"shown": "Luke 4:24-27 / ΛΟΥΚΑΝ 4:24-27", "osis": ["Luke.4.24", "Luke.4.25", "Luke.4.26", "Luke.4.27"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [{"value": 3.5, "note": "the sky was shut up for three years and six months in Elijah's day"}],
+  "pictures": [],
+  "entities": {"people": ["Jesus", "Elijah", "Elisha", "Naaman", "widow of Zarephath"], "places": ["Israel", "Zarephath", "Sidon", "Syria"], "events": ["three-year drought"], "things": [], "themes": ["prophecy", "rejection of the prophet", "God's grace to Gentiles", "healing"], "groups": ["widows", "lepers", "Gentiles"]},
+  "keywords": ["no prophet is accepted in his own country", "prophet without honor", "hometown", "widow of Zarephath", "three years and six months", "famine", "Naaman the Syrian", "leprosy", "lepers cleansed", "Elijah and Elisha", "Luke 4", "Gentiles"],
+  "uncertain": ["Slide image is identical to slide 57"],
+  "confidence": 0.95
+}

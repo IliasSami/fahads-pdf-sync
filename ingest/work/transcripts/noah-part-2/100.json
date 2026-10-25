@@ -1,0 +1,93 @@
+{
+ "id": "noah-part-2/100",
+ "kinds": [
+  "genealogy",
+  "list"
+ ],
+ "title": "Japheth's descendants: 14 names (Gomer to Dodanim)",
+ "summary": "Numbered list of Japheth's descendants: his seven sons (Gomer, Magog, Madai, Javan, Tubal, Meshech, Tiras), then Gomer's sons (Ashkenaz, Riphath, Togarmah) and Javan's sons (Elishah, Tarshish, Kittim, Dodanim), numbered 1 to 14.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Japheth"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Gomer, 2 Magog, 3 Madai, 4 Javan, 5 Tubal, 6 Meshech, 7 Tiras"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Gomer → 8 Ashkenaz, 9 Riphath, 10 Togarmah"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "4 Javan → 11 Elishah, 12 Tarshish, 13 Kittim, 14 Dodanim"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 14,
+   "note": "total names listed for Japheth (7 sons plus 7 grandsons)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Japheth",
+   "Gomer",
+   "Magog",
+   "Madai",
+   "Javan",
+   "Tubal",
+   "Meshech",
+   "Tiras",
+   "Ashkenaz",
+   "Riphath",
+   "Togarmah",
+   "Elishah",
+   "Tarshish",
+   "Kittim",
+   "Dodanim"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "genealogy",
+   "table of nations"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Japheth",
+  "sons of Japheth",
+  "descendants of Japheth",
+  "table of nations",
+  "Genesis 10",
+  "Gomer",
+  "Magog",
+  "Madai",
+  "Javan",
+  "Tubal",
+  "Meshech",
+  "Tiras",
+  "Ashkenaz",
+  "Riphath",
+  "Togarmah",
+  "Elishah",
+  "Tarshish",
+  "Kittim",
+  "Dodanim",
+  "family tree"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

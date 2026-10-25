@@ -1,0 +1,107 @@
+{
+ "id": "elijah-elisha/75",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 Kings 18:20-22 — How long will you hesitate between two opinions?",
+ "summary": "The text of 1 Kings 18:20-22: Ahab gathers the prophets at Mount Carmel, Elijah asks the people how long they will hesitate between two opinions and to follow the LORD if He is God or Baal if he is, the people stay silent, and Elijah says he alone is left a prophet of the LORD against 450 prophets of Baal. The letters el in Israel and Carmel and the names Elijah, LORD and God are coloured.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 18:20-22",
+   "osis": [
+    "1Kgs.18.20",
+    "1Kgs.18.21",
+    "1Kgs.18.22"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א יח:כ-כב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "20 So Ahab sent a message among all the sons of Israel and brought the prophets together at Mount Carmel.",
+   "osis": "1Kgs.18.20"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "21 Elijah came near to all the people and said, “How long will you hesitate between two opinions? If the LORD is God, follow Him; but if Baal, follow him.” But the people did not answer him a word.",
+   "osis": "1Kgs.18.21"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "22 Then Elijah said to the people, “I alone am left a prophet of the LORD, but Baal’s prophets are 450 men.",
+   "osis": "1Kgs.18.22"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 18:20-22 / מלכים א יח:כ-כב",
+   "osis": [
+    "1Kgs.18.20",
+    "1Kgs.18.21",
+    "1Kgs.18.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 450,
+   "note": "Baal's prophets"
+  },
+  {
+   "value": 2,
+   "note": "two opinions the people hesitate between"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Ahab",
+   "Elijah",
+   "God"
+  ],
+  "places": [
+   "Mount Carmel"
+  ],
+  "events": [
+   "contest on Mount Carmel"
+  ],
+  "things": [],
+  "themes": [
+   "idolatry",
+   "faith",
+   "obedience",
+   "prophecy"
+  ],
+  "groups": [
+   "Israel",
+   "prophets of Baal"
+  ]
+ },
+ "keywords": [
+  "how long halt ye between two opinions",
+  "hesitate between two opinions",
+  "if the LORD be God follow him",
+  "if Baal then follow him",
+  "Mount Carmel",
+  "Elijah and the people",
+  "I alone am left a prophet",
+  "450 prophets of Baal",
+  "1 Kings 18",
+  "choose God or Baal",
+  "Elijah challenge"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

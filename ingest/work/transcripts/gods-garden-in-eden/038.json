@@ -1,0 +1,127 @@
+{
+ "id": "gods-garden-in-eden/38",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 1:9-13 — Day 3: dry land, seas, vegetation and fruit trees",
+ "summary": "Genesis 1:9-13 (Day 3) in English with its Hebrew reference: God gathers the waters, calls the dry land earth and the waters seas, and the earth sprouts vegetation and fruit trees. 'trees' is enlarged and 'fruit after their kind with seed in them' is underlined; the two 'good' statements carry superscripts 2 and 3, 'evening' is enlarged and 'morning' is highlighted in yellow.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:9-13",
+   "osis": [
+    "Gen.1.9",
+    "Gen.1.10",
+    "Gen.1.11",
+    "Gen.1.12",
+    "Gen.1.13"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Day 3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:ט-יג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.9",
+   "text": "9 And God said, “Let the waters below the heavens be gathered into one place, and let the dry land appear”; and it was so."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.10",
+   "text": "10 God called the dry land earth, and the gathering of the waters He called seas; and God saw that it was good²."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.11",
+   "text": "11 And God said, “Let the earth sprout vegetation, plants yielding seed, and fruit trees on the earth bearing fruit after their kind with seed in them”; and it was so."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.12",
+   "text": "12 The earth brought forth vegetation, plants yielding seed after their kind, and trees bearing fruit with seed in them, after their kind; and God saw that it was good³."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.13",
+   "text": "13 There was evening and there was morning, a third day."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:9-13 / בראשית א:ט-יג",
+   "osis": [
+    "Gen.1.9",
+    "Gen.1.10",
+    "Gen.1.11",
+    "Gen.1.12",
+    "Gen.1.13"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "Day 3 (a third day); the 'good' statements are marked with superscripts 2 and 3"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "dry land",
+   "seas",
+   "vegetation",
+   "fruit trees",
+   "seed"
+  ],
+  "themes": [
+   "creation",
+   "seed"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Day 3",
+  "third day",
+  "Genesis 1:9",
+  "Genesis 1",
+  "dry land appear",
+  "waters gathered",
+  "seas",
+  "vegetation",
+  "fruit trees",
+  "fruit after their kind",
+  "seed in them",
+  "God saw that it was good",
+  "evening and morning",
+  "creation week",
+  "earth sprout vegetation"
+ ],
+ "uncertain": [
+  "The meaning of the superscripts 2 and 3 after 'good' is not explained on this slide."
+ ],
+ "confidence": 0.95
+}

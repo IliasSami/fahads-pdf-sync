@@ -1,0 +1,95 @@
+{
+ "id": "red-heifer/81",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Numbers 19:20-22 — the unclean who won't purify is cut off; those who touch become unclean",
+ "summary": "Numbers 19:20-22 in English: an unclean man who does not purify himself is cut off from the assembly for defiling the LORD's sanctuary; the statute is perpetual; the one who sprinkles the water of purification washes his clothes, and whoever touches the water, or anything the unclean person touches, is unclean until evening. 'Unclean' and 'water' are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:20-22",
+   "osis": [
+    "Num.19.20",
+    "Num.19.21",
+    "Num.19.22"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:כ-כב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.20",
+   "text": "20 ‘But the man who is unclean and does not purify himself, that person shall be cut off from among the assembly, because he has defiled the sanctuary of the LORD. The water of purification has not been sprinkled on him; he is unclean."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.21",
+   "text": "21 It shall be a perpetual statute for them. He who sprinkles the water of purification shall wash his clothes; and he who touches the water of purification shall be unclean until evening."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.22",
+   "text": "22 Whatever the unclean person touches shall be unclean; and the person who touches it shall be unclean until evening.’ ”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19:20-22 / במדבר יט:כ-כב",
+   "osis": [
+    "Num.19.20",
+    "Num.19.21",
+    "Num.19.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "sanctuary",
+   "water of purification"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "judgment",
+   "Torah"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Numbers 19",
+  "cut off from the assembly",
+  "defiled the sanctuary of the LORD",
+  "perpetual statute",
+  "statute for ever",
+  "water of separation",
+  "sprinkles the water",
+  "touches the water unclean",
+  "unclean until evening",
+  "wash his clothes",
+  "whatever the unclean person touches",
+  "karet"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

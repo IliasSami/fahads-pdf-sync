@@ -1,0 +1,99 @@
+{
+ "id": "elijah-elisha/76",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 Kings 18:23-24 — Elijah's test: the God who answers by fire",
+ "summary": "The text of 1 Kings 18:23-24: Elijah proposes two oxen laid on wood with no fire put under them, then each side calls on its god, and the God who answers by fire is God; the people agree it is a good idea. The names LORD and God are coloured.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 18:23-24",
+   "osis": [
+    "1Kgs.18.23",
+    "1Kgs.18.24"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א יח:כג-כד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "23 “Now let them give us two oxen; and let them choose one ox for themselves and cut it up, and place it on the wood, but put no fire under it; and I will prepare the other ox and lay it on the wood, and I will not put a fire under it.",
+   "osis": "1Kgs.18.23"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "24 “Then you call on the name of your god, and I will call on the name of the LORD, and the God who answers by fire, He is God.” And all the people said, “That is a good idea.”",
+   "osis": "1Kgs.18.24"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 18:23-24 / מלכים א יח:כג-כד",
+   "osis": [
+    "1Kgs.18.23",
+    "1Kgs.18.24"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2,
+   "note": "two oxen, one for Baal's prophets and one for Elijah"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah",
+   "God"
+  ],
+  "places": [
+   "Mount Carmel"
+  ],
+  "events": [
+   "contest on Mount Carmel"
+  ],
+  "things": [
+   "ox",
+   "altar",
+   "wood",
+   "fire"
+  ],
+  "themes": [
+   "sacrifice",
+   "idolatry",
+   "faith",
+   "prophecy"
+  ],
+  "groups": [
+   "Israel",
+   "prophets of Baal"
+  ]
+ },
+ "keywords": [
+  "God who answers by fire",
+  "the God that answereth by fire let him be God",
+  "two oxen",
+  "no fire under it",
+  "call on the name of the LORD",
+  "Mount Carmel",
+  "Elijah and the prophets of Baal",
+  "contest on Carmel",
+  "1 Kings 18",
+  "it is well spoken",
+  "test of fire"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

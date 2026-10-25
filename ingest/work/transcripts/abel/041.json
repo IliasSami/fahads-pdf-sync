@@ -1,0 +1,107 @@
+{
+  "id": "abel/41",
+  "kinds": [
+    "verse",
+    "text"
+  ],
+  "title": "Genesis 29:32-35 — Leah conceives and bears Reuben, Simeon, Levi, Judah",
+  "summary": "Genesis 29:32-35 in English: Leah conceives and bears four sons in turn — Reuben, Simeon, Levi and Judah — with the words \"conceived\" (green), \"son\" (red) and the names colour-coded.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 29:32-35",
+      "osis": [
+        "Gen.29.32",
+        "Gen.29.33",
+        "Gen.29.34",
+        "Gen.29.35"
+      ]
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית כט:לב-לה"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "32 So Leah conceived and bore a son, and she called his name Reuben; for she said, “The LORD has surely looked on my affliction. Now therefore, my husband will love me.”",
+      "osis": "Gen.29.32"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "33 Then she conceived again and bore a son, and said, “Because the LORD has heard that I am unloved, He has therefore given me this son also.” And she called his name Simeon.",
+      "osis": "Gen.29.33"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "34 She conceived again and bore a son, and said, “Now this time my husband will become attached to me, because I have borne him three sons.” Therefore, his name was called Levi.",
+      "osis": "Gen.29.34"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "35 And she conceived again and bore a son, and said, “Now I will praise the LORD.” Therefore, she called his name Judah. Then she stopped bearing.",
+      "osis": "Gen.29.35"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 29:32-35 / בראשית כט:לב-לה",
+      "osis": [
+        "Gen.29.32",
+        "Gen.29.33",
+        "Gen.29.34",
+        "Gen.29.35"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Leah",
+      "Reuben",
+      "Simeon",
+      "Levi",
+      "Judah",
+      "Jacob",
+      "God"
+    ],
+    "places": [],
+    "events": [
+      "birth of Jacob's sons"
+    ],
+    "things": [],
+    "themes": [
+      "firstborn",
+      "marriage"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Genesis 29:32",
+    "Genesis 29:33",
+    "Genesis 29:34",
+    "Genesis 29:35",
+    "Leah",
+    "Reuben",
+    "Simeon",
+    "Levi",
+    "Judah",
+    "Leah conceived and bore a son",
+    "four sons of Leah",
+    "conceived again",
+    "she stopped bearing",
+    "praise the LORD"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

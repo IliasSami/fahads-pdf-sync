@@ -1,0 +1,163 @@
+{
+ "id": "red-heifer/48",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Golgotha, the Place of a Skull — Matthew 27:33, Mark 15:22, Luke 23:33, John 19:17",
+ "summary": "Four Gospel verses naming the place where Jesus was crucified: Golgotha, 'Place of a Skull' (Matthew 27:33, Mark 15:22), 'The Skull' where they crucified Him and the criminals (Luke 23:33), and John 19:17 where Jesus went out bearing His own cross. The letters of Golgotha and Skull are coloured one by one, and Him, Jesus and His are in red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Matthew 27:33",
+   "osis": "Matt.27.33"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ματθαίος 27:33"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.27.33",
+   "text": "33 And when they came to a place called Golgotha, which means Place of a Skull,"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Mark 15:22",
+   "osis": "Mark.15.22"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΜΑΡΚΟΝ 15:22"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Mark.15.22",
+   "text": "22 Then they brought Him to the place Golgotha, which is translated, Place of a Skull."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Luke 23:33",
+   "osis": "Luke.23.33"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΛΟΥΚΑΝ 23:33"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Luke.23.33",
+   "text": "33 When they came to the place called The Skull, there they crucified Him and the criminals…"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 19:17",
+   "osis": "John.19.17"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 19:17"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.19.17",
+   "text": "17 They took Jesus, therefore, and He went out, bearing His own cross, to the place called the Place of a Skull, which is called in Hebrew, Golgotha."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Matthew 27:33 / Ματθαίος 27:33",
+   "osis": [
+    "Matt.27.33"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Mark 15:22 / ΜΑΡΚΟΝ 15:22",
+   "osis": [
+    "Mark.15.22"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Luke 23:33 / ΛΟΥΚΑΝ 23:33",
+   "osis": [
+    "Luke.23.33"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "John 19:17 / Ἰωάνης 19:17",
+   "osis": [
+    "John.19.17"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "other",
+   "word": "Golgotha",
+   "translit": "Golgotha",
+   "gloss": "Place of a Skull",
+   "strongs": null,
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [
+   "Golgotha"
+  ],
+  "events": [
+   "Crucifixion"
+  ],
+  "things": [
+   "cross",
+   "skull"
+  ],
+  "themes": [
+   "sacrifice",
+   "typology",
+   "atonement"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Golgotha",
+  "Place of a Skull",
+  "Calvary",
+  "the Skull",
+  "crucified outside the camp",
+  "Matthew 27:33",
+  "Mark 15:22",
+  "Luke 23:33",
+  "John 19:17",
+  "bearing His own cross",
+  "crucifixion",
+  "red heifer outside the camp",
+  "Jesus crucified",
+  "gospel accounts of the crucifixion"
+ ],
+ "uncertain": [
+  "Each letter of 'Golgotha' and 'Skull' is coloured individually (yellow, green, red); the pattern is not explained on this slide."
+ ],
+ "confidence": 0.96
+}

@@ -1,0 +1,119 @@
+{
+  "id": "abel/169",
+  "kinds": [
+    "verse"
+  ],
+  "title": "Genesis 4:12 and Mark 12:7-9 — the vinedressers kill the heir",
+  "summary": "Genesis 4:12 (the ground no longer yields; a fugitive and a vagabond) shown above Mark 12:7-9, where the vinedressers say 'Come, let us kill him', kill the heir and cast him out of the vineyard, and the owner will destroy them and give the vineyard to others.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:12",
+      "osis": "Gen.4.12"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:יב"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Gen.4.12",
+      "text": "12 When you till the ground, it shall no longer yield its strength to you. A fugitive and a vagabond you shall be on the earth.”"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Mark 12:7-9",
+      "osis": [
+        "Mark.12.7",
+        "Mark.12.8",
+        "Mark.12.9"
+      ]
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "ΜΑΡΚΟΝ 12:7-9"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Mark.12.7",
+      "text": "7 But those vinedressers said among themselves, ‘This is the heir. Come, let us kill him, and the inheritance will be ours.’"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Mark.12.8",
+      "text": "8 So they took him and killed him and cast him out of the vineyard."
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Mark.12.9",
+      "text": "9 “Therefore what will the owner of the vineyard do? He will come and destroy the vinedressers and give the vineyard to others."
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:12 / בראשית ד:יב",
+      "osis": [
+        "Gen.4.12"
+      ],
+      "role": "quoted"
+    },
+    {
+      "shown": "Mark 12:7-9 / ΜΑΡΚΟΝ 12:7-9",
+      "osis": [
+        "Mark.12.7",
+        "Mark.12.8",
+        "Mark.12.9"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Cain"
+    ],
+    "places": [],
+    "events": [
+      "Parable of the vinedressers"
+    ],
+    "things": [
+      "vineyard"
+    ],
+    "themes": [
+      "judgment",
+      "inheritance"
+    ],
+    "groups": [
+      "vinedressers"
+    ]
+  },
+  "keywords": [
+    "Genesis 4:12",
+    "Mark 12:7-9",
+    "parable of the vineyard",
+    "parable of the wicked tenants",
+    "vinedressers",
+    "husbandmen",
+    "this is the heir",
+    "let us kill him",
+    "inheritance",
+    "cast out of the vineyard",
+    "owner of the vineyard",
+    "Mark 12",
+    "Cain and Abel"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

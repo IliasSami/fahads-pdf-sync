@@ -1,0 +1,143 @@
+{
+ "id": "noah-part-1/16",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Leviticus: sabbath year and the fiftieth-year Jubilee",
+ "summary": "Selected verses about the sabbath year and the Jubilee: six years of sowing and a seventh-year sabbath rest, seven sabbaths of years making forty-nine years, then the fiftieth year consecrated as a jubilee with release and return to property and family. 'Jubilee', 'fiftieth year' and 'jubilee' are highlighted in gold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Leviticus 24:3 - 10"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Jubilee"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ויקרא כד:ג - י"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.25.3",
+   "text": "3 ‘Six years you shall sow your field,…"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.25.4",
+   "text": "4 but during the seventh year the land shall have a sabbath rest, a sabbath to the LORD; you shall not sow your field nor prune your vineyard."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.25.8",
+   "text": "8 ‘You are also to count off seven sabbaths of years for yourself, seven times seven years, so that you have the time of the seven sabbaths of years, namely, forty-nine years."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.25.10",
+   "text": "10 ‘You shall thus consecrate the fiftieth year and proclaim a release through the land to all its inhabitants. It shall be a jubilee for you, and each of you shall return to his own property, and each of you shall return to his family."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Leviticus 24:3 - 10 / ויקרא כד:ג - י",
+   "osis": [
+    "Lev.25.3",
+    "Lev.25.4",
+    "Lev.25.8",
+    "Lev.25.10"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Leviticus 24:3 - 10 / ויקרא כד:ג - י",
+   "osis": [
+    "Lev.25.5",
+    "Lev.25.6",
+    "Lev.25.7",
+    "Lev.25.9"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "en",
+   "word": "jubilee",
+   "translit": "yovel",
+   "gloss": "jubilee, ram's-horn trumpet blast",
+   "strongs": "H3104"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 6,
+   "note": "years of sowing the field"
+  },
+  {
+   "value": 7,
+   "note": "seventh year is a sabbath rest; seven sabbaths of years"
+  },
+  {
+   "value": 49,
+   "note": "seven times seven years"
+  },
+  {
+   "value": 50,
+   "note": "the fiftieth year, the jubilee"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [
+   "Israel"
+  ],
+  "events": [],
+  "things": [
+   "vineyard"
+  ],
+  "themes": [
+   "holiness",
+   "redemption",
+   "covenant",
+   "biblical feasts",
+   "Torah"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Jubilee",
+  "year of jubilee",
+  "fiftieth year",
+  "50th year",
+  "sabbath year",
+  "sabbatical year",
+  "seven sabbaths of years",
+  "forty-nine years",
+  "seven times seven",
+  "proclaim release",
+  "return to his property",
+  "Leviticus 25",
+  "Leviticus 24",
+  "land rest"
+ ],
+ "uncertain": [
+  "The slide heading says Leviticus 24:3 - 10 (ויקרא כד:ג - י), but the quoted text matches Leviticus 25:3, 4, 8 and 10; verse numbers on the slide are 3, 4, 8 and 10, and verses 5-7 and 9 are skipped."
+ ],
+ "confidence": 0.95
+}

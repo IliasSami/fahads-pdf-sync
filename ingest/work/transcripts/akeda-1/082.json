@@ -1,0 +1,30 @@
+{
+  "id": "akeda-1/82",
+  "kinds": ["comparison", "list"],
+  "title": "Abraham, Isaac and Jacob compared: leaving Israel and number of wives",
+  "summary": "Three colour-coded columns continue the comparison of the patriarchs. Abraham leaves Israel and has extra wives (Sarah, Keturah); Isaac stays home and has one wife (Rebekah); Jacob leaves Israel and has extra wives (Leah, Rachel).",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Abraham"},
+    {"lang": "en", "role": "heading", "text": "Isaac"},
+    {"lang": "en", "role": "heading", "text": "Jacob"},
+    {"lang": "en", "role": "body", "text": "Leaves Israel"},
+    {"lang": "en", "role": "body", "text": "Stays Home"},
+    {"lang": "en", "role": "body", "text": "Leaves Israel"},
+    {"lang": "en", "role": "body", "text": "Extra Wives"},
+    {"lang": "en", "role": "body", "text": "One Wife"},
+    {"lang": "en", "role": "body", "text": "Extra Wives"},
+    {"lang": "en", "role": "label", "text": "Sarah Keturah"},
+    {"lang": "en", "role": "label", "text": "Rebekah"},
+    {"lang": "en", "role": "label", "text": "Leah Rachel"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac", "Jacob", "Sarah", "Keturah", "Rebekah", "Leah", "Rachel"], "places": ["Israel"], "events": [], "things": [], "themes": ["patriarchs", "marriage"], "groups": []},
+  "keywords": ["Abraham Isaac Jacob comparison", "patriarchs", "wives of the patriarchs", "Sarah", "Keturah", "Rebekah", "Rachel", "Leah", "Isaac one wife", "extra wives", "stays home", "leaves Israel", "Akedah", "Akeda"],
+  "uncertain": [],
+  "confidence": 0.97
+}

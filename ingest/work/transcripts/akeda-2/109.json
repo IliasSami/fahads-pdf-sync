@@ -1,0 +1,124 @@
+{
+ "id": "akeda-2/109",
+ "kinds": [
+  "verse",
+  "text"
+ ],
+ "title": "John the Baptist most types the Holy Spirit in the New Testament — Matthew 3:4",
+ "summary": "Heading says John the Baptist most types the Holy Spirit in the New Testament (ברית חדשה), followed by Matthew 3:4 describing Yochanon/John's camel's-hair garment, leather belt and diet of locusts and wild honey. \"New\" and \"Testament\" are colour-matched to the Hebrew words.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "John the Baptist most types the Holy Spirit in the"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "New Testament"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ברית חדשה"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Matthew 3:4",
+   "osis": "Matt.3.4"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Μαθθαῖον 3:4"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.3.4",
+   "text": "4 Now Yochanon / John himself had a garment of camel’s hair and a leather belt around his waist; and his food was locusts and wild honey."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Matthew 3:4 / Μαθθαῖον 3:4",
+   "osis": [
+    "Matt.3.4"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ברית חדשה",
+   "translit": "brit chadashah",
+   "gloss": "New Testament / new covenant",
+   "strongs": "H1285"
+  },
+  {
+   "lang": "he",
+   "word": "חדשה",
+   "translit": "chadashah",
+   "gloss": "new",
+   "strongs": "H2319"
+  },
+  {
+   "lang": "he",
+   "word": "ברית",
+   "translit": "brit",
+   "gloss": "covenant / testament",
+   "strongs": "H1285"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "New",
+   "other": "חדשה"
+  },
+  {
+   "en": "Testament",
+   "other": "ברית"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "John the Baptist",
+   "Holy Spirit"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "camel hair garment",
+   "leather belt",
+   "locusts",
+   "wild honey"
+  ],
+  "themes": [
+   "typology",
+   "holy spirit",
+   "covenant"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Matthew 3:4",
+  "John the Baptist",
+  "Yochanon",
+  "camel's hair",
+  "leather girdle",
+  "locusts and wild honey",
+  "types the Holy Spirit",
+  "Holy Spirit typology",
+  "New Testament",
+  "brit chadashah",
+  "new covenant",
+  "Elijah garment"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

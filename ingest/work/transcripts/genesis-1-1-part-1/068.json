@@ -1,0 +1,316 @@
+{
+ "id": "genesis-1-1-part-1/68",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Image (tsal, spiritual) and likeness (dam, physical), with the letters י ה ו ה",
+ "summary": "Same as the previous slide — Genesis 1:26 with betsalmenu (tsal, Shadow, Spiritual) and kidmutenu (dam, Blood, Physical), and 'the heavens ואת the earth' at the bottom — with four Hebrew letters stacked down the middle between the two columns: י ה ו ה, which spell YHVH.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:26",
+   "osis": "Gen.1.26"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:כו",
+   "osis": "Gen.1.26"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "Then God said, \"Let Us make man in Our image according to Our likeness",
+   "osis": "Gen.1.26"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "betsalmenu,"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kidmutenu"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בצלמנו"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כדמותנו"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tsal"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "dam"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Shadow"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ו"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Blood"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Spiritual"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Physical"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "the heavens"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ואת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "the earth"
+  },
+  {
+   "lang": "he",
+   "role": "body",
+   "text": "השמים ואת הארץ"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:26 / בראשית א:כו",
+   "osis": [
+    "Gen.1.26"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "השמים ואת הארץ",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בצלמנו",
+   "translit": "betsalmenu",
+   "gloss": "in our image",
+   "strongs": "H6754",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "כדמותנו",
+   "translit": "kidmutenu",
+   "gloss": "according to our likeness",
+   "strongs": "H1823",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "צל",
+   "translit": "tsal",
+   "gloss": "shadow (spiritual)",
+   "strongs": "H6738",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "דם",
+   "translit": "dam",
+   "gloss": "blood (physical)",
+   "strongs": "H1818",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHVH",
+   "gloss": "the Name of God (four letters stacked in the centre)",
+   "strongs": "H3068",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve'et",
+   "gloss": "and (et)",
+   "strongs": "H853",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "image",
+   "other": "צל"
+  },
+  {
+   "en": "tsal",
+   "other": "צל"
+  },
+  {
+   "en": "Shadow",
+   "other": "צל"
+  },
+  {
+   "en": "Spiritual",
+   "other": "צל"
+  },
+  {
+   "en": "likeness",
+   "other": "דם"
+  },
+  {
+   "en": "dam",
+   "other": "דם"
+  },
+  {
+   "en": "Blood",
+   "other": "דם"
+  },
+  {
+   "en": "Physical",
+   "other": "דם"
+  },
+  {
+   "en": "heavens",
+   "other": "שמים"
+  },
+  {
+   "en": "earth",
+   "other": "ארץ"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "first of the four stacked letters in the centre (value not shown on slide)"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "second of the four stacked letters"
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "third of the four stacked letters"
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "fourth of the four stacked letters"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "image of God",
+   "blood",
+   "names of God",
+   "spiritual and physical"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:26",
+  "image and likeness",
+  "tselem",
+  "tsal",
+  "shadow",
+  "dam",
+  "blood",
+  "spiritual",
+  "physical",
+  "YHVH",
+  "Yahweh",
+  "yod he vav he",
+  "tetragrammaton",
+  "the Name",
+  "image of God",
+  "Let Us make man"
+ ],
+ "uncertain": [
+  "The four stacked letters in the middle are not labelled on the slide; they are read here as yod, he, vav, he (YHVH). Letter values are not shown on the slide."
+ ],
+ "confidence": 0.9
+}

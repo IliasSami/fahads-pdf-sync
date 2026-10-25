@@ -1,0 +1,135 @@
+{
+ "id": "gods-garden-in-eden/82",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Deuteronomy 6:4 — LORD, God, LORD each marked 1",
+ "summary": "The Shema in Hebrew with its three divine names colour-coded — יהוה (gold), אלהינו (red), יהוה (blue) — each with a '1' beneath it, above the English 'Hear, O Israel: The LORD our God, the LORD is ONE.' with the matching colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Deuteronomy 6:4",
+   "osis": "Deut.6.4"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "דברים ו:ד"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "שמע ישראל יהוה אלהינו יהוה ׀ אחד׃",
+   "osis": "Deut.6.4"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1 1 1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "Hear, O Israel: The LORD our God, the LORD is ONE.",
+   "osis": "Deut.6.4"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Deuteronomy 6:4 / דברים ו:ד",
+   "osis": [
+    "Deut.6.4"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the LORD",
+   "strongs": "H3068"
+  },
+  {
+   "lang": "he",
+   "word": "אלהינו",
+   "translit": "Eloheinu",
+   "gloss": "our God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "אחד",
+   "translit": "echad",
+   "gloss": "one",
+   "strongs": "H259"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "LORD (first, gold)",
+   "other": "יהוה (gold)"
+  },
+  {
+   "en": "God",
+   "other": "אלהינו"
+  },
+  {
+   "en": "LORD (second, blue)",
+   "other": "יהוה (blue)"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "the first LORD (gold), counted as one"
+  },
+  {
+   "value": 1,
+   "note": "God (red), counted as one"
+  },
+  {
+   "value": 1,
+   "note": "the second LORD (blue), counted as one"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "names of God",
+   "unity",
+   "Torah"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Deuteronomy 6:4",
+  "Shema",
+  "Hear O Israel",
+  "the LORD our God the LORD is one",
+  "1 1 1",
+  "three ones",
+  "Trinity",
+  "Godhead",
+  "echad",
+  "oneness of God",
+  "names of God",
+  "Deuteronomy 6"
+ ],
+ "uncertain": [
+  "The colours in the Hebrew line run right to left (blue, red, gold), while the English reads left to right (gold, red, blue), so the gold LORD in English matches the left-most (second) יהוה in Hebrew."
+ ],
+ "confidence": 0.93
+}

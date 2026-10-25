@@ -1,0 +1,38 @@
+{
+  "id": "akeda-1/90",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 22:7-8 in English and Hebrew — “God will provide Himself the lamb”",
+  "summary": "Genesis 22:7-8 in English, with verse 8 also in Hebrew. Matching colours link the English and Hebrew: Abraham (אברהם) in blue, God (אלהים) in blue, red and gold, lamb (שה) in grey, and 'my son' (בני) with 'son' in red and 'my' in blue.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22:7-8", "osis": ["Gen.22.7", "Gen.22.8"]},
+    {"lang": "he", "role": "reference", "text": "בראשית כב:ז-ח", "osis": ["Gen.22.7", "Gen.22.8"]},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.7", "text": "7 Isaac spoke to Abraham his father and said, “My father!” And he said, “Here I am, my son.” And he said, “Behold, the fire and the wood, but where is the lamb for the burnt offering?”"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.8", "text": "8 And Abraham said, “God will provide Himself the lamb for the burnt offering, my son.” So the two of them walked on together."},
+    {"lang": "he", "role": "verse", "osis": "Gen.22.8", "text": "8 ויאמר אברהם אלהים יראה־לו השה לעלה בני וילכו שניהם יחדו׃"}
+  ],
+  "refs": [
+    {"shown": "Genesis 22:7-8 / בראשית כב:ז-ח", "osis": ["Gen.22.7", "Gen.22.8"], "role": "quoted"}
+  ],
+  "words": [
+    {"lang": "he", "word": "אברהם", "translit": "Avraham", "gloss": "Abraham", "strongs": "H85"},
+    {"lang": "he", "word": "אלהים", "translit": "Elohim", "gloss": "God", "strongs": "H430"},
+    {"lang": "he", "word": "יראה־לו", "translit": "yireh-lo", "gloss": "will provide (see) for Himself", "strongs": "H7200"},
+    {"lang": "he", "word": "השה", "translit": "ha-seh", "gloss": "the lamb", "strongs": "H7716"},
+    {"lang": "he", "word": "בני", "translit": "beni", "gloss": "my son", "strongs": "H1121"}
+  ],
+  "color_links": [
+    {"en": "And", "other": "ו"},
+    {"en": "Abraham", "other": "אברהם"},
+    {"en": "God", "other": "אלהים"},
+    {"en": "lamb", "other": "שה"},
+    {"en": "son", "other": "בנ"},
+    {"en": "my", "other": "י"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac", "God"], "places": [], "events": ["Binding of Isaac (Akedah)"], "things": ["lamb", "wood", "fire", "burnt offering"], "themes": ["sacrifice", "substitution", "faith", "typology", "father and son"], "groups": []},
+  "keywords": ["Akedah", "binding of Isaac", "Genesis 22:7", "Genesis 22:8", "where is the lamb", "God will provide himself a lamb", "Jehovah Jireh", "Yireh", "seh", "lamb", "Elohim", "my son", "beni", "Hebrew text", "Lamb of God"],
+  "uncertain": [],
+  "confidence": 0.94
+}

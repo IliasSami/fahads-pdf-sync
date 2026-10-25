@@ -1,0 +1,161 @@
+{
+  "id": "abel/106",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:12 — earth (aretz, ארץ) linked to Genesis 1:1",
+  "summary": "Genesis 4:12 with the word earth (aretz, ארץ) highlighted, now linked to Genesis 1:1 in Hebrew and transliteration (bereshit bara elohim et hashamayim v’et ha’aretz), where the same word ha’aretz (“the earth”) is colour-coded.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:12",
+      "osis": "Gen.4.12"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:יב"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Gen.4.12",
+      "text": "12 When you till the ground, it shall no longer yield its strength to you. A fugitive and a vagabond you shall be on the earth.”"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "osis": "Gen.4.12",
+      "text": "12 כי תעבד את האדמה לא תסף תת כחה לך נע ונד תהיה בארץ׃"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "aretz"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "ארץ"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Earth"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "osis": "Gen.1.1",
+      "text": "1 בראשית ברא אלהים ית השמים ואת הארץ"
+    },
+    {
+      "lang": "translit",
+      "role": "verse",
+      "osis": "Gen.1.1",
+      "text": "1 bereshit bara elohim et hashamayim v’et ha’aretz"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:12 / בראשית ד:יב",
+      "osis": [
+        "Gen.4.12"
+      ],
+      "role": "quoted"
+    },
+    {
+      "shown": "Genesis 1:1 (Hebrew and transliteration)",
+      "osis": [
+        "Gen.1.1"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "ארץ",
+      "translit": "aretz",
+      "gloss": "earth, land",
+      "strongs": "H776"
+    },
+    {
+      "lang": "he",
+      "word": "הארץ",
+      "translit": "ha’aretz",
+      "gloss": "the earth",
+      "strongs": "H776"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "earth",
+      "other": "ארץ"
+    },
+    {
+      "en": "Earth",
+      "other": "ארץ"
+    },
+    {
+      "en": "a (aretz)",
+      "other": "א"
+    },
+    {
+      "en": "re (aretz)",
+      "other": "ר"
+    },
+    {
+      "en": "tz (aretz)",
+      "other": "ץ"
+    },
+    {
+      "en": "are (ha’aretz)",
+      "other": "אר"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "God",
+      "Cain"
+    ],
+    "places": [],
+    "events": [
+      "Cain's punishment",
+      "Creation"
+    ],
+    "things": [
+      "ground",
+      "earth"
+    ],
+    "themes": [
+      "curse",
+      "judgment",
+      "exile",
+      "Hebrew word connections"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "earth",
+    "aretz",
+    "ha'aretz",
+    "eretz",
+    "In the beginning",
+    "bereshit bara elohim",
+    "Genesis 1:1",
+    "heaven and earth",
+    "fugitive and vagabond",
+    "Hebrew word study",
+    "Genesis 4:12"
+  ],
+  "uncertain": [
+    "The Genesis 1:1 Hebrew line on the slide reads ית where the Hebrew text has את (et); transcribed as shown."
+  ],
+  "confidence": 0.93
+}

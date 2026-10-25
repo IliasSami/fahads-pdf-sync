@@ -1,0 +1,145 @@
+{
+ "id": "genesis-1-1-part-2/67",
+ "kinds": [
+  "letters"
+ ],
+ "title": "\"From the mouth of el\": alef-lamed-pe with a red bet, and the final-pe form",
+ "summary": "Under the heading \"From the mouth of el\" (mouth in purple, el in blue and brown) two rows of large letters: alef, lamed and regular pe with a red bet inside the pe, and below it alef, lamed and the final pe (ף).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "From the mouth of el"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל פ"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל ף"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אל",
+   "translit": "el",
+   "gloss": "God, mighty one",
+   "strongs": "H410"
+  },
+  {
+   "lang": "he",
+   "word": "אלף",
+   "translit": "alef",
+   "gloss": "alef (name of the first letter)",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "mouth",
+   "other": "פ"
+  },
+  {
+   "en": "el",
+   "other": "אל"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "strong"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": "shepherd"
+  },
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": 80,
+   "meaning": "mouth"
+  },
+  {
+   "lang": "he",
+   "letter": "pe (final)",
+   "char": "ף",
+   "value": 80,
+   "meaning": "mouth (final form)"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "house (red letter inside the pe)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "illustration",
+   "description": "Two rows of large coloured Hebrew letters: the top row alef (blue), lamed (brown) and a purple pe with a small red bet inside it; the bottom row alef, lamed and a long final pe (ף).",
+   "subjects": [
+    "Hebrew letters",
+    "bet inside pe",
+    "final pe",
+    "alef lamed pe"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.58,
+    0.2,
+    0.96,
+    0.96
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "from the mouth of El",
+  "alef",
+  "aleph",
+  "אלף",
+  "alef lamed pe",
+  "final pe",
+  "bet inside pe",
+  "red bet",
+  "mouth",
+  "el",
+  "Hebrew letters"
+ ],
+ "uncertain": [
+  "The small red letter inside the pe is read as ב (bet), matching the red first letter of בראשית on the next slide."
+ ],
+ "confidence": 0.9
+}

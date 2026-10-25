@@ -1,0 +1,134 @@
+{
+ "id": "red-heifer/14",
+ "kinds": [
+  "word-study",
+  "text"
+ ],
+ "title": "Taharah (טהרה) — purity, and tahor (טהור)",
+ "summary": "Word study of taharah (Hebrew טהרה, purity): a state of ritual purity that qualifies the tahor (טהור) to be used for kedusha (holiness), most commonly achieved by immersion in a mikveh.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "taharah"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "טהרה"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Purity"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "taharah describes a state of ritual purity that qualifies the"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tahor"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "טהור"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "to be used for kedusha."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The most common method of achieving taharah is by a person or object being immersed in a mikveh."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "טהרה",
+   "translit": "taharah",
+   "gloss": "purity",
+   "strongs": "H2893",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "טהור",
+   "translit": "tahor",
+   "gloss": "pure, ritually clean",
+   "strongs": "H2889",
+   "gematria": null
+  },
+  {
+   "lang": "other",
+   "word": "kedusha",
+   "translit": "kedusha",
+   "gloss": "holiness, being set apart",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "other",
+   "word": "mikveh",
+   "translit": "mikveh",
+   "gloss": "ritual immersion pool",
+   "strongs": null,
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Purity",
+   "other": "טהרה"
+  },
+  {
+   "en": "ritual purity",
+   "other": "טהרה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "mikveh"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "holiness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "taharah",
+  "tahara",
+  "tahor",
+  "purity",
+  "ritual purity",
+  "ritually clean",
+  "kedusha",
+  "kedushah",
+  "holiness",
+  "mikveh",
+  "mikvah",
+  "immersion",
+  "baptism by immersion",
+  "Hebrew word for purity",
+  "טהרה"
+ ],
+ "uncertain": [
+  "Strong's number for taharah (H2893) is from memory; kg lex did not list it."
+ ],
+ "confidence": 0.95
+}

@@ -1,0 +1,124 @@
+{
+ "id": "genesis-1-1-part-2/91",
+ "kinds": [
+  "gematria",
+  "diagram"
+ ],
+ "title": "Genesis 1:1 = 2701, a triangle number with 73 rows",
+ "summary": "A blue triangle of tiny dots for the Hebrew gematria total of Genesis 1:1 (2701), with the note that 2701 is a triangle number: 73 rows, with 73 dots in the bottom row.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "2701"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "2701 is a Triangle Number"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "No. of Rows = 73"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Bottom Row = 73"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning (Hebrew name of Genesis)",
+   "strongs": "H7225"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 2701,
+   "note": "gematria total of Genesis 1:1; a triangle number"
+  },
+  {
+   "value": 73,
+   "note": "number of rows in the 2701-dot triangle, and the number of dots in its bottom row"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A large pale-blue triangle made of thousands of tiny dots, narrow at the top and 73 dots wide along the bottom, illustrating 2701 as a triangle number.",
+   "subjects": [
+    "dot triangle",
+    "blue triangle",
+    "triangle number",
+    "number pattern",
+    "2701",
+    "gematria diagram"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.16,
+    0.12,
+    0.55,
+    0.82
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "numbers in Scripture",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "2701",
+  "triangle number",
+  "73 rows",
+  "bottom row 73",
+  "gematria",
+  "Genesis 1:1 gematria",
+  "dot triangle",
+  "blue triangle",
+  "number pattern",
+  "In the beginning",
+  "bereshit"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

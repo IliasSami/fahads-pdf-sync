@@ -1,0 +1,104 @@
+{
+ "id": "noah-part-1/60",
+ "kinds": [
+  "chart",
+  "comparison"
+ ],
+ "title": "Noah's ark compared in length with Santa Maria, Titanic and Queen Mary II",
+ "summary": "A scale from 100 to 1200 ft. with the names Santa Maria, Noah's Ark, Titanic and Queen Mary II laid out beneath it, each name stretched to a different length so the ships can be compared in size against the scale.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "100 200 300 400 500 600 700 800 900 1000 1100 1200"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "ft."
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Santa Maria"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "NOAH’S ARK"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "T I T A N I C"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "QUEEN MARY II"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "chart",
+   "description": "A horizontal length scale in feet from 100 to 1200 with tick marks along the top. Beneath it the ship names are written in increasing length: Santa Maria (red and yellow), NOAH'S ARK (N and O green, A and R red, rest black), TITANIC (grey) and QUEEN MARY II (black), the widest.",
+   "subjects": [
+    "ship size comparison",
+    "scale in feet",
+    "Noah's ark",
+    "Titanic",
+    "Queen Mary II",
+    "Santa Maria",
+    "ships"
+   ],
+   "text_in_picture": "100 200 300 400 500 600 700 800 900 1000 1100 1200 ft. Santa Maria NOAH'S ARK TITANIC QUEEN MARY II",
+   "credit": null,
+   "box": [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "Titanic",
+   "Queen Mary II",
+   "Santa Maria",
+   "ship"
+  ],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "size of Noah's ark",
+  "ark compared to Titanic",
+  "Titanic",
+  "Queen Mary II",
+  "Santa Maria",
+  "ship comparison",
+  "length in feet",
+  "how big was Noah's ark",
+  "ark dimensions",
+  "scale chart",
+  "ocean liner"
+ ],
+ "uncertain": [
+  "Ship lengths are not stated as numbers; the name labels' widths against the scale are the only indication of size."
+ ],
+ "confidence": 0.93
+}

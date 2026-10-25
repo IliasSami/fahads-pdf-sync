@@ -1,0 +1,76 @@
+{
+ "id": "genesis-1-1-part-2/82",
+ "kinds": [
+  "list"
+ ],
+ "title": "The first 6 perfect numbers: 6, 28, 496, 8128, 33550336, 8589869056",
+ "summary": "A plain slide listing the first six perfect numbers: 6, 28, 496, 8128, 33550336 and 8589869056.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The 1st 6 Perfect Numbers."
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "6, 28, 496, 8128, 33550336, 8589869056"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 6,
+   "note": "1st perfect number"
+  },
+  {
+   "value": 28,
+   "note": "2nd perfect number"
+  },
+  {
+   "value": 496,
+   "note": "3rd perfect number"
+  },
+  {
+   "value": 8128,
+   "note": "4th perfect number"
+  },
+  {
+   "value": 33550336,
+   "note": "5th perfect number"
+  },
+  {
+   "value": 8589869056,
+   "note": "6th perfect number"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "perfect number",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "perfect numbers",
+  "first six perfect numbers",
+  "6 28 496 8128",
+  "33550336",
+  "8589869056",
+  "496",
+  "8128",
+  "mathematics",
+  "list of perfect numbers",
+  "number patterns"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

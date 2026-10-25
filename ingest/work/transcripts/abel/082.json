@@ -1,0 +1,35 @@
+{
+  "id": "abel/82",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:8 — What did Cain say to Abel? (amar, אמר)",
+  "summary": "Genesis 4:8 in English and Hebrew, with the word study amar (אמר, “say”) and the question “What did Cain say to Abel?” added at the bottom, with Cain in green, say in olive and Abel in blue.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:8", "osis": "Gen.4.8"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ח"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.8", "text": "8 And Cain said to Abel his brother; and it came to pass, when they were in the field, that Cain rose up against Abel his brother and killed him."},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.8", "text": "8 ויאמר קין אל הבל אחיו ויהי בהיותם בשדה ויקם קין אל הבל אחיו ויהרגהו׃"},
+    {"lang": "translit", "role": "label", "text": "amar"},
+    {"lang": "he", "role": "label", "text": "אמר"},
+    {"lang": "en", "role": "label", "text": "Say"},
+    {"lang": "en", "role": "heading", "text": "What did Cain say to Abel?"}
+  ],
+  "refs": [{"shown": "Genesis 4:8 / בראשית ד:ח", "osis": ["Gen.4.8"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "אמר", "translit": "amar", "gloss": "say", "strongs": "H559"}
+  ],
+  "color_links": [
+    {"en": "Cain", "other": "קין"},
+    {"en": "Abel", "other": "הבל"},
+    {"en": "said", "other": "אמר"},
+    {"en": "amar", "other": "אמר"},
+    {"en": "Say", "other": "אמר"},
+    {"en": "say", "other": "אמר"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Cain", "Abel"], "places": [], "events": ["Murder of Abel"], "things": ["field"], "themes": ["death", "sin"], "groups": []},
+  "keywords": ["what did Cain say to Abel", "Cain said to Abel", "Cain talked with Abel", "Cain killed Abel", "Cain slew Abel", "amar", "say", "said", "in the field", "murder of Abel", "Genesis 4", "Genesis 4:8"],
+  "uncertain": [],
+  "confidence": 0.96
+}

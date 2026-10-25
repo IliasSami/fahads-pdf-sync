@@ -1,0 +1,136 @@
+{
+ "id": "red-heifer/12",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Isaiah 52:11 and 2 Corinthians 6:17 — touch no unclean thing",
+ "summary": "Isaiah 52:11 in English and Hebrew (depart, go out, touch no unclean thing, be clean, you who bear the vessels of the LORD) alongside 2 Corinthians 6:17 (come out from among them and be separate, touch no unclean thing). The word unclean is coloured to match Hebrew טמא, and LORD matches יהוה.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Isaiah 52:11",
+   "osis": "Isa.52.11"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ישעה נב:יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Isa.52.11",
+   "text": "11 Depart! Depart! Go out from there, Touch no unclean thing; Go out from the midst of her, Be clean, You who bear the vessels of the LORD."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Isa.52.11",
+   "text": "11 סורו סורו צאו משם טמא אל תגעו צאו מתוכה הברו נשאי כלי יהוה"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "2 Corinthians 6:17",
+   "osis": "2Cor.6.17"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΚΟΡΙΝΘΙΟΥΣ Β 6:17"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "2Cor.6.17",
+   "text": "17 “Therefore come out from among them and be separate, says the Lord. Touch no unclean thing, and I will receive you.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Isaiah 52:11 / ישעה נב:יא",
+   "osis": [
+    "Isa.52.11"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "2 Corinthians 6:17 / ΚΟΡΙΝΘΙΟΥΣ Β 6:17",
+   "osis": [
+    "2Cor.6.17"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "טמא",
+   "translit": "tamei",
+   "gloss": "unclean",
+   "strongs": "H2931"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the LORD",
+   "strongs": "H3068"
+  },
+  {
+   "lang": "he",
+   "word": "סורו",
+   "translit": "suru",
+   "gloss": "depart",
+   "strongs": "H5493"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "unclean",
+   "other": "טמא"
+  },
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "vessels of the LORD"
+  ],
+  "themes": [
+   "clean and unclean",
+   "separation",
+   "purification",
+   "holiness",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Isaiah 52:11",
+  "2 Corinthians 6:17",
+  "touch no unclean thing",
+  "depart depart go out from there",
+  "come out from among them",
+  "be separate",
+  "be clean",
+  "bear the vessels of the LORD",
+  "unclean",
+  "tamei",
+  "separation",
+  "Isaiah 52"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

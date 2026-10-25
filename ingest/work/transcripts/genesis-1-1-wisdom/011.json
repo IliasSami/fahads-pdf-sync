@@ -1,0 +1,106 @@
+{
+  "id": "genesis-1-1-wisdom/11",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Psalm 49:3 — “speak”: dabar (דבר)",
+  "summary": "Psalm 49:3 with “speak” and the root letters of ידבר colour-coded, explained by the word dabar (דבר), To Speak.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Psalm 49:3",
+      "osis": "Ps.49.3"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "תהילים מט:ג"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Ps.49.3",
+      "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "osis": "Ps.49.3",
+      "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "dabar"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "דבר"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "To Speak"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Psalm 49:3 / תהילים מט:ג",
+      "osis": [
+        "Ps.49.3"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "דבר",
+      "translit": "dabar",
+      "gloss": "to speak",
+      "strongs": "H1696"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "speak",
+      "other": "דבר"
+    },
+    {
+      "en": "dabar",
+      "other": "דבר"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [],
+    "places": [],
+    "events": [],
+    "things": [
+      "mouth"
+    ],
+    "themes": [
+      "wisdom",
+      "speech"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "dabar",
+    "davar",
+    "to speak",
+    "speak",
+    "word",
+    "Hebrew word for speak",
+    "Psalm 49",
+    "my mouth shall speak wisdom",
+    "speech"
+  ],
+  "uncertain": [],
+  "confidence": 0.94
+}

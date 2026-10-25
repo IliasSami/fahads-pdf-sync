@@ -1,0 +1,26 @@
+{
+  "id": "abel/2",
+  "kinds": ["verse"],
+  "title": "Genesis 4:1 — Eve gives birth to Cain",
+  "summary": "Genesis 4:1 in English and Hebrew: the man knew Eve his wife, she conceived and bore Cain, and said “I have obtained a man with the help of the LORD.” The name of the LORD (יהוה) is highlighted in colour.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:1", "osis": "Gen.4.1"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:א", "osis": "Gen.4.1"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.1", "text": "1 And the man had relations with Eve his wife, and she conceived and gave birth to Cain, and she said, “I have obtained a man with the help of the LORD.”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.1", "text": "1 והאדם ידע את חוה אשתו ותהר ותלד את קין ותאמר קניתי איש את יהוה׃"}
+  ],
+  "refs": [{"shown": "Genesis 4:1 / בראשית ד:א", "osis": ["Gen.4.1"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "יהוה", "translit": "YHVH", "gloss": "the LORD", "strongs": "H3068"}
+  ],
+  "color_links": [
+    {"en": "LORD", "other": "יהוה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Adam", "Eve", "Cain", "God"], "places": [], "events": ["birth of Cain"], "things": [], "themes": ["names of God"], "groups": []},
+  "keywords": ["Genesis 4:1", "Genesis 4", "Adam knew Eve", "Eve conceived", "birth of Cain", "I have gotten a man from the LORD", "Cain", "Eve", "YHVH", "LORD", "Hebrew text"],
+  "uncertain": [],
+  "confidence": 0.95
+}

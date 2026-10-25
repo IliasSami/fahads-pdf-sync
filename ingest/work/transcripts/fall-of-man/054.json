@@ -1,0 +1,25 @@
+{
+  "id": "fall-of-man/54",
+  "kinds": ["list", "timeline"],
+  "title": "The Progression of Blood: summary from the Fall to the Crucifixion",
+  "summary": "Summary list of the six steps in “The Progression of Blood”: at the Fall God introduces the first blood atonement; with Cain and Abel God requires blood; then a substitute sacrifice covers one boy (Binding of Isaac), a household (Passover), a nation (Yom Kippur), and the whole world (Crucifixion).",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Progression of Blood"},
+    {"lang": "en", "role": "list", "text": "The Fall—God Introduces First Blood Atonement"},
+    {"lang": "en", "role": "list", "text": "Cain & Abel—God Requires Blood"},
+    {"lang": "en", "role": "list", "text": "Binding of Isaac—Substitute Sacrifice Covers One Boy"},
+    {"lang": "en", "role": "list", "text": "Passover—Substitute Sacrifice Covers Household"},
+    {"lang": "en", "role": "list", "text": "Yom Kippur—Substitute Sacrifice Covers Nation"},
+    {"lang": "en", "role": "list", "text": "Crucifixion—Substitute Sacrifice Covers World"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain", "Abel", "Isaac", "Jesus"], "places": [], "events": ["Fall of Man", "Cain and Abel's offerings", "Binding of Isaac (Akedah)", "Passover", "Yom Kippur (Day of Atonement)", "Crucifixion"], "things": [], "themes": ["blood", "sacrifice", "substitution", "atonement", "typology", "redemption"], "groups": []},
+  "keywords": ["progression of blood", "blood atonement", "substitute sacrifice", "one boy, one household, one nation, the whole world", "Akedah", "Binding of Isaac", "Passover", "Yom Kippur", "Day of Atonement", "Crucifixion", "Cain and Abel", "the Fall", "God requires blood", "history of sacrifice"],
+  "uncertain": [],
+  "confidence": 0.96
+}

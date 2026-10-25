@@ -1,0 +1,80 @@
+{
+ "id": "noah-part-2/1",
+ "kinds": [
+  "title"
+ ],
+ "title": "Noah Part 2 — title still: presenter in front of a world map",
+ "summary": "Title slide numbered 7 reading 'Noah, Part 2', over a video still of the presenter sitting on a couch with his hands pressed to his face in front of a large world map.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "7"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Noah"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Part 2"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "video-still",
+   "description": "Video still of the presenter, a man with glasses in a white T-shirt, sitting on a brown couch with both hands pressed against his face, in front of a large colourful wall map of the world (Atlantic and Indian Oceans, South America, Africa, Asia visible). Green title text overlaid.",
+   "subjects": [
+    "presenter",
+    "man",
+    "world map",
+    "couch",
+    "hands on face",
+    "Atlantic Ocean",
+    "Africa",
+    "video still"
+   ],
+   "text_in_picture": "Hard Rock Vancouver logo on T-shirt; map labels (Atlantic Ocean, Brazil, China, Indian Ocean)",
+   "credit": null,
+   "box": [
+    0.04,
+    0.04,
+    0.96,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "world map"
+  ],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "Noah",
+  "Noah Part 2",
+  "lesson 7",
+  "title slide",
+  "presenter",
+  "video still",
+  "world map",
+  "What You Should Know About Noah",
+  "Dutch Uncle John",
+  "Genesis 6"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

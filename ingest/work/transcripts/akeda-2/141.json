@@ -1,0 +1,144 @@
+{
+ "id": "akeda-2/141",
+ "kinds": [
+  "code-grid",
+  "word-study"
+ ],
+ "title": "Genesis 22:15-16 letter grid: hidden \"hashem\" and the Name יהוה",
+ "summary": "Same as the previous slide, with a heavy red oval added around the letters ה ו ה in the grid, which with the י next to them spell the Name יהוה shown on the right under \"The Name\". The grid also marks hashem (ה ש ם) in blue crossing lines and ש in a green box.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22:15-16",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב:יה-יו"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "hashem"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ ם"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "The Name"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:15-16 / בראשית כב:יה-יו",
+   "osis": [
+    "Gen.22.15",
+    "Gen.22.16"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "השם",
+   "translit": "hashem",
+   "gloss": "the Name (a title for God)",
+   "strongs": "H8034"
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the Name of God, LORD",
+   "strongs": "H3068"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "hashem",
+   "other": "השם"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "grid",
+   "description": "Grid of black Hebrew letters (the text of Genesis 22:15-16 laid out in rows) with blue letters ה ש ם and ה ש מ crossing in an X shape inside red ovals, a heavy red oval around the letters ה ו ה in a lower row, and a green rectangle around one row.",
+   "subjects": [
+    "Bible code",
+    "letter grid",
+    "Hebrew letters",
+    "hashem",
+    "the Name",
+    "YHWH",
+    "red ovals",
+    "green box"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.02,
+    0.18,
+    0.55,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "letter grid"
+  ],
+  "themes": [
+   "Bible codes",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "hashem",
+  "HaShem",
+  "the Name",
+  "YHWH",
+  "Yahweh",
+  "Tetragrammaton",
+  "Bible code",
+  "letter grid",
+  "hidden word",
+  "Genesis 22",
+  "Akedah",
+  "Akeda",
+  "names of God"
+ ],
+ "uncertain": [
+  "Dense letter grid not copied cell by cell; only the highlighted letters and labels are transcribed."
+ ],
+ "confidence": 0.9
+}

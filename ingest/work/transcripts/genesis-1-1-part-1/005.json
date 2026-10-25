@@ -1,0 +1,135 @@
+{
+ "id": "genesis-1-1-part-1/5",
+ "kinds": [
+  "letters",
+  "picture"
+ ],
+ "title": "Alef: head of an ox, strength, God (1)",
+ "summary": "Close-up study of the letter alef in light blue: three styles of the modern letter, its name, sound A, value 1, ancient ox-head pictograph and meaning \"Head of an Ox, Strength, God\", with a row showing the pictograph turning into an older rotated form and then into the Latin letter A.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א א א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "A"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Head of an Ox, Strength, God"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "A"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [
+  {
+   "en": "alef",
+   "other": "א"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "Head of an Ox, Strength, God (ox-head pictograph; becomes the Latin letter A)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "gematria value of alef"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Small ancient (paleo-Hebrew) pictograph of an ox head with horns, drawn above a light-blue underline, shown between the number 1 and the words \"Head of an Ox\".",
+   "subjects": [
+    "ox head",
+    "alef pictograph",
+    "paleo-Hebrew",
+    "ancient Hebrew letters"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.43,
+    0.34,
+    0.51,
+    0.48
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Evolution of the letter alef: the ancient ox-head pictograph on a blue line, an arrow to an older rotated, simplified ox-head form, and an arrow to a large light-blue capital Latin letter A.",
+   "subjects": [
+    "ox head",
+    "alef to A",
+    "letter evolution",
+    "alphabet history",
+    "pictograph"
+   ],
+   "text_in_picture": "A",
+   "credit": null,
+   "box": [
+    0.24,
+    0.66,
+    0.8,
+    0.92
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "ox"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "alef",
+  "aleph",
+  "ox head",
+  "head of an ox",
+  "strength",
+  "God",
+  "letter A",
+  "alef pictograph",
+  "ancient Hebrew",
+  "paleo-Hebrew",
+  "Hebrew letter meanings",
+  "first letter of the Hebrew alphabet"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

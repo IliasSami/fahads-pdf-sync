@@ -1,0 +1,23 @@
+{
+  "id": "akeda-1/84",
+  "kinds": ["verse"],
+  "title": "Genesis 17:19 — Sarah will bear a son, Isaac (header reads 18:19)",
+  "summary": "Genesis 17:19: God tells Abraham that Sarah his wife will bear him a son named Isaac, with whom He will establish His everlasting covenant. The English header on the slide reads 'Genesis 18:19' while the Hebrew header reads בראשית יז:יט (17:19), and the verse shown is Genesis 17:19. 'God' is blue, red and yellow; Sarah magenta; 'son', Isaac, 'him' and 'his' red.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 18:19", "osis": "Gen.17.19"},
+    {"lang": "he", "role": "reference", "text": "בראשית יז:יט"},
+    {"lang": "en", "role": "verse", "osis": "Gen.17.19", "text": "19 But God said, “No, but Sarah your wife will bear you a son, and you shall call his name Isaac; and I will establish My covenant with him for an everlasting covenant for his descendants after him."}
+  ],
+  "refs": [
+    {"shown": "Genesis 18:19 / בראשית יז:יט", "osis": ["Gen.17.19"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Sarah", "Abraham", "Isaac"], "places": [], "events": [], "things": [], "themes": ["covenant", "seed", "promise"], "groups": []},
+  "keywords": ["Genesis 17:19", "Genesis 18:19", "Sarah shall bear thee a son", "call his name Isaac", "everlasting covenant", "covenant with Isaac", "establish my covenant", "his seed after him", "promised son", "Akedah", "Akeda"],
+  "uncertain": ["English header reads Genesis 18:19 but the Hebrew header (יז:יט) and the verse text are Genesis 17:19; osis uses Gen.17.19"],
+  "confidence": 0.93
+}

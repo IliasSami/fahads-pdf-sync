@@ -1,0 +1,115 @@
+{
+ "id": "elijah-elisha/61",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 Kings 17:20-22 — widow's son revives (miracle #3)",
+ "summary": "The text of 1 Kings 17:20-22 again, now with the closing phrase 'the life of the child returned to him and he revived' underlined in gold and marked #3, Elijah's third miracle. The names LORD, God, You and Elijah are lettered in colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 17:20-22",
+   "osis": [
+    "1Kgs.17.20",
+    "1Kgs.17.21",
+    "1Kgs.17.22"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א יז:כ-כב",
+   "osis": [
+    "1Kgs.17.20",
+    "1Kgs.17.21",
+    "1Kgs.17.22"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "20 He called to the LORD and said, “O LORD my God, have You also brought calamity to the widow with whom I am staying, by causing her son to die?”",
+   "osis": "1Kgs.17.20"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "21 Then he stretched himself upon the child three times, and called to the LORD and said, “O LORD my God, I pray You, let this child’s life return to him.”",
+   "osis": "1Kgs.17.21"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "22 The LORD heard the voice of Elijah, and the life of the child returned to him and he revived.",
+   "osis": "1Kgs.17.22"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "#3"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 17:20-22 / מלכים א יז:כ-כב",
+   "osis": [
+    "1Kgs.17.20",
+    "1Kgs.17.21",
+    "1Kgs.17.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "Elijah's miracle #3: the widow's son raised from the dead"
+  },
+  {
+   "value": 3,
+   "note": "Elijah stretched himself upon the child three times"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah",
+   "God",
+   "widow of Zarephath"
+  ],
+  "places": [
+   "Zarephath"
+  ],
+  "events": [
+   "widow's son raised from the dead"
+  ],
+  "things": [],
+  "themes": [
+   "resurrection",
+   "prayer",
+   "miracles",
+   "death"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Elijah",
+  "miracle number 3",
+  "third miracle of Elijah",
+  "widow's son raised",
+  "raised from the dead",
+  "child revived",
+  "life returned",
+  "stretched himself upon the child three times",
+  "O LORD my God",
+  "1 Kings 17",
+  "Elijah prays",
+  "resurrection of child"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

@@ -1,0 +1,22 @@
+{
+  "id": "akeda-2/52",
+  "kinds": ["verse"],
+  "title": "Genesis 23:19-20 — Abraham buries Sarah in the cave of Machpelah",
+  "summary": "Genesis 23:19-20: Abraham buries Sarah his wife in the cave of the field at Machpelah facing Mamre (Hebron) in Canaan; the field and cave are deeded to Abraham as a burial site by the sons of Heth.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 23", "osis": ["Gen.23.19", "Gen.23.20"]},
+    {"lang": "he", "role": "reference", "text": "בראשית כג", "osis": ["Gen.23.19", "Gen.23.20"]},
+    {"lang": "en", "role": "verse", "text": "19 After this, Abraham buried Sarah his wife in the cave of the field at Machpelah facing Mamre (that is, Hebron) in the land of Canaan.", "osis": "Gen.23.19"},
+    {"lang": "en", "role": "verse", "text": "20 So the field and the cave that is in it, were deeded over to Abraham for a burial site by the sons of Heth.", "osis": "Gen.23.20"}
+  ],
+  "refs": [{"shown": "Genesis 23 / בראשית כג", "osis": ["Gen.23.19", "Gen.23.20"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Sarah"], "places": ["Cave of Machpelah", "Mamre", "Hebron", "Canaan"], "events": ["Death of Sarah"], "things": ["cave", "field"], "themes": ["burial", "death"], "groups": ["sons of Heth (Hittites)"]},
+  "keywords": ["burial of Sarah", "Abraham buried Sarah", "cave of Machpelah", "Machpelah", "Mamre", "Hebron", "tomb of the patriarchs", "burial site", "Canaan", "Genesis 23"],
+  "uncertain": [],
+  "confidence": 0.97
+}

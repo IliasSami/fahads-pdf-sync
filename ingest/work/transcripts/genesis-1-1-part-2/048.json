@@ -1,0 +1,205 @@
+{
+ "id": "genesis-1-1-part-2/48",
+ "kinds": [
+  "word-study",
+  "verse"
+ ],
+ "title": "Unique words of creation — Genesis 1:13-17 (lights, signs, stars)",
+ "summary": "Genesis 1:13 to 1:17 in Hebrew with English labels above the highlighted words: third, years, appointed times, signs, greater, lesser, govern, stars, and placed. The Hebrew of 1:14 is shown as יה (not יהי).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "third"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.13",
+   "text": "1:13 ויהי ערב ויהי בקר יום שלישי׃"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.14",
+   "text": "1:14 ויאמר אלהים יה מארת ברקיע השמים להבדיל בין"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "years · appointed times · signs"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.14",
+   "text": "היום ובין הלילה והיו לאתת ולמועדים ולימים ושנים׃"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.15",
+   "text": "1:15 והיו למאורת ברקיע השמים להאיר על הארץ ויהי כן׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "greater"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.16",
+   "text": "1:16 ויעש אלהים את שני המארת הגדלים את המאור הגדל"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "stars · lesser · govern"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.16",
+   "text": "לממשלת היום ואת המאור הקטן לממשלת הלילה ואת הכוכבים׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "placed"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.17",
+   "text": "1:17 ויתן אתם אלהים ברקיע השמים להאיר על הארץ׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1:13 – 1:17",
+   "osis": [
+    "Gen.1.13",
+    "Gen.1.14",
+    "Gen.1.15",
+    "Gen.1.16",
+    "Gen.1.17"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שלישי",
+   "translit": "shelishi",
+   "gloss": "third",
+   "strongs": "H7992"
+  },
+  {
+   "lang": "he",
+   "word": "שנים",
+   "translit": "shanim",
+   "gloss": "years",
+   "strongs": "H8141"
+  },
+  {
+   "lang": "he",
+   "word": "מועדים",
+   "translit": "moadim",
+   "gloss": "appointed times",
+   "strongs": "H4150"
+  },
+  {
+   "lang": "he",
+   "word": "לאתת",
+   "translit": "leotot",
+   "gloss": "signs",
+   "strongs": "H226"
+  },
+  {
+   "lang": "he",
+   "word": "הגדלים",
+   "translit": "hagedolim",
+   "gloss": "greater (the great ones)",
+   "strongs": "H1419"
+  },
+  {
+   "lang": "he",
+   "word": "הקטן",
+   "translit": "haqaton",
+   "gloss": "lesser (the small one)",
+   "strongs": "H6996"
+  },
+  {
+   "lang": "he",
+   "word": "לממשלת",
+   "translit": "lememshelet",
+   "gloss": "govern (to rule)",
+   "strongs": "H4475"
+  },
+  {
+   "lang": "he",
+   "word": "הכוכבים",
+   "translit": "hakochavim",
+   "gloss": "stars",
+   "strongs": "H3556"
+  },
+  {
+   "lang": "he",
+   "word": "ויתן",
+   "translit": "vayiten",
+   "gloss": "placed (set)",
+   "strongs": "H5414"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "third day (יום שלישי), Genesis 1:13"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "sun",
+   "moon",
+   "stars",
+   "lights in the firmament"
+  ],
+  "themes": [
+   "creation",
+   "biblical feasts"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:13-17",
+  "fourth day lights",
+  "lights in the firmament",
+  "greater light and lesser light",
+  "sun and moon",
+  "stars",
+  "signs and seasons",
+  "appointed times",
+  "moadim",
+  "years",
+  "to rule the day and the night",
+  "Hebrew word study",
+  "unique words of creation"
+ ],
+ "uncertain": [
+  "In Genesis 1:14 the slide shows יה before מארת (the standard text has יהי); transcribed as shown.",
+  "Hebrew text on the slide has spaces rather than maqaf between words; transcribed as shown."
+ ],
+ "confidence": 0.93
+}

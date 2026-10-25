@@ -1,0 +1,128 @@
+{
+ "id": "fall-of-man/12",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Luke 4:9-11 — the devil tempts Jesus on the temple pinnacle: pride of life",
+ "summary": "Luke 4:9-11 in English: the devil takes Jesus to Jerusalem, stands Him on the pinnacle of the temple and tells Him to throw Himself down, quoting Psalm 91:11-12 about angels bearing Him up. The slide labels this temptation “Pride of Life”.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Luke 4:9-11",
+   "osis": [
+    "Luke.4.9",
+    "Luke.4.10",
+    "Luke.4.11"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΛΟΥΚΑΝ 4:9-11",
+   "osis": [
+    "Luke.4.9",
+    "Luke.4.10",
+    "Luke.4.11"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "9 And he led Him to Jerusalem and had Him stand on the pinnacle of the temple, and said to Him, “If You are the Son of God, throw Yourself down from here;",
+   "osis": "Luke.4.9"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "10 for it is written, ‘HE WILL COMMAND HIS ANGELS CONCERNING YOU TO GUARD YOU,’",
+   "osis": "Luke.4.10"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "11 and, ‘ON their HANDS THEY WILL BEAR YOU UP, SO THAT YOU WILL NOT STRIKE YOUR FOOT AGAINST A STONE.’”",
+   "osis": "Luke.4.11"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "—Psalm 91:11-12",
+   "osis": [
+    "Ps.91.11",
+    "Ps.91.12"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Pride of Life"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Luke 4:9-11 / ΛΟΥΚΑΝ 4:9-11",
+   "osis": [
+    "Luke.4.9",
+    "Luke.4.10",
+    "Luke.4.11"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Psalm 91:11-12",
+   "osis": [
+    "Ps.91.11",
+    "Ps.91.12"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus",
+   "Satan",
+   "God"
+  ],
+  "places": [
+   "Jerusalem",
+   "Temple Mount"
+  ],
+  "events": [
+   "Temptation of Jesus"
+  ],
+  "things": [
+   "pinnacle of the temple",
+   "angels"
+  ],
+  "themes": [
+   "temptation",
+   "pride of life",
+   "Scripture",
+   "faith"
+  ],
+  "groups": [
+   "angels"
+  ]
+ },
+ "keywords": [
+  "temptation of Jesus",
+  "pinnacle of the temple",
+  "cast thyself down",
+  "throw yourself down",
+  "pride of life",
+  "Son of God",
+  "angels bear you up",
+  "dash thy foot against a stone",
+  "Luke 4",
+  "Psalm 91:11-12",
+  "devil"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

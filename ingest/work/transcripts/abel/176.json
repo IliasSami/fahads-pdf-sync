@@ -1,0 +1,106 @@
+{
+  "id": "abel/176",
+  "kinds": [
+    "verse",
+    "comparison"
+  ],
+  "title": "Abel and Yeshua were righteous (1 John 3:12, Luke 23:47)",
+  "summary": "1 John 3:12 and Luke 23:47 are placed together under the statement \"Abel & yeshua were Righteous\", with Abel in blue and yeshua in red.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "1 John 3:12",
+      "osis": "1John.3.12"
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "Ἰωάνης A 3:12"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "1John.3.12",
+      "text": "12 Do not be like Cain, who belonged to the evil one and murdered his brother. And why did Cain slay him? Because his own deeds were evil, while those of his brother were righteous."
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Abel & yeshua were Righteous"
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Luke 23:47",
+      "osis": "Luke.23.47"
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "ΛΟΥΚΑΝ 23:47"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Luke.23.47",
+      "text": "47 When the centurion saw what had happened, he gave glory to God, saying, “Surely this was a righteous man.”"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "1 John 3:12 / Ἰωάνης A 3:12",
+      "osis": [
+        "1John.3.12"
+      ],
+      "role": "quoted"
+    },
+    {
+      "shown": "Luke 23:47 / ΛΟΥΚΑΝ 23:47",
+      "osis": [
+        "Luke.23.47"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Abel",
+      "Jesus",
+      "Cain",
+      "God"
+    ],
+    "places": [],
+    "events": [
+      "Crucifixion"
+    ],
+    "things": [],
+    "themes": [
+      "righteousness",
+      "typology"
+    ],
+    "groups": [
+      "centurion"
+    ]
+  },
+  "keywords": [
+    "Abel and Yeshua",
+    "Abel and Jesus",
+    "were righteous",
+    "righteous Abel",
+    "righteous man",
+    "1 John 3:12",
+    "Luke 23:47",
+    "centurion",
+    "Abel a type of Christ",
+    "his brother's deeds were righteous",
+    "surely this was a righteous man"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

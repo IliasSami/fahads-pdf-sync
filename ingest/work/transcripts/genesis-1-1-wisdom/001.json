@@ -1,0 +1,20 @@
+{
+  "id": "genesis-1-1-wisdom/1",
+  "kinds": ["quote"],
+  "title": "Opening quote on wisdom coming with age (Joseph R. Biden)",
+  "summary": "Opening slide of the wisdom lesson: a quotation attributed to Joseph R. Biden from a Fareed Zakaria interview, saying that one thing that comes with age, if you are honest your whole life, is some wisdom.",
+  "text": [
+    {"lang": "en", "role": "quote", "text": "“And I think, I, uh, there is one thing that comes with age, if you’re being honest about it your whole life, and that is some wisdom.”"},
+    {"lang": "en", "role": "caption", "text": "— Joseph R. Biden, Fareed Zakaria Interview"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Joseph R. Biden", "Fareed Zakaria"], "places": [], "events": [], "things": [], "themes": ["wisdom", "age", "honesty"], "groups": []},
+  "keywords": ["wisdom", "wisdom comes with age", "old age", "honesty", "Joe Biden", "Biden quote", "Fareed Zakaria", "interview", "quotation", "wise"],
+  "uncertain": [],
+  "confidence": 0.97
+}

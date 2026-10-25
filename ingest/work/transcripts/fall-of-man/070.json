@@ -1,0 +1,191 @@
+{
+ "id": "fall-of-man/70",
+ "kinds": [
+  "verse",
+  "word-study",
+  "gematria"
+ ],
+ "title": "First mention of Satan (1 Chronicles 21:1) is in the 359th chapter",
+ "summary": "Repeats 1 Chronicles 21:1 in English and Hebrew, colour-matched word by word, with a new line stating that the first mention of Satan in the Bible is in the 359th chapter of the Bible. The 359 is coloured like the letters of Satan on earlier slides.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1st Chronicles 21:1",
+   "osis": "1Chr.21.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "דברי הימים א בא:א",
+   "osis": "1Chr.21.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "And Satan stood up against Israel and moved David to number Israel.",
+   "osis": "1Chr.21.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "et · David · and moved · against · And stood"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "ויעמד שטן על ישראל ויסת את דויד למנות את ישראל׃",
+   "osis": "1Chr.21.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Israel · to number · alef tav · Israel · Satan"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The 1st mention of Satan in the Bible is in the 359th chapter of the Bible."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1st Chronicles 21:1 / דברי הימים א בא:א",
+   "osis": [
+    "1Chr.21.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "שטן",
+   "translit": "satan",
+   "gloss": "Satan, adversary",
+   "strongs": "H7854"
+  },
+  {
+   "lang": "he",
+   "word": "ויעמד",
+   "translit": "vaya'amod",
+   "gloss": "and stood",
+   "strongs": "H5975"
+  },
+  {
+   "lang": "he",
+   "word": "ישראל",
+   "translit": "yisrael",
+   "gloss": "Israel",
+   "strongs": "H3478"
+  },
+  {
+   "lang": "he",
+   "word": "ויסת",
+   "translit": "vayaset",
+   "gloss": "and moved (provoked)",
+   "strongs": "H5496"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "alef tav (untranslated object marker)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "דויד",
+   "translit": "david",
+   "gloss": "David",
+   "strongs": "H1732"
+  },
+  {
+   "lang": "he",
+   "word": "למנות",
+   "translit": "limnot",
+   "gloss": "to number",
+   "strongs": "H4487"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "And stood",
+   "other": "ויעמד"
+  },
+  {
+   "en": "Satan",
+   "other": "שטן"
+  },
+  {
+   "en": "against",
+   "other": "על"
+  },
+  {
+   "en": "Israel",
+   "other": "ישראל"
+  },
+  {
+   "en": "and moved",
+   "other": "ויסת"
+  },
+  {
+   "en": "alef tav",
+   "other": "את"
+  },
+  {
+   "en": "David",
+   "other": "דויד"
+  },
+  {
+   "en": "to number",
+   "other": "למנות"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 359,
+   "note": "1 Chronicles 21 is the 359th chapter of the Bible, the first mention of Satan"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Satan",
+   "David"
+  ],
+  "places": [],
+  "events": [
+   "census of Israel"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "first mention",
+   "alef-tav",
+   "sin"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "first mention of Satan",
+  "Satan in the Bible",
+  "359th chapter",
+  "1 Chronicles 21:1",
+  "1 Chronicles 21",
+  "Satan stood up against Israel",
+  "provoked David to number Israel",
+  "359",
+  "satan",
+  "alef tav",
+  "census",
+  "שטן"
+ ],
+ "uncertain": [
+  "Hebrew chapter-verse in the header reads בא:א on the slide (as shown; 21 is normally written כא)."
+ ],
+ "confidence": 0.94
+}

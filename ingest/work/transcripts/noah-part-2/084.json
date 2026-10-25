@@ -1,0 +1,100 @@
+{
+ "id": "noah-part-2/84",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 8:20-22 — Noah builds an altar; God promises never to destroy again",
+ "summary": "Genesis 8:20-22 in English: Noah builds an altar to the LORD and offers burnt offerings from every clean animal and bird; the LORD smells the soothing aroma and promises never again to curse the ground or destroy every living thing; while the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night will not cease. 'Noah' is green and 'LORD' is multicoloured.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:20-22",
+   "osis": [
+    "Gen.8.20",
+    "Gen.8.21",
+    "Gen.8.22"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:כ-כב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.20",
+   "text": "20 Then Noah built an altar to the LORD, and took of every clean animal and of every clean bird and offered burnt offerings on the altar."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.21",
+   "text": "21 The LORD smelled the soothing aroma; and the LORD said to Himself, “I will never again curse the ground on account of man, for the intent of man’s heart is evil from his youth; and I will never again destroy every living thing, as I have done."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.22",
+   "text": "22 “While the earth remains, Seedtime and harvest, And cold and heat, And summer and winter, And day and night Shall not cease.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:20-22 / בראשית ח:כ-כב",
+   "osis": [
+    "Gen.8.20",
+    "Gen.8.21",
+    "Gen.8.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "altar",
+   "burnt offerings",
+   "clean animals",
+   "clean birds"
+  ],
+  "themes": [
+   "sacrifice",
+   "clean and unclean",
+   "covenant"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 8:20",
+  "Genesis 8:21",
+  "Genesis 8:22",
+  "Noah's altar",
+  "Noah's sacrifice",
+  "burnt offering",
+  "clean animals",
+  "sweet savour",
+  "soothing aroma",
+  "never again destroy every living thing",
+  "never again curse the ground",
+  "seedtime and harvest",
+  "summer and winter day and night",
+  "while the earth remains",
+  "after the flood"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

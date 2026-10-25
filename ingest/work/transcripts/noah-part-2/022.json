@@ -1,0 +1,127 @@
+{
+ "id": "noah-part-2/22",
+ "kinds": [
+  "word-study",
+  "diagram"
+ ],
+ "title": "Deep (tahom) leads to Water (mayim) — shared coloured letters",
+ "summary": "The Hebrew word for 'deep', תהום (tahom), with a downward arrow to the Hebrew word for 'water', מיים (mayim). The letters are colour-coded so the light-blue final mem is visibly shared between the two words.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Deep"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tahom"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תהום"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Water"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "mayim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מיים"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תהום",
+   "translit": "tahom",
+   "gloss": "deep",
+   "strongs": "H8415"
+  },
+  {
+   "lang": "he",
+   "word": "מיים",
+   "translit": "mayim",
+   "gloss": "water",
+   "strongs": "H4325"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "tahom",
+   "other": "תהום"
+  },
+  {
+   "en": "mayim",
+   "other": "מיים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "Two rows of words joined by a small light-blue down arrow: 'Deep tahom' with the Hebrew תהום (tav red, he black, vav orange, final mem light blue) above 'Water mayim' with the Hebrew מיים (mem light blue, two dark-red yods, final mem light blue).",
+   "subjects": [
+    "Hebrew word chain",
+    "colour-coded letters",
+    "arrow",
+    "tahom",
+    "mayim",
+    "deep",
+    "water"
+   ],
+   "text_in_picture": "Deep tahom Water mayim",
+   "credit": null,
+   "box": [
+    0.1,
+    0.0,
+    0.95,
+    0.45
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "the deep",
+   "water"
+  ],
+  "themes": [
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "tahom",
+  "tehom",
+  "deep",
+  "abyss",
+  "mayim",
+  "water",
+  "waters",
+  "תהום",
+  "מים",
+  "Hebrew word for water",
+  "Hebrew word for deep",
+  "colour-coded Hebrew letters",
+  "Genesis 1:2",
+  "Genesis 7:11",
+  "fountains of the great deep"
+ ],
+ "uncertain": [
+  "The Hebrew for water is shown as מיים (two yods) on this slide, whereas Genesis 1:2 on the previous slide has המים with one yod; transcribed as shown."
+ ],
+ "confidence": 0.93
+}

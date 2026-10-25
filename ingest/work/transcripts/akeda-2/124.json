@@ -1,0 +1,22 @@
+{
+  "id": "akeda-2/124",
+  "kinds": ["verse"],
+  "title": "Did Abraham truly love Isaac? Genesis 25:5 — Abraham gave all he had to Isaac",
+  "summary": "Answers the question of whether Abraham truly loved Isaac with Genesis 25:5: Abraham gave all that he had to Isaac.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Did Abraham truly love Isaac?"},
+    {"lang": "en", "role": "reference", "text": "Genesis 25:5", "osis": "Gen.25.5"},
+    {"lang": "he", "role": "reference", "text": "בראשית כה:ה", "osis": "Gen.25.5"},
+    {"lang": "en", "role": "verse", "text": "5 And Abraham gave all that he had unto Isaac.", "osis": "Gen.25.5"}
+  ],
+  "refs": [{"shown": "Genesis 25:5 / בראשית כה:ה", "osis": ["Gen.25.5"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac"], "places": [], "events": [], "things": [], "themes": ["inheritance", "love", "father and son"], "groups": []},
+  "keywords": ["Did Abraham love Isaac", "Abraham gave all that he had unto Isaac", "inheritance", "heir", "birthright", "Isaac the heir", "Genesis 25", "father and son"],
+  "uncertain": [],
+  "confidence": 0.97
+}

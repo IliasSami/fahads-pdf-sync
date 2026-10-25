@@ -1,0 +1,157 @@
+{
+ "id": "gods-garden-in-eden/57",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 2:7 — God formed man of the dust and breathed life into him (וייצר)",
+ "summary": "Genesis 2:7 in English and Hebrew: God forms man of the dust of the ground, breathes into his nostrils the breath of life, and man becomes a living soul. 'formed' is double-underlined and marked with two asterisks (**), matched by the large double-underlined Hebrew וייצר; 'LORD God' and 'man' are in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:7",
+   "osis": "Gen.2.7"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:ז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "7 And the LORD God formed** man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.",
+   "osis": "Gen.2.7"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "וייצר** יהוה אלהים את־האדם עפר מן־האדמה ויפח באפיו נשמת חיים ויהי האדם לנפש חיה׃",
+   "osis": "Gen.2.7"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:7 / בראשית ב:ז",
+   "osis": [
+    "Gen.2.7"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "וייצר",
+   "translit": "vayyitser",
+   "gloss": "and (he) formed",
+   "strongs": "H3335",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "האדם",
+   "translit": "ha-adam",
+   "gloss": "the man",
+   "strongs": "H120",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "עפר",
+   "translit": "afar",
+   "gloss": "dust",
+   "strongs": "H6083",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "נשמת חיים",
+   "translit": "nishmat chayyim",
+   "gloss": "breath of life",
+   "strongs": "H5397",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "נפש חיה",
+   "translit": "nefesh chayyah",
+   "gloss": "living soul",
+   "strongs": "H5315",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the LORD",
+   "strongs": "H3068",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "Elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "formed",
+   "other": "וייצר"
+  },
+  {
+   "en": "And",
+   "other": "ו"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "dust",
+   "breath of life"
+  ],
+  "themes": [
+   "creation",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "God formed man of the dust",
+  "breath of life",
+  "living soul",
+  "nefesh chayah",
+  "dust of the ground",
+  "formed man",
+  "vayyiytzer",
+  "two yods",
+  "double yod",
+  "creation of Adam",
+  "Genesis 2:7",
+  "nostrils"
+ ],
+ "uncertain": [],
+ "confidence": 0.94
+}

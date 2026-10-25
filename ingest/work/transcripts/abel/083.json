@@ -1,0 +1,29 @@
+{
+  "id": "abel/83",
+  "kinds": ["verse", "text"],
+  "title": "Genesis 4:9 — “Am I my brother’s keeper?” = Am I the shepherd’s shepherd?",
+  "summary": "Genesis 4:9 in English and Hebrew: the LORD asks Cain where Abel is, and Cain answers “Am I my brother’s keeper?” The slide then asks “Am I the shepherd’s shepherd?” in olive, tying Cain’s question to Abel being a shepherd.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:9", "osis": "Gen.4.9"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ט"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.9", "text": "9 And the LORD said to Cain, “Where is Abel your brother?” And he said, “I do not know. Am I my brother’s keeper?”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.9", "text": "9 ויאמר יהוה אל קין אי הבל אחיך ויאמר לא ידעתי השמר אחי אנכי׃"},
+    {"lang": "en", "role": "heading", "text": "Am I the shepherd’s shepherd?"}
+  ],
+  "refs": [{"shown": "Genesis 4:9 / בראשית ד:ט", "osis": ["Gen.4.9"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "יהוה", "translit": "YHWH", "gloss": "the LORD", "strongs": "H3068"},
+    {"lang": "he", "word": "השמר", "translit": "hashomer", "gloss": "the keeper (shepherd/guard)", "strongs": "H8104"}
+  ],
+  "color_links": [
+    {"en": "Cain", "other": "קין"},
+    {"en": "Abel", "other": "הבל"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain", "Abel"], "places": [], "events": ["Murder of Abel"], "things": [], "themes": ["names of God", "sin", "judgment", "shepherd"], "groups": []},
+  "keywords": ["am I my brother's keeper", "my brother's keeper", "where is Abel thy brother", "I know not", "shepherd's shepherd", "Abel the shepherd", "Cain's answer", "the LORD said unto Cain", "Cain and Abel", "Genesis 4", "Genesis 4:9"],
+  "uncertain": ["The LORD in English and יהוה in Hebrew have individually coloured letters (decorative: red L/yod, orange R/vav), meaning not explained on this slide."],
+  "confidence": 0.94
+}

@@ -1,0 +1,24 @@
+{
+  "id": "akeda-2/53",
+  "kinds": ["verse"],
+  "title": "Genesis 24:1-4 — Abraham makes his servant swear to find a wife for Isaac",
+  "summary": "Genesis 24:1-4: the aged Abraham has his oldest servant place his hand under his thigh and swear by the LORD not to take a wife for Isaac from the Canaanites but from Abraham's own country and relatives. Colour-coding marks Abraham's words (blue), the servant (gold) and the son Isaac (red), and the letters of “God” are coloured blue, red and gold.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 24", "osis": ["Gen.24.1", "Gen.24.2", "Gen.24.3", "Gen.24.4"]},
+    {"lang": "he", "role": "reference", "text": "בראשית כד", "osis": ["Gen.24.1", "Gen.24.2", "Gen.24.3", "Gen.24.4"]},
+    {"lang": "en", "role": "verse", "text": "1 Now Abraham was old, advanced in age; and the LORD had blessed Abraham in every way.", "osis": "Gen.24.1"},
+    {"lang": "en", "role": "verse", "text": "2 Abraham said to his servant, the oldest of his household, who had charge of all that he owned, “Please place your hand under my thigh,", "osis": "Gen.24.2"},
+    {"lang": "en", "role": "verse", "text": "3 and I will make you swear by the LORD, the God of heaven and the God of earth, that you shall not take a wife for my son from the daughters of the Canaanites, among whom I live,", "osis": "Gen.24.3"},
+    {"lang": "en", "role": "verse", "text": "4 but you will go to my country and to my relatives, and take a wife for my son Isaac.”", "osis": "Gen.24.4"}
+  ],
+  "refs": [{"shown": "Genesis 24 / בראשית כד", "osis": ["Gen.24.1", "Gen.24.2", "Gen.24.3", "Gen.24.4"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "God", "Isaac", "Eliezer"], "places": ["Canaan"], "events": [], "things": [], "themes": ["marriage", "oath", "typology", "bride of Isaac"], "groups": ["Canaanites"]},
+  "keywords": ["wife for Isaac", "bride for Isaac", "Abraham's servant", "oldest servant", "Eliezer", "hand under my thigh", "swear an oath", "God of heaven and earth", "daughters of the Canaanites", "my country and my kindred", "Father Son Holy Spirit", "Trinity colour code", "Genesis 24"],
+  "uncertain": [],
+  "confidence": 0.94
+}

@@ -1,0 +1,104 @@
+{
+  "id": "elijah-elisha/14",
+  "kinds": [
+    "comparison",
+    "list"
+  ],
+  "title": "Joseph / Yeshua parallels: baker & cup bearer / bread & wine",
+  "summary": "The Joseph–Yeshua parallels list adds the baker and cup bearer in Joseph's prison, matched by colour with the bread and wine of Yeshua, after the earlier items (sent, betrayed, sold, falsely accused, sentenced).",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Joseph / yeshua Parallels"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sent by Father to check on brothers"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Betrayed by his brothers"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sold for 20/30 pieces of silver"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Falsely accused"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sentenced to prison / death"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Baker & Cup Bearer / Bread & Wine"
+    }
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {
+      "value": 20,
+      "note": "pieces of silver Joseph was sold for"
+    },
+    {
+      "value": 30,
+      "note": "pieces of silver paid to betray Yeshua"
+    }
+  ],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Joseph",
+      "Jesus",
+      "Jacob",
+      "God"
+    ],
+    "places": [],
+    "events": [],
+    "things": [
+      "silver",
+      "prison",
+      "bread",
+      "wine"
+    ],
+    "themes": [
+      "typology",
+      "betrayal",
+      "death"
+    ],
+    "groups": [
+      "Joseph's brothers"
+    ]
+  },
+  "keywords": [
+    "Joseph",
+    "Yeshua",
+    "Jesus",
+    "parallels",
+    "Joseph as a type of Christ",
+    "prison",
+    "sentenced to death",
+    "Joseph in prison",
+    "baker and cupbearer",
+    "butler",
+    "bread and wine",
+    "Last Supper",
+    "communion",
+    "Genesis 40",
+    "foreshadowing"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

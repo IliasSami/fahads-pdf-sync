@@ -1,0 +1,162 @@
+{
+ "id": "akeda-2/23",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 22:19 — Abraham returned (vayashav) to Beersheba",
+ "summary": "The Akedah: Genesis 22:19 in English and Hebrew. Abraham returns to his young men and they go together to Beersheba, where Abraham lived. At the bottom the Hebrew word וישב (vay·ya·shab, 'And he returned') is highlighted with its final letter bet in red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22",
+   "osis": "Gen.22.1"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ה ע ק ד ה"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Akedah"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.19",
+   "text": "19 And Abraham returned to his young men, and they arose and went together to Beersheba; and Abraham lived at Beersheba."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.22.19",
+   "text": "19 וישב אברהם אל־נעריו ויקמו וילכו יחדו אל־באר שבע וישב אברהם בבאר שבע׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "vay·ya·shab"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "וישב"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "And he returned"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22 / בראשית כב",
+   "osis": [
+    "Gen.22.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Genesis 22:19 (verse number 19)",
+   "osis": [
+    "Gen.22.19"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "העקדה",
+   "translit": "ha'akedah",
+   "gloss": "the Akedah (the binding)",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "וישב",
+   "translit": "vayashav",
+   "gloss": "and he returned",
+   "strongs": "H7725"
+  },
+  {
+   "lang": "he",
+   "word": "נעריו",
+   "translit": "ne'arav",
+   "gloss": "his young men",
+   "strongs": "H5288"
+  },
+  {
+   "lang": "he",
+   "word": "באר שבע",
+   "translit": "Be'er Sheva",
+   "gloss": "Beersheba",
+   "strongs": "H884"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Abraham",
+   "other": "אברהם"
+  },
+  {
+   "en": "b (in shab)",
+   "other": "ב"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "final letter of וישב; shown in red"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Abraham"
+  ],
+  "places": [
+   "Beersheba"
+  ],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [],
+  "themes": [
+   "return",
+   "obedience"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 22:19",
+  "Genesis 22",
+  "Akedah",
+  "Akeda",
+  "binding of Isaac",
+  "העקדה",
+  "Abraham returned to his young men",
+  "Beersheba",
+  "Beer-sheba",
+  "dwelt at Beersheba",
+  "vayashav",
+  "va-yashav",
+  "and he returned",
+  "shav",
+  "return"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

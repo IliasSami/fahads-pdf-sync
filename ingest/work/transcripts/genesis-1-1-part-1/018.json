@@ -1,0 +1,132 @@
+{
+ "id": "genesis-1-1-part-1/18",
+ "kinds": [
+  "letters"
+ ],
+ "title": "Yod: Hand, Work (ancient pictograph to Y, I)",
+ "summary": "Teaches the Hebrew letter yod (sounds Y, I; value 10; meaning Hand, Work) in three different letter shapes above a long line, then shows the ancient hand pictograph changing into a later upright form and then into the modern Y, I.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י   י   י"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yod"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Y, I"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "10"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Hand, Work"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "→ → Y, I"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "hand, work (arm and hand pictograph); sounds Y, I"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 10,
+   "note": "gematria value of the letter yod"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Small ancient (paleo-Hebrew) yod pictograph: a hand and forearm drawn as a black stroke with a hooked end, over an orange underline, placed between 10 and Hand, Work.",
+   "subjects": [
+    "paleo-Hebrew",
+    "yod",
+    "hand",
+    "arm",
+    "pictograph",
+    "ancient Hebrew letter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.47,
+    0.36,
+    0.56,
+    0.47
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "Three-step letter evolution: the large ancient hand pictograph of yod over an orange underline, an arrow to a later upright forked form that looks like a Y, and an arrow to the large red-brown letters Y, I.",
+   "subjects": [
+    "letter evolution",
+    "yod",
+    "hand pictograph",
+    "paleo-Hebrew",
+    "alphabet history",
+    "Y and I"
+   ],
+   "text_in_picture": "Y, I",
+   "credit": null,
+   "box": [
+    0.15,
+    0.58,
+    0.88,
+    0.9
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "hand"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "yod",
+  "yud",
+  "Hebrew letter yod",
+  "hand",
+  "work",
+  "value 10",
+  "paleo-Hebrew",
+  "ancient Hebrew",
+  "pictograph",
+  "letter meanings",
+  "Y and I",
+  "smallest Hebrew letter",
+  "jot"
+ ],
+ "uncertain": [
+  "The three yod shapes at the top are different typefaces/styles; the slide gives no caption for them."
+ ],
+ "confidence": 0.93
+}

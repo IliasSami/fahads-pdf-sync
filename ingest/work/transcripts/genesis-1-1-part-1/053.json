@@ -1,0 +1,249 @@
+{
+ "id": "genesis-1-1-part-1/53",
+ "kinds": [
+  "letters",
+  "word-study",
+  "verse"
+ ],
+ "title": "Alef-Tav (את) in Genesis 1:1: strength/God and covenant/cross",
+ "summary": "Genesis 1:1 in Hebrew with the word את (et) highlighted, showing that et is spelled alef-tav. Alef (A, ox-head pictograph) means Strength, God; tav (T, cross-shaped pictograph) means Covenant, Cross. Together the two pictographs read 'Cross God'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "alef"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "את"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "tav"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "et ↔ את ↔ alef tav"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "A"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Strength, God"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tav"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "T"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Covenant, Cross"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "Cross God"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et (alef tav)",
+   "gloss": "alef-tav: strength/God and covenant/cross",
+   "strongs": "H853"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  },
+  {
+   "en": "et",
+   "other": "את"
+  },
+  {
+   "en": "Strength, God",
+   "other": "א"
+  },
+  {
+   "en": "Covenant, Cross",
+   "other": "ת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "Strength, God (ox-head pictograph, Latin A)"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "Covenant, Cross (cross-shaped pictograph, Latin T)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Hand-drawn ancient (paleo-)Hebrew pictograph of alef, a stylised ox head, drawn in black over a light-blue underline, next to the label 'Strength, God'.",
+   "subjects": [
+    "alef",
+    "ox head",
+    "paleo-Hebrew",
+    "pictograph",
+    "strength",
+    "God"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.48,
+    0.57,
+    0.53,
+    0.65
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient Hebrew pictograph of tav, a small black cross (+) over a dark-red underline, next to the label 'Covenant, Cross'.",
+   "subjects": [
+    "tav",
+    "cross",
+    "paleo-Hebrew",
+    "pictograph",
+    "covenant"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.48,
+    0.66,
+    0.53,
+    0.74
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "The two pictographs side by side: a black cross (tav) over a dark-red line and the ox-head glyph (alef) over a light-blue line, captioned 'Cross God'.",
+   "subjects": [
+    "alef tav",
+    "cross",
+    "ox head",
+    "paleo-Hebrew",
+    "pictograph"
+   ],
+   "text_in_picture": "Cross God",
+   "credit": null,
+   "box": [
+    0.41,
+    0.78,
+    0.56,
+    0.96
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "cross"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "covenant",
+   "names of God",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "alef tav",
+  "aleph tav",
+  "et",
+  "את",
+  "Genesis 1:1",
+  "cross",
+  "covenant",
+  "strength",
+  "ox head",
+  "paleo-Hebrew",
+  "pictograph",
+  "Hebrew letter meanings",
+  "first and last letters",
+  "Cross God",
+  "alpha and omega"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

@@ -1,0 +1,94 @@
+{
+ "id": "akeda-2/22",
+ "kinds": [
+  "humor",
+  "picture",
+  "word-study"
+ ],
+ "title": "“Christ is et!” — a Coca-Cola style slogan with the Hebrew word et",
+ "summary": "A parody of the Coca-Cola 'Coke is it!' slogan: red Coca-Cola-style script reads 'Christ is et!', with the red Coke wave band below on the left and the Hebrew word את (et; alef in blue, tav in red) at the lower right.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Christ is et!"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "את"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "alef-tav; the Hebrew word et, shown with a blue alef and a red tav",
+   "strongs": "H853"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "logo",
+   "description": "Parody of the Coca-Cola advertising logo: large red script lettering in the Coca-Cola style spells 'Christ is et!'; underneath on the left is the red Coke band with a white wave swoosh, and on the right the Hebrew word את in blue and red.",
+   "subjects": [
+    "Coca-Cola parody",
+    "Coke wave",
+    "logo",
+    "slogan",
+    "Christ",
+    "alef tav",
+    "red script lettering"
+   ],
+   "text_in_picture": "Christ is et!",
+   "credit": null,
+   "box": [
+    0.0,
+    0.03,
+    1.0,
+    0.9
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "Coca-Cola logo",
+   "alef-tav"
+  ],
+  "themes": [
+   "humor",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Christ is et",
+  "Christ is it",
+  "Coke is it parody",
+  "Coca-Cola parody",
+  "Coca-Cola logo",
+  "alef tav",
+  "aleph tav",
+  "et",
+  "את",
+  "Jesus",
+  "Messiah",
+  "Alpha and Omega",
+  "humor",
+  "slogan"
+ ],
+ "uncertain": [
+  "The slide gives no explanation; the pun on 'Coke is it!' and the link between Christ and את is implied but not stated on the slide"
+ ],
+ "confidence": 0.93
+}

@@ -1,0 +1,181 @@
+{
+ "id": "noah-part-2/24",
+ "kinds": [
+  "word-study",
+  "genealogy",
+  "diagram"
+ ],
+ "title": "Father, Son, Grandson, Great Grandson in Hebrew (ab, ben, nechad, dor revi'i)",
+ "summary": "Four Hebrew family words joined by arrows, with colour-coded letters passed from one to the next: Father אב (ab), Son בן (ben), Grandson נכד (nechad) and Great Grandson דור רביעי (dor neviei, as transliterated on the slide).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Father"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ab"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אב"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Son"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ben"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בן (נ)"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "nechad"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "נכד"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Grandson"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "דור רביעי"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "dor neviei"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Great Grandson"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אב",
+   "translit": "ab",
+   "gloss": "father",
+   "strongs": "H1"
+  },
+  {
+   "lang": "he",
+   "word": "בן",
+   "translit": "ben",
+   "gloss": "son",
+   "strongs": "H1121"
+  },
+  {
+   "lang": "he",
+   "word": "נכד",
+   "translit": "nechad",
+   "gloss": "grandson",
+   "strongs": "H5220"
+  },
+  {
+   "lang": "he",
+   "word": "דור רביעי",
+   "translit": "dor neviei",
+   "gloss": "great grandson (fourth generation)",
+   "strongs": "H1755"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "ab",
+   "other": "אב"
+  },
+  {
+   "en": "ben",
+   "other": "בן"
+  },
+  {
+   "en": "nechad",
+   "other": "נכד"
+  },
+  {
+   "en": "dor neviei",
+   "other": "דור רביעי"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "Four rows of family terms joined by small coloured arrows running down and to the left: Father (אב, blue alef and red bet), Son (בן with a green (נ)), Grandson (נכד, green nun, black kaf, brown dalet) and Great Grandson (דור רביעי, brown dalet at the start of dor). Each arrow's colour matches the letter shared by the two words it connects.",
+   "subjects": [
+    "Hebrew word chain",
+    "colour-coded letters",
+    "arrows",
+    "family generations",
+    "father",
+    "son",
+    "grandson",
+    "great grandson"
+   ],
+   "text_in_picture": "Father ab Son ben nechad Grandson dor neviei Great Grandson",
+   "credit": null,
+   "box": [
+    0.03,
+    0.05,
+    0.97,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "genealogy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "father",
+  "son",
+  "grandson",
+  "great grandson",
+  "ab",
+  "av",
+  "ben",
+  "nechad",
+  "dor",
+  "dor revi'i",
+  "generations",
+  "family tree Hebrew",
+  "אב",
+  "בן",
+  "נכד",
+  "דור רביעי",
+  "fourth generation",
+  "colour-coded Hebrew letters"
+ ],
+ "uncertain": [
+  "The transliteration is shown as 'dor neviei' while the Hebrew letter in that word is ר (revi'i, 'fourth'); transcribed as shown."
+ ],
+ "confidence": 0.93
+}

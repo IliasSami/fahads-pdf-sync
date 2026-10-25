@@ -1,0 +1,107 @@
+{
+ "id": "noah-part-2/94",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 9:19-22 — Noah's vineyard, drunkenness, and Ham seeing his father",
+ "summary": "Genesis 9:19-22 in English: the three sons of Noah populate the whole earth; Noah plants a vineyard, drinks the wine, becomes drunk and uncovers himself in his tent; Ham, the father of Canaan, sees his father's nakedness and tells his two brothers outside. The names Noah, Ham and Canaan and the word wine are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 9:19-22",
+   "osis": [
+    "Gen.9.19",
+    "Gen.9.20",
+    "Gen.9.21",
+    "Gen.9.22"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ט:יט־כב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.19",
+   "text": "19 These three were the sons of Noah, and from these the whole earth was populated."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.20",
+   "text": "20 Then Noah began farming and planted a vineyard."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.21",
+   "text": "21 He drank of the wine and became drunk, and uncovered himself inside his tent."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.22",
+   "text": "22 Ham, the father of Canaan, saw the nakedness of his father, and told his two brothers outside."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 9:19-22 / בראשית ט:יט־כב",
+   "osis": [
+    "Gen.9.19",
+    "Gen.9.20",
+    "Gen.9.21",
+    "Gen.9.22"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "Ham",
+   "Canaan",
+   "Shem",
+   "Japheth"
+  ],
+  "places": [],
+  "events": [
+   "Noah's drunkenness"
+  ],
+  "things": [
+   "vineyard",
+   "wine",
+   "tent"
+  ],
+  "themes": [
+   "sin",
+   "genealogy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 9",
+  "Genesis 9:19-22",
+  "Noah drunk",
+  "Noah's vineyard",
+  "wine",
+  "drunkenness",
+  "nakedness of his father",
+  "Ham saw his father's nakedness",
+  "Ham father of Canaan",
+  "uncovered in his tent",
+  "three sons of Noah",
+  "whole earth was populated",
+  "Noah planted a vineyard"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

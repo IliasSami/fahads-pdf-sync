@@ -1,0 +1,112 @@
+{
+ "id": "red-heifer/8",
+ "kinds": [
+  "text",
+  "word-study",
+  "humor"
+ ],
+ "title": "Dome of the Rock rhyme — God's house can't be rebuilt because of tumah (impurity)",
+ "summary": "A humorous four-line rhyme (a parody of a nursery rhyme) saying that if the Dome of the Rock fell, nothing could put God's house together again, followed by the reason: tumah (טמאה), impurity.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The Dome of the Rock sits atop of the wall."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "If the Dome of the Rock had a great fall"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "All the Jews’ horses and all the Jews’ men"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Couldn’t put God’s house together again…"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Because"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tumah"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "טמאה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Impurity"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "טמאה",
+   "translit": "tumah",
+   "gloss": "impurity (uncleanness)",
+   "strongs": "H2932"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Impurity",
+   "other": "טמאה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [
+   "Temple Mount"
+  ],
+  "events": [],
+  "things": [
+   "Dome of the Rock",
+   "Temple"
+  ],
+  "themes": [
+   "clean and unclean",
+   "temple",
+   "purification",
+   "humor"
+  ],
+  "groups": [
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "tumah",
+  "impurity",
+  "uncleanness",
+  "ritual impurity",
+  "Dome of the Rock",
+  "rebuild the Temple",
+  "God's house",
+  "third Temple",
+  "Humpty Dumpty",
+  "nursery rhyme parody",
+  "humor",
+  "clean and unclean",
+  "red heifer"
+ ],
+ "uncertain": [
+  "tumah is in dark maroon; the Hebrew and the word Impurity share a slightly different brown, so only Impurity and the Hebrew are linked as the same colour."
+ ],
+ "confidence": 0.95
+}

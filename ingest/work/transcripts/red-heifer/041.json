@@ -1,0 +1,162 @@
+{
+ "id": "red-heifer/41",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Numbers 19:2 — \"the statute of the Torah\": the most mysterious chok",
+ "summary": "Numbers 19:2 (opening clause) in English and Hebrew with 'the statute' / חקת in blue and LORD / יהוה in matching colours. The slide says the most mysterious statute (chok, חק) is the Red Heifer, and that the passage begins with 'This is the statute of the Torah' as if there were only one, hinting that it is the most inexplicable commandment.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Ordinance of the Red Heifer"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19:2",
+   "osis": "Num.19.2"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט:ב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.19.2",
+   "text": "2 “This is the statute of the law which the LORD has commanded, saying,…"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Num.19.2",
+   "text": "2 זאת חקת התורה אשר צוה יהוה לאמר..."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The most mysterious statute"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חק"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "chok"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "is the Red Heifer."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "The passage begins with “This is the statute of the Torah”, as if there was only one. By saying that, the Torah hints that it is the most inexplicable commandment."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19:2 / במדבר יט:ב",
+   "osis": [
+    "Num.19.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חקת",
+   "translit": "chukat",
+   "gloss": "statute of",
+   "strongs": "H2708",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "חק",
+   "translit": "chok",
+   "gloss": "statute",
+   "strongs": "H2706",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "התורה",
+   "translit": "ha-Torah",
+   "gloss": "the Torah (the law)",
+   "strongs": "H8451",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the LORD",
+   "strongs": "H3068",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "the statute",
+   "other": "חקת"
+  },
+  {
+   "en": "statute",
+   "other": "חק"
+  },
+  {
+   "en": "chok",
+   "other": "חק"
+  },
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer"
+  ],
+  "themes": [
+   "statutes (chok)",
+   "Torah",
+   "names of God",
+   "purification"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Numbers 19:2",
+  "red heifer",
+  "chok",
+  "chukat",
+  "statute of the Torah",
+  "this is the statute of the law",
+  "most mysterious commandment",
+  "inexplicable commandment",
+  "ordinance",
+  "parah adumah",
+  "Torah statute",
+  "זאת חקת התורה",
+  "Numbers 19"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

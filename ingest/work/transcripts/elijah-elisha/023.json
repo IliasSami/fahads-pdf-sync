@@ -1,0 +1,98 @@
+{
+ "id": "elijah-elisha/23",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "The first verse of the Tanakh: Genesis 1:1",
+ "summary": "Genesis 1:1 in English ('In beginning, God created the heavens and the earth.') shown as the first verse of the tanakh (תנך), with the letters of tanakh colour-matched between the English transliteration and the Hebrew.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The First Verse of the tanakh (תנך)"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "1 In beginning, God created the heavens and the earth."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תנך",
+   "translit": "tanakh",
+   "gloss": "the Hebrew Bible (Old Testament)",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "t",
+   "other": "ת"
+  },
+  {
+   "en": "an",
+   "other": "נ"
+  },
+  {
+   "en": "akh",
+   "other": "ך"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "tanakh",
+  "Tanach",
+  "TaNaKh",
+  "first verse of the Bible",
+  "Genesis 1:1",
+  "In the beginning",
+  "God created the heavens and the earth",
+  "Old Testament",
+  "Hebrew Bible",
+  "Bereshit"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

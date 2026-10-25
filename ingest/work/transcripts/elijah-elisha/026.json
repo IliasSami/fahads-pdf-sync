@@ -1,0 +1,107 @@
+{
+ "id": "elijah-elisha/26",
+ "kinds": [
+  "word-study"
+ ],
+ "title": "Repentance (teshuva, Return) and Sabbath (shabbat)",
+ "summary": "Two word studies: Repentance = teshuva (תשובה) meaning Return, and Sabbath = shabbat (שבת). The letters שוב in teshuva and שב in shabbat are highlighted in gold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Repentance"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "teshuva"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תשובה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Return"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Sabbath"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shabbat"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שבת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "Sabbath"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תשובה",
+   "translit": "teshuva",
+   "gloss": "repentance, return",
+   "strongs": "H8666"
+  },
+  {
+   "lang": "he",
+   "word": "שבת",
+   "translit": "shabbat",
+   "gloss": "Sabbath",
+   "strongs": "H7676"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "shuv",
+   "other": "שוב"
+  },
+  {
+   "en": "shabb",
+   "other": "שב"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "repentance",
+   "Sabbath",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "repentance",
+  "teshuva",
+  "Sabbath",
+  "shabbat",
+  "shabbath",
+  "shabbos",
+  "return",
+  "shuv",
+  "Hebrew word for Sabbath",
+  "שבת",
+  "תשובה"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

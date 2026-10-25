@@ -1,0 +1,232 @@
+{
+ "id": "genesis-1-1-part-1/94",
+ "kinds": [
+  "gematria",
+  "list"
+ ],
+ "title": "Genesis 1:1 word values that are multiples of 37: 37 x 13 up to 37 x 32",
+ "summary": "Seven combinations of Genesis 1:1 word values, written with colour-coded Hebrew words and their gematria values, each equal to a multiple of 37: 37 x 13, 37 x 19, 37 x 21, 37 x 24, 37 x 27 (twice) and 37 x 32.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "37"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "other",
+   "role": "list",
+   "text": "37 x 13 = אלהים 86 + השמים 395"
+  },
+  {
+   "lang": "other",
+   "role": "list",
+   "text": "37 x 19 = ואת 407 + הארץ 296"
+  },
+  {
+   "lang": "other",
+   "role": "list",
+   "text": "37 x 21 = אלהים 86 + השמים 395 + הארץ 296"
+  },
+  {
+   "lang": "other",
+   "role": "list",
+   "text": "37 x 24 = אלהים 86 + השמים 395 + ואת 407"
+  },
+  {
+   "lang": "other",
+   "role": "list",
+   "text": "37 x 27 = ברא 203 + את 401 + השמים 395"
+  },
+  {
+   "lang": "other",
+   "role": "list",
+   "text": "37 x 27 = אלהים 86 + בראשית 913"
+  },
+  {
+   "lang": "other",
+   "role": "list",
+   "text": "37 x 32 = אלהים 86 + השמים 395 + ואת 407 + הארץ 296"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 913
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 203
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 86
+   }
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(et) sign of the direct object",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 401
+   }
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the skywaters (the heavens)",
+   "strongs": "H8064",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 395
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "v'et",
+   "gloss": "and (et)",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 407
+   }
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": {
+    "method": "standard",
+    "values": [],
+    "total": 296
+   }
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 37,
+   "note": "each combination of word values is a multiple of 37"
+  },
+  {
+   "value": 13,
+   "note": "37 x 13 = 86 + 395"
+  },
+  {
+   "value": 19,
+   "note": "37 x 19 = 407 + 296"
+  },
+  {
+   "value": 21,
+   "note": "37 x 21 = 86 + 395 + 296"
+  },
+  {
+   "value": 24,
+   "note": "37 x 24 = 86 + 395 + 407"
+  },
+  {
+   "value": 27,
+   "note": "37 x 27 = 203 + 401 + 395"
+  },
+  {
+   "value": 27,
+   "note": "37 x 27 = 86 + 913"
+  },
+  {
+   "value": 32,
+   "note": "37 x 32 = 86 + 395 + 407 + 296"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "37",
+  "multiples of 37",
+  "gematria of Genesis 1:1",
+  "bereshit 913",
+  "bara 203",
+  "elohim 86",
+  "et 401",
+  "hashamayim 395",
+  "v'et 407",
+  "ha'aretz 296",
+  "word combinations",
+  "Bible numerics",
+  "37 x 13",
+  "37 x 19",
+  "37 x 21",
+  "37 x 24",
+  "37 x 27",
+  "37 x 32"
+ ],
+ "uncertain": [],
+ "confidence": 0.94
+}

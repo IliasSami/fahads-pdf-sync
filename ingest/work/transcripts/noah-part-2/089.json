@@ -1,0 +1,105 @@
+{
+ "id": "noah-part-2/89",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 9:12-15 — The bow in the cloud as the sign of the covenant",
+ "summary": "Genesis 9:12-15 in English: God gives the bow in the cloud as the sign of His covenant between Him, mankind and every living creature for all generations, and promises to remember His covenant so the water will never again become a flood. The word covenant is highlighted in red, and God is colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 9:12-15",
+   "osis": [
+    "Gen.9.12",
+    "Gen.9.13",
+    "Gen.9.14",
+    "Gen.9.15"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ט:יב־יה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.12",
+   "text": "12 God said, “This is the sign of the covenant which I am making between Me and you and every living creature that is with you, for all successive generations;"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.13",
+   "text": "13 I set My bow in the cloud, and it shall be for a sign of a covenant between Me and the earth."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.14",
+   "text": "14 “It shall come about, when I bring a cloud over the earth, that the bow will be seen in the cloud,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.9.15",
+   "text": "15 and I will remember My covenant, which is between Me and you and every living creature of all flesh; and never again shall the water become a flood to destroy all flesh."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 9:12-15 / בראשית ט:יב־יה",
+   "osis": [
+    "Gen.9.12",
+    "Gen.9.13",
+    "Gen.9.14",
+    "Gen.9.15"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "bow",
+   "rainbow",
+   "cloud"
+  ],
+  "themes": [
+   "covenant",
+   "sign",
+   "promise",
+   "grace"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 9",
+  "Genesis 9:12-15",
+  "rainbow",
+  "bow in the cloud",
+  "sign of the covenant",
+  "Noahic covenant",
+  "never again a flood",
+  "I will remember my covenant",
+  "token of the covenant",
+  "all successive generations",
+  "cloud over the earth",
+  "God's promise"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

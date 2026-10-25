@@ -1,0 +1,71 @@
+{
+ "id": "noah-part-2/112",
+ "kinds": [
+  "humor",
+  "text"
+ ],
+ "title": "Noah's excuses: where is the Ark? Permits and redrawn plans",
+ "summary": "Continues the humorous modern-Noah story: a year later the storm arrives and the Lord finds Noah weeping in his front yard with no Ark, as Noah explains he needed a construction permit and an engineering firm to redraw plans that did not meet code.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Exactly one year later, fierce storm clouds covered the earth and all the seas of the earth went into a tumult. The Lord saw that Noah was sitting in his front yard weeping."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "\"Noah,\" He shouted. \"Where is the Ark?\""
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "\"Lord, please forgive me!\", cried Noah. \"I did my best, but there were big problems."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "First, I had to get a permit for construction and your plans did not meet the codes. I had to hire an engineering firm and redraw the plans."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "humor"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Where is the Ark",
+  "Noah weeping",
+  "Noah front yard",
+  "construction permit",
+  "building codes",
+  "engineering firm",
+  "Noah joke",
+  "Noah humor",
+  "funny Noah story",
+  "storm clouds",
+  "Lord please forgive me",
+  "modern Noah",
+  "Bible humor"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

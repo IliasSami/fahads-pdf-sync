@@ -1,0 +1,77 @@
+{
+ "id": "fall-of-man/18",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 3:7 — eyes opened, naked, fig leaves",
+ "summary": "Genesis 3:7 in English: the eyes of both Adam and Eve were opened, they knew they were naked, and they sewed fig leaves together to make loin coverings.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:7",
+   "osis": "Gen.3.7"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:ז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "7 Then the eyes of both of them were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves loin coverings.",
+   "osis": "Gen.3.7"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:7 / בראשית ג:ז",
+   "osis": [
+    "Gen.3.7"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Eve"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [
+   "fig leaves",
+   "loin coverings"
+  ],
+  "themes": [
+   "sin",
+   "shame",
+   "nakedness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "fig leaves",
+  "aprons",
+  "loin coverings",
+  "eyes were opened",
+  "knew they were naked",
+  "Adam and Eve",
+  "Fall of Man",
+  "Genesis 3:7",
+  "shame",
+  "sewed fig leaves"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

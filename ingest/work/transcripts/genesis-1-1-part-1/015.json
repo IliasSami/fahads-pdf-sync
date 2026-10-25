@@ -1,0 +1,134 @@
+{
+ "id": "genesis-1-1-part-1/15",
+ "kinds": [
+  "verse"
+ ],
+ "title": "John 18:38-40: Pilate, the Passover custom, and Barabbas",
+ "summary": "Quotes John 18:38-40 in English: Pilate asks \"What is truth?\", finds no guilt in Jesus, offers to release the King of the Jews at Passover, and the crowd cries out for Barabbas instead, who was a robber. \"yeshua\" is in red, \"cried out\" is bold, and \"Bar\" of Barabbas is red with \"abbas\" in blue.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 18:38-40",
+   "osis": [
+    "John.18.38",
+    "John.18.39",
+    "John.18.40"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 18:38-40"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.18.38",
+   "text": "Pilate said to Him [yeshua], “What is truth?”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.18.38",
+   "text": "And when he had said this, he went out again to the Jews and said to them,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.18.38",
+   "text": "“I find no guilt in Him."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.18.39",
+   "text": "But you have a custom that I release someone for you at the Passover;"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.18.39",
+   "text": "do you wish then that I release for you the King of the Jews?”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.18.40",
+   "text": "So they cried out again, saying, “Not this Man, Release Barabbas.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.18.40",
+   "text": "Now Barabbas was a robber."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 18:38-40 / Ἰωάνης 18:38-40",
+   "osis": [
+    "John.18.38",
+    "John.18.39",
+    "John.18.40"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "other",
+   "word": "yeshua",
+   "translit": "yeshua",
+   "gloss": "Jesus (Hebrew name)",
+   "strongs": "H3442"
+  },
+  {
+   "lang": "el",
+   "word": "Βαραββᾶς",
+   "translit": "Barabbas",
+   "gloss": "Barabbas (son of the father)",
+   "strongs": "G912"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Pilate",
+   "Jesus",
+   "Barabbas"
+  ],
+  "places": [],
+  "events": [
+   "Passover"
+  ],
+  "things": [],
+  "themes": [
+   "substitution",
+   "redemption"
+  ],
+  "groups": [
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "Barabbas",
+  "Pilate",
+  "What is truth",
+  "release Barabbas",
+  "King of the Jews",
+  "Passover custom",
+  "no guilt in Him",
+  "John 18",
+  "trial of Jesus",
+  "yeshua",
+  "cried out",
+  "a robber",
+  "Not this Man"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

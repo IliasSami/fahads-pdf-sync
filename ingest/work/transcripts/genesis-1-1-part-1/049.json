@@ -1,0 +1,242 @@
+{
+ "id": "genesis-1-1-part-1/49",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:1 word by word: Matter, Space and Time",
+ "summary": "Genesis 1:1 (Bereshit 1:1) in Hebrew with transliteration and a colour-coded word-for-word English reading: In beginning, created, God, (et), the skywaters, and (et), the land. Arrows link “the land” to Matter, “the skywaters” to Space and “In beginning” to Time.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Bereshit 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "In beginning"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "created"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "God"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "(et)"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "the skywaters"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "and (et)"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "the land"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bereshit bara elohim et hashamayim ve’et ha’aretz"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Matter"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Space"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Time"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / Bereshit 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(et), sign of the direct object",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the skywaters",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve’et",
+   "gloss": "and (et)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha’aretz",
+   "gloss": "the land",
+   "strongs": "H776"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  },
+  {
+   "en": "bereshit",
+   "other": "בראשית"
+  },
+  {
+   "en": "created",
+   "other": "ברא"
+  },
+  {
+   "en": "bara",
+   "other": "ברא"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  },
+  {
+   "en": "(et)",
+   "other": "את"
+  },
+  {
+   "en": "et",
+   "other": "את"
+  },
+  {
+   "en": "the skywaters",
+   "other": "השמים"
+  },
+  {
+   "en": "hashamayim",
+   "other": "השמים"
+  },
+  {
+   "en": "the land",
+   "other": "הארץ"
+  },
+  {
+   "en": "ha’aretz",
+   "other": "הארץ"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "heavens",
+   "earth"
+  ],
+  "themes": [
+   "creation",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "Bereshit",
+  "In the beginning God created the heaven and the earth",
+  "matter space time",
+  "skywaters",
+  "the land",
+  "et",
+  "aleph tav",
+  "word by word Hebrew",
+  "interlinear",
+  "bara",
+  "elohim",
+  "hashamayim",
+  "ha'aretz",
+  "creation"
+ ],
+ "uncertain": [
+  "ואת is drawn with an orange ו and green את while its English and transliteration (“and (et)”, ve’et) are dark navy; no colour link recorded for it",
+  "this slide looks identical to slide 48"
+ ],
+ "confidence": 0.95
+}

@@ -1,0 +1,224 @@
+{
+ "id": "genesis-1-1-part-1/24",
+ "kinds": [
+  "verse",
+  "letters",
+  "word-study"
+ ],
+ "title": "Genesis 1:1 bereshit: the six letters of \"In the beginning\"",
+ "summary": "Genesis 1 header with bereshit in colour, \"In the beginning\" with \"the\" struck through, Genesis 1:1 in Hebrew with the first word's letters coloured, and then בראשית spelled out one letter at a time (bet, resh, alef, shin, yod, tav), each with its ancient pictograph.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "bereshit"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "In ~~the~~ beginning"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב ר א ש י ת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet resh alef shin yod tav"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1 / בראשית א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning (in the beginning)",
+   "strongs": "H7225"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "b",
+   "other": "ב"
+  },
+  {
+   "en": "r",
+   "other": "ר"
+  },
+  {
+   "en": "e",
+   "other": "א"
+  },
+  {
+   "en": "sh",
+   "other": "ש"
+  },
+  {
+   "en": "i",
+   "other": "י"
+  },
+  {
+   "en": "t",
+   "other": "ת"
+  },
+  {
+   "en": "bet",
+   "other": "ב"
+  },
+  {
+   "en": "resh",
+   "other": "ר"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "shin",
+   "other": "ש"
+  },
+  {
+   "en": "yod",
+   "other": "י"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  },
+  {
+   "en": "In beginning",
+   "other": "בראשית"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "house, tent (house/tent pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "head (head pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "strong, ox (ox-head pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "teeth, destroy (teeth pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "hand, work (hand pictograph)"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "covenant, cross (cross pictograph)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Row of six ancient (paleo-Hebrew) pictograph letters under the names of the letters of בראשית, each over a coloured underline matching its modern letter: house/tent (bet, red), head (resh, grey), ox head (alef, light blue), teeth (shin, black), hand (yod, orange-brown) and cross (tav, dark red).",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictographs",
+    "ancient Hebrew letters",
+    "bereshit",
+    "house",
+    "head",
+    "teeth",
+    "hand",
+    "cross"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.19,
+    0.76,
+    0.82,
+    0.92
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1",
+  "Genesis 1:1",
+  "bereshit",
+  "in the beginning",
+  "beginning",
+  "bet resh alef shin yod tav",
+  "Hebrew letters",
+  "paleo-Hebrew",
+  "pictographs",
+  "ancient Hebrew",
+  "In the beginning God created",
+  "first word of the Bible",
+  "Bereshith",
+  "בראשית"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

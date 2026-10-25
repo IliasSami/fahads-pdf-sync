@@ -1,0 +1,145 @@
+{
+ "id": "elijah-elisha/27",
+ "kinds": [
+  "word-study"
+ ],
+ "title": "Repentance = Return; Sabbath = Cross + Return",
+ "summary": "Repentance = teshuva (תשובה), Return; Sabbath = shabbat (שבת), with the final letter ת highlighted in red and linked to the word 'Cross' and the letters שב in gold linked to 'Return' beneath.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Repentance"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "teshuva"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תשובה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Return"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Sabbath"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shabbat"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שבת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "Sabbath"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Cross"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Return"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תשובה",
+   "translit": "teshuva",
+   "gloss": "repentance, return",
+   "strongs": "H8666"
+  },
+  {
+   "lang": "he",
+   "word": "שבת",
+   "translit": "shabbat",
+   "gloss": "Sabbath",
+   "strongs": "H7676"
+  },
+  {
+   "lang": "he",
+   "word": "שב",
+   "translit": "shav",
+   "gloss": "return",
+   "strongs": "H7725"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "shuv",
+   "other": "שוב"
+  },
+  {
+   "en": "shabb",
+   "other": "שב"
+  },
+  {
+   "en": "Cross",
+   "other": "ת"
+  },
+  {
+   "en": "Return",
+   "other": "שב"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "cross (colour-linked to the word 'Cross' on this slide)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "cross"
+  ],
+  "themes": [
+   "repentance",
+   "Sabbath",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "repentance",
+  "teshuva",
+  "Sabbath",
+  "shabbat",
+  "cross",
+  "tav",
+  "return",
+  "shuv",
+  "Sabbath cross return",
+  "Hebrew letter tav",
+  "Hebrew word for Sabbath",
+  "שבת"
+ ],
+ "uncertain": [
+  "The slide only colour-codes ת (red, 'Cross') and שב (gold, 'Return'); it does not spell out the connection in words."
+ ],
+ "confidence": 0.93
+}

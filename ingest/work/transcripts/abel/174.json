@@ -1,0 +1,72 @@
+{
+  "id": "abel/174",
+  "kinds": [
+    "verse"
+  ],
+  "title": "1 John 3:12 — Do not be like Cain",
+  "summary": "1 John 3:12 with its Greek reference: do not be like Cain, who belonged to the evil one and murdered his brother, because his own deeds were evil while those of his brother were righteous. The name Cain is picked out in green.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "1 John 3:12",
+      "osis": "1John.3.12"
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "Ἰωάνης A 3:12"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "1John.3.12",
+      "text": "12 Do not be like Cain, who belonged to the evil one and murdered his brother. And why did Cain slay him? Because his own deeds were evil, while those of his brother were righteous."
+    }
+  ],
+  "refs": [
+    {
+      "shown": "1 John 3:12 / Ἰωάνης A 3:12",
+      "osis": [
+        "1John.3.12"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Cain",
+      "Abel"
+    ],
+    "places": [],
+    "events": [],
+    "things": [],
+    "themes": [
+      "sin",
+      "righteousness",
+      "death"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "1 John 3:12",
+    "do not be like Cain",
+    "of the evil one",
+    "of that wicked one",
+    "murdered his brother",
+    "slew his brother",
+    "deeds were evil",
+    "brother's deeds were righteous",
+    "Cain slew Abel",
+    "why did Cain slay him",
+    "1 John 3",
+    "righteous Abel"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

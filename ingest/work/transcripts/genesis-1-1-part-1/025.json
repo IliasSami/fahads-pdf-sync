@@ -1,0 +1,223 @@
+{
+ "id": "genesis-1-1-part-1/25",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "Bereshit in ancient pictographs: Son of God destroyed with hand on cross",
+ "summary": "Spells the first word of Genesis 1:1, bereshit (בראשית), letter by letter in colour with an ancient pictograph and a meaning under each: bet (son of, bar), resh, alef (God), shin (destroy), yod (hand), tav (cross). The slide reads them together as “Son of God Destroyed with Hand on Cross.”",
+ "text": [
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ב ר א ש י ת"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "resh"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "shin"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yod"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "tav"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Son of (bar)"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "God"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Destroy"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Hand"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Cross"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Son of God Destroyed with Hand on Cross"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "בר",
+   "translit": "bar",
+   "gloss": "son of",
+   "strongs": "H1247"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Son of (bar)",
+   "other": "ב"
+  },
+  {
+   "en": "God",
+   "other": "א"
+  },
+  {
+   "en": "Destroy",
+   "other": "ש"
+  },
+  {
+   "en": "Hand",
+   "other": "י"
+  },
+  {
+   "en": "Cross",
+   "other": "ת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "son of (bar)"
+  },
+  {
+   "lang": "he",
+   "letter": "resh",
+   "char": "ר",
+   "value": 200,
+   "meaning": "(with bet, bar: son of)"
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "God"
+  },
+  {
+   "lang": "he",
+   "letter": "shin",
+   "char": "ש",
+   "value": 300,
+   "meaning": "destroy"
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "hand"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "cross"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Row of six ancient (paleo-)Hebrew letter glyphs in black, each over a coloured line, under the six modern letters of בראשית: a cross (tav), an arm and hand (yod), a wavy teeth shape (shin), an ox head (alef), a head shape (resh) and a house/box shape (bet).",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictographs",
+    "ancient Hebrew letters",
+    "cross",
+    "hand"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.1,
+    0.4,
+    0.9,
+    0.56
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Crucifixion",
+   "Creation"
+  ],
+  "things": [
+   "cross"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "pictographs",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "bereshit",
+  "Genesis 1:1",
+  "in the beginning",
+  "Son of God",
+  "cross",
+  "paleo-Hebrew",
+  "ancient Hebrew letters",
+  "pictographs",
+  "alef",
+  "aleph",
+  "bet",
+  "resh",
+  "shin",
+  "yod",
+  "tav",
+  "bar",
+  "letter meanings",
+  "hidden message in Genesis 1:1"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

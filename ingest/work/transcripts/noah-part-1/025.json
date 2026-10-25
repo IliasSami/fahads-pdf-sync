@@ -1,0 +1,108 @@
+{
+ "id": "noah-part-1/25",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 6:6–8 — God is sorry, mercy and judgment, Noah finds favor",
+ "summary": "Genesis 6:6-8 in English: the LORD is sorry He made man and says He will blot man out, and then Noah finds favor in the LORD's eyes. Beneath verse 7 the multicoloured word God sits between “↓ Mercy ↓” and “↑ Judgment ↑”; the letters of LORD are in different colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:6-8",
+   "osis": [
+    "Gen.6.6",
+    "Gen.6.7",
+    "Gen.6.8"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:ו-ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.6",
+   "text": "6 The LORD was sorry that He had made man on the earth, and He was grieved in His heart"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.7",
+   "text": "7 The LORD said, “I will blot out man whom I have created from the face of the land, from man to animals to creeping things and to birds of the sky; for I am sorry that I have made them.”"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "↓ Mercy ↓"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "God"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "↑ Judgment ↑"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.8",
+   "text": "8 And Noah found favor in the eyes of the LORD."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:6-8 / בראשית ו:ו-ח",
+   "osis": [
+    "Gen.6.6",
+    "Gen.6.7",
+    "Gen.6.8"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [],
+  "themes": [
+   "mercy",
+   "judgment",
+   "grace",
+   "sin"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 6",
+  "Noah found favor",
+  "Noah found grace",
+  "the LORD was sorry",
+  "grieved in His heart",
+  "blot out man",
+  "mercy and judgment",
+  "God's judgment",
+  "before the flood",
+  "repented that he had made man",
+  "Noah",
+  "grace in the eyes of the LORD"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

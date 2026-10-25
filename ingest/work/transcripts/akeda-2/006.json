@@ -1,0 +1,26 @@
+{
+  "id": "akeda-2/6",
+  "kinds": ["verse"],
+  "title": "Genesis 22:15-18 — God's oath: your seed shall possess the gate of their enemies",
+  "summary": "Genesis 22:15-18 in English: the angel of the LORD calls to Abraham a second time and swears that, because he did not withhold his only son, his seed will be multiplied like the stars and sand, possess the gate of their enemies, and bless all nations.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22", "osis": ["Gen.22.15", "Gen.22.16", "Gen.22.17", "Gen.22.18"]},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב"},
+    {"lang": "en", "role": "heading", "text": "The Akedah"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.15", "text": "15 Then the angel of the LORD called to Abraham a second time from heaven,"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.16", "text": "16 and said, \"By Myself I have sworn, declares the LORD, because you have done this thing and have not withheld your son, your only son,"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.17", "text": "17 indeed I will greatly bless you, and I will greatly multiply your seed as the stars of the heavens and as the sand which is on the seashore; and your seed shall possess the gate of their enemies."},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.18", "text": "18 \"In your seed all the nations of the earth shall be blessed, because you have obeyed My voice.\""}
+  ],
+  "refs": [{"shown": "Genesis 22 / בראשית כב (verses 15-18)", "osis": ["Gen.22.15", "Gen.22.16", "Gen.22.17", "Gen.22.18"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham", "Isaac"], "places": [], "events": ["Binding of Isaac (Akedah)"], "things": ["gate", "stars", "sand"], "themes": ["covenant", "blessing", "seed", "obedience", "oath", "only son"], "groups": ["angels", "nations"]},
+  "keywords": ["Genesis 22:15-18", "angel of the LORD", "by Myself I have sworn", "only son", "stars of heaven", "sand on the seashore", "possess the gate of his enemies", "in thy seed shall all nations be blessed", "obeyed my voice", "Abrahamic covenant", "blessing", "Akedah", "Genesis 22"],
+  "uncertain": [],
+  "confidence": 0.96
+}

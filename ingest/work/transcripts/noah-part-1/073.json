@@ -1,0 +1,94 @@
+{
+ "id": "noah-part-1/73",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 7:2-3: clean animals by sevens, unclean animals by twos, birds by sevens",
+ "summary": "Genesis 7:2-3 in English: Noah is told to take clean animals by sevens (male and female), unclean animals by twos, and birds of the sky by sevens, to keep offspring alive on the face of all the earth.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 7:2-3",
+   "osis": [
+    "Gen.7.2",
+    "Gen.7.3"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ז:ב-ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.2",
+   "text": "2 “You shall take with you of every clean animal by sevens, a male and his female; and of the animals that are not clean two, a male and his female;"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.3",
+   "text": "3 also of the birds of the sky, by sevens, male and female, to keep offspring alive on the face of all the earth."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 7:2-3 / בראשית ז:ב-ג",
+   "osis": [
+    "Gen.7.2",
+    "Gen.7.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "clean animals and birds taken by sevens"
+  },
+  {
+   "value": 2,
+   "note": "unclean animals taken by twos"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "clean animals",
+   "unclean animals",
+   "birds"
+  ],
+  "themes": [
+   "clean and unclean",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 7:2-3",
+  "clean animals by sevens",
+  "unclean animals by twos",
+  "male and his female",
+  "birds of the sky by sevens",
+  "keep offspring alive",
+  "seven pairs clean animals",
+  "Noah's ark animals",
+  "clean and unclean",
+  "Genesis 7"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

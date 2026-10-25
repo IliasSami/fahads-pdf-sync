@@ -1,0 +1,106 @@
+{
+ "id": "noah-part-2/73",
+ "kinds": [
+  "verse",
+  "calendar"
+ ],
+ "title": "Genesis 8:13 — the water dried up on the first of Tishri",
+ "summary": "Genesis 8:13: in Noah's 601st year, on the first day of the first month, the water was dried up and Noah removed the ark's covering. Below the verse is a 30-day calendar for the month of Tishri with day 1 in blue, day 10 in red and days 15 through 22 in green.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:13",
+   "osis": "Gen.8.13"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:יג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.13",
+   "text": "13 Now it came about in the six hundred and first year, in the first month, on the first of the month, the water was dried up from the earth. Then Noah removed the covering of the ark, and looked, and behold, the surface of the ground was dried up."
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "tishri"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "1 2 3 4 5 6 7 · 8 9 10 11 12 13 14 · 15 16 17 18 19 20 21 · 22 23 24 25 26 27 28 · 29 30"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:13 / בראשית ח:יג",
+   "osis": [
+    "Gen.8.13"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 601,
+   "note": "Noah's six hundred and first year"
+  },
+  {
+   "value": 1,
+   "note": "the first day of the first month (day 1 of Tishri, shown in blue)"
+  },
+  {
+   "value": 10,
+   "note": "day 10 of Tishri shown in red"
+  },
+  {
+   "value": 22,
+   "note": "days 15 to 22 of Tishri shown in green"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "Hebrew calendar"
+  ],
+  "themes": [
+   "biblical feasts",
+   "Flood chronology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Tishri",
+  "first of the month",
+  "first month",
+  "601st year",
+  "six hundred and first year",
+  "water dried up",
+  "Noah removed the covering of the ark",
+  "Genesis 8:13",
+  "Hebrew calendar",
+  "Flood timeline",
+  "Rosh Hashanah",
+  "Yom Kippur",
+  "Sukkot",
+  "Tabernacles",
+  "calendar days 1 to 30"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

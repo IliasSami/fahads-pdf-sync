@@ -1,0 +1,37 @@
+{
+  "id": "akeda-1/15",
+  "kinds": ["verse", "comparison"],
+  "title": "Genesis 18:13-14 beside the angel's words to Mary (headed Matthew 1:34-37)",
+  "summary": "Pairs the promise of Sarah's son (Genesis 18:13-14) with the angel's announcement to Mary (labelled Matthew 1:34-37, though the quoted words are those of Luke 1:34-35): the Holy Spirit will come upon Mary and the holy Child shall be called the Son of God. Matching colours (I, you, her, Son) link the two passages.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 18:13", "osis": "Gen.18.13"},
+    {"lang": "he", "role": "reference", "text": "בראשית יח:יג"},
+    {"lang": "en", "role": "verse", "osis": "Gen.18.13", "text": "13 And the LORD said to Abraham, “Why did Sarah laugh,"},
+    {"lang": "en", "role": "verse", "osis": "Gen.18.13", "text": "saying, ‘Shall I indeed bear a child, when I am so old?’"},
+    {"lang": "en", "role": "verse", "osis": "Gen.18.14", "text": "14 “Is anything too difficult for the LORD?"},
+    {"lang": "en", "role": "verse", "osis": "Gen.18.14", "text": "At the appointed time I will return to you,"},
+    {"lang": "en", "role": "verse", "osis": "Gen.18.14", "text": "at this time next year, and Sarah will have a son.”"},
+    {"lang": "en", "role": "reference", "text": "Matthew 1:34-37", "osis": ["Luke.1.34", "Luke.1.35", "Luke.1.36", "Luke.1.37"]},
+    {"lang": "el", "role": "reference", "text": "Μαθθαῖον 1:34-37"},
+    {"lang": "en", "role": "verse", "osis": "Luke.1.34", "text": "34 Mary said to the angel,"},
+    {"lang": "en", "role": "verse", "osis": "Luke.1.34", "text": "“How can this be, since I am a virgin?”"},
+    {"lang": "en", "role": "verse", "osis": "Luke.1.35", "text": "35 The angel answered and said to her,"},
+    {"lang": "en", "role": "verse", "osis": "Luke.1.35", "text": "“The Holy Spirit will come upon you, and the power of the"},
+    {"lang": "en", "role": "verse", "osis": "Luke.1.35", "text": "Most High will overshadow you; and for that reason the"},
+    {"lang": "en", "role": "verse", "osis": "Luke.1.35", "text": "holy Child shall be called the Son of God."}
+  ],
+  "refs": [
+    {"shown": "Genesis 18:13 / בראשית יח:יג", "osis": ["Gen.18.13", "Gen.18.14"], "role": "quoted"},
+    {"shown": "Matthew 1:34-37 / Μαθθαῖον 1:34-37 (quoted text is Luke 1:34-35)", "osis": ["Luke.1.34", "Luke.1.35"], "role": "quoted"},
+    {"shown": "Matthew 1:34-37 / Μαθθαῖον 1:34-37 (verses 36-37 named in the heading, not shown)", "osis": ["Luke.1.36", "Luke.1.37"], "role": "cited"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham", "Sarah", "Mary", "Holy Spirit", "Jesus", "Isaac"], "places": [], "events": ["Birth of Isaac", "Annunciation"], "things": [], "themes": ["prophecy", "virgin birth", "typology", "messianic prophecy", "promise"], "groups": ["angels"]},
+  "keywords": ["Genesis 18:13", "Matthew 1:34-37", "Luke 1:34", "Luke 1:35", "Annunciation", "virgin birth", "Mary and the angel", "Holy Spirit will come upon you", "Son of God", "Sarah and Mary", "Is anything too difficult for the LORD", "overshadow", "Most High"],
+  "uncertain": ["Slide heading says Matthew 1:34-37 (Greek Μαθθαῖον) but the quoted words are Luke 1:34-35; transcribed as shown. Verses 36-37 are named in the heading but not shown."],
+  "confidence": 0.94
+}

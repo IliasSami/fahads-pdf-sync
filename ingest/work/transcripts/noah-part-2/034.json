@@ -1,0 +1,153 @@
+{
+ "id": "noah-part-2/34",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Jesus: bread of life, living water, and Light of the world (John 6:48, 4:14, 9:5)",
+ "summary": "Three sayings of Jesus stacked on one slide: John 6:48 \"I am the bread of life\", the second quote labelled John 6:48 in English but Ἰωάνης 4:14 in Greek about the water that becomes a well springing up to eternal life, and John 9:5 \"I am the Light of the world\" signed yeshua. Bread is brown, water light blue, Light gold, and the names of Jesus in red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 6:48",
+   "osis": "John.6.48"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 6:48"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.6.48",
+   "text": "48 \"I am the bread of life.—Jesus"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 6:48",
+   "osis": "John.4.14"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 4:14"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.4.14",
+   "text": "14 but whoever drinks of the water that I will give him shall never thirst; but the water that I will give him will become in him a well of water springing up to eternal life.”—"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ישוע"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 9:5",
+   "osis": "John.9.5"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 9:5"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.9.5",
+   "text": "5 “While I am in the world, I am the Light of the world.”—"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yeshua"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 6:48 / Ἰωάνης 6:48",
+   "osis": [
+    "John.6.48"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "John 6:48 (English) / Ἰωάνης 4:14 (Greek)",
+   "osis": [
+    "John.4.14"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "John 9:5 / Ἰωάνης 9:5",
+   "osis": [
+    "John.9.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Jesus (Yeshua)",
+   "strongs": "H3442"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Jesus",
+   "other": "ישוע"
+  },
+  {
+   "en": "yeshua",
+   "other": "ישוע"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "bread",
+   "water",
+   "light"
+  ],
+  "themes": [
+   "light and darkness",
+   "eternal life",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 6:48",
+  "John 4:14",
+  "John 9:5",
+  "bread of life",
+  "living water",
+  "Light of the world",
+  "I am the Light of the world",
+  "never thirst",
+  "eternal life",
+  "Jesus",
+  "Yeshua",
+  "I AM sayings",
+  "Gospel of John"
+ ],
+ "uncertain": [
+  "The second header reads John 6:48 in English but Ἰωάνης 4:14 in Greek; the quoted text is John 4:14 (transcribed as shown)."
+ ],
+ "confidence": 0.94
+}

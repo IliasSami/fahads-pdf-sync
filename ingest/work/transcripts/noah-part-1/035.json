@@ -1,0 +1,122 @@
+{
+ "id": "noah-part-1/35",
+ "kinds": [
+  "letters"
+ ],
+ "title": "The Hebrew letter nun (נ, final ן): Fish, Life, 50",
+ "summary": "Close-up on the letter nun: the letter and its final form (in brackets) in three typefaces at the top, and below the alef-bet row 14: nun N, its ancient fish pictograph, meaning “Fish, Life”, gematria 50 — all in green.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "נ (ן)"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "נ (ן)"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "נ (ן)"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "14."
+  },
+  {
+   "lang": "he",
+   "role": "table",
+   "text": "נ (ן)"
+  },
+  {
+   "lang": "translit",
+   "role": "table",
+   "text": "nun"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "N"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Fish, Life"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "50"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "nun",
+   "char": "נ",
+   "value": 50,
+   "meaning": "Fish, Life (ancient fish pictograph; final form ן)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 50,
+   "note": "gematria of the letter nun (נ)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) glyph of the letter nun: a curving fish-like line with a small loop at one end, on a green baseline.",
+   "subjects": [
+    "paleo-Hebrew",
+    "pictograph",
+    "fish",
+    "ancient Hebrew letter nun"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.49,
+    0.48,
+    0.6,
+    0.62
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "fish"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "nun",
+  "Hebrew letter nun",
+  "נ",
+  "final nun ן",
+  "fish",
+  "life",
+  "fifty",
+  "50",
+  "pictograph of a fish",
+  "ancient Hebrew nun",
+  "letter 14",
+  "alef-bet"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,32 @@
+{
+  "id": "fall-of-man/38",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 1:3 — “Be light” (yehi ore): the Hebrew word for light, אור",
+  "summary": "Genesis 1:3 shown word for word in English, transliteration and Hebrew, with the added English words “Let there” and “there” crossed out to show the Hebrew simply says “Be light; and was light.” The word for light, אור, is pronounced “ore”.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 1:3", "osis": "Gen.1.3"},
+    {"lang": "he", "role": "reference", "text": "בראשית א:ג", "osis": "Gen.1.3"},
+    {"lang": "en", "role": "verse", "text": "3 And said elohim, “Let there Be light”; and there was light.", "osis": "Gen.1.3"},
+    {"lang": "translit", "role": "verse", "text": "vayyomer elohim yehi ore vayhi ore", "osis": "Gen.1.3"},
+    {"lang": "he", "role": "verse", "text": "ויאמר אלהים יהי אור ויהי אור׃", "osis": "Gen.1.3"}
+  ],
+  "refs": [{"shown": "Genesis 1:3 / בראשית א:ג", "osis": ["Gen.1.3"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "אור", "translit": "ore", "gloss": "light", "strongs": "H216"},
+    {"lang": "he", "word": "יהי", "translit": "yehi", "gloss": "be / let there be", "strongs": "H1961"},
+    {"lang": "he", "word": "אלהים", "translit": "elohim", "gloss": "God", "strongs": "H430"},
+    {"lang": "he", "word": "ויאמר", "translit": "vayyomer", "gloss": "and said", "strongs": "H559"}
+  ],
+  "color_links": [
+    {"en": "And", "other": "ו"},
+    {"en": "elohim", "other": "אלהים"},
+    {"en": "light", "other": "אור"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God"], "places": [], "events": ["Creation"], "things": ["light"], "themes": ["light and darkness", "creation", "Hebrew wordplay"], "groups": []},
+  "keywords": ["let there be light", "and there was light", "yehi or", "yehi ore", "vayomer elohim", "Hebrew word for light", "or", "ohr", "light", "God said", "word-for-word Hebrew", "Genesis 1", "Genesis 1:3", "first day of creation"],
+  "uncertain": [],
+  "confidence": 0.93
+}

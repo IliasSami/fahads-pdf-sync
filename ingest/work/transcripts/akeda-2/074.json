@@ -1,0 +1,165 @@
+{
+ "id": "akeda-2/74",
+ "kinds": [
+  "verse",
+  "word-study",
+  "gematria"
+ ],
+ "title": "Genesis 24:11 — the camels: gamal גמל = 30 + 40 + 3 = 73",
+ "summary": "Same Genesis 24:11 slide with the word gamal (גמל), Camel, now showing its letter values 30, 40 and 3 adding up to 73.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 24",
+   "osis": "Gen.24.11"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כד"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.24.11",
+   "text": "11 And He made the camels kneel down outside the city by the well of water at evening time, the time when women go out to draw water."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.24.11",
+   "text": "11 ויברך הגמלים מחוץ לעיר אל־באר המים לעת ערב לעת צאת השאבת׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "gamal"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ג מ ל"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Camel"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "30 40 3 = 73"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 24 / בראשית כד (verse 11 quoted)",
+   "osis": [
+    "Gen.24.11"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "גמל",
+   "translit": "gamal",
+   "gloss": "camel",
+   "strongs": "H1581",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     30,
+     40,
+     3
+    ],
+    "total": 73
+   }
+  },
+  {
+   "lang": "he",
+   "word": "הגמלים",
+   "translit": "hagemalim",
+   "gloss": "the camels",
+   "strongs": "H1581",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "camels",
+   "other": "הגמלים"
+  },
+  {
+   "en": "gamal",
+   "other": "גמל"
+  },
+  {
+   "en": "Camel",
+   "other": "גמל"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "gimel",
+   "char": "ג",
+   "value": 3,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 73,
+   "note": "gematria of גמל (camel)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "camels",
+   "well"
+  ],
+  "themes": [
+   "gematria",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "camel",
+  "camels",
+  "gamal",
+  "gematria 73",
+  "gematria camel",
+  "Genesis 24",
+  "Genesis 24:11",
+  "well of water",
+  "women draw water",
+  "evening time",
+  "Eliezer at the well",
+  "Hebrew word for camel",
+  "גמל"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

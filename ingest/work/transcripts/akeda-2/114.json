@@ -1,0 +1,83 @@
+{
+ "id": "akeda-2/114",
+ "kinds": [
+  "text"
+ ],
+ "title": "Isaac trusts Abraham and his most trusted servant to find a bride for him",
+ "summary": "Adds a third statement: Isaac trusts Abraham and his most trusted servant to find a bride for him. Together with the two earlier statements it lists the trust between Isaac, Abraham and the servant Eliezer.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Isaac trusts his father"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "by allowing himself to be tied up to be sacrificed."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Abraham trusts his servant, Eliezer"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "so much he was his sole heir."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Isaac trusts Abraham and most trusted servant"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "to find a bride for him."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Isaac",
+   "Abraham",
+   "Eliezer"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [],
+  "themes": [
+   "faith",
+   "obedience",
+   "trust",
+   "marriage"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Isaac trusts Abraham",
+  "most trusted servant",
+  "find a bride for Isaac",
+  "bride for Isaac",
+  "servant sent to find a wife",
+  "Eliezer",
+  "Rebekah",
+  "Genesis 24",
+  "Isaac's bride",
+  "trust",
+  "Akedah",
+  "Akeda"
+ ],
+ "uncertain": [
+  "Third statement reads \"Isaac trusts Abraham and most trusted servant\" (no \"his\") — transcribed as shown"
+ ],
+ "confidence": 0.97
+}

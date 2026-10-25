@@ -1,0 +1,83 @@
+{
+  "id": "elijah-elisha/11",
+  "kinds": [
+    "comparison",
+    "list"
+  ],
+  "title": "Joseph / Yeshua parallels: sold for 20 / 30 pieces of silver",
+  "summary": "The Joseph–Yeshua parallels list grows: sent by the Father, betrayed by his brothers, and sold for silver — 20 pieces for Joseph (green) and 30 for Yeshua (red).",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Joseph / yeshua Parallels"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sent by Father to check on brothers"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Betrayed by his brothers"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sold for 20/30 pieces of silver"
+    }
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {
+      "value": 20,
+      "note": "pieces of silver Joseph was sold for"
+    },
+    {
+      "value": 30,
+      "note": "pieces of silver paid to betray Yeshua"
+    }
+  ],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Joseph",
+      "Jesus",
+      "Jacob",
+      "God"
+    ],
+    "places": [],
+    "events": [],
+    "things": [
+      "silver"
+    ],
+    "themes": [
+      "typology",
+      "betrayal"
+    ],
+    "groups": [
+      "Joseph's brothers"
+    ]
+  },
+  "keywords": [
+    "Joseph",
+    "Yeshua",
+    "Jesus",
+    "parallels",
+    "Joseph as a type of Christ",
+    "betrayed by his brothers",
+    "betrayal",
+    "Judas",
+    "sold for twenty pieces of silver",
+    "thirty pieces of silver",
+    "Genesis 37:28",
+    "Matthew 26:15",
+    "foreshadowing"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

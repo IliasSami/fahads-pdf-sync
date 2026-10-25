@@ -1,0 +1,149 @@
+{
+ "id": "genesis-1-1-part-1/11",
+ "kinds": [
+  "letters",
+  "word-study"
+ ],
+ "title": "Alef + bet = ab = Father (strength of the house)",
+ "summary": "Same alef and bet comparison as the previous slide, now adding that alef and bet together spell אב, \"ab\", which means Father — the \"Strength of the House\".",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב א ←"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet   alef"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "B   A"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "House, Tent"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Ox Head, Strength, God"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Strength of the House"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אב"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "= ab = Father"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אב",
+   "translit": "ab",
+   "gloss": "father",
+   "strongs": "H1"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "bet",
+   "other": "ב"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "ab",
+   "other": "אב"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": null,
+   "meaning": "Ox Head, Strength, God"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": null,
+   "meaning": "House, Tent"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Two ancient (paleo-Hebrew) pictographs side by side: a red-underlined tent/house shape for bet and a blue-underlined ox head for alef.",
+   "subjects": [
+    "tent",
+    "house",
+    "ox head",
+    "alef pictograph",
+    "bet pictograph",
+    "paleo-Hebrew"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.39,
+    0.38,
+    0.56,
+    0.5
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "ox",
+   "tent",
+   "house"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "word study",
+   "fatherhood"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "ab",
+  "av",
+  "father",
+  "Hebrew word for father",
+  "alef bet",
+  "strength of the house",
+  "ox head",
+  "tent",
+  "house",
+  "אב",
+  "Hebrew letter meanings",
+  "pictographs",
+  "paleo-Hebrew"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

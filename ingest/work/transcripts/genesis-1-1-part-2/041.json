@@ -1,0 +1,234 @@
+{
+ "id": "genesis-1-1-part-2/41",
+ "kinds": [
+  "verse",
+  "list"
+ ],
+ "title": "Exodus 20:1 — 7 words and 28 letters before the Ten Commandments",
+ "summary": "Exodus 20:1 (\"And God spoke all these words saying\") in English and Hebrew, noting that these 7 words of 28 letters come before the first of the Ten Commandments, which are then listed I to X with their references. The word God and the Hebrew אלהים are colour-matched.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 20:1",
+   "osis": "Exod.20.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות כ:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.20.1",
+   "text": "And God spoke all these words saying,"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Exod.20.1",
+   "text": "וידבר אלהים את כל הדברים האלה לאמר׃"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "These 7 words of 28 letters precede God’s 1st Ten Commandments."
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "I You shall have no other gods before Me. (20:3)"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "II You shall not make any graven images. (20:4)"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "III You shall not take the name of the LORD your God in vain. (20:7)"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "IV Remember the Sabbath day, to keep it holy. (20:8)"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "V Honor your father and your mother. (20:3)"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "VI You shall not murder. (20:13)"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "VII You shall not commit adultery. (20:14)"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "VIII You shall not steal. (20:15)"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "IX You shall not bear false witness against your neighbor. (20:16)"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "X You shall not covet. (20:17)"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 20:1 / שמות כ:א",
+   "osis": [
+    "Exod.20.1"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Exodus 20:3",
+   "osis": [
+    "Exod.20.3"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Exodus 20:4",
+   "osis": [
+    "Exod.20.4"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Exodus 20:7",
+   "osis": [
+    "Exod.20.7"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Exodus 20:8",
+   "osis": [
+    "Exod.20.8"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Exodus 20:13",
+   "osis": [
+    "Exod.20.13"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Exodus 20:14",
+   "osis": [
+    "Exod.20.14"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Exodus 20:15",
+   "osis": [
+    "Exod.20.15"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Exodus 20:16",
+   "osis": [
+    "Exod.20.16"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Exodus 20:17",
+   "osis": [
+    "Exod.20.17"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "And",
+   "other": "ו"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "words in Exodus 20:1, before the Ten Commandments"
+  },
+  {
+   "value": 28,
+   "note": "letters in those 7 Hebrew words"
+  },
+  {
+   "value": 10,
+   "note": "the Ten Commandments listed on the slide"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "giving of the Ten Commandments"
+  ],
+  "things": [],
+  "themes": [
+   "Torah",
+   "holiness",
+   "obedience",
+   "gematria",
+   "Bible codes"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Exodus 20",
+  "Ten Commandments",
+  "10 commandments",
+  "Decalogue",
+  "And God spoke all these words",
+  "7 words 28 letters",
+  "number 7",
+  "number 28",
+  "graven image",
+  "Sabbath",
+  "thou shalt not",
+  "no other gods",
+  "honor your father and mother",
+  "do not covet"
+ ],
+ "uncertain": [
+  "The fifth commandment (Honor your father and your mother) is labelled (20:3) on the slide; transcribed as shown (the verse is Exodus 20:12)."
+ ],
+ "confidence": 0.96
+}

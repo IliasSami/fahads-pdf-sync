@@ -1,0 +1,32 @@
+{
+  "id": "elijah-elisha/5",
+  "kinds": ["comparison", "word-study"],
+  "title": "The Akedah parallel: a first-born son willingly follows his father",
+  "summary": "Continues the Akedah (Binding of Isaac) comparison: Isaac, a first-born male, willingly follows his father's instructions, just as Yeshua, a first-born male, willingly follows His Father's instructions.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Binding of"},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "en", "role": "heading", "text": "The Binding of"},
+    {"lang": "en", "role": "label", "text": "Isaac"},
+    {"lang": "en", "role": "label", "text": "The Akedah"},
+    {"lang": "en", "role": "label", "text": "yeshua"},
+    {"lang": "en", "role": "body", "text": "Isaac, a first-born male, willingly follows his father’s instructions."},
+    {"lang": "en", "role": "body", "text": "yeshua, a first-born male, willingly follows His Father’s instructions."}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "העקדה", "translit": "ha-akedah", "gloss": "the binding", "strongs": "H6123"},
+    {"lang": "he", "word": "ישוע", "translit": "yeshua", "gloss": "Jesus (Yeshua, “salvation”)", "strongs": null}
+  ],
+  "color_links": [
+    {"en": "The", "other": "ה"},
+    {"en": "Akedah", "other": "עקדה"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Isaac", "Abraham", "Jesus", "God"], "places": [], "events": ["Binding of Isaac (Akedah)"], "things": [], "themes": ["firstborn", "obedience", "typology", "sacrifice"], "groups": []},
+  "keywords": ["Akedah", "Akeda", "Binding of Isaac", "first-born son", "firstborn", "willing obedience", "obeyed his father", "Yeshua", "Jesus", "Genesis 22", "parallels", "type of Christ"],
+  "uncertain": [],
+  "confidence": 0.94
+}

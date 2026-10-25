@@ -1,0 +1,75 @@
+{
+ "id": "red-heifer/3",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Isaiah 11:12 — God gathers the dispersed of Israel and Judah",
+ "summary": "Isaiah 11:12 in English with the Hebrew reference: He will set up a banner for the nations and gather the outcasts of Israel and the dispersed of Judah from the four corners of the earth. A few letters in Israel and Judah are coloured.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Isaiah 11:12",
+   "osis": "Isa.11.12"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ישעה יא:יב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Isa.11.12",
+   "text": "12 He will set up a banner for the nations, And will assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Isaiah 11:12 / ישעה יא:יב",
+   "osis": [
+    "Isa.11.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "banner"
+  ],
+  "themes": [
+   "prophecy",
+   "regathering of Israel"
+  ],
+  "groups": [
+   "Israel",
+   "Jews",
+   "Gentiles"
+  ]
+ },
+ "keywords": [
+  "Isaiah 11:12",
+  "banner for the nations",
+  "ensign",
+  "outcasts of Israel",
+  "dispersed of Judah",
+  "four corners of the earth",
+  "regathering of Israel",
+  "return of the Jews",
+  "ingathering",
+  "prophecy",
+  "Isaiah 11"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

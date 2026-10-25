@@ -1,0 +1,149 @@
+{
+ "id": "genesis-1-1-part-2/37",
+ "kinds": [
+  "list",
+  "verse"
+ ],
+ "title": "In Genesis 1, God saw 7 times",
+ "summary": "Lists the seven places in Genesis 1 where God saw: that the light was good (verse 4), that it was good (verses 10, 12, 18, 21, 25), and finally everything He had made, very good (verse 31). The title makes the point that God saw seven times.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "In Genesis 1, God Saw 7 Times"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "4 …and God saw that the light was good;…",
+   "osis": "Gen.1.4"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "10 …and God saw that it was good.",
+   "osis": "Gen.1.10"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "12 …and God saw that it was good.",
+   "osis": "Gen.1.12"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "18 …and God saw that it was good.",
+   "osis": "Gen.1.18"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "21 …and God saw that it was good.",
+   "osis": "Gen.1.21"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "25 …and God saw that it was good.",
+   "osis": "Gen.1.25"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "31 And God saw all that He had made, and behold, it was very good…",
+   "osis": "Gen.1.31"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:4",
+   "osis": [
+    "Gen.1.4"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 1:10",
+   "osis": [
+    "Gen.1.10"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 1:12",
+   "osis": [
+    "Gen.1.12"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 1:18",
+   "osis": [
+    "Gen.1.18"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 1:21",
+   "osis": [
+    "Gen.1.21"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 1:25",
+   "osis": [
+    "Gen.1.25"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 1:31",
+   "osis": [
+    "Gen.1.31"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "God saw seven times in Genesis 1"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "number seven"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "God saw that it was good",
+  "and God saw",
+  "God saw seven times",
+  "seven in Genesis 1",
+  "it was very good",
+  "Genesis 1",
+  "creation days",
+  "light was good",
+  "Genesis 1:31",
+  "number 7",
+  "biblical numbers"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

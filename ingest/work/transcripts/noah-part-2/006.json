@@ -1,0 +1,114 @@
+{
+ "id": "noah-part-2/6",
+ "kinds": [
+  "comparison",
+  "list",
+  "word-study"
+ ],
+ "title": "The ark and Yeshua: one way to salvation",
+ "summary": "Completes the ark and yeshua comparison with the line 'One Way To Salvation', after 'Side Opened Up'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Ark"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "yeshua"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Takes God’s Wrath"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Spares Those Inside"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Shows Atonement of Christ"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "kopher"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "כפר"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Side Opened Up"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "One Way To Salvation"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "כפר",
+   "translit": "kopher",
+   "gloss": "pitch (Noah's ark was covered with it); atonement / ransom — the root means 'to cover'",
+   "strongs": "H3724"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "typology",
+   "atonement",
+   "salvation",
+   "judgment"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "ark and Jesus",
+  "ark of Noah",
+  "yeshua",
+  "Yeshua",
+  "Jesus",
+  "typology",
+  "Noah's ark",
+  "wrath of God",
+  "God's wrath",
+  "spares those inside",
+  "saved inside the ark",
+  "comparison ark and Christ",
+  "kopher",
+  "pitch",
+  "atonement",
+  "side opened up",
+  "one way to salvation",
+  "only one door",
+  "Strong's H3724",
+  "Genesis 6:16"
+ ],
+ "uncertain": [
+  "Hebrew כפר is shown unpointed with three colours (black כ, purple פ, olive ר); no Bible reference on the slide."
+ ],
+ "confidence": 0.93
+}

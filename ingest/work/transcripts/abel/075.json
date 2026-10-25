@@ -1,0 +1,162 @@
+{
+  "id": "abel/75",
+  "kinds": [
+    "verse",
+    "word-study"
+  ],
+  "title": "Genesis 4:7 — chattah (sin) is a feminine singular noun",
+  "summary": "Genesis 4:7 with sin (חטאת) underlined in magenta and the Hebrew word chattah (חטאה, sin) below, labelled as a noun, feminine, singular, with “Feminine” in the same magenta as the underline.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:7",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:ז",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "7 If you do well, will you not be accepted?",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "And if you do not do well, sin lies at the door.",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "And its desire is for you, but you should rule over it.”",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "7 הלוא אם תיטיב שאת",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ואם לא תיטיב לפתח חטאת רבץ",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ואליך תשוקתו ואתה תמשל בו׃",
+      "osis": "Gen.4.7"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "chattah"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "חטאה"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Sin"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Noun, Feminine, Singular"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:7 / בראשית ד:ז",
+      "osis": [
+        "Gen.4.7"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "חטאה",
+      "translit": "chattah",
+      "gloss": "sin",
+      "strongs": "H2403"
+    },
+    {
+      "lang": "he",
+      "word": "חטאת",
+      "translit": "chattat",
+      "gloss": "sin (as in the verse)",
+      "strongs": "H2403"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "sin",
+      "other": "חטאת"
+    },
+    {
+      "en": "chattah",
+      "other": "חטאה"
+    },
+    {
+      "en": "Sin",
+      "other": "חטאה"
+    }
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Cain",
+      "God"
+    ],
+    "places": [],
+    "events": [
+      "Cain and Abel's offerings"
+    ],
+    "things": [
+      "door"
+    ],
+    "themes": [
+      "sin",
+      "obedience",
+      "temptation"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "if you do well",
+    "shalt thou not be accepted",
+    "sin lieth at the door",
+    "sin lies at the door",
+    "its desire is for you",
+    "unto thee shall be his desire",
+    "thou shalt rule over him",
+    "rule over it",
+    "Genesis 4:7",
+    "Cain and Abel",
+    "Genesis 4",
+    "chattah",
+    "sin",
+    "feminine noun",
+    "Hebrew grammar",
+    "gender of sin",
+    "noun feminine singular",
+    "Hebrew word for sin"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

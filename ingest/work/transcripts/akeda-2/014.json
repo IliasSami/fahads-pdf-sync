@@ -1,0 +1,178 @@
+{
+ "id": "akeda-2/14",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 22:2 — take your son, your only son Isaac; et marks each object",
+ "summary": "Genesis 22:2 in English and Hebrew: God tells Abraham to take his son, his only son, Isaac, to the land of Moriah and offer him as a burnt offering. The untranslated Hebrew word את (et, alef-tav, alef in blue and tav in red) is inserted in the English before 'your son', 'your only son' and 'Isaac', which are underlined along with the matching Hebrew words; 'Moriah' is in brown. The bottom line reads 'et את alef tav'.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22:2",
+   "osis": "Gen.22.2"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כביט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.2",
+   "text": "2 He said, “Take now את your son, את your only son, whom you love, את Isaac, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I will tell you.”"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.22.2",
+   "text": "2 ויאמר קח־נא את־בנך את־יחידך אשר־אהבת את־יצחק ולך־לך אל־ארץ המריה והעלהו שם לעלה על אחד ההרים אשר אמר אליך׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "et"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "את"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef tav"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:2 / בראשית כביט",
+   "osis": [
+    "Gen.22.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "alef-tav; untranslated direct-object marker placed before each thing Abraham is told to take",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "בנך",
+   "translit": "binkha",
+   "gloss": "your son",
+   "strongs": "H1121"
+  },
+  {
+   "lang": "he",
+   "word": "יחידך",
+   "translit": "yechidkha",
+   "gloss": "your only son",
+   "strongs": "H3173"
+  },
+  {
+   "lang": "he",
+   "word": "יצחק",
+   "translit": "Yitzchak",
+   "gloss": "Isaac",
+   "strongs": "H3327"
+  },
+  {
+   "lang": "he",
+   "word": "המריה",
+   "translit": "haMoriyah",
+   "gloss": "the Moriah (land of Moriah)",
+   "strongs": "H4179"
+  },
+  {
+   "lang": "he",
+   "word": "לעלה",
+   "translit": "le'olah",
+   "gloss": "for a burnt offering",
+   "strongs": "H5930"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Moriah",
+   "other": "המריה"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "tav",
+   "other": "ת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "first letter of et; shown in blue"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last letter of et; shown in red"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Abraham",
+   "Isaac"
+  ],
+  "places": [
+   "Mount Moriah"
+  ],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "burnt offering",
+   "alef-tav"
+  ],
+  "themes": [
+   "sacrifice",
+   "obedience",
+   "faith",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 22:2",
+  "Genesis 22",
+  "Akedah",
+  "Akeda",
+  "binding of Isaac",
+  "take your son your only son",
+  "whom you love",
+  "land of Moriah",
+  "burnt offering",
+  "et",
+  "alef tav",
+  "aleph tav",
+  "את",
+  "offer him as a burnt offering"
+ ],
+ "uncertain": [
+  "Hebrew header at top reads בראשית כביט as shown on the slide (probably meant to be Genesis chapter 22 verse 2)"
+ ],
+ "confidence": 0.95
+}

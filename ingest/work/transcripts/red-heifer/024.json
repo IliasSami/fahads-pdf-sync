@@ -1,0 +1,162 @@
+{
+ "id": "red-heifer/24",
+ "kinds": [
+  "table",
+  "list"
+ ],
+ "title": "Torah portions 24, 34, 39, 44, 54 — chukat (Num 19:1-22:1) circled",
+ "summary": "Table of selected weekly Torah portions from Leviticus, Numbers and Deuteronomy (vayiqra, bamidbar, chukat, devarim, vezot). The row for portion 39, chukat (חקת, 'Decrees', Numbers 19:1 - 22:1), is circled with a gold ellipse and shown in blue.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "24 Lev 1:1 - 5:26 | vayiqra | ויקרא | He called"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "34 Num 1:1 - 4:20 | bamidbar | במדבר | In wilderness"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "39 Num 19:1 - 22:1 | chukat | חקת | Decrees"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "44 Deut 1:1 - 3:20 | devarim | דברים | Words"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "54 Deut 33:1 - 34:12 | vezot | וזאת | And this"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Lev 1:1 - 5:26",
+   "osis": [
+    "Lev.1.1",
+    "Lev.6.7"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Num 1:1 - 4:20",
+   "osis": [
+    "Num.1.1",
+    "Num.4.20"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Num 19:1 - 22:1",
+   "osis": [
+    "Num.19.1",
+    "Num.22.1"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Deut 1:1 - 3:20",
+   "osis": [
+    "Deut.1.1",
+    "Deut.3.20"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Deut 33:1 - 34:12",
+   "osis": [
+    "Deut.33.1",
+    "Deut.34.12"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ויקרא",
+   "translit": "vayiqra",
+   "gloss": "He called",
+   "strongs": null,
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "במדבר",
+   "translit": "bamidbar",
+   "gloss": "In wilderness",
+   "strongs": "H4057",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "חקת",
+   "translit": "chukat",
+   "gloss": "Decrees",
+   "strongs": "H2708",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "דברים",
+   "translit": "devarim",
+   "gloss": "Words",
+   "strongs": "H1697",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "וזאת",
+   "translit": "vezot",
+   "gloss": "And this",
+   "strongs": null,
+   "gematria": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 39,
+   "note": "portion 39, chukat (Num 19:1 - 22:1), circled"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "Torah portions"
+  ],
+  "themes": [
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "chukat",
+  "chukat Numbers 19",
+  "chukat Torah portion",
+  "parashat chukat",
+  "chukas",
+  "decrees",
+  "statute",
+  "Numbers 19:1",
+  "Numbers 19-22",
+  "red heifer portion",
+  "vayiqra",
+  "vayikra",
+  "bamidbar",
+  "devarim",
+  "vezot",
+  "vezot haberakhah",
+  "Torah portions"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

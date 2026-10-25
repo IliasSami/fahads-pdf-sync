@@ -1,0 +1,127 @@
+{
+ "id": "noah-part-1/39",
+ "kinds": [
+  "word-study",
+  "letters"
+ ],
+ "title": "Toledoth (generations) contains the vav twice — nail, upright man",
+ "summary": "Word study of toledoth (תולדות, generations): the letter vav (the 6th letter, meaning nail) appears twice in the word, and vav is linked here with 'Upright Man'.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "toledoth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תולדות"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "generations"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "vav"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ו"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "appears twice"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Nail"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "6th Letter"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Upright Man"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תולדות",
+   "translit": "toledoth",
+   "gloss": "generations",
+   "strongs": "H8435"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "toledoth",
+   "other": "תולדות"
+  },
+  {
+   "en": "generations",
+   "other": "תולדות"
+  },
+  {
+   "en": "vav",
+   "other": "ו"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "nail; upright man (6th letter)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 6,
+   "note": "vav is the 6th letter of the Hebrew alphabet"
+  },
+  {
+   "value": 2,
+   "note": "vav appears twice in תולדות"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "genealogy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "toledoth",
+  "toldoth",
+  "generations",
+  "vav",
+  "waw",
+  "vav appears twice",
+  "nail",
+  "upright man",
+  "6th letter",
+  "sixth letter of Hebrew alphabet",
+  "Hebrew letter meanings",
+  "תולדות"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,92 @@
+{
+ "id": "noah-part-2/55",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Esther 3:12 — royal secretaries summoned on the 13th of the first month (13 Nisan)",
+ "summary": "Esther 3:12: on the thirteenth day of the first month the king's secretaries write out Haman's orders in every province's script and seal them with the king's ring. The slide labels the date 13 Nisan.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Esther 3:12",
+   "osis": "Esth.3.12"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "אסתר ג:יב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Esth.3.12",
+   "text": "12 Then on the thirteenth day of the first month the royal secretaries were summoned. They wrote out in the script of each province and in the language of each people all Haman’s orders to the king’s satraps, the governors of the various provinces and the nobles of the various peoples. These were written in the name of King Xerxes himself and sealed with his own ring."
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "13 nisan"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Esther 3:12 / אסתר ג:יב",
+   "osis": [
+    "Esth.3.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 13,
+   "note": "13 Nisan — royal secretaries summoned to write Haman's orders"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Haman",
+   "Xerxes"
+  ],
+  "places": [],
+  "events": [
+   "Haman's decree against the Jews"
+  ],
+  "things": [
+   "king's ring",
+   "royal decree"
+  ],
+  "themes": [
+   "biblical feasts",
+   "Flood chronology",
+   "providence"
+  ],
+  "groups": [
+   "royal secretaries",
+   "satraps",
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "Esther 3",
+  "13 Nisan",
+  "thirteenth day of the first month",
+  "Haman",
+  "King Xerxes",
+  "Ahasuerus",
+  "royal secretaries",
+  "scribes",
+  "decree",
+  "king's ring",
+  "sealed with ring",
+  "satraps",
+  "Purim"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

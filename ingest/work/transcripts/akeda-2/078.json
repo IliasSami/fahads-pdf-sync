@@ -1,0 +1,179 @@
+{
+ "id": "akeda-2/78",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 24:11 — well (beer), water (mayim), evening (erev ערב)",
+ "summary": "Same Genesis 24:11 slide with a third word added: erev, ערב, Evening (underlined), under beer, באר, Well and mayim, מים, Water. \"Evening\" and ערב are underlined in the verse; \"camels\" is underlined too.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 24:11",
+   "osis": "Gen.24.11"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כד:יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.24.11",
+   "text": "11 And He made the camels kneel down outside the city by the well of water at evening time…"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.24.11",
+   "text": "11 ויברך הגמלים מחוץ לעיר אל־באר המים לעת ערב…"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "beer"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "באר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Well"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "mayim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מים"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Water"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "erev"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ערב"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Evening"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 24:11 / בראשית כד:יא",
+   "osis": [
+    "Gen.24.11"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "באר",
+   "translit": "beer",
+   "gloss": "well",
+   "strongs": "H875",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "מים",
+   "translit": "mayim",
+   "gloss": "water",
+   "strongs": "H4325",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ערב",
+   "translit": "erev",
+   "gloss": "evening",
+   "strongs": "H6153",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "well",
+   "other": "באר"
+  },
+  {
+   "en": "beer",
+   "other": "באר"
+  },
+  {
+   "en": "water",
+   "other": "מים"
+  },
+  {
+   "en": "mayim",
+   "other": "מים"
+  },
+  {
+   "en": "evening",
+   "other": "ערב"
+  },
+  {
+   "en": "erev",
+   "other": "ערב"
+  },
+  {
+   "en": "camels",
+   "other": "הגמלים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "well",
+   "water",
+   "camels"
+  ],
+  "themes": [
+   "water"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "well",
+  "water",
+  "evening",
+  "beer",
+  "mayim",
+  "erev",
+  "Hebrew word for evening",
+  "ערב",
+  "באר",
+  "מים",
+  "Genesis 24:11",
+  "Genesis 24",
+  "evening time",
+  "camels kneel"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

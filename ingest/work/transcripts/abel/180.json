@@ -1,0 +1,86 @@
+{
+  "id": "abel/180",
+  "kinds": [
+    "verse"
+  ],
+  "title": "Luke 11:50-51 — the blood of the prophets from Abel to Zechariah",
+  "summary": "Luke 11:50-51 with its Greek reference: this generation will be charged with the blood of all the prophets, from the blood of Abel to the blood of Zechariah, who was killed between the altar and the sanctuary. The words blood, prophets and Abel are picked out in colour.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Luke 11:50-51",
+      "osis": [
+        "Luke.11.50",
+        "Luke.11.51"
+      ]
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "ΛΟΥΚΑΝ 11:50-51"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Luke.11.50",
+      "text": "50 As a result, this generation will be charged with the blood of all the prophets that has been shed since the foundation of the world,"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Luke.11.51",
+      "text": "51 from the blood of Abel to the blood of Zechariah, who was killed between the altar and the sanctuary. Yes, I tell you, all of it will be charged to this generation."
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Luke 11:50-51 / ΛΟΥΚΑΝ 11:50-51",
+      "osis": [
+        "Luke.11.50",
+        "Luke.11.51"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Abel",
+      "Zechariah"
+    ],
+    "places": [],
+    "events": [],
+    "things": [
+      "altar",
+      "sanctuary"
+    ],
+    "themes": [
+      "blood",
+      "judgment",
+      "prophecy"
+    ],
+    "groups": [
+      "prophets"
+    ]
+  },
+  "keywords": [
+    "Luke 11:50-51",
+    "blood of Abel",
+    "blood of Zechariah",
+    "blood of all the prophets",
+    "this generation",
+    "foundation of the world",
+    "killed between the altar and the sanctuary",
+    "between the altar and the temple",
+    "prophets killed",
+    "required of this generation",
+    "Luke 11"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

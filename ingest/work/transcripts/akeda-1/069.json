@@ -1,0 +1,23 @@
+{
+  "id": "akeda-1/69",
+  "kinds": ["verse"],
+  "title": "Genesis 21:12 — through Isaac your descendants shall be named",
+  "summary": "Genesis 21:12: God tells Abraham not to be distressed over the lad and his maid, to listen to whatever Sarah says, because through Isaac his descendants shall be named. 'God' and 'Abraham' are in blue (with God also red and yellow), 'lad' in green, Sarah and 'her' in magenta, and Isaac in red.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 21:12", "osis": "Gen.21.12"},
+    {"lang": "he", "role": "reference", "text": "בראשית כא:יב"},
+    {"lang": "en", "role": "verse", "osis": "Gen.21.12", "text": "12 But God said to Abraham, “Do not be distressed because of the lad and your maid; whatever Sarah tells you, listen to her, for through Isaac your descendants shall be named."}
+  ],
+  "refs": [
+    {"shown": "Genesis 21:12 / בראשית כא:יב", "osis": ["Gen.21.12"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Abraham", "Sarah", "Isaac", "Ishmael", "Hagar"], "places": [], "events": [], "things": [], "themes": ["covenant", "seed", "promise", "obedience"], "groups": []},
+  "keywords": ["Genesis 21:12", "in Isaac shall thy seed be called", "through Isaac your descendants shall be named", "the lad and your maid", "bondwoman", "hearken unto her voice", "Sarah", "Hagar and Ishmael sent away", "Abraham", "Akedah", "Akeda"],
+  "uncertain": [],
+  "confidence": 0.97
+}

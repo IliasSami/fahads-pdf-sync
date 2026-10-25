@@ -1,0 +1,42 @@
+{
+  "id": "abel/87",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:9 — brother (ach, אח) and “his brother” (achev, אחיו)",
+  "summary": "Genesis 4:9 with the word study of ach (אח, “brother”) and a new line adding achev (אחיו, “His brother”), where the final vav (ו, in orange) is matched to the English word “His.”",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:9", "osis": "Gen.4.9"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ט"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.9", "text": "9 And the LORD said to Cain, “Where is Abel your brother?” And he said, “I do not know. The keeper of my brother am I?”"},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.9", "text": "9 ויאמר יהוה אל קין אי הבל אחיך ויאמר לא ידעתי השמר אחי אנכי׃"},
+    {"lang": "translit", "role": "label", "text": "ach"},
+    {"lang": "he", "role": "label", "text": "אח"},
+    {"lang": "en", "role": "label", "text": "brother"},
+    {"lang": "translit", "role": "label", "text": "achev"},
+    {"lang": "he", "role": "label", "text": "אחיו"},
+    {"lang": "en", "role": "label", "text": "His brother"}
+  ],
+  "refs": [{"shown": "Genesis 4:9 / בראשית ד:ט", "osis": ["Gen.4.9"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "אח", "translit": "ach", "gloss": "brother", "strongs": "H251"},
+    {"lang": "he", "word": "אחיו", "translit": "achev", "gloss": "his brother", "strongs": "H251"}
+  ],
+  "color_links": [
+    {"en": "brother", "other": "אח"},
+    {"en": "ach", "other": "אח"},
+    {"en": "His", "other": "ו"},
+    {"en": "v (achev)", "other": "ו"},
+    {"en": "e (achev)", "other": "י"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": ""},
+    {"lang": "he", "letter": "chet", "char": "ח", "value": 8, "meaning": ""},
+    {"lang": "he", "letter": "yod", "char": "י", "value": 10, "meaning": ""},
+    {"lang": "he", "letter": "vav", "char": "ו", "value": 6, "meaning": "“his” (pronoun ending)"}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain", "Abel"], "places": [], "events": ["Murder of Abel"], "things": [], "themes": ["names of God", "Hebrew letter meanings", "sin"], "groups": []},
+  "keywords": ["brother", "his brother", "ach", "achiv", "achev", "Hebrew word for brother", "vav means his", "possessive ending", "the keeper of my brother", "Cain and Abel", "Genesis 4", "Genesis 4:9"],
+  "uncertain": ["The LORD in English and יהוה in Hebrew have individually coloured letters (decorative: red L/yod, orange R/vav), meaning not explained on this slide."],
+  "confidence": 0.93
+}

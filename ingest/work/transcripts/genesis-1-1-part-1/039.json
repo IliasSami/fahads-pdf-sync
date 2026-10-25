@@ -1,0 +1,34 @@
+{
+  "id": "genesis-1-1-part-1/39",
+  "kinds": ["letters", "word-study"],
+  "title": "Elohim in ancient Hebrew pictographs: the Strong Shepherd",
+  "summary": "Spells elohim (אלהים) letter by letter with the ancient pictograph for each letter — strong, shepherd, reveal, hand, water — giving the reading “The Strong Shepherd who Reveals His Hand on the Waters.”",
+  "text": [
+    {"lang": "translit", "role": "heading", "text": "e l o h i m"},
+    {"lang": "he", "role": "label", "text": "א ל ה י ם"},
+    {"lang": "en", "role": "label", "text": "Strong · Shepherd · Reveal · Hand · Water"},
+    {"lang": "en", "role": "body", "text": "The Strong Shepherd who Reveals His Hand on the Waters."}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "אלהים", "translit": "elohim", "gloss": "God", "strongs": "H430"}
+  ],
+  "color_links": [
+    {"en": "Strong", "other": "א"}, {"en": "Shepherd", "other": "ל"}, {"en": "Reveal", "other": "ה"}, {"en": "Hand", "other": "י"}, {"en": "Water", "other": "ם"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": "strong (ox head pictograph)"},
+    {"lang": "he", "letter": "lamed", "char": "ל", "value": 30, "meaning": "shepherd (shepherd's staff pictograph)"},
+    {"lang": "he", "letter": "he", "char": "ה", "value": 5, "meaning": "reveal (man with raised arms pictograph)"},
+    {"lang": "he", "letter": "yod", "char": "י", "value": 10, "meaning": "hand (arm and hand pictograph)"},
+    {"lang": "he", "letter": "mem", "char": "ם", "value": 40, "meaning": "water (waves pictograph)"}
+  ],
+  "numbers": [],
+  "pictures": [
+    {"type": "pictograph", "description": "Row of five ancient (paleo-)Hebrew pictograph letters under the modern letters of אלהים: ox head (alef), shepherd's staff (lamed), man with raised arms (he), arm and hand (yod), water waves (mem).", "subjects": ["paleo-Hebrew alphabet", "pictographs", "ancient Hebrew letters"], "text_in_picture": "", "credit": null, "box": [0.17, 0.46, 0.84, 0.58]}
+  ],
+  "entities": {"people": ["God"], "places": [], "events": ["Creation"], "things": [], "themes": ["names of God", "Hebrew letter meanings", "God as shepherd"], "groups": []},
+  "keywords": ["elohim", "God", "pictographs", "ancient Hebrew letters", "paleo-Hebrew", "alef", "lamed", "strong shepherd", "hand on the waters", "letter meanings", "aleph"],
+  "uncertain": [],
+  "confidence": 0.95
+}

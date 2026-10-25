@@ -1,0 +1,103 @@
+{
+ "id": "akeda-1/112",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 22:11 — the messenger of the LORD calls 'Abraham, Abraham!'",
+ "summary": "Genesis 22:11 alone under the heading 'The Akedah' (העקדה): the messenger of the LORD calls from heaven 'Abraham, Abraham!' and Abraham answers 'Here am I.' 'Angel' is struck through and replaced by 'messenger'; Abraham, messenger and LORD are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22",
+   "osis": "Gen.22.1"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ה ע ק ד ה"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Akedah"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.11",
+   "text": "11 But the ~~angel~~ messenger of the LORD"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.11",
+   "text": "called to him from heaven and said, “Abraham, Abraham!”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.22.11",
+   "text": "And he said, “Here am I.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:11 / בראשית כב",
+   "osis": [
+    "Gen.22.11"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "העקדה",
+   "translit": "ha-akedah",
+   "gloss": "the binding",
+   "strongs": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Abraham"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [],
+  "themes": [
+   "names of God",
+   "obedience",
+   "faith"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Akedah",
+  "Akeda",
+  "Genesis 22",
+  "Genesis 22:11",
+  "messenger of the LORD",
+  "angel of the LORD",
+  "Abraham Abraham",
+  "Here am I",
+  "called from heaven",
+  "binding of Isaac",
+  "Abraham and Isaac"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

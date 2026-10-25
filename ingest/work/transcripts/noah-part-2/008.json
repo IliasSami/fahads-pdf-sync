@@ -1,0 +1,72 @@
+{
+ "id": "noah-part-2/8",
+ "kinds": [
+  "comparison",
+  "list"
+ ],
+ "title": "The ark and Yeshua: both made of wood",
+ "summary": "Adds 'Ark & Cross Made Of Wood' to the invitation-to-come comparison of the ark and yeshua.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Ark"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "yeshua"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Invitation To Come"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "Ark & Cross Made Of Wood"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "ark",
+   "cross",
+   "wood"
+  ],
+  "themes": [
+   "typology",
+   "salvation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "ark and Jesus",
+  "Noah's ark",
+  "yeshua",
+  "Yeshua",
+  "Jesus",
+  "typology",
+  "invitation to come",
+  "come into the ark",
+  "come to Jesus",
+  "comparison ark and Christ",
+  "ark and cross made of wood",
+  "gopher wood",
+  "wooden cross",
+  "tree"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

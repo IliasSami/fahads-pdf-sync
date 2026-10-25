@@ -1,0 +1,192 @@
+{
+ "id": "fall-of-man/26",
+ "kinds": [
+  "letters",
+  "table"
+ ],
+ "title": "The Hebrew alef-bet: alef, bet, gimel (modern, ancient, meaning, gematria)",
+ "summary": "First rows of a Hebrew alef-bet chart (with final forms) giving each letter's modern form, name, ancient pictograph, meaning and gematria value: alef (strength, God, 1), bet (tent, house, 2), gimel (camel, 3).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Hebrew alef-bet"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "with (Final Forms)"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Modern"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Ancient"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Meaning"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Gematria"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "1. א alef A | Strength, God | 1"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "2. ב bet B | Tent, House | 2"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "3. ג gimel G | Camel | 3"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "bet",
+   "other": "ב"
+  },
+  {
+   "en": "gimel",
+   "other": "ג"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "Strength, God"
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": "Tent, House"
+  },
+  {
+   "lang": "he",
+   "letter": "gimel",
+   "char": "ג",
+   "value": 3,
+   "meaning": "Camel"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) form of alef drawn as a stylised ox-head with horns, sitting on a thick blue line.",
+   "subjects": [
+    "alef",
+    "paleo-Hebrew",
+    "ox head",
+    "ancient Hebrew letter",
+    "pictograph"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.4,
+    0.42,
+    0.48,
+    0.55
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) form of bet drawn as a house or tent floor plan (open square shape), sitting on a thick red line.",
+   "subjects": [
+    "bet",
+    "paleo-Hebrew",
+    "house",
+    "tent",
+    "ancient Hebrew letter",
+    "pictograph"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.4,
+    0.63,
+    0.48,
+    0.74
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Ancient (paleo-Hebrew) form of gimel drawn as a check-mark or V shape, sitting on a thick yellow line.",
+   "subjects": [
+    "gimel",
+    "paleo-Hebrew",
+    "camel",
+    "ancient Hebrew letter",
+    "pictograph"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.4,
+    0.82,
+    0.48,
+    0.93
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "camel",
+   "tent",
+   "house",
+   "ox"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Hebrew alphabet",
+  "alef-bet",
+  "aleph bet",
+  "aleph",
+  "alef",
+  "bet",
+  "beth",
+  "gimel",
+  "ancient Hebrew letters",
+  "paleo-Hebrew",
+  "letter meanings",
+  "gematria values",
+  "final forms",
+  "strength God",
+  "tent house",
+  "camel"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

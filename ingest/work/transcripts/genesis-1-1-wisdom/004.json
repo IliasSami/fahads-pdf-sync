@@ -1,0 +1,25 @@
+{
+  "id": "genesis-1-1-wisdom/4",
+  "kinds": ["verse"],
+  "title": "Psalm 49:3 — my mouth shall speak wisdom",
+  "summary": "Psalm 49:3 in English and Hebrew: “My mouth shall speak wisdom; and the meditation of my heart shall be understanding.”",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Psalm 49:3", "osis": "Ps.49.3"},
+    {"lang": "he", "role": "reference", "text": "תהילים מט:ג"},
+    {"lang": "en", "role": "verse", "osis": "Ps.49.3", "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."},
+    {"lang": "he", "role": "verse", "osis": "Ps.49.3", "text": "3 פי ידבר חכמות והגות לבי תבונות׃"}
+  ],
+  "refs": [{"shown": "Psalm 49:3 / תהילים מט:ג", "osis": ["Ps.49.3"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "חכמות", "translit": "chokmot", "gloss": "wisdom", "strongs": "H2451"},
+    {"lang": "he", "word": "תבונות", "translit": "tevunot", "gloss": "understanding", "strongs": "H8394"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": [], "things": ["mouth", "heart"], "themes": ["wisdom", "understanding"], "groups": []},
+  "keywords": ["Psalm 49", "my mouth shall speak wisdom", "meditation of my heart", "understanding", "wisdom", "chokmah", "tevunah", "speak of wisdom", "Psalms"],
+  "uncertain": [],
+  "confidence": 0.96
+}

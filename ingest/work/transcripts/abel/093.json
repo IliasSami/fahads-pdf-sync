@@ -1,0 +1,31 @@
+{
+  "id": "abel/93",
+  "kinds": ["verse", "word-study"],
+  "title": "Genesis 4:10 — first use of “blood” (dam, דם): the Law of First Usage",
+  "summary": "Genesis 4:10 in English and Hebrew, where the voice of Abel's blood cries out from the ground. The word blood (dam, דם) is highlighted in red as the first time the word appears in the Bible — the “Law of 1st Usage.”",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:10", "osis": "Gen.4.10"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:י"},
+    {"lang": "en", "role": "verse", "osis": "Gen.4.10", "text": "10 And He said, “What have you done? The voice of your brother’s blood cries out to Me from the ground."},
+    {"lang": "he", "role": "verse", "osis": "Gen.4.10", "text": "10 ויאמר מה עשית קול דמי אחיך צעקים אלי מן האדמה׃"},
+    {"lang": "translit", "role": "label", "text": "dam"},
+    {"lang": "he", "role": "label", "text": "דם"},
+    {"lang": "en", "role": "label", "text": "Blood"},
+    {"lang": "en", "role": "heading", "text": "Law of 1st Usage"}
+  ],
+  "refs": [{"shown": "Genesis 4:10 / בראשית ד:י", "osis": ["Gen.4.10"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "דם", "translit": "dam", "gloss": "blood", "strongs": "H1818"}
+  ],
+  "color_links": [
+    {"en": "blood", "other": "דמ"},
+    {"en": "dam", "other": "דם"}
+  ],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["God", "Cain", "Abel"], "places": [], "events": ["Murder of Abel"], "things": ["ground"], "themes": ["blood", "death", "law of first mention", "judgment"], "groups": []},
+  "keywords": ["blood", "dam", "Abel's blood", "voice of thy brother's blood", "crieth unto me from the ground", "law of first mention", "law of first usage", "first mention of blood", "Cain and Abel", "Genesis 4", "Genesis 4:10", "what hast thou done"],
+  "uncertain": [],
+  "confidence": 0.96
+}

@@ -1,0 +1,139 @@
+{
+ "id": "noah-part-2/63",
+ "kinds": [
+  "verse",
+  "comparison"
+ ],
+ "title": "1st dove and the Spirit of God: both hover but find no rest",
+ "summary": "Pairs Genesis 8:9 (the first dove could find nowhere to perch) with Genesis 1:1-2 (the Spirit of God hovering over the waters), concluding that both the dove and the Spirit of God hover but have no rest.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:8-9",
+   "osis": [
+    "Gen.8.8",
+    "Gen.8.9"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "1st DOVE"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:ח-ט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.9",
+   "text": "9 But the dove could find nowhere to perch…"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "1st DOVE : Hovers, but No Rest"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1-2",
+   "osis": [
+    "Gen.1.1",
+    "Gen.1.2"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א-ב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "1 In beginning God created the heavens and the earth."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.2",
+   "text": "2 Now the earth was formless and void, and darkness was over the surface of the deep, and the Spirit of God was hovering over the waters."
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "SPIRIT OF GOD: Hovers, but No Rest"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:8-9 / בראשית ח:ח-ט",
+   "osis": [
+    "Gen.8.8",
+    "Gen.8.9"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 1:1-2 / בראשית א:א-ב",
+   "osis": [
+    "Gen.1.1",
+    "Gen.1.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "row of seven Stars of David between the two passages (decorative divider)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "Creation",
+   "the Flood"
+  ],
+  "things": [
+   "dove"
+  ],
+  "themes": [
+   "rest",
+   "creation",
+   "typology",
+   "Holy Spirit"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "first dove",
+  "Spirit of God hovering",
+  "hovers but no rest",
+  "dove and Holy Spirit",
+  "Genesis 1:2",
+  "Genesis 8:9",
+  "nowhere to perch",
+  "in the beginning",
+  "waters",
+  "dove typology",
+  "Spirit moved upon the face of the waters",
+  "formless and void"
+ ],
+ "uncertain": [
+  "Slide reads 'In beginning God created' without 'the', as shown"
+ ],
+ "confidence": 0.95
+}

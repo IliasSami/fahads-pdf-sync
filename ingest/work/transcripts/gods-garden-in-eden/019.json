@@ -1,0 +1,126 @@
+{
+ "id": "gods-garden-in-eden/19",
+ "kinds": [
+  "word-study",
+  "letters"
+ ],
+ "title": "Toledoth (generations): the vav appears twice — nail, upright man",
+ "summary": "Pairs toledoth (תולדות) with generations and points to the letter vav (ו), which appears twice in the word, labelled Nail, the 6th Letter, and Upright Man.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "toledoth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "תולדות"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "generations"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "vav"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ו"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "appears twice"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Nail"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "6th Letter"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Upright Man"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "תולדות",
+   "translit": "toledoth",
+   "gloss": "generations",
+   "strongs": "H8435"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "toledoth",
+   "other": "תולדות"
+  },
+  {
+   "en": "generations",
+   "other": "תולדות"
+  },
+  {
+   "en": "vav",
+   "other": "ו"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "nail; 6th letter; upright man"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 6,
+   "note": "vav is the 6th letter"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "nail"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "generations (toledoth)",
+   "numbers in Scripture"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "vav",
+  "waw",
+  "toledoth",
+  "toledot",
+  "generations",
+  "nail",
+  "upright man",
+  "6th letter",
+  "sixth letter",
+  "letter meanings",
+  "Hebrew letter vav",
+  "appears twice"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

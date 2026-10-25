@@ -1,0 +1,149 @@
+{
+ "id": "noah-part-2/31",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 7:1 and Matthew 11:28 — Noah means rest: \"Come\" into the ark / \"Come to Me\"",
+ "summary": "Genesis 7:1, where the LORD tells Noah to come into the ark, set beside Matthew 11:28, where Jesus says \"Come to Me\" and offers rest. In Matthew the word \"rest\" is crossed out and replaced by the Hebrew נח (Noah), so Jesus (yeshua ישוע) says \"I will give you Noah\". The words Come, ark, and Noah are colour-highlighted.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 7:1",
+   "osis": "Gen.7.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ז:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.1",
+   "text": "1 Then the LORD said to Noah, “Come, you and all your house into the ark, for you alone I have seen to be righteous before Me in this time."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Matthew 11:28",
+   "osis": "Matt.11.28"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Μαθθαῖον 11:28"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Matt.11.28",
+   "text": "28 Come to Me, all who are weary and heavy-laden, and I will give you ~~rest~~ נח Noah."
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "—yeshua"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ישוע"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Jesus"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 7:1 / בראשית ז:א",
+   "osis": [
+    "Gen.7.1"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Matthew 11:28 / Μαθθαῖον 11:28",
+   "osis": [
+    "Matt.11.28"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "נח",
+   "translit": "Noach",
+   "gloss": "Noah (means rest)",
+   "strongs": "H5146"
+  },
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Jesus (Yeshua)",
+   "strongs": "H3442"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Noah",
+   "other": "נח"
+  },
+  {
+   "en": "Jesus",
+   "other": "ישוע"
+  },
+  {
+   "en": "yeshua",
+   "other": "ישוע"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "Jesus",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "names of God",
+   "typology",
+   "righteousness",
+   "salvation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 7:1",
+  "Matthew 11:28",
+  "Noah means rest",
+  "Noah rest",
+  "come into the ark",
+  "Come to Me",
+  "weary and heavy-laden",
+  "rest for your souls",
+  "Yeshua",
+  "Jesus",
+  "Noach",
+  "ark",
+  "righteous",
+  "Genesis 7",
+  "typology"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

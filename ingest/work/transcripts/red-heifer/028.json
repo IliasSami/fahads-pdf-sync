@@ -1,0 +1,151 @@
+{
+ "id": "red-heifer/28",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Deuteronomy 22:11 — no garment of wool and linen mixed together",
+ "summary": "Adds Deuteronomy 22:11 under the Exodus 34:26 and Leviticus 16:21 verses: you shall not wear a garment of different sorts, such as wool and linen mixed together. Book names are colour-matched with their Hebrew headings.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 34:26",
+   "osis": "Exod.34.26"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות לד:כו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.34.26",
+   "text": "26 “The first of the firstfruits of your land you shall bring to the house of the LORD your God. You shall not boil a young goat in its mother’s milk.”"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Leviticus 16:21",
+   "osis": "Lev.16.21"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ויקרא יו:כא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Lev.16.21",
+   "text": "21 Then Aaron shall lay both of his hands on the head of the live goat and confess over it all the wrongdoings of the sons of Israel and all their unlawful acts regarding all their sins; and he shall place them on the head of the goat and send it away into the wilderness by the hand of a man who stands ready."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Deuteronomy 22:11",
+   "osis": "Deut.22.11"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "דברים כב:יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Deut.22.11",
+   "text": "11 “You shall not wear a garment of different sorts, such as wool and linen mixed together."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Exodus 34:26 / שמות לד:כו",
+   "osis": [
+    "Exod.34.26"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Leviticus 16:21 / ויקרא יו:כא",
+   "osis": [
+    "Lev.16.21"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Deuteronomy 22:11 / דברים כב:יא",
+   "osis": [
+    "Deut.22.11"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [
+  {
+   "en": "Exodus",
+   "other": "שמות"
+  },
+  {
+   "en": "Leviticus",
+   "other": "ויקרא"
+  },
+  {
+   "en": "Deuteronomy",
+   "other": "דברים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Aaron"
+  ],
+  "places": [],
+  "events": [
+   "Day of Atonement"
+  ],
+  "things": [
+   "live goat",
+   "firstfruits",
+   "young goat",
+   "milk",
+   "wool",
+   "linen",
+   "garment"
+  ],
+  "themes": [
+   "atonement",
+   "sin",
+   "confession",
+   "Torah",
+   "statutes (chok)",
+   "holiness"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Deuteronomy 22:11",
+  "wool and linen",
+  "mixed fabrics",
+  "shatnez",
+  "shaatnez",
+  "garment of different sorts",
+  "divers sorts",
+  "do not wear mixed cloth",
+  "Leviticus 16:21",
+  "Exodus 34:26",
+  "scapegoat",
+  "chukim",
+  "statutes"
+ ],
+ "uncertain": [
+  "Hebrew reference for Leviticus 16:21 appears on the slide as ויקרא יו:כא (read as shown); closing quotation mark is absent after the Deuteronomy 22:11 text on the slide"
+ ],
+ "confidence": 0.95
+}

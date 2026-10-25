@@ -1,0 +1,168 @@
+{
+ "id": "genesis-1-1-wisdom/55",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:1-2 — elohim (God) and ruach elohim (Spirit of God)",
+ "summary": "Genesis 1:1-2 in English (“In beginning God created…”, the earth formless and void, the Spirit of God hovering over the waters), with God matched to elohim (אלהים) and, below it, Spirit of God matched to ruach elohim (רוח אלהים), colour-coded in gold, cyan and red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1-2",
+   "osis": [
+    "Gen.1.1",
+    "Gen.1.2"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א-ב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "1 In beginning God created the heavens and the earth.",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "2 Now the earth was formless and void, and darkness was over the surface of the deep. And the Spirit of God was hovering over the surface of the waters.",
+   "osis": "Gen.1.2"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "elohim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אלהים"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "God"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ruach elohim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "רוח אלהים"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Spirit of God"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1-2 / בראשית א:א-ב",
+   "osis": [
+    "Gen.1.1",
+    "Gen.1.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "רוח אלהים",
+   "translit": "ruach elohim",
+   "gloss": "Spirit of God",
+   "strongs": "H7307"
+  },
+  {
+   "lang": "he",
+   "word": "רוח",
+   "translit": "ruach",
+   "gloss": "Spirit, wind, breath",
+   "strongs": "H7307"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  },
+  {
+   "en": "Spirit",
+   "other": "רוח"
+  },
+  {
+   "en": "ruach",
+   "other": "רוח"
+  },
+  {
+   "en": "Spirit of God",
+   "other": "רוח אלהים"
+  },
+  {
+   "en": "ruach elohim",
+   "other": "רוח אלהים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Holy Spirit"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "heavens",
+   "earth",
+   "deep",
+   "waters"
+  ],
+  "themes": [
+   "creation",
+   "names of God",
+   "Spirit of God",
+   "light and darkness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1-2",
+  "Spirit of God",
+  "ruach elohim",
+  "ruach Elohim",
+  "elohim",
+  "Spirit hovering over the waters",
+  "moved upon the face of the waters",
+  "formless and void",
+  "without form and void",
+  "darkness over the deep",
+  "Holy Spirit in creation",
+  "Hebrew words for God and Spirit"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

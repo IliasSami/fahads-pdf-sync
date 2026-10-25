@@ -1,0 +1,275 @@
+{
+ "id": "genesis-1-1-part-2/11",
+ "kinds": [
+  "table",
+  "word-study"
+ ],
+ "title": "Words related to Yeshua found in bereshit (בראשית)",
+ "summary": "A list of 13 Hebrew words, each made from letters of בראשית (bet, resh, alef, shin, yod, tav), that the slide says relate to Yeshua: Son, Kernel, Created, Covenant, Tree, House, Head, First Fruits, Fire, I Make, Gift, Thorns, and First & Last — each with its transliteration and letters.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Words related to"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ישוע"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "yeshua"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "found in"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ב ר א ש י ת"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Son | bar | ב ר"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Kernel | bar | ב ר"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Created | bara | ב ר א"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Covenant | brit | ב ר י ת"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Tree | brosh | ב ר ש"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "House | beyt | ב י ת"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Head | rosh | ר א ש"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "First Fruits | reshit | ר ש י ת"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Fire | aish | א ש"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "I Make | ashit | א ש י ת"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Gift | shy | ש י"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "Thorns | shayit | ש י ת"
+  },
+  {
+   "lang": "en",
+   "role": "table",
+   "text": "First & Last | et | א ת"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Yeshua (Jesus)",
+   "strongs": "H3442"
+  },
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "בר",
+   "translit": "bar",
+   "gloss": "son",
+   "strongs": "H1248"
+  },
+  {
+   "lang": "he",
+   "word": "בר",
+   "translit": "bar",
+   "gloss": "kernel (grain)",
+   "strongs": "H1250"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "ברית",
+   "translit": "brit",
+   "gloss": "covenant",
+   "strongs": "H1285"
+  },
+  {
+   "lang": "he",
+   "word": "ברש",
+   "translit": "brosh",
+   "gloss": "tree",
+   "strongs": "H1265"
+  },
+  {
+   "lang": "he",
+   "word": "בית",
+   "translit": "beyt",
+   "gloss": "house",
+   "strongs": "H1004"
+  },
+  {
+   "lang": "he",
+   "word": "ראש",
+   "translit": "rosh",
+   "gloss": "head",
+   "strongs": "H7218"
+  },
+  {
+   "lang": "he",
+   "word": "ראשית",
+   "translit": "reshit",
+   "gloss": "first fruits",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "אש",
+   "translit": "aish",
+   "gloss": "fire",
+   "strongs": "H784"
+  },
+  {
+   "lang": "he",
+   "word": "אשית",
+   "translit": "ashit",
+   "gloss": "I make",
+   "strongs": "H7896"
+  },
+  {
+   "lang": "he",
+   "word": "שי",
+   "translit": "shy",
+   "gloss": "gift",
+   "strongs": "H7862"
+  },
+  {
+   "lang": "he",
+   "word": "שית",
+   "translit": "shayit",
+   "gloss": "thorns",
+   "strongs": "H7898"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "first & last (alef and tav)",
+   "strongs": "H853"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "House",
+   "other": "ב"
+  },
+  {
+   "en": "Head",
+   "other": "ר"
+  },
+  {
+   "en": "First",
+   "other": "א"
+  },
+  {
+   "en": "Last",
+   "other": "ת"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 13,
+   "note": "number of related words listed"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "tree",
+   "house",
+   "thorns",
+   "fire"
+  ],
+  "themes": [
+   "messianic prophecy",
+   "Hebrew letter meanings",
+   "covenant",
+   "firstborn"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Yeshua",
+  "Jesus in Genesis 1:1",
+  "bereshit",
+  "bar son",
+  "bara created",
+  "brit covenant",
+  "reshit first fruits",
+  "rosh head",
+  "aish fire",
+  "shayit thorns",
+  "alef tav first and last",
+  "Hebrew word study",
+  "Genesis 1:1",
+  "words hidden in bereshit"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

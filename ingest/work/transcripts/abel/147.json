@@ -1,0 +1,24 @@
+{
+  "id": "abel/147",
+  "kinds": ["verse"],
+  "title": "Genesis 4:4-5 — the LORD favours Abel's offering, not Cain's",
+  "summary": "Genesis 4:4-5 in English: the LORD looked favorably on Abel and his offering of the firstborn of his flock, but did not respect Cain and his offering, so Cain was very angry and his countenance fell.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:4-5", "osis": ["Gen.4.4", "Gen.4.5"]},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ד-ה", "osis": ["Gen.4.4", "Gen.4.5"]},
+    {"lang": "en", "role": "verse", "text": "4 And Abel, he also brought an offering, from the firstborn of his flock and from their fat portions. And the LORD looked favorably on Abel and his offering;", "osis": "Gen.4.4"},
+    {"lang": "en", "role": "verse", "text": "5 And He did not respect Cain and his offering. And Cain was very angry, and his countenance fell.", "osis": "Gen.4.5"}
+  ],
+  "refs": [
+    {"shown": "Genesis 4:4-5 / בראשית ד:ד-ה", "osis": ["Gen.4.4", "Gen.4.5"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abel", "Cain", "God"], "places": [], "events": ["Cain and Abel's offerings"], "things": ["flock"], "themes": ["sacrifice", "offering", "firstborn", "anger"], "groups": []},
+  "keywords": ["Cain and Abel", "accepted offering", "rejected offering", "looked favorably", "had respect unto Abel", "Cain was very angry", "countenance fell", "firstborn", "Genesis 4", "Genesis 4:5"],
+  "uncertain": [],
+  "confidence": 0.96
+}

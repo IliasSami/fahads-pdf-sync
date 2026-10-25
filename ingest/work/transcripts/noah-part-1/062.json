@@ -1,0 +1,125 @@
+{
+ "id": "noah-part-1/62",
+ "kinds": [
+  "verse"
+ ],
+ "title": "The door of the ark (Genesis 6:16) and Jesus: \"I am the door\" (John 10:9)",
+ "summary": "Genesis 6:16 with 'door' highlighted in brown and 'ark' with 'ar' in red, set beside John 10:9 where Jesus says \"I am the door; if anyone enters through Me, he will be saved\", signed yeshua ישוע Jesus; 'door', 'I am' and 'Me' are colour-coded.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:16",
+   "osis": "Gen.6.16"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.16",
+   "text": "16 “You shall make a window for the ark, and finish it to a cubit from the top; and set the door of the ark in the side of it; you shall make it with lower, second, and third decks."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 10:9",
+   "osis": "John.10.9"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 10:9"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.10.9",
+   "text": "9 \"I am the door; if anyone enters through Me, he will be saved, and will go in and out and find pasture."
+  },
+  {
+   "lang": "en",
+   "role": "quote",
+   "text": "—yeshua ישוע Jesus"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:16 / בראשית ו:יו",
+   "osis": [
+    "Gen.6.16"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "John 10:9 / Ἰωάνης 10:9",
+   "osis": [
+    "John.10.9"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Jesus (Yeshua)",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "yeshua",
+   "other": "ישוע"
+  },
+  {
+   "en": "Jesus",
+   "other": "ישוע"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus",
+   "Noah"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "ark",
+   "door",
+   "decks"
+  ],
+  "themes": [
+   "salvation",
+   "typology",
+   "faith"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "I am the door",
+  "Jesus is the door",
+  "door of the ark",
+  "Noah's ark",
+  "Genesis 6:16",
+  "John 10:9",
+  "yeshua",
+  "Yeshua",
+  "saved",
+  "find pasture",
+  "enters through Me",
+  "I am sayings",
+  "Jesus the door"
+ ],
+ "uncertain": [
+  "'door' appears in brown in both verses; 'I am' and 'Me' are red; the colours are not explained on the slide. Greek header written as shown: Ἰωάνης."
+ ],
+ "confidence": 0.95
+}

@@ -1,0 +1,186 @@
+{
+ "id": "genesis-1-1-part-1/43",
+ "kinds": [
+  "gematria",
+  "letters",
+  "diagram"
+ ],
+ "title": "Elohim letter values: brackets of 45 and 36 with triangles",
+ "summary": "The letters of elohim (אלהים) with values 40, 10, 5, 30, 1. A red bracket labelled 45 sits under the values 10, 5 and 30, and a gold bracket labelled 36 under 5, 30 and 1; below are a red triangle of 45 and a gold triangle of 36 small triangles.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "elohim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל ה י ם"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "40 10 5 30 1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "|____45____|"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "|____36____|"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "45"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "36"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     10,
+     5,
+     30,
+     1
+    ],
+    "total": 86
+   }
+  }
+ ],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "ם",
+   "value": 40,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 45,
+   "note": "red bracket under the values 10, 5 and 30 (י ה ל) in elohim; also a perfect triangle of 45"
+  },
+  {
+   "value": 36,
+   "note": "gold bracket under the values 5, 30 and 1 (ה ל א) in elohim; also a perfect triangle of 36"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A pyramid of 45 small red outline triangles in 9 rows with the number 45 in red beneath it.",
+   "subjects": [
+    "triangular number 45",
+    "red triangles",
+    "triangle pattern",
+    "number diagram"
+   ],
+   "text_in_picture": "45",
+   "credit": null,
+   "box": [
+    0.43,
+    0.68,
+    0.59,
+    0.93
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "A smaller pyramid of 36 tiny gold outline triangles in 8 rows with the number 36 in gold beneath it.",
+   "subjects": [
+    "triangular number 36",
+    "gold triangles",
+    "triangle pattern",
+    "number diagram"
+   ],
+   "text_in_picture": "36",
+   "credit": null,
+   "box": [
+    0.69,
+    0.7,
+    0.83,
+    0.92
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "triangle"
+  ],
+  "themes": [
+   "names of God",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "elohim",
+  "gematria",
+  "45",
+  "36",
+  "perfect triangles",
+  "triangular numbers",
+  "40 10 5 30 1",
+  "86",
+  "אלהים",
+  "overlapping brackets",
+  "Hebrew letter values",
+  "God",
+  "Genesis 1:1"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

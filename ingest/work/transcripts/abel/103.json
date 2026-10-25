@@ -1,0 +1,171 @@
+{
+  "id": "abel/103",
+  "kinds": [
+    "verse",
+    "word-study",
+    "letters"
+  ],
+  "title": "Genesis 4:11 — peh (mouth): the open-mouth ף and closed-mouth פ",
+  "summary": "Genesis 4:11 with the word mouth (פיה, peh) highlighted, now flanked by the two forms of the Hebrew letter pe: the final form ף labelled “Open Mouth” and the regular form פ labelled “Closed Mouth.”",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:11",
+      "osis": "Gen.4.11"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:יא"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Gen.4.11",
+      "text": "11 So now you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand."
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "osis": "Gen.4.11",
+      "text": "11 ועתה ארור אתה מן האדמה אשר פצתה את פיה לקחת את דמי אחיך מידך׃"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Open Mouth"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "ף"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "peh"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "פיה"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Mouth"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Closed Mouth"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "פ"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:11 / בראשית ד:יא",
+      "osis": [
+        "Gen.4.11"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "פה",
+      "translit": "peh",
+      "gloss": "mouth",
+      "strongs": "H6310"
+    },
+    {
+      "lang": "he",
+      "word": "פיה",
+      "translit": "piha",
+      "gloss": "her (its) mouth",
+      "strongs": "H6310"
+    },
+    {
+      "lang": "he",
+      "word": "דם",
+      "translit": "dam",
+      "gloss": "blood",
+      "strongs": "H1818"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "blood",
+      "other": "דמ"
+    },
+    {
+      "en": "mouth",
+      "other": "פיה"
+    },
+    {
+      "en": "peh",
+      "other": "פיה"
+    }
+  ],
+  "letters": [
+    {
+      "lang": "he",
+      "letter": "pe (final)",
+      "char": "ף",
+      "value": 80,
+      "meaning": "open mouth"
+    },
+    {
+      "lang": "he",
+      "letter": "pe",
+      "char": "פ",
+      "value": 80,
+      "meaning": "closed mouth"
+    }
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "God",
+      "Cain",
+      "Abel"
+    ],
+    "places": [],
+    "events": [
+      "Murder of Abel"
+    ],
+    "things": [
+      "ground",
+      "mouth"
+    ],
+    "themes": [
+      "blood",
+      "curse",
+      "Hebrew letter meanings"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "pe",
+    "peh",
+    "fe",
+    "final pe",
+    "mouth",
+    "open mouth",
+    "closed mouth",
+    "Hebrew letter pe",
+    "letter meanings",
+    "ground opened her mouth",
+    "Abel's blood",
+    "Genesis 4:11"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

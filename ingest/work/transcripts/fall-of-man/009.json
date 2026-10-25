@@ -1,0 +1,125 @@
+{
+  "id": "fall-of-man/9",
+  "kinds": [
+    "verse",
+    "comparison"
+  ],
+  "title": "Genesis 3:6 matched to lust of the flesh, lust of the eyes, pride of life",
+  "summary": "Genesis 3:6 is split into three phrases, each ticked with a red check mark against a temptation: the tree good for food = the lust of the flesh; a delight to the eyes = the lust of the eyes; desirable to make one wise = the pride of life. Then she took its fruit, ate, and gave to her husband.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 3:6",
+      "osis": "Gen.3.6"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ג:ו",
+      "osis": "Gen.3.6"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "6 When the woman saw that…",
+      "osis": "Gen.3.6"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "…the tree was good for food,",
+      "osis": "Gen.3.6"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "✔ the lust of the flesh,"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "it was a delight to the eyes,",
+      "osis": "Gen.3.6"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "✔ the lust of the eyes,"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "was desirable to make one wise,…",
+      "osis": "Gen.3.6"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "✔ the pride of life,"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "…she took from its fruit and ate; and she gave also to her husband with her, and he ate.",
+      "osis": "Gen.3.6"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 3:6 / בראשית ג:ו",
+      "osis": [
+        "Gen.3.6"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {
+      "value": 3,
+      "note": "three temptations matched to the three things Eve saw in the tree"
+    }
+  ],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Eve",
+      "Adam"
+    ],
+    "places": [
+      "Garden of Eden"
+    ],
+    "events": [
+      "Fall of Man"
+    ],
+    "things": [
+      "tree of the knowledge of good and evil",
+      "fruit"
+    ],
+    "themes": [
+      "temptation",
+      "sin",
+      "pride"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "lust of the flesh",
+    "lust of the eyes",
+    "pride of life",
+    "good for food",
+    "pleasant to the eyes",
+    "make one wise",
+    "three temptations",
+    "how Eve was tempted",
+    "forbidden fruit",
+    "Genesis 3:6",
+    "1 John 2:16",
+    "Genesis 3"
+  ],
+  "uncertain": [],
+  "confidence": 0.94
+}

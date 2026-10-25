@@ -1,0 +1,200 @@
+{
+ "id": "genesis-1-1-part-1/99",
+ "kinds": [
+  "letters",
+  "verse",
+  "word-study"
+ ],
+ "title": "Alef = mouth, shepherd, strong: \"From the mouth of El\"",
+ "summary": "Shows the three letters of alef in colour (pe, lamed, alef) with their pictographs and meanings — mouth, shepherd, strong — read as \"From the mouth of el\". At the bottom, the Hebrew of Genesis 1:1 with each alef marked 1st, 2nd or 3rd.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל ף"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל (ף) פ"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "pe lamed alef"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "mouth shepherd strong"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "From the mouth of el"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ל פ"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "״בראשית ברא אלהים את השמים ואת הארץ...",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "3rd 3rd 1st 1st 2nd 2nd"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 (Hebrew, partial)",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלף",
+   "translit": "alef",
+   "gloss": "alef — pe (mouth) + lamed (shepherd) + alef (strong): from the mouth of El",
+   "strongs": null
+  },
+  {
+   "lang": "he",
+   "word": "אל",
+   "translit": "el",
+   "gloss": "God",
+   "strongs": "H410"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "pe",
+   "other": "פ"
+  },
+  {
+   "en": "mouth",
+   "other": "פ"
+  },
+  {
+   "en": "lamed",
+   "other": "ל"
+  },
+  {
+   "en": "shepherd",
+   "other": "ל"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "strong",
+   "other": "א"
+  },
+  {
+   "en": "el",
+   "other": "אל"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": null,
+   "meaning": "strong"
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": null,
+   "meaning": "shepherd"
+  },
+  {
+   "lang": "he",
+   "letter": "pe",
+   "char": "פ",
+   "value": null,
+   "meaning": "mouth (final form ף)"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Three ancient pictograph letters in a row, each over a coloured underline and labelled below: pe (mouth shape, black line), lamed (shepherd's crook, dark green line) and alef (ox-head loop, blue line).",
+   "subjects": [
+    "pictographs",
+    "alef lamed pe",
+    "paleo-Hebrew",
+    "mouth",
+    "shepherd's crook",
+    "ox head"
+   ],
+   "text_in_picture": "pe lamed alef",
+   "credit": null,
+   "box": [
+    0.38,
+    0.3,
+    0.62,
+    0.5
+   ]
+  }
+ ],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "names of God",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "alef",
+  "aleph",
+  "from the mouth of El",
+  "mouth",
+  "shepherd",
+  "strong",
+  "pictographs",
+  "El",
+  "God",
+  "Genesis 1:1",
+  "alef lamed pe",
+  "first letter",
+  "Hebrew letter meanings",
+  "count of alefs in Genesis 1:1"
+ ],
+ "uncertain": [
+  "Meaning of the 1st/2nd/3rd labels under the alefs in the verse is not explained on this slide."
+ ],
+ "confidence": 0.9
+}

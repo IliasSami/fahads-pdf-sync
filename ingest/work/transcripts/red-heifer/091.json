@@ -1,0 +1,94 @@
+{
+ "id": "red-heifer/91",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Revelation 11:1-2 — measure the temple of God; the holy city trampled 42 months",
+ "summary": "Revelation 11:1-2 quoted in English with Greek book title: John is given a measuring rod and told to measure the temple of God, the altar and the worshipers, but to leave out the outer courtyard, which is given to the nations who trample the holy city for 42 months. The word 'temple' is highlighted in gold.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Revelation 11:1-2",
+   "osis": [
+    "Rev.11.1",
+    "Rev.11.2"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἀποκάλυψις 11:1-2"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Rev.11.1",
+   "text": "1 Then I was given a measuring rod like a staff and was told, “Go and measure the temple of God and the altar, and count the number of worshipers there."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Rev.11.2",
+   "text": "2 But exclude the courtyard outside the temple. Do not measure it, because it has been given over to the nations, and they will trample the holy city for 42 months."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Revelation 11:1-2 / Ἀποκάλυψις 11:1-2",
+   "osis": [
+    "Rev.11.1",
+    "Rev.11.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 42,
+   "note": "months the holy city is trampled by the nations"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [
+   "Jerusalem"
+  ],
+  "events": [],
+  "things": [
+   "temple",
+   "altar",
+   "measuring rod"
+  ],
+  "themes": [
+   "temple",
+   "prophecy"
+  ],
+  "groups": [
+   "Gentiles"
+  ]
+ },
+ "keywords": [
+  "Revelation 11",
+  "Revelation 11:1",
+  "Revelation 11:2",
+  "measure the temple",
+  "measuring rod",
+  "reed like a rod",
+  "temple of God",
+  "holy city trampled",
+  "42 months",
+  "forty-two months",
+  "court given to the Gentiles",
+  "third temple",
+  "Apocalypse"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

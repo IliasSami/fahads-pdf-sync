@@ -1,0 +1,278 @@
+{
+ "id": "genesis-1-1-part-2/103",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 1:1 — every 7th letter spells \"three\" (sheloshah)",
+ "summary": "Genesis 1:1 in English and Hebrew, word by word with transliteration, each word in its own colour. Arrows mark letters 4, 11, 18 and 25 (every 7th letter), which spell the Hebrew word for three, שלשה (sheloshah).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "1 In beginning God created the heavens and the earth."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.1",
+   "text": "בראשית ברא אלהים את השמים ואת הארץ׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bereshit"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bara"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "elohim"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "et"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "hashamayim"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ve'et"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ha'aretz"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "4   11   18   25"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "sheloshah"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "3"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "שלשה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "3"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Three"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Spelled every 7th letter"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225"
+  },
+  {
+   "lang": "he",
+   "word": "ברא",
+   "translit": "bara",
+   "gloss": "created",
+   "strongs": "H1254"
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430"
+  },
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "(object marker, untranslated)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064"
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve'et",
+   "gloss": "and (object marker)",
+   "strongs": "H853"
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776"
+  },
+  {
+   "lang": "he",
+   "word": "שלשה",
+   "translit": "sheloshah",
+   "gloss": "three",
+   "strongs": "H7969"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "bereshit",
+   "other": "בראשית"
+  },
+  {
+   "en": "bara",
+   "other": "ברא"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  },
+  {
+   "en": "et",
+   "other": "את"
+  },
+  {
+   "en": "hashamayim",
+   "other": "השמים"
+  },
+  {
+   "en": "ve'et",
+   "other": "ואת"
+  },
+  {
+   "en": "ha'aretz",
+   "other": "הארץ"
+  },
+  {
+   "en": "4",
+   "other": "ש"
+  },
+  {
+   "en": "11",
+   "other": "ל"
+  },
+  {
+   "en": "18",
+   "other": "ש"
+  },
+  {
+   "en": "25",
+   "other": "ה"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "every 7th letter spells the word three"
+  },
+  {
+   "value": 3,
+   "note": "three (sheloshah)"
+  },
+  {
+   "value": 4,
+   "note": "letter 4 of Genesis 1:1 (arrow under bereshit)"
+  },
+  {
+   "value": 11,
+   "note": "letter 11 of Genesis 1:1 (arrow under elohim)"
+  },
+  {
+   "value": 18,
+   "note": "letter 18 of Genesis 1:1 (arrow under hashamayim)"
+  },
+  {
+   "value": 25,
+   "note": "letter 25 of Genesis 1:1 (arrow under ha'aretz)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "creation",
+   "Bible codes",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "bereshit",
+  "in the beginning",
+  "every 7th letter",
+  "skip code",
+  "equidistant letter sequence",
+  "ELS",
+  "Bible code",
+  "sheloshah",
+  "three",
+  "number 7",
+  "heavens and the earth",
+  "Hebrew word for three"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

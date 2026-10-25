@@ -1,0 +1,29 @@
+{
+  "id": "abel/148",
+  "kinds": ["verse", "comparison"],
+  "title": "God accepts Abel's offering and is well pleased with Jesus at His baptism",
+  "summary": "Genesis 4:4-5 (the LORD looked favorably on Abel and his offering but not on Cain's) is set above Luke 3:21-22, the baptism of Jesus, where the Holy Spirit descends like a dove and a voice from heaven says, \"You are My beloved Son; in You I am well pleased.\"",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:4-5", "osis": ["Gen.4.4", "Gen.4.5"]},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ד-ה", "osis": ["Gen.4.4", "Gen.4.5"]},
+    {"lang": "en", "role": "verse", "text": "4 And Abel, he also brought an offering, from the firstborn of his flock and from their fat portions. And the LORD looked favorably on Abel and his offering;", "osis": "Gen.4.4"},
+    {"lang": "en", "role": "verse", "text": "5 And He did not respect Cain and his offering. And Cain was very angry, and his countenance fell.", "osis": "Gen.4.5"},
+    {"lang": "en", "role": "reference", "text": "Luke 3:21-22", "osis": ["Luke.3.21", "Luke.3.22"]},
+    {"lang": "el", "role": "reference", "text": "ΛΟΥΚΑΝ 3:21-22", "osis": ["Luke.3.21", "Luke.3.22"]},
+    {"lang": "en", "role": "verse", "text": "21 When all the people were being baptized, Jesus was baptized too. And as He was praying, heaven was opened,", "osis": "Luke.3.21"},
+    {"lang": "en", "role": "verse", "text": "22 and the Holy Spirit descended on Him in a bodily form like a dove. And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”", "osis": "Luke.3.22"}
+  ],
+  "refs": [
+    {"shown": "Genesis 4:4-5 / בראשית ד:ד-ה", "osis": ["Gen.4.4", "Gen.4.5"], "role": "quoted"},
+    {"shown": "Luke 3:21-22 / ΛΟΥΚΑΝ 3:21-22", "osis": ["Luke.3.21", "Luke.3.22"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abel", "Cain", "God", "Jesus", "Holy Spirit"], "places": [], "events": ["Cain and Abel's offerings", "Baptism of Jesus"], "things": ["dove"], "themes": ["sacrifice", "offering", "God's approval", "typology"], "groups": []},
+  "keywords": ["baptism of Jesus", "beloved Son", "well pleased", "Holy Spirit like a dove", "voice from heaven", "Abel's offering accepted", "looked favorably", "Cain's offering rejected", "Genesis 4", "Luke 3"],
+  "uncertain": [],
+  "confidence": 0.95
+}

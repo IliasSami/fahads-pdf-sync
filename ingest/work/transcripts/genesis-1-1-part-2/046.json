@@ -1,0 +1,232 @@
+{
+ "id": "genesis-1-1-part-2/46",
+ "kinds": [
+  "word-study",
+  "verse"
+ ],
+ "title": "Unique words of creation — Genesis 1:5-8 (night, day, firmament, second)",
+ "summary": "Genesis 1:5 to 1:8 in Hebrew with English labels above the highlighted words: called, day, night, evening, morning, one, midst, firmament, made, which, under, so, and second.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "night · day · called"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.5",
+   "text": "1:5 ויקרא אלהים לאור יום ולחשך קרא לילה"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "one · morning · evening"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.5",
+   "text": "ויהי ערב ויהי בקר יום אחד׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "midst · firmament"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.6",
+   "text": "1:6 ויאמר אלהים יהי רקיע בתוך המים ויהי מבדיל בין מים למים׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "under · which · made"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.7",
+   "text": "1:7 ויעש אלהים את הרקיע ויבדל בין המים אשר מתחת לרקיע ובין"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "so"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.7",
+   "text": "המים אשר מעל לרקיע ויהי כן׃"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "second"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.1.8",
+   "text": "1:8 ויקרא אלהים לרקיע שמים ויהי ערב ויהי בקר יום שני׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1:5 – 1:8",
+   "osis": [
+    "Gen.1.5",
+    "Gen.1.6",
+    "Gen.1.7",
+    "Gen.1.8"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ויקרא",
+   "translit": "vayikra",
+   "gloss": "called",
+   "strongs": "H7121"
+  },
+  {
+   "lang": "he",
+   "word": "יום",
+   "translit": "yom",
+   "gloss": "day",
+   "strongs": "H3117"
+  },
+  {
+   "lang": "he",
+   "word": "לילה",
+   "translit": "layla",
+   "gloss": "night",
+   "strongs": "H3915"
+  },
+  {
+   "lang": "he",
+   "word": "ערב",
+   "translit": "erev",
+   "gloss": "evening",
+   "strongs": "H6153"
+  },
+  {
+   "lang": "he",
+   "word": "בקר",
+   "translit": "boker",
+   "gloss": "morning",
+   "strongs": "H1242"
+  },
+  {
+   "lang": "he",
+   "word": "אחד",
+   "translit": "echad",
+   "gloss": "one",
+   "strongs": "H259"
+  },
+  {
+   "lang": "he",
+   "word": "בתוך",
+   "translit": "betoch",
+   "gloss": "midst",
+   "strongs": "H8432"
+  },
+  {
+   "lang": "he",
+   "word": "רקיע",
+   "translit": "rakia",
+   "gloss": "firmament",
+   "strongs": "H7549"
+  },
+  {
+   "lang": "he",
+   "word": "ויעש",
+   "translit": "vayaas",
+   "gloss": "made",
+   "strongs": "H6213"
+  },
+  {
+   "lang": "he",
+   "word": "אשר",
+   "translit": "asher",
+   "gloss": "which",
+   "strongs": "H834"
+  },
+  {
+   "lang": "he",
+   "word": "מתחת",
+   "translit": "mitachat",
+   "gloss": "under",
+   "strongs": "H8478"
+  },
+  {
+   "lang": "he",
+   "word": "כן",
+   "translit": "ken",
+   "gloss": "so",
+   "strongs": "H3651"
+  },
+  {
+   "lang": "he",
+   "word": "שני",
+   "translit": "sheni",
+   "gloss": "second",
+   "strongs": "H8145"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "day one (יום אחד), Genesis 1:5"
+  },
+  {
+   "value": 2,
+   "note": "second day (יום שני), Genesis 1:8"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "firmament",
+   "waters"
+  ],
+  "themes": [
+   "creation",
+   "light and darkness"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:5-8",
+  "first day",
+  "second day",
+  "evening and the morning",
+  "day and night",
+  "God called the light Day",
+  "firmament",
+  "heaven",
+  "waters above and below",
+  "divide the waters",
+  "Hebrew word study",
+  "unique words of creation",
+  "yom echad"
+ ],
+ "uncertain": [
+  "Hebrew text on the slide has spaces rather than maqaf between words; transcribed as shown."
+ ],
+ "confidence": 0.95
+}

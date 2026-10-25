@@ -1,0 +1,151 @@
+{
+ "id": "akeda-1/123",
+ "kinds": [
+  "comparison",
+  "verse"
+ ],
+ "title": "Substitute sacrifice and God in thorns — Ram in thicket, burning bush, crown of thorns (Mark 15:17)",
+ "summary": "Summary slide linking three scenes through thorns: Genesis 22:13 'Ram in Thicket' (SUBSTITUTE SACRIFICE IN THORNS), Exodus 3:2 'Burning Bush' (GOD IN THORNS), and Mark 15:17 where they put a crown of thorns on Him [yeshua] (SUBSTITUTE & GOD IN THORNS).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "SUBSTITUTE SACRIFICE IN THORNS"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22:13",
+   "osis": "Gen.22.13"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Ram in Thicket"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב:יג"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "GOD IN THORNS"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 3:2",
+   "osis": "Exod.3.2"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Burning Bush"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות ג:ב"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "SUBSTITUTE & GOD IN THORNS"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Mark 15:17",
+   "osis": "Mark.15.17"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "άρκον15:17"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Mark.15.17",
+   "text": "17 They dressed Him [yeshua] up in purple, and after twisting a crown of thorns, they put it on Him;"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22:13 / בראשית כב:יג",
+   "osis": [
+    "Gen.22.13"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Exodus 3:2 / שמות ג:ב",
+   "osis": [
+    "Exod.3.2"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Mark 15:17 / άρκον15:17",
+   "osis": [
+    "Mark.15.17"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus",
+   "Abraham"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)",
+   "Burning bush",
+   "Crucifixion"
+  ],
+  "things": [
+   "ram",
+   "thicket",
+   "burning bush",
+   "crown of thorns",
+   "thorns",
+   "purple robe"
+  ],
+  "themes": [
+   "substitution",
+   "sacrifice",
+   "typology",
+   "messianic prophecy",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "crown of thorns",
+  "substitute and God in thorns",
+  "ram in thicket",
+  "burning bush",
+  "Mark 15:17",
+  "Genesis 22:13",
+  "Exodus 3:2",
+  "Jesus crown of thorns",
+  "yeshua",
+  "purple robe",
+  "substitute sacrifice",
+  "thorns",
+  "typology"
+ ],
+ "uncertain": [
+  "The Greek reference header is shown as άρκον15:17 (apparently Μάρκον with the first letter missing); transcribed as shown. Colour meanings of the multicoloured headings are not stated."
+ ],
+ "confidence": 0.93
+}

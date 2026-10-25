@@ -1,0 +1,163 @@
+{
+ "id": "genesis-1-1-part-2/120",
+ "kinds": [
+  "gematria",
+  "word-study",
+  "comparison"
+ ],
+ "title": "Adam (man) = 45 and Yahweh = 45",
+ "summary": "Shows the Hebrew word adam (אדם, 'man') adding up to 45 (40 + 4 + 1), then the four letters of Yahweh with the result 'yahweh = 45'. The letters of adam are colour-matched to the English a-d-a-m and to 'man'.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "adam"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ד ם"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "man"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "40 + 4 + 1 = 45"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ה ו ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 45"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "man",
+   "strongs": "H120",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     4,
+     1
+    ],
+    "total": 45
+   }
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "the name of God (YHWH, LORD)",
+   "strongs": "H3068",
+   "gematria": {
+    "method": "other",
+    "values": [],
+    "total": 45
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "adam",
+   "other": "אדם"
+  },
+  {
+   "en": "man",
+   "other": "אדם"
+  },
+  {
+   "en": "y",
+   "other": "י"
+  },
+  {
+   "en": "w",
+   "other": "ו"
+  },
+  {
+   "en": "ah / eh",
+   "other": "ה"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "dalet",
+   "char": "ד",
+   "value": 4,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "ם",
+   "value": 40,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 45,
+   "note": "gematria of אדם (adam, man) 40+4+1 and of Yahweh (spelled out) as shown"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "gematria",
+   "names of God",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Adam 45",
+  "man 45",
+  "Yahweh 45",
+  "adam and Yahweh",
+  "man and God",
+  "gematria 45",
+  "אדם",
+  "40+4+1",
+  "YHWH",
+  "tetragrammaton",
+  "same number",
+  "Adam equals Yahweh"
+ ],
+ "uncertain": [
+  "The slide does not show how Yahweh reaches 45 on this slide (it was shown on the previous slide by spelling out each letter); 45 is not the standard value of יהוה (26)."
+ ],
+ "confidence": 0.94
+}

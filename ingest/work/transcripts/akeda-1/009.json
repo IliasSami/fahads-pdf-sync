@@ -1,0 +1,54 @@
+{
+  "id": "akeda-1/9",
+  "kinds": ["word-study", "letters"],
+  "title": "Abram = ab (father) + bar (son) + room (exalted) = father of exalted sons",
+  "summary": "Adds up the pieces of the name Abram: ab (אב, father) plus bar (בר, son) plus room (רום, exalted/lofty), giving the meaning 'father of exalted sons'.",
+  "text": [
+    {"lang": "he", "role": "heading", "text": "א ב ר ם"},
+    {"lang": "en", "role": "heading", "text": "Abram"},
+    {"lang": "translit", "role": "label", "text": "ab"},
+    {"lang": "he", "role": "label", "text": "א ב"},
+    {"lang": "en", "role": "label", "text": "father"},
+    {"lang": "en", "role": "label", "text": "+"},
+    {"lang": "translit", "role": "label", "text": "bar"},
+    {"lang": "he", "role": "label", "text": "ב ר"},
+    {"lang": "en", "role": "label", "text": "son"},
+    {"lang": "en", "role": "label", "text": "+"},
+    {"lang": "translit", "role": "label", "text": "room"},
+    {"lang": "he", "role": "label", "text": "רום"},
+    {"lang": "en", "role": "label", "text": "exalted/lofty"},
+    {"lang": "en", "role": "heading", "text": "= father of exalted sons"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "אברם", "translit": "Abram", "gloss": "Abram (father of exalted sons)", "strongs": "H87"},
+    {"lang": "he", "word": "אב", "translit": "ab", "gloss": "father", "strongs": "H1"},
+    {"lang": "he", "word": "בר", "translit": "bar", "gloss": "son", "strongs": "H1247"},
+    {"lang": "he", "word": "רום", "translit": "room", "gloss": "exalted, lofty", "strongs": "H7311"}
+  ],
+  "color_links": [
+    {"en": "A", "other": "א"},
+    {"en": "b", "other": "ב"},
+    {"en": "ra", "other": "ר"},
+    {"en": "m", "other": "ם"},
+    {"en": "ab", "other": "א ב"},
+    {"en": "father", "other": "א ב"},
+    {"en": "bar", "other": "ב ר"},
+    {"en": "son", "other": "ב ר"},
+    {"en": "room", "other": "רום"},
+    {"en": "exalted/lofty", "other": "רום"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "alef", "char": "א", "value": 1, "meaning": ""},
+    {"lang": "he", "letter": "bet", "char": "ב", "value": 2, "meaning": ""},
+    {"lang": "he", "letter": "resh", "char": "ר", "value": 200, "meaning": ""},
+    {"lang": "he", "letter": "mem (final)", "char": "ם", "value": 40, "meaning": ""},
+    {"lang": "he", "letter": "vav", "char": "ו", "value": 6, "meaning": "the letter added in room (רום), shown in black"}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham"], "places": [], "events": [], "things": [], "themes": ["meaning of names", "Hebrew letter meanings"], "groups": []},
+  "keywords": ["Abram", "meaning of Abram", "father of exalted sons", "exalted father", "ab", "bar", "room", "rum", "exalted", "lofty", "Abram means", "Hebrew name meaning", "hidden meaning in names"],
+  "uncertain": [],
+  "confidence": 0.93
+}

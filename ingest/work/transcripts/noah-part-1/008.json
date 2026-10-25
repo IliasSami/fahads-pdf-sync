@@ -1,0 +1,347 @@
+{
+ "id": "noah-part-1/8",
+ "kinds": [
+  "word-study",
+  "genealogy"
+ ],
+ "title": "Name meanings from Adam to Methuselah (His death shall bring)",
+ "summary": "The name chain reaches seven rows with Methuselah added (65 arrow from Enoch): the Hebrew מתושלח is read as 'His death shall bring', with the parts of the name underlined in two styles to match the words.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Adam"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א ד ם"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Man"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "130 ⇘ Seth"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ש ת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Appointed"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "↓ 105 ⇘ Enosh"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א נ ו ש"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Mortal"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "↓ ↓ 90 ⇘ Kenan"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ק י נ ן"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Spear"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "↓ ↓ ↓ 70 ⇘ Mahalalel"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ ה ל ל א ל"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Praised God"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "↓ ↓ ↓ ↓ 65 ⇘ Jared"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "י ר ד"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Shall Come Down"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Raptured at 365 162 ⇘ Enoch"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ח נ י ך"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Teaching"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Methuselah 65 ⇘"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ ת ו ש ל ח"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "His death shall bring"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "man",
+   "strongs": "H120",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "שת",
+   "translit": "shet",
+   "gloss": "appointed (Seth)",
+   "strongs": "H8352",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אנוש",
+   "translit": "enosh",
+   "gloss": "mortal (Enosh)",
+   "strongs": "H583",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "קינן",
+   "translit": "kenan",
+   "gloss": "spear (Kenan)",
+   "strongs": "H7018",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "מהללאל",
+   "translit": "mahalalel",
+   "gloss": "praised God (Mahalalel)",
+   "strongs": "H4111",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ירד",
+   "translit": "yared",
+   "gloss": "shall come down (Jared)",
+   "strongs": "H3382",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "חניך",
+   "translit": "chanikh",
+   "gloss": "teaching (Enoch)",
+   "strongs": "H2593",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "מתושלח",
+   "translit": "metushelach",
+   "gloss": "his death shall bring (Methuselah)",
+   "strongs": "H4968",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Adam",
+   "other": "אדם"
+  },
+  {
+   "en": "Man",
+   "other": "אדם"
+  },
+  {
+   "en": "Seth",
+   "other": "שת"
+  },
+  {
+   "en": "Appointed",
+   "other": "שת"
+  },
+  {
+   "en": "Enosh",
+   "other": "אנוש"
+  },
+  {
+   "en": "Mortal",
+   "other": "אנוש"
+  },
+  {
+   "en": "Kenan",
+   "other": "קינן"
+  },
+  {
+   "en": "Spear",
+   "other": "קינן"
+  },
+  {
+   "en": "Mahalalel",
+   "other": "מהללאל"
+  },
+  {
+   "en": "Praised God",
+   "other": "מהללאל"
+  },
+  {
+   "en": "Jared",
+   "other": "ירד"
+  },
+  {
+   "en": "Shall Come Down",
+   "other": "ירד"
+  },
+  {
+   "en": "Enoch",
+   "other": "חניך"
+  },
+  {
+   "en": "Teaching",
+   "other": "חניך"
+  },
+  {
+   "en": "Methuselah",
+   "other": "מתושלח"
+  },
+  {
+   "en": "His death shall bring",
+   "other": "מתושלח"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 130,
+   "note": "number beside the arrow from Adam to Seth"
+  },
+  {
+   "value": 105,
+   "note": "number beside the arrow from Seth to Enosh"
+  },
+  {
+   "value": 90,
+   "note": "number beside the arrow from Enosh to Kenan"
+  },
+  {
+   "value": 70,
+   "note": "number beside the arrow from Kenan to Mahalalel"
+  },
+  {
+   "value": 65,
+   "note": "number beside the arrow from Mahalalel to Jared"
+  },
+  {
+   "value": 162,
+   "note": "number beside the arrow from Jared to Enoch"
+  },
+  {
+   "value": 365,
+   "note": "Enoch 'raptured at 365'"
+  },
+  {
+   "value": 65,
+   "note": "number beside the arrow from Enoch to Methuselah"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Adam",
+   "Seth",
+   "Enosh",
+   "Kenan",
+   "Mahalalel",
+   "Jared",
+   "Enoch",
+   "Methuselah"
+  ],
+  "places": [],
+  "events": [
+   "Rapture of Enoch"
+  ],
+  "things": [],
+  "themes": [
+   "genealogy",
+   "Hebrew letter meanings",
+   "names of God",
+   "death",
+   "prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Methuselah",
+  "His death shall bring",
+  "Adam to Methuselah",
+  "Seth",
+  "Enosh",
+  "Kenan",
+  "Mahalalel",
+  "Jared",
+  "Enoch",
+  "name meanings",
+  "meaning of Methuselah",
+  "raptured at 365",
+  "genealogy",
+  "Genesis 5",
+  "line of Seth",
+  "Hebrew names"
+ ],
+ "uncertain": [
+  "Enoch's Hebrew is shown as חניך (with a yod), not the usual spelling of the name"
+ ],
+ "confidence": 0.92
+}

@@ -1,0 +1,152 @@
+{
+ "id": "red-heifer/30",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Ezekiel 36:24-27 — clean water, a new heart, walk in My statutes",
+ "summary": "Ezekiel 36:24-27 in English: God will gather Israel from the nations, sprinkle clean water on them to cleanse them, give a new heart and spirit, and put His Spirit within them to walk in His statutes. Below, chuk (חק) 'Statute' is shown in blue, matching the word statutes in verse 27.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Ezekiel 36:24-27",
+   "osis": [
+    "Ezek.36.24",
+    "Ezek.36.25",
+    "Ezek.36.26",
+    "Ezek.36.27"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "יחזקאל לו:כד-כז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ezek.36.24",
+   "text": "24 For I will take you from among the nations and gather you out of all the countries, and I will bring you back into your own land."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ezek.36.25",
+   "text": "25 I will also sprinkle clean water on you, and you will be clean. I will cleanse you from all your impurities and all your idols."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ezek.36.26",
+   "text": "26 I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ezek.36.27",
+   "text": "27 And I will put My Spirit within you and cause you to walk in My statutes and to carefully observe My ordinances."
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "chuk"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "חק"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Statute"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Ezekiel 36:24-27 / יחזקאל לו:כד-כז",
+   "osis": [
+    "Ezek.36.24",
+    "Ezek.36.25",
+    "Ezek.36.26",
+    "Ezek.36.27"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "חק",
+   "translit": "chuk",
+   "gloss": "statute",
+   "strongs": "H2706",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "statutes",
+   "other": "חק"
+  },
+  {
+   "en": "Statute",
+   "other": "חק"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Holy Spirit"
+  ],
+  "places": [
+   "Israel"
+  ],
+  "events": [],
+  "things": [
+   "clean water",
+   "idols",
+   "heart of stone",
+   "heart of flesh"
+  ],
+  "themes": [
+   "purification",
+   "redemption",
+   "statutes (chok)",
+   "ordinances (mishpat)",
+   "grace",
+   "holiness",
+   "prophecy"
+  ],
+  "groups": [
+   "Israel",
+   "Gentiles"
+  ]
+ },
+ "keywords": [
+  "Ezekiel 36:24-27",
+  "Ezekiel 36",
+  "sprinkle clean water",
+  "clean water",
+  "cleanse from impurities",
+  "filthiness",
+  "idols",
+  "new heart",
+  "new spirit",
+  "heart of stone",
+  "heart of flesh",
+  "stony heart",
+  "I will put my Spirit within you",
+  "walk in my statutes",
+  "gather from the nations",
+  "return to the land",
+  "chuk",
+  "statute"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

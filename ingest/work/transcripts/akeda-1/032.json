@@ -1,0 +1,45 @@
+{
+  "id": "akeda-1/32",
+  "kinds": ["word-study", "verse", "letters"],
+  "title": "Chayyim (חיים), life — begins with the 8th letter, chet; Genesis 2:7",
+  "summary": "Introduces the Hebrew word chayyim (חיים), “life,” which begins with the 8th letter, chet (ח). Genesis 2:7 is shown in English and Hebrew, with “formed” (and its Hebrew word וייצר) underlined and words such as life, living, man and God colour-matched to the Hebrew.",
+  "text": [
+    {"lang": "translit", "role": "heading", "text": "Chayyim"},
+    {"lang": "he", "role": "heading", "text": "ח י י ם"},
+    {"lang": "en", "role": "label", "text": "life"},
+    {"lang": "en", "role": "body", "text": "and begins with the 8th letter,"},
+    {"lang": "translit", "role": "label", "text": "chet"},
+    {"lang": "he", "role": "label", "text": "ח"},
+    {"lang": "en", "role": "reference", "text": "Genesis 2:7", "osis": "Gen.2.7"},
+    {"lang": "he", "role": "reference", "text": "בראשית ב:ז"},
+    {"lang": "en", "role": "verse", "osis": "Gen.2.7", "text": "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."},
+    {"lang": "he", "role": "verse", "osis": "Gen.2.7", "text": "וייצר יהוה אלהים את־האדם עפר מן־האדמה ויפח באפיו נשמת חיים ויהי האדם לנפש חיה׃"}
+  ],
+  "refs": [{"shown": "Genesis 2:7 / בראשית ב:ז", "osis": ["Gen.2.7"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "חיים", "translit": "chayyim", "gloss": "life", "strongs": "H2416"},
+    {"lang": "he", "word": "ויצר", "translit": "vayyitser", "gloss": "and formed", "strongs": "H3335"},
+    {"lang": "he", "word": "חיה", "translit": "chayah", "gloss": "living", "strongs": "H2416"},
+    {"lang": "he", "word": "האדם", "translit": "ha-adam", "gloss": "the man", "strongs": "H120"},
+    {"lang": "he", "word": "אלהים", "translit": "elohim", "gloss": "God", "strongs": "H430"}
+  ],
+  "color_links": [
+    {"en": "Chayyim", "other": "חיים"},
+    {"en": "life", "other": "חיים"},
+    {"en": "living", "other": "חיה"},
+    {"en": "chet", "other": "ח"},
+    {"en": "And", "other": "ו"},
+    {"en": "formed", "other": "וייצר"},
+    {"en": "God", "other": "אלהים"},
+    {"en": "man", "other": "האדם"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "chet", "char": "ח", "value": 8, "meaning": "first letter of chayyim (life); the 8th letter"}
+  ],
+  "numbers": [{"value": 8, "note": "chet is the 8th letter of the Hebrew alphabet"}],
+  "pictures": [],
+  "entities": {"people": ["God", "Adam"], "places": [], "events": ["Creation"], "things": [], "themes": ["life", "creation", "Hebrew letter meanings", "gematria"], "groups": []},
+  "keywords": ["chayyim", "chaim", "life", "chet", "cheth", "het", "8th letter", "Genesis 2:7", "breath of life", "living soul", "formed man of the dust", "Hebrew word for life", "Adam created"],
+  "uncertain": ["Colours of individual letters are only loosely matched in color_links."],
+  "confidence": 0.9
+}

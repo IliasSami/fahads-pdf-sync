@@ -1,0 +1,36 @@
+{
+  "id": "abel/17",
+  "kinds": ["letters", "word-study"],
+  "title": "The letters of Cain (קין) highlighted in the Hebrew alphabet",
+  "summary": "The Hebrew alphabet chart is greyed out except for quf (ק), yod (י) and nun (נ), the three letters that spell Cain's name קין (qayin).",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Hebrew Alphabet (alefbet)"},
+    {"lang": "translit", "role": "label", "text": "alef bet gimel dalet he vav zayin het tet yod kaph lamed mem nun samech ayin pe tzadi quf resh shin tav"},
+    {"lang": "he", "role": "label", "text": "א ב ג ד ה ו ז ח ט י כ ל מ נ ס ע פ צ ק ר ש ת"},
+    {"lang": "translit", "role": "label", "text": "qayin"},
+    {"lang": "he", "role": "label", "text": "קין"},
+    {"lang": "en", "role": "label", "text": "Cain"},
+    {"lang": "translit", "role": "label", "text": "nun yod quf"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "קין", "translit": "qayin", "gloss": "Cain", "strongs": "H7014"}
+  ],
+  "color_links": [
+    {"en": "qayin", "other": "קין"},
+    {"en": "nun", "other": "נ"},
+    {"en": "yod", "other": "י"},
+    {"en": "quf", "other": "ק"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "quf", "char": "ק", "value": 100, "meaning": "first letter of קין"},
+    {"lang": "he", "letter": "yod", "char": "י", "value": 10, "meaning": "second letter of קין"},
+    {"lang": "he", "letter": "nun", "char": "נ", "value": 50, "meaning": "last letter of קין (final form ן)"}
+  ],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Cain"], "places": [], "events": [], "things": ["Hebrew alphabet"], "themes": ["Hebrew letter meanings"], "groups": []},
+  "keywords": ["Hebrew alphabet", "alefbet", "aleph-bet", "Cain", "qayin", "nun", "yod", "quf", "qof", "kuf", "letters of Cain", "spelling of Cain"],
+  "uncertain": [],
+  "confidence": 0.93
+}

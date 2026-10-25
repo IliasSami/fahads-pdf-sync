@@ -1,0 +1,114 @@
+{
+ "id": "akeda-2/76",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 24:11 — the well (beer באר)",
+ "summary": "Genesis 24:11 in English and Hebrew with \"well\" and its Hebrew word באר (beer) highlighted in blue; below the verse the word is spelled out as beer, באר, Well. \"Camels\" is underlined.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 24:11",
+   "osis": "Gen.24.11"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כד:יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.24.11",
+   "text": "11 And He made the camels kneel down outside the city by the well of water at evening time…"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.24.11",
+   "text": "11 ויברך הגמלים מחוץ לעיר אל־באר המים לעת ערב…"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "beer"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "באר"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Well"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 24:11 / בראשית כד:יא",
+   "osis": [
+    "Gen.24.11"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "באר",
+   "translit": "beer",
+   "gloss": "well",
+   "strongs": "H875",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "well",
+   "other": "באר"
+  },
+  {
+   "en": "beer",
+   "other": "באר"
+  },
+  {
+   "en": "camels",
+   "other": "הגמלים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "well",
+   "camels"
+  ],
+  "themes": [
+   "water"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "well",
+  "beer",
+  "be'er",
+  "Hebrew word for well",
+  "באר",
+  "Genesis 24:11",
+  "Genesis 24",
+  "well of water",
+  "camels kneel",
+  "evening time",
+  "Eliezer at the well",
+  "Rebekah at the well"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

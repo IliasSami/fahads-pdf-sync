@@ -1,0 +1,103 @@
+{
+ "id": "red-heifer/1",
+ "kinds": [
+  "title",
+  "picture"
+ ],
+ "title": "The Red Heifer — parah adumah, Numbers 19 (title slide)",
+ "summary": "Title slide for the Red Heifer lesson: the words parah adumah, Numbers 19 (in English and Hebrew) and The Red Heifer over a video still of the presenter seated in front of a world map.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "parah adumah"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 19",
+   "osis": "Num.19.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יט"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Red Heifer"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 19 / במדבר יט",
+   "osis": [
+    "Num.19.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "פרה אדמה",
+   "translit": "parah adumah",
+   "gloss": "red heifer",
+   "strongs": "H6510"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "video-still",
+   "description": "Video still of the presenter, a man with grey hair, glasses and a short grey beard wearing a red T-shirt, seated on a couch and gesturing with both open hands in front of a large wall map of the world. Title text in red and gold is laid over the picture.",
+   "subjects": [
+    "presenter",
+    "man in red shirt",
+    "world map",
+    "video still",
+    "teacher",
+    "couch"
+   ],
+   "text_in_picture": "parah adumah / Numbers 19 / במדבר יט / The Red Heifer",
+   "credit": null,
+   "box": [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "red heifer"
+  ],
+  "themes": [
+   "purification",
+   "Torah"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "red heifer",
+  "parah adumah",
+  "Numbers 19",
+  "red cow",
+  "title slide",
+  "Bamidbar 19",
+  "purification",
+  "ashes of the heifer",
+  "world map",
+  "video still",
+  "Dutch Uncle John"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

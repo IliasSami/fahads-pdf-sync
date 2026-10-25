@@ -1,0 +1,116 @@
+{
+ "id": "akeda-2/75",
+ "kinds": [
+  "list"
+ ],
+ "title": "1 Corinthians 12: nine varieties of gifts of the Holy Spirit",
+ "summary": "A numbered list of the nine gifts of the Holy Spirit from 1 Corinthians 12, arranged in three columns: wisdom, knowledge, faith; healing, miracles, prophecy; distinguishing of spirits, speaking in tongues, interpreting tongues.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "1 Corinthians 12"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "9 Varieties of gifts of the Holy Spirit"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "1 Wisdom"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "2 Knowledge"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "3 Faith"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "4 Healing"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "5 Miracles"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "6 Prophecy"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "7 Distinguishing of Spirits"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "8 Speaking in Tongues"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "9 Interpreting Tongues"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Corinthians 12",
+   "osis": [
+    "1Cor.12.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 9,
+   "note": "varieties (gifts) of the Holy Spirit"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Holy Spirit"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "spiritual gifts",
+   "prophecy",
+   "faith",
+   "wisdom"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "gifts of the Holy Spirit",
+  "spiritual gifts",
+  "nine gifts",
+  "1 Corinthians 12",
+  "word of wisdom",
+  "word of knowledge",
+  "gifts of healing",
+  "working of miracles",
+  "discerning of spirits",
+  "divers kinds of tongues",
+  "interpretation of tongues",
+  "charismata",
+  "speaking in tongues"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

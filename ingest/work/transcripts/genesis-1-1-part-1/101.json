@@ -1,0 +1,89 @@
+{
+ "id": "genesis-1-1-part-1/101",
+ "kinds": [
+  "letters",
+  "picture"
+ ],
+ "title": "The alef letter shown as a large blue alef and a drawn-apart alef",
+ "summary": "A large blue Hebrew alef (א) with the word alef in blue, above a second, drawn-apart alef made of a big orange diagonal stroke flanked by two small brown yod-like marks. No explanatory text on the slide.",
+ "text": [
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אלף",
+   "translit": "alef",
+   "gloss": "alef (name of the letter)",
+   "strongs": null
+  }
+ ],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "shown as a diagonal stroke with a mark above and a mark below"
+  }
+ ],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "illustration",
+   "description": "The Hebrew letter alef taken apart: a large orange diagonal stroke (the slanted middle of the letter) with one small dark brown yod-like mark at upper right and another at lower left, making up the shape of the letter alef.",
+   "subjects": [
+    "alef",
+    "Hebrew letter",
+    "letter anatomy",
+    "yod",
+    "vav",
+    "orange diagonal stroke"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.42,
+    0.45,
+    0.66,
+    0.88
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "alef",
+  "aleph",
+  "Hebrew letter",
+  "shape of alef",
+  "yod vav yod",
+  "parts of the letter alef",
+  "large alef",
+  "blue alef",
+  "letter anatomy"
+ ],
+ "uncertain": [
+  "The slide has no explanation of the orange stroke and two brown marks; reading them as the pieces (yod-vav-yod) of an alef is an interpretation of the image."
+ ],
+ "confidence": 0.8
+}

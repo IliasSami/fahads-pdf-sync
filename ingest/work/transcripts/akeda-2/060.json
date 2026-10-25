@@ -1,0 +1,87 @@
+{
+ "id": "akeda-2/60",
+ "kinds": [
+  "picture"
+ ],
+ "title": "The Outback, Alice Springs, Australia, 1985 — rider on a camel",
+ "summary": "A photo of a person wrapped in a grey blanket riding a saddled camel in a dusty yard, captioned The Outback, Alice Springs, Australia, 1985. Follows the verse about Abraham's servant taking ten camels.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Outback"
+  },
+  {
+   "lang": "en",
+   "role": "caption",
+   "text": "Alice Springs, Australia"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "1985"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 1985,
+   "note": "year shown for the photo"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Colour photograph of a person with glasses, wrapped in a grey blanket or cloak, sitting on a saddled brown camel with a blue halter. The camel stands in a dusty yard with other camels behind it, a bare tree and a shed under a clear blue sky.",
+   "subjects": [
+    "camel",
+    "camel rider",
+    "saddle",
+    "outback",
+    "Alice Springs",
+    "Australia",
+    "desert",
+    "blue halter"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.065,
+    0.0,
+    0.506,
+    1.0
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [
+   "Alice Springs",
+   "Australia"
+  ],
+  "events": [],
+  "things": [
+   "camel"
+  ],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "camel",
+  "camel ride",
+  "Outback",
+  "Alice Springs",
+  "Australia",
+  "1985",
+  "photo of a camel",
+  "riding a camel",
+  "ten camels",
+  "Genesis 24",
+  "desert travel"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

@@ -1,0 +1,105 @@
+{
+ "id": "genesis-1-1-wisdom/52",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Proverbs 8:28-31 — wisdom as master craftsman beside God",
+ "summary": "Proverbs 8:28-31 in English: Wisdom describes God establishing the clouds, fountains of the deep, the sea's limit and the earth's foundations, with her beside Him as a master craftsman, His daily delight, rejoicing in His inhabited world and with the sons of men. 'Waters' is shown in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Proverbs 8",
+   "osis": "Prov.8.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "משלי ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "28 When He established the clouds above, When He strengthened the fountains of the deep,",
+   "osis": "Prov.8.28"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "29 When He assigned to the sea its limit, So that the waters would not transgress His command, When He marked out the foundations of the earth,",
+   "osis": "Prov.8.29"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "30 Then I was beside Him as a master craftsman; And I was daily His delight, Rejoicing always before Him,",
+   "osis": "Prov.8.30"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "31 Rejoicing in His inhabited world, And my delight was with the sons of men.",
+   "osis": "Prov.8.31"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Proverbs 8 / משלי ח",
+   "osis": [
+    "Prov.8.28",
+    "Prov.8.29",
+    "Prov.8.30",
+    "Prov.8.31"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "clouds",
+   "fountains of the deep",
+   "sea",
+   "waters",
+   "foundations of the earth"
+  ],
+  "themes": [
+   "wisdom",
+   "creation",
+   "craftsmanship",
+   "delight",
+   "rejoicing"
+  ],
+  "groups": [
+   "sons of men"
+  ]
+ },
+ "keywords": [
+  "Proverbs 8",
+  "Proverbs 8:30",
+  "master craftsman",
+  "wisdom as craftsman",
+  "master workman",
+  "daily His delight",
+  "rejoicing always before Him",
+  "foundations of the earth",
+  "sea its limit",
+  "waters would not transgress His command",
+  "fountains of the deep",
+  "my delight was with the sons of men",
+  "wisdom at creation"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

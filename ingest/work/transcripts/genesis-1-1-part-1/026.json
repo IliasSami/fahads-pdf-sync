@@ -1,0 +1,157 @@
+{
+ "id": "genesis-1-1-part-1/26",
+ "kinds": [
+  "verse",
+  "letters"
+ ],
+ "title": "Isaiah 46:9-10 — declaring the end from the beginning (Son of God destroyed...)",
+ "summary": "Isaiah 46:9-10 in English, with “Declaring the end from the beginning” enlarged, shown above the colour-coded letters of bereshit (בראשית) and the reading “Son of God Destroyed with Hand on Cross.”",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Isaiah 46:9 – 10",
+   "osis": [
+    "Isa.46.9",
+    "Isa.46.10"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ישעה מו:ט – י"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Isa.46.9",
+   "text": "9 “Remember the former things long past,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Isa.46.9",
+   "text": "For I am God, and there is no other;"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Isa.46.9",
+   "text": "I am God, and there is no one like Me,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Isa.46.10",
+   "text": "10 Declaring the end from the beginning,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Isa.46.10",
+   "text": "And from ancient times things which have not been done,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Isa.46.10",
+   "text": "Saying, ‘My purpose will be established,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Isa.46.10",
+   "text": "And I will accomplish all My good pleasure’;"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ב ר א ש י ת"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Son of God Destroyed with Hand on Cross"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Isaiah 46:9 – 10 / ישעה מו:ט – י",
+   "osis": [
+    "Isa.46.9",
+    "Isa.46.10"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בראשית",
+   "translit": "bereshit",
+   "gloss": "in the beginning",
+   "strongs": "H7225"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Son",
+   "other": "ב"
+  },
+  {
+   "en": "God",
+   "other": "א"
+  },
+  {
+   "en": "Destroyed",
+   "other": "ש"
+  },
+  {
+   "en": "Hand",
+   "other": "י"
+  },
+  {
+   "en": "Cross",
+   "other": "ת"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Creation",
+   "Crucifixion"
+  ],
+  "things": [
+   "cross"
+  ],
+  "themes": [
+   "prophecy",
+   "Hebrew letter meanings",
+   "typology",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Isaiah 46",
+  "declaring the end from the beginning",
+  "I am God and there is no other",
+  "former things",
+  "my purpose will be established",
+  "good pleasure",
+  "bereshit",
+  "Son of God destroyed with hand on cross",
+  "end from the beginning",
+  "no one like Me",
+  "Genesis 1:1 letters"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

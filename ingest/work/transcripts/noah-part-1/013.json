@@ -1,0 +1,87 @@
+{
+ "id": "noah-part-1/13",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 6:3 — man's days shall be 120 years",
+ "summary": "Genesis 6:3 in English: the LORD says His Spirit will not strive with man forever because he is flesh, and his days will be 120 years. 'Spirit' is highlighted in gold and 'one hundred and twenty years' in green.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:3",
+   "osis": "Gen.6.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.3",
+   "text": "3 Then the LORD said, “My Spirit shall not strive with man forever, because he also is flesh; nevertheless his days shall be one hundred and twenty years.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:3 / בראשית ו:ג",
+   "osis": [
+    "Gen.6.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "en",
+   "word": "Spirit",
+   "translit": "ruach",
+   "gloss": "spirit, breath, wind",
+   "strongs": "H7307"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 120,
+   "note": "years allotted to man in Genesis 6:3"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Holy Spirit"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [],
+  "themes": [
+   "judgment",
+   "death",
+   "Flood chronology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 6:3",
+  "120 years",
+  "one hundred and twenty years",
+  "My Spirit shall not strive with man",
+  "strive with man",
+  "his days shall be",
+  "lifespan",
+  "human lifespan limit",
+  "before the flood",
+  "Noah",
+  "Spirit of God",
+  "flesh"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

@@ -1,0 +1,113 @@
+{
+ "id": "noah-part-1/19",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Deuteronomy 34:4-7 — Moses dies at 120 years old",
+ "summary": "Deuteronomy 34:4-7 in English: the LORD shows Moses the land sworn to Abraham, Isaac and Jacob but says he will not cross over; Moses dies in Moab, God buries him, and he was 120 years old with eye not dim. Names Abraham, Isaac, Jacob and Moses are colour-coded and '120 years old' is large and green.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Deuteronomy 34:4 - 7",
+   "osis": [
+    "Deut.34.4",
+    "Deut.34.5",
+    "Deut.34.6",
+    "Deut.34.7"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "דברים לד:ד - ז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Deut.34.4",
+   "text": "4 Then the LORD said to him, “This is the land which I swore to Abraham, Isaac, and Jacob, saying, ‘I will give it to your descendants’; I have let you see it with your eyes, but you shall not go over there.”"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Deut.34.5",
+   "text": "5 So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Deut.34.6",
+   "text": "6 And He buried him in the valley in the land of Moab, opposite Beth-peor; but no man knows his burial place to this day."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Deut.34.7",
+   "text": "7 Although Moses was 120 years old when he died, his eye was not dim, nor his vigor abated."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Deuteronomy 34:4 - 7 / דברים לד:ד - ז",
+   "osis": [
+    "Deut.34.4",
+    "Deut.34.5",
+    "Deut.34.6",
+    "Deut.34.7"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 120,
+   "note": "Moses' age when he died"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Moses",
+   "Abraham",
+   "Isaac",
+   "Jacob"
+  ],
+  "places": [
+   "Moab",
+   "Beth-peor",
+   "Israel"
+  ],
+  "events": [
+   "death of Moses"
+  ],
+  "things": [],
+  "themes": [
+   "death",
+   "covenant",
+   "obedience"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Deuteronomy 34",
+  "death of Moses",
+  "Moses 120 years old",
+  "Moses died at 120",
+  "Moses burial",
+  "Mount Nebo",
+  "Moab",
+  "Beth-peor",
+  "land sworn to Abraham Isaac and Jacob",
+  "eye was not dim",
+  "vigor abated",
+  "you shall not go over there",
+  "promised land"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

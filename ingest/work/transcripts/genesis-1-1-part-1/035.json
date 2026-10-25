@@ -1,0 +1,107 @@
+{
+ "id": "genesis-1-1-part-1/35",
+ "kinds": [
+  "word-study"
+ ],
+ "title": "Jesus H. Christ = yeshua hamoshiach (Jesus the Messiah)",
+ "summary": "Restates “Jesus H. Christ” as “yeshua the messiah,” then writes the same in Hebrew (ישוע המשיח) and in transliteration as yeshua hamoshiach. Colour pairs the name (red), ha/the (black) and the title (gold).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Jesus H. Christ"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "yeshua the messiah"
+  },
+  {
+   "lang": "he",
+   "role": "body",
+   "text": "ישוע המשיח"
+  },
+  {
+   "lang": "translit",
+   "role": "body",
+   "text": "yeshua hamoshiach"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Jesus",
+   "strongs": "H3442"
+  },
+  {
+   "lang": "he",
+   "word": "המשיח",
+   "translit": "hamoshiach",
+   "gloss": "the messiah",
+   "strongs": "H4899"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Jesus",
+   "other": "ישוע"
+  },
+  {
+   "en": "yeshua",
+   "other": "ישוע"
+  },
+  {
+   "en": "Christ",
+   "other": "משיח"
+  },
+  {
+   "en": "messiah",
+   "other": "משיח"
+  },
+  {
+   "en": "moshiach",
+   "other": "משיח"
+  },
+  {
+   "en": "the",
+   "other": "ה"
+  },
+  {
+   "en": "ha",
+   "other": "ה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Messiah",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Yeshua HaMashiach",
+  "yeshua hamoshiach",
+  "Jesus the Messiah",
+  "Jesus Christ in Hebrew",
+  "ישוע המשיח",
+  "Hebrew name of Jesus",
+  "messiah",
+  "moshiach",
+  "Christ",
+  "ha means the"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

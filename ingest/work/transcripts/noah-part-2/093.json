@@ -1,0 +1,73 @@
+{
+ "id": "noah-part-2/93",
+ "kinds": [
+  "picture"
+ ],
+ "title": "Photo: the White House lit in rainbow colours at night",
+ "summary": "A night photograph of the front of the White House floodlit in the colours of the rainbow, with an American flag on the roof and a fountain in front. There is no text on the slide.",
+ "text": [],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "photo",
+   "description": "Night photo of the front of the White House in Washington, D.C. under a deep-blue sky, its facade lit in rainbow bands: red and orange at left, yellow and green at the central portico, blue and purple at right. An American flag flies on the roof and a fountain sprays in front, with a dark tree at the left.",
+   "subjects": [
+    "White House",
+    "Washington D.C.",
+    "rainbow lights",
+    "rainbow colours",
+    "American flag",
+    "fountain",
+    "night photo",
+    "floodlit building"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.053,
+    0.0,
+    0.944,
+    1.0
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [
+   "White House",
+   "Washington, D.C."
+  ],
+  "events": [],
+  "things": [
+   "rainbow",
+   "American flag",
+   "fountain"
+  ],
+  "themes": [
+   "rainbow",
+   "covenant"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "rainbow",
+  "White House",
+  "White House rainbow",
+  "rainbow lights",
+  "rainbow colors",
+  "rainbow lighting",
+  "building lit in rainbow colours",
+  "pride colors",
+  "American flag",
+  "night photo",
+  "photo",
+  "Washington DC",
+  "colors of the rainbow"
+ ],
+ "uncertain": [],
+ "confidence": 0.93
+}

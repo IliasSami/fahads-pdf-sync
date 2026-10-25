@@ -1,0 +1,24 @@
+{
+  "id": "fall-of-man/48",
+  "kinds": ["verse", "title"],
+  "title": "The Progression of Blood (3): the Akeda — one substitute covers one boy",
+  "summary": "Third step in “The Progression of Blood”: the Akeda (Binding of Isaac), where one substitute sacrifice covers one boy. Genesis 22:13 is quoted, with the ram that Abraham offered in place of his son highlighted in red.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "The Progression of Blood₃"},
+    {"lang": "en", "role": "body", "text": "The Akeda—The Binding of Isaac"},
+    {"lang": "en", "role": "body", "text": "One Substitute Sacrifice Covers One Boy"},
+    {"lang": "en", "role": "reference", "text": "Genesis 22:13", "osis": "Gen.22.13"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב:יג", "osis": "Gen.22.13"},
+    {"lang": "en", "role": "verse", "text": "13 Then Abraham raised his eyes and looked, and behold, behind him a ram caught in the thicket by his horns; and Abraham went and took the ram and offered him up for a burnt offering in the place of his son.", "osis": "Gen.22.13"}
+  ],
+  "refs": [{"shown": "Genesis 22:13 / בראשית כב:יג", "osis": ["Gen.22.13"], "role": "quoted"}],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac"], "places": [], "events": ["Binding of Isaac (Akedah)"], "things": ["ram", "thicket", "burnt offering"], "themes": ["blood", "sacrifice", "substitution"], "groups": []},
+  "keywords": ["progression of blood", "Akeda", "Akedah", "Binding of Isaac", "substitute sacrifice", "ram caught in the thicket", "ram in the thicket", "burnt offering", "in the place of his son", "in the stead of his son", "one sacrifice for one person", "Genesis 22", "Genesis 22:13"],
+  "uncertain": [],
+  "confidence": 0.96
+}

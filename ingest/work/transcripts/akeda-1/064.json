@@ -1,0 +1,20 @@
+{
+  "id": "akeda-1/64",
+  "kinds": ["text", "list"],
+  "title": "Option 1: God intervenes and stops the sacrifice",
+  "summary": "Text slide presenting the first of two possible outcomes of the sacrifice: Option 1, God intervenes and stops the sacrifice.",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Option 1"},
+    {"lang": "en", "role": "body", "text": "God intervenes & stops sacrifice"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [{"value": 1, "note": "Option 1"}],
+  "pictures": [],
+  "entities": {"people": ["God"], "places": [], "events": ["Binding of Isaac (Akedah)"], "things": [], "themes": ["sacrifice", "substitution", "deliverance"], "groups": []},
+  "keywords": ["Option 1", "God intervenes", "stops the sacrifice", "two options", "Akedah outcome", "Abraham stopped", "angel of the LORD stops Abraham", "ram instead of Isaac", "binding of Isaac"],
+  "uncertain": [],
+  "confidence": 0.97
+}

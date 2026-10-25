@@ -1,0 +1,122 @@
+{
+ "id": "gods-garden-in-eden/30",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Hidden letters in Genesis 2:9-13: chestnut (ערמן, -44)",
+ "summary": "Hebrew text of Genesis 2:9-13 with four large brown letters spread across the verses that spell Chestnut ערמן with the number -44: ע in verse 9, ר in verse 10, ם in verse 11 and נ in verse 13.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Chestnut"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ערמן"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "-44"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": [
+    "Gen.2.9",
+    "Gen.2.10",
+    "Gen.2.11",
+    "Gen.2.12",
+    "Gen.2.13"
+   ],
+   "text": "9 ויצמח יהוה אלהים מן־האדמה כל־עץ נחמד למראה וטוב למאכל ועץ החיים בתוך הגן ועץ הדעת טוב ורע׃ 10 ונהר יצא מעדן להשקות את־הגן ומשם יפרד והיה לארבעה ראשים׃ 11 שם האחד פישון הוא הסבב את כל־ארץ החוילה אשר־שם הזהב׃ 12 וזהב הארץ ההוא טוב שם הבדלח ואבן השהם׃ 13 ושם־הנהר השני גיחון הוא הסובב את כל־ארץ כוש׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:9-13 (Hebrew text)",
+   "osis": [
+    "Gen.2.9",
+    "Gen.2.10",
+    "Gen.2.11",
+    "Gen.2.12",
+    "Gen.2.13"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ערמן",
+   "translit": "armon",
+   "gloss": "chestnut (plane tree)",
+   "strongs": "H6196",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Chestnut",
+   "other": "ערמן"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": -44,
+   "note": "-44, number shown beside ערמן (chestnut)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [
+   "Garden of Eden",
+   "Pishon",
+   "Havilah",
+   "Gihon",
+   "Cush"
+  ],
+  "events": [],
+  "things": [
+   "chestnut",
+   "river",
+   "gold",
+   "bdellium",
+   "onyx stone",
+   "tree of life",
+   "tree of the knowledge of good and evil"
+  ],
+  "themes": [
+   "Bible codes",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "hidden letters",
+  "Bible code",
+  "ELS",
+  "chestnut in Hebrew",
+  "armon",
+  "plane tree",
+  "trees of Eden",
+  "Genesis 2:9",
+  "Genesis 2:10",
+  "Genesis 2:11",
+  "Genesis 2:12",
+  "Genesis 2:13",
+  "Pison",
+  "Gihon",
+  "Cush",
+  "skip number"
+ ],
+ "uncertain": [],
+ "confidence": 0.92
+}

@@ -1,0 +1,60 @@
+{
+  "id": "akeda-1/11",
+  "kinds": ["letters", "word-study"],
+  "title": "YHWH (Yahweh, LORD) letter by letter: Hand, Behold, Nail, Behold",
+  "summary": "Spells the name Yahweh (יהוה, LORD) with each letter's number and ancient pictograph meaning: yod (10) = Hand, he (5) = Behold! Revelation, Grace, vav (6) = Hook, Nail, Attach / Upright Man, and he (5) again.",
+  "text": [
+    {"lang": "translit", "role": "heading", "text": "y a h w e h"},
+    {"lang": "he", "role": "heading", "text": "י ה ו ה"},
+    {"lang": "en", "role": "heading", "text": "LORD"},
+    {"lang": "en", "role": "number", "text": "10."},
+    {"lang": "translit", "role": "label", "text": "yod"},
+    {"lang": "en", "role": "label", "text": "I, Y"},
+    {"lang": "en", "role": "number", "text": "10"},
+    {"lang": "en", "role": "label", "text": "Hand"},
+    {"lang": "en", "role": "number", "text": "5."},
+    {"lang": "translit", "role": "label", "text": "he"},
+    {"lang": "en", "role": "label", "text": "H"},
+    {"lang": "en", "role": "number", "text": "5"},
+    {"lang": "en", "role": "label", "text": "BEHOLD!, Revelation, Grace"},
+    {"lang": "en", "role": "number", "text": "6."},
+    {"lang": "translit", "role": "label", "text": "vav"},
+    {"lang": "en", "role": "label", "text": "V,O,W,U"},
+    {"lang": "en", "role": "number", "text": "6"},
+    {"lang": "en", "role": "label", "text": "Hook, Nail, Attach / Upright Man"},
+    {"lang": "en", "role": "number", "text": "5."},
+    {"lang": "translit", "role": "label", "text": "he"},
+    {"lang": "en", "role": "label", "text": "H"},
+    {"lang": "en", "role": "number", "text": "5"},
+    {"lang": "en", "role": "label", "text": "BEHOLD!, Revelation, Grace"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "יהוה", "translit": "yahweh", "gloss": "LORD (the name of God)", "strongs": "H3068"}
+  ],
+  "color_links": [
+    {"en": "y", "other": "י"},
+    {"en": "h", "other": "ה"},
+    {"en": "w", "other": "ו"},
+    {"en": "e", "other": "ה"},
+    {"en": "L", "other": "י"},
+    {"en": "O", "other": "ה"},
+    {"en": "R", "other": "ו"},
+    {"en": "D", "other": "ה"},
+    {"en": "yod", "other": "י"},
+    {"en": "vav", "other": "ו"}
+  ],
+  "letters": [
+    {"lang": "he", "letter": "yod", "char": "י", "value": 10, "meaning": "Hand (arm and hand pictograph); sounds I, Y"},
+    {"lang": "he", "letter": "he", "char": "ה", "value": 5, "meaning": "BEHOLD!, Revelation, Grace (man with raised arms pictograph); sounds H"},
+    {"lang": "he", "letter": "vav", "char": "ו", "value": 6, "meaning": "Hook, Nail, Attach / Upright Man (hook pictograph); sounds V, O, W, U"}
+  ],
+  "numbers": [],
+  "pictures": [
+    {"type": "pictograph", "description": "A column of three ancient (paleo-)Hebrew pictograph letters with underlines: yod (an arm and hand), he (a figure with raised arms) shown twice, and vav (a hook or nail shape), each placed beside its number.", "subjects": ["paleo-Hebrew alphabet", "pictographs", "ancient Hebrew letters", "yod", "he", "vav", "YHWH"], "text_in_picture": "", "credit": null, "box": [0.45, 0.32, 0.52, 0.82]}
+  ],
+  "entities": {"people": ["God"], "places": [], "events": [], "things": [], "themes": ["names of God", "Hebrew letter meanings", "revelation", "grace"], "groups": []},
+  "keywords": ["Yahweh", "YHWH", "LORD", "tetragrammaton", "name of God", "yod", "he", "vav", "waw", "hand", "behold", "nail", "pictographs", "paleo-Hebrew", "letter meanings", "revelation", "grace"],
+  "uncertain": [],
+  "confidence": 0.93
+}

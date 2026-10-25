@@ -1,0 +1,123 @@
+{
+  "id": "elijah-elisha/16",
+  "kinds": [
+    "comparison",
+    "list"
+  ],
+  "title": "Joseph / Yeshua parallels: marries a Gentile bride",
+  "summary": "The complete eight-item list of Joseph–Yeshua parallels: sent by the Father, betrayed by brothers, sold for 20/30 pieces of silver, falsely accused, sentenced to prison/death, baker & cup bearer / bread & wine, raised to #2 in Egypt/Heaven, and marries a Gentile bride.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "Joseph / yeshua Parallels"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sent by Father to check on brothers"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Betrayed by his brothers"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sold for 20/30 pieces of silver"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Falsely accused"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Sentenced to prison / death"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Baker & Cup Bearer / Bread & Wine"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Raised to #2 in Egypt / Heaven"
+    },
+    {
+      "lang": "en",
+      "role": "list",
+      "text": "Marries a Gentile bride"
+    }
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {
+      "value": 20,
+      "note": "pieces of silver Joseph was sold for"
+    },
+    {
+      "value": 30,
+      "note": "pieces of silver paid to betray Yeshua"
+    },
+    {
+      "value": 2,
+      "note": "raised to #2 — Joseph in Egypt, Yeshua in Heaven"
+    }
+  ],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Joseph",
+      "Jesus",
+      "Jacob",
+      "God"
+    ],
+    "places": [
+      "Egypt",
+      "Heaven"
+    ],
+    "events": [],
+    "things": [
+      "silver",
+      "prison",
+      "bread",
+      "wine"
+    ],
+    "themes": [
+      "typology",
+      "betrayal",
+      "death",
+      "marriage"
+    ],
+    "groups": [
+      "Joseph's brothers",
+      "Gentiles"
+    ]
+  },
+  "keywords": [
+    "Joseph",
+    "Yeshua",
+    "Jesus",
+    "parallels",
+    "Joseph as a type of Christ",
+    "second in command",
+    "ruler over Egypt",
+    "right hand of God",
+    "exalted",
+    "Genesis 41:40",
+    "Gentile bride",
+    "Asenath",
+    "bride of Christ",
+    "church",
+    "Genesis 41:45"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}

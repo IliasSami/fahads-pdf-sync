@@ -1,0 +1,124 @@
+{
+  "kinds": [
+    "verse",
+    "text"
+  ],
+  "title": "Genesis 4:5 — God did not respect Cain's offering; Heaven God's way or Hell your way",
+  "summary": "Genesis 4:5 in English and Hebrew: God did not respect Cain and his offering, and Cain became very angry and his countenance fell. A large closing statement says you can go to Heaven God's way or go to Hell any way you want.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 4:5",
+      "osis": "Gen.4.5"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית ד:ה",
+      "osis": "Gen.4.5"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "5 And He did not respect Cain and his offering.",
+      "osis": "Gen.4.5"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "And Cain was very angry, and his countenance fell.",
+      "osis": "Gen.4.5"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "5 ואל קין ואל מנחתו לא שעה",
+      "osis": "Gen.4.5"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "ויחר לקין מאד ויפלו פניו׃",
+      "osis": "Gen.4.5"
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "You can go to Heaven God’s way"
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "or"
+    },
+    {
+      "lang": "en",
+      "role": "heading",
+      "text": "feel free to go to Hell any way you want."
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 4:5 / בראשית ד:ה",
+      "osis": [
+        "Gen.4.5"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "שעה",
+      "translit": "shaah",
+      "gloss": "to look with regard / respect",
+      "strongs": "H8159"
+    }
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Cain",
+      "God"
+    ],
+    "places": [
+      "Heaven",
+      "Hell"
+    ],
+    "events": [
+      "Cain and Abel's offerings"
+    ],
+    "things": [
+      "offering"
+    ],
+    "themes": [
+      "sacrifice",
+      "obedience",
+      "faith",
+      "judgment"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Cain's offering rejected",
+    "God did not respect Cain",
+    "unto Cain he had not respect",
+    "Cain was very wroth",
+    "his countenance fell",
+    "Cain angry",
+    "Heaven God's way",
+    "Hell",
+    "way to Heaven",
+    "only one way to God",
+    "Genesis 4:5",
+    "Cain and Abel",
+    "Genesis 4"
+  ],
+  "uncertain": [],
+  "confidence": 0.95,
+  "id": "abel/61"
+}

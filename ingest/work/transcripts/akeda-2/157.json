@@ -1,0 +1,51 @@
+{
+ "id": "akeda-2/157",
+ "kinds": [
+  "end"
+ ],
+ "title": "The End — speaking inquiries contact",
+ "summary": "Closing slide reading \"The End\", with a line for speaking inquiries and an email address.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The End"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Speaking Inquiries"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "dutchunclejohn@yahoo.com"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "The End",
+  "end of presentation",
+  "speaking inquiries",
+  "contact",
+  "email",
+  "dutchunclejohn",
+  "Dutch Uncle John",
+  "closing slide"
+ ],
+ "uncertain": [],
+ "confidence": 0.99
+}

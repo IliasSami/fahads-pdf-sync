@@ -1,0 +1,83 @@
+{
+ "id": "red-heifer/53",
+ "kinds": [
+  "text"
+ ],
+ "title": "The heifer sacrifice symbolizes Jesus' sacrifice; water of cleansing",
+ "summary": "A text slide explaining the red heifer as a symbol: the heifer sacrifice points to the divine sacrifice of Jesus Christ, the red heifer and scarlet wool point to Jesus' blood, a heifer as a female life-giver points to the life-giving force of His atonement, and the water of cleansing symbolizes purification of a defiled person.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The sacrifice of the Heifer is symbolic of Jesus Christ’s divine sacrifice;"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Red Heifer & Scarlet Wool point to Jesus’ blood"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "A Heifer is a female and potential life-giver which points to the life-giving force of Jesus’ atonement."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Water of cleansing pertains to the symbolic purification of the defiled person."
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Water physically cleanses a person with dirty hands, Water of cleansing ritually purifies a defiled soul."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Crucifixion"
+  ],
+  "things": [
+   "red heifer",
+   "scarlet wool",
+   "water of cleansing",
+   "blood"
+  ],
+  "themes": [
+   "sacrifice",
+   "blood",
+   "atonement",
+   "typology",
+   "purification",
+   "clean and unclean",
+   "life"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "red heifer symbolizes Jesus",
+  "heifer is a type of Christ",
+  "scarlet wool",
+  "Jesus' blood",
+  "life-giver",
+  "female heifer",
+  "atonement",
+  "water of cleansing",
+  "water of purification",
+  "defiled person",
+  "ritual purification",
+  "Numbers 19",
+  "typology"
+ ],
+ "uncertain": [],
+ "confidence": 0.98
+}

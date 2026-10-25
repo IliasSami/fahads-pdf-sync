@@ -1,0 +1,240 @@
+{
+ "id": "genesis-1-1-part-2/92",
+ "kinds": [
+  "gematria",
+  "word-study",
+  "diagram"
+ ],
+ "title": "\"and the earth\" in Genesis 1:1: 296 + 407 = 703, between three 666s",
+ "summary": "Highlights the words \"and the earth\" in Genesis 1:1: הארץ (the earth) = 90 + 200 + 1 + 5 = 296 and ואת (and + et) = 400 + 1 + 6 = 407, giving 296 + 407 = 703. A small figure shows 703 in a downward purple triangle surrounded by three upward blue triangles each labelled 666. The big dot triangle on the left has a purple region inside the blue.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "and the earth"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "the earth"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "and (et)"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "הארץ"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ואת"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "90 200 1 5"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "400 1 6"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "296 + 407 = 703"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "666"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "666"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "703"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "666"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     90,
+     200,
+     1,
+     5
+    ],
+    "total": 296
+   }
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve'et",
+   "gloss": "and (et, the object marker)",
+   "strongs": "H853",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     400,
+     1,
+     6
+    ],
+    "total": 407
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "the earth",
+   "other": "הארץ"
+  },
+  {
+   "en": "and",
+   "other": "ו"
+  },
+  {
+   "en": "e (of et)",
+   "other": "א"
+  },
+  {
+   "en": "t (of et)",
+   "other": "ת"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 296,
+   "note": "gematria of הארץ (the earth)"
+  },
+  {
+   "value": 407,
+   "note": "gematria of ואת (and + et)"
+  },
+  {
+   "value": 703,
+   "note": "296 + 407; a triangle number, shown in the purple downward triangle"
+  },
+  {
+   "value": 666,
+   "note": "shown three times, each beside a blue upward triangle around 703"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A big triangle of tiny blue dots with a purple-dotted region in the middle, standing for 703 inside the Genesis 1:1 triangle.",
+   "subjects": [
+    "dot triangle",
+    "blue triangle",
+    "purple region",
+    "triangle number",
+    "gematria diagram"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.04,
+    0.11,
+    0.59,
+    0.89
+   ]
+  },
+  {
+   "type": "diagram",
+   "description": "Small arrangement of four triangles: three blue upward-pointing triangles (top, bottom-left, bottom-right) each labelled 666, and a purple downward-pointing triangle in the middle labelled 703.",
+   "subjects": [
+    "triangles",
+    "666",
+    "703",
+    "blue triangles",
+    "purple triangle",
+    "number diagram"
+   ],
+   "text_in_picture": "666 703 666 666",
+   "credit": null,
+   "box": [
+    0.63,
+    0.59,
+    0.92,
+    0.95
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "numbers in Scripture",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "and the earth",
+  "ha'aretz",
+  "haaretz",
+  "ve'et",
+  "et",
+  "296",
+  "407",
+  "703",
+  "666",
+  "triangle number",
+  "gematria",
+  "the earth",
+  "dot triangle",
+  "heaven and earth"
+ ],
+ "uncertain": [
+  "How the 666 triangles relate to the 703 triangle is shown only as a picture; no explanation is given on the slide."
+ ],
+ "confidence": 0.93
+}

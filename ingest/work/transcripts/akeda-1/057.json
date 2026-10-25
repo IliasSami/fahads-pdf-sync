@@ -1,0 +1,37 @@
+{
+  "id": "akeda-1/57",
+  "kinds": ["verse", "comparison"],
+  "title": "Jonah 1:17 and Matthew 12:40 — three days and three nights, Jonah and the Son of Man",
+  "summary": "Jonah 1:17 (English and Hebrew) is placed above Matthew 12:40, where Jesus says that just as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth. “Jonah” is green, “stomach” and “belly” light green.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Jonah 1:17", "osis": "Jonah.1.17"},
+    {"lang": "he", "role": "reference", "text": "יונה א:יז"},
+    {"lang": "en", "role": "verse", "osis": "Jonah.1.17", "text": "17 And the LORD appointed a great fish to swallow Jonah, and Jonah was in the stomach of the fish three days and three nights."},
+    {"lang": "he", "role": "verse", "osis": "Jonah.1.17", "text": "17 וימן יהוה דג גדול לבלע את־יונה ויהי יונה במעי הדג שלשה ימים ושלשה לילות׃"},
+    {"lang": "en", "role": "reference", "text": "Matthew 12:40", "osis": "Matt.12.40"},
+    {"lang": "el", "role": "reference", "text": "Μαθθαῖον 12:40"},
+    {"lang": "en", "role": "verse", "osis": "Matt.12.40", "text": "40 for just as JONAH WAS THREE DAYS AND THREE NIGHTS IN THE BELLY OF THE GREAT FISH, so will the Son of Man be three days and three nights in the heart of the earth."}
+  ],
+  "refs": [
+    {"shown": "Jonah 1:17 / יונה א:יז", "osis": ["Jonah.1.17"], "role": "quoted"},
+    {"shown": "Matthew 12:40 / Μαθθαῖον 12:40", "osis": ["Matt.12.40"], "role": "quoted"}
+  ],
+  "words": [
+    {"lang": "he", "word": "יונה", "translit": "Yonah", "gloss": "Jonah (also “dove”)", "strongs": "H3124"},
+    {"lang": "he", "word": "מעי", "translit": "me'ei", "gloss": "stomach, belly (of)", "strongs": "H4578"},
+    {"lang": "he", "word": "דג", "translit": "dag", "gloss": "fish", "strongs": "H1709"}
+  ],
+  "color_links": [
+    {"en": "Jonah", "other": "יונה"},
+    {"en": "LORD", "other": "יהוה"}
+  ],
+  "letters": [],
+  "numbers": [
+    {"value": 3, "note": "three days and three nights — Jonah in the fish and the Son of Man in the earth"}
+  ],
+  "pictures": [],
+  "entities": {"people": ["Jonah", "Jesus", "God"], "places": [], "events": ["Jonah and the great fish", "Resurrection"], "things": ["great fish"], "themes": ["resurrection", "typology", "three days and three nights", "prophecy", "messianic prophecy"], "groups": []},
+  "keywords": ["Jonah 1:17", "Matthew 12:40", "sign of Jonah", "three days and three nights", "Jonah and the whale", "belly of the great fish", "heart of the earth", "Son of Man", "resurrection typology", "Jonah type of Jesus", "whale's belly"],
+  "uncertain": [],
+  "confidence": 0.96
+}

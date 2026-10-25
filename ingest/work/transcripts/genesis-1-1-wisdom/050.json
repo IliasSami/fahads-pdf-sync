@@ -1,0 +1,124 @@
+{
+ "id": "genesis-1-1-wisdom/50",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Proverbs 8:14-20 — counsel, understanding, strength; kings reign by wisdom",
+ "summary": "Proverbs 8:14-20 in English: Wisdom says counsel, sound wisdom, understanding and strength are hers; kings and rulers govern by her; she loves those who love her; her fruit is better than gold and silver. 'Kings', 'gold' and 'silver' are shown in colour.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Proverbs 8",
+   "osis": "Prov.8.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "משלי ח"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "14 Counsel is mine, and sound wisdom; I am understanding, I have strength.",
+   "osis": "Prov.8.14"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "15 By me kings reign, and rulers decree justice.",
+   "osis": "Prov.8.15"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "16 By me princes rule, and nobles, all the judges of the earth.",
+   "osis": "Prov.8.16"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "17 I love those who love me, and those who seek me diligently will find me.",
+   "osis": "Prov.8.17"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "18 Riches and honor are with me, enduring riches and righteousness.",
+   "osis": "Prov.8.18"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "19 My fruit is better than gold, yes, than fine gold, And my revenue than choice silver.",
+   "osis": "Prov.8.19"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "20 I traverse the way of righteousness, in the midst of the paths of justice,",
+   "osis": "Prov.8.20"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Proverbs 8 / משלי ח",
+   "osis": [
+    "Prov.8.14",
+    "Prov.8.15",
+    "Prov.8.16",
+    "Prov.8.17",
+    "Prov.8.18",
+    "Prov.8.19",
+    "Prov.8.20"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "gold",
+   "silver"
+  ],
+  "themes": [
+   "wisdom",
+   "understanding",
+   "counsel",
+   "strength",
+   "justice",
+   "righteousness",
+   "riches and honor"
+  ],
+  "groups": [
+   "kings",
+   "princes",
+   "nobles",
+   "judges"
+  ]
+ },
+ "keywords": [
+  "Proverbs 8",
+  "Proverbs 8:14",
+  "Proverbs 8:17",
+  "counsel is mine and sound wisdom",
+  "I am understanding I have strength",
+  "by me kings reign",
+  "I love those who love me",
+  "those who seek me diligently will find me",
+  "riches and honor",
+  "my fruit is better than gold",
+  "paths of justice",
+  "way of righteousness",
+  "lady wisdom"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

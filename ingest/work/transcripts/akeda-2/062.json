@@ -1,0 +1,131 @@
+{
+ "id": "akeda-2/62",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 24:11 — the camels made to barak (ברך) by the well",
+ "summary": "Genesis 24:11 in English and Hebrew, with the Hebrew verb ברך (barak) put into the English where the camels are made to kneel by the well at evening. The slide ends with barak ברך and a question mark, asking what the word means.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 24:11",
+   "osis": "Gen.24.11"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כד:יא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.24.11",
+   "text": "11 And He made the camels ברך [barak] outside the city by the well of water at evening time, the time when women go out to draw water."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.24.11",
+   "text": "11 ויברך הגמלים מחוץ לעיר אל־באר המים לעת ערב לעת צאת השאבת׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "barak"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ברך"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "?"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 24:11 / בראשית כד:יא",
+   "osis": [
+    "Gen.24.11"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ברך",
+   "translit": "barak",
+   "gloss": "to kneel / to bless (slide asks what it means)",
+   "strongs": "H1288"
+  },
+  {
+   "lang": "he",
+   "word": "הגמלים",
+   "translit": "hagemalim",
+   "gloss": "the camels",
+   "strongs": "H1581"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "barak",
+   "other": "ויברך"
+  },
+  {
+   "en": "And",
+   "other": "וי"
+  },
+  {
+   "en": "camels",
+   "other": "הגמלים"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [
+   "Nahor"
+  ],
+  "events": [
+   "Isaac's marriage to Rebekah"
+  ],
+  "things": [
+   "camels",
+   "well"
+  ],
+  "themes": [
+   "blessing",
+   "kneeling",
+   "marriage"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "barak",
+  "baruch",
+  "bless",
+  "kneel",
+  "made the camels kneel",
+  "camels kneel down",
+  "Genesis 24:11",
+  "well of water",
+  "evening time",
+  "women draw water",
+  "ברך",
+  "Hebrew word study",
+  "vayevarech"
+ ],
+ "uncertain": [
+  "The slide's He/gold-shadow and colour pairings inferred from the colouring; no key is given."
+ ],
+ "confidence": 0.93
+}

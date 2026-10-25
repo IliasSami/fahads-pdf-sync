@@ -1,0 +1,69 @@
+{
+ "id": "red-heifer/88",
+ "kinds": [
+  "text"
+ ],
+ "title": "A Paradox — in order to cleanse us, Yeshua became unclean",
+ "summary": "Under the heading 'A Paradox', one sentence: in order to cleanse us, yeshua became unclean.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "A Paradox"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "In order to cleanse us, yeshua became unclean."
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "other",
+   "word": "yeshua",
+   "translit": "yeshua",
+   "gloss": "Jesus",
+   "strongs": null
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Crucifixion"
+  ],
+  "things": [],
+  "themes": [
+   "clean and unclean",
+   "purification",
+   "atonement",
+   "substitution",
+   "paradox",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "paradox",
+  "Yeshua became unclean",
+  "Jesus became unclean",
+  "cleanse us",
+  "in order to cleanse us",
+  "Jesus as the red heifer",
+  "purification",
+  "clean and unclean",
+  "substitution",
+  "red heifer typology"
+ ],
+ "uncertain": [
+  "'yeshua' is shown in lower-case red italic Latin letters (a transliteration, no Hebrew script on the slide)"
+ ],
+ "confidence": 0.97
+}

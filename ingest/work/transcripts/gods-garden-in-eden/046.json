@@ -1,0 +1,122 @@
+{
+ "id": "gods-garden-in-eden/46",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Numbers 11:7 and Genesis 2:12 — bdellium in the manna and in Eden",
+ "summary": "Numbers 11:7 (the manna's appearance was like bdellium) and Genesis 2:12 (the gold of that land is good; bdellium and the onyx stone are there), each in English and Hebrew. The word bdellium and its Hebrew הבדלח are coloured brown in all four lines; 'gold' is gold-coloured, 'onyx' maroon, and 'good' blue with a check mark.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Numbers 11:7",
+   "osis": "Num.11.7"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "במדבר יא:ז"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Num.11.7",
+   "text": "7 Now the manna was like coriander seed, and its appearance like that of bdellium."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Num.11.7",
+   "text": "7 והמן כזרע־גד הוא ועינו כעין הבדלח׃"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:12",
+   "osis": "Gen.2.12"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:יב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.2.12",
+   "text": "12 The gold of that land is ✔ good; the bdellium and the onyx stone are there."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.2.12",
+   "text": "12 וזהב הארץ ההוא טוב שם הבדלח ואבן השהם׃"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Numbers 11:7 / במדבר יא:ז",
+   "osis": [
+    "Num.11.7"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Genesis 2:12 / בראשית ב:יב",
+   "osis": [
+    "Gen.2.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "הבדלח",
+   "translit": "ha-bedolach",
+   "gloss": "the bdellium",
+   "strongs": "H916",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "bdellium",
+   "other": "הבדלח"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "manna",
+   "coriander seed",
+   "bdellium",
+   "gold",
+   "onyx"
+  ],
+  "themes": [],
+  "groups": []
+ },
+ "keywords": [
+  "bdellium",
+  "bedolach",
+  "manna like bdellium",
+  "appearance of bdellium",
+  "manna coriander seed",
+  "the gold of that land is good",
+  "onyx stone",
+  "Numbers 11:7",
+  "Genesis 2:12",
+  "manna",
+  "Eden gold bdellium onyx",
+  "Hebrew word for bdellium"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

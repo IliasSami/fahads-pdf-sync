@@ -1,0 +1,103 @@
+{
+ "id": "noah-part-2/15",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 7:8-10 — animals go into the ark by twos",
+ "summary": "Genesis 7:8-10 in English with the Hebrew reference: clean and unclean animals, birds and creeping things went into the ark to Noah by twos, male and female, and after seven days the flood waters came. A few letters (the 'ar' of ark, 'No' of Noah, 'God') are coloured.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 7:8-10",
+   "osis": [
+    "Gen.7.8",
+    "Gen.7.9",
+    "Gen.7.10"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ז:ח-י"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.8",
+   "text": "8 Of clean animals and animals that are not clean and birds and everything that creeps on the ground,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.9",
+   "text": "9 there went into the ark to Noah by twos, male and female, as God had commanded Noah."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.7.10",
+   "text": "10 It came about after the seven days, that the water of the flood came upon the earth."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 7:8-10 / בראשית ז:ח-י",
+   "osis": [
+    "Gen.7.8",
+    "Gen.7.9",
+    "Gen.7.10"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 7,
+   "note": "the seven days before the flood waters came"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark",
+   "clean animals",
+   "unclean animals",
+   "birds"
+  ],
+  "themes": [
+   "obedience",
+   "clean and unclean",
+   "judgment"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 7",
+  "Genesis 7:8",
+  "Genesis 7:9",
+  "Genesis 7:10",
+  "animals into the ark",
+  "by twos",
+  "two by two",
+  "male and female",
+  "clean and unclean animals",
+  "seven days",
+  "the flood",
+  "Noah's ark",
+  "as God commanded"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

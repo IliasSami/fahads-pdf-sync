@@ -1,0 +1,69 @@
+{
+ "id": "akeda-2/103",
+ "kinds": [
+  "verse"
+ ],
+ "title": "John 1:20 — John the Baptist: \"I am not the Christ\"",
+ "summary": "John 1:20 quoted in English: John confessed and did not deny that he was not the Christ. The words \"Christ\" and the verse number are in red.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 1:20",
+   "osis": "John.1.20"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἰωάνης 1:20"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.1.20",
+   "text": "20 And he confessed and did not deny, but confessed, “I am not the Christ.”"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 1:20 / Ἰωάνης 1:20",
+   "osis": [
+    "John.1.20"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "John the Baptist",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "messianic prophecy",
+   "humility"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 1:20",
+  "I am not the Christ",
+  "John the Baptist",
+  "confessed and did not deny",
+  "not the Messiah",
+  "Gospel of John",
+  "John chapter 1",
+  "witness of John",
+  "Christ",
+  "confession"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

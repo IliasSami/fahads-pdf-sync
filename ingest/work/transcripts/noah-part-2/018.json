@@ -1,0 +1,22 @@
+{
+  "id": "noah-part-2/18",
+  "kinds": ["calendar"],
+  "title": "The Hebrew calendar: twelve months and the feasts",
+  "summary": "A full Hebrew calendar of the twelve months from Tishri to Elul, marking Sukkot, Chanukkah, Pesach (Passover) and Shavuot.",
+  "text": [
+    {"lang": "en", "role": "table", "text": "1 Tishri (Sukkot 15–22) · 2 Cheshvan · 3 Kislev (Chanukkah 25–30) · 4 Tevet · 5 Sh'vat · 6 Adar · 7 Nisan (Pesach / Passover 14–22) · 8 Iyar · 9 Sivan (Shavuot 6–7) · 10 Tamuz · 11 Av · 12 Elul"},
+    {"lang": "he", "role": "label", "text": "חנכה"}
+  ],
+  "refs": [],
+  "words": [
+    {"lang": "he", "word": "חנכה", "translit": "Chanukkah", "gloss": "dedication (Hanukkah)", "strongs": "H2598"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [{"value": 12, "note": "months of the Hebrew year"}],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": ["Sukkot", "Chanukkah", "Passover", "Shavuot"], "things": ["Hebrew calendar"], "themes": ["biblical feasts", "Flood chronology"], "groups": []},
+  "keywords": ["Hebrew calendar", "Jewish calendar", "months", "Tishri", "Nisan", "feasts", "holidays", "Sukkot", "Tabernacles", "Hanukkah", "Passover", "Pesach", "Shavuot", "Pentecost"],
+  "uncertain": [],
+  "confidence": 0.95
+}

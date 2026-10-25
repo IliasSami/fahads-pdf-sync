@@ -1,0 +1,100 @@
+{
+ "id": "fall-of-man/15",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Luke 4:12-13 — Jesus answers “do not put the Lord your God to the test”",
+ "summary": "Luke 4:12-13 in English: Jesus answers the devil with Deuteronomy 6:16, “You shall not put the Lord your God to the test,” and when the devil had finished every temptation he left Jesus until an opportune time.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Luke 4:12-13",
+   "osis": [
+    "Luke.4.12",
+    "Luke.4.13"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΛΟΥΚΑΝ 4:12-13",
+   "osis": [
+    "Luke.4.12",
+    "Luke.4.13"
+   ]
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "12 And Jesus answered and said to him, “It is said, ‘YOU SHALL NOT PUT THE LORD YOUR GOD TO THE TEST.’”",
+   "osis": "Luke.4.12"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "—Deuteronomy 6:16",
+   "osis": "Deut.6.16"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "13 When the devil had finished every temptation, he left Him until an opportune time.",
+   "osis": "Luke.4.13"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Luke 4:12-13 / ΛΟΥΚΑΝ 4:12-13",
+   "osis": [
+    "Luke.4.12",
+    "Luke.4.13"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Deuteronomy 6:16",
+   "osis": [
+    "Deut.6.16"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus",
+   "Satan",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Temptation of Jesus"
+  ],
+  "things": [],
+  "themes": [
+   "temptation",
+   "Scripture",
+   "faith",
+   "obedience"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "temptation of Jesus",
+  "thou shalt not tempt the Lord thy God",
+  "do not put God to the test",
+  "devil departed for a season",
+  "opportune time",
+  "It is said",
+  "Luke 4:12",
+  "Luke 4:13",
+  "Deuteronomy 6:16"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

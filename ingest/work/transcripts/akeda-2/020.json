@@ -1,0 +1,160 @@
+{
+ "id": "akeda-2/20",
+ "kinds": [
+  "list",
+  "word-study"
+ ],
+ "title": "The word et (alef-tav) before twelve things in Genesis 22",
+ "summary": "A summary list of the twelve things that the untranslated Hebrew word את (et, alef in blue and tav in red) points to in Genesis 22: your son, your only son, Isaac, the place, the wood, the fire, the knife, the altar, his hand, his eyes, the ram, and 'done את this thing'. Several of the English phrases are underlined in the same colours used on the earlier verse slides (red, brown, gold, grey, pink).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 22",
+   "osis": "Gen.22.1"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "את"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית כב"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "את your son"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "את your only son"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "את Isaac"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "את the place"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "את the wood"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "את the fire"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "את the knife"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "את the altar"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "את his hand"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "את his eyes"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "את the ram"
+  },
+  {
+   "lang": "en",
+   "role": "list",
+   "text": "done את this thing"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 22 / בראשית כב",
+   "osis": [
+    "Gen.22.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "את",
+   "translit": "et",
+   "gloss": "alef-tav; untranslated direct-object marker that appears before each of these twelve things in Genesis 22",
+   "strongs": "H853"
+  }
+ ],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 12,
+   "note": "twelve things in Genesis 22 listed as marked by את (et)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Abraham",
+   "Isaac"
+  ],
+  "places": [],
+  "events": [
+   "Binding of Isaac (Akedah)"
+  ],
+  "things": [
+   "alef-tav",
+   "wood",
+   "fire",
+   "knife",
+   "altar",
+   "ram"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "sacrifice",
+   "typology"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 22",
+  "et",
+  "alef tav",
+  "aleph tav",
+  "את",
+  "Akedah",
+  "Akeda",
+  "binding of Isaac",
+  "your son your only son",
+  "the knife",
+  "the altar",
+  "the ram",
+  "the wood and the fire",
+  "you have done this thing",
+  "Genesis 22:16",
+  "list of et in Genesis 22"
+ ],
+ "uncertain": [
+  "The final line 'done את this thing' appears with the word 'done' placed to the left of the Hebrew את; the slide gives no verse number for it"
+ ],
+ "confidence": 0.95
+}

@@ -1,0 +1,240 @@
+{
+ "id": "genesis-1-1-part-1/106",
+ "kinds": [
+  "gematria",
+  "verse",
+  "table"
+ ],
+ "title": "John 1:1 in Greek with letter values and the product of its 52 letters",
+ "summary": "John 1:1 in English and Greek, laid out in three lines with the value of every Greek letter shown (Word, Λόγος = 30 70 3 70 200, in red; God, Θεός, in blue/red/gold). Number of Letters: 52 and the product of the letter values, shown as 8,436,251,456,259,110 followed by 24 zeros.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 1:1",
+   "osis": "John.1.1"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ΙΩΑΝΝΗΝ 1:1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "In (the) beginning was the Word",
+   "osis": "John.1.1"
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "text": "ΕΝ ΑΡΧΗ ήν ο Λόγος,",
+   "osis": "John.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 50   1 100 600 8 10   8 50   70   30 70 3 70 200"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "and the Word was with – God",
+   "osis": "John.1.1"
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "text": "και ο Λόγος ην προς τον Θεόν,",
+   "osis": "John.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "20 1 10   70   30 70 3 70 200   8 50   80 100 70 200   300 70 50   9 5 70 50"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "and God was the Word",
+   "osis": "John.1.1"
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "text": "και Θεός ήν ο Λόγος.",
+   "osis": "John.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "20 1 10   9 5 70 200   8 50   70   30 70 3 70 200"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Number of Letters: 52"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Product of Letters:"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "= 8,436,251,456,259,110,000,000,000,000,000,000,000,000"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 1:1 / ΙΩΑΝΝΗΝ 1:1",
+   "osis": [
+    "John.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "el",
+   "word": "Λόγος",
+   "translit": "logos",
+   "gloss": "Word",
+   "strongs": "G3056",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     30,
+     70,
+     3,
+     70,
+     200
+    ],
+    "total": 373
+   }
+  },
+  {
+   "lang": "el",
+   "word": "Θεός",
+   "translit": "theos",
+   "gloss": "God",
+   "strongs": "G2316",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     9,
+     5,
+     70,
+     200
+    ],
+    "total": 284
+   }
+  },
+  {
+   "lang": "el",
+   "word": "Θεόν",
+   "translit": "theon",
+   "gloss": "God (as object, 'with God')",
+   "strongs": "G2316",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     9,
+     5,
+     70,
+     50
+    ],
+    "total": 134
+   }
+  },
+  {
+   "lang": "el",
+   "word": "ΑΡΧΗ",
+   "translit": "arche",
+   "gloss": "beginning",
+   "strongs": "G746",
+   "gematria": {
+    "method": "isopsephy",
+    "values": [
+     1,
+     100,
+     600,
+     8,
+     10
+    ],
+    "total": 719
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "In",
+   "other": "ΕΝ"
+  },
+  {
+   "en": "Word",
+   "other": "Λόγος"
+  },
+  {
+   "en": "God",
+   "other": "Θεόν"
+  },
+  {
+   "en": "God",
+   "other": "Θεός"
+  }
+ ],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 52,
+   "note": "number of Greek letters in John 1:1 as counted on the slide"
+  },
+  {
+   "value": 373,
+   "note": "value of Λόγος (30+70+3+70+200), repeated three times"
+  },
+  {
+   "value": 8436251456259110,
+   "note": "product of letters as printed on the slide (8,436,251,456,259,110 followed by 24 zeros)"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "creation",
+   "Word of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 1:1",
+  "In the beginning was the Word",
+  "logos",
+  "Λόγος",
+  "Greek gematria",
+  "isopsephy",
+  "product of letters",
+  "52 letters",
+  "the Word was God",
+  "Greek letter values",
+  "Θεός",
+  "Gospel of John"
+ ],
+ "uncertain": [
+  "The product of letters is printed as 8,436,251,456,259,110 followed by 24 zeros; the exact product of the shown values is far larger (about 8.4 x 10^75), so the printed number looks shortened.",
+  "ΑΡΧΗ is shown with five letter values (1 100 600 8 10); the final 10 is the iota (from ἀρχῇ), so the total 719 includes it although only four capital letters are printed."
+ ],
+ "confidence": 0.9
+}

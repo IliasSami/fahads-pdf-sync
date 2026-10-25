@@ -1,0 +1,112 @@
+{
+ "id": "noah-part-2/74",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 8:13-16 — the earth is dry; God tells Noah to leave the ark",
+ "summary": "Genesis 8:13-16 in English: in Noah's 601st year the water dried up, Noah removed the ark's covering, the earth was dry on the 27th day of the second month, and God told Noah to go out of the ark with his wife, sons and sons' wives. Key words are colour-coded (Noah green, ark red, second month orange, twenty-seventh day and 'the earth was dry' brown).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 8:13-16",
+   "osis": [
+    "Gen.8.13",
+    "Gen.8.14",
+    "Gen.8.15",
+    "Gen.8.16"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ח:יג-יו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.13",
+   "text": "13 Now it came about in the six hundred and first year, in the first month, on the first of the month, the water was dried up from the earth. Then Noah removed the covering of the ark, and looked, and behold, the surface of the ground was dried up."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.14",
+   "text": "14 In the second month, on the twenty-seventh day of the month, the earth was dry."
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.15",
+   "text": "15 Then God spoke to Noah, saying,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.8.16",
+   "text": "16 “Go out of the ark, you and your wife and your sons and your sons’ wives with you."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 8:13-16 / בראשית ח:יג-יו",
+   "osis": [
+    "Gen.8.13",
+    "Gen.8.14",
+    "Gen.8.15",
+    "Gen.8.16"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 601,
+   "note": "Noah's 601st year, when the water dried up from the earth (first month, first day)"
+  },
+  {
+   "value": 27,
+   "note": "twenty-seventh day of the second month, when the earth was dry"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "the Flood"
+  ],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "Flood chronology",
+   "Hebrew calendar"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 8",
+  "Genesis 8:13",
+  "Genesis 8:14",
+  "Genesis 8:16",
+  "Noah leaves the ark",
+  "go out of the ark",
+  "earth was dry",
+  "twenty-seventh day",
+  "second month",
+  "601st year",
+  "six hundred and first year",
+  "flood waters dried up",
+  "covering of the ark",
+  "Noah's wife and sons"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

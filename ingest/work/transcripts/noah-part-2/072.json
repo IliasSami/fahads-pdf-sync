@@ -1,0 +1,83 @@
+{
+ "id": "noah-part-2/72",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Revelation 16:12 — the Euphrates dried up for the kings from the east",
+ "summary": "Revelation 16:12 in English with Greek reference header: the sixth angel pours out his bowl on the great river Euphrates, its water is dried up, and the way is prepared for the kings from the east.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Revelation 16:12",
+   "osis": "Rev.16.12"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Ἀποκάλυψις 16:12"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Rev.16.12",
+   "text": "12 The sixth angel poured out his bowl on the great river, the Euphrates; and its water was dried up, so that the way would be prepared for the kings from the east."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Revelation 16:12 / Ἀποκάλυψις 16:12",
+   "osis": [
+    "Rev.16.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 6,
+   "note": "the sixth angel poured out his bowl"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [
+   "Euphrates River"
+  ],
+  "events": [
+   "bowl judgments"
+  ],
+  "things": [
+   "bowl",
+   "river"
+  ],
+  "themes": [
+   "judgment",
+   "prophecy"
+  ],
+  "groups": [
+   "angels",
+   "kings of the east"
+  ]
+ },
+ "keywords": [
+  "Euphrates",
+  "Euphrates dried up",
+  "sixth angel",
+  "sixth bowl",
+  "kings from the east",
+  "kings of the east",
+  "bowl judgments",
+  "great river",
+  "Revelation 16",
+  "water dried up",
+  "end times",
+  "way prepared"
+ ],
+ "uncertain": [],
+ "confidence": 0.97
+}

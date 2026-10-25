@@ -1,0 +1,131 @@
+{
+ "id": "genesis-1-1-part-1/65",
+ "kinds": [
+  "word-study",
+  "text"
+ ],
+ "title": "No Biblical Hebrew word for 'Universe': the heavens and the earth",
+ "summary": "States that there is no Biblical Hebrew word for 'Universe'; instead 'the heavens and the earth' (השמים ואת הארץ, with ואת left untranslated in the English line) represent the totality of everything.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "There is no Biblical Hebrew word for"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Universe"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "השמים ואת הארץ",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "the heavens"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ואת"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "the earth"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "represent the totality of everything."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "השמים ואת הארץ",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "השמים",
+   "translit": "hashamayim",
+   "gloss": "the heavens",
+   "strongs": "H8064",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "ואת",
+   "translit": "ve'et",
+   "gloss": "and (et)",
+   "strongs": "H853",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "הארץ",
+   "translit": "ha'aretz",
+   "gloss": "the earth",
+   "strongs": "H776",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "heavens",
+   "other": "שמים"
+  },
+  {
+   "en": "earth",
+   "other": "ארץ"
+  },
+  {
+   "en": "the",
+   "other": "ה"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "heavens",
+   "earth",
+   "universe"
+  ],
+  "themes": [
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "universe",
+  "no Hebrew word for universe",
+  "the heavens and the earth",
+  "totality of everything",
+  "all things",
+  "Genesis 1:1",
+  "cosmos",
+  "everything",
+  "hashamayim",
+  "ha'aretz",
+  "השמים ואת הארץ",
+  "Biblical Hebrew vocabulary"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

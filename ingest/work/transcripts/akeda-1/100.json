@@ -1,0 +1,93 @@
+{
+  "id": "akeda-1/100",
+  "kinds": [
+    "verse"
+  ],
+  "title": "John 8:52-53 — 'Abraham died... are You greater than our father Abraham?'",
+  "summary": "John 8:52-53: The Jews say they now know Jesus has a demon, since Abraham and the prophets died yet He says whoever keeps His word will never taste death; they ask whether He is greater than their father Abraham and whom He makes Himself out to be. Abraham is in blue; 'Him', 'You', 'My' and 'Yourself' are in red.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "John 8:52-53",
+      "osis": [
+        "John.8.52",
+        "John.8.53"
+      ]
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "Ἰωάνης 8:52-53",
+      "osis": [
+        "John.8.52",
+        "John.8.53"
+      ]
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.52",
+      "text": "52 The Jews said to Him, “Now we know that You have a demon. Abraham died, and the prophets also; and You say, ‘If anyone keeps My word, he will never taste of death.’"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "John.8.53",
+      "text": "53 “Surely You are not greater than our father Abraham, who died? The prophets died too; whom do You make Yourself out to be?”"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "John 8:52-53 / Ἰωάνης 8:52-53",
+      "osis": [
+        "John.8.52",
+        "John.8.53"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Jesus",
+      "Abraham"
+    ],
+    "places": [],
+    "events": [],
+    "things": [
+      "demon"
+    ],
+    "themes": [
+      "death",
+      "prophecy",
+      "belief",
+      "identity of Jesus"
+    ],
+    "groups": [
+      "Jews",
+      "prophets"
+    ]
+  },
+  "keywords": [
+    "John 8:52",
+    "John 8:53",
+    "John 8",
+    "Abraham is dead and the prophets",
+    "never taste of death",
+    "art thou greater than our father Abraham",
+    "whom makest thou thyself",
+    "Now we know that thou hast a devil",
+    "the prophets are dead",
+    "our father Abraham",
+    "Jews questioning Jesus",
+    "Akedah",
+    "Akeda"
+  ],
+  "uncertain": [],
+  "confidence": 0.97
+}

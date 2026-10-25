@@ -1,0 +1,126 @@
+{
+ "id": "genesis-1-1-part-1/33",
+ "kinds": [
+  "letters"
+ ],
+ "title": "The letter he (ה): behold, revelation, open window — H, 5, \"The\"",
+ "summary": "Shows the Hebrew letter he (ה) in three type styles, with its Latin sound H, its number 5, its ancient pictograph and its meaning “BEHOLD!, Revelation, Open Window.” An arrow chain then reads the pictograph as H and as the word “The.”",
+ "text": [
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "ה ה ה"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "he"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "H"
+  },
+  {
+   "lang": "other",
+   "role": "number",
+   "text": "5"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "BEHOLD!, Revelation, Open Window"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "→ H → The"
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": "behold!, revelation, open window (H; “The”)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 5,
+   "note": "numeric value of the letter he (ה)"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "pictograph",
+   "description": "Small ancient (paleo-)Hebrew he glyph over an underline: a figure like a person with arms raised, drawn as a stem with three upward branches.",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictograph",
+    "ancient Hebrew letter he",
+    "man with raised arms"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.42,
+    0.38,
+    0.48,
+    0.5
+   ]
+  },
+  {
+   "type": "pictograph",
+   "description": "Large version of the ancient he pictograph over an underline, followed by arrows to the Latin letter H and the word “The.”",
+   "subjects": [
+    "paleo-Hebrew alphabet",
+    "pictograph",
+    "ancient Hebrew letter he"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.17,
+    0.68,
+    0.26,
+    0.88
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings",
+   "pictographs"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "he",
+  "hey",
+  "heh",
+  "letter he",
+  "ה",
+  "behold",
+  "revelation",
+  "open window",
+  "H",
+  "the",
+  "definite article",
+  "paleo-Hebrew",
+  "ancient Hebrew letters",
+  "pictograph",
+  "number 5",
+  "fifth letter"
+ ],
+ "uncertain": [],
+ "confidence": 0.94
+}

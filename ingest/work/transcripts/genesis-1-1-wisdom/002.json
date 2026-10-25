@@ -1,0 +1,19 @@
+{
+  "id": "genesis-1-1-wisdom/2",
+  "kinds": ["title"],
+  "title": "Knowledge vs. Wisdom",
+  "summary": "Section title slide contrasting knowledge (in dark gold) with wisdom (in bright gold).",
+  "text": [
+    {"lang": "en", "role": "heading", "text": "Knowledge vs. Wisdom"}
+  ],
+  "refs": [],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": [], "things": [], "themes": ["wisdom", "knowledge"], "groups": []},
+  "keywords": ["knowledge", "wisdom", "knowledge versus wisdom", "difference between knowledge and wisdom", "understanding", "being wise", "chokmah"],
+  "uncertain": [],
+  "confidence": 0.97
+}

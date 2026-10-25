@@ -1,0 +1,101 @@
+{
+ "id": "fall-of-man/13",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Psalm 91:11-12 — angels will guard you and lift you up",
+ "summary": "Psalm 91:11-12 in English (the passage the devil quoted to Jesus): God commands his angels to guard you in all your ways and lift you up in their hands so you do not strike your foot against a stone. Hebrew reference header only; first step of the Psalm 91:11-13 build.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 91:11-13",
+   "osis": [
+    "Ps.91.11",
+    "Ps.91.12",
+    "Ps.91.13"
+   ]
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים צא:יא־יג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "11 For he will command his angels concerning you to guard you in all your ways;",
+   "osis": "Ps.91.11"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "12 they will lift you up in their hands, so that you will not strike your foot against a stone.",
+   "osis": "Ps.91.12"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 91:11-13 / תהילים צא:יא־יג",
+   "osis": [
+    "Ps.91.11",
+    "Ps.91.12",
+    "Ps.91.13"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Psalm 91:11",
+   "osis": [
+    "Ps.91.11"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Psalm 91:12",
+   "osis": [
+    "Ps.91.12"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "angels",
+   "stone"
+  ],
+  "themes": [
+   "protection",
+   "Scripture",
+   "faith"
+  ],
+  "groups": [
+   "angels"
+  ]
+ },
+ "keywords": [
+  "Psalm 91",
+  "angels guard you",
+  "lift you up in their hands",
+  "dash thy foot against a stone",
+  "in all thy ways",
+  "protection",
+  "the verse the devil quoted",
+  "temptation of Jesus",
+  "Psalm 91:11"
+ ],
+ "uncertain": [
+  "Slide heading shows verse 13 in the range (11-13) but only verses 11-12 are displayed at this step; the Hebrew reference range is written with a maqaf as shown."
+ ],
+ "confidence": 0.95
+}

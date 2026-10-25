@@ -1,0 +1,161 @@
+{
+ "id": "genesis-1-1-part-2/75",
+ "kinds": [
+  "word-study",
+  "letters"
+ ],
+ "title": "Truth (emet) minus alef (God) equals death (met)",
+ "summary": "A letter equation in colour: emet (אמת, truth) minus alef (א) equals met (מת, death). Underneath it reads \"Truth minus God is Death\", treating the alef as standing for God.",
+ "text": [
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "emet"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "alef"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "met"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א מ ת"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "-"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "א"
+  },
+  {
+   "lang": "en",
+   "role": "note",
+   "text": "="
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "מ ת"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Truth minus God is Death"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אמת",
+   "translit": "emet",
+   "gloss": "truth",
+   "strongs": "H571",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "מת",
+   "translit": "met",
+   "gloss": "death / dead",
+   "strongs": "H4191",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "א",
+   "translit": "alef",
+   "gloss": "alef (the first letter), taken here to stand for God",
+   "strongs": null,
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "emet",
+   "other": "אמת"
+  },
+  {
+   "en": "Truth",
+   "other": "אמת"
+  },
+  {
+   "en": "alef",
+   "other": "א"
+  },
+  {
+   "en": "God",
+   "other": "א"
+  },
+  {
+   "en": "met",
+   "other": "מת"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": "removed from emet; stands for God"
+  },
+  {
+   "lang": "he",
+   "letter": "mem",
+   "char": "מ",
+   "value": 40,
+   "meaning": "second letter of emet, first letter of met"
+  },
+  {
+   "lang": "he",
+   "letter": "tav",
+   "char": "ת",
+   "value": 400,
+   "meaning": "last letter of emet and met"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "truth",
+   "death",
+   "names of God",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "emet",
+  "met",
+  "truth minus God is death",
+  "alef removed",
+  "אמת",
+  "מת",
+  "death",
+  "truth",
+  "aleph",
+  "Hebrew word play",
+  "God is truth",
+  "subtract alef"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

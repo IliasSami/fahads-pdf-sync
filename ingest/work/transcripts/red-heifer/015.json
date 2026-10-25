@@ -1,0 +1,156 @@
+{
+ "id": "red-heifer/15",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 35:2 — Jacob tells his household to purify themselves",
+ "summary": "Genesis 35:2 in English and Hebrew, where Jacob tells his household to put away foreign gods and purify themselves. The word 'purify' and its Hebrew root טהר are highlighted in blue, and Jacob/יעקב in green; the slide closes with the word study taharah (טהרה), purity.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 35:2",
+   "osis": "Gen.35.2"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית לה:ב"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.35.2",
+   "text": "2 So Jacob said to his household and to all who were with him,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.35.2",
+   "text": "“Put away the foreign gods which are among you,"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.35.2",
+   "text": "and purify yourselves and change your garments;"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.35.2",
+   "text": "2 ויאמר יעקב אל־ביתו ואל כל־אשר עמו"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.35.2",
+   "text": "הסרו את־אלהי הנכר אשר בתככם"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Gen.35.2",
+   "text": "והטהרו והחליפו שמלתיכם"
+  },
+  {
+   "lang": "translit",
+   "role": "heading",
+   "text": "taharah"
+  },
+  {
+   "lang": "he",
+   "role": "heading",
+   "text": "טהרה"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "Purity"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 35:2 / בראשית לה:ב",
+   "osis": [
+    "Gen.35.2"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "טהרו",
+   "translit": "hittaharu",
+   "gloss": "purify yourselves (in והטהרו)",
+   "strongs": "H2891",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "טהרה",
+   "translit": "taharah",
+   "gloss": "purity",
+   "strongs": "H2893",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "יעקב",
+   "translit": "Yaakov",
+   "gloss": "Jacob",
+   "strongs": "H3290",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Jacob",
+   "other": "יעקב"
+  },
+  {
+   "en": "purify",
+   "other": "טהר"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jacob"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "foreign gods",
+   "garments"
+  ],
+  "themes": [
+   "purification",
+   "clean and unclean",
+   "idolatry"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 35:2",
+  "Genesis 35",
+  "Jacob purify household",
+  "put away foreign gods",
+  "strange gods",
+  "be clean",
+  "change your garments",
+  "taharah",
+  "purity",
+  "purify yourselves",
+  "טהר",
+  "Bethel"
+ ],
+ "uncertain": [
+  "Strong's numbers for טהרו (H2891) and taharah (H2893) are partly from memory."
+ ],
+ "confidence": 0.95
+}

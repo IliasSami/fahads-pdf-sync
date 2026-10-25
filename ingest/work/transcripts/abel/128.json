@@ -1,0 +1,177 @@
+{
+  "id": "abel/128",
+  "kinds": [
+    "verse"
+  ],
+  "title": "Ezekiel 9:4 — tav (תו) Mark, with the letter tav and a cross",
+  "summary": "Ezekiel 9:4 in English and Hebrew with the line tav, תו, Mark, now flanked by a large red Hebrew letter tav (ת) on the left and a large black cross on the right.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Ezekiel 9:4",
+      "osis": "Ezek.9.4"
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "יחזקאל ט:ד",
+      "osis": "Ezek.9.4"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "4 and the LORD said to him, “Go through the midst of the city, through the midst of Jerusalem, and put a mark on the foreheads of the men who sigh and cry over all the abominations that are done within it.”",
+      "osis": "Ezek.9.4"
+    },
+    {
+      "lang": "he",
+      "role": "verse",
+      "text": "4 ויאמר יהוה אלו עבר בתוך העיר בתוך ירושלם והתוית תו על מצחות האנשים הנאנחים והנאנקים על כל התועבות הנעשות בתוכה׃",
+      "osis": "Ezek.9.4"
+    },
+    {
+      "lang": "translit",
+      "role": "label",
+      "text": "tav"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "תו"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Mark"
+    },
+    {
+      "lang": "he",
+      "role": "label",
+      "text": "ת"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Ezekiel 9:4 / יחזקאל ט:ד",
+      "osis": [
+        "Ezek.9.4"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [
+    {
+      "lang": "he",
+      "word": "תו",
+      "translit": "tav",
+      "gloss": "mark",
+      "strongs": "H8420"
+    },
+    {
+      "lang": "he",
+      "word": "יהוה",
+      "translit": "YHWH",
+      "gloss": "the LORD",
+      "strongs": "H3068"
+    },
+    {
+      "lang": "he",
+      "word": "ירושלם",
+      "translit": "Yerushalem",
+      "gloss": "Jerusalem",
+      "strongs": "H3389"
+    }
+  ],
+  "color_links": [
+    {
+      "en": "LORD",
+      "other": "יהוה"
+    },
+    {
+      "en": "Jerusalem",
+      "other": "ירושלם"
+    },
+    {
+      "en": "mark",
+      "other": "תו"
+    },
+    {
+      "en": "tav",
+      "other": "תו"
+    }
+  ],
+  "letters": [
+    {
+      "lang": "he",
+      "letter": "tav",
+      "char": "ת",
+      "value": 400,
+      "meaning": "mark / cross"
+    }
+  ],
+  "numbers": [],
+  "pictures": [
+    {
+      "type": "symbol",
+      "description": "A large black cross (plus-shaped, equal arms, pixelated edges) at the lower right, resembling the ancient form of the letter tav.",
+      "subjects": [
+        "cross",
+        "tav",
+        "paleo-Hebrew tav",
+        "mark"
+      ],
+      "text_in_picture": "",
+      "credit": null,
+      "box": [
+        0.82,
+        0.76,
+        0.95,
+        0.98
+      ]
+    }
+  ],
+  "entities": {
+    "people": [
+      "God"
+    ],
+    "places": [
+      "Jerusalem"
+    ],
+    "events": [
+      "Vision of the man with the writing kit"
+    ],
+    "things": [
+      "mark",
+      "foreheads",
+      "cross"
+    ],
+    "themes": [
+      "judgment",
+      "names of God",
+      "Hebrew letter meanings",
+      "typology"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Ezekiel 9",
+    "mark on the foreheads",
+    "set a mark upon the foreheads",
+    "tav",
+    "taw",
+    "mark",
+    "men who sigh and cry",
+    "abominations",
+    "through the midst of Jerusalem",
+    "YHWH",
+    "mark of exemption from judgment",
+    "tav תו mark",
+    "cross",
+    "letter tav"
+  ],
+  "uncertain": [
+    "Slide's Hebrew reads אלו (to him) after יהוה, which is not in the standard Masoretic text; transcribed as shown."
+  ],
+  "confidence": 0.95
+}

@@ -1,0 +1,93 @@
+{
+ "id": "noah-part-2/110",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Matthew 24:26-29: as in the days of Noah, so the Son of Man",
+ "summary": "Matthew 24:26-29 header (English and Greek) with the verses numbered 26 and 27: as it happened in the days of Noah, so it will be in the days of the Son of Man; people were eating, drinking and marrying until Noah entered the ark and the flood destroyed them all. The \"No\" of Noah is highlighted in green.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Matthew 24:26-29",
+   "osis": [
+    "Matt.24.26",
+    "Matt.24.27",
+    "Matt.24.28",
+    "Matt.24.29"
+   ]
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "Μαθθαῖον 24:26-29"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "26 “And just as it happened in the days of Noah, so it will be also in the days of the Son of Man:",
+   "osis": "Matt.24.26"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "27 they were eating, they were drinking, they were marrying, they were being given in marriage, until the day that Noah entered the ark, and the flood came and destroyed them all.",
+   "osis": "Matt.24.27"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Matthew 24:26-29 / Μαθθαῖον 24:26-29",
+   "osis": [
+    "Matt.24.26",
+    "Matt.24.27",
+    "Matt.24.28",
+    "Matt.24.29"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Noah",
+   "Jesus"
+  ],
+  "places": [],
+  "events": [
+   "the Flood",
+   "Second Coming"
+  ],
+  "things": [
+   "ark"
+  ],
+  "themes": [
+   "judgment",
+   "marriage",
+   "prophecy"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Matthew 24",
+  "days of Noah",
+  "as in the days of Noah",
+  "Son of Man",
+  "eating and drinking",
+  "marrying and giving in marriage",
+  "Noah entered the ark",
+  "the flood came",
+  "Luke 17:26",
+  "Second Coming",
+  "last days",
+  "end times"
+ ],
+ "uncertain": [
+  "The header and verse numbers read Matthew 24:26-29 and 26-27, but the wording matches the passage normally numbered Luke 17:26-27; transcribed as shown."
+ ],
+ "confidence": 0.93
+}

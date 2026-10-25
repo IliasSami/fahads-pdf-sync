@@ -1,0 +1,118 @@
+{
+ "id": "gods-garden-in-eden/58",
+ "kinds": [
+  "word-study",
+  "text"
+ ],
+ "title": "God formed the beasts with one hand — ויצר with one yod",
+ "summary": "Animation step: 'When the LORD God formed the beasts, He used 1 Hand.' The Hebrew word ויצר (formed, marked *) has a single yod (י), which the slide pairs with 'Hand' (1 hand), ending 'To God be the glory!'",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "When the LORD God"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ויצר*"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "formed"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "the beasts,"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "He used"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "1 י Hand"
+  },
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "To God be the glory!"
+  }
+ ],
+ "refs": [],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ויצר",
+   "translit": "vayyitser",
+   "gloss": "and (he) formed",
+   "strongs": "H3335",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "formed",
+   "other": "ויצר"
+  },
+  {
+   "en": "Hand",
+   "other": "י"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": "hand (one yod = 1 hand)"
+  }
+ ],
+ "numbers": [
+  {
+   "value": 1,
+   "note": "one hand — one yod in ויצר"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [
+   "beast of the field",
+   "hand"
+  ],
+  "themes": [
+   "creation",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "God formed the beasts",
+  "one hand",
+  "1 hand",
+  "yod means hand",
+  "yod hand",
+  "vayyitzer",
+  "ויצר",
+  "formed with one yod",
+  "to God be the glory",
+  "Genesis 2:19",
+  "animals formed",
+  "creation of animals",
+  "Hebrew letter yod"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

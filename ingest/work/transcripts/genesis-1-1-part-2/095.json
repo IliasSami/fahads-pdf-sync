@@ -1,0 +1,109 @@
+{
+ "id": "genesis-1-1-part-2/95",
+ "kinds": [
+  "gematria",
+  "diagram"
+ ],
+ "title": "Genesis 1:1 'First 8 Words': 3003 = 7 x 429",
+ "summary": "The same blue dot triangle with a red band along the bottom for the first 8 words of Genesis, now captioned 3003 = 7 x 429.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 1:1",
+   "osis": "Gen.1.1"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "First 8 Words"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית א:א"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "3003 = 7 x 429"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 1:1 / בראשית א:א",
+   "osis": [
+    "Gen.1.1"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3003,
+   "note": "sum of the first 8 words of the Bible (2701 + 302)"
+  },
+  {
+   "value": 7,
+   "note": "factor: 3003 = 7 x 429"
+  },
+  {
+   "value": 429,
+   "note": "factor: 3003 = 7 x 429"
+  }
+ ],
+ "pictures": [
+  {
+   "type": "diagram",
+   "description": "A tall triangle of tiny dots, blue for almost its whole height with a narrow red band of extra rows along the bottom edge.",
+   "subjects": [
+    "dot triangle",
+    "blue triangle",
+    "red band",
+    "triangle number",
+    "number pyramid",
+    "gematria diagram"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.29,
+    0.14,
+    0.71,
+    0.88
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [
+   "Creation"
+  ],
+  "things": [],
+  "themes": [
+   "gematria",
+   "numbers in Scripture",
+   "creation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Genesis 1:1",
+  "first 8 words",
+  "first eight words",
+  "3003",
+  "7 x 429",
+  "multiple of seven",
+  "divisible by 7",
+  "gematria",
+  "triangle number",
+  "dot triangle",
+  "In the beginning"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

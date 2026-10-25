@@ -1,0 +1,37 @@
+{
+  "id": "red-heifer/118",
+  "kinds": ["verse", "word-study", "gematria"],
+  "title": "Numbers 19:2 — unblemished, without defect, never yoked",
+  "summary": "Numbers 19:2 in Hebrew with the three requirements for the red heifer colour-coded: unblemished (תמימה, gematria 495), without defect, and never yoked.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Numbers 19:2", "osis": "Num.19.2"},
+    {"lang": "he", "role": "reference", "text": "במדבר יט:ב"},
+    {"lang": "he", "role": "verse", "osis": "Num.19.2", "text": "2 זאת חקת התורה אשר־צוה יהוה לאמר דבר ׀ אל־בני ישראל ויקחו אליך פרה אדמה תמימה אשר אין־בה מום אשר לא־עלה עליה על׃"},
+    {"lang": "en", "role": "label", "text": "Unblemished"},
+    {"lang": "he", "role": "label", "text": "תמימה"},
+    {"lang": "en", "role": "number", "text": "5 40 10 40 400 = 495"},
+    {"lang": "en", "role": "label", "text": "Without Defect"},
+    {"lang": "he", "role": "label", "text": "אין־בה מום"},
+    {"lang": "en", "role": "label", "text": "No Yoke"},
+    {"lang": "he", "role": "label", "text": "לא־עלה עליה על"}
+  ],
+  "refs": [{"shown": "Numbers 19:2 / במדבר יט:ב", "osis": ["Num.19.2"], "role": "quoted"}],
+  "words": [
+    {"lang": "he", "word": "תמימה", "translit": "temimah", "gloss": "unblemished", "strongs": "H8549", "gematria": {"method": "standard", "values": [5, 40, 10, 40, 400], "total": 495}},
+    {"lang": "he", "word": "אין־בה מום", "translit": "ein-bah mum", "gloss": "without defect", "strongs": "H3971"},
+    {"lang": "he", "word": "לא־עלה עליה על", "translit": "lo-alah aleiha ol", "gloss": "no yoke (never yoked)", "strongs": "H5923"},
+    {"lang": "he", "word": "פרה אדמה", "translit": "parah adumah", "gloss": "red heifer", "strongs": "H6510"}
+  ],
+  "color_links": [
+    {"en": "Unblemished", "other": "תמימה"},
+    {"en": "Without Defect", "other": "אין־בה מום"},
+    {"en": "No Yoke", "other": "לא־עלה עליה על"}
+  ],
+  "letters": [],
+  "numbers": [{"value": 495, "note": "gematria of תמימה (unblemished)"}],
+  "pictures": [],
+  "entities": {"people": [], "places": [], "events": [], "things": ["red heifer", "yoke"], "themes": ["without blemish", "purification", "statute (chok)"], "groups": ["children of Israel"]},
+  "keywords": ["red heifer", "parah adumah", "unblemished", "without blemish", "without spot", "no defect", "never yoked", "perfect sacrifice", "tamim", "Numbers 19", "gematria 495"],
+  "uncertain": [],
+  "confidence": 0.97
+}

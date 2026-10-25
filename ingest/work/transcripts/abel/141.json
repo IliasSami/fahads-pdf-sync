@@ -1,0 +1,27 @@
+{
+  "id": "abel/141",
+  "kinds": ["verse", "comparison"],
+  "title": "Abel's offering and Christ's offering (Genesis 4:4; Ephesians 5:2)",
+  "summary": "Genesis 4:4 (Abel brings the firstborn of his flock and the LORD has regard for his offering) is set above Ephesians 5:2, where Christ gave Himself for us as an offering and a sacrifice to God for a sweet-smelling aroma.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:4", "osis": "Gen.4.4"},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ד", "osis": "Gen.4.4"},
+    {"lang": "en", "role": "verse", "text": "4 And Abel, he also brought an offering, from the firstborn of his flock and from their fat portions. And the LORD had regard for Abel and his offering;", "osis": "Gen.4.4"},
+    {"lang": "en", "role": "reference", "text": "Ephesians 5:2", "osis": "Eph.5.2"},
+    {"lang": "el", "role": "reference", "text": "ΕΦΕΣΙΟΥΣ 5:2", "osis": "Eph.5.2"},
+    {"lang": "en", "role": "verse", "text": "2 And walk in love, as Christ also has loved us and given Himself for us, an offering and a sacrifice to God for a sweet-smelling aroma.", "osis": "Eph.5.2"}
+  ],
+  "refs": [
+    {"shown": "Genesis 4:4 / בראשית ד:ד", "osis": ["Gen.4.4"], "role": "quoted"},
+    {"shown": "Ephesians 5:2 / ΕΦΕΣΙΟΥΣ 5:2", "osis": ["Eph.5.2"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abel", "God", "Jesus"], "places": [], "events": ["Cain and Abel's offerings"], "things": ["flock"], "themes": ["sacrifice", "offering", "firstborn", "love", "typology"], "groups": []},
+  "keywords": ["Abel's offering", "Christ's sacrifice", "offering and sacrifice", "sweet-smelling aroma", "sweet savour", "walk in love", "firstborn", "firstlings", "Genesis 4", "Ephesians 5", "Abel a type of Christ"],
+  "uncertain": [],
+  "confidence": 0.95
+}

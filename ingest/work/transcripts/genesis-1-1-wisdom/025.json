@@ -1,0 +1,114 @@
+{
+ "id": "genesis-1-1-wisdom/25",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Psalm 49:3 — v'hagut, \"and the meditation\" (והגות)",
+ "summary": "Psalm 49:3 in English and Hebrew with the word והגות (v'hagut, \"and the meditation\") colour-coded letter by letter; below, a large word line shows the transliteration v'hagut, the Hebrew word, and \"and the meditation\".",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 49:3",
+   "osis": "Ps.49.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים מט:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "v’hagut"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "והגות"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "and the meditation"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 49:3 / תהילים מט:ג",
+   "osis": [
+    "Ps.49.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "והגות",
+   "translit": "v'hagut",
+   "gloss": "and the meditation",
+   "strongs": "H1900"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "and",
+   "other": "ו"
+  },
+  {
+   "en": "the meditation",
+   "other": "הגות"
+  },
+  {
+   "en": "v’hagut",
+   "other": "והגות"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "mouth",
+   "heart"
+  ],
+  "themes": [
+   "wisdom",
+   "understanding",
+   "meditation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "v'hagut",
+  "hagut",
+  "vehagut",
+  "and the meditation",
+  "meditation",
+  "Hebrew word for meditation",
+  "Psalm 49:3",
+  "Psalm 49",
+  "my mouth shall speak wisdom",
+  "meditation of my heart",
+  "understanding"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

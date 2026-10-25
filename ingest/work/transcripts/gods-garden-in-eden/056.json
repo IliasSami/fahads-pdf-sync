@@ -1,0 +1,151 @@
+{
+ "id": "gods-garden-in-eden/56",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Genesis 2:19 — God formed every beast and bird and brought them to Adam (ויצר)",
+ "summary": "Genesis 2:19 in English and Hebrew: God forms every beast of the field and fowl of the air and brings them to Adam to see what he would call them. The word 'formed' is underlined and starred (*), matched by the large underlined Hebrew ויצר. 'LORD God' and 'Adam' are in colour, and 'Adam' is matched to האדם in the Hebrew.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 2:19",
+   "osis": "Gen.2.19"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ב:יט"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "19 And the LORD God formed* out of the ground every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.",
+   "osis": "Gen.2.19"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "ויצר* יהוה אלהים מן־האדמה כל־חית השדה ואת כל־עוף השמים ויבא אל־האדם לראות מה־יקרא־לו חכל אשר יקרא־לו האדם נפש חיה הוא שמו׃",
+   "osis": "Gen.2.19"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 2:19 / בראשית ב:יט",
+   "osis": [
+    "Gen.2.19"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "ויצר",
+   "translit": "vayyitser",
+   "gloss": "and (he) formed",
+   "strongs": "H3335",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "האדם",
+   "translit": "ha-adam",
+   "gloss": "the man / Adam",
+   "strongs": "H120",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "YHWH",
+   "gloss": "the LORD",
+   "strongs": "H3068",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "Elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": null
+  },
+  {
+   "lang": "he",
+   "word": "נפש חיה",
+   "translit": "nefesh chayyah",
+   "gloss": "living creature (living soul)",
+   "strongs": "H5315",
+   "gematria": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "Adam",
+   "other": "האדם"
+  },
+  {
+   "en": "formed",
+   "other": "ויצר"
+  },
+  {
+   "en": "And",
+   "other": "ו"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [
+   "Garden of Eden"
+  ],
+  "events": [
+   "Creation",
+   "Adam naming the animals"
+  ],
+  "things": [
+   "beast of the field",
+   "fowl of the air"
+  ],
+  "themes": [
+   "creation",
+   "names of God"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Adam names the animals",
+  "naming the animals",
+  "formed out of the ground",
+  "beast of the field",
+  "fowl of the air",
+  "living creature",
+  "nefesh chayah",
+  "vayyitzer",
+  "vayitzer",
+  "yatsar",
+  "one yod",
+  "Genesis 2:19",
+  "God formed"
+ ],
+ "uncertain": [
+  "The third Hebrew line begins 'חכל' on the slide (canonical text has וכל); transcribed as shown."
+ ],
+ "confidence": 0.93
+}

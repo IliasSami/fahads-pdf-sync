@@ -1,0 +1,241 @@
+{
+ "id": "elijah-elisha/35",
+ "kinds": [
+  "word-study",
+  "list"
+ ],
+ "title": "Five times Jacob has an extra vav (Leviticus 26:42 and Jeremiah)",
+ "summary": "Shows that in five places the name Jacob is spelled יעקוב with an extra vav (ו) instead of the usual יעקב, with the letters named bet, vav, quf, ayin, yod. The five verses listed are Leviticus 26:42 and Jeremiah 30:18, 33:26, 46:27 and 51:19.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "5 Times יעקב Jacob has an extra vav ו"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "ya’akob"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "יעקוב"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Jacob"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "bet vav quf ayin yod"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Leviticus 26:42",
+   "osis": "Lev.26.42"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ויקרא ח:י"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Jeremiah 30:18",
+   "osis": "Jer.30.18"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ירמיה ל:יח"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Jeremiah 33:26",
+   "osis": "Jer.33.26"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ירמיה לג:כו"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Jeremiah 46:27",
+   "osis": "Jer.46.27"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ירמיה מו:כז"
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Jeremiah 51:19",
+   "osis": "Jer.51.19"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "ירמיה נא:יט"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Leviticus 26:42 / ויקרא ח:י",
+   "osis": [
+    "Lev.26.42"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Jeremiah 30:18 / ירמיה ל:יח",
+   "osis": [
+    "Jer.30.18"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Jeremiah 33:26 / ירמיה לג:כו",
+   "osis": [
+    "Jer.33.26"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Jeremiah 46:27 / ירמיה מו:כז",
+   "osis": [
+    "Jer.46.27"
+   ],
+   "role": "cited"
+  },
+  {
+   "shown": "Jeremiah 51:19 / ירמיה נא:יט",
+   "osis": [
+    "Jer.51.19"
+   ],
+   "role": "cited"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "יעקב",
+   "translit": "ya’akob",
+   "gloss": "Jacob (usual spelling)",
+   "strongs": "H3290"
+  },
+  {
+   "lang": "he",
+   "word": "יעקוב",
+   "translit": "ya’akob",
+   "gloss": "Jacob (spelled with an extra vav)",
+   "strongs": "H3290"
+  },
+  {
+   "lang": "he",
+   "word": "ו",
+   "translit": "vav",
+   "gloss": "the extra letter vav",
+   "strongs": null
+  }
+ ],
+ "color_links": [
+  {
+   "en": "vav",
+   "other": "ו"
+  },
+  {
+   "en": "bet",
+   "other": "ב"
+  },
+  {
+   "en": "yod",
+   "other": "י"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": "the extra letter"
+  },
+  {
+   "lang": "he",
+   "letter": "quf",
+   "char": "ק",
+   "value": 100,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "ayin",
+   "char": "ע",
+   "value": 70,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  }
+ ],
+ "numbers": [
+  {
+   "value": 5,
+   "note": "times the name Jacob is spelled with an extra vav"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jacob"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Jacob extra vav",
+  "Jacob spelling",
+  "יעקוב",
+  "Ya'akov",
+  "Yaakov",
+  "5 times",
+  "Leviticus 26:42",
+  "Jeremiah 30:18",
+  "Jeremiah 33:26",
+  "Jeremiah 46:27",
+  "Jeremiah 51:19",
+  "vav",
+  "full spelling",
+  "Hebrew spelling variation"
+ ],
+ "uncertain": [
+  "The Hebrew reference beside Leviticus 26:42 reads ויקרא ח:י (8:10) as shown on the slide; it does not match the English reference."
+ ],
+ "confidence": 0.94
+}

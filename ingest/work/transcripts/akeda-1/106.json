@@ -1,0 +1,32 @@
+{
+  "id": "akeda-1/106",
+  "kinds": ["verse"],
+  "title": "The Akedah — Genesis 22:8 and John 8:56",
+  "summary": "Genesis 22:8, under the title 'The Akedah' (העקדה) in red: Abraham tells his son that God Himself will provide the lamb for the burnt offering, and the two walk on together. Below it, John 8:56 has Jesus saying Abraham rejoiced to see His day. 'Abraham' is blue, 'God' blue, red and gold, 'lamb' grey, 'son' red, and 'My' red.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 22:8", "osis": "Gen.22.8"},
+    {"lang": "he", "role": "heading", "text": "ה ע ק ד ה"},
+    {"lang": "he", "role": "reference", "text": "בראשית כב:ח", "osis": "Gen.22.8"},
+    {"lang": "en", "role": "heading", "text": "The Akedah"},
+    {"lang": "en", "role": "verse", "osis": "Gen.22.8", "text": "8 Abraham said, “God Himself will provide the lamb for the burnt offering, my son.” So the two of them walked on together."},
+    {"lang": "en", "role": "reference", "text": "John 8:56", "osis": "John.8.56"},
+    {"lang": "el", "role": "reference", "text": "Ἰωάνης 8:56", "osis": "John.8.56"},
+    {"lang": "en", "role": "verse", "osis": "John.8.56", "text": "56 “Your father Abraham rejoiced to see My day, and he saw it and was glad.”"}
+  ],
+  "refs": [
+    {"shown": "Genesis 22:8 / בראשית כב:ח", "osis": ["Gen.22.8"], "role": "quoted"},
+    {"shown": "John 8:56 / Ἰωάνης 8:56", "osis": ["John.8.56"], "role": "quoted"}
+  ],
+  "words": [
+    {"lang": "he", "word": "העקדה", "translit": "ha-Akedah", "gloss": "the binding (of Isaac)", "strongs": null},
+    {"lang": "en", "word": "lamb", "translit": "seh", "gloss": "lamb (shown in grey)", "strongs": "H7716"}
+  ],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abraham", "Isaac", "God", "Jesus"], "places": [], "events": ["Binding of Isaac (Akedah)"], "things": ["lamb", "burnt offering"], "themes": ["sacrifice", "substitution", "faith", "typology", "messianic prophecy", "names of God"], "groups": []},
+  "keywords": ["Akedah", "Akeda", "binding of Isaac", "Genesis 22:8", "Genesis 22", "God will provide the lamb", "God will provide himself a lamb", "Jehovah Jireh", "burnt offering", "my son", "John 8:56", "Abraham rejoiced to see my day", "he saw it and was glad", "so they went both of them together"],
+  "uncertain": [],
+  "confidence": 0.96
+}

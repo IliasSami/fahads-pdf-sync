@@ -1,0 +1,109 @@
+{
+ "id": "noah-part-1/61",
+ "kinds": [
+  "verse"
+ ],
+ "title": "Genesis 6:16 (ark window, door, decks) and Exodus 13:21 (pillar of cloud and fire)",
+ "summary": "Genesis 6:16 in English (God's instructions to make a window, a door in the side, and lower, second and third decks for the ark, with 'ar' in 'ark' in red) above Exodus 13:21, where the LORD goes before the people in a pillar of cloud by day and a pillar of fire by night.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 6:16",
+   "osis": "Gen.6.16"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ו:יו"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Gen.6.16",
+   "text": "16 “You shall make a window for the ark, and finish it to a cubit from the top; and set the door of the ark in the side of it; you shall make it with lower, second, and third decks."
+  },
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Exodus 13:21",
+   "osis": "Exod.13.21"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "שמות יג:כא"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Exod.13.21",
+   "text": "21 The LORD was going before them in a pillar of cloud by day to lead them on the way, and in a pillar of fire by night to give them light, that they might travel by day and by night."
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 6:16 / בראשית ו:יו",
+   "osis": [
+    "Gen.6.16"
+   ],
+   "role": "quoted"
+  },
+  {
+   "shown": "Exodus 13:21 / שמות יג:כא",
+   "osis": [
+    "Exod.13.21"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Noah"
+  ],
+  "places": [],
+  "events": [
+   "Exodus"
+  ],
+  "things": [
+   "ark",
+   "window",
+   "door",
+   "pillar of cloud",
+   "pillar of fire",
+   "decks"
+  ],
+  "themes": [
+   "divine guidance",
+   "light and darkness"
+  ],
+  "groups": [
+   "Israel"
+  ]
+ },
+ "keywords": [
+  "Genesis 6:16",
+  "Exodus 13:21",
+  "Noah's ark",
+  "ark window",
+  "door of the ark",
+  "three decks",
+  "lower second and third decks",
+  "a cubit from the top",
+  "pillar of cloud",
+  "pillar of fire",
+  "cloud by day fire by night",
+  "the LORD went before them",
+  "Exodus 13"
+ ],
+ "uncertain": [
+  "The word 'ark' is shown with 'ar' in red (and 'ark' in the second line also with 'ar' red); the L, O and R of 'LORD' are in different colours (brown, orange, orange). The slide gives no explanation of these colours."
+ ],
+ "confidence": 0.95
+}

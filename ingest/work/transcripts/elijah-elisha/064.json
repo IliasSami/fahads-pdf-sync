@@ -1,0 +1,81 @@
+{
+ "id": "elijah-elisha/64",
+ "kinds": [
+  "verse"
+ ],
+ "title": "1 Kings 18:1 — word of the LORD to Elijah: I will send rain",
+ "summary": "The text of 1 Kings 18:1: after many days, in the third year, the word of the LORD comes to Elijah telling him to show himself to Ahab because the LORD will send rain on the face of the earth. The names LORD and Elijah are lettered in colours.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "1 Kings 18:1",
+   "osis": "1Kgs.18.1"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "מלכים א יח:א",
+   "osis": "1Kgs.18.1"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "1 Now it happened after many days that the word of the LORD came to Elijah in the third year, saying, “Go, show yourself to Ahab, and I will send rain on the face of the earth.”",
+   "osis": "1Kgs.18.1"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "1 Kings 18:1 / מלכים א יח:א",
+   "osis": [
+    "1Kgs.18.1"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [
+  {
+   "value": 3,
+   "note": "the third year of the drought"
+  }
+ ],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Elijah",
+   "Ahab",
+   "God"
+  ],
+  "places": [],
+  "events": [
+   "three-year drought"
+  ],
+  "things": [
+   "rain"
+  ],
+  "themes": [
+   "prophecy",
+   "word of God",
+   "miracles"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Elijah",
+  "Ahab",
+  "1 Kings 18",
+  "I will send rain",
+  "third year",
+  "end of the drought",
+  "rain on the face of the earth",
+  "word of the LORD came to Elijah",
+  "show yourself to Ahab",
+  "drought ends"
+ ],
+ "uncertain": [],
+ "confidence": 0.96
+}

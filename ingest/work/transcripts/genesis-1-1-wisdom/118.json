@@ -1,0 +1,349 @@
+{
+ "id": "genesis-1-1-wisdom/118",
+ "kinds": [
+  "verse",
+  "word-study",
+  "gematria"
+ ],
+ "title": "Man + Understanding = LORD God, with letter values (Genesis 3:5)",
+ "summary": "Same equation slide with the number value of each Hebrew letter printed under אדם (40 4 1), בינה (5 50 10 2) and יהוה אלהים (5 6 5 10 and 40 10 5 30 1).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Genesis 3:5",
+   "osis": "Gen.3.5"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "בראשית ג:ה"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "5 For God knows that in the day you eat of it your eyes will be opened, and you will be like God, knowing good and evil.”",
+   "osis": "Gen.3.5"
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "text": "5 כי ידע אלהים כי ביום אכלכם ממנו ונפקחו עיניכם והייתם כאלהים ידעי טוב ורע׃",
+   "osis": "Gen.3.5"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Man"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "+"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Understanding"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "="
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "LORD God"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "adam"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "binah"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "yahweh elohim"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אדם"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בינה"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "אלהים יהוה"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "40 4 1"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 50 10 2"
+  },
+  {
+   "lang": "en",
+   "role": "number",
+   "text": "5 6 5 10  40 10 5 30 1"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Genesis 3:5 / בראשית ג:ה",
+   "osis": [
+    "Gen.3.5"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "אדם",
+   "translit": "adam",
+   "gloss": "man",
+   "strongs": "H120",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     4,
+     1
+    ],
+    "total": 45
+   }
+  },
+  {
+   "lang": "he",
+   "word": "בינה",
+   "translit": "binah",
+   "gloss": "understanding",
+   "strongs": "H998",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     50,
+     10,
+     2
+    ],
+    "total": 67
+   }
+  },
+  {
+   "lang": "he",
+   "word": "יהוה",
+   "translit": "yahweh",
+   "gloss": "LORD",
+   "strongs": "H3068",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     6,
+     5,
+     10
+    ],
+    "total": 26
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אלהים",
+   "translit": "elohim",
+   "gloss": "God",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     40,
+     10,
+     5,
+     30,
+     1
+    ],
+    "total": 86
+   }
+  },
+  {
+   "lang": "he",
+   "word": "אלהים יהוה",
+   "translit": "yahweh elohim",
+   "gloss": "LORD God",
+   "strongs": "H430",
+   "gematria": {
+    "method": "standard",
+    "values": [
+     5,
+     6,
+     5,
+     10,
+     40,
+     10,
+     5,
+     30,
+     1
+    ],
+    "total": 112
+   }
+  }
+ ],
+ "color_links": [
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "God",
+   "other": "כאלהים"
+  },
+  {
+   "en": "Man",
+   "other": "אדם"
+  },
+  {
+   "en": "adam",
+   "other": "אדם"
+  },
+  {
+   "en": "LORD",
+   "other": "יהוה"
+  },
+  {
+   "en": "yahweh",
+   "other": "יהוה"
+  },
+  {
+   "en": "God",
+   "other": "אלהים"
+  },
+  {
+   "en": "elohim",
+   "other": "אלהים"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "he",
+   "letter": "alef",
+   "char": "א",
+   "value": 1,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "dalet",
+   "char": "ד",
+   "value": 4,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "mem (final)",
+   "char": "ם",
+   "value": 40,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "bet",
+   "char": "ב",
+   "value": 2,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "yod",
+   "char": "י",
+   "value": 10,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "nun",
+   "char": "נ",
+   "value": 50,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "he",
+   "char": "ה",
+   "value": 5,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "vav",
+   "char": "ו",
+   "value": 6,
+   "meaning": ""
+  },
+  {
+   "lang": "he",
+   "letter": "lamed",
+   "char": "ל",
+   "value": 30,
+   "meaning": ""
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "God",
+   "Adam"
+  ],
+  "places": [],
+  "events": [
+   "Fall of Man"
+  ],
+  "things": [],
+  "themes": [
+   "wisdom",
+   "understanding",
+   "names of God",
+   "gematria"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "Man plus Understanding equals LORD God",
+  "Genesis 3:5",
+  "Genesis 3",
+  "man",
+  "understanding",
+  "LORD God",
+  "Yahweh Elohim",
+  "adam",
+  "binah",
+  "knowing good and evil",
+  "elohim",
+  "equation",
+  "wisdom and understanding",
+  "you will be like God",
+  "gematria",
+  "letter values",
+  "Hebrew numbers"
+ ],
+ "uncertain": [
+  "Hebrew labels are laid out so יהוה sits under 'yahweh' (left) and אלהים under 'elohim' (right); read right to left this is אלהים יהוה.",
+  "Letter values are listed left to right as shown; totals for individual words are not printed on this slide."
+ ],
+ "confidence": 0.95
+}

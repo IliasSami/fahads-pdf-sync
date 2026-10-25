@@ -1,0 +1,43 @@
+{
+ "id": "red-heifer/98",
+ "kinds": [
+  "text"
+ ],
+ "title": "Religious Jews want to rebuild the Temple",
+ "summary": "Mostly empty slide with one line: Religious Jews want to rebuild Temple. The words Jews and Temple are colour-coded (blue and gold).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "body",
+   "text": "Religious Jews want to rebuild Temple."
+  }
+ ],
+ "refs": [],
+ "words": [],
+ "color_links": [],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "temple"
+  ],
+  "groups": [
+   "Jews"
+  ]
+ },
+ "keywords": [
+  "rebuild the Temple",
+  "Third Temple",
+  "religious Jews",
+  "Temple rebuilding",
+  "Jewish Temple",
+  "Red Heifer"
+ ],
+ "uncertain": [],
+ "confidence": 0.99
+}

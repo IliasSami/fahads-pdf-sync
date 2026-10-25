@@ -1,0 +1,115 @@
+{
+  "id": "abel/181",
+  "kinds": [
+    "verse"
+  ],
+  "title": "Luke 11:50-51 and Matthew 21:11 — Jesus, the prophet from Nazareth",
+  "summary": "Luke 11:50-51 (the blood of the prophets from Abel to Zechariah charged to this generation) shown above Matthew 21:11, where the crowds say \"This is Jesus, the prophet from Nazareth in Galilee.\"",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Luke 11:50-51",
+      "osis": [
+        "Luke.11.50",
+        "Luke.11.51"
+      ]
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "ΛΟΥΚΑΝ 11:50-51"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Luke.11.50",
+      "text": "50 As a result, this generation will be charged with the blood of all the prophets that has been shed since the foundation of the world,"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Luke.11.51",
+      "text": "51 from the blood of Abel to the blood of Zechariah, who was killed between the altar and the sanctuary. Yes, I tell you, all of it will be charged to this generation."
+    },
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Matthew 21:11",
+      "osis": "Matt.21.11"
+    },
+    {
+      "lang": "el",
+      "role": "reference",
+      "text": "Ματθαίος 21:11"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "osis": "Matt.21.11",
+      "text": "11 The crowds replied, “This is Jesus, the prophet from Nazareth in Galilee.”"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Luke 11:50-51 / ΛΟΥΚΑΝ 11:50-51",
+      "osis": [
+        "Luke.11.50",
+        "Luke.11.51"
+      ],
+      "role": "quoted"
+    },
+    {
+      "shown": "Matthew 21:11 / Ματθαίος 21:11",
+      "osis": [
+        "Matt.21.11"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Abel",
+      "Zechariah",
+      "Jesus"
+    ],
+    "places": [
+      "Nazareth",
+      "Galilee"
+    ],
+    "events": [],
+    "things": [
+      "altar",
+      "sanctuary"
+    ],
+    "themes": [
+      "blood",
+      "judgment",
+      "prophecy"
+    ],
+    "groups": [
+      "prophets",
+      "crowds"
+    ]
+  },
+  "keywords": [
+    "Luke 11:50-51",
+    "Matthew 21:11",
+    "Jesus the prophet of Nazareth",
+    "prophet from Nazareth in Galilee",
+    "blood of Abel",
+    "blood of Zechariah",
+    "blood of the prophets",
+    "this generation",
+    "the crowds replied",
+    "triumphal entry",
+    "Matthew 21"
+  ],
+  "uncertain": [],
+  "confidence": 0.96
+}

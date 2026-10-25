@@ -1,0 +1,169 @@
+{
+ "id": "genesis-1-1-wisdom/28",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "Psalm 49:3 — lev, \"heart\" and levee, \"my heart\" (לבי)",
+ "summary": "Psalm 49:3 in English and Hebrew with \"my heart\" and לבי colour-coded; two word lines show lev (לב, Heart) and levee (לבי, My Heart), with a red heart symbol.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "Psalm 49:3",
+   "osis": "Ps.49.3"
+  },
+  {
+   "lang": "he",
+   "role": "reference",
+   "text": "תהילים מט:ג"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 My mouth shall speak wisdom; and the meditation of my heart shall be understanding."
+  },
+  {
+   "lang": "he",
+   "role": "verse",
+   "osis": "Ps.49.3",
+   "text": "3 פי ידבר חכמות והגות לבי תבונות׃"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "lev"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "לב"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "Heart"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "levee"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "לבי"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "My Heart"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Psalm 49:3 / תהילים מט:ג",
+   "osis": [
+    "Ps.49.3"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "לב",
+   "translit": "lev",
+   "gloss": "heart",
+   "strongs": "H3820"
+  },
+  {
+   "lang": "he",
+   "word": "לבי",
+   "translit": "levee",
+   "gloss": "my heart",
+   "strongs": "H3820"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "heart",
+   "other": "לב"
+  },
+  {
+   "en": "my",
+   "other": "י"
+  },
+  {
+   "en": "lev",
+   "other": "לב"
+  },
+  {
+   "en": "Heart",
+   "other": "לב"
+  },
+  {
+   "en": "levee",
+   "other": "לבי"
+  },
+  {
+   "en": "My Heart",
+   "other": "לבי"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [
+  {
+   "type": "symbol",
+   "description": "A large solid red heart symbol (card-suit style) centred at the bottom of the slide, illustrating the word heart (lev).",
+   "subjects": [
+    "heart",
+    "red heart",
+    "symbol",
+    "love"
+   ],
+   "text_in_picture": "",
+   "credit": null,
+   "box": [
+    0.45,
+    0.8,
+    0.55,
+    0.94
+   ]
+  }
+ ],
+ "entities": {
+  "people": [],
+  "places": [],
+  "events": [],
+  "things": [
+   "mouth",
+   "heart"
+  ],
+  "themes": [
+   "wisdom",
+   "understanding",
+   "meditation"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "lev",
+  "levee",
+  "levi",
+  "leb",
+  "heart",
+  "my heart",
+  "Hebrew word for heart",
+  "לבי",
+  "Psalm 49:3",
+  "Psalm 49",
+  "meditation of my heart",
+  "red heart",
+  "understanding"
+ ],
+ "uncertain": [],
+ "confidence": 0.94
+}

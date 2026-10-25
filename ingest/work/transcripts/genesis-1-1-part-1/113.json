@@ -1,0 +1,168 @@
+{
+ "id": "genesis-1-1-part-1/113",
+ "kinds": [
+  "verse",
+  "letters",
+  "text"
+ ],
+ "title": "The last verse, last word and last letter of the Bible (Revelation 22:21)",
+ "summary": "States that the last verse of the Bible is Revelation 22:21 (Greek and English), the last word is the Greek Ἀμήν (Amen), and the last letter is the Greek nu (ν), which matches N in English and the Hebrew final nun (ן).",
+ "text": [
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Last Verse of the Bible is Revelation 22:21"
+  },
+  {
+   "lang": "el",
+   "role": "verse",
+   "text": "Ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μετὰ πάντων ὑμῶν. Ἀμήν.",
+   "osis": "Rev.22.21"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "text": "The grace of the Lord Jesus be with all. Amen.",
+   "osis": "Rev.22.21"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Last Word of the Bible is the Greek:"
+  },
+  {
+   "lang": "el",
+   "role": "label",
+   "text": "Ἀμήν"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "Amen"
+  },
+  {
+   "lang": "en",
+   "role": "heading",
+   "text": "The Last Letter of the Bible:"
+  },
+  {
+   "lang": "el",
+   "role": "label",
+   "text": "ν"
+  },
+  {
+   "lang": "translit",
+   "role": "label",
+   "text": "Nu (Greek)"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "N (English)"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "ן"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "(Hebrew)"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "Revelation 22:21",
+   "osis": [
+    "Rev.22.21"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "el",
+   "word": "Ἀμήν",
+   "translit": "amen",
+   "gloss": "Amen — the last word of the Bible",
+   "strongs": "G281"
+  },
+  {
+   "lang": "el",
+   "word": "Ἰησοῦ",
+   "translit": "Iesou",
+   "gloss": "Jesus",
+   "strongs": "G2424"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "Jesus",
+   "other": "Ἰησοῦ"
+  },
+  {
+   "en": "Amen",
+   "other": "Ἀμήν"
+  },
+  {
+   "en": "Nu",
+   "other": "ν"
+  },
+  {
+   "en": "N",
+   "other": "ν"
+  },
+  {
+   "en": "N",
+   "other": "ן"
+  }
+ ],
+ "letters": [
+  {
+   "lang": "el",
+   "letter": "nu",
+   "char": "ν",
+   "value": null,
+   "meaning": "last letter of the Bible (N in English)"
+  },
+  {
+   "lang": "he",
+   "letter": "nun (final)",
+   "char": "ן",
+   "value": null,
+   "meaning": "Hebrew counterpart of N / nu"
+  }
+ ],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [],
+  "themes": [
+   "grace",
+   "Hebrew letter meanings"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "last verse of the Bible",
+  "last word of the Bible",
+  "last letter of the Bible",
+  "Revelation 22:21",
+  "Amen",
+  "Amēn",
+  "nu",
+  "grace of the Lord Jesus",
+  "Greek nu",
+  "final nun",
+  "the grace of our Lord Jesus Christ",
+  "end of the Bible"
+ ],
+ "uncertain": [],
+ "confidence": 0.95
+}

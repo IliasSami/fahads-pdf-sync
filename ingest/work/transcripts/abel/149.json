@@ -1,0 +1,30 @@
+{
+  "id": "abel/149",
+  "kinds": ["verse", "comparison"],
+  "title": "Abel and Yeshua received God's public acceptance",
+  "summary": "Genesis 4:4-5 (the LORD looked favorably on Abel's offering, not Cain's) and Luke 3:21-22 (at Jesus' baptism a voice from heaven says \"You are My beloved Son; in You I am well pleased\") frame the conclusion that Abel and Yeshua (Jesus) both received God's public acceptance.",
+  "text": [
+    {"lang": "en", "role": "reference", "text": "Genesis 4:4-5", "osis": ["Gen.4.4", "Gen.4.5"]},
+    {"lang": "he", "role": "reference", "text": "בראשית ד:ד-ה", "osis": ["Gen.4.4", "Gen.4.5"]},
+    {"lang": "en", "role": "verse", "text": "4 And Abel, he also brought an offering, from the firstborn of his flock and from their fat portions. And the LORD looked favorably on Abel and his offering;", "osis": "Gen.4.4"},
+    {"lang": "en", "role": "verse", "text": "5 And He did not respect Cain and his offering. And Cain was very angry, and his countenance fell.", "osis": "Gen.4.5"},
+    {"lang": "en", "role": "heading", "text": "Abel & yeshua received God’s Public Acceptance"},
+    {"lang": "en", "role": "reference", "text": "Luke 3:21-22", "osis": ["Luke.3.21", "Luke.3.22"]},
+    {"lang": "el", "role": "reference", "text": "ΛΟΥΚΑΝ 3:21-22", "osis": ["Luke.3.21", "Luke.3.22"]},
+    {"lang": "en", "role": "verse", "text": "21 When all the people were being baptized, Jesus was baptized too. And as He was praying, heaven was opened,", "osis": "Luke.3.21"},
+    {"lang": "en", "role": "verse", "text": "22 and the Holy Spirit descended on Him in a bodily form like a dove. And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”", "osis": "Luke.3.22"}
+  ],
+  "refs": [
+    {"shown": "Genesis 4:4-5 / בראשית ד:ד-ה", "osis": ["Gen.4.4", "Gen.4.5"], "role": "quoted"},
+    {"shown": "Luke 3:21-22 / ΛΟΥΚΑΝ 3:21-22", "osis": ["Luke.3.21", "Luke.3.22"], "role": "quoted"}
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [],
+  "pictures": [],
+  "entities": {"people": ["Abel", "Cain", "God", "Jesus", "Holy Spirit"], "places": [], "events": ["Cain and Abel's offerings", "Baptism of Jesus"], "things": ["dove"], "themes": ["sacrifice", "offering", "God's approval", "typology", "Abel as a type of Christ"], "groups": []},
+  "keywords": ["public acceptance", "God's approval", "Abel", "Yeshua", "Jesus", "baptism of Jesus", "beloved Son", "well pleased", "Holy Spirit like a dove", "Abel's offering accepted", "Genesis 4", "Luke 3", "Abel a type of Christ"],
+  "uncertain": [],
+  "confidence": 0.95
+}

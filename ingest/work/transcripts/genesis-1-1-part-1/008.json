@@ -1,0 +1,149 @@
+{
+ "id": "genesis-1-1-part-1/8",
+ "kinds": [
+  "verse",
+  "word-study"
+ ],
+ "title": "John 6:48 — \"I am the bread of life\": bet (house) and lechem (bread)",
+ "summary": "John 6:48 quoted in English, \"I am the bread of life,\" attributed to Yeshua, followed by two Hebrew word pairs in matching colours: בית (bet, house) in red and לחם (lechem, bread) in brown.",
+ "text": [
+  {
+   "lang": "en",
+   "role": "reference",
+   "text": "John 6:48",
+   "osis": "John.6.48"
+  },
+  {
+   "lang": "el",
+   "role": "reference",
+   "text": "ωάνης 6:48"
+  },
+  {
+   "lang": "en",
+   "role": "verse",
+   "osis": "John.6.48",
+   "text": "“I am the bread of life.”"
+  },
+  {
+   "lang": "translit",
+   "role": "quote",
+   "text": "—yeshua"
+  },
+  {
+   "lang": "he",
+   "role": "quote",
+   "text": "ישוע"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "בית"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "↔ bet ↔ house"
+  },
+  {
+   "lang": "he",
+   "role": "label",
+   "text": "לחם"
+  },
+  {
+   "lang": "en",
+   "role": "label",
+   "text": "↔ lechem ↔ bread"
+  }
+ ],
+ "refs": [
+  {
+   "shown": "John 6:48 / ωάνης 6:48",
+   "osis": [
+    "John.6.48"
+   ],
+   "role": "quoted"
+  }
+ ],
+ "words": [
+  {
+   "lang": "he",
+   "word": "בית",
+   "translit": "bet",
+   "gloss": "house",
+   "strongs": "H1004"
+  },
+  {
+   "lang": "he",
+   "word": "לחם",
+   "translit": "lechem",
+   "gloss": "bread",
+   "strongs": "H3899"
+  },
+  {
+   "lang": "he",
+   "word": "ישוע",
+   "translit": "yeshua",
+   "gloss": "Yeshua (Jesus)",
+   "strongs": "H3442"
+  }
+ ],
+ "color_links": [
+  {
+   "en": "bread",
+   "other": "לחם"
+  },
+  {
+   "en": "lechem",
+   "other": "לחם"
+  },
+  {
+   "en": "house",
+   "other": "בית"
+  },
+  {
+   "en": "bet",
+   "other": "בית"
+  },
+  {
+   "en": "yeshua",
+   "other": "ישוע"
+  }
+ ],
+ "letters": [],
+ "numbers": [],
+ "pictures": [],
+ "entities": {
+  "people": [
+   "Jesus"
+  ],
+  "places": [],
+  "events": [],
+  "things": [
+   "bread",
+   "house"
+  ],
+  "themes": [
+   "Hebrew letter meanings",
+   "word study"
+  ],
+  "groups": []
+ },
+ "keywords": [
+  "John 6:48",
+  "I am the bread of life",
+  "bread of life",
+  "Yeshua",
+  "bet house",
+  "lechem bread",
+  "בית לחם",
+  "Bethlehem",
+  "house of bread",
+  "Jesus",
+  "Hebrew word study",
+  "John 6"
+ ],
+ "uncertain": [
+  "Greek reference header reads \"ωάνης 6:48\" on the slide (first letter appears missing); transcribed as shown"
+ ],
+ "confidence": 0.93
+}

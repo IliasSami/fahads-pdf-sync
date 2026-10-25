@@ -1,0 +1,133 @@
+{
+  "id": "abel/42",
+  "kinds": [
+    "text",
+    "comparison"
+  ],
+  "title": "Leah: 4 conceptions and 4 births (Genesis 29:32-35)",
+  "summary": "A shortened version of Genesis 29:32-35 showing each time Leah conceived (green) and bore a son (red) — Reuben, Simeon, Levi, Judah — with the totals below: 4 Conceptions and 4 Births.",
+  "text": [
+    {
+      "lang": "en",
+      "role": "reference",
+      "text": "Genesis 29:32-35",
+      "osis": [
+        "Gen.29.32",
+        "Gen.29.33",
+        "Gen.29.34",
+        "Gen.29.35"
+      ]
+    },
+    {
+      "lang": "he",
+      "role": "reference",
+      "text": "בראשית כט:לב-לה"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "32 So Leah conceived and bore a son, and she called his name Reuben…",
+      "osis": "Gen.29.32"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "33 Then she conceived again and bore a son…she called his name Simeon.",
+      "osis": "Gen.29.33"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "34 She conceived again and bore a son…his name was called Levi.",
+      "osis": "Gen.29.34"
+    },
+    {
+      "lang": "en",
+      "role": "verse",
+      "text": "35 And she conceived again and bore a son…she called his name Judah.",
+      "osis": "Gen.29.35"
+    },
+    {
+      "lang": "en",
+      "role": "number",
+      "text": "4"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Conceptions"
+    },
+    {
+      "lang": "en",
+      "role": "number",
+      "text": "4"
+    },
+    {
+      "lang": "en",
+      "role": "label",
+      "text": "Births"
+    }
+  ],
+  "refs": [
+    {
+      "shown": "Genesis 29:32-35 / בראשית כט:לב-לה",
+      "osis": [
+        "Gen.29.32",
+        "Gen.29.33",
+        "Gen.29.34",
+        "Gen.29.35"
+      ],
+      "role": "quoted"
+    }
+  ],
+  "words": [],
+  "color_links": [],
+  "letters": [],
+  "numbers": [
+    {
+      "value": 4,
+      "note": "Leah's four conceptions (Genesis 29:32-35)"
+    },
+    {
+      "value": 4,
+      "note": "Leah's four births (Genesis 29:32-35)"
+    }
+  ],
+  "pictures": [],
+  "entities": {
+    "people": [
+      "Leah",
+      "Reuben",
+      "Simeon",
+      "Levi",
+      "Judah",
+      "Jacob",
+      "God"
+    ],
+    "places": [],
+    "events": [
+      "birth of Jacob's sons"
+    ],
+    "things": [],
+    "themes": [
+      "firstborn",
+      "marriage"
+    ],
+    "groups": []
+  },
+  "keywords": [
+    "Leah",
+    "4 conceptions",
+    "4 births",
+    "four conceptions four births",
+    "conceived and bore a son",
+    "Reuben",
+    "Simeon",
+    "Levi",
+    "Judah",
+    "Genesis 29:32-35",
+    "conception and birth comparison"
+  ],
+  "uncertain": [],
+  "confidence": 0.95
+}
