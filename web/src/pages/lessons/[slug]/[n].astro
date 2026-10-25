@@ -1,0 +1,171 @@
+---
+import Base from "../../../layouts/Base.astro";
+import SlideCard from "../../../components/SlideCard.astro";
+import { SLIDES, ENTITIES, PICTURES, TYPE_NAMES, deckBySlug, slideIndex, slideImg, slideTitle, slideUrl, highlightData, verseLabel, verseUrl, fmtBytes, pad } from "../../../lib/data.ts";
+
+export function getStaticPaths() {
+  return SLIDES.map((s, i) => ({ params: { slug: s.deck, n: String(s.n) }, props: { i } }));
+}
+const { i } = Astro.props;
+const s = SLIDES[i];
+const deck = deckBySlug.get(s.deck)!;
+const prev = s.n > 1 ? SLIDES[slideIndex.get(`${s.deck}/${s.n - 1}`)!] : null;
+const next = s.n < deck.count ? SLIDES[slideIndex.get(`${s.deck}/${s.n + 1}`)!] : null;
+const title = slideTitle(s);
+const verses = [...new Set(s.refs.flatMap((r) => r.osis))];
+const ents = s.entities.map(([ei]) => ENTITIES[ei]).filter((e) => e.type !== "verse");
+const groups: [string, typeof ents][] = [
+  ["Hebrew & Greek words", ents.filter((e) => e.type === "word")],
+  ["Letters", ents.filter((e) => e.type === "letter")],
+  ["Numbers", ents.filter((e) => e.type === "number")],
+  ["People", ents.filter((e) => e.type === "person")],
+  ["Places", ents.filter((e) => e.type === "place")],
+  ["Topics", ents.filter((e) => ["theme", "event", "thing", "group", "artist"].includes(e.type))],
+];
+const pics = PICTURES.filter((p) => p.slide === i);
+const picById = new Map(PICTURES.map((p) => [p.id, p]));
+const hl = highlightData(s);
+// a slide that the lesson builds up step by step (animation) over several slides
+const steps = SLIDES.filter((x) => x.deck === s.deck && x.group === s.group).map((x) => x.n).sort((a, b) => a - b);
+const lastStep = steps[steps.length - 1];
+const shareBody = encodeURIComponent(`${title}\n${deck.title}, slide ${s.n}\n\n`);
+const LANG_NAME: Record<string, string> = { en: "English", he: "Hebrew", el: "Greek", translit: "Transliteration", other: "" };
+const wordFor = (e: (typeof ents)[number]) => {
+  const w = s.words.find((x) => x.word === e.label || e.forms.includes(x.word));
+  return { gloss: w?.gloss ?? e.gloss[0], translit: w?.translit ?? e.translit[0], total: w?.gematria?.total };
+};
+---
+<Base title={`${title} (${deck.title}, slide ${s.n})`} description={s.summary} nav="lessons"
+  crumbs={[{ label: "Lessons", href: "/lessons/" }, { label: deck.title, href: `/lessons/${deck.slug}/` }, { label: `Slide ${s.n} of ${deck.count}` }]}>
+  <article>
+    <div id="slide-guide" class="no-print"></div>
+    <div class="slide-stage" id="stage">
+      <img id="slide-img" src={slideImg(s, 1920)}
+        srcset={`${slideImg(s, 960)} 960w, ${slideImg(s, 1920)} 1920w, ${slideImg(s, 2560)} 2560w`}
+        sizes="(max-width: 1220px) 100vw, 1180px" width="1920" height="1080" fetchpriority="high"
+        alt={`Slide ${s.n}: ${s.summary}`} data-zoom={slideImg(s, 2560)} />
+      <div class="hl-layer" id="hl-layer" aria-hidden="true"></div>
+    </div>
+    <script type="application/json" id="hl-data" set:html={JSON.stringify({ words: hl, pics: pics.map((p) => [p.k, ...p.box]) })} />
+
+    <nav class="slide-nav" aria-label="Slides">
+      {prev ? <a class="btn secondary prev" href={slideUrl(prev)} rel="prev" data-key="ArrowLeft">◀ Previous<span class="long"> slide</span></a> : <span></span>}
+      <span class="pos">Slide {s.n} of {deck.count}</span>
+      {next ? <a class="btn next" href={slideUrl(next)} rel="next" data-key="ArrowRight">Next<span class="long"> slide</span> ▶</a> : <a class="btn secondary next" href={`/lessons/${deck.slug}/`}>Back to lesson</a>}
+    </nav>
+
+    <h1>{title}</h1>
+    <p class="lead">{s.summary}</p>
+    {steps.length > 1 && (
+      <p class="steps-note no-print">🎞 The lesson shows this slide in {steps.length} steps (slides {steps[0]}–{lastStep}), adding or highlighting
+        a little more each time. This is step {steps.indexOf(s.n) + 1}.
+        {s.n !== lastStep && <> <a href={`/lessons/${s.deck}/${lastStep}/`}>See the last step (slide {lastStep}) →</a></>}</p>
+    )}
+
+    <div class="toolbar no-print">
+      <button class="btn secondary" type="button" id="zoom-btn">🔍 Zoom in</button>
+      <a class="btn secondary" href="#text">📄 Read as text</a>
+      <button class="btn secondary" type="button" id="print-btn">🖨 Print</button>
+      <a class="btn secondary" id="email-btn" href={`mailto:?subject=${encodeURIComponent(title)}&body=${shareBody}`}>✉ Email this slide</a>
+      <a class="btn secondary" href={`${deck.pdf}#page=${s.n}`} target="_blank" rel="noopener">⬇ Original PDF ({fmtBytes(deck.pdfBytes)})</a>
+    </div>
+
+    <details class="more no-print" id="what-can-i-do">
+      <summary>❓ What can I do on this page?</summary>
+      <div class="transcript">
+        <ul class="howto">
+          <li><strong>See it bigger:</strong> press <em>Zoom in</em> or tap the slide. Then use ＋ and －, or pinch with two fingers.</li>
+          <li><strong>Go through the lesson:</strong> press <em>Next slide ▶</em> or <em>◀ Previous</em>. On a keyboard, the arrow keys work too.</li>
+          <li><strong>Read the words in large print:</strong> press <em>Read as text</em>.</li>
+          <li><strong>Share it:</strong> <em>Email this slide</em> sends a link; <em>Print</em> prints the slide and its words.</li>
+          <li><strong>Learn more:</strong> tap any verse, word, person or topic under <em>On this slide</em> to see every other slide about it.</li>
+          <li><strong>Discover:</strong> <em>Connected slides</em> (further down) shows related teaching in other lessons.</li>
+        </ul>
+      </div>
+    </details>
+
+    <section class="section card" style="padding:18px" aria-labelledby="on-slide">
+      <h2 id="on-slide" style="margin-top:0">On this slide</h2>
+      <dl class="facts">
+        {verses.length > 0 && (
+          <div><dt>Bible verses</dt><dd><ul class="chips">{verses.map((v) => <li><a class="chip" href={verseUrl(v)}>{verseLabel(v)}</a></li>)}</ul></dd></div>
+        )}
+        {groups.map(([label, list]) => list.length > 0 && (
+          <div>
+            <dt>{label}</dt>
+            <dd><ul class="chips">{list.map((e) => {
+              if (e.type === "word") {
+                const w = wordFor(e);
+                return <li><a class="chip" href={e.url}><span lang={e.lang === "el" ? "el" : "he"}>{e.label}</span>{w.translit && <span class="k translit">{w.translit}</span>}{w.gloss && <span class="k">“{w.gloss}”</span>}{w.total !== undefined && <span class="n">= {w.total}</span>}</a></li>;
+              }
+              if (e.type === "letter") return <li><a class="chip" href={e.url}>{e.char && <span lang="he">{e.char}</span>}{e.label}</a></li>;
+              return <li><a class="chip" href={e.url}>{e.label}<span class="n">{e.slides.length}</span></a></li>;
+            })}</ul></dd>
+          </div>
+        ))}
+        {verses.length === 0 && groups.every(([, l]) => !l.length) && <p class="muted">Nothing indexed for this slide yet.</p>}
+      </dl>
+    </section>
+
+    {pics.length > 0 && (
+      <section class="section" aria-labelledby="pics-h">
+        <h2 id="pics-h">Pictures on this slide</h2>
+        <div class="result-list">
+          {pics.map((p) => (
+            <div class="card pic-card" id={`pic-${p.k}`}>
+              <img src={p.src} width={p.w} height={p.h} loading="lazy" alt={p.description} />
+              <div>
+                <p style="margin:0 0 6px"><strong>{p.type === "video-still" ? "Video still of the presenter" : p.type[0].toUpperCase() + p.type.slice(1)}</strong>{p.credit && <> — {p.credit}</>}</p>
+                <p>{p.description}</p>
+                {p.subjects.length > 0 && <p class="small muted">{p.subjects.join(" · ")}</p>}
+                {p.same.length > 0 && (
+                  <p class="small">The same picture also appears on: {p.same.slice(0, 6).map((id, k) => {
+                    const o = picById.get(id)!;
+                    const os = SLIDES[o.slide];
+                    return <>{k > 0 && ", "}<a href={`${slideUrl(os)}#pic-${o.k}`}>{deckBySlug.get(os.deck)!.title}, slide {os.n}</a></>;
+                  })}</p>
+                )}
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <details class="more" id="text">
+      <summary>📄 Read this slide as text</summary>
+      <div class="transcript">
+        {s.text.length === 0 && <p class="muted">This slide has no text.</p>}
+        {s.text.map((b) => (
+          <p class={`role-${b.role}`}>
+            {LANG_NAME[b.lang] && <span class="lang-label">{LANG_NAME[b.lang]}</span>}
+            <span lang={b.lang === "he" ? "he" : b.lang === "el" ? "el" : undefined} class={b.lang === "translit" ? "translit" : undefined}
+              set:html={b.text.replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" })[c]!).replace(/~~(.+?)~~/g, "<s>$1</s>")} />
+          </p>
+        ))}
+        {s.missing && <p class="notice">This slide's text has not been checked yet.</p>}
+      </div>
+    </details>
+
+    {s.related.length > 0 && (
+      <section class="section related" aria-labelledby="rel-h">
+        <h2 id="rel-h">Connected slides</h2>
+        <p class="muted">Other slides about the same verses, words and ideas.</p>
+        <div class="grid">{s.related.map((r) => <SlideCard index={r.slide} why={r.why.length ? "Why: " + r.why.join(" · ") : undefined} />)}</div>
+      </section>
+    )}
+  </article>
+
+  <div class="zoom" id="zoom" hidden role="dialog" aria-modal="true" aria-label="Zoomed slide">
+    <div class="zbar">
+      <button class="btn" type="button" data-z="in">＋ Zoom in</button>
+      <button class="btn" type="button" data-z="out">－ Zoom out</button>
+      <button class="btn" type="button" data-z="fit">Fit to screen</button>
+      <button class="btn" type="button" data-z="close">✕ Close</button>
+    </div>
+    <div class="zarea" id="zarea"><img id="zimg" alt={`Slide ${s.n}, zoomed`} /></div>
+  </div>
+  <script>
+    import "../../../scripts/slide.ts";
+  </script>
+</Base>

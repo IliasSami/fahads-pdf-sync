@@ -1,0 +1,9 @@
+---
+import EntityPage from "../../components/EntityPage.astro";
+import { ENTITIES } from "../../lib/data.ts";
+export function getStaticPaths() {
+  return ENTITIES.filter((e) => e.url.startsWith("/numbers/")).map((e) => ({ params: { id: e.url.split("/")[2] }, props: { e } }));
+}
+const { e } = Astro.props;
+---
+<EntityPage e={e} section={{ label: "Numbers", href: "/numbers/" }} />

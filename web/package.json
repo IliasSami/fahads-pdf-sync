@@ -1,0 +1,22 @@
+{
+  "name": "slide-study-library",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "data": "node scripts/build-search.ts && node scripts/build-explore.ts",
+    "dev": "astro dev",
+    "build": "node scripts/build-search.ts && node scripts/build-explore.ts && astro build",
+    "preview": "wrangler dev",
+    "deploy": "npm run build && wrangler deploy",
+    "test": "node --test \"tests/*.test.ts\""
+  },
+  "dependencies": {
+    "@fontsource/atkinson-hyperlegible": "^5.3.0",
+    "@fontsource/frank-ruhl-libre": "^5.3.0",
+    "@fontsource/gentium-book-plus": "^5.3.0",
+    "astro": "^7.4.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.151.1"
+  }
+}

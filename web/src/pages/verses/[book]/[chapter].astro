@@ -1,0 +1,29 @@
+---
+import Base from "../../../layouts/Base.astro";
+import SlideCard from "../../../components/SlideCard.astro";
+import { BOOK_LIST } from "../../../lib/verses.ts";
+import { VERSES, verseLabel, verseUrl } from "../../../lib/data.ts";
+export function getStaticPaths() {
+  return BOOK_LIST.flatMap((b) => b.chapters.map((c) => ({ params: { book: b.slug, chapter: String(c.chapter) }, props: { b, c } })));
+}
+const { b, c } = Astro.props;
+---
+<Base title={`${b.name} ${c.chapter}`} nav="verses"
+  crumbs={[{ label: "Bible Verses", href: "/verses/" }, { label: b.name, href: `/verses/${b.slug}/` }, { label: `Chapter ${c.chapter}` }]}>
+  <h1>{b.name} {c.chapter}</h1>
+  <p class="lead">{c.verses.length} verse{c.verses.length === 1 ? "" : "s"} from this chapter appear on {c.slides} slide{c.slides === 1 ? "" : "s"}.</p>
+  {c.verses.map((v) => {
+    const vn = v.split(".")[2];
+    const xr = (VERSES.xrefs[v] ?? []).slice().sort((a, b2) => b2[1] - a[1]).slice(0, 8);
+    return (
+      <section class="card verse-block" id={`v${vn}`}>
+        <h2 style="margin-top:0">{verseLabel(v)}</h2>
+        {VERSES.kjv[v] && <blockquote>“{VERSES.kjv[v]}” <span class="small muted">(KJV)</span></blockquote>}
+        <div class="grid">{VERSES.verses[v].map((i) => <SlideCard index={i} />)}</div>
+        {xr.length > 0 && (
+          <p class="small" style="margin:14px 0 0"><strong>Related verses also in the lessons:</strong> {xr.map(([o], k) => <>{k > 0 && " · "}<a href={verseUrl(o)}>{verseLabel(o)}</a></>)}</p>
+        )}
+      </section>
+    );
+  })}
+</Base>

@@ -1,0 +1,122 @@
+---
+// "Outline": the whole map of ideas as a list that opens and closes — groups → ideas → their lessons, best slides
+// and connections. Plain HTML (works without JavaScript); the buttons and the finder are small extras.
+import Base from "../../layouts/Base.astro";
+import MapTabs from "../../components/MapTabs.astro";
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
+import { DECKS, SLIDES, TYPE_NAMES, entityById, type Entity } from "../../lib/data.ts";
+
+const groups = JSON.parse(readFileSync(join(process.cwd(), "src/data/groups.json"), "utf8")) as
+  { name: string; icon: string; about: string; color: string; ids: string[] }[];
+const inGroup = new Set(groups.flatMap((g) => g.ids));
+const MIN = 3;   // ideas on fewer slides are left to the search and the explorer
+const pick = (ids: string[]) => ids.map((id) => entityById.get(id)!).filter((e) => e && e.slides.length >= MIN);
+const other = [...entityById.values()].filter((e) => !inGroup.has(e.id) && !["verse", "number"].includes(e.type) && e.slides.length >= MIN)
+  .sort((a, b) => b.slides.length - a.slides.length);
+const all = [...groups.map((g) => ({ ...g, items: pick(g.ids) })),
+  { name: "Other people, places and ideas", icon: "✳️", about: "Everything else that appears on three or more slides.", color: "#4a4a4a", items: other }]
+  .filter((g) => g.items.length);
+const deckTitle = new Map(DECKS.map((d) => [d.slug, d.title]));
+const lessonsOf = (e: Entity) => {
+  const m = new Map<string, number>();
+  for (const i of e.slides) m.set(SLIDES[i].deck, (m.get(SLIDES[i].deck) ?? 0) + 1);
+  return DECKS.filter((d) => m.has(d.slug)).map((d) => [d.slug, deckTitle.get(d.slug)!, m.get(d.slug)!] as const);
+};
+const version = JSON.parse(readFileSync(join(process.cwd(), "src/data/explore-version.json"), "utf8")).hash;
+const type = (e: Entity) => TYPE_NAMES[e.type]?.[0] ?? "Topic";
+const total = all.reduce((t, g) => t + g.items.length, 0);
+---
+<Base title="Outline of ideas" nav="map" crumbs={[{ label: "Map of ideas", href: "/map/" }, { label: "Outline" }]}
+  description="Every group of ideas in the lessons, as a list you can open and close.">
+  <h1>Map of ideas: outline</h1>
+  <MapTabs current="outline" />
+  <p class="lead">All {total} people, places and ideas that appear on three or more slides, in {all.length} groups.
+    <strong>Tap a group</strong> to open it, then <strong>tap a name</strong> to see its lessons, its best slides and what it is connected to.</p>
+  <div class="ol-tools">
+    <label for="ol-find" class="ol-find-label">Find a name in the outline</label>
+    <input id="ol-find" type="search" placeholder="For example: Isaac, blood, ark" autocomplete="off" />
+    <button type="button" class="btn secondary" id="ol-open">Open all groups</button>
+    <button type="button" class="btn secondary" id="ol-close">Close all</button>
+  </div>
+  <p id="ol-count" class="muted" aria-live="polite"></p>
+  <div class="ol" data-src={`/data/explore.json?v=${version}`}>
+    {all.map((g) => (
+      <details class="ol-group" style={`--c:${g.color}`}>
+        <summary>
+          <span class="ol-icon" aria-hidden="true">{g.icon}</span>
+          <span class="ol-gtext"><strong>{g.name}</strong><span class="muted small">{g.about} · {g.items.length} ideas</span></span>
+        </summary>
+        <ul class="ol-items">
+          {g.items.map((e) => (
+            <li data-name={[e.label, ...e.aliases].join(" | ").toLowerCase()} data-id={e.id}>
+              <details class="ol-topic">
+                <summary><span class="ol-name" dir="auto" lang={e.type === "word" ? e.lang : undefined}>{e.label}</span>
+                  <span class="muted small">{type(e)} · {e.slides.length} slides</span></summary>
+                <div class="ol-body">
+                  {e.brief && <p>{e.brief}</p>}
+                  <p><strong>In the lessons:</strong> {lessonsOf(e).map(([slug, title, n], k) => <>{k > 0 && " · "}<a href={`/lessons/${slug}/`}>{title}</a> ({n})</>)}</p>
+                  <div class="ol-more"></div>
+                  <p class="ol-links"><a href={e.url}>Open the page about {e.label} →</a> <a href={`/map/?focus=${encodeURIComponent(e.id)}`}>See it on the map →</a></p>
+                </div>
+              </details>
+            </li>
+          ))}
+        </ul>
+      </details>
+    ))}
+  </div>
+  <script>
+    // best slides and connections are filled in when a name is opened (keeps this long page light)
+    type Node = [string, string, string, number, number, number, [number, number][], number[], string, string];
+    let data: Promise<{ nodes: Node[]; slides: [number, number, string][]; decks: [string, string][] }> | null = null;
+    let byId: Map<string, number> | null = null;
+    const escH = (t: string) => t.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]!);
+    document.querySelector(".ol")!.addEventListener("toggle", async (ev) => {
+      const d = ev.target as HTMLDetailsElement;
+      if (!d.classList.contains("ol-topic") || !d.open || d.dataset.filled) return;
+      d.dataset.filled = "1";
+      const box = d.querySelector(".ol-more")!;
+      box.innerHTML = `<p class="muted">Loading…</p>`;
+      try {
+        if (!data) data = fetch((document.querySelector(".ol") as HTMLElement).dataset.src!).then((r) => r.json());
+        const D = await data;
+        if (!byId) byId = new Map(D.nodes.map((n, i) => [n[9], i]));
+        const n = D.nodes[byId.get((d.closest("li") as HTMLElement).dataset.id!) ?? -1];
+        if (!n) { box.innerHTML = ""; return; }
+        const slides = n[7].slice(0, 4).map((si) => { const [dk, num, title] = D.slides[si]; const slug = D.decks[dk][0];
+          return `<li><a href="/lessons/${slug}/${num}/">${escH(title)}</a> <span class="muted small">— ${escH(D.decks[dk][1])}, slide ${num}</span></li>`; }).join("");
+        const nb = n[6].slice(0, 6).map(([o, c]) => `<a href="${D.nodes[o][2]}">${escH(D.nodes[o][0])}</a> <span class="muted small">(${c})</span>`).join(" · ");
+        box.innerHTML = `<p class="ol-label"><strong>Best slides:</strong></p><ul class="ol-slides">${slides}</ul>${nb ? `<p><strong>Connected to:</strong> ${nb}</p>` : ""}`;
+      } catch { box.innerHTML = ""; }
+    }, true);
+    const groups = [...document.querySelectorAll<HTMLDetailsElement>(".ol-group")];
+    const items = [...document.querySelectorAll<HTMLLIElement>(".ol-items > li")];
+    const count = document.getElementById("ol-count")!;
+    document.getElementById("ol-open")!.addEventListener("click", () => groups.forEach((g) => (g.open = true)));
+    document.getElementById("ol-close")!.addEventListener("click", () => {
+      groups.forEach((g) => (g.open = false));
+      document.querySelectorAll<HTMLDetailsElement>(".ol-topic").forEach((t) => (t.open = false));
+    });
+    const find = document.getElementById("ol-find") as HTMLInputElement;
+    let timer = 0;
+    find.addEventListener("input", () => {
+      clearTimeout(timer);
+      timer = window.setTimeout(() => {
+        const q = find.value.trim().toLowerCase();
+        let hits = 0;
+        for (const li of items) {
+          const show = !q || (li.dataset.name ?? "").includes(q);
+          li.hidden = !show;
+          if (show && q) hits++;
+        }
+        for (const g of groups) {
+          const any = g.querySelector(".ol-items > li:not([hidden])");
+          g.hidden = !!q && !any;
+          if (q) g.open = !!any;
+        }
+        count.textContent = q ? (hits ? `${hits} match${hits === 1 ? "" : "es"} for “${find.value.trim()}” — the groups that contain them are open.` : `Nothing in the outline matches “${find.value.trim()}”. Try the search box at the top of the page.`) : "";
+      }, 150);
+    });
+  </script>
+</Base>

@@ -1,0 +1,50 @@
+# One entry per PDF. `order` controls the lesson list on the site.
+# Titles follow the PDFs themselves (title slides / file names).
+- slug: abel
+  file: Abel-Slides.pdf
+  title: Abel
+  order: 1
+- slug: akeda-1
+  file: Akeda-I-Binding-of-Isaac.pdf
+  title: "The Akedah I: The Binding of Isaac"
+  order: 2
+- slug: akeda-2
+  file: Akeda-II-Briding-of-Isaac-1.pdf
+  title: "The Akedah II: The Briding of Isaac"
+  order: 3
+- slug: elijah-elisha
+  file: Elijah-Elisha-Part-1-2.pdf
+  title: "Elijah & Elisha, Parts 1–2"
+  order: 4
+- slug: fall-of-man
+  file: Fall-of-Man-Genesis-3.pdf
+  title: "Fall of Man: Genesis 3"
+  order: 5
+- slug: genesis-1-1-wisdom
+  file: Genesis-1.1-Wisdom-Understanding.pdf
+  title: "Genesis 1:1: Wisdom & Understanding"
+  order: 6
+- slug: genesis-1-1-part-1
+  file: Genesis-1.1-p1.pdf
+  title: "Genesis 1:1, Part 1: In the Beginning"
+  order: 7
+- slug: genesis-1-1-part-2
+  file: Genesis-1.1-p2.pdf
+  title: "Genesis 1:1, Part 2"
+  order: 8
+- slug: gods-garden-in-eden
+  file: Gods-Garden-in-Eden.pdf
+  title: "God's Garden in Eden"
+  order: 9
+- slug: red-heifer
+  file: Red-Heifer-PDF.pdf
+  title: "The Red Heifer"
+  order: 10
+- slug: noah-part-1
+  file: What-you-should-know-about-Noah-Part-I.pdf
+  title: "What You Should Know About Noah, Part 1"
+  order: 11
+- slug: noah-part-2
+  file: What-you-should-know-about-Noah-Part-2.pdf
+  title: "What You Should Know About Noah, Part 2"
+  order: 12

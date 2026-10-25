@@ -1,0 +1,17 @@
+---
+import Base from "../../../layouts/Base.astro";
+import { BOOK_LIST } from "../../../lib/verses.ts";
+export function getStaticPaths() {
+  return BOOK_LIST.map((b) => ({ params: { book: b.slug }, props: { b } }));
+}
+const { b } = Astro.props;
+---
+<Base title={b.name} nav="verses" crumbs={[{ label: "Bible Verses", href: "/verses/" }, { label: b.name }]}>
+  <h1>{b.name}</h1>
+  <p class="lead">Chapters of {b.name} used in the lessons.</p>
+  <ul class="list">
+    {b.chapters.map((c) => (
+      <li><a class="row" href={`/verses/${b.slug}/${c.chapter}/`}><strong>{b.name} {c.chapter}</strong><span class="muted">{c.verses.length} verse{c.verses.length === 1 ? "" : "s"} · {c.slides} slide{c.slides === 1 ? "" : "s"}</span></a></li>
+    ))}
+  </ul>
+</Base>

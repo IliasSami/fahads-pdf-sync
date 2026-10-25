@@ -1,0 +1,60 @@
+---
+import Base from "../layouts/Base.astro";
+---
+<Base title="How to use this site" nav="help" crumbs={[{ label: "Help" }]}>
+  <h1>How to use this site</h1>
+  <p class="lead">This library holds every slide from Dutch Uncle John's lessons, exactly as he made them. Here is how to find what you need.</p>
+
+  <section class="card" style="padding:20px 22px;margin:18px 0">
+    <h2 style="margin-top:0">1. Search</h2>
+    <p>Type in the big box at the top of every page, then press <strong>Search</strong> (or the Enter key). You can type:</p>
+    <ul>
+      <li><strong>A Bible verse</strong> — <em>Genesis 22:13</em>, <em>gen 22</em>, or <em>John 3:16</em>.</li>
+      <li><strong>A name or an idea</strong> — <em>Isaac</em>, <em>red heifer</em>, <em>blood</em>, <em>the flood</em>.</li>
+      <li><strong>A Hebrew or Greek word</strong> — in English letters (<em>elohim</em>, <em>chava</em>) or in Hebrew or Greek letters (אור, λόγος).</li>
+      <li><strong>A picture</strong> — <em>Doré engraving</em>, <em>map</em>, <em>Jerusalem photo</em>. Then press the <strong>Pictures</strong> button above the results.</li>
+      <li><strong>A name the way you know it</strong> — names from other Bibles, languages and traditions all work: <a href="/search/?q=Elias">Elias</a> or
+        <a href="/search/?q=Ilyas">Ilyas</a> finds Elijah, <a href="/search/?q=Moshe">Moshe</a> or <a href="/search/?q=Mo%C3%AFse">Moïse</a> finds Moses,
+        <a href="/search/?q=Ibrahim">Ibrahim</a> finds Abraham, <a href="/search/?q=Pesach">Pesach</a> finds Passover. Hebrew, Greek, Arabic, Spanish,
+        Portuguese, French, German and Russian names are understood (<a href="/search/?q=%D8%A5%D9%84%D9%8A%D8%A7%D8%B3">إلياس</a>, <span lang="he">אליהו</span>).</li>
+      <li><strong>A Bible verse in another language</strong> — <em>Génesis 22:13</em>, <em>Juan 3:16</em>, <em>1. Mose 22</em>, or <em>Genesis chapter 22 verse 13</em>.</li>
+    </ul>
+    <p>Spelling does not need to be perfect. As you type, suggestions appear under the box — tap one to go straight there.</p>
+    <p>When your search is about one person, place or idea, a box at the top of the results tells you about it: its other names,
+      the lessons it is in, and what it is often studied with.</p>
+  </section>
+
+  <section class="card" style="padding:20px 22px;margin:18px 0">
+    <h2 style="margin-top:0">2. Look at a slide</h2>
+    <ul>
+      <li>The slide is shown exactly as in the original lesson. The words you searched for are marked in <mark>yellow</mark> — also in Hebrew and Greek,
+        and also when you searched with another name (search <em>Elias</em> and “Elijah” is marked). A line above the slide tells you how many places are
+        marked. If the words are only in a picture or fancy lettering, they are marked in the text of the slide instead; if the slide was found because
+        it is about your topic, the line says so.</li>
+      <li>Press <strong>Zoom in</strong> (or tap the slide) to see it bigger. Use <strong>＋</strong> and <strong>－</strong>, or pinch with two fingers. Press <strong>Close</strong> when done.</li>
+      <li>Press <strong>Next slide ▶</strong> or <strong>◀ Previous slide</strong> to move through the lesson. On a keyboard, the arrow keys work too.</li>
+      <li><strong>Read as text</strong> shows the words of the slide in large print. <strong>Print</strong> prints the slide. <strong>Email this slide</strong> sends a link to a friend.</li>
+    </ul>
+  </section>
+
+  <section class="card" style="padding:20px 22px;margin:18px 0">
+    <h2 style="margin-top:0">3. Follow the connections</h2>
+    <p>Under each slide, <strong>On this slide</strong> lists its Bible verses, Hebrew and Greek words, people and topics. Tap any of them to see every other slide about it. <strong>Connected slides</strong> shows slides in other lessons that teach the same thing, and tells you why they are connected.</p>
+    <p>The <a href="/map/">Map of Ideas</a> shows how everything fits together, in three ways:</p>
+    <ul>
+      <li><a href="/map/"><strong>Explore step by step</strong></a> — tap a group, then any name, and a new column opens with what it is connected to. Tap a name again to close it. The line at the top shows where you are; tap any part of it to go back.</li>
+      <li><a href="/map/outline/"><strong>Outline</strong></a> — every group and idea in one list that opens and closes, with a box to find a name.</li>
+      <li><a href="/map/story/"><strong>Story of the lessons</strong></a> — the lessons in Bible order, the ideas carried from one to the next, and coloured “train lines” showing where each big idea appears.</li>
+    </ul>
+  </section>
+
+  <section class="card" style="padding:20px 22px;margin:18px 0">
+    <h2 style="margin-top:0">4. Make the words bigger</h2>
+    <p>Use the three <strong>A</strong> buttons at the top of the page. The biggest A makes all the text larger. The site remembers your choice.</p>
+  </section>
+
+  <section class="card" style="padding:20px 22px;margin:18px 0">
+    <h2 style="margin-top:0">Lost?</h2>
+    <p>Press <a href="/">Home</a> at the top of any page to start again. Your place is never lost — the browser's Back button always works.</p>
+  </section>
+</Base>

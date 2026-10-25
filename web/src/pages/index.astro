@@ -1,0 +1,81 @@
+---
+import Base from "../layouts/Base.astro";
+import { DECKS, SLIDES, ENTITIES, PICTURES, VERSES, slideImg } from "../lib/data.ts";
+const count = (t: string[]) => ENTITIES.filter((e) => t.includes(e.type)).length;
+const tiles = [
+  ["/lessons/", "📚", "Lessons", `${DECKS.length} lessons · ${SLIDES.length.toLocaleString()} slides`, "Read the slides in order, lesson by lesson."],
+  ["/verses/", "📖", "Bible Verses", `${Object.keys(VERSES.verses).length.toLocaleString()} verses`, "Pick a book and chapter to see every slide about it."],
+  ["/words/", "א", "Hebrew & Greek Words", `${count(["word"])} words`, "What a word means, and where it is taught."],
+  ["/topics/", "👥", "People & Topics", `${count(["person", "place", "event", "thing", "theme", "group", "artist"]).toLocaleString()} entries`, "People, places, events and big ideas."],
+  ["/letters/", "🔢", "Letters & Numbers", `${count(["letter"])} letters · ${count(["number"])} numbers`, "The Hebrew alphabet, its pictures and gematria."],
+  ["/pictures/", "🖼", "Pictures", `${PICTURES.length} pictures`, "Paintings, photos, maps and charts from the lessons."],
+  ["/map/", "🧭", "Map of Ideas", "How it all connects", "Explore the connections step by step, as an outline, or as the story of the lessons."],
+];
+const examples = ["Genesis 22", "red heifer", "alef tav", "Noah's raven", "what does Elohim mean", "Jesus 888", "Doré engraving", "garments of light"];
+const firstSlide = (slug: string) => SLIDES.find((s) => s.deck === slug && s.n === 1)!;
+---
+<Base title="Bible Study Slide Library" nav="home">
+  <div class="notice welcome" id="welcome" hidden>
+    <p style="margin:0 0 10px"><strong>Welcome!</strong> New to this website? A short tour will show you how it works. It takes about one minute.</p>
+    <p style="margin:0" class="toolbar">
+      <a class="btn" href="/search/?q=red%20heifer&tour=1">▶ Start the tour</a>
+      <button class="btn secondary" type="button" id="welcome-close">No thanks</button>
+    </p>
+  </div>
+
+  <h1 style="margin-top:8px">Find anything in the lessons</h1>
+  <p class="lead">Every slide from Dutch Uncle John's {DECKS.length} lessons, shown exactly as he made them, and searchable.</p>
+
+  <section class="card steps" aria-labelledby="how">
+    <h2 id="how">How it works, in 3 easy steps</h2>
+    <ol>
+      <li>
+        <span class="num" aria-hidden="true">1</span>
+        <div><strong>Type what you are looking for</strong> in the white box at the top of the page: a word, a name, or a Bible verse. Then press the blue <strong>Search</strong> button.</div>
+      </li>
+      <li>
+        <span class="num" aria-hidden="true">2</span>
+        <div><strong>Tap a result to open that slide.</strong> The words you searched for are marked in <mark>yellow</mark> on the slide.</div>
+      </li>
+      <li>
+        <span class="num" aria-hidden="true">3</span>
+        <div><strong>Keep exploring.</strong> Under every slide, <em>Connected slides</em> shows related teaching from the other lessons.</div>
+      </li>
+    </ol>
+    <p class="toolbar" style="margin:6px 0 0">
+      <a class="btn" href="/search/?q=red%20heifer&tour=1">▶ Show me how (1-minute tour)</a>
+      <a class="btn secondary" href="/help/">Read the help page</a>
+    </p>
+  </section>
+
+  <h2>Try one of these searches</h2>
+  <ul class="chips big-chips" aria-label="Example searches">
+    {examples.map((x) => <li><a class="chip" href={`/search/?q=${encodeURIComponent(x)}`}>🔍 {x}</a></li>)}
+  </ul>
+
+  <h2>Or browse</h2>
+  <div class="grid">
+    {tiles.map(([href, icon, title, n, text]) => (
+      <a class="card tile" href={href}><span class="tile-icon" aria-hidden="true">{icon}</span><strong>{title}</strong><span class="count">{n}</span><span>{text}</span></a>
+    ))}
+  </div>
+
+  <h2>The lessons</h2>
+  <div class="grid wide">
+    {DECKS.map((d) => (
+      <a class="card slide-card" href={`/lessons/${d.slug}/`}>
+        <img src={slideImg(firstSlide(d.slug), 960)} width="960" height="540" loading="lazy" alt="" />
+        <span class="body"><span class="title">{d.title}</span><span class="where">{d.count} slides</span></span>
+      </a>
+    ))}
+  </div>
+  <script>
+    const w = document.getElementById("welcome")!;
+    let seen = false;
+    try { seen = localStorage.getItem("welcomeSeen") === "1"; } catch { /* private mode */ }
+    if (!seen) w.hidden = false;
+    const done = () => { w.hidden = true; try { localStorage.setItem("welcomeSeen", "1"); } catch { /* ignore */ } };
+    document.getElementById("welcome-close")!.addEventListener("click", done);
+    w.querySelector("a")!.addEventListener("click", done);
+  </script>
+</Base>

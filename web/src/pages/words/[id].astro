@@ -1,0 +1,9 @@
+---
+import EntityPage from "../../components/EntityPage.astro";
+import { ENTITIES } from "../../lib/data.ts";
+export function getStaticPaths() {
+  return ENTITIES.filter((e) => e.url.startsWith("/words/")).map((e) => ({ params: { id: e.url.split("/")[2] }, props: { e } }));
+}
+const { e } = Astro.props;
+---
+<EntityPage e={e} section={{ label: "Hebrew & Greek Words", href: "/words/" }} />

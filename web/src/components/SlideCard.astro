@@ -1,0 +1,16 @@
+---
+import { SLIDES, deckBySlug, slideImg, slideTitle, slideUrl } from "../lib/data.ts";
+interface Props { index: number; why?: string; showDeck?: boolean; hash?: string }
+const { index, why, showDeck = true, hash = "" } = Astro.props;
+const s = SLIDES[index];
+const deck = deckBySlug.get(s.deck)!;
+---
+<a class="card slide-card" href={slideUrl(s) + hash}>
+  <img src={slideImg(s, 320)} srcset={`${slideImg(s, 320)} 320w, ${slideImg(s, 960)} 960w`} sizes="(max-width: 600px) 92vw, 300px"
+    width="320" height="180" loading="lazy" decoding="async" alt="" />
+  <span class="body">
+    <span class="where">{showDeck ? `${deck.title} · ` : ""}Slide {s.n}</span>
+    <span class="title">{slideTitle(s)}</span>
+    {why && <span class="why">{why}</span>}
+  </span>
+</a>

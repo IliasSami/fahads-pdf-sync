@@ -1,0 +1,39 @@
+---
+import Base from "../../layouts/Base.astro";
+import { ENTITIES } from "../../lib/data.ts";
+const ORDER = ["alef", "bet", "gimel", "dalet", "he", "vav", "zayin", "chet", "tet", "yod", "kaf", "lamed", "mem", "nun", "samekh", "ayin", "pe", "tsadi", "qof", "resh", "shin", "tav"];
+const VAL = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 200, 300, 400];
+const CH = "אבגדהוזחטיכלמנסעפצקרשת";
+const he = ORDER.map((name, i) => ({ name, value: VAL[i], char: CH[i], e: ENTITIES.find((x) => x.id === `letter:${name}`) }));
+const el = ENTITIES.filter((e) => e.type === "letter" && e.id.startsWith("letter:el-"));
+const numbers = ENTITIES.filter((e) => e.type === "number").sort((a, b) => +a.label - +b.label);
+---
+<Base title="Letters & Numbers" nav="topics" crumbs={[{ label: "Letters & Numbers" }]}>
+  <h1>Letters &amp; Numbers</h1>
+  <p class="lead">The Hebrew alphabet as taught in the lessons, with each letter's number value (gematria) and the meanings shown on the slides.</p>
+  <table class="letter-table">
+    <thead><tr><th scope="col">Letter</th><th scope="col">Name</th><th scope="col">Value</th><th scope="col">Meanings in the lessons</th><th scope="col">Slides</th></tr></thead>
+    <tbody>
+      {he.map((l) => (
+        <tr>
+          <td class="big" lang="he">{l.char}</td>
+          <td>{l.e ? <a href={l.e.url}><strong>{l.name}</strong></a> : <strong>{l.name}</strong>}</td>
+          <td>{l.value}</td>
+          <td>{l.e ? l.e.gloss.slice(0, 4).join("; ") : <span class="muted">—</span>}</td>
+          <td>{l.e ? l.e.slides.length : 0}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+  {el.length > 0 && (
+    <section class="section">
+      <h2>Greek letters</h2>
+      <ul class="chips">{el.map((e) => <li><a class="chip" href={e.url}>{e.label}<span class="n">{e.slides.length}</span></a></li>)}</ul>
+    </section>
+  )}
+  <section class="section" id="numbers">
+    <h2>Numbers</h2>
+    <p>Numbers the lessons point out, such as gematria totals.</p>
+    <ul class="chips">{numbers.map((e) => <li><a class="chip" href={e.url}>{e.label}<span class="k">{e.gloss[0] ?? ""}</span><span class="n">{e.slides.length}</span></a></li>)}</ul>
+  </section>
+</Base>

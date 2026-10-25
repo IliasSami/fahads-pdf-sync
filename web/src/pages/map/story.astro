@@ -1,0 +1,136 @@
+---
+// "Story of the lessons": the lessons in the order their stories come in the Bible (worked out from the chapter
+// each lesson quotes most), what each one is about, the ideas carried from one lesson into the next (idea flow),
+// and a "metro map" of the big threads running through all of them. Everything is computed from the knowledge graph.
+import Base from "../../layouts/Base.astro";
+import MapTabs from "../../components/MapTabs.astro";
+import { DECKS, ENTITIES, SLIDES, TYPE_NAMES, type Entity } from "../../lib/data.ts";
+import { BOOK_BY_OSIS, BOOKS } from "../../lib/search/refs.ts";
+import { slug as slugify } from "../../lib/search/engine.ts";
+
+const N = SLIDES.length;
+const bookIndex = new Map(BOOKS.map((b, i) => [b.osis, i]));
+// ---- each lesson: its main chapters and where it sits in the Bible story
+const lessons = DECKS.map((d) => {
+  const chapters = new Map<string, number>();
+  const ents = new Map<number, number>();
+  let size = 0;
+  SLIDES.forEach((s) => {
+    if (s.deck !== d.slug) return;
+    size++;
+    for (const r of s.refs) for (const o of r.osis) { const [b, c] = o.split("."); chapters.set(`${b}.${c}`, (chapters.get(`${b}.${c}`) ?? 0) + 1); }
+    for (const [ei] of s.entities) ents.set(ei, (ents.get(ei) ?? 0) + 1);
+  });
+  const main = [...chapters.entries()].sort((a, b) => b[1] - a[1]).slice(0, 3).map(([k]) => k);
+  const [mb, mc] = (main[0] ?? "Gen.1").split(".");
+  return { d, size, main, ents, pos: (bookIndex.get(mb) ?? 0) * 1000 + +mc };
+}).sort((a, b) => a.pos - b.pos || a.d.slug.localeCompare(b.d.slug));
+const nLessons = lessons.length;
+const inLessons = new Map<number, number>();
+for (const l of lessons) for (const ei of l.ents.keys()) inLessons.set(ei, (inLessons.get(ei) ?? 0) + 1);
+const everywhere = [...inLessons.entries()].filter(([ei, n]) => n >= nLessons - 1 && !["verse", "number", "letter", "word"].includes(ENTITIES[ei].type))
+  .sort((a, b) => ENTITIES[b[0]].slides.length - ENTITIES[a[0]].slides.length).slice(0, 8).map(([ei]) => ENTITIES[ei]);
+const common = new Set(everywhere.map((e) => e.id));
+
+// what a lesson is distinctively about: slides in this lesson × how much more often than in the whole library
+const top = (l: (typeof lessons)[number], types: string[], k: number) => [...l.ents.entries()]
+  .filter(([ei, c]) => types.includes(ENTITIES[ei].type) && c >= 2 && !common.has(ENTITIES[ei].id))
+  .map(([ei, c]) => [ENTITIES[ei], c * Math.log(1 + (c / l.size) / (ENTITIES[ei].slides.length / N))] as [Entity, number])
+  .sort((a, b) => b[1] - a[1]).slice(0, k).map(([e]) => e);
+const PEOPLE = ["person", "group"], IDEAS = ["theme", "thing", "event", "place"];
+// ideas carried from one lesson into the next
+const carried = (a: (typeof lessons)[number], b: (typeof lessons)[number]) => [...a.ents.entries()]
+  .filter(([ei, c]) => b.ents.has(ei) && !["verse", "number", "letter", "word"].includes(ENTITIES[ei].type) && !common.has(ENTITIES[ei].id) && c >= 2 && b.ents.get(ei)! >= 2)
+  .map(([ei, c]) => [ENTITIES[ei], Math.min(c, b.ents.get(ei)!) * Math.log(1 + N / ENTITIES[ei].slides.length)] as [Entity, number])
+  .sort((x, y) => y[1] - x[1]).slice(0, 6).map(([e]) => e);
+const chapterLink = (k: string) => {
+  const [b, c] = k.split(".");
+  const book = BOOK_BY_OSIS.get(b)!;
+  return { label: `${book.name} ${c}`, url: `/verses/${slugify(book.name)}/${c}/` };
+};
+
+// ---- metro map: the threads that run through the most lessons
+const SHORT: Record<string, string> = { "genesis-1-1-part-1": "In the Beginning", "genesis-1-1-part-2": "Genesis 1:1 (2)",
+  "genesis-1-1-wisdom": "Wisdom", "gods-garden-in-eden": "Garden of Eden", "fall-of-man": "Fall of Man", abel: "Abel",
+  "noah-part-1": "Noah 1", "noah-part-2": "Noah 2", "akeda-1": "Akedah 1", "akeda-2": "Akedah 2", "red-heifer": "Red Heifer",
+  "elijah-elisha": "Elijah & Elisha" };
+const short = (l: (typeof lessons)[number]) => SHORT[l.d.slug] ?? l.d.title;
+// (ideas found in nearly every lesson are named above the cards; the threads are the ones that come and go)
+const threads = [...inLessons.entries()]
+  .filter(([ei, n]) => n >= 3 && n <= nLessons - 2 && !common.has(ENTITIES[ei].id) && ["person", "theme", "thing", "event", "place", "group"].includes(ENTITIES[ei].type))
+  .sort((a, b) => ENTITIES[b[0]].slides.length * Math.sqrt(b[1]) - ENTITIES[a[0]].slides.length * Math.sqrt(a[1])).slice(0, 16)
+  .map(([ei]) => ENTITIES[ei]);
+const LINE = ["#1d3a6e", "#8a1c2b", "#1e6b3a", "#7a4b00", "#5b2a86", "#0f6b78", "#9c3d00", "#3b5b00"];
+const type = (e: Entity) => TYPE_NAMES[e.type]?.[0] ?? "Topic";
+---
+<Base title="Story of the lessons" nav="map" crumbs={[{ label: "Map of ideas", href: "/map/" }, { label: "Story of the lessons" }]}
+  description="The lessons in Bible order and how the ideas flow from one to the next.">
+  <h1>Map of ideas: the story of the lessons</h1>
+  <MapTabs current="story" />
+  <p class="lead">The {nLessons} lessons in the order their stories come in the Bible, from Creation to Elijah. Each card shows what the
+    lesson is about. The arrows between the cards show <strong>which ideas are carried into the next lesson</strong>.</p>
+  {everywhere.length > 0 && (
+    <p class="notice">Found in almost every lesson: {everywhere.map((e, k) => <>{k > 0 && ", "}<a href={e.url}>{e.label}</a></>)}.</p>
+  )}
+
+  <ol class="flow">
+    {lessons.map((l, i) => {
+      const people = top(l, PEOPLE, 5), ideas = top(l, IDEAS, 6), words = top(l, ["word"], 4);
+      const next = lessons[i + 1];
+      const carry = next ? carried(l, next) : [];
+      return (
+        <li class="flow-step">
+          <article class="flow-card card">
+            <p class="flow-num" aria-hidden="true">{i + 1}</p>
+            <div>
+              <h2><a href={`/lessons/${l.d.slug}/`}>{l.d.title}</a></h2>
+              <p class="muted">{l.size} slides · Main Bible passage{l.main.length > 1 ? "s" : ""}: {l.main.map((k, j) => { const c = chapterLink(k); return <>{j > 0 && ", "}<a href={c.url}>{c.label}</a></>; })}</p>
+              {people.length > 0 && <p><strong>People:</strong> {people.map((e, k) => <>{k > 0 && " · "}<a href={e.url}>{e.label}</a></>)}</p>}
+              {ideas.length > 0 && <p><strong>Ideas:</strong> {ideas.map((e, k) => <>{k > 0 && " · "}<a href={e.url}>{e.label}</a></>)}</p>}
+              {words.length > 0 && <p><strong>Hebrew &amp; Greek words:</strong> {words.map((e, k) => <>{k > 0 && " · "}<bdi><a href={e.url} lang={e.lang}>{e.label}</a></bdi></>)}</p>}
+            </div>
+          </article>
+          {next && (
+            <div class="flow-arrow">
+              <span class="flow-arrow-head" aria-hidden="true">⬇</span>
+              <p>{carry.length ? <>Carried into <em>{next.d.title}</em>: {carry.map((e, k) => <>{k > 0 && " · "}<a href={e.url}>{e.label}</a></>)}</> : <>Next: <em>{next.d.title}</em></>}</p>
+            </div>
+          )}
+        </li>
+      );
+    })}
+  </ol>
+
+  <h2 id="threads">Threads through the lessons</h2>
+  <p>Like lines on a train map, each coloured line is one person or idea. A dot is a lesson where it appears; a bigger dot means more slides.
+    <strong>Tap a dot</strong> to see those slides in that lesson.</p>
+  <div class="metro-wrap" role="region" aria-labelledby="threads" tabindex="0">
+    <table class="metro">
+      <thead>
+        <tr><th scope="col">Thread</th>{lessons.map((l, i) => <th scope="col"><a href={`/lessons/${l.d.slug}/`} title={l.d.title}><span class="metro-n">{i + 1}</span> {short(l)}</a></th>)}</tr>
+      </thead>
+      <tbody>
+        {threads.map((e, ti) => {
+          const counts = lessons.map((l) => l.ents.get(ENTITIES.indexOf(e)) ?? 0);
+          const first = counts.findIndex((c) => c > 0), last = counts.length - 1 - [...counts].reverse().findIndex((c) => c > 0);
+          const max = Math.max(...counts);
+          return (
+            <tr style={`--tl:${LINE[ti % LINE.length]}`}>
+              <th scope="row"><a href={e.url}>{e.label}</a><span class="muted small"> {type(e)}</span></th>
+              {counts.map((c, li) => (
+                <td class={`${li > first && li <= last ? "in" : ""} ${li >= first && li < last ? "out" : ""}`}>
+                  {c > 0 ? (
+                    <a class="metro-dot" href={`/search/?q=${encodeURIComponent(e.label)}&lesson=${lessons[li].d.slug}`}
+                      style={`--s:${(14 + 18 * Math.sqrt(c / max)).toFixed(0)}px`} title={`${e.label} in ${lessons[li].d.title}: ${c} slide${c === 1 ? "" : "s"}`}>
+                      <span class="visually-hidden">{e.label} in {lessons[li].d.title}: {c} slides</span></a>
+                  ) : <span class="visually-hidden">not in this lesson</span>}
+                </td>
+              ))}
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+  <p class="muted small">On a small screen, slide the table sideways to see all the lessons.</p>
+</Base>

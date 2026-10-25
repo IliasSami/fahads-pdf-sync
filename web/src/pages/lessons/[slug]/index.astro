@@ -1,0 +1,32 @@
+---
+import Base from "../../../layouts/Base.astro";
+import { DECKS, deckSlides, slideImg, slideTitle, slideUrl, fmtBytes } from "../../../lib/data.ts";
+export function getStaticPaths() {
+  return DECKS.map((d) => ({ params: { slug: d.slug }, props: { d } }));
+}
+const { d } = Astro.props;
+const slides = deckSlides(d.slug);
+---
+<Base title={d.title} nav="lessons" crumbs={[{ label: "Lessons", href: "/lessons/" }, { label: d.title }]}>
+  <h1>{d.title}</h1>
+  <p class="lead">{d.count} slides.</p>
+  <div class="toolbar">
+    <a class="btn" href={`/lessons/${d.slug}/1/`}>▶ Start at slide 1</a>
+    <a class="btn secondary" href={d.pdf} target="_blank" rel="noopener">⬇ Original PDF ({fmtBytes(d.pdfBytes)})</a>
+  </div>
+  <form class="search-form no-print" action="/search/" method="get" style="margin:12px 0 24px" role="search">
+    <input type="hidden" name="lesson" value={d.slug} />
+    <label class="visually-hidden" for="lq">Search in this lesson</label>
+    <input id="lq" name="q" type="search" placeholder={`Search only in “${d.title}”…`} />
+    <button class="btn secondary" type="submit">Search this lesson</button>
+  </form>
+  <div class="grid">
+    {slides.map(([s]) => (
+      <a class="card slide-card" href={slideUrl(s)}>
+        <img src={slideImg(s, 320)} srcset={`${slideImg(s, 320)} 320w, ${slideImg(s, 960)} 960w`} sizes="(max-width: 600px) 92vw, 300px"
+          width="320" height="180" loading="lazy" decoding="async" alt="" />
+        <span class="body"><span class="where">Slide {s.n}</span><span class="title">{slideTitle(s)}</span></span>
+      </a>
+    ))}
+  </div>
+</Base>

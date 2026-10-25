@@ -1,0 +1,19 @@
+---
+import Base from "../../layouts/Base.astro";
+import { BOOK_LIST } from "../../lib/verses.ts";
+const sections = (["Old", "New"] as const).map((t) => [t, BOOK_LIST.filter((b) => b.testament === t)] as const);
+---
+<Base title="Bible Verses" nav="verses" crumbs={[{ label: "Bible Verses" }]}>
+  <h1>Bible Verses</h1>
+  <p class="lead">Every book of the Bible that the lessons quote or mention, in Bible order. Choose a book, then a chapter.</p>
+  {sections.map(([t, books]) => books.length > 0 && (
+    <section class="section">
+      <h2>{t} Testament</h2>
+      <ul class="list">
+        {books.map((b) => (
+          <li><a class="row" href={`/verses/${b.slug}/`}><strong>{b.name}</strong><span class="muted">{b.chapters.length} chapter{b.chapters.length === 1 ? "" : "s"} · {b.slides} slide{b.slides === 1 ? "" : "s"}</span></a></li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</Base>

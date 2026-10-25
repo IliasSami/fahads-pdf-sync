@@ -1,0 +1,100 @@
+---
+import "../styles/global.css";
+import { SEARCH_VERSION } from "../lib/data.ts";
+
+interface Props {
+  title: string;
+  description?: string;
+  nav?: "home" | "lessons" | "verses" | "words" | "topics" | "map" | "pictures" | "help" | "search";
+  crumbs?: { label: string; href?: string }[];
+  query?: string;
+}
+const { title, description = "Searchable library of Dutch Uncle John's Bible-study slides.", nav, crumbs = [], query = "" } = Astro.props;
+const SITE = "Bible Study Slide Library";
+const links = [
+  ["home", "/", "Home"],
+  ["lessons", "/lessons/", "Lessons"],
+  ["verses", "/verses/", "Bible Verses"],
+  ["words", "/words/", "Hebrew & Greek Words"],
+  ["topics", "/topics/", "People & Topics"],
+  ["map", "/map/", "Map of Ideas"],
+  ["pictures", "/pictures/", "Pictures"],
+  ["help", "/help/", "Help"],
+] as const;
+---
+<!doctype html>
+<html lang="en" data-search-index={`/data/search.json?v=${SEARCH_VERSION}`}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow, noarchive, noimageindex, nosnippet" />
+    <meta name="googlebot" content="noindex, nofollow" />
+    <title>{title === SITE ? SITE : `${title} — ${SITE}`}</title>
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#1d3a6e" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <script is:inline>
+      try { const s = localStorage.getItem("textSize"); if (s) document.documentElement.dataset.size = s; } catch {}
+    </script>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to main content</a>
+    <header class="site-header">
+      <div class="wrap bar">
+        <a class="brand" href="/">
+          <svg width="40" height="40" viewBox="0 0 40 40" aria-hidden="true"><rect x="3" y="6" width="34" height="28" rx="4" fill="#fff"/><path d="M20 9v22M9 12h8M9 16h8M9 20h8M23 12h8M23 16h8M23 20h8" stroke="#1d3a6e" stroke-width="2.4" stroke-linecap="round"/></svg>
+          <span>{SITE}<small>Dutch Uncle John's lessons — every slide, searchable</small></span>
+        </a>
+        <div class="textsize" role="group" aria-label="Text size">
+          <span>Text size</span>
+          <button type="button" data-size="" aria-label="Normal text size">A</button>
+          <button type="button" data-size="large" aria-label="Large text size">A</button>
+          <button type="button" data-size="larger" aria-label="Largest text size">A</button>
+        </div>
+        <button class="menu-btn" type="button" aria-expanded="false" aria-controls="site-nav">
+          <svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true"><path d="M3 5h16M3 11h16M3 17h16" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/></svg>
+          Menu
+        </button>
+      </div>
+      <nav class="site-nav" id="site-nav" aria-label="Main">
+        <ul class="wrap">
+          {links.map(([key, href, label]) => <li><a href={href} aria-current={nav === key ? "page" : undefined}>{label}</a></li>)}
+        </ul>
+      </nav>
+    </header>
+    <div class="searchbar">
+      <div class="wrap">
+        <form class="search-form" action="/search/" method="get" role="search" autocomplete="off">
+          <label class="visually-hidden" for="q">Search all slides</label>
+          <input id="q" name="q" type="search" value={query} placeholder="Search: a word, a name, a Bible verse…" enterkeyhint="search"
+            aria-autocomplete="list" aria-controls="suggest" aria-expanded="false" />
+          <button class="btn" type="submit">
+            <svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="7" fill="none" stroke="#fff" stroke-width="2.8"/><path d="M15.5 15.5 21 21" stroke="#fff" stroke-width="2.8" stroke-linecap="round"/></svg>
+            Search
+          </button>
+          <ul class="suggest" id="suggest" role="listbox" hidden></ul>
+        </form>
+      </div>
+    </div>
+    <main id="main" class="wrap">
+      {crumbs.length > 0 && (
+        <nav class="crumbs" aria-label="You are here">
+          <ol>
+            <li><a href="/">Home</a></li>
+            {crumbs.map((c) => <li>{c.href ? <a href={c.href}>{c.label}</a> : <span aria-current="page">{c.label}</span>}</li>)}
+          </ol>
+        </nav>
+      )}
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>Slides © Dutch Uncle John. Shown exactly as in the original PDFs. <a href="/about/">About this library &amp; credits</a> · <a href="/help/">How to use this site</a></p>
+      </div>
+    </footer>
+    <script>
+      import "../scripts/site.ts";
+    </script>
+  </body>
+</html>

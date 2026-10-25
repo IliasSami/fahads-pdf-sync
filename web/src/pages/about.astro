@@ -1,0 +1,23 @@
+---
+import Base from "../layouts/Base.astro";
+import { DECKS, SLIDES, ENTITIES, PICTURES } from "../lib/data.ts";
+---
+<Base title="About this library" crumbs={[{ label: "About" }]}>
+  <h1>About this library</h1>
+  <p class="lead">{DECKS.length} lessons and {SLIDES.length.toLocaleString()} slides by Dutch Uncle John, shown exactly as in the original PDF files, made searchable and connected.</p>
+  <h2>How it works</h2>
+  <ul>
+    <li>Every slide was turned into a sharp image from the original PDF, so nothing about its look, colours, Hebrew or Greek has changed.</li>
+    <li>The words on every slide were read and checked: Hebrew and Greek Bible quotations were compared letter by letter with standard editions of the Bible text, and gematria sums were re-added.</li>
+    <li>The lessons are linked through {ENTITIES.length.toLocaleString()} connections — Bible verses, Hebrew and Greek words, letters, numbers, people, places, topics — and {PICTURES.length} pictures are described so they can be found by searching.</li>
+    <li>Search runs inside your own browser. Nothing you type is sent anywhere, and there are no accounts, cookies or tracking.</li>
+  </ul>
+  <h2>Credits</h2>
+  <ul>
+    <li>Lessons and slides: Dutch Uncle John. All rights reserved by the author.</li>
+    <li>Hebrew Bible text and Strong's lexicons: <a href="https://www.stepbible.org" rel="noopener">STEPBible.org</a> — Translators Amalgamated Hebrew OT, Greek NT and Brief Lexicons, Tyndale House Cambridge, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">CC BY 4.0</a>.</li>
+    <li>Bible cross-references: <a href="https://www.openbible.info/labs/cross-references/" rel="noopener">OpenBible.info</a>, CC BY.</li>
+    <li>English verse text on the Bible Verses pages: King James Version (public domain).</li>
+    <li>Fonts: Atkinson Hyperlegible (Braille Institute), Frank Ruhl Libre, Gentium Book Plus — SIL Open Font License.</li>
+  </ul>
+</Base>

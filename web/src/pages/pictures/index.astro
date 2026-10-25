@@ -1,0 +1,39 @@
+---
+import Base from "../../layouts/Base.astro";
+import { PICTURES, SLIDES, deckBySlug, slideUrl } from "../../lib/data.ts";
+const KIND: Record<string, string> = {
+  painting: "art", engraving: "art", drawing: "art", illustration: "art", cartoon: "cartoon", photo: "photo", screenshot: "photo",
+  map: "map", diagram: "diagram", chart: "diagram", calendar: "diagram", "table-image": "diagram", grid: "diagram",
+  pictograph: "letters", symbol: "letters", icon: "cartoon", logo: "cartoon", "video-still": "video",
+};
+const FILTERS = [["", "All"], ["art", "Paintings & drawings"], ["photo", "Photos"], ["map", "Maps"], ["diagram", "Charts & diagrams"],
+  ["letters", "Letter pictures"], ["cartoon", "Cartoons & logos"], ["video", "Video stills"]] as const;
+const pics = PICTURES.filter((p) => !p.same.length || p.id <= p.same.slice().sort()[0]);   // show each repeated picture once
+---
+<Base title="Pictures" nav="pictures" crumbs={[{ label: "Pictures" }]}>
+  <h1>Pictures</h1>
+  <p class="lead">Every picture used in the lessons: paintings, photos, maps, charts and more. Tap a picture to see the slide it is on.</p>
+  <label for="pf" class="visually-hidden">Filter pictures</label>
+  <input class="filter-input" id="pf" type="search" placeholder="Type to filter, e.g. Doré, Jerusalem, ark, dove" data-filter=".pic-grid > a" />
+  <div class="filter-row" role="group" aria-label="Kind of picture">
+    {FILTERS.map(([k, label], i) => <button type="button" data-type={k} aria-pressed={i === 0 ? "true" : "false"}>{label}</button>)}
+  </div>
+  <p class="muted">Showing <span data-count-for>{pics.length}</span> pictures.</p>
+  <div class="pic-grid">
+    {pics.map((p) => {
+      const s = SLIDES[p.slide];
+      const d = deckBySlug.get(s.deck)!;
+      const label = p.type === "video-still" ? "Video still" : p.type[0].toUpperCase() + p.type.slice(1);
+      return (
+        <a class="card pic-tile" href={`${slideUrl(s)}#pic-${p.k}`} data-type={KIND[p.type] ?? "diagram"}
+          data-text={[p.description, p.type, p.credit ?? "", ...p.subjects, p.text, d.title].join(" ").toLowerCase()}>
+          <span class="frame"><img src={p.src} width={p.w} height={p.h} loading="lazy" decoding="async" alt={p.description} /></span>
+          <span class="body"><strong>{label}{p.credit ? ` — ${p.credit}` : ""}</strong>{d.title}, slide {s.n}{p.same.length > 0 && ` · used ${p.same.length + 1} times`}</span>
+        </a>
+      );
+    })}
+  </div>
+  <script>
+    import "../../scripts/filter.ts";
+  </script>
+</Base>

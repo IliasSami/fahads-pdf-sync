@@ -1,0 +1,34 @@
+---
+import Base from "../layouts/Base.astro";
+---
+<Base title="Search" nav="search" crumbs={[{ label: "Search" }]}>
+  <div id="search-app" aria-live="polite">
+    <h1 id="results-title">Search</h1>
+    <p id="status" class="lead">Type what you are looking for in the search box above and press <strong>Search</strong>.</p>
+    <div id="did-you-mean"></div>
+    <div id="kcard"></div>
+    <div id="refs"></div>
+    <div id="ents"></div>
+    <div class="tabs" role="tablist" id="tabs" hidden>
+      <button type="button" role="tab" id="tab-all" aria-selected="true" aria-controls="panel-all">All results</button>
+      <button type="button" role="tab" id="tab-pics" aria-selected="false" aria-controls="panel-pics">Pictures</button>
+    </div>
+    <div id="panel-all" role="tabpanel" aria-labelledby="tab-all"><div class="result-list" id="results"></div></div>
+    <div id="panel-pics" role="tabpanel" aria-labelledby="tab-pics" hidden><div class="pic-grid" id="pics"></div></div>
+    <p style="margin-top:20px"><button class="btn secondary" type="button" id="more" hidden>Show more results</button></p>
+    <div id="tips" class="card" style="padding:18px 20px;margin-top:28px">
+      <h2 style="margin-top:0">Search tips</h2>
+      <ul>
+        <li>Type a Bible verse like <a href="/search/?q=Genesis%2022%3A13">Genesis 22:13</a> or <a href="/search/?q=gen%204">gen 4</a>.</li>
+        <li>Type a name or idea: <a href="/search/?q=Isaac">Isaac</a>, <a href="/search/?q=red%20heifer">red heifer</a>, <a href="/search/?q=blood">blood</a>.</li>
+        <li>Hebrew or Greek words work too, with or without vowel points: <a href="/search/?q=%D7%90%D7%95%D7%A8">אור</a>, <a href="/search/?q=logos">logos</a>.</li>
+        <li>Looking for a picture? Try <a href="/search/?q=Dor%C3%A9%20engraving">Doré engraving</a> or <a href="/search/?q=map">map</a>, then choose <strong>Pictures</strong>.</li>
+        <li>Spelling does not have to be perfect.</li>
+      </ul>
+    </div>
+    <noscript><p class="notice">Search needs JavaScript. You can still browse <a href="/lessons/">Lessons</a>, <a href="/verses/">Bible Verses</a> and <a href="/topics/">Topics</a>.</p></noscript>
+  </div>
+  <script>
+    import "../scripts/search-page.ts";
+  </script>
+</Base>

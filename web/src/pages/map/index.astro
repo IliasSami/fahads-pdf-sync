@@ -1,0 +1,40 @@
+---
+// "Map of ideas" — explore the knowledge graph step by step. Each tap opens a new column with what the chosen
+// group or idea is connected to, joined to it by lines (an expandable / collapsible mind map). Data:
+// public/data/explore.json (scripts/build-explore.ts). The first column is rendered here so the page shows at once.
+import Base from "../../layouts/Base.astro";
+import MapTabs from "../../components/MapTabs.astro";
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
+const groups = JSON.parse(readFileSync(join(process.cwd(), "src/data/groups.json"), "utf8")) as { name: string; icon: string; about: string; color: string }[];
+const version = JSON.parse(readFileSync(join(process.cwd(), "src/data/explore-version.json"), "utf8")).hash;
+---
+<Base title="Map of ideas" nav="map" crumbs={[{ label: "Map of ideas" }]}
+  description="Explore how the people, places and ideas in the lessons are connected.">
+  <h1>Map of ideas</h1>
+  <MapTabs current="explore" />
+  <p class="lead">Everything in the lessons is connected. <strong>Tap a group</strong> to open it, then <strong>tap any name</strong> to see
+    what it is connected to. Each tap opens a new column, joined by lines. Tap a name again to close it.</p>
+  <nav id="mm-trail" class="mm-trail" aria-label="Where you are on the map" hidden></nav>
+  <div id="mm" class="mm" data-src={`/data/explore.json?v=${version}`}>
+    <div id="mm-cols" class="mm-cols">
+      <svg id="mm-lines" class="mm-lines" aria-hidden="true"></svg>
+      <section class="mm-col is-last" aria-labelledby="mm-h0">
+        <h2 id="mm-h0" class="mm-head">Groups of related ideas</h2>
+        <ul class="mm-list">
+          {groups.map((g, i) => (
+            <li><button type="button" class="mm-item" data-group={i} aria-expanded="false" style={`--c:${g.color}`}>
+              <span class="mm-icon" aria-hidden="true">{g.icon}</span>
+              <span class="mm-text"><span class="mm-label">{g.name}</span><span class="mm-meta">{g.about}</span></span>
+            </button></li>
+          ))}
+        </ul>
+      </section>
+    </div>
+  </div>
+  <p id="mm-status" class="visually-hidden" aria-live="polite"></p>
+  <noscript><p class="notice">This map needs JavaScript. Try the <a href="/map/outline/">Outline</a> instead — it works everywhere.</p></noscript>
+  <script>
+    import "../../scripts/map-explore.ts";
+  </script>
+</Base>

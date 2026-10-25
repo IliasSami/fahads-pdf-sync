@@ -1,0 +1,91 @@
+---
+import Base from "../layouts/Base.astro";
+import SlideCard from "./SlideCard.astro";
+import EgoGraph from "./EgoGraph.astro";
+import { DECKS, SLIDES, TYPE_NAMES, LANGUAGE_NAMES, connected, type Entity } from "../lib/data.ts";
+interface Props { e: Entity; section: { label: string; href: string } }
+const { e, section } = Astro.props;
+const typeName = TYPE_NAMES[e.type]?.[0] ?? "Topic";
+const links = connected(e, 14);
+// slides grouped by lesson (lessons in site order, slides in reading order); a slide that is built up step by step
+// over several slides is shown once, with a note
+const byDeck = DECKS.map((d) => {
+  const all = e.slides.filter((i) => SLIDES[i].deck === d.slug).sort((a, b) => SLIDES[a].n - SLIDES[b].n);
+  const groups = new Map<number, number[]>();
+  for (const i of all) { const g = groups.get(SLIDES[i].group) ?? []; g.push(i); groups.set(SLIDES[i].group, g); }
+  const items = [...groups.values()].map((g) => ({ i: g[0], steps: g.length, last: SLIDES[g[g.length - 1]].n }));
+  return { d, total: all.length, items };
+}).filter((g) => g.items.length);
+const SHOW = 8;
+const names = Object.entries(e.names ?? {}).filter(([, l]) => l.length);
+const LANG_ATTR: Record<string, string> = { he: "he", el: "el", ar: "ar", ru: "ru", es: "es", pt: "pt", fr: "fr", de: "de" };
+const isLatin = (n: string) => /^[\p{Script=Latin}\s'’.-]+$/u.test(n);
+const isHe = e.lang === "he" || (e.type === "letter" && !e.id.includes("el-"));
+const big = e.type === "word" ? e.label : e.type === "letter" ? e.char : undefined;
+const glosses = e.gloss.filter(Boolean).slice(0, 6);
+const translit = e.translit.filter(Boolean).slice(0, 4);
+const gem = e.gematria ? Object.entries(e.gematria) : [];
+---
+<Base title={e.label} nav={section.href === "/words/" ? "words" : "topics"} crumbs={[section, { label: e.label }]}>
+  <p class="muted" style="margin:0">{typeName}</p>
+  <h1>
+    {big ? <span lang={isHe ? "he" : e.lang === "el" ? "el" : undefined} style="font-size:1.6em">{big}</span> : e.label}
+    {e.type === "letter" && <span> — {e.label}</span>}
+  </h1>
+  {translit.length > 0 && <p class="lead"><span class="translit">{translit.join(" · ")}</span></p>}
+  {glosses.length > 0 && <p class="lead"><strong>Meaning:</strong> {glosses.join("; ")}</p>}
+  {e.value !== undefined && <p class="lead"><strong>Number value:</strong> {e.value}</p>}
+  {gem.length > 0 && <p class="lead"><strong>Gematria shown in the lessons:</strong> {gem.map(([m, v]) => <a href={`/numbers/${v}/`}>{v}</a>)} </p>}
+  {e.brief && <p class="lead">{e.brief}</p>}
+  {e.aliases.length > 0 && e.type !== "word" && <p class="muted">Also called: {e.aliases.slice(0, 8).join(", ")}</p>}
+  {names.length > 0 && (
+    <details class="knames card" style="padding:6px 16px 10px;margin:8px 0 14px">
+      <summary><strong>Names in other languages</strong>&nbsp;<span class="muted">({names.map(([l]) => LANGUAGE_NAMES[l]?.split(" ")[0] ?? l).join(", ")})</span></summary>
+      <dl>
+        {names.map(([l, list]) => (
+          <div class="kname"><dt>{LANGUAGE_NAMES[l] ?? l}</dt>
+            <dd>{[...new Set(list)].map((n, k) => <>{k > 0 && " · "}<span lang={isLatin(n) ? undefined : LANG_ATTR[l]} dir="auto">{n}</span></>)}</dd></div>
+        ))}
+      </dl>
+      <p class="small muted" style="margin:6px 0 0">Searching for any of these names finds {e.label}.</p>
+    </details>
+  )}
+  {e.strongs && (
+    <div class="card" style="padding:16px 18px;margin:12px 0">
+      <p style="margin:0 0 6px"><strong>Strong's {e.strongs}</strong>{e.lemma && <> · dictionary form <span lang={e.lang === "el" ? "el" : "he"}>{e.lemma}</span></>}</p>
+      {e.definition && <p class="small" style="margin:0">{e.definition}</p>}
+      <p class="small muted" style="margin:6px 0 0">Lexicon: STEPBible.org (CC BY 4.0)</p>
+    </div>
+  )}
+  <p class="lead">Found on <strong>{e.slides.length}</strong> slide{e.slides.length === 1 ? "" : "s"} in <strong>{byDeck.length}</strong> lesson{byDeck.length === 1 ? "" : "s"}.</p>
+
+  {links.length > 1 && (
+    <section class="section" aria-labelledby="conn">
+      <h2 id="conn">Connected in the lessons</h2>
+      <p class="muted">These often appear on the same slides as {e.label}. Tap one to explore it.</p>
+      <EgoGraph center={e} links={links} />
+      {links.length > 10 && (
+        <>
+          <p class="klabel" style="margin-top:16px">More connections:</p>
+          <ul class="chips">
+            {links.slice(10).map(([o, c]) => <li><a class="chip" href={o.url}>{o.label}<span class="k">{TYPE_NAMES[o.type]?.[0]}</span><span class="n">{c}</span></a></li>)}
+          </ul>
+        </>
+      )}
+      {e.slides.length >= 2 && <p style="margin-top:14px"><a href={`/map/?focus=${encodeURIComponent(e.id)}`}><span aria-hidden="true">🧭</span> Explore {e.label} on the map of ideas →</a></p>}
+    </section>
+  )}
+
+  {byDeck.map(({ d, total, items }) => (
+    <section class="section">
+      <h2>{d.title} <span class="muted small">({total} slide{total === 1 ? "" : "s"})</span></h2>
+      <div class="grid">{items.slice(0, SHOW).map((x) => <SlideCard index={x.i} showDeck={false} why={x.steps > 1 ? `Shown in ${x.steps} steps: slides ${SLIDES[x.i].n}–${x.last}` : undefined} />)}</div>
+      {items.length > SHOW && (
+        <details class="more-slides">
+          <summary class="btn secondary">Show {items.length - SHOW} more from this lesson</summary>
+          <div class="grid" style="margin-top:14px">{items.slice(SHOW).map((x) => <SlideCard index={x.i} showDeck={false} why={x.steps > 1 ? `Shown in ${x.steps} steps: slides ${SLIDES[x.i].n}–${x.last}` : undefined} />)}</div>
+        </details>
+      )}
+    </section>
+  ))}
+</Base>

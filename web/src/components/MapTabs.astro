@@ -1,0 +1,20 @@
+---
+// The three ways to look at the knowledge graph, as big tabs.
+interface Props { current: "explore" | "outline" | "story" }
+const { current } = Astro.props;
+const tabs = [
+  ["explore", "/map/", "🧭", "Explore step by step", "Tap to follow the connections"],
+  ["outline", "/map/outline/", "📋", "Outline", "Every group and topic in a list you can open and close"],
+  ["story", "/map/story/", "📖", "Story of the lessons", "How the ideas flow from lesson to lesson"],
+] as const;
+---
+<nav class="maptabs" aria-label="Ways to see the map of ideas">
+  <ul>
+    {tabs.map(([id, href, icon, label, hint]) => (
+      <li><a href={href} aria-current={current === id ? "page" : undefined}>
+        <span class="maptab-icon" aria-hidden="true">{icon}</span>
+        <span><strong>{label}</strong><span class="maptab-hint">{hint}</span></span>
+      </a></li>
+    ))}
+  </ul>
+</nav>

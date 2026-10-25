@@ -1,0 +1,15 @@
+# generated
+web/node_modules/
+web/dist/
+web/.wrangler/
+web/.astro/
+ingest/.venv/
+ingest/work/master/
+ingest/work/read/
+ingest/work/zoom/
+ingest/work/scratch/
+refdata/*.txt
+refdata/*.json
+refdata/*.zip
+*.DS_Store
+.claude/

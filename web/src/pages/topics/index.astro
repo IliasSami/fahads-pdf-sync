@@ -1,0 +1,31 @@
+---
+import Base from "../../layouts/Base.astro";
+import { ENTITIES } from "../../lib/data.ts";
+const groups: [string, string[]][] = [
+  ["People", ["person"]], ["Places", ["place"]], ["Events", ["event"]], ["Big ideas", ["theme"]],
+  ["Things", ["thing"]], ["Groups of people", ["group"]], ["Artists", ["artist"]],
+];
+const lists = groups.map(([title, types]) => [title, ENTITIES.filter((e) => types.includes(e.type)).sort((a, b) => b.slides.length - a.slides.length || a.label.localeCompare(b.label))] as const)
+  .filter(([, l]) => l.length);
+const SHOW = 40;   // the most-mentioned first; the rest behind a button (the filter box always searches all of them)
+---
+<Base title="People & Topics" nav="topics" crumbs={[{ label: "People & Topics" }]}>
+  <h1>People &amp; Topics</h1>
+  <p class="lead">People, places, events and big ideas from the lessons. The number shows how many slides mention each one. The most-mentioned come first.</p>
+  <p><a class="btn secondary" href="/map/">🧭 See how they connect: the map of ideas</a></p>
+  <label for="tf" class="visually-hidden">Filter</label>
+  <input class="filter-input" id="tf" type="search" placeholder="Type to filter, e.g. Abraham, temple, sacrifice" data-filter=".topic-chips li" />
+  <p class="small" style="margin-top:10px">Jump to: {lists.map(([t], i) => <>{i > 0 && " · "}<a href={`#${t.toLowerCase().replace(/ /g, "-")}`}>{t}</a></>)}</p>
+  {lists.map(([title, list]) => (
+    <section class="section collapsible-list" id={title.toLowerCase().replace(/ /g, "-")}>
+      <h2>{title} <span class="muted small">({list.length})</span></h2>
+      <ul class="chips topic-chips">
+        {list.map((e, k) => <li class={k >= SHOW ? "extra" : undefined} data-text={[e.label, ...e.aliases, ...Object.values(e.names ?? {}).flat()].join(" ").toLowerCase()}><a class="chip" href={e.url}>{e.label}<span class="n">{e.slides.length}</span></a></li>)}
+      </ul>
+      {list.length > SHOW && <button type="button" class="btn secondary show-all-btn">Show all {list.length} {title.toLowerCase()}</button>}
+    </section>
+  ))}
+  <script>
+    import "../../scripts/filter.ts";
+  </script>
+</Base>

@@ -1,0 +1,17 @@
+---
+import Base from "../../layouts/Base.astro";
+import { DECKS, SLIDES, slideImg } from "../../lib/data.ts";
+const firstSlide = (slug: string) => SLIDES.find((s) => s.deck === slug && s.n === 1)!;
+---
+<Base title="Lessons" nav="lessons" crumbs={[{ label: "Lessons" }]}>
+  <h1>Lessons</h1>
+  <p class="lead">{DECKS.length} lessons with {SLIDES.length.toLocaleString()} slides. Choose a lesson to see all of its slides.</p>
+  <div class="grid wide">
+    {DECKS.map((d) => (
+      <a class="card slide-card" href={`/lessons/${d.slug}/`}>
+        <img src={slideImg(firstSlide(d.slug), 960)} width="960" height="540" loading="lazy" alt="" />
+        <span class="body"><span class="title">{d.title}</span><span class="where">{d.count} slides</span></span>
+      </a>
+    ))}
+  </div>
+</Base>
